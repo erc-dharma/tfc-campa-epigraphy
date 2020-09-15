@@ -68,7 +68,7 @@
                                 <placeName type="modern" ref="cic-geo:my-son">Mỹ Sơn</placeName>
                             </origPlace>                            
                             <origDate>
-                            <date calendar="Julian" notBefore="400" notAfter="500">This is one of the oldest inscriptions of Campā, datable on paleographic grounds to a period not later than the 5<hi rend="superscript">th</hi> century.</date>  
+                            <date calendar="Julian" notBefore="0400" notAfter="0500">This is one of the oldest inscriptions of Campā, datable on paleographic grounds to a period not later than the 5<hi rend="superscript">th</hi> century.</date>  
                              </origDate>
                         </origin>
                         <provenance type="found" notAfter="1900">
@@ -79,8 +79,7 @@
                             </ab>
                         </provenance>
                 		<provenance type="observed" when="1910">
-                        <ab>It was finally moved to the EFEO's new Museum in Hanoi in 1910. Its inventory number <ptr target="#inv-efeo-hanoi"/> at that Museum was published in <bibl><ptr                                 target="cic-bibl:finot-1915a"/>: <biblScope>5</biblScope></bibl>; whence, in the inventory of Campā inscriptions published in 1923, this local number was included under the entry <ptr target="#inv-general"/> (<ptr                                   target="cic-bibl:coedes-1923"/>).</ab>
-                            </ab>
+                        <ab>It was finally moved to the EFEO's new Museum in Hanoi in 1910. Its inventory number <ptr target="#inv-efeo-hanoi"/> at that Museum was published in <bibl><ptr target="cic-bibl:finot-1915a"/>: <biblScope>5</biblScope></bibl>; whence, in the inventory of Campā inscriptions published in 1923, this local number was included under the entry <ptr target="#inv-general"/> (<ptr target="cic-bibl:coedes-1923"/>).</ab>
                         </provenance>
                        <provenance type="observed" notBefore="2009">
                             <ab>We identified it in the Bảo Tàng Lịch Sử Việt Nam (National Museum of Vietnamese History) at Hanoi in 2009 and following years, as the one bearing inventory number <ptr target="#inv-btls-qg"/>. The Museum assumed the new name Bảo Tàng Lịch Sử Quốc Gia (National Museum of History) in 2011, but this did not entail a change in the inventory number.</ab>   
@@ -187,7 +186,7 @@
 <lb n="B3"/>dharmma<supplied reason="omitted">ḥ</supplied> syād iti ; bhūyo vijñā<supplied reason="omitted">pa</supplied>yāmi<!-- supply tam here? I had a note to vijñāpayāmi: " It is also necessary to restore <foreign>yam</foreign> after this verb form." But I don't understand now why I wanted yam and not tam. -->; ya Iha prabhavati; Ete deva-m<supplied reason="lost">u</supplied><unclear>ṣṭ</unclear>i-kārakāḥ <supplied reason="lost">te</supplied><lb 
 n="B4" break="no"/><supplied reason="lost">ṣā</supplied>ṅ karmma na kārayitavyaṁ; syāc cora-bhaya<unclear>ṁ</unclear> skandhāvāra-<choice><sic>tva</sic><corr>du</corr></choice>ritaṁ vā rāja-kula-kāryyam anuṣṭheya<supplied reason="lost">M</supplied> <gap reason="lost" quantity="2" unit="character"/> 
 <lb n="B5"/><unclear>macaguro</unclear> 'smākaṁ rājānaM; yat kiñ cit puṣpa-phalaṅ gr̥hyaṁ pādeṣu p<choice><sic>a</sic><corr>ā</corr></choice>ditavyam iti 
-<lb n="B6"/>me mahila-putra-nat<unclear>r</unclear>̥ka-pana<unclear>tr̥</unclear>ka-jāmāduko vā vijñāpayāmi; ya<choice><sic>ṁ</orig><corr>n</corr></choice> mayā kr̥ta<lb n="B7" break="no"/><supplied reason="lost">m a</supplied>nupālaye<unclear>ta</unclear> vaḥ; Iha paratra ca; ma<unclear>ma ka</unclear>rmma-<unclear>pha</unclear>laṁ bhaviṣyati; tubh<unclear>y</unclear>aṁ prabhāva<lb n="B8" break="no"/><gap reason="lost" quantity="16" unit="character" precision="low"/> 
+<lb n="B6"/>me mahila-putra-nat<unclear>r</unclear>̥ka-pana<unclear>tr̥</unclear>ka-jāmāduko vā vijñāpayāmi; ya<choice><sic>ṁ</sic><corr>n</corr></choice> mayā kr̥ta<lb n="B7" break="no"/><supplied reason="lost">m a</supplied>nupālaye<unclear>ta</unclear> vaḥ; Iha paratra ca; ma<unclear>ma ka</unclear>rmma-<unclear>pha</unclear>laṁ bhaviṣyati; tubh<unclear>y</unclear>aṁ prabhāva<lb n="B8" break="no"/><gap reason="lost" quantity="16" unit="character" precision="low"/> 
 Ahannisvāret<unclear>o</unclear>; dharmmo bhaviṣyati 
 <lb n="B9"/><unclear>ya Anu</unclear>pālayati tasyaiṣa dharmmo yo nānupāla<supplied reason="omitted">ya</supplied>ti; mā vināśayatu; Atha vināśayati 
 <lb n="B10"/>tasya bhadreśvarasvām<choice><sic>i</sic><corr>ī</corr></choice> jānāti</p>
@@ -200,7 +199,8 @@ Ahannisvāret<unclear>o</unclear>; dharmmo bhaviṣyati
                     </app>
                     <app loc="incipit">
                         <lem><pc type="spiral">☉</pc> svasti</lem>
-                        <note>Finot omits the spiral-shaped fleuron and inserts after <foreign>svasti</foreign> the sign <pc>||</pc> which is not actually there.</note> </app> 
+                        <note>Finot omits the spiral-shaped fleuron and inserts after <foreign>svasti</foreign> the sign <pc>||</pc> which is not actually there.</note>
+	</app> 
                     <app loc="I">
                         <lem>s<unclear>a</unclear>sureśamukhyā</lem>
                         <note>the reading with short <foreign>a</foreign> in <foreign>sa</foreign> is uncertain. Judging only by the estampage, one might be inclined to read <foreign>sā</foreign>, but this would be unmetrical. See the note to our translation.</note>
@@ -220,6 +220,7 @@ Ahannisvāret<unclear>o</unclear>; dharmmo bhaviṣyati
 <app>
 <lem>ākatham apa<unclear>ḥ</unclear></lem>
 <note>understand <foreign>ākāśam āpaḥ</foreign> with Finot. The akṣaras <foreign>tha</foreign> and <foreign>śa</foreign> are sufficiently similar to be confused, but one cannot here read <foreign>śa</foreign> without emendation.</note>
+</app>
 	<app loc="A3">
 	<lem><unclear>jyo</unclear>tiś</lem>
 <note><q>Ce mot est peu distinct sur le fac-simile, mais il est à peu près sûr, d'après l'examen de la pierre</q> Finot.</note>
@@ -325,7 +326,7 @@ Ahannisvāret<unclear>o</unclear>; dharmmo bhaviṣyati
 </app>
 <app loc="B5">
 	<lem>rājānaM</lem>
-	<rdg source="Finot">rājān<unclear>o</ab>..</rdg><!-- encode gap properly -->
+	<rdg source="Finot">rājān<unclear>o</unclear>..</rdg><!-- encode gap properly -->
 </app>
 <app loc="B5">
 	<lem>kiñ cit puṣpa-phalaṅ gr̥hyaṁ pādeṣu p<choice><sic>a</sic><corr>ā</corr></choice>ditavyam</lem>
@@ -335,6 +336,7 @@ Ahannisvāret<unclear>o</unclear>; dharmmo bhaviṣyati
 	<lem>iti <lb n="B6"/>me</lem>
 	<rdg source="Finot">iti <lb n="B6"/><gap reason="illegible"/></rdg>
 	<note>Although no traces of lost akṣaras are visible at the end of line 5 or the beginning of 6, it seems that <foreign>ye</foreign> must possibly be restored between these two words.</note>
+</app>
 <app loc="B6">
 	<lem>-nat<unclear>r</unclear>̥ka-pana<unclear>tr̥</unclear>ka-jāmāduko</lem>
 	<rdg source="Finot"><gap reason="illegible"/></rdg>

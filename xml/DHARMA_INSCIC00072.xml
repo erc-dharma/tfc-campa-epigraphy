@@ -8,9 +8,9 @@
                 <title>Stela from Mỹ Sơn A</title>
                 <respStmt>
                     <resp>EpiDoc Encoding</resp>
-                    <persName ref="part:sapi">
-                        <forename>Salomé</forename>
-                        <surname>Pichon</surname>
+                    <persName ref="part:argr">
+                        <forename>Arlo</forename>
+                        <surname>Griffiths</surname>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -19,16 +19,12 @@
                         <forename>Arlo</forename>
                         <surname>Griffths</surname>
                     </persName>
-                    <persName ref="part:sapi">
-                        <forename>Salomé</forename>
-                        <surname>Pichon</surname>
-                    </persName>
                 </respStmt>
                 <respStmt>
                     <resp>Conversion of encoding for DHARMA</resp>
-                    <persName ref="part:sapi">
-                        <forename>Salomé</forename>
-                        <surname>Pichon</surname>
+                    <persName ref="part:argr">
+                        <forename>Arlo</forename>
+                        <surname>Griffiths</surname>
                     </persName>
                 </respStmt>
             </titleStmt>
@@ -43,7 +39,7 @@
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Arlo Griffiths and Salomé Pichon.</p>
+                        <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
                     </licence>
                 </availability>
                 <date from="2019" to="2025">2019-2025</date>
@@ -127,10 +123,9 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change
-                when="2020-09"
-                who="part:axja"
-                status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
+        	<change when="2020-09-16" who="part:argr" status="draft">adjusted respStmt</change>    
+        <change when="2020-09-16" who="part:axja" status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
+        	<change when="2020-09-15" who="part:argr" status="draft">processed the Campa file (which was unfinished, text and translation being mere copy/paste from a .tex file) to remove all LaTeX tags</change>
         </revisionDesc>
     </teiHeader>
     <facsimile>

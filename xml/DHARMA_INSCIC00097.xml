@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Pedestal at Mỹ Sơn</title>
@@ -105,8 +105,7 @@
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -123,10 +122,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change
-                 when="2020-09-14"
-                 who="part:axja"
-                 status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
+         <change when="2020-09-14" who="part:axja" status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -142,6 +138,6 @@
                <l>sthāpito rājasiṅhena śrīmadvikrāntavarmmaṇā</l>
                <l>vāmeśvarasya kośo yaṁ stheyād ā bhuvanasthiteḥ <g>||</g></l>
             </lg>
-            </div><div type="apparatus"><listApp><app loc="a"><lem>rāja°</lem><note>the estampage seems to show <foreign>rājā</foreign>, which would be unmetrical and very unlikely for a number of other reasons too. Rather than presuming an error, we assume that the stone has suffered slight damage here, so that the impression of an <foreign>ā</foreign>-vocalization after <foreign>j</foreign> given by the estampage is misleading.</note></app><app loc="d"><lem>stheyād</lem><rdg source="bib:Finot">stheyān</rdg><note>The form ending in <foreign>-n</foreign> supposed by Finot (and retained unquestioned by Majumdar) could be interpreted (as the comparative form of the adjective <foreign>sthiraḥ</foreign>), but would be awkward. Cf. also <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00096.xml">C. 96</ref>, st. XXX.</note></app><app loc="d"><lem>||</lem><rdg source="bib:Finot"><space/></rdg></app></listApp></div><div type="translation" xml:lang="eng"><p>This sheath (<foreign>kośa</foreign>) for (the <foreign>liṅga</foreign> of) Vāmeśvara was placed by the illustrious Vikrāntavarman, lion among kings. May it remain as long as will remain the earth! 
+            </div><div type="apparatus"><listApp><app loc="a"><lem>rāja°</lem><note>the estampage seems to show <foreign>rājā</foreign>, which would be unmetrical and very unlikely for a number of other reasons too. Rather than presuming an error, we assume that the stone has suffered slight damage here, so that the impression of an <foreign>ā</foreign>-vocalization after <foreign>j</foreign> given by the estampage is misleading.</note></app><app loc="d"><lem>stheyād</lem><rdg source="bib:Finot">stheyān</rdg><note>The form ending in <foreign>-n</foreign> supposed by Finot (and retained unquestioned by Majumdar) could be interpreted (as the comparative form of the adjective <foreign>sthiraḥ</foreign>), but would be awkward. Cf. also <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00096.xml">C. 96</ref>, st. XXX.</note></app><app loc="d"><lem>||</lem><rdg source="bib:Finot"><space/></rdg></app></listApp></div><div type="translation"><p>This sheath (<foreign>kośa</foreign>) for (the <foreign>liṅga</foreign> of) Vāmeśvara was placed by the illustrious Vikrāntavarman, lion among kings. May it remain as long as will remain the earth! 
                 </p></div><div type="translation" xml:lang="fra"><p>We cite Finot's translation of 1904:</p><p>Par le lion des rois Vikrāntavarman a été érigé ce kośa de Vāmeśvara, inébranlable aussi longtemps que l'existence du monde.</p></div><div type="commentary"><p>This inscription records the installation of a <foreign>liṅga</foreign>-sheath of a Śiva called Vāmeśvara. Finot and Majumdar take this name to be no more than a synonym of Śiva. But in his notes on the inscriptions of Campā, kindly put at our disposal, Alexis Sanderson has observed that it must be the name of the deity of a specific <foreign>liṅga</foreign>, surely that listed with Īśāneśvara, Śambhubhadreśvara and Prabhāseśvara in <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00081.xml">C. 81</ref>, face c, ll. 1-3 (see <bibl><ptr target="bib:CatDaNang"/><citedRange unit="page">227-228</citedRange></bibl>).</p></div><div type="bibliography"><p/><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:parmentier-1909"/><citedRange unit="page">419</citedRange></bibl></listBibl></div></body></text>
 </TEI>

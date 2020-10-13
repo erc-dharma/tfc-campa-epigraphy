@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Rock in the riverbed at Thạch Bích</title>
@@ -100,8 +100,7 @@
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -118,10 +117,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change
-                 when="2020-09-14"
-                 who="part:axja"
-                 status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
+         <change when="2020-09-14" who="part:axja" status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -145,5 +141,5 @@
             <l><lb n="1"/>śrīcampeśvaravijayī <unclear>m</unclear>ahāmatiś śrī<lb n="2" break="no"/>prakāśadharmmeti</l> 
             <l>sthāpitavān amareśa<unclear>ṁ</unclear> mahā<gap reason="illegible" extent="4-5" unit="character"/></l>
             </lg>
-         </div><div type="apparatus"><listApp><app loc="a"><lem>śrīcampeśvara°</lem><rdg source="bib:Huber">śrī campeśvaro</rdg></app><app loc="b"><lem><unclear>m</unclear>ahāmatiś śrī°</lem><rdg source="bib:Huber">mahīpati ... śrī</rdg></app><app loc="b"><lem>amareśa<unclear>ṁ</unclear> mahā<gap reason="illegible" extent="4-5" unit="character"/></lem><rdg source="bib:Huber">amareśam iha ...</rdg></app></listApp></div><div type="translation" xml:lang="eng"><p>The illustrious conqueror, king of Campā, of great wisdom, called Śrī Prakāśadharman, has established Amareśa, the great...</p></div><div type="translation" xml:lang="fra"><p>L'illustre conquérant, roi du Campā, de grande sagesse, appelé Śrī Prakāśadharman, a établi Amareśa, le grand ...</p></div><div type="commentary"><p>It was not recognized by Huber that the inscription is metrical. Insufficient materials are at our disposal at this time to establish the whole text, but what is clear is that it concerns the erection of Amareśa, no doubt a <foreign>liṅga</foreign> of Śiva. Cf. <bibl><ptr target="bib:bisschop-2006"/><citedRange unit="page">33 with n. 79</citedRange></bibl></p></div><div type="bibliography"><p>First published, with French translation, in <bibl><ptr target="bib:huber-1911"/><citedRange unit="page">261</citedRange></bibl>; whence, with English translation, in <bibl><ptr target="bib:majumdar-1927"/><citedRange unit="page">15</citedRange></bibl>, whence <bibl><ptr target="bib:golzio-2004"/><citedRange unit="page">10</citedRange></bibl> Re-edited from the inked EFEO estampages and available photos, with new translation, in <bibl><ptr target="bib:ECIC-V"/><citedRange unit="page">427-428</citedRange></bibl>, whence the present edition.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:parmentier-1918"/><citedRange unit="page">439 and 587</citedRange></bibl></listBibl></div></body></text>
+         </div><div type="apparatus"><listApp><app loc="a"><lem>śrīcampeśvara°</lem><rdg source="bib:Huber">śrī campeśvaro</rdg></app><app loc="b"><lem><unclear>m</unclear>ahāmatiś śrī°</lem><rdg source="bib:Huber">mahīpati ... śrī</rdg></app><app loc="b"><lem>amareśa<unclear>ṁ</unclear> mahā<gap reason="illegible" extent="4-5" unit="character"/></lem><rdg source="bib:Huber">amareśam iha ...</rdg></app></listApp></div><div type="translation"><p>The illustrious conqueror, king of Campā, of great wisdom, called Śrī Prakāśadharman, has established Amareśa, the great...</p></div><div type="translation" xml:lang="fra"><p>L'illustre conquérant, roi du Campā, de grande sagesse, appelé Śrī Prakāśadharman, a établi Amareśa, le grand ...</p></div><div type="commentary"><p>It was not recognized by Huber that the inscription is metrical. Insufficient materials are at our disposal at this time to establish the whole text, but what is clear is that it concerns the erection of Amareśa, no doubt a <foreign>liṅga</foreign> of Śiva. Cf. <bibl><ptr target="bib:bisschop-2006"/><citedRange unit="page">33 with n. 79</citedRange></bibl></p></div><div type="bibliography"><p>First published, with French translation, in <bibl><ptr target="bib:huber-1911"/><citedRange unit="page">261</citedRange></bibl>; whence, with English translation, in <bibl><ptr target="bib:majumdar-1927"/><citedRange unit="page">15</citedRange></bibl>, whence <bibl><ptr target="bib:golzio-2004"/><citedRange unit="page">10</citedRange></bibl> Re-edited from the inked EFEO estampages and available photos, with new translation, in <bibl><ptr target="bib:ECIC-V"/><citedRange unit="page">427-428</citedRange></bibl>, whence the present edition.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:parmentier-1918"/><citedRange unit="page">439 and 587</citedRange></bibl></listBibl></div></body></text>
 </TEI>

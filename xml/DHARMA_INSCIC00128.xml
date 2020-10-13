@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Statue of a male figure from Đại Hữu</title>
@@ -101,8 +101,7 @@
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -119,10 +118,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change
-                 when="2020-09-14"
-                 who="part:axja"
-                 status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
+         <change when="2020-09-14" who="part:axja" status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -139,5 +135,5 @@
                 <ab> 
                     <lb n="1"/> svasti
                 </ab>
-            </div><div type="translation" xml:lang="eng"><p><foreign>Om</foreign>. Homage to Śiva. Hail!</p></div><div type="translation" xml:lang="fra"><p><foreign>Om</foreign>. Hommage à Śiva. Salut!</p></div><div type="commentary"><p>This is not the only instance of an unfinished inscription, see <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00224.xml">C. 224</ref>.</p></div><div type="bibliography"><p>Previously unpublished.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:boisselier-1963"/><citedRange unit="page">384-385</citedRange></bibl><bibl><ptr target="bib:ECIC-III"/><citedRange unit="page">475 and 476</citedRange></bibl></listBibl></div></body></text>
+            </div><div type="translation"><p><foreign>Om</foreign>. Homage to Śiva. Hail!</p></div><div type="translation" xml:lang="fra"><p><foreign>Om</foreign>. Hommage à Śiva. Salut!</p></div><div type="commentary"><p>This is not the only instance of an unfinished inscription, see <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00224.xml">C. 224</ref>.</p></div><div type="bibliography"><p>Previously unpublished.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:boisselier-1963"/><citedRange unit="page">384-385</citedRange></bibl><bibl><ptr target="bib:ECIC-III"/><citedRange unit="page">475 and 476</citedRange></bibl></listBibl></div></body></text>
 </TEI>

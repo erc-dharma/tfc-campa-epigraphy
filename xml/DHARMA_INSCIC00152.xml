@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Rāmāyaṇa Relief presumably from Quảng Nam</title>
@@ -110,8 +110,7 @@
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -128,10 +127,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change
-                 when="2020-09-14"
-                 who="part:axja"
-                 status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
+         <change when="2020-09-14" who="part:axja" status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -153,7 +149,7 @@
                     <ab>praha<unclear>raṇa</unclear></ab>
                 </div>
                 <!-- AG: I have applied changed to the structure of this edition, using textparts and heads, like in C. 223, but here both textparts are included in a single <div type="edition">. Let's see what the difference is in the html, if any. -->
-                </div><div type="translation" xml:lang="eng"><p>Army of monkeys in the middle of the city of Laṅkā...hurling.</p></div><div type="translation" xml:lang="fra"><p>Armée des singes au milieu de la ville à Laṅka...enlèvement.</p></div><div type="bibliography"><p>First published in <bibl><ptr target="bib:ECIC-III"/><citedRange unit="page">449</citedRange></bibl>; republished, with <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00157.xml">C. 157</ref>, in our <bibl><ptr target="bib:CatDaNang"/><citedRange unit="page">237-239</citedRange></bibl>.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><!-- <bibl><ptr target="cic-bibl:parmentier-1909"/>: <biblScope>192 and 572</biblScope>.</bibl>
+                </div><div type="translation"><p>Army of monkeys in the middle of the city of Laṅkā...hurling.</p></div><div type="translation" xml:lang="fra"><p>Armée des singes au milieu de la ville à Laṅka...enlèvement.</p></div><div type="bibliography"><p>First published in <bibl><ptr target="bib:ECIC-III"/><citedRange unit="page">449</citedRange></bibl>; republished, with <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00157.xml">C. 157</ref>, in our <bibl><ptr target="bib:CatDaNang"/><citedRange unit="page">237-239</citedRange></bibl>.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><!-- <bibl><ptr target="cic-bibl:parmentier-1909"/>: <biblScope>192 and 572</biblScope>.</bibl>
                      --><!-- <bibl><ptr target="cic-bibl:parmentier-1919"/>: <biblScope>102-103</biblScope>.</bibl>
                     --><!-- <bibl><ptr target="cic-bibl:coedes-1937-1966"/>: <biblScope>311, table II</biblScope>.</bibl>
                     --><bibl><ptr target="bib:boisselier-1963"/><citedRange unit="page">191-192</citedRange></bibl></listBibl></div></body></text>

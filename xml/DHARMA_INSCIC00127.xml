@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Rock at Lệ Cam</title>
@@ -99,8 +99,7 @@
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -117,10 +116,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change
-                 when="2020-09-14"
-                 who="part:axja"
-                 status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
+         <change when="2020-09-14" who="part:axja" status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -152,7 +148,7 @@
                <listApp><app loc="2"><lem>jaya<unclear>ti</unclear></lem><rdg source="bib:Finot">jayadā<supplied reason="lost">naṁ</supplied></rdg><note>This reading was repeated, without square brackets and introducing a new variation (<foreign>prakāśavarmmā</foreign>), in <bibl><ptr target="bib:schweyer-2009a"/><citedRange unit="page">35, note 60</citedRange></bibl>.</note></app></listApp>
             </div>
          </div>
-      <div type="translation" xml:lang="eng">
+      <div type="translation">
          <div type="textpart">
             <head xml:lang="eng">C. 127.1</head><!-- AL: I removed <div type="textpart"> to try to get a left aligned head (as it was in C. 3. 2)--><p>Homage to Śiva. Śrī Prakāśadharmmā triumphs!</p>
          </div>

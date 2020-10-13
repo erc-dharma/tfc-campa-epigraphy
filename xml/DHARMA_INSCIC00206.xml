@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Censer (<hi rend="italic">dhūpādhāra</hi>)</title>
@@ -96,8 +96,7 @@
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -114,10 +113,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change
-                 when="2020-09-14"
-                 who="part:axja"
-                 status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
+         <change when="2020-09-14" who="part:axja" status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -138,7 +134,7 @@
                 <ab>
                     tam imañ ca dhūpādhāraṃ śrīrudravarmmadevo dattavān iti <g>|</g><g type="encircled-circle">⊚</g><g>|</g>
                 </ab>
-            </div><div type="apparatus"><listApp><app><lem>tam imañ ca dhūpādhāraṃ</lem><rdg source="bib:Schweyer">[ta mi ma smam] sahādhāraḥ</rdg><note>There is clearly no <hi rend="italic">visarga</hi> but rather the expected <hi rend="italic">anusvāra</hi>.</note></app><app><lem><g>|</g><g type="encircled-circle">⊚</g><g>|</g></lem><note>The punctuation is not represented by Schweyer.</note></app></listApp></div><div type="translation" xml:lang="eng"><p>And Śrī Rudravarmadeva has given this censer here.</p></div><div type="translation" xml:lang="fra"><p>Et Śrī Rudravarmadeva a donné ce porte-encens-ci.</p></div><!-- <div type="bibliography" subtype="secondary">
+            </div><div type="apparatus"><listApp><app><lem>tam imañ ca dhūpādhāraṃ</lem><rdg source="bib:Schweyer">[ta mi ma smam] sahādhāraḥ</rdg><note>There is clearly no <hi rend="italic">visarga</hi> but rather the expected <hi rend="italic">anusvāra</hi>.</note></app><app><lem><g>|</g><g type="encircled-circle">⊚</g><g>|</g></lem><note>The punctuation is not represented by Schweyer.</note></app></listApp></div><div type="translation"><p>And Śrī Rudravarmadeva has given this censer here.</p></div><div type="translation" xml:lang="fra"><p>Et Śrī Rudravarmadeva a donné ce porte-encens-ci.</p></div><!-- <div type="bibliography" subtype="secondary">
                 <listBibl>
                     <bibl><bibl><ptr target="cic-bibl:lxd-vkl-1996"/>: <biblScope>89</biblScope></bibl> (two photos from other angles than those shown here).</bibl>
                 </listBibl>

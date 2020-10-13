@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title xml:lang="fra">Stela inscription of Phươc Thiện</title>
@@ -105,8 +105,7 @@
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -123,10 +122,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change
-                 when="2020-09-14"
-                 who="part:axja"
-                 status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
+         <change when="2020-09-14" who="part:axja" status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -201,7 +197,7 @@
                             narake patantu
                         </p>
                     </div>
-                   </div><div type="apparatus"><listApp><app loc="V"><lem>udūn</lem><note>read <foreign>uḍūn</foreign>.</note></app><app loc="9"><lem>°rohana°</lem><note>read <foreign>°rohaṇa°</foreign>.</note></app></listApp><!-- AG: these <app>s may need to be split up by textpart. --></div><div type="translation" xml:lang="eng"><p>I. The installation of a sheath for both of them, Śrī Vṛddheśvaranātha and Śrī
+                   </div><div type="apparatus"><listApp><app loc="V"><lem>udūn</lem><note>read <foreign>uḍūn</foreign>.</note></app><app loc="9"><lem>°rohana°</lem><note>read <foreign>°rohaṇa°</foreign>.</note></app></listApp><!-- AG: these <app>s may need to be split up by textpart. --></div><div type="translation"><p>I. The installation of a sheath for both of them, Śrī Vṛddheśvaranātha and Śrī
                     Utpanneśvara, has been carried out by Śrī Satyavarman.</p><p>II. This installation of the liṅga of the Primordial God (Śiva), carried out by
                     him (Satyavarman), has produced glory immaculate like the rays of the moon in
                     autumn.</p><p>III. This pious Śrī Satyavarman has, with great devotion, established Śrī

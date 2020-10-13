@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Pedestal at Mỹ Sơn</title>
@@ -105,8 +105,7 @@
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -123,10 +122,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change
-                 when="2020-09-14"
-                 who="part:axja"
-                 status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
+         <change when="2020-09-14" who="part:axja" status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -148,7 +144,7 @@
                <l><lb n="2"/>ekākṣapiṅgalety eṣa devyā darśśanadūṣitaḥ</l>
                <l>saṁvarddhayatv īśadhanaṁ pāyāc cāhitatas sadā <g>||</g></l>
             </lg>
-         </div><div type="apparatus"><listApp><app loc="IIb"><lem>darśśanadūṣitaḥ</lem><rdg source="bib:Finot">darśanadūṣitaḥ</rdg><note>In conformity with his general practice, Finot here applies silent normalization.</note></app><app loc="IId"><lem>||</lem><rdg source="bib:Finot"><space/></rdg></app></listApp></div><div type="translation" xml:lang="eng"><p>I. The king Prakāśadharman has fashioned [this] place of worship, a mine of riches, for Maheśvara's (i.e. Śiva's) companion Kubera.</p><p>II. Spoiled in [one] eye by the goddess, [such that he became known] as Ekākṣapiṅgala, may he cause the property of the Lord to increase, and may he always protect from what is untoward (<foreign>ahitataḥ</foreign>).
+         </div><div type="apparatus"><listApp><app loc="IIb"><lem>darśśanadūṣitaḥ</lem><rdg source="bib:Finot">darśanadūṣitaḥ</rdg><note>In conformity with his general practice, Finot here applies silent normalization.</note></app><app loc="IId"><lem>||</lem><rdg source="bib:Finot"><space/></rdg></app></listApp></div><div type="translation"><p>I. The king Prakāśadharman has fashioned [this] place of worship, a mine of riches, for Maheśvara's (i.e. Śiva's) companion Kubera.</p><p>II. Spoiled in [one] eye by the goddess, [such that he became known] as Ekākṣapiṅgala, may he cause the property of the Lord to increase, and may he always protect from what is untoward (<foreign>ahitataḥ</foreign>).
                 </p></div><div type="translation" xml:lang="fra"><p>We cite Finot's translation of 1904:</p><p>Ce sanctuaire du compagnon de Maheśvara, Kuvera, mine de richesses, le roi <sic>Prakāśadharma</sic> l'a édifié. Si quelqu'un est affligé d'une maladie d'yeux par la déesse Ekākṣapiṅgalā (la rousse borgne), qu'il augmente les richesses du Seigneur, et (celui-ci) le défendra du mal à jamais.</p></div><div type="commentary"><p>An early version of the myth of Kubera's companionship of Śiva is recounted in the <ref>old Skandapurāṇa</ref>, at 29.169 (see <bibl><ptr target="bib:SP2A"/></bibl>.</p><p>Finot understood <foreign>ekākṣapiṅgalety</foreign> as <foreign>ekākṣapiṅgalā ity</foreign> and noted that the (feminine) evil spirit Ekākṣapiṅgalā was not known to him from any other source. As was seen by Majumdar, it has to be understood as <foreign>ekākṣapiṅgala ity</foreign>, and so the name in question is (masculine) Ekākṣapiṅgala, which is a name of Kubera, e.g. in the <seg type="check"><bibl><ref>Himavatkhaṇḍa</ref></bibl></seg>. He appears as Ekākṣipiṅgala in the <bibl><ref>old Skandapurāṇa</ref></bibl>. That is also the form of the name in <bibl><ref>Rāmāyaṇa</ref><seg type="check">7.13:24,30-31</seg></bibl>, which perhaps gives the earliest known version of the myth. For Vettam Mani's version of the myth, see <bibl><ptr target="bib:mani-1975"/><hi rend="italic">s.v.</hi></bibl>.
                     <!-- I find it in an unpubished ancient Śaiva text, in verse 1.125 of the Guhyasūtra of the <ref>Niśvāsatattvasaṁhitā</ref>. But the context there does seem to throw any light on the present inscription.--> 
                     The sandhi is a bit unusual, but parallels can nevertheless be cited: the Cambodian

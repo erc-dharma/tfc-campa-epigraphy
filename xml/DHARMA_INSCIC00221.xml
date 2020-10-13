@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Boulder from Po Gha cave</title>
@@ -102,8 +102,7 @@
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -120,10 +119,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change
-                 when="2020-09-14"
-                 who="part:axja"
-                 status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
+         <change when="2020-09-14" who="part:axja" status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -140,5 +136,5 @@
                     <lb n="1"/> <g type="encircled-dot">⦿</g> aum̃ li re panrām̃
                     <lb n="2"/> śakarāja 1053
                 </ab>
-            </div><div type="translation" xml:lang="eng"><p><foreign>Om</foreign>. Mr. Li, man (?) of Panrāṅ, [in the year of] the Śaka king 1053.</p></div><div type="translation" xml:lang="fra"><p><foreign>Om</foreign>. M. Li, homme (?) de Panrāṅ, [en l'année] 1053 du roi des Śaka.</p></div></body></text>
+            </div><div type="translation"><p><foreign>Om</foreign>. Mr. Li, man (?) of Panrāṅ, [in the year of] the Śaka king 1053.</p></div><div type="translation" xml:lang="fra"><p><foreign>Om</foreign>. M. Li, homme (?) de Panrāṅ, [en l'année] 1053 du roi des Śaka.</p></div></body></text>
 </TEI>

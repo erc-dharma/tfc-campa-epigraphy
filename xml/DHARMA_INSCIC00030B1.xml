@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Southern doorjamb of the main shrine of Po Nagar</title>
@@ -103,8 +103,7 @@
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -121,10 +120,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change
-                 when="2020-09-14"
-                 who="part:axja"
-                 status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
+         <change when="2020-09-14" who="part:axja" status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -147,7 +143,7 @@
                   <lem>lov</lem>
                   <note>this word also occurs in <ref target="DHARMA_INSCIC00007.xml">C. 7</ref>.</note>
                </app>
-               --><app loc="5"><lem>drim̃</lem><rdg source="bib:Schweyer">driy ||</rdg></app></listApp></div><div type="translation" xml:lang="eng"><p>Furthermore, Y.P.K. Śrī Jayaparameśvaravarmadeva, the P.P.K., offered to Yām̃ Pu Nagara and the Holy Form in this year of the Śaka king 1155:
+               --><app loc="5"><lem>drim̃</lem><rdg source="bib:Schweyer">driy ||</rdg></app></listApp></div><div type="translation"><p>Furthermore, Y.P.K. Śrī Jayaparameśvaravarmadeva, the P.P.K., offered to Yām̃ Pu Nagara and the Holy Form in this year of the Śaka king 1155:
              rice-field at Kumvyām̃l, one unit. In this place, the rice-field of great abundance; 400 <foreign>jāk</foreign>. Khmers who are given to this domain: 10 men and women;
             this rice-field <foreign>vanūk</foreign> at Dharmmathateḥ: 1800 <foreign>jāk</foreign>; this rice-field <foreign>vanūk</foreign> at Pu Auk: 1500 <foreign>jāk</foreign>; Khmers, Cams, Chinese (?), Siamese, Paganese: 45 men and women.</p></div><div type="translation" xml:lang="fra"><p>En outre, Y.P.K. Śrī Jayaparameśvaravarmadeva, le P.P.K., offrit à Yām̃ Pu Nagara et à la Sainte apparence en cette année du roi des Śaka 1155 :
                la rizière de Kumvyām̃l, un emplacement. En ce lieu, la rizière de grande abondance : 400 <foreign>jāk</foreign>. Des Khmers qui sont donnés à ce domaine : 10 hommes et femmes ;

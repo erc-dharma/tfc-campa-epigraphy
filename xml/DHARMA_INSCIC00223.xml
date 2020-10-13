@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Stela at Po Gha cave</title>
@@ -97,8 +97,7 @@
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -115,10 +114,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change
-                 when="2020-09-14"
-                 who="part:axja"
-                 status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
+         <change when="2020-09-14" who="part:axja" status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -148,5 +144,5 @@
                     <lb n="1"/>1169
                     <lb n="2"/>1170
                 </ab>
-</div>            </div><!-- AG: I think simply a new textpart should be enough here, within one <div type="edition">. Do we need to repeat that? --><div type="translation" xml:lang="eng"><p> Lord <foreign>pañca</foreign> Mr. Raghujaḥ, man of Pāṇḍuraṅgeśvara, has established this cave. In [the year of the] Śaka king 1170.</p></div><div type="translation" xml:lang="fra"><p> Le seigneur <foreign>pañca</foreign> monsieur Raghujaḥ, homme de Pāṇḍuraṅgeśvara, a établi cette grotte. En [l'année] 1170 du roi des Śaka.</p></div><div type="commentary"><p>We assume that the numbers engraved on the lateral face, of which the second seems to correspond to the one on the principal face, are trials by the lapicide.</p></div></body></text>
+</div>            </div><!-- AG: I think simply a new textpart should be enough here, within one <div type="edition">. Do we need to repeat that? --><div type="translation"><p> Lord <foreign>pañca</foreign> Mr. Raghujaḥ, man of Pāṇḍuraṅgeśvara, has established this cave. In [the year of the] Śaka king 1170.</p></div><div type="translation" xml:lang="fra"><p> Le seigneur <foreign>pañca</foreign> monsieur Raghujaḥ, homme de Pāṇḍuraṅgeśvara, a établi cette grotte. En [l'année] 1170 du roi des Śaka.</p></div><div type="commentary"><p>We assume that the numbers engraved on the lateral face, of which the second seems to correspond to the one on the principal face, are trials by the lapicide.</p></div></body></text>
 </TEI>

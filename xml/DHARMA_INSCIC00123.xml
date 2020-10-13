@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Rock inscription of Cà Đú (Kanduk)</title>
@@ -104,8 +104,7 @@
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -122,10 +121,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change
-                 when="2020-09-14"
-                 who="part:axja"
-                 status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
+         <change when="2020-09-14" who="part:axja" status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -161,7 +157,7 @@
                   CHECK http://www.tei-c.org/release/doc/tei-p5-doc/en/html/TC.html#TCTR
                --></listApp></div><!--   <div type="commentary">
             <p>FILL ME IN</p> 
-       </div>--><div type="translation" xml:lang="eng"><ab>
+       </div>--><div type="translation"><ab>
                Hail! The P.P.T.R. Indravarman, prince Śrī Harideva P.P.K., when he bore the name milord P.P.L. Śrī Heir Apparent, had not yet (<foreign>vloṁ</foreign>) gone to take Panrāṅ, in order to enjoy it (<foreign>tmum̃</foreign>). In 1171 Śaka, it came to pass (<foreign>tam̃l</foreign>) that he claimed the kingdom. Bearing the royal name of Y.P.K. Śrī Jaya Siṁhavarmadeva, he went to take Panrāṅ, in order to enjoy it, in 1179 Śaka. The royal consecration took place later (<foreign>punaḥ</foreign>), and he became P.P.T.R. Indravarman, “He who had gone to take Panrāṅ, in order to enjoy it”, in 1188 Śaka. Forgiveness, grace, peace. Enlivening the spirit, without carrying out all the punishment.
             </ab></div><div type="translation" xml:lang="fra"><ab>Salut ! Le P. P. T. R. Indravarman, prince Śrī Harideva, P. P. K., lorsqu’il portait le nom de P. P. L. Śrī Dauphin, n’était pas encore (<foreign>vloṁ</foreign>) allé s’emparer de Panrāṅ, pour en jouir (<foreign>tmum̃</foreign>). En 1171 śaka, il se passa (<foreign>tam̃l</foreign>) qu’il réclama le royaume. Portant le nom royal de Y. P. K. Śrī Jaya Siṁhavarmadeva, il alla s’emparer de Panrāṅ, pour en jouir, en 1179 śaka. La consécration royale se passa plus tard (<foreign>punaḥ</foreign>), et il devint P. P. T. R. Indravarman, “celui qui était allé s’emparer de Panrāṅ, pour en jouir”, en 1188 śaka. Clémence, grâce, paix. Revivifiant l’esprit, sans effectuer toutes les punitions.
          </ab></div><div type="bibliography"><p>Translated without publication of text in <bibl><ptr target="bib:aymonier-1891"/><citedRange unit="page">57-58</citedRange></bibl>; whence <bibl><ptr target="bib:majumdar-1927"/><citedRange unit="page">216-217</citedRange></bibl> and <bibl><ptr target="bib:golzio-2004"/><citedRange unit="page">189</citedRange></bibl>. The present edition and translation after <bibl><ptr target="bib:ECIC-III"/><citedRange unit="page">470-472</citedRange></bibl>.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:finot-1903"/><citedRange unit="page">640</citedRange></bibl><bibl><ptr target="bib:finot-1915b"/><citedRange unit="page">51</citedRange></bibl></listBibl></div></body></text>

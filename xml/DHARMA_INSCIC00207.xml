@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Platter (<hi rend="italic">bhājana</hi>)</title>
@@ -96,8 +96,7 @@
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef
-                    type="guide"
+         <schemaRef type="guide"
                     key="EGDv01"
                     url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -114,10 +113,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change
-                 when="2020-09-14"
-                 who="part:axja"
-                 status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
+         <change when="2020-09-14" who="part:axja" status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -144,7 +140,7 @@
                <lb n="3"/> yaḥ kṣatriyo rajatabhājanam idam asmai
                <lb n="4"/> <choice><reg>bhūsvātmakīrttaye</reg><orig>bhṛsvātmakīrttaye</orig></choice> tadbhaktyā dattavān iti <g>||</g> <g type="fleuron" subtype="tobedefined"/>
             </ab>
-        </div><div type="apparatus"><listApp><app loc="2"><lem>yaṁ</lem><rdg source="bib:Schweyer">yaḥ</rdg><note>There is clearly no <hi rend="italic">visarga</hi> here but rather an <hi rend="italic">anusvāra</hi>. Contrast <foreign>yaḥ</foreign> as the beginning of the third segment of text.</note></app><app loc="2"><lem>bhaṭanāma°</lem><rdg source="bib:Schweyer">bhadranāma°</rdg></app><app loc="4"><lem>bhṛsvātma°</lem><note>Schweyer's attempt to justify this reading is not convincing. The scribe must have made a small mistake, spelling <foreign>bhṛ°</foreign> instead of <foreign>bhū°</foreign> (the two <foreign>akṣara</foreign>s resemble each other strongly). Cf. notably <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00066.xml">C. 66</ref>, face A, st. XI and <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00145.xml">C. 145</ref><foreign>diśakīrttaye</foreign>, which express the same meaning as <foreign>bhūsvātmakīrttaye</foreign>.</note></app><app loc="4"><lem><g>||</g><g type="fleuron" subtype="tobedefined"/></lem><note>The punctuation is not represented by Schweyer.</note></app></listApp></div><div type="translation" xml:lang="eng"><p>Hail! This son of Śrī Bhadravarman, by the name of Bhaṭa, who is a <foreign>kṣatriya</foreign>, has given this silver platter to the venerable Śrī Bhadraliṅgeśvara here, through devotion to him, for the sake of his own fame in the world.</p></div><div type="translation" xml:lang="fra"><p>Salut! Ce fils de Śrī Bhadravarman, au nom de Bhaṭa, qui est un <foreign>kṣatriya</foreign>, a donné ce plat en argent à ce vénérable Śrī Bhadraliṅgeśvara-ci, par dévotion à ce dernier, en vue de sa propre gloire dans le monde.</p></div><!-- <div type="bibliography" subtype="secondary">
+        </div><div type="apparatus"><listApp><app loc="2"><lem>yaṁ</lem><rdg source="bib:Schweyer">yaḥ</rdg><note>There is clearly no <hi rend="italic">visarga</hi> here but rather an <hi rend="italic">anusvāra</hi>. Contrast <foreign>yaḥ</foreign> as the beginning of the third segment of text.</note></app><app loc="2"><lem>bhaṭanāma°</lem><rdg source="bib:Schweyer">bhadranāma°</rdg></app><app loc="4"><lem>bhṛsvātma°</lem><note>Schweyer's attempt to justify this reading is not convincing. The scribe must have made a small mistake, spelling <foreign>bhṛ°</foreign> instead of <foreign>bhū°</foreign> (the two <foreign>akṣara</foreign>s resemble each other strongly). Cf. notably <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00066.xml">C. 66</ref>, face A, st. XI and <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00145.xml">C. 145</ref><foreign>diśakīrttaye</foreign>, which express the same meaning as <foreign>bhūsvātmakīrttaye</foreign>.</note></app><app loc="4"><lem><g>||</g><g type="fleuron" subtype="tobedefined"/></lem><note>The punctuation is not represented by Schweyer.</note></app></listApp></div><div type="translation"><p>Hail! This son of Śrī Bhadravarman, by the name of Bhaṭa, who is a <foreign>kṣatriya</foreign>, has given this silver platter to the venerable Śrī Bhadraliṅgeśvara here, through devotion to him, for the sake of his own fame in the world.</p></div><div type="translation" xml:lang="fra"><p>Salut! Ce fils de Śrī Bhadravarman, au nom de Bhaṭa, qui est un <foreign>kṣatriya</foreign>, a donné ce plat en argent à ce vénérable Śrī Bhadraliṅgeśvara-ci, par dévotion à ce dernier, en vue de sa propre gloire dans le monde.</p></div><!-- <div type="bibliography" subtype="secondary">
                 <listBibl>
                     <bibl><bibl><ptr target="cic-bibl:lxd-vkl-1996"/>: <biblScope>89</biblScope></bibl> (two photos from other angles than those shown here).</bibl>
                 </listBibl>

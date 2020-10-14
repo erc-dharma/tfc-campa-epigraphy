@@ -7,13 +7,23 @@
 			<titleStmt>
 				<title>Bakul Rock, Śaka 751 (C. 23)</title>
 				<respStmt>
-					<resp>EpiDoc Encoding</resp>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:argr">
-						<forename>Arlo</forename>
-						<surname>Griffiths</surname>
-					</persName>
-				</respStmt>
+                    <resp>EpiDoc encoding</resp>
+                    <persName ref="part:argr">
+											<forename>Arlo</forename>
+											<surname>Griffiths</surname>
+                    </persName>
+                	<persName ref="part:sapi">
+                		<forename>Salomé</forename>
+                		<surname>Pichon</surname>
+                	</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:argr">
+                        <forename>Arlo</forename>
+                        <surname>Griffiths</surname>
+                    </persName>
+                </respStmt>
 			</titleStmt>
 			<publicationStmt>
 				<authority>DHARMA <note>This project has received funding from the European Research
@@ -57,7 +67,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
-			<change who="part:sapi" when="2020-10-14" status="draft">encoding apparatus and bibliography</change>
+			<change who="part:sapi part:argr" when="2020-10-14" status="draft">encoding apparatus and bibliography</change>
 			<change who="part:argr" when="2020-10-14" status="draft">initial encoding of the file</change>
 		</revisionDesc>
 	</teiHeader>
@@ -68,7 +78,7 @@
 <lg n="1" met="anuṣṭubh">
 	<l n="a"><lb n="1"/>vikrānteśvaralokau yau</l>
 	<l n="b">tayor nr̥pau sa nāyakaḥ</l>
-	<l n="c"><lb n="2"/><choice><sic>samanta</sic><corr>samantaḥ</corr></choice> prathito nāmnā</l>
+	<l n="c"><lb n="2"/>samanta<supplied reason="omitted">ḥ</supplied> prathito nāmnā</l>
 	<l n="d">tasya puṇyam idaṁ matam·<g type="ddanda">.</g></l>
 </lg>
 <lg n="2" met="anuṣṭubh">
@@ -78,7 +88,7 @@
 	<l n="d">tāṅ gatiṁ pragataś śubhām·</l>
 </lg>
 <lg n="3" met="upajāti">
-	<l n="a"><lb n="5"/>humā tavov· saṁgaṇitas tu pātpluḥ</l>
+	<l n="a"><lb n="5"/><foreign xml:lang="x-oldcham-Latn">humā tavov·</foreign> saṁgaṇitas tu <foreign xml:lang="x-oldcham-Latn">pātpluḥ</foreign></l>
 	<l n="b">kṣetran tu khāryyāḥ daśamastāṅke</l>
 	<l n="c"><lb n="6"/>paratra bhūrīcchati bhogam āryyaṁ</l>
 	<l n="d">prādāj jināyaiva manaś-śubhena</l>
@@ -103,11 +113,12 @@
                <listApp>
 						<app loc="1">
 							<lem>nr̥pau</lem>
-							<rdg source="bib:Bergaigne1893_01">gupau</rdg><!--sapi2argr ref de 1893 ou plutôt Barth+Bergaigne1885-1893_01 -->
+							<rdg source="bib:Barth+Bergaigne1885-1893_01">gupau</rdg>
+							<note>Bergaigne adds to his reading the note: <q>Pour <foreign>guptau</foreign> ? Le contexte suggérerait plutôt <foreign>gatau</foreign> : mais cette correction serait trop éloignée du texte</q>.</note>
 						</app>
 						<app loc="4">
 							 <lem>pūjanārthaṁ</lem>
-							 <rdg source="bib:Bergaigne1893_01">svajanārthaṁ</rdg>
+							 <rdg source="bib:Barth+Bergaigne1885-1893_01">svajanārthaṁ</rdg>
 						</app>
 						<app loc="8">
 							<lem>pralauṅ</lem>
@@ -135,9 +146,6 @@
 				</app>
 
 <!--
-stanza I
-	b. nr̥pau: gupau Bergaigne, avec note: “Pour guptau? Le contexte suggérerait plutôt gatau : mais cette correction serait trop éloignée du texte” (Bergaigne).
-	c. samanta: corr. samantaḥ
 stanza II
 	a. dvau dve: “dvau, qui était une faute, a été remplacé par dve, que le graveur a simplement ajouté à la suite” (Bergaigne)
 	c. pūjanārthaṁ: svajanārthaṁ Bergaigne.
@@ -147,14 +155,6 @@ stanza III
 stanza IV
 	@ : un cercle avec une croix à l’intérieur marque la transition du sanskrit au cham correspondant à l’intervalle entre les lignes 7 et 8. Bergaigne, p. 237-238 : “La première moitié du dernier çloka occupe la septième ligne, avec un intervalle entre les deux pādas. Mais la seconde moitié avait été oubliée par le graveur qui l’a ajoutée, avec un signe de renvoi, après la partie tchame, sur deux lignes comprenant chacune un pāda, la quatorzième et la quinzième de l’inscription.” En fait il s’agit des l. 15 et 16.
 
-
-loc="8"	pralauṅ : praloṅ Aymonier
-loc="8"	padaiṅ : padeṅ Aymonier
-loc="10" 	maṇdara : maṇḍara Aymonier
-loc="10"	parvvata : parvata Aymonier
-loc="11" 	devarakṣa : devaraksa Aymonier
-loc="11"	krauṅ : kroṅ Aymonier
-loc="12"	mandauḥ : mandoh Aymonier
 
 -->
                </listApp>
@@ -166,22 +166,23 @@ loc="12"	mandauḥ : mandoh Aymonier
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-           <p>Cam part of the inscription first edited by Étienne Aymonier (<bibl rend="omitname"><ptr target="bib:Aymonier1891_01"/><citedRange unit="page">25-27</citedRange></bibl>). Sanskrit part of the inscription first edited by Abel Bergaigne (<bibl rend="omitname"><ptr target="bib:Bergaigne1893_01"/><citedRange unit="page">237-241</citedRange></bibl>), then edited by Ramesh Chandra Majumdar (<bibl rend="omitname"><ptr target="bib:Majumdar 1927_01"/><citedRange unit="page">65-67</citedRange></bibl>).
-					 Complete edition by Karl-Heinz Golzio (<bibl rend="omitname"><ptr target="Golzio2004_01"/><citedRange unit="page">55-56</citedRange></bibl>). Studied by Louis Finot. (<bibl rend="omitname"><ptr target="Jacques1995_01"/><citedRange unit="page">18</citedRange></bibl>). Re-edited here by Arlo Griffiths.</p>
+           <p>Cam part of the inscription first edited by Étienne Aymonier (<bibl rend="omitname"><ptr target="bib:Aymonier1891_01"/><citedRange unit="page">25-27</citedRange></bibl>). Sanskrit part of the inscription first edited by Abel Bergaigne (<bibl rend="omitname"><ptr target="bib:Barth+Bergaigne1885-1893_01"/><citedRange unit="page">237-241</citedRange></bibl>), then edited by Ramesh Chandra Majumdar (<bibl rend="omitname"><ptr target="bib:Majumdar1927_02"/><citedRange unit="page">65-67</citedRange></bibl>).
+					 Complete edition by Karl-Heinz Golzio (<bibl rend="omitname"><ptr target="Golzio2004_01"/><citedRange unit="page">55-56</citedRange></bibl>). Studied by Louis Finot (<bibl rend="omitname"><ptr target="Jacques1995_01"/><citedRange unit="page">18</citedRange></bibl>). Re-edited here by Arlo Griffiths.</p>
+					 <!-- model from C. 87: First published, with French translation, in Finot 1904d: 925-928; whence, with English translation, in Majumdar 1927: 28-31; whence Golzio 2004: 21-23. Newly edited in Đà Nẵng Catalog: 229-233, whence the present edition. -->
         	<listBibl type="primary">
-							<bibl n="EA">
+							<bibl n="A">
 							<ptr target="bib:Aymonier1891_01"/>
 							<citedRange unit="page">25-27</citedRange>
 									</bibl>
-						 <bibl n="AB">
-							<ptr target="bib:Bergaigne1893_01"/>
+						 <bibl n="B">
+							<ptr target="bib:Barth+Bergaigne1885-1893_01"/>
 							<citedRange unit="page">237-241</citedRange>
 									</bibl>
-						 <bibl n="RCM">
-						 <ptr target="bib:Majumdar 1927_01"/>
+						 <bibl n="M">
+						 <ptr target="bib:Majumdar1927_02"/>
 						 <citedRange unit="page">65-67</citedRange>
 											</bibl>
-						 <bibl n="KHG">
+						 <bibl n="G">
 						 <ptr target="bib:Golzio2004_01"/>
 						 <citedRange unit="page">55-56</citedRange>
 										 </bibl>

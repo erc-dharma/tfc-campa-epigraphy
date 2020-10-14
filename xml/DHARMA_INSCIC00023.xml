@@ -5,12 +5,12 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Bakul Rock, Śaka 751 (C. 23)</title>
-				<respStmt>
+<title>Bakul Rock, Śaka 751 (C. 23)</title>
+<respStmt>
                     <resp>EpiDoc encoding</resp>
                     <persName ref="part:argr">
-											<forename>Arlo</forename>
-											<surname>Griffiths</surname>
+			<forename>Arlo</forename>
+			<surname>Griffiths</surname>
                     </persName>
                 	<persName ref="part:sapi">
                 		<forename>Salomé</forename>
@@ -26,44 +26,44 @@
                 </respStmt>
 			</titleStmt>
 			<publicationStmt>
-				<authority>DHARMA <note>This project has received funding from the European Research
-						Council (ERC) under the European Union's Horizon 2020 research and
-						innovation programme (grant agreement no 809994).</note>
-				</authority>
-				<pubPlace>Lyon</pubPlace>
-				<idno type="filename">DHARMA_INSCIC00023</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
+<authority>DHARMA <note>This project has received funding from the European Research
+		Council (ERC) under the European Union's Horizon 2020 research and
+		innovation programme (grant agreement no 809994).</note>
+</authority>
+<pubPlace>Lyon</pubPlace>
+<idno type="filename">DHARMA_INSCIC00023</idno>
+<availability>
+	<licence target="https://creativecommons.org/licenses/by/4.0/">
+		<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+			Licence. To view a copy of the licence, visit
+			https://creativecommons.org/licenses/by/4.0/ or send a letter to
+			Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+			California, 94041, USA.</p>
+		<p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
+	</licence>
+</availability>
+<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
 			<sourceDesc><!-- only the handDesc can be filled in at this stage -->
-				<msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/><!-- don't modify this -->
-					</msIdentifier>
-					<msContents><!-- describe the intellectual content of an inscription -->
-						<summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
-							<!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
-						<summary><p><p/></summary>
-						<handNote xml:id="Pallava00001_hand1"></handNote>
-						<handNote xml:id="Pallava00001_hand2"></handNote>
-					 -->
-						</handDesc>
-					</physDesc>
-				</msDesc>
+<msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+	<msIdentifier>
+		<repository>DHARMAbase</repository>
+		<idno/><!-- don't modify this -->
+	</msIdentifier>
+	<msContents><!-- describe the intellectual content of an inscription -->
+		<summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+	</msContents>
+	<physDesc>
+		<handDesc>
+			<p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+			<!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+		<summary><p><p/></summary>
+		<handNote xml:id="Pallava00001_hand1"></handNote>
+		<handNote xml:id="Pallava00001_hand2"></handNote>
+	 -->
+		</handDesc>
+	</physDesc>
+</msDesc>
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
@@ -89,13 +89,15 @@
 </lg>
 <lg n="3" met="upajāti">
 	<l n="a"><lb n="5"/><foreign xml:lang="x-oldcham-Latn">humā tavov·</foreign> saṁgaṇitas tu <foreign xml:lang="x-oldcham-Latn">pātpluḥ</foreign></l>
-	<l n="b">kṣetran tu khāryyāḥ daśamastāṅke</l>
+	<l n="b" real="++-++--+++">kṣetran tu khāryyāḥ daśamastāṅke</l>
 	<l n="c"><lb n="6"/>paratra bhūrīcchati bhogam āryyaṁ</l>
 	<l n="d">prādāj jināyaiva manaś-śubhena</l>
 </lg>
 <lg n="4" met="anuṣṭubh">
 	<l n="a"><lb n="7"/>samanta-putras sthaviraḥ</l>
 	<l n="b">buddhanirvvāṇa-saṁjñakaḥ</l>
+	<l n="c"><add place="bottom" rend="mark"><lb n="15"/>kāvyasya karaṇañ cakre</add></l>
+	<l n="d"><add place="bottom" rend="mark"><lb n="16"/>jñātaye bhūtale nr̥ṇām·<g type="ddanda">.</g></add></l>	
 </lg>
 <p xml:lang="x-oldcham-Latn"><lb n="8"/>humā pralauṅ·<g type="ddanda">.</g> humā padaiṅ·<g type="ddanda">.</g> ney· śaka vanuḥ humā dvā nan·
 <lb n="9"/> <num value="751">751</num><g type="ddanda">.</g>
@@ -104,94 +106,99 @@
 <lb n="12"/>yāṅ· praṇaveśvara di mandauḥ<g type="ddanda">.</g>
 <lb n="13"/>vihāra ney· Avista nan· sā pu
 <lb n="14"/>pov· puṇya<g type="ddanda">.</g></p>
-<lg n="4" met="anuṣṭubh">
-	<l n="c"><lb n="15"/>@ kāvyasya karaṇañ cakre</l>
-	<l n="d"><lb n="16"/>jñātaye bhūtale nr̥ṇām·<g type="ddanda">.</g></l>
-</lg>
+<ab><lb n="17"/>śrī yya śrī rājaviḥ Cya</ab>
          </div>
          <div type="apparatus">
                <listApp>
-						<app loc="1">
-							<lem>nr̥pau</lem>
-							<rdg source="bib:Barth+Bergaigne1885-1893_01">gupau</rdg>
-							<note>Bergaigne adds to his reading the note: <q>Pour <foreign>guptau</foreign> ? Le contexte suggérerait plutôt <foreign>gatau</foreign> : mais cette correction serait trop éloignée du texte</q>.</note>
-						</app>
-						<app loc="4">
-							 <lem>pūjanārthaṁ</lem>
-							 <rdg source="bib:Barth+Bergaigne1885-1893_01">svajanārthaṁ</rdg>
-						</app>
-						<app loc="8">
-							<lem>pralauṅ</lem>
-							<rdg source="bib:Aymonier1891_01">praloṅ</rdg>
-						</app>
-						<app loc="8">
-							<lem>padaiṅ</lem>
-							 <rdg source="bib:Aymonier1891_01">padeṅ</rdg>
-							</app>
-						<app loc="10">
-							<lem>parvvata</lem>
-							<rdg source="bib:Aymonier1891_01">parvata</rdg>
-					 </app>
-					 <app loc="11">
-						 <lem>devarakṣa</lem>
-						 <rdg source="bib:Aymonier1891_01">devaraksa</rdg>
-					</app>
-					<app loc="11">
-						<lem>krauṅ</lem>
-						<rdg source="bib:Aymonier1891_01">kroṅ</rdg>
-				 </app>
-				 <app loc="12">
-					 <lem>mandauḥ</lem>
-					 <rdg source="bib:Aymonier1891_01">mandoh</rdg>
-				</app>
+		<app loc="1">
+			<lem>nr̥pau</lem>
+			<rdg source="bib:Barth+Bergaigne1885-1893_01">gupau</rdg>
+			<note>Bergaigne adds to his reading the note: <q xml:lang="fra">Pour <foreign>guptau</foreign> ? Le contexte suggérerait plutôt <foreign>gatau</foreign> : mais cette correction serait trop éloignée du texte</q>.</note>
+		</app>
+		<app loc="4">
+			 <lem>pūjanārthaṁ</lem>
+			 <rdg source="bib:Barth+Bergaigne1885-1893_01">svajanārthaṁ</rdg>
+		</app>
+<app loc="5">
+	<lem>humā tavov·</lem>
+	<note>Barth notes on Bergaigne's edition: <q xml:lang="fra">Je lis <foreign>humātavor</foreign></q>. The second <foreign>v</foreign> is more elongated than the previous one, but is still clearly different from the shape of <foreign>r</foreign> in this hand.</note>
+</app>
+<app loc="5">
+	<lem>daśamastāṅke</lem>
+	<note>Unmetrical. Bergaigne proposes emending <foreign>daśamastakāṅke</foreign>, and believes Daśamastaka is a toponym. This does not seem plausible. The fact that the Cham numerical expression <foreign>pātpluḥ</foreign>, in the preceding pāda, means <q>four ten</q>, i.e. <q>forty</q>, may be relevant in searching for a solution.</note>
+</app>
+		<app loc="8">
+			<lem>pralauṅ</lem>
+			<rdg source="bib:Aymonier1891_01">praloṅ</rdg>
+		</app>
+		<app loc="8">
+			<lem>padaiṅ</lem>
+			 <rdg source="bib:Aymonier1891_01">padeṅ</rdg>
+			</app>
+		<app loc="10">
+			<lem>parvvata</lem>
+			<rdg source="bib:Aymonier1891_01">parvata</rdg>
+	 </app>
+	 <app loc="11">
+		 <lem>devarakṣa</lem>
+		 <rdg source="bib:Aymonier1891_01">devaraksa</rdg>
+	</app>
+	<app loc="11">
+		<lem>krauṅ</lem>
+		<rdg source="bib:Aymonier1891_01">kroṅ</rdg>
+ </app>
+ <app loc="12">
+	 <lem>mandauḥ</lem>
+	 <rdg source="bib:Aymonier1891_01">mandoh</rdg>
+</app>
 
 <!--
 stanza II
 	a. dvau dve: “dvau, qui était une faute, a été remplacé par dve, que le graveur a simplement ajouté à la suite” (Bergaigne)
 	c. pūjanārthaṁ: svajanārthaṁ Bergaigne.
-stanza III
-	a. humātavov·: “Je lis humātavor” (Barth). Le 2e v a une forme plus allongée que le précédant mais il est bien lisible.
-	b. daśamastāṅke: “Le graveur a omis une syllabe. Je suppose daśamastakāṅke” (Bergaigne).
 stanza IV
 	@ : un cercle avec une croix à l’intérieur marque la transition du sanskrit au cham correspondant à l’intervalle entre les lignes 7 et 8. Bergaigne, p. 237-238 : “La première moitié du dernier çloka occupe la septième ligne, avec un intervalle entre les deux pādas. Mais la seconde moitié avait été oubliée par le graveur qui l’a ajoutée, avec un signe de renvoi, après la partie tchame, sur deux lignes comprenant chacune un pāda, la quatorzième et la quinzième de l’inscription.” En fait il s’agit des l. 15 et 16.
-
 
 -->
                </listApp>
          </div>
          <div type="translation" xml:lang="eng">
- 	<!--translation encoded as per EGD §9.2 -->
+<p rend="stanza" n="1">The two kings Vikrānta[varman] and Īśvaraloka, their commander known as Samanta by name, this is deemed to be his meritorious work.</p>
+<p rend="stanza" n="2">He fashions the two monasteries and the two temples of the Jina and of Śaṅkara, in order to worship the two. He has set out to this beautiful destination.</p>
+<p rend="stanza" n="3">The Humā Tavov rice-field is counted to be forty <foreign>khārī</foreign> in the ten ... number. He wishes much (enjoyment) in the after life, (so) beautiful in mind he gave its noble enjoyment only to the Jina.</p>
+<p rend="stanza" n="4">Samanta's son, the elder called Buddhanirvāṇa, carried out the composition of the poem for men on earth to know it.</p>
+<p n="9-14">The field Pralauṅ, the field Padaiṅ: this is the Śaka (year) of the donation of those two fields: 751. God Mandara on the mountain. The Devarakṣa monastery on the river. God Praṇaveśvara ar Mandauḥ. This monastery. All of it is one meritorious work of the gentleman <supplied reason="explanation"><foreign>pu pov</foreign></supplied>.</p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
            <p>Cam part of the inscription first edited by Étienne Aymonier (<bibl rend="omitname"><ptr target="bib:Aymonier1891_01"/><citedRange unit="page">25-27</citedRange></bibl>). Sanskrit part of the inscription first edited by Abel Bergaigne (<bibl rend="omitname"><ptr target="bib:Barth+Bergaigne1885-1893_01"/><citedRange unit="page">237-241</citedRange></bibl>), then edited by Ramesh Chandra Majumdar (<bibl rend="omitname"><ptr target="bib:Majumdar1927_02"/><citedRange unit="page">65-67</citedRange></bibl>).
-					 Complete edition by Karl-Heinz Golzio (<bibl rend="omitname"><ptr target="Golzio2004_01"/><citedRange unit="page">55-56</citedRange></bibl>). Studied by Louis Finot (<bibl rend="omitname"><ptr target="Jacques1995_01"/><citedRange unit="page">18</citedRange></bibl>). Re-edited here by Arlo Griffiths.</p>
-					 <!-- model from C. 87: First published, with French translation, in Finot 1904d: 925-928; whence, with English translation, in Majumdar 1927: 28-31; whence Golzio 2004: 21-23. Newly edited in Đà Nẵng Catalog: 229-233, whence the present edition. -->
+	 Complete edition by Karl-Heinz Golzio (<bibl rend="omitname"><ptr target="Golzio2004_01"/><citedRange unit="page">55-56</citedRange></bibl>). Studied by Louis Finot (<bibl rend="omitname"><ptr target="Jacques1995_01"/><citedRange unit="page">18</citedRange></bibl>). Re-edited here by Arlo Griffiths.</p>
+	 <!-- model from C. 87: First published, with French translation, in Finot 1904d: 925-928; whence, with English translation, in Majumdar 1927: 28-31; whence Golzio 2004: 21-23. Newly edited in Đà Nẵng Catalog: 229-233, whence the present edition. -->
         	<listBibl type="primary">
-							<bibl n="A">
-							<ptr target="bib:Aymonier1891_01"/>
-							<citedRange unit="page">25-27</citedRange>
-									</bibl>
-						 <bibl n="B">
-							<ptr target="bib:Barth+Bergaigne1885-1893_01"/>
-							<citedRange unit="page">237-241</citedRange>
-									</bibl>
-						 <bibl n="M">
-						 <ptr target="bib:Majumdar1927_02"/>
-						 <citedRange unit="page">65-67</citedRange>
-											</bibl>
-						 <bibl n="G">
-						 <ptr target="bib:Golzio2004_01"/>
-						 <citedRange unit="page">55-56</citedRange>
-										 </bibl>
+			<bibl n="A">
+			<ptr target="bib:Aymonier1891_01"/>
+			<citedRange unit="page">25-27</citedRange>
+	</bibl>
+		 <bibl n="B">
+			<ptr target="bib:Barth+Bergaigne1885-1893_01"/>
+			<citedRange unit="page">237-241</citedRange>
+	</bibl>
+		 <bibl n="M">
+		 <ptr target="bib:Majumdar1927_02"/>
+		 <citedRange unit="page">65-67</citedRange>
+			</bibl>
+		 <bibl n="G">
+		 <ptr target="bib:Golzio2004_01"/>
+		 <citedRange unit="page">55-56</citedRange>
+		 </bibl>
         	</listBibl>
 			<listBibl type="secondary">
-						<bibl>
-						<ptr target="bib:Jacques1995_01"/>
-						<citedRange unit="page">18</citedRange>
-						</bibl>
+		<bibl>
+		<ptr target="bib:Jacques1995_01"/>
+		<citedRange unit="page">18</citedRange>
+		</bibl>
            </listBibl>
         </div>
       </body>

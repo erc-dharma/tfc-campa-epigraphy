@@ -5,7 +5,7 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Bakul Rock, Śaka 751 (C. 23)</title>
+				<title>Bakul Rock (C. 23), 751 Śaka</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:argr">
@@ -62,7 +62,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
-			<change who="part:argr" when="2020-10-16" status="draft">finished initial encoding of the file</change>
+			<change who="part:argr" when="2020-10-17" status="draft">finished initial encoding of the file</change>
 			<change who="part:argr part:sapi" when="2020-10-14" status="draft">started initial encoding of the file</change>
 		</revisionDesc>
 	</teiHeader>
@@ -73,16 +73,16 @@
 	<head>Inscription exposed</head>
               <ab><lb n="01"/>śrī</ab>
 <lg n="1" met="anuṣṭubh">
-	<l n="a"><lb n="1"/>vikrānteśvaralokau yau</l>
-	<l n="b">tayor nr̥pau sa nāyakaḥ</l>
-	<l n="c"><lb n="2"/>samanta<supplied reason="omitted">ḥ</supplied> prathito nāmnā</l>
-	<l n="d">tasya puṇyam idaṁ matam·<g type="ddanda">.</g></l>
+	<l n="a"><lb n="1"/><milestone unit="zone" n="a"/>vikrānteśvaralokau yau</l>
+	<l n="b"><milestone unit="zone" n="b"/>tayor nr̥pau sa nāyakaḥ</l>
+	<l n="c"><lb n="2"/><milestone unit="zone" n="a"/>samanta<supplied reason="omitted">ḥ</supplied> prathito nāmnā</l>
+	<l n="d"><milestone unit="zone" n="b"/>tasya puṇyam idaṁ matam·<g type="ddanda">.</g></l>
 </lg>
 <lg n="2" met="anuṣṭubh">
-	<l n="a" real="-+++--++"><lb n="3"/>vihārau deva-kule <subst><del>dvau</del><add place="inline">dve</add></subst></l>
-	<l n="b">jina-śaṅkarayos tayoḥ<g type="ddanda">.</g></l>
-	<l n="c" real="+-+++--+"><lb n="4"/>pūjanārthaṁ prakurute</l><!-- bha-vipulā! -->
-	<l n="d">tāṅ gatiṁ pragataś śubhām·</l>
+	<l n="a" real="-+++--++"><lb n="3"/><milestone unit="zone" n="a"/>vihārau deva-kule <subst><del>dvau</del><add place="inline">dve</add></subst></l>
+	<l n="b"><milestone unit="zone" n="b"/>jina-śaṅkarayos tayoḥ<g type="ddanda">.</g></l>
+	<l n="c" real="+-+++--+"><lb n="4"/><milestone unit="zone" n="a"/>pūjanārthaṁ prakurute</l><!-- bha-vipulā! -->
+	<l n="d"><milestone unit="zone" n="b"/>tāṅ gatiṁ pragataś śubhām·</l>
 </lg>
 <lg n="3" met="upajāti">
 	<l n="a"><lb n="5"/><foreign xml:lang="x-oldcham-Latn">humā-tavov·</foreign> saṁgaṇitas tu <foreign xml:lang="x-oldcham-Latn">pāt-pluḥ</foreign></l>
@@ -91,8 +91,8 @@
 	<l n="d">prādāj jināyaiva manaś-śubhena</l>
 </lg>
 <lg n="4" met="anuṣṭubh">
-	<l n="a"><lb n="7"/>samanta-putras sthaviraḥ</l>
-	<l n="b">buddhanirvvāṇa-saṁjñakaḥ</l>
+	<l n="a"><lb n="7"/><milestone unit="zone" n="a"/>samanta-putras sthaviraḥ</l>
+	<l n="b"><milestone unit="zone" n="b"/>buddhanirvvāṇa-saṁjñakaḥ</l>
 	<l n="c"><add place="bottom" rend="mark"><lb n="15"/>kāvyasya karaṇañ cakre</add></l>
 	<l n="d"><add place="bottom" rend="mark"><lb n="16"/>jñātaye bhūtale nr̥ṇām·<g type="ddanda">.</g></add></l>	
 </lg>
@@ -120,10 +120,10 @@
 		</app>
 <app loc="3">
 	<lem><subst><del>dvau</del><add place="inline">dve</add></subst></lem>
-	<note>Bergaigne notes that <foreign xml:lang="fra"><foreign>dvau</foreign>, qui était une faute, a été remplacé par <foreign>dve</foreign>, que le graveur a simplement ajouté à la suite</foreign>.</note>
+	<note>Bergaigne notes that <q xml:lang="fra"><foreign>dvau</foreign>, qui était une faute, a été remplacé par <foreign>dve</foreign>, que le graveur a simplement ajouté à la suite</q>.</note>
 </app>
 		<app loc="4">
-			 <lem>pūjanārthaṁ</lem>
+			 <lem source="bib:Finot1903_05">pūjanārthaṁ</lem>
 			 <rdg source="bib:Barth+Bergaigne1885-1893_01">svajanārthaṁ</rdg>
 		</app>
 <app loc="5">
@@ -133,18 +133,19 @@
 <app loc="5">
 	<lem>daśa ma<orig>stā</orig>ṅke</lem>
 	<rdg source="bib:Barth+Bergaigne1885-1893_01">daśa-ma<choice><sic>stā</sic><corr>stakā</corr></choice>ṅke</rdg>
-	<note>Unmetrical. Bergaigne reading as a single compound emended to <foreign>daśamastakāṅke</foreign>, where Daśamastaka is interpreted a toponym, does not seem plausible. The fact that the Cham numerical expression <foreign>pāt-pluḥ</foreign>, in the preceding <foreign>pāda</foreign>, means <q>four ten</q>, i.e. <q>forty</q>, may be relevant in searching for a solution. Presuming that it is, I interpret the text as intended to convey <foreign>masta</foreign> in the meaning <q>measured</q>, and would resolve the metrical irregularity in one of the following ways: emend <q>mastam aṅke</q>, resolve sandi as <foreign>masta Aṅke</foreign> (wrong sandhi intended to express the locative absolute that should be <foreign>maste 'ṅke</foreign>), or resolve sandhi in the same way but keep a compound (<foreign>masta-Aṅke</foreign>).</note>
+	<note>Unmetrical. Bergaigne's reading as a single compound emended to <foreign>daśamastakāṅke</foreign>, where Daśamastaka is interpreted a toponym, does not seem plausible. The fact that the Cham numerical expression <foreign>pāt-pluḥ</foreign>, in the preceding <foreign>pāda</foreign>, means <q>four ten</q>, i.e. <q>forty</q>, may be relevant in searching for a solution. Presuming that it is, I interpret the text as intended to convey <foreign>masta</foreign> in the (alas virtually unattested) meaning <q>measured</q>, and would resolve the metrical irregularity in one of the following ways: emend <q>mastam aṅke</q>, resolve sandi as <foreign>masta Aṅke</foreign> (wrong sandhi intended to express the locative absolute that should be <foreign>maste 'ṅke</foreign>), or resolve sandhi in the same way but keep a compound (<foreign>masta-Aṅke</foreign>). Other possibilities: emend to obtain the word <foreign>hasta</foreign> or <foreign>vyāma</foreign>.</note>
 </app>
 <!-- corr. mastam aṅke, masta Aṅke "measured ... in the unit (aṅka) of khārī
 ma<choice><sic>stā</sic><corr>sta A</corr></choice>ṅke
 -->
 		<app loc="8">
-			<lem>pralauṅ</lem>
-			<rdg source="bib:Aymonier1891_01">praloṅ</rdg>
+			<lem>pralauṅ·</lem>
+			<rdg source="bib:Aymonier1891_01">praloṅ·</rdg>
 		</app>
 		<app loc="8">
 			<lem>padaiṅ</lem>
-			 <rdg source="bib:Aymonier1891_01">padeṅ</rdg>
+			 <rdg source="bib:Aymonier1891_01">padeṅ·</rdg>
+			<rdg source="bib:Finot1903_05">ṭadaiṅ·</rdg>
 			</app>
 		<app loc="10">
 			<lem>parvvata</lem>
@@ -155,12 +156,12 @@ ma<choice><sic>stā</sic><corr>sta A</corr></choice>ṅke
 		 <rdg source="bib:Aymonier1891_01">devaraksa</rdg>
 	</app>
 	<app loc="11">
-		<lem>krauṅ</lem>
-		<rdg source="bib:Aymonier1891_01">kroṅ</rdg>
+		<lem>krauṅ·</lem>
+		<rdg source="bib:Aymonier1891_01">kroṅ·</rdg>
  </app>
  <app loc="12">
 	 <lem>mandauḥ</lem>
-	 <rdg source="bib:Aymonier1891_01">mandoh</rdg>
+	 <rdg source="bib:Aymonier1891_01">mandoḥ</rdg>
 </app>
                </listApp>
  </div><!-- end of textpart -->
@@ -172,50 +173,64 @@ ma<choice><sic>stā</sic><corr>sta A</corr></choice>ṅke
 <p rend="stanza" n="3">On the one hand <supplied reason="explanation"><foreign>tu</foreign></supplied>, the sugarcane field is counted as forty, on the other <supplied reason="explanation"><foreign>tu</foreign></supplied> the ricefield as ten, when the number is measured by the <foreign>khārī</foreign>. He wishes much noble enjoyment in the afterlife. He gave <supplied reason="subaudible">them</supplied> only to the Jina with purity of mind.</p>
 <!-- alternative (also see commentary): The sugarcane fields are counted to be forty; the ricefields are ten <foreign>khārī</foreign>s;  in the ten ... number. He wishes much (enjoyment) in the after life, (so) beautiful in mind he gave its noble enjoyment only to the Jina. -->
 <p rend="stanza" n="4">Samanta's son, the elder called Buddhanirvāṇa, carried out the composition of the poem for men on earth to know it.</p>
-<p n="9-14">The field Pralauṅ, the field Padaiṅ: this is the Śaka <supplied reason="subaudible">year</supplied> of the donation of those two fields: 751. God Mandara on the mountain. The Devarakṣa monastery on the river. God Praṇaveśvara ar Mandauḥ. This monastery. All of it is one meritorious work of the gentleman <supplied reason="explanation"><foreign>pu pov</foreign></supplied>.</p>
+<p n="9-14">The field Pralauṅ, the field Padaiṅ — this is the Śaka <supplied reason="subaudible">year</supplied> of the donation of those two fields: 751. God Mandara on the mountain. The Devarakṣa monastery on the river. God Praṇaveśvara at Mandauḥ. This monastery. All of it is one meritorious work of the gentleman <supplied reason="explanation"><foreign>pu pov</foreign></supplied>.</p>
          </div>
          <div type="commentary">
  <p>The composition of this text and the execution of its <foreign xml:lang="fra">mise en pierre</foreign> are unusually sloppy. Due to scribal inadvertence, the second hemistich of stanza IV was initially skipped, and appears only in the final two lines after the Cham-language prose part that should have stood at the bottom of the text. Metrical irregularities are observed in stanzas II (esp. <foreign>pāda</foreign> a) and III (<foreign>pāda</foreign> b). The resolution of the latter possibly requires assuming an error of sandhi, while it is certain that the <foreign>visarga</foreign> in <foreign>khāryyāḥ daśa</foreign> in that same <foreign>pāda</foreign> cannot be accepted, and the same stanza also involves inconsistencies in the use of tenses (which I have smoothed over in my translation). Such errors, and unusual word order as in <foreign>manaś-śubhena</foreign> (stanza III, where expected <foreign>śubha-manasā</foreign> is avoided for metrical reasons), suggest rather strong influence on the Sanskrit composition from the author's mother tongue, presumably Cham, as does his willingness to insert Cham words into the Sanskrit text (again, in stanza III). The fact that the text is not a royal inscription may mean the work was carried out by a relatively less qualified clerk and artisan.</p>
 <p rend="stanza" n="1">On the interpretation of this stanza, where Īśvaraloka is the posthumous name of king Satyavarman, see <bibl><ptr target="bib:Griffiths+Southworth2011_01"/><citedRange unit="page">295</citedRange></bibl>.</p>
-<p rend="stanza" n="3">Previous scholars have not recognized that <foreign>tavov</foreign> here must be the Old Cham word for <q>sugarcane</q> (<bibl><ptr target="bib:Aymonier+Cabaton1906_01"/><citedRange unit="page">179</citedRange><citedRange unit="entry"><foreign>tabău</foreign>, etc.</citedRange></bibl>). The words <foreign>humā</foreign> and <foreign>pāt pluḥ</foreign> mean, respectively, <q>field</q> and <q>forty</q> in Old Cham. Regarding the second half of the stanza, it is likely that <foreign>ārya</foreign> is practically equivalent in meaning to <q>Buddhist</q>, while the word bhoga may express the technical meaning <q>economic resource</q>. An alternative translation could therefore be as follows: 
-<q>He wishes much <supplied reason="subaudible">enjoyment</supplied> in the after life, <supplied reason="subaudible">so</supplied> beautiful in mind he gave the Buddhist resource only to the Jina</q>.</p>
-<p n="13-14">The final sentence <foreign>vihāra ney· Avista nan· sā pu pov· puṇya</foreign> is hard to parse. I tentatively assume that we must read <foreign>pu-pov-puṇya</foreign> as though it were a Sanskrit possessive compound, even though only the element <foreign>puṇya</foreign> is from Sanskrit and the sentence as a whole is formulated in Old Cham.</p>         
+<p rend="stanza" n="3">Previous scholars have not recognized that <foreign>tavov</foreign> here must be the Old Cham word for <q>sugarcane</q> (<bibl><ptr target="bib:Aymonier+Cabaton1906_01"/><citedRange unit="page">179</citedRange><citedRange unit="entry"><foreign>tabău</foreign>, etc.</citedRange></bibl>). The words <foreign>humā</foreign> and <foreign>pāt pluḥ</foreign> mean, respectively, <q>field</q> and <q>forty</q> in Old Cham. 
+<!-- Dhātupāṭha, PW (whence MW) records a class-IV root mas, 'to measure, mete', and derived nominal forms masa, masana, masti. MW further records a ppp masta 'measured'.
+In Böhtlingk's edition of the Aṣṭādhyāyī, in the appendix giving the Dhātupāṭha, I indeed find "masī parimāṇe (pariṇāme)" as entry 4.112. -->
+Regarding the second half of the stanza, it is likely that <foreign>ārya</foreign> is practically equivalent in meaning to <q>Buddhist</q>, while the word bhoga may express the technical meaning <q>economic resource</q>. An alternative translation could therefore be as follows: 
+<q>He wishes much <supplied reason="subaudible">enjoyment</supplied> in the afterlife, <supplied reason="subaudible">so</supplied> beautiful in mind he gave the Buddhist resource only to the Jina</q>.</p>
+<p n="13-14">The final sentence <foreign>Avista nan· sā pu pov· puṇya</foreign> is hard to parse. I tentatively assume that we must read <foreign>pu-pov-puṇya</foreign> as though it were a Sanskrit possessive compound, even though only the element <foreign>puṇya</foreign> is from Sanskrit and the sentence as a whole is formulated in Old Cham.</p>         
 </div>
         <div type="bibliography">
-           <p>The Old Cam part of the inscription first edited by Étienne Aymonier (<bibl rend="omitname"><ptr target="bib:Aymonier1891_01"/><citedRange unit="page">25-27</citedRange></bibl>). The Sanskrit part of the inscription first edited by Abel Bergaigne (<bibl rend="omitname"><ptr target="bib:Barth+Bergaigne1885-1893_01"/><citedRange unit="page">237-241</citedRange></bibl>), whose work was published again by Ramesh Chandra Majumdar (<bibl rend="omitname"><ptr target="bib:Majumdar1927_02"/><citedRange unit="page">65-67</citedRange></bibl>). The two parts were first put together by Karl-Heinz Golzio (<bibl rend="omitname"><ptr target="bib:Golzio2004_01"/><citedRange unit="page">55-56</citedRange></bibl>). Studied by Louis Finot (<bibl rend="omitname"><ptr target="bib:Jacques1995_01"/><citedRange unit="page">18</citedRange></bibl>). Re-edited here by Arlo Griffiths.</p>
+           <p>The Old Cam part was edited by É. Aymonier (<bibl rend="omitname"><ptr target="bib:Aymonier1891_01"/><citedRange unit="page">25-27</citedRange><citedRange unit="item">396</citedRange></bibl>), with French word-for-word gloss; the Sanskrit part was edited by A. Bergaigne (<bibl rend="omitname"><ptr target="bib:Barth+Bergaigne1885-1893_01"/><citedRange unit="page">237-241</citedRange><citedRange unit="item">XXV (396)</citedRange></bibl>), with translation into French; textual notes were offered by L. Finot (<bibl rend="omitname"><ptr target="bib:Finot1903_05"/><citedRange unit="page">18-19</citedRange><citedRange unit="item">V</citedRange>, n. 2</bibl>). Bergaigne's edition of the Sanskrit text was published again by R. C. Majumdar (<bibl rend="omitname"><ptr target="bib:Majumdar1927_02"/><citedRange unit="page">65-67</citedRange><citedRange unit="item">28</citedRange></bibl>), with translation into English. The two parts were first put together by K.-H. Golzio (<bibl rend="omitname"><ptr target="bib:Golzio2004_01"/><citedRange unit="page">55-56</citedRange></bibl>), with translation into English. The text is re-edited and freshly translated here by Arlo Griffiths, based on the available estampages and autopsy of the stone.</p>
 	<!-- model from C. 87: First published, with French translation, in Finot 1904d: 925-928; whence, with English translation, in Majumdar 1927: 28-31; whence Golzio 2004: 21-23. Newly edited in Đà Nẵng Catalog: 229-233, whence the present edition. -->
         	<listBibl type="primary">
 			<bibl n="A">
 			<ptr target="bib:Aymonier1891_01"/>
-			<citedRange unit="page">25-27</citedRange>
+			<citedRange unit="page">25-27</citedRange><citedRange unit="item">396</citedRange>
 	</bibl>
 		 <bibl n="B">
 			<ptr target="bib:Barth+Bergaigne1885-1893_01"/>
-			<citedRange unit="page">237-241</citedRange>
+			<citedRange unit="page">237-241</citedRange><citedRange unit="item">XXV (396)</citedRange>
 	</bibl>
 		 <bibl>
 		 <ptr target="bib:Majumdar1927_02"/>
-		 <citedRange unit="page">65-67</citedRange>
+		 <citedRange unit="page">65-67</citedRange><citedRange unit="item">28</citedRange>
 			</bibl>
 		 <bibl>
 		 <ptr target="bib:Golzio2004_01"/>
 		 <citedRange unit="page">55-56</citedRange>
 		 </bibl>
         	</listBibl>
-			<listBibl type="secondary">
+<listBibl type="secondary">
 	<bibl>
 		<ptr target="bib:Bergaigne1888_01"/>
-		<citedRange unit="page">53????</citedRange>
+		<citedRange unit="page">27, 71, 78</citedRange>
 		</bibl>
-		<bibl>
-		<ptr target="bib:Jacques1995_01"/>
-		<citedRange unit="page">18</citedRange>
-		</bibl>
+	<bibl n="F">
+		<ptr target="bib:Finot1903_05"/>
+		<citedRange unit="page">18-19</citedRange><citedRange unit="item">V</citedRange>
+	</bibl>
 	<bibl>
+		<ptr target="bib:Parmentier1909_01"/>
+		<citedRange unit="page">79</citedRange>
+	</bibl>
+	<bibl>
+		<ptr target="bib:Finot1915_01"/>
+		<citedRange unit="page">11, 47</citedRange>
+	</bibl>
+<bibl>
 		<ptr target="bib:Griffiths+Southworth2011_01"/>
 		<citedRange unit="page">294-295</citedRange>
 		</bibl>
-
+	<bibl>
+		<ptr target="bib:Griffiths+al2008-2009_01"/>
+		<citedRange unit="page">446, 481-484, 486</citedRange>
+		</bibl>
            </listBibl>
         </div>
       </body>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="eng">
+		<fileDesc>
+			<titleStmt>
+				<title>Dong-yen-chau rock inscription, province of Quang-nam, Annam (C. 174)</title>
+				<respStmt>
+					<resp>EpiDoc Encoding</resp>
+					<persName ref="part:sapi">
+						<forename>Salomé</forename>
+						<surname>Pichon</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="http://viaf.org/viaf/66465311">
+						<forename>George</forename>
+						<surname>Cœdès</surname>
+					</persName>
+					<persName ref="part:argr">
+						<forename>Arlo</forename>
+						<surname>Griffiths</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA <note>This project has received funding from the European Research
+						Council (ERC) under the European Union's Horizon 2020 research and
+						innovation programme (grant agreement no 809994).</note>
+				</authority>
+				<pubPlace>Paris</pubPlace>
+				<idno type="filename">DHARMA_INSCICOO174</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Salomé Pichon.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc><!-- only the handDesc can be filled in at this stage -->
+				<msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/><!-- don't modify this -->
+					</msIdentifier>
+					<msContents><!-- describe the intellectual content of an inscription -->
+						<summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+							<!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+				<change who="part:sapi" when="2020-10-20">Initial encoding of the file</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="x-oldcham-Latn">
+					 <p>
+						 <lb n="1"/><foreign xml:lang="san-Latn">siddham·</foreign><g type="spiralR"/>nī yāṅ· <foreign xml:lang="san-Latn">nāga</foreign> puñ· putauv· ya Urāṅ· spūy· di ko
+						 <lb n="2"/>kurun· ko jmāy· labuḥ nari <foreign xml:lang="san-Latn">svarggaḥ</foreign> ya Urāṅ· <foreign xml:lang="san-Latn">paribhū</foreign> d<supplied reason="lost">i</supplied> ko
+						 <lb n="3"/>kurun· saribū thūn· ko davam· di <foreign xml:lang="san-Latn">naraka</foreign> dṅan· tijūḥ <foreign xml:lang="san-Latn">kulo</foreign> ko
+					 </p>
+         </div>
+         <div type="apparatus">
+               <listApp>
+								 <app loc="1">
+	 								 <lem>nī</lem>
+	 								 <rdg source="bib:Coedes1939_01">ni</rdg>
+	 							</app>
+								<app loc="1">
+									<lem>yāṅ·</lem>
+									<rdg source="bib:Coedes1939_01">yaṅ·</rdg>
+							 </app>
+               </listApp>
+         </div>
+				 <div type="translation" xml:lang="fra" source="bib:Coedes1937-1966_01">
+					 <p n="1-3">Succès ! Ceci est le saint <foreign>nāga</foreign> du roi. Quiconque le traite doucement....... des joyaux tombent ciel ; quiconque l'insulte...... pendant 1000 années <supplied reason="subaudible">il souffre</supplied> aux enfers avec sept générations de sa famille.</p>
+				 </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+        <div type="bibliography">
+           <p>First edited by G. Cœdès (<bibl rend="omitname"><ptr target="bib:Coedes1939_01"/><citedRange unit="page">46-49</citedRange></bibl>).Re-edited and freshly translated here by Arlo Griffiths.</p>
+        	<listBibl type="primary">
+						<bibl n="GC">
+						<ptr target="bib:Coedes1939_01"/>
+						<citedRange unit="page">46-49</citedRange>
+						</bibl>
+			</listBibl>
+           <listBibl type="secondary">
+              <bibl n="siglum"/><!-- one <bibl/> per item of secondary bibliography . Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>

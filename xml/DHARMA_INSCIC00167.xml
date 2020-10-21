@@ -63,6 +63,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
+			<change who="part:sapi" when="2020-10-21">Revisions of the file</change>
 		<change who="part:sapi" when="2020-10-20">Initial encoding of the file</change>
 		</revisionDesc>
 	</teiHeader>
@@ -77,26 +78,26 @@
 					<l n="d">vandati śrīmato bhavān<unclear>·</unclear><g type="ddandaOrnate">.</g><!--sapi2argr : Ici j'ai bien lu la note suggérant le manque de ponctuation, donc je ne suis pas sûre de mon interprétation de ces <> en double danda. --></l>
 				</lg>
 				<lg n="2" met="āryā">
-					<l n="ab">dhībhāj jitaripuvala <supplied reason="lost">gu<g type="danda"/></supplied><!--sapi2argr Ici j'ai restitué le gu qualifié dans la note ab. de manquant. --><lb n="A2" break="no"/>ruciratayā śaṁ prajāsu sa śrīmat·<g type="danda"/></l>
+					<l n="ab">dhībhāj jita-ripu-vala <supplied reason="lost">gu<g type="danda"/></supplied><!--sapi2argr Ici j'ai restitué le gu qualifié dans la note ab. de manquant. --><lb n="A2" break="no"/>ruciratayā śaṁ prajāsu sa śrīmat·<g type="danda"/></l>
 					<l n="cd">rākendur iva mahīndrā<g type="danda"/>dhipatir ayaṁ prāptavān avanau<g type="ddanda">.</g></l>
 				</lg>
 				<lg n="3" met="anuṣṭubh">
 					<l n="a">cūrṇṇāṅkita<choice><unclear>vadane ye</unclear><unclear>vadanāyai</unclear></choice><g type="danda"/></l>
 					<l n="b">prabhātaḥ svavanau pri<lb n="A3" break="no"/>ye<g type="danda"/></l>
-					<l n="c">lyaṅ· Indrabhūmisubhadre<g type="danda"/></l>
+					<l n="c"<foreign xml:lang="x-oldcham-Latn">lyaṅ·</foreign> Indrabhūmi-subhadre<g type="danda"/></l>
 					<l n="d"><unclear>bha</unclear>dre sadam gir asya te<g type="ddanda">.</g></l>
 				</lg>
 				<lg n="4" met="vasantatilaka">
 					<l n="a">śrī Indravarmmanr̥pater adhikāñ ca kīrttiṁ<g type="danda"/></l>
-					<l n="b">paśyan vibhūtividitaḥ kutalasthitā<choice><sic>y</sic><corr>ṁ</corr></choice> yaḥ<g type="danda"/></l>
-					<l n="c">anreṅpurī<milestone type="pagelike" unit="face" n="B"/><lb n="B1" break="no"/>ndra Iti so yam imā<unclear>ṁ</unclear> mahātmā<g type="danda"/></l>
+					<l n="b">paśyan vibhūti-viditaḥ kutala-sthitā<choice><sic>y</sic><corr>ṁ</corr></choice> yaḥ<g type="danda"/></l>
+					<l n="c">tanreṅpurī<milestone type="pagelike" unit="face" n="B"/><lb n="B1" break="no"/>ndra Iti so yam imā<unclear>ṁ</unclear> mahātmā<g type="danda"/></l>
 					<l n="d">kīrttiṁ svikāṁ dhavalatāṁ prati karttum icchet·<g type="danda"/><g type="ddanda">.</g><!--sapi2argr Mon choix de symboles pour ce triple danda peut-être questionné. Devrais-je mettre trois danda simples ? --></l>
 				</lg>
 				<lg n="5" met="śārdūlavikrīḍita">
-					<l n="a">śākābde rasalokamaṅgalayute jīve tulasthe bhr̥<lb n="B2" break="no"/>gau<g type="danda"/></l>
+					<l n="a">śākābde rasa-loka-maṅgala-yute jīve tulasthe bhr̥<lb n="B2" break="no"/>gau<g type="danda"/></l>
 					<l n="b">me<choice><sic>ś</sic><corr>ṣ</corr></choice>asthe pi ca bauddh<choice><sic>am</sic><corr>a</corr></choice> eva ca bhavān m<choice><sic>ā</sic><corr>a</corr></choice>hīndralokeśvara<choice><sic>m·</sic><corr>ḥ</corr></choice><g type="danda"/></l>
 					<l n="c">candre kany<choice><sic>a</sic><corr>ā</corr></choice>gate ca yo navaniśānt<choice><unclear>ā</unclear><unclear>a</unclear></choice>ṁ sthāpitaḥ kīrttaye<g type="danda"/></l>
-					<l n="d">me<choice><sic>śen</sic><corr>ṣeṇ</corr></choice>āpi mahī<lb n="B3" break="no"/>ndrapūraṇapure vaiśākhaśuklasya saḥ<g type="danda"/><g type="ddanda">.</g></l>
+					<l n="d">me<choice><sic>śen</sic><corr>ṣeṇ</corr></choice>āpi mahī<lb n="B3" break="no"/>ndrapūraṇapure vaiśākha-śuklasya saḥ<g type="danda"/><g type="ddanda">.</g></l>
 				</lg>
 				<lg n="6" met="anuṣṭubh">
 					<l n="a">puṇyaṁ śubham upanītaṁ<g type="danda"/></l>
@@ -141,7 +142,11 @@
 				 <p rend="stanza" n="2">Mon seigneur-ci, Mahīndrādhipati, détenteur d’intelligence, a obtenu pour les gens sur la terre la paix fortunée, grace à sa brilliance ... ayant vaincu l’armée des ennemis, comme <supplied reason="subaudible">l’a obtenue</supplied> la lumière de la pleine lune.</p>
 				 <p rend="stanza" n="3">Les deux chéries aux visages poudrés, qui rayonnent sur la belle terre — Lyaṅ Indrabhūmi and Subhadrā — sont ses deux bonnes dames.</p>
 				 <p rend="stanza" n="4">Constatant la gloire supérieure du roi Śrī Indravarman, établie sur la surface de la terre, lui, connu pour son pouvoir, d’un grand esprit, désirait de rendre sa propre réputation en tant que Roi de Tanreṅpurī vers la blancheur.</p>
-				 <p rend="stanza" n="5">Dans l’an śaka compté par les <supplied reason="subaudible">6</supplied> aromes, les <supplied reason="subaudible">7 ou 3</supplied> mondes et les <supplied reason="subaudible">8</supplied> signes de bonne augure <supplied reason="explanation">876 ou 836</supplied>, quand Jupiter était dans Libra, Bhr̥gu <supplied reason="explanation">Venus</supplied> dans le Bélier, la Lune dans Virgo, <supplied reason="subaudible">le soleil</supplied> dans le Bélier, à l’aube du neuf de la <supplied reason="subaudible">quinzaine</supplied> croissante de Vaiśākha, a été érigé mon Seigneur le Mahīndralokeśvara bouddhique, à Mahīndrapūraṇapura, en vue de la gloire <supplied reason="subaudible">du fondateur, Mahīndrādhipati</supplied>.
+				 <p rend="stanza" n="5">Dans l’an śaka compté par les <supplied reason="subaudible">6</supplied> aromes, les <supplied reason="subaudible">7 ou 3</supplied> mondes et les <supplied reason="subaudible">8</supplied> signes de bonne augure <supplied reason="explanation">876 ou 836</supplied>, quand Jupiter était dans Libra, Bhr̥gu <supplied reason="explanation">Venus</supplied> dans le Bélier, la Lune dans Virgo, <supplied reason="subaudible">le soleil</supplied> dans le Bélier, à l’aube du neuf de la <supplied reason="subaudible">quinzaine</supplied> croissante de Vaiśākha, a été érigé mon Seigneur le Mahīndralokeśvara bouddhique, à Mahīndrapūraṇapura, en vue de la gloire <supplied reason="subaudible">du fondateur, Mahīndrādhipati</supplied>.</p>
+				 <p rend="stanza" n="6">Cette belle oeuvre pie, supérieure dans les trois mondes, a été offerte par lui à sa propre mère Pu Pov Ku Kunukuḥ Devī.</p>
+				 <p rend="stanza" n="7">Le roi Śrī Indravarman a gracieusement donné à mon seigneur <supplied reason="explanation">ājñā pov ku</supplied> Mahīndrādhipati, l’exemption <supplied reason="subaudible">fiscale</supplied> complète au bénéfice de Mahīndralokeśvara.</p>
+				 <p rend="stanza" n="8">Alors mon seigneur le Dauphin <supplied reason="explanation">indra ... yuvā = yuvarājā</supplied> de Tanreṅpurī, a donné votre entière exemption <supplied reason="subaudible" cert="low">et?</supplied> une multitude d’ornements en forme d’une bonne réputation à cette <supplied reason="subaudible">princesse</supplied> nommée Subhadrā, dont le visage était poudré du poudre du Ketaka, dont les yeux était extraordinairement <supplied reason="explanation">sau°</supplied> larges, une faible femme, pour que <supplied reason="subaudible">leur</supplied> amour ne soit jamais détruite, tant qu’elle jouissait de la fertilité conjugale.</p>
+				 <p n="C3-D4">Quelles rizières? Keṅvuk. Cuvai dhom̃ja. Soir. Pitau Janreh. Rizières Muṅ Manat poisson Pu. Curiḥ. Diṅin <supplied reason="explanation">Froid</supplied>. Aṅauy. Hec. Luvauṅ. kaun, vauk courbes, brousse, étang, toutes ces autres rizières. bovidés, buffles, esclaves, éléphants, or, argent pour Ā.P.K. Mahīndrādhipati ... donnés au monastère de Śrī Mahīndralokeśvara ...</p>
 				 </div>
          <div type="commentary">
           <p n="A1">bhavān· : the right half of the virāma doesn't appear on the photograph of the estampage, but the same word can be found in stanzas V et VIII.</p>

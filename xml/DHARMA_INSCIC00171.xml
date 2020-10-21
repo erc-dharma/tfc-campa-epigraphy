@@ -2,86 +2,104 @@
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:lang="eng">
-		<fileDesc>
-			<titleStmt>
-				<title>Đại Hữu pedestal fragment (C. 171)</title>
-				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:argr">
-						<forename>Arlo</forename>
-						<surname>Griffiths</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:argr">
-						<forename>Arlo</forename>
-						<surname>Griffiths</surname>
-					</persName>
-					<persName ref="part:daba">
-						<forename>Dániel</forename>
-						<surname>Balogh</surname>
-					</persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA <note>This project has received funding from the European Research
-						Council (ERC) under the European Union's Horizon 2020 research and
-						innovation programme (grant agreement no 809994).</note>
-				</authority>
-				<pubPlace>Lyon</pubPlace>
-				<idno type="filename">DHARMA_INSCIC00171</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Arlo Griffiths &amp; Dániel Balogh.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc><!-- only the handDesc can be filled in at this stage -->
-				<msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/><!-- don't modify this -->
-					</msIdentifier>
-					<msContents><!-- describe the intellectual content of an inscription -->
-						<summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
-							<!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+  <teiHeader xml:lang="eng">
+    <fileDesc>
+      <titleStmt>
+        <title>Đại Hữu pedestal fragment (C. 171)</title>
+        <respStmt>
+          <resp>EpiDoc encoding</resp>
+          <persName ref="part:argr">
+            <forename>Arlo</forename>
+            <surname>Griffiths</surname>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp>intellectual authorship of edition</resp>
+          <persName ref="part:argr">
+            <forename>Arlo</forename>
+            <surname>Griffiths</surname>
+          </persName>
+          <persName ref="part:daba">
+            <forename>Dániel</forename>
+            <surname>Balogh</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>DHARMA <note>This project has received funding from the European Research
+          Council (ERC) under the European Union's Horizon 2020 research and
+          innovation programme (grant agreement no 809994).</note>
+        </authority>
+        <pubPlace>Lyon</pubPlace>
+        <idno type="filename">DHARMA_INSCIC00171</idno>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
+            <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+              Licence. To view a copy of the licence, visit
+              https://creativecommons.org/licenses/by/4.0/ or send a letter to
+              Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+              California, 94041, USA.</p>
+            <p>Copyright (c) 2019-2025 by Arlo Griffiths &amp; Dániel Balogh.</p>
+          </licence>
+        </availability>
+        <date from="2019" to="2025">2019-2025</date>
+      </publicationStmt>
+      <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+        <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+          <msIdentifier>
+            <repository>DHARMAbase</repository>
+            <idno/><!-- don't modify this -->
+          </msIdentifier>
+          <msContents><!-- describe the intellectual content of an inscription -->
+            <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+          </msContents>
+          <physDesc>
+            <handDesc>
+              <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+              <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
 						<handNote xml:id="Pallava00001_hand2"></handNote>
 					 -->
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<revisionDesc>
-			<change who="part:argr" when="2020-10-20" status="draft">started initial encoding of the file</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
+            </handDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change who="part:argr" when="2020-10-20" status="draft">started initial encoding of the file</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">
+<!--daba:argr's original encoding follows; replaced by my suggestion
 <ab><gap reason="lost" unit="character" quantity="5" precision="low"/></ab>
 <lg n="1" met="āryā" ><certainty match="../@met" locus="value"/>
 	<l n="cd"><lb n="A1"/><gap reason="lost" unit="character" quantity="40" precision="low"/><unclear>ca</unclear>ñcalā buddhiḥ<space/></l>
+</lg>
+in editing your XML above, I have
+- moved the <lb> tag to the beginning of the reconstructed <ab>
+- added an <l n="ab"> and changed the estimated character number in the gaps for those two <l>s
+- added <seg> with @met around the gaps
+  - for this, note that in cd, the final "2|" is for an incomplete foot; cañ belongs to the end of this foot if the stanza was an āryā, so the foot delimiter | is a bit misleading as noted in my reply to your query in the EGD. Thus, perhaps better to change the EGD to call for | only in non-final feet, and in that case change delete the last | from both @met values here.
+-->
+<lb n="A1"/><ab><gap reason="lost" unit="character" quantity="5" precision="low"/></ab>
+<lg n="1" met="āryā" ><certainty match="../@met" locus="value"/>
+	<l n="ab"><seg met="4|4|4|4|4|4|4|2|"><gap reason="lost" unit="character" quantity="30" precision="low"/></seg></l>
+	<l n="cd"><seg met="4|4|4|4|2|"><gap reason="lost" unit="character" quantity="12" precision="low"/></seg><unclear>ca</unclear>ñcalā buddhiḥ<space/></l>
+</lg> 
 <!-- argr2daba: unsure 
 - how to encode the gap and the meter of this presumptive first stanza,
 - whether I should indeed add the totally lost prose <ab> before it, though I think you're right there must have been one
 - whether this is the kind of space where we want to encode with <space/> 
 -->
-</lg> 
+<!--daba2argr:
+1. for gap and metre in the first stanza, see my reply to your comment in the EGD and the example involving an āryā in §5.4.4
+2. I see no harm in encoding the hypothetical lost prose and discussing this in the commentary for human readers. If you wanted to be really meticulous, you could add a <certainty match=".." locus="name"/> inside that gap as per EGD §5.4.6, but then we'd have to change the EGD to permit this not only for whole lines but also for other possible gaps.
+3. If your question concerns the space after buddhiḥ and at other points where there seems to be a stanza end, then definitely, yes, it should be encoded, and encoded with just <space/> at the end of the stanza.
+-->
+
 <lg n="2" met="vasantatilakā"><!-- ––⏑–⏑⏑⏑–⏑⏑–⏑–⏓ -->
 	<l n="a">yasya prajāsu sutarāṁ kr̥<lb n="A2"/><seg met="-+-+="><gap reason="lost" unit="character" quantity="5"/></seg></l>
 	<l n="b"><seg met="++-+---+--+-+="><gap reason="lost" unit="character" quantity="14"/></seg></l>
@@ -99,7 +117,7 @@
 	<l n="b"><seg met="====-+-="><gap reason="lost" unit="character" quantity="8"/></seg></l>
 	<l n="c"><seg met="====-++="><gap reason="lost" unit="character" quantity="8"/></seg></l>
 	<l n="d"><lb n="A3"/><seg met="-"><gap reason="lost" unit="character" quantity="1"/></seg>nt<unclear>aṁ</unclear> yat puṇyavarddhanam·<g type="eye">.</g>
-		<!-- argr2daba: do you have a suggestion for naming this punctuation sign? --></l>
+		<!-- argr2daba: do you have a suggestion for naming this punctuation sign? --><!--daba2argr: seems to be a perfect case of "circleConcentric" as per the current Taxonomy. We've let that lie, but I still think we should aim for relatively small number of species in that taxonomy (such as "circle" in this case), instead of a large number of imaginative names such as "eye".--></l>
 </lg>
 <lg n="5" met="anuṣṭubh">
 	<l n="a">ratnalokeśvaro yena</l> 
@@ -120,6 +138,10 @@
 <!-- argr2daba: 
 - I imagine that cvaḥ and sira are vernacular words, compounded with Skt. ālaya: any other solution than to cut -sirāla- with foreign?
 - no problem to indicate -++= while only 3 akṣaras are lost? if such a scenario hasn't been foreseen in EGD, maybe add this example? -->
+<!--daba2argr:
+1. I can't think of anything better. Alternatively, you could just tag the whole of sirālay with <sic> to say it's unintelligible, and leave the rest of the information to the commentary.
+2. encoding -++= looks acceptable to me, but if I was encoding this, I would instead use <unclear>ya</unclear> or <unclear>y</unclear><unclear cert="low">a</unclear>, and just encode ++= for the gap. This eliminates your problem that only three characters are lost, and it also makes sense, since given the metre we don't expect the vowel of y to be e or o, and the word doesn't make sense with i or u, so it was very probably a. 
+-->
 	<l n="d"><seg met="====-+-="><gap reason="lost" unit="character" quantity="8"/></seg></l>
 </lg>
 <lg n="8" met="anuṣṭubh">
@@ -144,7 +166,7 @@
 </app>
 <app loc="B2">
 	 <lem>cvaḥ</lem>
-	<rdg source="bib:Finot+Goloubew1925_01">dvaḥ (?)</rdg><!-- argr2daba: how'd you encode such a question mark in previous edition? -->
+	<rdg source="bib:Finot+Goloubew1925_01">dvaḥ (?)</rdg><!-- argr2daba: how'd you encode such a question mark in previous edition? --><!--daba2argr: I would try to interpret the intention of the original editor and, unless he uses that mark very differently from Indian epigraphists, encode <unclear cert="low">dvaḥ</unclear>-->
 </app>
 <app loc="B3">
 	<lem><add place="below"><g type="eye"/></add>m anupama-</lem>

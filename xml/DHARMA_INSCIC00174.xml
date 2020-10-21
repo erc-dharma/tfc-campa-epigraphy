@@ -5,7 +5,7 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Dong-yen-chau rock inscription, province of Quang-nam, Annam (C. 174)</title>
+				<title>Rock of Đông Yên Châu (C. 174)</title>
 				<respStmt>
 					<resp>EpiDoc Encoding</resp>
 					<persName ref="part:sapi">
@@ -39,7 +39,7 @@
 							https://creativecommons.org/licenses/by/4.0/ or send a letter to
 							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
 							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Salomé Pichon.</p>
+						<p>Copyright (c) 2019-2025 by Salomé Pichon &amp; Arlo Griffiths.</p>
 					</licence>
 				</availability>
 				<date from="2019" to="2025">2019-2025</date>
@@ -74,9 +74,9 @@
       <body>
          <div type="edition" xml:lang="x-oldcham-Latn">
 					 <p>
-						 <lb n="1"/><foreign xml:lang="san-Latn">siddham·</foreign><g type="spiralR"/>nī yāṅ· <foreign xml:lang="san-Latn">nāga</foreign> puñ· putauv· ya Urāṅ· spūy· di ko
-						 <lb n="2"/>kurun· ko jmāy· labuḥ nari <foreign xml:lang="san-Latn">svarggaḥ</foreign> ya Urāṅ· <foreign xml:lang="san-Latn">paribhū</foreign> d<supplied reason="lost">i</supplied> ko
-						 <lb n="3"/>kurun· saribū thūn· ko davam· di <foreign xml:lang="san-Latn">naraka</foreign> dṅan· tijūḥ <foreign xml:lang="san-Latn">kulo</foreign> ko
+						 <lb n="1"/>siddhaM<g type="spiralR"/>nī yāṄ nāga puÑ putauV ya UrāṄ spūY di ko
+						 <lb n="2"/>kuruN ko jmāY labuḥ nari svarggaḥ ya UrāṄ paribhū d<unclear>i</unclear> ko
+						 <lb n="3"/>kuruN saribū thūN ko davaM di naraka dṅaN tijūḥ kulo ko
 					 </p>
          </div>
          <div type="apparatus">
@@ -86,11 +86,15 @@
 	 								 <rdg source="bib:Coedes1939_01">ni</rdg>
 	 							</app>
 								<app loc="1">
-									<lem>yāṅ·</lem>
-									<rdg source="bib:Coedes1939_01">yaṅ·</rdg>
+									<lem>yāṄ</lem>
+									<rdg source="bib:Coedes1939_01">yaṄ</rdg>
 							 </app>
                </listApp>
          </div>
+				 <div type="translation" xml:lang="eng">
+					 <p n="1-3">Success! This is the divine serpent of the king. People who are gentle to you
+						 Ceci est le saint <foreign>nāga</foreign> du roi. Quiconque le traite doucement....... des joyaux tombent ciel ; quiconque l'insulte...... pendant 1000 années <supplied reason="subaudible">il souffre</supplied> aux enfers avec sept générations de sa famille.</p>
+				 </div>
 				 <div type="translation" xml:lang="fra" source="bib:Coedes1937-1966_01">
 					 <p n="1-3">Succès ! Ceci est le saint <foreign>nāga</foreign> du roi. Quiconque le traite doucement....... des joyaux tombent ciel ; quiconque l'insulte...... pendant 1000 années <supplied reason="subaudible">il souffre</supplied> aux enfers avec sept générations de sa famille.</p>
 				 </div>

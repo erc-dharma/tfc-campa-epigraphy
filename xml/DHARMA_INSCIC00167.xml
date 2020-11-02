@@ -63,6 +63,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
+			<change who="part:sapi" when="2020-11-02">Adding bibliography</change>
 			<change who="part:sapi" when="2020-10-21">Revisions of the file</change>
 		<change who="part:sapi" when="2020-10-20">Initial encoding of the file</change>
 		</revisionDesc>
@@ -78,7 +79,7 @@
 					<l n="d">vandati śrīmato bhavān<unclear>·</unclear><g type="ddandaOrnate">.</g><!--sapi2argr : Ici j'ai bien lu la note suggérant le manque de ponctuation, donc je ne suis pas sûre de mon interprétation de ces <> en double danda. --></l>
 				</lg>
 				<lg n="2" met="āryā">
-					<l n="ab">dhībhāj jita-ripu-vala <supplied reason="lost">gu<g type="danda"/></supplied><!--sapi2argr Ici j'ai restitué le gu qualifié dans la note ab. de manquant. --><lb n="A2" break="no"/>ruciratayā śaṁ prajāsu sa śrīmat·<g type="danda"/></l>
+					<l n="ab">dhībhāj jita-ripu-vala <supplied reason="lost">gu<g type="danda"/></supplied><!--sapi2argr Ici j'ai restitué le gu qualifié de manquant dans la note ab. --><lb n="A2" break="no"/>ruciratayā śaṁ prajāsu sa śrīmat·<g type="danda"/></l>
 					<l n="cd">rākendur iva mahīndrā<g type="danda"/>dhipatir ayaṁ prāptavān avanau<g type="ddanda">.</g></l>
 				</lg>
 				<lg n="3" met="anuṣṭubh">
@@ -158,12 +159,36 @@
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
 	<!-- NB: you are encouraged to experiment with encoding bibliography to the extent you have the bibliographic data available, but it is not mandatory at this stage, because our bibliographic data are normally assembled along with other metadata in spreadsheets and will be imported from there into our xml files by a semi-automated process at a later stage. -->
-           <p>First inventoried by H. Parmentier (<bibl rend="omitname"><ptr target="bib:Parmentier1909_01"/><citedRange unit="page">594</citedRange></bibl>)... work in progress.</p>
+           <p>First inventoried by H. Parmentier (<bibl rend="omitname"><ptr target="bib:Parmentier1909_01"/><citedRange unit="page">564</citedRange></bibl>). First mentionned in the <foreign>Chronique</foreign> section of (<bibl rend="journalNumDate"><ptr target="bib:BEFEO19_1919"/><citedRange unit="page">103</citedRange>), then by G. Cœdès (<bibl rend="omitname"><ptr target="bib:Coedes1923_01"/><citedRange unit="page">37</citedRange></bibl>), and finally by L. Finot (<bibl rend="omitname"><ptr target="bib:Finot1925_02"/><citedRange unit="volume">1</citedRange><citedRange unit="page">234</citedRange></bibl>)<!--sapi2argr J'ai ici rajouté une entrée pour Finot-->. Later on evoked by K.-H. Golzio (<bibl rend="omitname"><ptr target="bib:Golzio2004_01"/><citedRange unit="page">115</citedRange></bibl>), and N. Chutiwongs (<bibl rend="omitname"><ptr target="bib:Chutiwongs2005_01"/><citedRange unit="page">75/78</citedRange></bibl>)<!--sapi2argr Comment signifier deux mentions sur deux pages différentes ? -->.</p>
         	<listBibl type="primary">
-				<bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+						<bibl n="P">
+						<ptr target="bib:Parmentier1909_01"/>
+						<citedRange unit="page">564</citedRange>
+						</bibl>
+						<bibl>
+						<ptr target="bib:BEFEO19_1919"/>
+						<citedRange unit="page">103</citedRange>
+						</bibl>
+						<bibl n="C">
+						<ptr target="bib:Coedes1923_01"/>
+						<citedRange unit="page">37</citedRange>
+						</bibl>
+						<bibl n="F">
+						<ptr target="bib:Finot1925_02"/>
+						<citedRange unit="volume">1</citedRange>
+						<citedRange unit="page">234</citedRange>
+						</bibl>
+
 			</listBibl>
            <listBibl type="secondary">
-              <bibl n="siglum"/><!-- one <bibl/> per item of secondary bibliography . Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+						 <bibl>
+						<ptr target="bib:Golzio2004_01"/>
+						<citedRange unit="page">115</citedRange>
+						</bibl>
+						 <bibl>
+						 <ptr target="bib:Chutiwongs2005_01"/>
+						 <citedRange unit="page">75/78</citedRange>
+						 </bibl>
            </listBibl>
         </div>
       </body>

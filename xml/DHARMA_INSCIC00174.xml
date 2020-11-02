@@ -67,6 +67,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
+			<change who="part:argr part:sapi" when="2020-10-21">First revisions of the file</change>
 				<change who="part:sapi" when="2020-10-20">Initial encoding of the file</change>
 		</revisionDesc>
 	</teiHeader>
@@ -92,7 +93,7 @@
                </listApp>
          </div>
 				 <div type="translation" xml:lang="eng">
-					 <p n="1-3">Success! This is the divine serpent of the king. People who are gentle to you
+					 <p n="1-3">Success! This is the divine serpent of the king. People who are gentle to you, your KURUN may fall from heaven.
 						 Ceci est le saint <foreign>nāga</foreign> du roi. Quiconque le traite doucement....... des joyaux tombent ciel ; quiconque l'insulte...... pendant 1000 années <supplied reason="subaudible">il souffre</supplied> aux enfers avec sept générations de sa famille.</p>
 				 </div>
 				 <div type="translation" xml:lang="fra" source="bib:Coedes1937-1966_01">

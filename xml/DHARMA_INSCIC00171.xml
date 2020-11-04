@@ -150,7 +150,7 @@ in editing your XML above, I have
 	<l n="c"><seg met="====-++="><gap reason="lost" unit="character" quantity="8"/></seg></l>
 	<l n="d"><seg met="====-+-="><gap reason="lost" unit="character" quantity="8"/></seg></l>
 </lg>
-<p><lb n="B3"/><add place="below"><g type="eye"/></add>m anupama-matiḥ <space/> śrīmāñ jayasiṅhavarmmadevo ’ya<gap reason="lost" extent="unknown"/></p>
+<p><lb n="B3"/><add place="below"><g type="eye"/></add>m anupama-matiḥ <space/> śrīmāñ jayasiṅhavarmmadevo ’ya<gap reason="lost" extent="unknown" unit="character"/></p>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
@@ -185,8 +185,7 @@ in editing your XML above, I have
            <p>BTLS Hanoi LSb 21179.	Estampages EFEO n. 507a, 507b, reproduits sur CD (mais apparemment l'un sous le no. de l'autre). Planches LVIa et LVIb dans BEFEO XXV.
 	Based on examination of the estampage n. 507.</p>
         	<listBibl type="primary">
-	<bibl n="FG"/><bibl><ptr target="bib:Finot+Goloubew1925_01"/><citedRange unit="page">472-474</citedRange>
-	</bibl>
+	<bibl n="FG"><ptr target="bib:Finot+Goloubew1925_01"/><citedRange unit="page">472-474</citedRange></bibl>
 	</listBibl>
            <listBibl type="secondary">
               <bibl>

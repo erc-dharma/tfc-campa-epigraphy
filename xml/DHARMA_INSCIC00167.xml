@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
 		<fileDesc>
 			<titleStmt>
 				<title>Kon Klor ablution tank, 836-876 Śaka (C. 167) </title>
@@ -22,10 +22,7 @@
 				</respStmt>
 			</titleStmt>
 			<publicationStmt>
-				<authority>DHARMA <note>This project has received funding from the European Research
-						Council (ERC) under the European Union's Horizon 2020 research and
-						innovation programme (grant agreement no 809994).</note>
-				</authority>
+				<authority>DHARMA</authority>
 				<pubPlace>Paris</pubPlace>
 				<idno type="filename">DHARMA_INSCIC00167</idno>
 				<availability>
@@ -62,7 +59,29 @@
 				</msDesc>
 			</sourceDesc>
 		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+			</projectDesc>
+			<schemaRef type="guide"
+				key="EGDv01"
+				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<listPrefixDef>
+				<prefixDef ident="bib"
+					matchPattern="([a-zA-Z0-9\-\_]+)"
+					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+					<p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+				</prefixDef>
+				<prefixDef ident="part"
+					matchPattern="([a-z]+)"
+					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+					<p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
+				</prefixDef>
+			</listPrefixDef>
+		</encodingDesc>
 		<revisionDesc>
+			<change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
+			
 			<change who="part:sapi" when="2020-11-02">Adding bibliography</change>
 			<change who="part:sapi" when="2020-10-21">Revisions of the file</change>
 		<change who="part:sapi" when="2020-10-20">Initial encoding of the file</change>
@@ -71,7 +90,7 @@
 	<text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">
-					 <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A1"/>svasti << >><!-- sapi2argr Comment inscrire ce symbole ? --></ab>
+					 <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A1"/>svasti << >> <!-- sapi2argr Comment inscrire ce symbole ? --></ab>
 					 <lg n="1" met="anuṣṭubh">
 					<l n="a">śrī Indravarmmaṇo rājño</l>
 					<l n="b">mahīndrādhipatir vvaram·<g type="danda"/></l>
@@ -85,7 +104,7 @@
 				<lg n="3" met="anuṣṭubh">
 					<l n="a">cūrṇṇāṅkita<choice><unclear>vadane ye</unclear><unclear>vadanāyai</unclear></choice><g type="danda"/></l>
 					<l n="b">prabhātaḥ svavanau pri<lb n="A3" break="no"/>ye<g type="danda"/></l>
-					<l n="c"<foreign xml:lang="x-oldcham-Latn">lyaṅ·</foreign> Indrabhūmi-subhadre<g type="danda"/></l>
+					<l n="c"><foreign xml:lang="x-oldcham-Latn">lyaṅ·</foreign> Indrabhūmi-subhadre<g type="danda"/></l>
 					<l n="d"><unclear>bha</unclear>dre sadam gir asya te<g type="ddanda">.</g></l>
 				</lg>
 				<lg n="4" met="vasantatilaka">
@@ -107,7 +126,7 @@
 					<l n="d">tena tribhuvanādhikam·</l>
 				</lg>
 				<lg n="7" met="āryā">
-					<l n="ab"><milestone type="pagelike" unit="face" n="C"/><lb n="C1">śrī Indravarmmanr̥pati<g type="danda"/>r yyaś cājñā<supplied reason="omitted>"ṁ</supplied> <foreign xml:lang="x-oldcham-Latn">pov ku</foreign> mahīndrādhipatau<g type="danda"/></l>
+					<l n="ab"><milestone type="pagelike" unit="face" n="C"/><lb n="C1"/>śrī Indravarmmanr̥pati<g type="danda"/>r yyaś cājñā<supplied reason="omitted">ṁ</supplied> <foreign xml:lang="x-oldcham-Latn">pov ku</foreign> mahīndrādhipatau<g type="danda"/></l>
 					<l n="cd">sarvvāṁ muktiṁ kr̥payā<g type="danda"/>mahīndralok<supplied reason="lost">e</supplied>śvarāyādāt·<g type="danda"/><g type="ddanda">.</g></l>
 				</lg>
 				<lg n="8" met="śārdūlavikrīḍita">

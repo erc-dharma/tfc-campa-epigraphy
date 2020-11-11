@@ -97,42 +97,27 @@
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">
-<!--daba:argr's original encoding follows; replaced by my suggestion
-<ab><gap reason="lost" unit="character" quantity="5" precision="low"/></ab>
-<lg n="1" met="āryā" ><certainty match="../@met" locus="value"/>
-	<l n="cd"><lb n="A1"/><gap reason="lost" unit="character" quantity="40" precision="low"/><unclear>ca</unclear>ñcalā buddhiḥ<space/></l>
-</lg>
-in editing your XML above, I have
-- moved the <lb> tag to the beginning of the reconstructed <ab>
-- added an <l n="ab"> and changed the estimated character number in the gaps for those two <l>s
-- added <seg> with @met around the gaps
-  - for this, note that in cd, the final "2|" is for an incomplete foot; cañ belongs to the end of this foot if the stanza was an āryā, so the foot delimiter | is a bit misleading as noted in my reply to your query in the EGD. Thus, perhaps better to change the EGD to call for | only in non-final feet, and in that case change delete the last | from both @met values here.
--->
 <lb n="A1"/><ab><gap reason="lost" unit="character" quantity="5" precision="low"/></ab>
 <lg n="1" met="āryā"><certainty match="../@met" locus="value"/>
-	<l n="ab"><seg met="4|4|4|4|4|4|4|2|"><gap reason="lost" unit="character" quantity="30" precision="low"/></seg></l>
-	<l n="cd"><seg met="4|4|4|4|2|"><gap reason="lost" unit="character" quantity="12" precision="low"/></seg><unclear>ca</unclear>ñcalā buddhiḥ<space/></l>
-</lg> 
-<!-- argr2daba: unsure 
+	<l n="ab"><seg met="4|4|4|4|4|4|4|2"><gap reason="lost" unit="character" quantity="30" precision="low"/></seg></l>
+	<l n="cd"><seg met="4|4|4|4|2"><gap reason="lost" unit="character" quantity="12" precision="low"/></seg><unclear>ca</unclear>ñcalā buddhiḥ<space/></l>
+</lg>
+<!-- argr2daba: unsure
 - how to encode the gap and the meter of this presumptive first stanza,
 - whether I should indeed add the totally lost prose <ab> before it, though I think you're right there must have been one
-- whether this is the kind of space where we want to encode with <space/> 
 -->
 <!--daba2argr:
-1. for gap and metre in the first stanza, see my reply to your comment in the EGD and the example involving an āryā in §5.4.4
 2. I see no harm in encoding the hypothetical lost prose and discussing this in the commentary for human readers. If you wanted to be really meticulous, you could add a <certainty match=".." locus="name"/> inside that gap as per EGD §5.4.6, but then we'd have to change the EGD to permit this not only for whole lines but also for other possible gaps.
-3. If your question concerns the space after buddhiḥ and at other points where there seems to be a stanza end, then definitely, yes, it should be encoded, and encoded with just <space/> at the end of the stanza.
 -->
-
 <lg n="2" met="vasantatilakā"><!-- ––⏑–⏑⏑⏑–⏑⏑–⏑–⏓ -->
-	<l n="a">yasya prajāsu sutarāṁ kr̥<lb n="A2"/><seg met="-+-+="><gap reason="lost" unit="character" quantity="5"/></seg></l>
+	<l n="a">yasya prajāsu sutarāṁ kr̥<lb n="A2" break="no"/><seg met="-+-+="><gap reason="lost" unit="character" quantity="5"/></seg></l>
 	<l n="b"><seg met="++-+---+--+-+="><gap reason="lost" unit="character" quantity="14"/></seg></l>
 	<l n="c"><seg met="++-+---+--+-+="><gap reason="lost" unit="character" quantity="14"/></seg></l>
 	<l n="d"><seg met="++-+---+--+-+="><gap reason="lost" unit="character" quantity="14"/></seg></l>
 </lg>
 <lg n="3" met="anuṣṭubh">
-	<l n="a"><supplied reason="lost">bhā</supplied>ṇḍāgārādhikāro ’yaṁ<space/></l> 
-	<l n="b">tasya bhr̥tyaḥ prasā<seg met="+="><gap reason="lost" unit="character" quantity="2"/></seg></l>
+	<l n="a"><supplied reason="lost">bhā</supplied>ṇḍāgārādhikāro ’yaṁ<space/></l>
+	<l n="b">tasya bhr̥tyaḥ prasā<lb n="A3" break="no"/><seg met="+="><gap reason="lost" unit="character" quantity="2"/></seg></l>
 	<l n="c"><seg met="====-++="><gap reason="lost" unit="character" quantity="8"/></seg></l>
 	<l n="d"><seg met="====-+-="><gap reason="lost" unit="character" quantity="8"/></seg></l>
 </lg>
@@ -140,13 +125,13 @@ in editing your XML above, I have
 	<l n="a"><seg met="====-++="><gap reason="lost" unit="character" quantity="8"/></seg></l>
 	<l n="b"><seg met="====-+-="><gap reason="lost" unit="character" quantity="8"/></seg></l>
 	<l n="c"><seg met="====-++="><gap reason="lost" unit="character" quantity="8"/></seg></l>
-	<l n="d"><lb n="A3"/><seg met="-"><gap reason="lost" unit="character" quantity="1"/></seg>nt<unclear>aṁ</unclear> yat puṇyavarddhanam·<g type="eye">.</g>
+	<l n="d"><seg met="-"><gap reason="lost" unit="character" quantity="1"/></seg>nt<unclear>aṁ</unclear> yat puṇyavarddhanam·<g type="eye">.</g>
 		<!-- argr2daba: do you have a suggestion for naming this punctuation sign? --><!--daba2argr: seems to be a perfect case of "circleConcentric" as per the current Taxonomy. We've let that lie, but I still think we should aim for relatively small number of species in that taxonomy (such as "circle" in this case), instead of a large number of imaginative names such as "eye".--></l>
 </lg>
 <lg n="5" met="anuṣṭubh">
-	<l n="a">ratnalokeśvaro yena</l> 
-	<l n="b"><lb n="B1"/>sthāpito rajatātmakaḥ<space/></l> 
-	<l n="c">vr̥ddhe ratnapure śā<lb n="A3"/><seg met="="><gap reason="lost" unit="character" quantity="1"/></seg></l>
+	<l n="a">ratnalokeśvaro yena</l>
+	<l n="b"><lb n="B1"/>sthāpito rajatātmakaḥ<space/></l>
+	<l n="c">vr̥ddhe ratnapure śā<seg met="="><gap reason="lost" unit="character" quantity="1"/></seg></l>
 	<l n="d"><seg met="====-+-="><gap reason="lost" unit="character" quantity="8"/></seg></l>
 </lg>
 <lg n="6" met="anuṣṭubh">
@@ -157,15 +142,8 @@ in editing your XML above, I have
 </lg>
 <lg n="7" met="anuṣṭubh">
 	<l n="a"><seg met="====-++="><gap reason="lost" unit="character" quantity="8"/></seg></l>
-	<l n="b"><lb n="B2"/><foreign xml:lang="x-oldcham-Latn">hjai-traṅ·</foreign>-kṣetraṁ <foreign xml:lang="x-oldcham-Latn">juṅā</foreign>-pure <space/></l>
-	<l n="c"><foreign xml:lang="x-oldcham-Latn">cvaḥ-sirā</foreign>la<unclear>y</unclear><seg met="-++="><gap reason="lost" unit="character" quantity="3"/></seg></l>
-<!-- argr2daba: 
-- I imagine that cvaḥ and sira are vernacular words, compounded with Skt. ālaya: any other solution than to cut -sirāla- with foreign?
-- no problem to indicate -++= while only 3 akṣaras are lost? if such a scenario hasn't been foreseen in EGD, maybe add this example? -->
-<!--daba2argr:
-1. I can't think of anything better. Alternatively, you could just tag the whole of sirālay with <sic> to say it's unintelligible, and leave the rest of the information to the commentary.
-2. encoding -++= looks acceptable to me, but if I was encoding this, I would instead use <unclear>ya</unclear> or <unclear>y</unclear><unclear cert="low">a</unclear>, and just encode ++= for the gap. This eliminates your problem that only three characters are lost, and it also makes sense, since given the metre we don't expect the vowel of y to be e or o, and the word doesn't make sense with i or u, so it was very probably a. 
--->
+	<l n="b"><lb n="B2"/><foreign xml:lang="x-oldcham-Latn">hjai-traṅ·</foreign>-kṣetraṁ <foreign xml:lang="x-oldcham-Latn">juṅā</foreign>-pure<space/></l>
+	<l n="c"><foreign xml:lang="x-oldcham-Latn">cvaḥ-sirā</foreign>la<unclear>ya</unclear><seg met="++="><gap reason="lost" unit="character" quantity="3"/></seg></l>
 	<l n="d"><seg met="====-+-="><gap reason="lost" unit="character" quantity="8"/></seg></l>
 </lg>
 <lg n="8" met="anuṣṭubh">
@@ -174,11 +152,11 @@ in editing your XML above, I have
 	<l n="c"><seg met="====-++="><gap reason="lost" unit="character" quantity="8"/></seg></l>
 	<l n="d"><seg met="====-+-="><gap reason="lost" unit="character" quantity="8"/></seg></l>
 </lg>
-<p><lb n="B3"/><add place="below"><g type="eye"/></add>m anupama-matiḥ <space/> śrīmāñ jayasiṅhavarmmadevo ’ya<gap reason="lost" extent="unknown" unit="character"/></p>
+<p><lb n="B3"/><add place="below"><g type="eye"/></add>m an-upama-matiḥ <space/> śrīmāñ jayasiṅhavarmmadevo <unclear>’ya</unclear><gap reason="lost" extent="unknown" unit="character"/></p>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
-               <listApp> 
+               <listApp>
 <app loc="A2">
 	<lem>tasya</lem>
 	<rdg source="bib:Finot+Goloubew1925_01">tasyā</rdg>
@@ -190,7 +168,7 @@ in editing your XML above, I have
 </app>
 <app loc="B2">
 	 <lem>cvaḥ</lem>
-	<rdg source="bib:Finot+Goloubew1925_01">dvaḥ (?)</rdg><!-- argr2daba: how'd you encode such a question mark in previous edition? --><!--daba2argr: I would try to interpret the intention of the original editor and, unless he uses that mark very differently from Indian epigraphists, encode <unclear cert="low">dvaḥ</unclear>-->
+	<rdg source="bib:Finot+Goloubew1925_01"><unclear cert="low">dvaḥ</unclear></rdg>
 </app>
 <app loc="B3">
 	<lem><add place="below"><g type="eye"/></add>m anupama-</lem>
@@ -206,7 +184,7 @@ in editing your XML above, I have
             <p>Finot &amp; Goloubew observe that <q xml:lang="fra">Le texte subsistant ne doit guère représenter que le quart de l'inscription totale</q> and that <q>Il paraît être rédigé en çlokas</q> (<bibl rend="omitname"><ptr target="bib:Finot+Goloubew1925_01"/><citedRange unit="page">472</citedRange></bibl>). The second claim is not confirmed by the more precise metrical analysis presented here.</p>
          </div>
         <div type="bibliography">
-           <p>BTLS Hanoi LSb 21179.	Estampages EFEO n. 507a, 507b, reproduits sur CD (mais apparemment l'un sous le no. de l'autre). Planches LVIa et LVIb dans BEFEO XXV.
+           <p><!-- BTLS Hanoi LSb 21179.	Estampages EFEO n. 507a, 507b, reproduits sur CD (mais apparemment l'un sous le no. de l'autre). Planches LVIa et LVIb dans BEFEO XXV. -->
 	Based on examination of the estampage n. 507.</p>
         	<listBibl type="primary">
 	<bibl n="FG"><ptr target="bib:Finot+Goloubew1925_01"/><citedRange unit="page">472-474</citedRange></bibl>

@@ -128,13 +128,16 @@
       </graphic>
    </facsimile>
    <text xml:space="preserve"><body><div type="edition" xml:lang="x-oldcam-Latn"> 
-                <head xml:lang="eng">Anterior</head>
+                <div type="textpart">
+                   <head xml:lang="eng">Anterior</head>
                 <ab> 
         <lb n="1"/> po[m̃] ku śrī <unclear>i</unclear>ndravarmma dauk<unclear>·</unclear> d<unclear>i</unclear> dandan<unclear>·</unclear> pov· <seg type="check">klesa añcov·</seg> maninum· <seg type="check">śakra pu(ṣ)ya disāk· pat· si X X gotra X</seg>
         <lb n="2"/> yāṅ· vihāra kā pu yāṅ· sūk· suvāk· <seg type="check">tamā riṁ śodha tañā</seg> urāṅ· <seg type="check">rar· X X X X X dasuXḥ dri yiXy· X </seg>pu po<unclear>m̃</unclear> ku <seg type="check">X X</seg>
-                </ab>
+                </ab></div>
             
-                <head xml:lang="eng">Lateral</head>
+                <div type="textpart">
+                   <head xml:lang="eng">Lateral</head>
                 <ab>Virtually unreadable.</ab>
+                </div>
             </div><div type="translation"><p/></div><div type="translation" xml:lang="fra"><p/></div><div type="commentary"><p/></div><div type="bibliography"><p/><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:parmentier-1909"/><citedRange unit="page">285</citedRange></bibl><bibl><ptr target="bib:parmentier-1918"/><citedRange unit="page">243</citedRange></bibl></listBibl></div></body></text>
 </TEI>

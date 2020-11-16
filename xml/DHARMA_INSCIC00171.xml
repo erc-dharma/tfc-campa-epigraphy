@@ -90,9 +90,9 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-        <change who="part:argr" when="2020-11-09" status="draft">finished initial encoding of the file</change>
+      	<change who="part:argr" when="2020-11-16" status="draft">finished initial encoding of the inscription — translation remains to be added</change>
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
-         <change who="part:argr" when="2020-10-20" status="draft">started initial encoding of the file</change>
+         <change who="part:argr" when="2020-10-20" status="draft">started initial encoding of the inscription</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
@@ -127,7 +127,9 @@
 	<l n="b"><seg met="====-+-="><gap reason="lost" unit="character" quantity="8"/></seg></l>
 	<l n="c"><seg met="====-++="><gap reason="lost" unit="character" quantity="8"/></seg></l>
 	<l n="d"><seg met="-"><gap reason="lost" unit="character" quantity="1"/></seg>nt<unclear>aṁ</unclear> yat puṇyavarddhanam·<g type="eye">.</g>
-		<!-- argr2daba: do you have a suggestion for naming this punctuation sign? --><!--daba2argr: seems to be a perfect case of "circleConcentric" as per the current Taxonomy. We've let that lie, but I still think we should aim for relatively small number of species in that taxonomy (such as "circle" in this case), instead of a large number of imaginative names such as "eye".--></l>
+<!-- argr2daba: do you have a suggestion for naming this punctuation sign? -->
+<!--daba2argr: seems to be a perfect case of "circleConcentric" as per the current Taxonomy. We've let that lie, but I still think we should aim for relatively small number of species in that taxonomy (such as "circle" in this case), instead of a large number of imaginative names such as "eye".-->
+<!-- argr2daba: see image and comment pasted into taxonomy file--></l>
 </lg>
 <lg n="5" met="anuṣṭubh">
 	<l n="a">ratnalokeśvaro yena</l>
@@ -156,7 +158,6 @@
 <p><lb n="B3"/><add place="below"><g type="eye"/></add>m an-upama-matiḥ <space/> śrīmāñ jayasiṅhavarmmadevo <unclear>’ya</unclear><gap reason="lost" extent="unknown" unit="character"/></p>
          </div>
          <div type="apparatus">
-           <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
                <listApp>
 <app loc="A2">
 	<lem>tasya</lem>
@@ -182,11 +183,10 @@
  	<!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
-            <p>Finot &amp; Goloubew observe that <q xml:lang="fra">Le texte subsistant ne doit guère représenter que le quart de l'inscription totale</q> and that <q>Il paraît être rédigé en çlokas</q> (<bibl rend="omitname"><ptr target="bib:Finot+Goloubew1925_01"/><citedRange unit="page">472</citedRange></bibl>). The second claim is not confirmed by the more precise metrical analysis presented here.</p>
+            <p>Finot &amp; Goloubew observe that <q xml:lang="fra">Le texte subsistant ne doit guère représenter que le quart de l'inscription totale</q> and that <q>Il paraît être rédigé en çlokas</q> (<bibl rend="omitname"><ptr target="bib:Finot+Goloubew1925_01"/><citedRange unit="page">472</citedRange></bibl>). The second claim is not confirmed by the more precise metrical analysis presented here. Our reconstruction of the lost text is based on the assumption that the text would have been more or less symmetrically distributed over the two sides of a pedestal, the conduit for libation fluids marking the transition from the first part (A) to the second (B). Part A of the text would have begun on either near the middle of the vertical face straight across the pedestal from the conduit, or in the far left corner viewed from the conduit; part B would have ended on back at the same point on the vertical face across the conduit, or in the far right corner. One line of text would, in each part, have extended over about 65 akṣaras. ]</p>
          </div>
         <div type="bibliography">
-           <p><!-- BTLS Hanoi LSb 21179.	Estampages EFEO n. 507a, 507b, reproduits sur CD (mais apparemment l'un sous le no. de l'autre). Planches LVIa et LVIb dans BEFEO XXV. -->
-	Based on examination of the estampage n. 507.</p>
+           <p>First edited by Finot &amp; Goloubew (<bibl rend="omitname"><ptr target="bib:Finot+Goloubew1925_01"/></bibl>). Re-edited and here by Dániel Balogh &amp; Arlo Griffiths from the estampages EFEO n. 507 and photographs of the stone.</p>
         	<listBibl type="primary">
 	<bibl n="FG"><ptr target="bib:Finot+Goloubew1925_01"/><citedRange unit="page">472-474</citedRange></bibl>
 	</listBibl>
@@ -200,3 +200,7 @@
       </body>
   </text>
 </TEI>
+<!-- 
+BTLS Hanoi LSb 21179.
+Planches LVIa et LVIb dans BEFEO XXV. 
+-->

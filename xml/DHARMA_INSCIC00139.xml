@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Phu-qui lintel (C. 122)</title>
+                <title>Phu-Thuan stela (C. 139)</title>
                 <respStmt>
         					<resp>EpiDoc Encoding</resp>
         					<persName ref="part:sapi">
@@ -24,7 +24,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Paris</pubPlace>
-                <idno type="filename">DHARMA_INSCIC00122</idno>
+                <idno type="filename">DHARMA_INSCIC00139</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -74,66 +74,67 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:sapi" when="2020-11-23">started initial encoding of the inscription</change>
+            <change who="part:sapi" when="2020-12-01">started initial encoding of the inscription</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="x-oldcham-Latn">
+        <div type="edition" xml:lang="x-oldcham-Latn">
            <p>
-             <lb n="1"/>di śakarāja <num value="977">977</num> nan· kāla Iśvaramūrtti sidaḥ yām̃ po ku śrī parameśvaravarmmadeva santā<lb
-             n="2" break="no"/>na Uroja ya cakravarttirāja di nagara campa nim̃ ra pratiṣṭhā yām̃ vihāra rājakula niy· mulaṅ·
-             <lb n="3"/>tra ra paralap· kalañ· ya ruṅ· nan· jeṅ· Avista bharuv· ra vuḥ Urām̃ maddan· lumvauv· kravāv· hu<lb
-             n="4" break="no"/>mā ṅan· samasta Upakaraṇa tuy· devārccaṇa panūjā devatā nim̃ sadā kāla nau<g type="ddandaPlain">.</g>
+             <lb n="1"/>svasti <unclear><g type="dandaSerif">.</g></unclear> niy· kanadhā kuv· pu pov· tana rayā yaṅ· ma<lb
+             n="2" break="no"/>Anan· śrī Indravarmmadeva yaṅ· sakala rājādhirāja di nagara
+             <lb n="3"/>campa vriy· yāṅ· pov· ku śrī bhāgyakānteśvara matandāḥ sarvvākarādāna
+             <lb n="4"/>kuv· vriy· yāṅ· niy· pat· pov· kuv· danāy· sandiy· yajamāna yāṅ· niy· kintu ka<lb
+             n="5" break="no"/>raṇa sandyāṃ yāṅ· niy· ṅan· udakānna <g type="dotMid">.</g> nan· hetu kuv· Atat· <unclear>d</unclear>i yajam<unclear>ā</unclear>na niy· siy· pu
+             <lb n="6"/>pov· tana rayā yaṅ· maputau Andap· niy· siy· Urāṅ· rayā yaṅ· marayā Andap· niy·
+             <lb n="7"/>pu pov· tana rayā ṅan· Urāṅ· rayā mapaknā tuy· tanatap· kuv· niy· pu pov· tana rayā nan·
+             <lb n="8"/>ṅan· Urāṅ· rayā nan· tmuv· punya di dalaṃ rājya kuv· tra di dalaṃ rājya driy· tra tmuv· pada yām̃ pu pov·
+             <lb n="9"/>ku śiva vela U<supplied reason="lost">rā</supplied>ṅ· rayā masuvāk· top· punya niy· di yajamāna niy· vel<choice><unclear>a</unclear><unclear>i</unclear></choice> makluñ·
+             <lb n="10"/>kariy· Atha vā ma <gap reason="lost" quantity="2" unit="character"/> vriy· Urāṅ· vukan· kluñ· driy· Urāṅ· rayā nan· nau Av<choice><unclear>i</unclear><unclear>ī</unclear></choice>
            </p>
          </div>
          <div type="apparatus">
            <listApp>
              <app loc="3">
-               <lem>ruṅ</lem>
-               <rdg source="bib:Coedes1912_01">sāṅ</rdg>
+               <lem>sarvvākarādāna</lem>
+               <rdg source="bib:Huber1911_02">sarvvakarādāna</rdg>
             </app>
-            <app loc="3">
-              <lem>bharuv</lem>
-              <rdg source="bib:Coedes1912_01"><unclear cert="low">ga sāv</unclear></rdg>
+            <app loc="10">
+              <lem>Atha vā</lem>
+              <rdg source="bib:Huber1911_02">Athavā</rdg>
            </app>
+           <app loc="10">
+             <lem>Avi</lem>
+             <rdg source="bib:Huber1911_02">Avī[ci]</rdg>
+          </app>
                </listApp>
          </div>
-         <div type="translation" xml:lang="fra">
-           <p n="1-4">Dans <supplied reason="subaudible">l’année du</supplied> roi des <foreign>Śaka</foreign> 977. Ce fut le temps où cette manifestation d’Īśvara, le <foreign>Y.P.K. Śrī</foreign> Parameśvaradeva, de la famille d’Uroja, lequel fut roi universel dans ce pays de Campā, refonda le dieu de ce monastère de la famille royale. Il applattit <supplied reason="subaudible">le terrain pour</supplied> cette tour en pavillon, pour que tout soit <supplied reason="subaudible">fait</supplied> neuf. Il donna des esclaves avec des bovidés, des buffles, des rizières, et tous les ustensils <supplied reason="explanation">upakaraṇa</supplied> selon le culte, la vénération des dieux, maintenant <supplied reason="explanation">nim̃</supplied> <supplied reason="subaudible">et</supplied> toujours en avenir.</p>
-         </div>
-        <div type="translation" xml:lang="eng">
-          <p n="1-4">
-            In <supplied reason="subaudible">the year of the</supplied> <foreign>Śaka</foreign>-king 977: this was the time that this manifestation of Īśvara, milord <foreign>Śrī</foreign> Parameśvaradeva, of the lineage of Uroja, who was universal king in this land of Campā, re-established the deity of the monastery of the royal family. He flattened <supplied reason="subaudible">the ground for</supplied> this tower which is pavilion, in order that everything be new. He gave slaves with cows, buffaloes, rice fields, and all utensils <supplied reason="explanation">upakaraṇa</supplied> according to the cult, the worship of the gods, nows <supplied reason="explanation">nim̃</supplied> <supplied reason="subaudible">and</supplied> always in the future.
-          </p>
+         <div type="translation" xml:lang="eng" source="bib:Golzio2004_01">
+           <p n="1-10">Hail ! Here is what I command, I, <foreign>śrī</foreign> Indravarmmadeva, king of kings, of the country of Campā. I exempt the <supplied reason="subaudible">temple of</supplied> god <foreign>Śrī</foreign> Bhāgya-Kānteśvara from all taxes. I employ four priests who will serve as sacrificiers at his service, and give <supplied reason="subaudible">the taxes</supplied> to them for defraying their own expenses and those of the worship. In regard to my donations to these priests, I implore the future kings and the future inhabitants of this country to respect my endowments. Because in acting thus they will be happy in this kingdom or elsewhere, and after death gain the heaven Siva. But if the men destroy my pious foundation made in favour of the curates of the temple, or have it destroyed by others, then they would go to the Avici hell.</p>
+         <div type="translation" xml:lang="fra" source="bib:Coedes1937-1966_01">
+ 	         <p n="1-10">Bonheur ! Voici ce que j'ordonne, moi, <foreign>Śrī</foreign> Indravarmadeva, roi des rois du pays de Campā. Au <supplied reason="subaudible">temple du</supplied> dieu <foreign>Śrī</foreign> Bhāgyakānteśvara je donne l'exemption de tous les impôts. Et j'acche au service de ce dieu quatre desservants qui seront ses sacrificateurs, et <supplied reason="subaudible">je leur donne</supplied> de quoi subvenir aux frais du culte et à leur entretien. À l'égard de ce dont je dispose en faveur des desservants du temple, j'invoque les rois qui régneront à l'avenir et les habitants du pays qui vivront à l'avenir : que ces rois-là et ces habitants-là respectent ce que j'ai institué. Car en agissant ainsi ces rois-là et ces hommes-là vivront heureux dans ce royaume ou ailleurs, et à leur mort ils gagneront le paradis de Śiva. Mais si des hommes ruinent la fondation pieuse faite en faveur des desservants du temple ou s'ils la font détruire par autrui, que ces hommes-là aillent dans l'enfer Avīci.</p>
          </div>
          <div type="commentary">
          </div>
         <div type="bibliography">
-           <p>First edited by G. Cœdès (<bibl rend="omitname"><ptr target="bib:Coedes1912_01"/><citedRange unit="page">15-17</citedRange></bibl>). Then mentionned by L. Finot (<bibl rend="omitname"><ptr target="bib:Finot1915_03"/><citedRange unit="page">41</citedRange></bibl>) <!--sapi2argr Devrais-je supprimer les numéros de pages pour Finot, Majumdar et Golzio ? --> and R. C. Majumdar (<bibl rend="omitname"><ptr target="bib:Majumdar1927_01"/><citedRange unit="page">154</citedRange></bibl>).
-           G. Cœdès edition was later re-published by K.-H. Golzio (<bibl rend="omitname"><ptr target="bib:Golzio2004_01"/><citedRange unit="page">131</citedRange></bibl>). Re-edited and here by Arlo Griffiths from the estampage EFEO 781, with a fresh translation.
-         </p>
-         <listBibl type="primary">
-           <bibl n="GC">
-           <ptr target="bib:Coedes1912_01"/>
-           <citedRange unit="page">15-17</citedRange>
-           </bibl>
+           <p>First edited in french by E. Huber (<bibl rend="omitname"><ptr target="bib:Huber1911_02"/><citedRange unit="page">10-13</citedRange></bibl>). Then mentionned by Majumdar (<bibl rend="omitname"><ptr target="bib:Majumdar1927_01"/><citedRange unit="page">92-93</citedRange></bibl>). Re-edited later in english by K.-H. Golzio (<bibl rend="omitname"><ptr target="bib:Golzio2004_01"/><citedRange unit="page">77-78</citedRange></bibl>)</p>
+        	<listBibl type="primary">
+            <bibl n="EH">
+            <ptr target="bib:Huber1911_02"/>
+            <citedRange unit="page">10-13</citedRange>
+            </bibl>
+            <bibl n="KHG">
+            <ptr target="bib:Golzio2004_01"/>
+            <citedRange unit="page">77-78</citedRange>
+            </bibl>
 			</listBibl>
            <listBibl type="secondary">
-              <bibl>
-                <ptr target="bib:Finot1915_03"/>
-                <citedRange unit="page">41</citedRange>
-              </bibl>
-              <bibl>
-                <ptr target="bib:Majumdar1927_01"/>
-                <citedRange unit="page">154</citedRange>
-              </bibl>
-              <bibl>
-                <ptr target="bib:Golzio2004_01"/>
-                <citedRange unit="page">131</citedRange>
-              </bibl>
+             <bibl>
+           <ptr target="bib:Majumdar1927_01"/>
+           <citedRange unit="page">92-93</citedRange>
+           </bibl>
            </listBibl>
         </div>
-      </body>
-  </text>
+      </body><!--sapi2argr : Je ne comprends pas l'erreur affichée par Oxygen ici car la balise body est ouverte à la ligne 81. -->
+        </text>
 </TEI>

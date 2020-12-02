@@ -83,6 +83,7 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
+			<change who="part:argr part:sapi" when="2020-12-02" status="draft">continuing translation of old Cam part</change>
 			<change who="part:argr part:sapi" when="2020-11-25" status="draft">started translation of old Cam part</change>
 			<change who="part:argr part:sapi" when="2020-11-18" status="draft">Multiple small edits</change>
 			<change who="part:argr" when="2020-11-04" status="draft">Resolved validation problems; multiple small edits</change>
@@ -160,8 +161,12 @@
 				limān·<g type="danda">.</g>
 				māḥ pirak kā Ājñā pov· ku mahī<lb
 				n="D3" break="no"/>ndrādhipatiḥ <space/> grāc· vuḥ di vihāra śrīmahīndralokeśvara<g type="danda">.</g> yām̃ pu pov· kuv· kā vrim̃ vihāra nim̃ mata<lb
-				n="D4" break="no"/>ndāḥ sarvvataḥ riṁ nari nau Oḥ jem̃ pitaup·<!-- two words? cf. top dravaya in C106. Or mitaup· pitauv·? --> hulun· dravya vihāra nim̃ kā Ājñā pov· ku Atat· di Inā
-				<milestone type="pagelike" unit="face" n="E"/><lb n="E1"/>Oḥ jem̃ si<!-- is there an unclear m̃? --> kluñ· dauk kan· satyodakānna maṅ·<!-- is there a | here? --> sim̃ ya rakṣā nagara tanrem̃ Aṅgāḥ tum̃ ra pandaṁ man·<g type="danda">.</g> nim̃ vukan trā nasim̃ sa<lb
+				n="D4" break="no"/>ndāḥ sarvvataḥ riṁ narim̃ nau Oḥ jem̃ si top· hulun· dravya vihāra nim̃ kā Ājñā pov· ku Atat· di Inā
+				<milestone type="pagelike" unit="face" n="E"/><lb n="E1"/>Oḥ jem̃ si<!-- is there an unclear m̃? --> kluñ· dauk kan· satyodakānna man·<g type="danda">.</g>
+				sim̃ ya rakṣā nagara tanrem̃ Aṅgāḥ tum̃ ra pandaṁ man·<g type="danda">.</g>
+<!-- C. 106: ājñā yāṅ· pu pov· ku śrījayasiṅhavarmmadeva • vriy· yāṅ· pov· ku si(4)niy· mataṇḍāḥ avis· pat· • oḥ jeṅ· si kluñ· oḥ jeṅ· si top· anna tauṅ· tamr̥yāla niv· di kāra urāṅ· -->
+
+				nim̃ vukan trā nasim̃ sa<lb
 				n="E2" break="no"/>nraum̃ romaruy· pāt· limān· pāt· rocibhavya<!-- gavya? separate words? --> pu vinai Ājñā pov· ku mahīndrādhipatiḥ kā vrim̃ kan· pu vinai subhadrā
 <!--  taḥ proṅ· bhogopabhoga si matmuv· va drim̃ (•) tra Inā Amā drim̃ di svargga <<[quatrefoil]>> -->
 				<lb n="E3"/>sim̃ ya rakṣā nagara nim̃· Aṅgā<add place="above">ḥ</add> tuy· ra pandaṁ manna sā sanraum̃ nasim̃ sā caruv· tapai ya jem̃ lo nariy· ṅan· ya jem̃<g type="danda">.</g> dvāta<!-- dvā ta? -->
@@ -188,12 +193,15 @@
 				 <p rend="stanza" n="6">Cette belle oeuvre pie, supérieure dans les trois mondes, a été offerte par lui à sa propre mère Pu Pov Ku Kunukuḥ Devī.</p>
 				 <p rend="stanza" n="7">Le roi Śrī Indravarman a gracieusement donné à mon seigneur <supplied reason="explanation">ājñā pov ku</supplied> Mahīndrādhipati, l’exemption <supplied reason="subaudible">fiscale</supplied> complète au bénéfice de Mahīndralokeśvara.</p>
 				 <p rend="stanza" n="8">Alors mon seigneur le Dauphin <supplied reason="explanation">indra ... yuvā = yuvarājā</supplied> de Tanreṅpurī, a donné votre entière exemption <supplied reason="subaudible" cert="low">et?</supplied> une multitude d’ornements en forme d’une bonne réputation à cette <supplied reason="subaudible">princesse</supplied> nommée Subhadrā, dont le visage était poudré du poudre du Ketaka, dont les yeux était extraordinairement <supplied reason="explanation">sau°</supplied> larges, une faible femme, pour que <supplied reason="subaudible">leur</supplied> amour ne soit jamais détruite, tant qu’elle jouissait de la fertilité conjugale.</p>
-				 <p n="C3-D4">Which rice fields? Kedvuk, Cuvair Bhoja, Lahaur <supplied reason="explanation"><q>Evening</q></supplied>, Pitau Janreh.
+				 <p n="C3-D3">Which rice fields? Kedvuk, Cuvair Bhoja, Lahaur <supplied reason="explanation"><q>Evening</q></supplied>, Pitau Janreh.
 				 Rice fields Puṅ Manat fish Pu, Curiḥ, Diṅin <supplied reason="explanation"><q>Cold</q></supplied>, Aṅauy, Lāc, Luvauṅ.
 				 Kaun, marshes, plains, brush, ponds, hills, all those ricefields.
 				 The <foreign>cluṅ dhuṅ</foreign> above these forests and brushes.
 				 Bovines, buffaloes, slaves, elephants, gold, silver.
-				 Then Ā.P.K. Mahīndrādhipatiḥ grāc gave them to the monastery of Śrī Mahīndralokeśvara ...</p>
+				 Then my lord (Ā.P.K.) Mahīndrādhipatiḥ offered <foreign>grāc</foreign> [and] gave them to the monastery of Śrī Mahīndralokeśvara.</p>
+				 <p n="D3-E1">His Majesty then made this monastery exempt (from taxation) in every way (sarvataḥ), from all perspectives (? riṁ nariy nau). May no-one they steal the slaves owned by this monastery.
+Then my lord transfered [the merit?] to his mother.
+May no-one at all destroy <foreign>dauk</foreign> the truth-water and food.
 				 </div>
          <div type="commentary">
           <p n="A1">bhavān· : the right half of the virāma doesn't appear on the photograph of the estampage, but the same word can be found in stanzas V et VIII.</p>

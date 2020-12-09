@@ -83,6 +83,7 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
+			<change who="part:argr part:sapi" when="2020-12-09" status="draft">continuing translation of old Cam part</change>
 			<change who="part:argr part:sapi" when="2020-12-02" status="draft">continuing translation of old Cam part</change>
 			<change who="part:argr part:sapi" when="2020-11-25" status="draft">started translation of old Cam part</change>
 			<change who="part:argr part:sapi" when="2020-11-18" status="draft">Multiple small edits</change>
@@ -165,9 +166,11 @@
 				<milestone type="pagelike" unit="face" n="E"/><lb n="E1"/>Oḥ jem̃ si<!-- is there an unclear m̃? --> kluñ· dauk kan· satyodakānna man·<g type="danda">.</g>
 				sim̃ ya rakṣā nagara tanrem̃ Aṅgāḥ tum̃ ra pandaṁ man·<g type="danda">.</g>
 <!-- C. 106: ājñā yāṅ· pu pov· ku śrījayasiṅhavarmmadeva • vriy· yāṅ· pov· ku si(4)niy· mataṇḍāḥ avis· pat· • oḥ jeṅ· si kluñ· oḥ jeṅ· si top· anna tauṅ· tamr̥yāla niv· di kāra urāṅ· -->
-
 				nim̃ vukan trā nasim̃ sa<lb
-				n="E2" break="no"/>nraum̃ romaruy· pāt· limān· pāt· rocibhavya<!-- gavya? separate words? --> pu vinai Ājñā pov· ku mahīndrādhipatiḥ kā vrim̃ kan· pu vinai subhadrā
+				n="E2" break="no"/>nraum̃<g type="danda">.</g> sa <unclear>ma</unclear>ruy·<!-- sanraum̃| sa/sā/so maruy·? --> pāt· limān· pāt· rocibhavya<!-- read
+				| saci-? | sakhi-? -gavya? separate words? -->
+				pu vinai Ājñā pov· ku mahīndrādhipatiḥ
+				kā vrim̃ kan· pu vinai subhadrā
 <!--  taḥ proṅ· bhogopabhoga si matmuv· va drim̃ (•) tra Inā Amā drim̃ di svargga <<[quatrefoil]>> -->
 				<lb n="E3"/>sim̃ ya rakṣā nagara nim̃· Aṅgā<add place="above">ḥ</add> tuy· ra pandaṁ manna sā sanraum̃ nasim̃ sā caruv· tapai ya jem̃ lo nariy· ṅan· ya jem̃<g type="danda">.</g> dvāta<!-- dvā ta? -->
 				<lb n="E4"/>matandāḥ niy· nāma<g type="danda">.</g> siy· ya pamataḥ<g type="danda">.</g> Asov· lūḥ<g type="danda">.</g> Asov· hitaṁ pāt· matā ñu ndoy· Inā ñū Inā Amā

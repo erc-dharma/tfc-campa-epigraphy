@@ -74,6 +74,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:sapi part:argr" when="2020-12-16">revised initial encoding of the inscription</change>
             <change who="part:sapi" when="2020-11-23">started initial encoding of the inscription</change>
         </revisionDesc>
     </teiHeader>
@@ -81,10 +82,10 @@
       <body>
          <div type="edition" xml:lang="x-oldcham-Latn">
            <p>
-             <lb n="1"/>di śakarāja <num value="977">977</num> nan· kāla Iśvaramūrtti sidaḥ yām̃ po ku śrī parameśvaravarmmadeva santā<lb
+             <lb n="1"/><g type="ddandaPlain">.</g>di śakarāja <num value="977">977</num> nan· kāla Im̃śvaramūrtti si daḥ yām̃ po ku śrī parameśvaravarmmadeva santā<lb
              n="2" break="no"/>na Uroja ya cakravarttirāja di nagara campa nim̃ ra pratiṣṭhā yām̃ vihāra rājakula niy· mulaṅ·
              <lb n="3"/>tra ra paralap· kalañ· ya ruṅ· nan· jeṅ· Avista bharuv· ra vuḥ Urām̃ maddan· lumvauv· kravāv· hu<lb
-             n="4" break="no"/>mā ṅan· samasta Upakaraṇa tuy· devārccaṇa panūjā devatā nim̃ sadā kāla nau<g type="ddandaPlain">.</g>
+             n="4" break="no"/>mā ṅan· samasta Upakaraṇa tuy· devārccaṇa panūjā devatā nim̃ sadākāla nau<g type="ddandaPlain">.</g>
            </p>
          </div>
          <div type="apparatus">
@@ -99,13 +100,15 @@
            </app>
                </listApp>
          </div>
+         <!-- traduction de GC: En çaka 811, à l'époque (marquée par) les (11) ïçvaras (= Rudras) et les (8) corps (de Çiva), Sa Majesté Çrï Parameçvaravarmadeva, de la lignée
+d'Uroja, roi čakravartin en ce pays de Campa, élève ce vihâra Ràjakula. Il orne... cette maison. .., il donne des hommes, des boeufs, des buffles, des
+rizières, ainsi que tous les ustensiles pour le culte des dieux et le service de cette divinité; (il fait ces dons) à perpétuité. -->
+    <div type="translation" xml:lang="eng">
+        <p n="1-4">In <supplied reason="subaudible">the year of the</supplied> Śaka-king 977: that was the time that the manifestation of Īśvara, namely Y.P.K. Śrī Parameśvaradeva, of the lineage of Uroja, was the universal king in this land of Campā. He re-established the deity of the monastery of the royal family. Also, he rendered glittering this tower which was abandoned, in order that everything be new. He gave slaves with cows, buffaloes, rice fields, and all utensils <supplied reason="explanation">upakaraṇa</supplied> according to the cult, the worship of the gods, here <supplied reason="explanation">nim̃</supplied> for eternity.
+      </p>
+    </div>
          <div type="translation" xml:lang="fra">
-           <p n="1-4">Dans <supplied reason="subaudible">l’année du</supplied> roi des <foreign>Śaka</foreign> 977. Ce fut le temps où cette manifestation d’Īśvara, le <foreign>Y.P.K. Śrī</foreign> Parameśvaradeva, de la famille d’Uroja, lequel fut roi universel dans ce pays de Campā, refonda le dieu de ce monastère de la famille royale. Il applattit <supplied reason="subaudible">le terrain pour</supplied> cette tour en pavillon, pour que tout soit <supplied reason="subaudible">fait</supplied> neuf. Il donna des esclaves avec des bovidés, des buffles, des rizières, et tous les ustensils <supplied reason="explanation">upakaraṇa</supplied> selon le culte, la vénération des dieux, maintenant <supplied reason="explanation">nim̃</supplied> <supplied reason="subaudible">et</supplied> toujours en avenir.</p>
-         </div>
-        <div type="translation" xml:lang="eng">
-          <p n="1-4">
-            In <supplied reason="subaudible">the year of the</supplied> <foreign>Śaka</foreign>-king 977: this was the time that this manifestation of Īśvara, milord <foreign>Śrī</foreign> Parameśvaradeva, of the lineage of Uroja, who was universal king in this land of Campā, re-established the deity of the monastery of the royal family. He flattened <supplied reason="subaudible">the ground for</supplied> this tower which is pavilion, in order that everything be new. He gave slaves with cows, buffaloes, rice fields, and all utensils <supplied reason="explanation">upakaraṇa</supplied> according to the cult, the worship of the gods, nows <supplied reason="explanation">nim̃</supplied> <supplied reason="subaudible">and</supplied> always in the future.
-          </p>
+           <p n="1-4">Dans <supplied reason="subaudible">l’année du</supplied> roi des Śaka 977. Ce fut le temps la manifestation d’Īśvara que voici, le Y.P.K. Śrī Parameśvaradeva, de la lignée d’Uroja, fut le roi universel dans ce pays de Campā. Il réinstalla le dieu de ce monastère de la famille royale. En outre, il rendit brillante cette tour qui était abandonnée, pour que tout soit <supplied reason="subaudible">fait</supplied> neuf. Il donna des esclaves avec des bovidés, des buffles, des rizières, et tous les ustensils <supplied reason="explanation">upakaraṇa</supplied> selon le culte, la vénération des dieux, ici <supplied reason="explanation">nim̃</supplied> pour l'éternité.</p>
          </div>
          <div type="commentary">
          </div>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project basedir="." name="dharma-test">
+<project basedir="." name="dharma">
 
     <!-- Macrodef taken from tlrobinson.net blog-->
     <macrodef name = "git">
@@ -31,7 +31,7 @@
     <!-- git clone then pull -->
     <git-clone-pull repository="git://github.com/erc-dharma/project-documentation.git" dest="project-documentation" />
 
-    <fileset id="xmlFiles" dir="./xml" includes="/*.xml"/>
+    <fileset id="xmlFiles" dir="./xml" includes="*.xml"/>
     <fileset id="htmlFiles" dir="./workflow-output/editedxml" includes="**/*.xml"/>
 
     <!-- Transformation XML vers XML -->

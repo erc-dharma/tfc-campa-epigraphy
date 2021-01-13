@@ -78,13 +78,14 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+          <change who="part:sapi" when="2020-12-27" status="draft">few corrections</change>
           <change who="part:sapi" when="2020-12-27" status="draft">Initial encoding of the inscription</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">
-           <ab><milestone type="pagelike" unit="face" n="A"/><lb n="01"/><g type="floretQuatrefoil"/><g type="ddandaOrnate">.</g> Om̐ namaś ś<choice><unclear>i</unclear><unclear>ī</unclear></choice>vāya<g type="ddandaOrnate">.</g><g type="floretQuatrefoil"/><supplied reason="lost">svasti</supplied></ab>
+           <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A01"/><g type="floretQuatrefoil"/><g type="ddandaOrnate">.</g> Om̐ namaś ś<choice><unclear>i</unclear><unclear>ī</unclear></choice>vāya<g type="ddandaOrnate">.</g><g type="floretQuatrefoil"/><supplied reason="lost">svasti</supplied></ab>
            <lg n="1" met="sragdharā"><lb n="A1"/>
            <l n="a"><supplied reason="lost">nā</supplied> <unclear>nārūpā</unclear>ṇi yasyākhila-jagad-uditaiśvaryya-saṁbhāvitāni<g type="dotMid">.</g></l>
            <l n="b">ksipta-kṣoṇī-durātma-prabhr̥ti-bhayata<unclear>māṁ-sīddha-tejāṁsi nitya</unclear><lb n="A2" break="no"/><unclear>m</unclear><choice><unclear>·</unclear><unclear><g type="dotMid">.</g></unclear></choice></l>

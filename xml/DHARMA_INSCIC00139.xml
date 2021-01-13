@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Phu-Thuan stela (C. 139)</title>
+                <title>Phú Thuận stela (C. 139)</title>
                 <respStmt>
         					<resp>EpiDoc Encoding</resp>
         					<persName ref="part:sapi">
@@ -74,6 +74,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:sapi part:argr" when="2021-01-13">revised initial encoding of the inscription</change>
             <change who="part:sapi" when="2020-12-01">started initial encoding of the inscription</change>
         </revisionDesc>
     </teiHeader>
@@ -81,16 +82,16 @@
       <body>
         <div type="edition" xml:lang="x-oldcham-Latn">
            <p>
-             <lb n="1"/>svasti <unclear><g type="dandaSerif">.</g></unclear> niy· kanadhā kuv· pu pov· tana rayā yaṅ· ma<lb
+             <lb n="1"/>svasti <g type="dotMid">.</g> niy· kanadhā kuv· pu pov· tana rayā yaṅ· ma<lb
              n="2" break="no"/>Anan· śrī Indravarmmadeva yaṅ· sakala rājādhirāja di nagara
              <lb n="3"/>campa vriy· yāṅ· pov· ku śrī bhāgyakānteśvara matandāḥ sarvvākarādāna
              <lb n="4"/>kuv· vriy· yāṅ· niy· pat· pov· kuv· danāy· sandiy· yajamāna yāṅ· niy· kintu ka<lb
-             n="5" break="no"/>raṇa sandyāṃ yāṅ· niy· ṅan· udakānna <g type="dotMid">.</g> nan· hetu kuv· Atat· <unclear>d</unclear>i yajam<unclear>ā</unclear>na niy· siy· pu
-             <lb n="6"/>pov· tana rayā yaṅ· maputau Andap· niy· siy· Urāṅ· rayā yaṅ· marayā Andap· niy·
+             n="5" break="no"/>raṇa sandyāṁ yāṅ· niy· ṅan· Udakānna<g type="dotMid">.</g> nan· hetu kuv· Atat· <unclear>d</unclear>i yajamāna niy· siy· pu
+             <lb n="6"/>pov· tana rayā yaṅ· maputau Andap· niy· siy· Urāṅ· rayā yaṅ· marayā Anda<unclear>p</unclear>· niy·
              <lb n="7"/>pu pov· tana rayā ṅan· Urāṅ· rayā mapaknā tuy· tanatap· kuv· niy· pu pov· tana rayā nan·
-             <lb n="8"/>ṅan· Urāṅ· rayā nan· tmuv· punya di dalaṃ rājya kuv· tra di dalaṃ rājya driy· tra tmuv· pada yām̃ pu pov·
-             <lb n="9"/>ku śiva vela U<supplied reason="lost">rā</supplied>ṅ· rayā masuvāk· top· punya niy· di yajamāna niy· vel<choice><unclear>a</unclear><unclear>i</unclear></choice> makluñ·
-             <lb n="10"/>kariy· Atha vā ma <gap reason="lost" quantity="2" unit="character"/> vriy· Urāṅ· vukan· kluñ· driy· Urāṅ· rayā nan· nau Av<choice><unclear>i</unclear><unclear>ī</unclear></choice>
+             <lb n="8"/>ṅan· Urāṅ· rayā nan· tmuv· punya di dalaṁ rājya kuv· tra di dalaṁ rājya driy· tra tmuv· pada yām̃ pu pov·
+             <lb n="9"/>ku śiva vela U<supplied reason="lost">rā</supplied>ṅ· rayā masuvāk· top· punya niy· di yajamāna niy· vela makluñ·
+             <lb n="10"/>kariy· Athavā ma<gap reason="lost" quantity="2" unit="character"/> vriy· Urāṅ· vukan· kluñ· driy· Urāṅ· rayā nan· nau Av<unclear>ī</unclear><supplied reason="lost">ci</supplied>
            </p>
          </div>
          <div type="apparatus">
@@ -99,13 +100,9 @@
                <lem>sarvvākarādāna</lem>
                <rdg source="bib:Huber1911_02">sarvvakarādāna</rdg>
             </app>
-            <app loc="10">
-              <lem>Atha vā</lem>
-              <rdg source="bib:Huber1911_02">Athavā</rdg>
-           </app>
            <app loc="10">
-             <lem>Avi</lem>
-             <rdg source="bib:Huber1911_02">Avī[ci]</rdg>
+             <lem>Av<unclear>ī</unclear><supplied reason="lost">ci</supplied></lem>
+             <note>It is possible that a faint trace of the expected <foreign>ci</foreign> is still visible at the end of line 10 on the estampage.</rdg>
           </app>
                </listApp>
          </div>
@@ -118,15 +115,11 @@
          <div type="commentary">
          </div>
         <div type="bibliography">
-           <p>First edited in french by E. Huber (<bibl rend="omitname"><ptr target="bib:Huber1911_02"/><citedRange unit="page">10-13</citedRange></bibl>). Then mentionned by Majumdar (<bibl rend="omitname"><ptr target="bib:Majumdar1927_01"/><citedRange unit="page">92-93</citedRange></bibl>). Re-edited later in english by K.-H. Golzio (<bibl rend="omitname"><ptr target="bib:Golzio2004_01"/><citedRange unit="page">77-78</citedRange></bibl>)</p>
+           <p>First edited with translation into French by E. Huber (<bibl rend="omitname"><ptr target="bib:Huber1911_02"/><citedRange unit="page">10-13</citedRange></bibl>). Then mentioned by Majumdar (<bibl rend="omitname"><ptr target="bib:Majumdar1927_01"/><citedRange unit="page">92-93</citedRange></bibl>). Huber's edition was republished with translation into English by K.-H. Golzio (<bibl rend="omitname"><ptr target="bib:Golzio2004_01"/><citedRange unit="page">77-78</citedRange></bibl>). The inscription is re-edited here by Arlo Griffiths based on autopsy and the EFEO estampage n. 153.</p>
         	<listBibl type="primary">
-            <bibl n="EH">
+            <bibl n="H">
             <ptr target="bib:Huber1911_02"/>
             <citedRange unit="page">10-13</citedRange>
-            </bibl>
-            <bibl n="KHG">
-            <ptr target="bib:Golzio2004_01"/>
-            <citedRange unit="page">77-78</citedRange>
             </bibl>
 			</listBibl>
            <listBibl type="secondary">
@@ -134,8 +127,12 @@
            <ptr target="bib:Majumdar1927_01"/>
            <citedRange unit="page">92-93</citedRange>
            </bibl>
+           <bibl>
+           <ptr target="bib:Golzio2004_01"/>
+           <citedRange unit="page">77-78</citedRange>
+           </bibl>
            </listBibl>
         </div>
-      </body><!--sapi2argr : Je ne comprends pas l'erreur affichée par Oxygen ici car la balise body est ouverte à la ligne 81. -->
+      </body>
         </text>
 </TEI>

@@ -92,7 +92,7 @@
       <body>
          <div type="edition" xml:lang="san-Latn">
 <div type="textpart" n="1">
-	<head>Inscription exposed</head>
+	<head xml:lang="eng">Inscription exposed</head>
               <ab><lb n="01"/>śrī</ab>
 <lg n="1" met="anuṣṭubh">
 	<l n="a"><lb n="1"/><milestone unit="zone" n="a"/>vikrānteśvaralokau yau</l>
@@ -127,13 +127,13 @@
 <lb n="14"/>pov· puṇya<g type="ddanda">.</g></p>
 </div>
 <div type="textpart" subtype="trial" n="2">
-	<head>Trials unexposed</head>
+	<head xml:lang="eng">Trials unexposed</head>
 	<ab><lb n="17"/>śrīyy<unclear>i</unclear> śrīrājavi<unclear>ḥ</unclear></ab>
 </div>
          </div>
          <div type="apparatus">
  <div type="textpart" n="1">
-	<head>Inscription exposed</head>
+	<head xml:lang="eng">Inscription exposed</head>
               <listApp>
 		<app loc="1">
 			<lem>nr̥pau</lem>

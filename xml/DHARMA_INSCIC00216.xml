@@ -5,7 +5,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="fra">Stela inscription of Hoà Lai</title>
+            <title>Stela inscription of Hoà Lai</title>
             <respStmt>
                <resp>EpiDoc Encoding</resp>
                <persName ref="part:sapi">
@@ -51,7 +51,7 @@
          <sourceDesc>
             <biblFull>
                <titleStmt>
-                  <title xml:lang="fra">Stela inscription of Hoà Lai</title>
+                  <title>Stela inscription of Hoà Lai</title>
                   <editor>Arlo Griffiths</editor>
                </titleStmt>
                <editionStmt>

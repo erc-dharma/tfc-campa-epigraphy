@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lai trung stela (C. 148)</title>
+                <respStmt>
+        					<resp>EpiDoc Encoding</resp>
+        					<persName ref="part:sapi">
+        						<forename>Salomé</forename>
+        						<surname>Pichon</surname>
+        					</persName>
+        				</respStmt>
+        				<respStmt>
+        					<resp>intellectual authorship of edition</resp>
+        					<persName ref="part:argr">
+        							<forename>Arlo</forename>
+        							<surname>Griffiths</surname>
+        					</persName>
+        				</respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSCIC00148</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Arlo Griffiths &amp; Salomé Pichon.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+          <change who="part:sapi" when="2021-01-26" status="draft">Initial encoding of the inscription</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="san-Latn">
+           <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A1"/><g type="floretComplex"/><g type="ddandaHooked">.</g> svasti<g type="ddandaHooked">.</g> Oṁ namaś śivāya<g type="ddandaHooked">.</g> siddhir astu<g type="ddandaHooked">.</g><space/><g type="floretComplex"/></ab>
+           <lg n="1" met="śārdūlavikrīḍita">
+             <l n="a"><lb n="A2"/>yo vyāpī tribhavottamo guruyaśās sarvvaiḥ suraiḥ pūjito</l>
+             <l n="b">bhaktyā yogaviśuddhayā<lb n="A3"/> pṛthutamaujobhiś ca siddharṣibhiḥ"/><g type="dandaPlain">.</g></l>
+             <l n="c">devāmitragaṇair agendravivare devāṅganābhis tathā</l>
+             <l n="d">pāpāpattivināśakṛt pra<lb n="A4" break="no"/>ṇayināṁ nṝṇāṁ vibhūtin dadau<g type="ddandaHooked">.</g></l>
+           </lg>
+           <lg n="2" met="indravajrā">
+             <l n="a" enjamb="yes">śrīśānadevasya harasya tasyai</l>
+             <l n="b">vāṅghridvayāmbhoruhareṇubhir yyā<unclear><g type="dandaPlain">.</g></unclear></l>
+             <l n="c" enjamb="yes"><lb n="A5"/>campāpurī saṁpadanūnaśobhā</l><!--sapi2argr Ici entre le "u" de °purī et le "ū" de °anū° j'ai du mal à voir une différence paléographique. -->
+             <l n="d">sadbhogabhārāḍhyatarā samṛddhā<g type="ddandaHooked">.</g></l>
+           </lg>
+           <lg n="3" met="śārdūlavikrīḍita">
+             <l n="a">tasyāṁ śrī jaya Indravarmmanṛpatiḥ saṁp<choice><sic>a</sic><corr>ā</corr></choice>ditaśrīḥ<lb n="A6"/> satā<unclear>ṁ</unclear></l>
+             <l n="b">senābhiḥ sakalābhir indur iva vā tārābhir āsevitaḥ</l>
+             <l n="c">dīptājñāparirakṣitākhilajagad yaḥ puṇyakarmmodayaḥ</l>
+             <l n="d"><lb n="A7"/>kāntyālokamanovibodhanakaraś śaktyā prajā rakṣatu<g type="ddandaHooked">.</g></l>
+           </lg>
+           <lg n="4" met="sragdharā">
+             <l n="a">tasyāmātyas samasteśaguṇapaṭutaro śesa<lb n="A8" break="no"/>dharmmāspadārthī</l>
+             <l n="b">nānāpuṇyāvasānāj janitamunimanomodano yo malātmā<unclear><g type="dandaPlain">.</g></unclear></l>
+             <l n="c">śāntyā rākenduvat sajjana<unclear>jana</unclear><!--sapi2argr Ici j'ai moi même lu jana. Mais voici le commentaire du rtf : c. sajjanaXX: lire sajjanajana? Majumdar propose sajjanagaṇa.--><lb n="A9" break="no"/>viruto labdhakīrttyāgamaśrīḥ</l>
+             <l n="d">śāstrī śāstrajñasaṁghaiḥ stutipaṭumatibhir ddiṅmukhe gīyate sma<g type="ddandaHooked">.</g></l>
+           </lg>
+           <lg n="5" met="śārdūlavikrīḍita">
+             <l n="a"><lb n="A10"/>po yāñ pov ku danāy pināṅ pṛthujanaḥ śaivakriyājñānavid</l>
+             <l n="b">yogadhyānasamādhikṛc chivapadecchā<lb n="A11"/> yo nijātmaśriyaḥ<g type="dandaPlain">.</g><!--sapi2argr Ici j'ai rajouté un danda au rtf ainsi qu'au xml car il me semble en distinguer un.--></l>
+             <l n="c">smṛtvāmbhaḥplavamānaphenasadṛśa<unclear>ṁ</unclear> kāyaṁ<!--sapi2argr Ici j'ai corrigé kāyam en kāyaṁ--> tv anityam mahat</l>
+             <l n="d">tat puṇyaṁ bha<lb n="A12" break="no"/>vasāgarāt sma kurute pitror mmuce svātmanaḥ<g type="ddandaHooked">.</g></l>
+           </lg>
+           <p>śrī Amarendrapureśvarasya dhanāni kṣetra<lb
+             n="A13" break="no"/>godāsadāsīmahiṣādīni dhānyataṇḍulavasanarajatakanakakaṁsaloha<choice><unclear>ta</unclear><unclear>tra</unclear></choice><!--sapi2argr Ici le rtf indique "ta", ainsi que Huber, mais il semble y avoir un ra souscrit ?--><lb
+              n="A14" break="no"/>mrādīni ca ye ke pāpapuruṣā haranti balatayā tṛṣṇatayā vā <milestone type="pagelike" unit="face" n="B"/><!--sapi2argr Inverser les faces b et C en B et c et mettre un commentaire pour montrer la différence avec Huber ? (si oui, ne pas oublier de changer le rtf)-->
+            </p>
+             <p xml:lang="x-oldcham-Latn"><lb n="B1"/>humā
+             <lb n="B2"/>
+             <lb n="B3"/>
+           </p>
+           <p xml:lang="san-Latn">
+             <lb n="B4"/>kalkanatayā vātibhīmama
+             <lb n="B5"/>hānarake ghoratarahutā
+             <lb n="B6"/>śanaśikhākarāle patantu te
+             <lb n="B7"/>pitṛvandhupakṣair mmātrivandhupakṣai<lb
+             n="B8" break="no"/>ḥ punā rakṣanti na haranti vā ye
+             <lb n="B9"/>ke sādhupuruṣā dharmmakāṅkṣi<lb
+             n="B10" break="no"/>ṇaḥ prāpnuvantu te nityaṁ svargga<lb
+             n="B11" break="no"/>phalam iti<g type="ddandaHooked">.</g>
+           </p>
+           <p xml:lang="x-oldcham-Latn">siy· Urāṅ· yaṅ·
+             <lb n="B12"/>mavac· tuy· śanāpa niy· Asu<lb
+             n="B13" break="no"/>v hitaṁ asuv putiḥ Asuv miraḥ
+             <lb n="B14"/>Asuv pāk matā Avis ta ya nan·
+             <lb n="B15"/>Āśraya Inā Urāṅ nan<g type="ddandaHooked">.</g> niy·
+             <lb n="B16"/>śakarāja kāla vuḥ yāp· triḥ
+             <lb n="B17"/>catvāra Aṣṭa<space/><g type="floretComplex"/>
+             <milestone type="pagelike" unit="face" n="C"/><gap reason="lost" quantity="14" unit="line" precision="low"/><milestone type="pagelike" unit="face" n="D"/><lb
+             n="D1" break="no"/>nna niy· kā liṅait· Oḥ pathuv·
+             <lb n="D2"/>Urāṅ· rayā Oḥ surāk· di pu po<lb
+             n="D3" break="no"/>v· tana rayā urāṅ· nan· tmuv· Avīcīna<lb
+             n="D4" break="no"/>raka samū nan· Urāṅ· yaṅ· paliṅait·
+             <lb n="D5"/>Udakānna niy· man· kintu Urāṅ yāṅ·
+             <lb n="D6"/>pov· ku siniy·<gap reason="lost" quantity="4" unit="character"/> tok· nauka<lb
+             n="D7" break="no"/>n· kanumvrap· Athavā kaṁn· sī><!--sapi2argr ici il y avait ī sur le rtf mais je propose la lecture alternative de e-->v· Anaiḥ
+             <lb n="D8"/>Urāṅ· Athavā kaṁn· ganuhā Urāṅ· Atha<lb
+             n="D9" break="no"/>vā nau tamṛyāla niv· di kāryya Urāṅ·
+             <lb n="D10"/>Athavā tauk· panavau danau riyo pasa
+             <lb n="D11"/>kā <gap reason="lost" quantity="2" unit="character"/>ḥ jeṅ·<gap reason="lost" quantity="9" unit="character"/> jeṅ·<gap reason="lost" quantity="14" unit="line"/>
+           </p>
+         </div>
+         <div type="apparatus">
+           <app loc="A4">
+               <lem>nṝṇāṁ</lem>
+               <rdg source="bib:Huber1911_02">nṝṇām</rdg>
+               <note>Majumdar also reads nṝṇāṁ.</note>
+           </app>
+           <app loc="A4">
+               <lem>°ruhareṇubhir</lem><!--sapi2argr comment figurer les ° ?-->
+               <rdg source="bib:Huber1911_02">°rohareṇubhir</rdg>
+               <note>Majumdar also reads °ruhareṇubhir.</note>
+           </app>
+           <app loc="A5">
+               <lem>°sadbhoga°:</lem>
+               <rdg source="bib:Huber1911_02">°saṅbhoga°</rdg>
+               <rdg source="bib:Majumdar1927_01">°saṁbhoga°</rdg><!--sapi2argr Ici je ne suis pas sûre qu'il s'agisse de la bonne référence-->
+               <note>Huber's reading is unmetrical.</note>
+           </app>
+           <app loc="A9">
+               <lem>śāstrī</lem>
+               <rdg source="bib:Huber1911_02">śāstri</rdg>
+               <note>Majumdar also reads śāstrī. Huber's reading is unmetrical.</note>
+           </app>
+           <app loc="B9-B10">
+               <lem>°kāṅkṣiṇaḥ</lem>
+               <rdg source="bib:Huber1911_02">°kaṅkṣiṇaḥ</rdg>
+           </app>
+           <app loc="B10">
+               <lem>prāpnuvantu</lem>
+               <rdg source="bib:Huber1911_02">prapnuvantu</rdg>
+           </app>
+         </div>
+         <div type="translation" xml:lang="fra" source="bib:Huber1911_01">
+ 	         <p n="A1">Bonheur ! Adoration à Śiva ! Succès !</p>
+           <p rend="stanza" n="1">Le dieu qui pénètre partout, auquel nul n'est pareil dans les trois mondes, qui est doué d'une gloire majestueuse, qu'adorent, dans sa caverne de l'Himālaya, tous les autres dieux, les troupes des démons et les nymphes célestes, de même que les génies et les sages doués de la puissance illimitée que leur confère leur fois <supplied reason="subaudible">en Śiva</supplied> purifiée par le <foreign>yoga</foreign>, ce dieu-là qui efface les péchés et les malheurs des êtres donne aux hommes la félicité.</p>
+           <p rend="stanza" n="2"><!--sapi2argr Ici, Huber, ne l'a pas comptée comme une stance mais j'ai rectifié pour correspondre avec la translittération. Ai-je bien fait ?-->La faveur du pollen de ces lotus qui sont les deux pieds du dieu Śrīśāna Hara a procuré à la cité de Campā une abondance incomparable de félicités, de beautés et de délices sans nombre.</p>
+           <p rend="stanza" n="3">Dans cette cité règne, pour le bonheur des vertueux, le roi Śrī Jaya Indravarman, entouré de la multitude de ses guerriers, telle la lune avec son cortège d'étoiles. Par sa puissance éclatante il assure la paix du monde entier, lui qui est la source de toutes les bonne œuvres ; puisse-t-il, en abaissant sur eux son doux regard, accorder sa protection puissante à ses sujets, lui qui les éveille à l'intelligence !</p>
+           <p rend="stanza" n="4">Il a un ministre, très habile dans la connaissance de toutes les qualités du Seigneur <supplied reason="subaudible">Śiva</supplied>, zélé dans la recherche de tous les mérites religieux qu'il pourrait accomplir ; menant à bonne fin de nombreuses œuvres pies, il s'est créé une âme de <foreign>muni</foreign>, ce magnanime, le délice du pays. D'un aspect doux comme celui de la pleine lune, c'est qu'invoquent les hommes de bien ; il a en partage la gloire, la science révélée et la félicité. Savant, ses louanges sont chantées dans les assemblées des savants et par des techniciens de l'éloge jusqu'aux confins du monde.</p>
+           <p rend="stanza" n="5">Le seigneur Danāy Pināṅ, un des Grands du Campā, expert dans les rites et la connaissance de Śiva, se livrant au <foreign>yoga</foreign>, au <foreign>dhyāna</foreign> et au <foreign>samādhi</foreign> dans le désir de gagner pour son salut le paradis de Śiva, se souvenant que notre corps n'a plus de durée qu'un flocon d'écume ballotté sur la mer, a érigé cette grande construction religieuse en faisant le vœu que lui et ses parents puissent être auvés de l'océan des existences.</p>
+           <p n="A12-B11">Si les champs, les vaches, les esclaves males et femelles, les buffles, etc., de même que les grains, le riz, les robes, l'argent, l'or, le bronze et les autres biens donnés par moi, le seigneur de Śrī Amarendrapura, sont enlevés de force par les hommes, soit par l'appât du gain, soit par simple perversité, que ces misérables-là tombent, avec toute la lignée de leur mère jusqu'au troisième degré, dans l'épouvantable Grand Enfer rempli des langues ardentes de son feu terrible. Que par contre les hommes de bien qui, soucieux de leur bien-être dans l'autre monde, protègent ma fondation pieuse et n'y enlèvent rien, obtiennent le fruit du ciel jusqu'à la consommation des siècle.</p>
+           <p n="B11-B17">Que le Chien Noir, le Chien Blanc, le Chien Rouge et le Chien Bigarré viennent hanter la mère de l'homme qui encourra cette malédiction ! Écrit à l'époque où l'on avait achevé de compter quatre <supplied reason="subaudible">dizaines</supplied> et Huit <supplied reason="subaudible">centaines</supplied> dans l'ère <foreign>śaka</foreign> <supplied reason="explanation">919-920 après J.-C.</supplied>.</p>
+         </div>
+         <div type="commentary">
+            <p n="A2">I a.  guruyaśāḥ : Huber sees here a mistake from the lapicide guruyaśaḥ, mais he seems to be mistaken ; the guruyaśāḥ form is correct.</p>
+            <p n="A3">I bc. <g type="dandaPlain">.</g> omitted by Huber.</p>
+            <p n="A5">III a. saṁp<choice><sic>a</sic><corr>ā</corr></choice>dita (Huber). But we could simply read a "pā" with the typical shape of this period that Huber did not recognized here, even though this very form can be encountered in ptā (pāda c)</p>
+            <p n="A8">IV b. malātmā: this form is unfairly rejected by Huber, who wants to correct mahātmā; Majumbar understood that is it amalātmā.</p>
+            <p n="A8">IV c. śāntyā: one could easily read kāntyā, but it would result in a repetition of IIId and C. 167, II seems to link śam and rākendu in the same way.</p>
+         </div>
+        <div type="bibliography">
+           <p>First edited with translation into French by E. Huber (<bibl rend="omitname"><ptr target="bib:Huber1911_02"/><citedRange unit="page">15-22</citedRange></bibl>). Then re-edited by Majumdar <!--sapi2argr which reference should I quote ? -->. Huber's edition was republished with translation into English by K.-H. Golzio (<bibl rend="omitname"><ptr target="bib:Golzio2004_01"/><citedRange unit="page">117-119</citedRange></bibl>). The inscription is re-edited here by Arlo Griffiths based on autopsy and the EFEO estampage n. 1076.</p>
+        	<listBibl type="primary">
+            <bibl n="H">
+            <ptr target="bib:Huber1911_02"/>
+            <citedRange unit="page">15-22</citedRange>
+            </bibl>
+			</listBibl>
+           <listBibl type="secondary">
+             <bibl>
+             <ptr target="bib:Golzio2004_01"/>
+             <citedRange unit="page">117-119</citedRange>
+             </bibl>
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>

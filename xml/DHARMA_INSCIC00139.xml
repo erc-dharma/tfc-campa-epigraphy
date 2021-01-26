@@ -74,6 +74,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+           <change who="part:sapi" when="2021-01-26">modifications of the bibliography</change>
             <change who="part:sapi part:argr" when="2021-01-20">first correction of the new translation</change>
             <change who="part:sapi" when="2021-01-20">adding a new translation</change>
             <change who="part:sapi part:argr" when="2021-01-13">revised initial encoding of the inscription</change>
@@ -130,7 +131,7 @@
          <div type="commentary">
          </div>
         <div type="bibliography">
-           <p>First edited with translation into French by E. Huber (<bibl rend="omitname"><ptr target="bib:Huber1911_02"/><citedRange unit="page">10-13</citedRange></bibl>). Then mentioned by Majumdar (<bibl rend="omitname"><ptr target="bib:Majumdar1927_01"/><citedRange unit="page">92-93</citedRange></bibl>). Huber's edition was republished with translation into English by K.-H. Golzio (<bibl rend="omitname"><ptr target="bib:Golzio2004_01"/><citedRange unit="page">77-78</citedRange></bibl>). The inscription is re-edited here by Arlo Griffiths based on autopsy and the EFEO estampage n. 153.</p>
+           <p>First edited with translation into French by E. Huber (<bibl rend="omitname"><ptr target="bib:Huber1911_02"/><citedRange unit="page">10-13</citedRange></bibl>). Then re-edited by Majumdar <!--sapi2argr Which reference should i quote ?--> Huber's edition was republished with translation into English by K.-H. Golzio (<bibl rend="omitname"><ptr target="bib:Golzio2004_01"/><citedRange unit="page">77-78</citedRange></bibl>). The inscription is re-edited here by Arlo Griffiths based on autopsy and the EFEO estampage n. 153.</p>
         	<listBibl type="primary">
             <bibl n="H">
             <ptr target="bib:Huber1911_02"/>
@@ -138,10 +139,6 @@
             </bibl>
 			</listBibl>
            <listBibl type="secondary">
-             <bibl>
-           <ptr target="bib:Majumdar1927_01"/>
-           <citedRange unit="page">92-93</citedRange>
-           </bibl>
            <bibl>
            <ptr target="bib:Golzio2004_01"/>
            <citedRange unit="page">77-78</citedRange>

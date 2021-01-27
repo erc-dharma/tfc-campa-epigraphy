@@ -74,6 +74,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+          <change who="part:sapi part:argr" when="2021-01-27">further revisions of the translation</change>
            <change who="part:sapi" when="2021-01-26">modifications of the bibliography</change>
             <change who="part:sapi part:argr" when="2021-01-20">first correction of the new translation</change>
             <change who="part:sapi" when="2021-01-20">adding a new translation</change>
@@ -109,9 +110,10 @@
           </app>
                </listApp>
          </div>
-         <div type="translation" xml:lang="eng" resp="part:sapi">
-           <p n="1-10">Hail! This is an order from me, the king <supplied reason="explanation"><foreign>pu pov tana rayā</foreign></supplied>, who am Śrī Indravarmadeva, overlord of all kings in the country of Campā. <supplied reason="subaudible">I</supplied> allow the <supplied reason="subaudible">temple of</supplied> Y.P.K. Śrī Bhāgyakānteśvara to be exempted from all taxes.
-           I give this god these four Y.P.K. priests.
+         <div type="translation" xml:lang="eng" resp="part:argr" resp="part:sapi">
+           <p n="1-5">Hail! This is an order from me, the king <supplied reason="explanation"><foreign>pu pov tana rayā</foreign></supplied>, who am Śrī Indravarmadeva, overlord of all kings in the country of Campā. <supplied reason="subaudible">I</supplied> allow the <supplied reason="subaudible">temple of</supplied> Y.P.K. Śrī Bhāgyakānteśvara to be exempted from all taxes.
+           I allow these four gods <supplied reason="subaudible">to be exempted as well</supplied>. The P.K. Cult Servant <supplied reason="subaudible">shall be</supplied> their priest.
+           <!-- I give this god these four Y.P.K. priests, these priest of this god. -->
            <!-- I allow/give these four Y.P.K. priests of this god. -->
           <!-- I allow these four Y.P.K. to serve as sacrificers for this god.
             C. 148, st. V: po yāñ pov ku danāy pināṅ pr̥thujanaḥ śaivakriyājñānavid
@@ -120,8 +122,9 @@
                 pu poṅ ratnāvalī pu poṅ ku
                 C. 67 ājñā pov ku lyaṅ śrī rā(8)[jakulākhyāyā]ḥ svāmbānujāyāḥ  -->
            <!-- C. 106:  ājñā yāṅ· pu pov· ku śrījayasiṅhavarmmadeva • vriy· yāṅ· pov· ku siniy· mataṇḍāḥ avis· pat·-->
-           <!--sapi2argr Corriger en : as HIS sacrificers ? Ici j'ai juste mis l'accent sur les répétitions et l'insistance sur yāṅ· niy· -->
-           That's why <supplied reason="subaudible">I give them enough for</supplied> the cult <!--sapi2argr Ou : Then (kintu) <supplied reason="subaudible">I give them enough</supplied> for the purpose of (karaṇa) the cult (sandyāṁ)--> of this god as well as water and food. On account of my transfer to these sacrificers, may those kings who shall reign in the future, may those important men <!--sapi2argr = dignitary ? (Urāṅ· rayā). A&C f413 : "notables, grands du royaumes"--> who will come in the future ; may those kings and those important men agree <supplied reason="subaudible">and</supplied> conform with this rule of mine. These kings and these important men will <supplied reason="subaudible">then</supplied> obtain the merit in my kingdom and in the kingdom of <supplied reason="subaudible">other</supplied> people, and they will obtain the feet of god Śiva. The time when <!--sapi2argr Je ne suis pas sûre de moi ici, mais j’ai trouvé A&C f341 en face de bel, une note sur vela signifiant temps -->
+           <!--sapi2argr Corriger en  "as HIS sacrificers" ? Ici j'ai juste mis l'accent sur les répétitions et l'insistance sur yāṅ· niy· -->
+           But for purpose of the satiation of these gods with water and food, that is why I transfer <supplied reason="subaudible">that revenue</supplied> to these sacrificers.</p>
+           <p n="5-10">Whatever sovereign shall reign here in the future, whatever dignitaries shall have dignity here in the future, may <supplied reason="subaudible">those</supplied> sovereigns and <supplied reason="subaudible">those</supplied> dignitaries maintain <supplied reason="subaudibke">the exemption</supplied> in conformity with this rule of mine. @@@@ These kings and these important men will <supplied reason="subaudible">then</supplied> obtain the merit in my kingdom and in the kingdom of <supplied reason="subaudible">other</supplied> people, and they will obtain the feet of god Śiva. The time when <!--sapi2argr Je ne suis pas sûre de moi ici, mais j’ai trouvé A&C f341 en face de bel, une note sur vela signifiant temps -->
            important people who tear
            <!--sapi2argr Pour le mot masuvāk, dans le cam-lexicon, il y a un renvoi à f198 mais je n’ai pas trouvé ce mot à cette page. À la place, je suis allée en f389, où j’ai pu trouver le sens d’arracher, dépouiller que j’ai ajouté. --> <supplied reason="subaudible">and</supplied> steal this foundation from the sacrificers, the time when they destroy kariy· Athavā ?? or allow other men to destroy it, this group of important men shall go to the Avīci hell.
          </p>

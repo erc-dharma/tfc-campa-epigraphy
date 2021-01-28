@@ -1,88 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Hóa Quê stela (C. 142)</title>
-                <respStmt>
-                  <resp>EpiDoc Encoding</resp>
-                  <persName ref="part:sapi">
-                    <forename>Salomé</forename>
-                    <surname>Pichon</surname>
-                  </persName>
-                </respStmt>
-                <respStmt>
-                  <resp>intellectual authorship of edition</resp>
-                  <persName ref="part:argr">
-        							<forename>Arlo</forename>
-        							<surname>Griffiths</surname>
-        					</persName>
-                  <persName ref="part:amle"><!--sapi2argr Ai-je mis le bon pseudonyme ? -->
-        							<forename>Amandine</forename>
-        							<surname>Lepoutre</surname>
-        					</persName>
-                </respStmt>
-            </titleStmt>
-            <publicationStmt>
-                <authority>DHARMA</authority>
-                <pubPlace>Paris</pubPlace>
-                <idno type="filename">DHARMA_INSCIC00142</idno>
-                <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/">
-                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hóa Quê stela (C. 142)</title>
+            <respStmt>
+               <resp>EpiDoc Encoding</resp>
+               <persName ref="part:sapi">
+                  <forename>Salomé</forename>
+                  <surname>Pichon</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+               <persName ref="part:amle"><!--sapi2argr Ai-je mis le bon pseudonyme ? -->
+                  <forename>Amandine</forename>
+                  <surname>Lepoutre</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_INSCIC00142</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
                             Licence. To view a copy of the licence, visit
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Arlo Griffiths &amp; Salomé Pichon.</p>
-                    </licence>
-                </availability>
-                <date from="2019" to="2025">2019-2025</date>
-            </publicationStmt>
-            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
-                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
-                    <msIdentifier>
-                        <repository>DHARMAbase</repository>
-                        <idno/><!-- don't modify this -->
-                    </msIdentifier>
-                    <msContents><!-- describe the intellectual content of an inscription -->
-                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
-                    </msContents>
-                    <physDesc>
-                        <handDesc>
-                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
-                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths &amp; Salomé Pichon.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+            <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+                  <!-- don't modify this -->
+               </msIdentifier>
+               <msContents><!-- describe the intellectual content of an inscription -->
+                  <summary><!-- //// NOT MANDATORY  ////--></summary>
+                  <!-- offers the possibility to give a summary of the inscription's content -->
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                     <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
 						<handNote xml:id="Pallava00001_hand2"></handNote>
 					 -->
-                        </handDesc>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
-            </projectDesc>
-            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
-            <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
-                </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
-                </prefixDef>
-            </listPrefixDef>
-        </encodingDesc>
-        <revisionDesc>
-          <change who="part:sapi" when="2020-12-27" status="draft">few corrections</change>
-          <change who="part:sapi" when="2020-12-27" status="draft">Initial encoding of the inscription</change>
-        </revisionDesc>
-    </teiHeader>
-    <text xml:space="preserve">
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <!-- UPDATE the link once the release is made official -->
+         <listPrefixDef>
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="part:sapi" when="2020-12-27" status="draft">few corrections</change>
+         <change who="part:sapi" when="2020-12-27" status="draft">Initial encoding of the inscription</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">
            <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A01"/><g type="floretQuatrefoil"/><g type="ddandaOrnate">.</g> Om̐ namaś ś<choice><unclear>i</unclear><unclear>ī</unclear></choice>vāya<g type="ddandaOrnate">.</g><g type="floretQuatrefoil"/><supplied reason="lost">svasti</supplied></ab>
@@ -212,8 +224,7 @@
               <l n="d">r api prādān mahīpatiḥ<g type="ddandaHooked">.</g></l>
             </lg>
             <p>
-              <lb n="B10"/>yas tu daulikām adhivasan rājaparata Ucchritamāyūracchattrapriyāyāśeṣavādyais saha valair asyāś cāvatarati punar idaṁ śre<lb
-              n="B11" break="no"/>yaḥ<g type="ddandaHooked">.</g>
+              <lb n="B10"/>yas tu daulikām adhivasan rājaparata Ucchritamāyūracchattrapriyāyāśeṣavādyais saha valair asyāś cāvatarati punar idaṁ śre<lb n="B11" break="no"/>yaḥ<g type="ddandaHooked">.</g>
             </p>
             <lg n="22" met="upajāti">
               <l n="a">nāgendram āruhya valair asaṁkhyaiḥ</l>
@@ -238,15 +249,10 @@
               <l n="d">niśśeṣārthaṁ matīhayā<g type="dotMid">.</g></l>
             </lg>
             <p>
-              <lb n="B15"/>śrījayasiṁhavarmmadevasya puṇyaḥ śrījayaguheśvaro devo viṣṇuś ca viṣṇupure<g type="dotMid">.</g><g type="dandaHooked">.</g> śrī-bhadravarmma-devasya punyaḥ śrī-prakāśa-bhadre<lb
-              n="B16" break="no"/>śvaraḥ śrī-rudrakoṭīśvaraś ca śrī-bhadramalayeśvaraś ca śrī-bhadracampeśvaraś ca śrī-bhadramaṇḍaleśvaraś ca<g type="dotMid">.</g> śrī-dharmmeśvaraś ca<g type="dotMid">.</g> śrī-bhadrapureśvaraś ca<g type="dotMid">.</g> te<lb
-              n="B17" break="no"/>ṣu praśastāni śilālekhā-kṣarālaṅkr̥tāny akarod ājñā jayendrapati-nāmāmātyo nekaparibhogadaulikāmā<lb
-              n="B18" break="no"/>yūrakanakanivaddhakhadga-kośa-kalaśabhr̥ṅgār·rajatabhājanakatisūtra-kuṇḍala-kuṇḍala-gaṇa-cirāṇḍayugalavasanādīni prāptavān rā<lb
-              n="B19" break="no"/>japrasādād iti<g type="ddandaHooked">.</g>
+              <lb n="B15"/>śrījayasiṁhavarmmadevasya puṇyaḥ śrījayaguheśvaro devo viṣṇuś ca viṣṇupure<g type="dotMid">.</g><g type="dandaHooked">.</g> śrī-bhadravarmma-devasya punyaḥ śrī-prakāśa-bhadre<lb n="B16" break="no"/>śvaraḥ śrī-rudrakoṭīśvaraś ca śrī-bhadramalayeśvaraś ca śrī-bhadracampeśvaraś ca śrī-bhadramaṇḍaleśvaraś ca<g type="dotMid">.</g> śrī-dharmmeśvaraś ca<g type="dotMid">.</g> śrī-bhadrapureśvaraś ca<g type="dotMid">.</g> te<lb n="B17" break="no"/>ṣu praśastāni śilālekhā-kṣarālaṅkr̥tāny akarod ājñā jayendrapati-nāmāmātyo nekaparibhogadaulikāmā<lb n="B18" break="no"/>yūrakanakanivaddhakhadga-kośa-kalaśabhr̥ṅgār·rajatabhājanakatisūtra-kuṇḍala-kuṇḍala-gaṇa-cirāṇḍayugalavasanādīni prāptavān rā<lb n="B19" break="no"/>japrasādād iti<g type="ddandaHooked">.</g>
             </p>
             <p xml:lang="x-oldcham-Latn">
-              <lb n="B20"/>sā suvauk· pirak· sā <unclear>ta X<!--sapi2argr : Que signifie le X ici ?-->  n</unclear>· laṅgov· sā tralāy· laṅgov· tluv· Avista dravya nan· ṅan· vlim̃ kintu yām̃ pu pov ku śrījayasim̃havarmmade<lb
-              n="B21" break="no"/>va yam̃ṅ· <unclear>katu</unclear><gap reason="lost" quantity="1" unit="character"/>· X X X n·
+              <lb n="B20"/>sā suvauk· pirak· sā <unclear>ta X<!--sapi2argr : Que signifie le X ici ?-->  n</unclear>· laṅgov· sā tralāy· laṅgov· tluv· Avista dravya nan· ṅan· vlim̃ kintu yām̃ pu pov ku śrījayasim̃havarmmade<lb n="B21" break="no"/>va yam̃ṅ· <unclear>katu</unclear><gap reason="lost" quantity="1" unit="character"/>· X X X n·
               <milestone type="pagelike" unit="face" n="C"/><gap reason="lost" quantity="3" unit="line" precision="low"/>
             </p>
             <p xml:lang="san-Latn"> <!--sapi2argr : Comment encoder la présence sur deux lignes d'une lacune de stance ?-->
@@ -258,20 +264,8 @@
               <l n="c">Ugradevī satī nāmnā<g type="dotMid">.</g></l>
               <l n="d"><lb n="C7"/>khyāyate puṇyakāṁkṣinī<g type="ddandaHooked">.</g></l>
             </lg>
-            <p xml:lang="san-Latn">tais tatsahodarair eka<lb
-              n="C8" break="no"/>matibhir mmātr<choice><sic>a</sic><corr>ā</corr></choice>nujñayā śrīmahārudradevaḥ pratiṣṭhāpito
-              <lb n="C9"/>maddhyataḥ gagaṇadvimaṅgalaśake pitur ājñā sārthavāhanā<lb
-              n="C10" break="no"/>mnaḥ śrī Indravarmmanr̥patimahādevyā śrīrudravarmmabhūpabhrā<lb
-              n="C11" break="no"/>trīyayāsya sahodarasya pratirūpataḥ pitari tadbhaktyai sva<lb
-              n="C12" break="no"/>jananībhūmau<g type="ddandaHooked">.</g> Atha tenottarata Iyaṁ bhagavatī prati<lb
-              n="C13" break="no"/>ṣṭhāpitā khavahnitanuśake mātur at<choice><sic>i</sic><corr>ī</corr></choice>takalpasantānaku<lb
-              n="C14" break="no"/>lodbhavāyāḥ pu pov· ku rudrapurasaṁjñikāyā devīgaṇa<lb
-              n="C15" break="no"/>patikumārān imān devān pratiṣṭhāpayantyāś candrāgnitanu<lb
-              n="C16" break="no"/>śake pratirūpato mātari tadbhaktaye svabhūmau<g type="ddandaHooked">.</g> Api<lb
-              n="C17" break="no"/>cāmātya Ājñā jayendrapatināmeti dakṣiṇata I<lb
-              n="C18" break="no"/>maṁ śrīmahāśivaliṅgeśvaradevam asthāpayan navadvimaṅga<lb
-              n="C19" break="no"/>laśake parameśvarapūjārtham iha jananībhūmau svakī<lb
-              n="C20" break="no"/>rttaye veti<g type="ddandaHooked">.</g>
+            <p xml:lang="san-Latn">tais tatsahodarair eka<lb n="C8" break="no"/>matibhir mmātr<choice><sic>a</sic><corr>ā</corr></choice>nujñayā śrīmahārudradevaḥ pratiṣṭhāpito
+              <lb n="C9"/>maddhyataḥ gagaṇadvimaṅgalaśake pitur ājñā sārthavāhanā<lb n="C10" break="no"/>mnaḥ śrī Indravarmmanr̥patimahādevyā śrīrudravarmmabhūpabhrā<lb n="C11" break="no"/>trīyayāsya sahodarasya pratirūpataḥ pitari tadbhaktyai sva<lb n="C12" break="no"/>jananībhūmau<g type="ddandaHooked">.</g> Atha tenottarata Iyaṁ bhagavatī prati<lb n="C13" break="no"/>ṣṭhāpitā khavahnitanuśake mātur at<choice><sic>i</sic><corr>ī</corr></choice>takalpasantānaku<lb n="C14" break="no"/>lodbhavāyāḥ pu pov· ku rudrapurasaṁjñikāyā devīgaṇa<lb n="C15" break="no"/>patikumārān imān devān pratiṣṭhāpayantyāś candrāgnitanu<lb n="C16" break="no"/>śake pratirūpato mātari tadbhaktaye svabhūmau<g type="ddandaHooked">.</g> Api<lb n="C17" break="no"/>cāmātya Ājñā jayendrapatināmeti dakṣiṇata I<lb n="C18" break="no"/>maṁ śrīmahāśivaliṅgeśvaradevam asthāpayan navadvimaṅga<lb n="C19" break="no"/>laśake parameśvarapūjārtham iha jananībhūmau svakī<lb n="C20" break="no"/>rttaye veti<g type="ddandaHooked">.</g>
             </p>
             <p xml:lang="x-oldcham-Latn"><milestone type="pagelike" unit="face" n="D"/><gap reason="lost" quantity="2" unit="line" precision="low"/>
             <lb n="D6"/><gap reason="lost" extent="unknown" unit="character"/>vaṅun· vulān· limā <unclear>nā ru</unclear><gap reason="lost" extent="unknown" unit="character"/> <!--sapi2argr C'est moi ai ajouté nā ru mais je ne suis pas sûre du tout -->
@@ -279,10 +273,8 @@
             <lb n="D8"/><gap reason="illegible" quantity="8" unit="character" precision="low"/>vriy· muñī krauṅ· <gap reason="lost" extent="unknown" unit="character"/>
             <lb n="D9"/><gap reason="lost" extent="unknown" unit="character"/>Andap· yāṅ· pov· ku si<unclear>niy·</unclear><gap reason="lost" extent="unknown" unit="character"/>
             <lb n="D10"/><supplied reason="lost">yāṅ·</supplied> pov· ku <unclear>siniy·</unclear> matandāḥ pakar· sarvvākarādāna sarvva pat·
-            <lb n="D11"/>matandāḥ ya siy· urāṅ· nāma pamataḥ matandāḥ niy· Urāṅ· nan· la<lb
-            n="D12" break="no"/>c· di naraka<g type="dotMid">.</g> ya siy· Urāṅ nāma tan· pamataḥ matandāḥ niy·
-            <lb n="D13"/>Urāṅ· nan· nau dauk· di svargga yathā Iṣṭa driy·<g type="dotMid">.</g> rājā<lb
-            n="D14" break="no"/>jñā na laṅghanīyā bhavadbhiḥ<g type="dotMid">.</g>
+            <lb n="D11"/>matandāḥ ya siy· urāṅ· nāma pamataḥ matandāḥ niy· Urāṅ· nan· la<lb n="D12" break="no"/>c· di naraka<g type="dotMid">.</g> ya siy· Urāṅ nāma tan· pamataḥ matandāḥ niy·
+            <lb n="D13"/>Urāṅ· nan· nau dauk· di svargga yathā Iṣṭa driy·<g type="dotMid">.</g> rājā<lb n="D14" break="no"/>jñā na laṅghanīyā bhavadbhiḥ<g type="dotMid">.</g>
           </p>
           <lg n="27" met="anuṣṭubh"> <!--sapi2argr : Où indiquer le <xml:lang="san-Latn"> ?--><!--sapi2argr Ai-je bien fait de numéroter la stance ainsi ? -->
             <l n="a"><unclear>AI</unclear>ndavī yā kalā yāvad</l>
@@ -291,9 +283,7 @@
             <l n="d">r Asmiṁs tāvad sumukti<lb n="D16" break="no"/>kā<g type="ddandaHooked">.</g></l>
           </lg>
             <p xml:lang="x-oldcham-Latn">yāṅ· pu pov· ku siniy· ranakṣā Urāṅ· viśeṣa tapaḥ
-              <lb n="D17"/>maAnan· driy· yāṅ· pov· ku di yāṅ· yaṁṅ· sandhyā di yā<lb
-              n="D18" break="no"/>ṅ· pu pov· ku śrīśānabhadreśvara<g type="dotMid">.</g> kintu gaṁp· kamiy· yaṅ· yaja <!-- sapi2argr Could we read yajā ? --><lb
-              n="D19" break="no"/>māna yāṅ· pov· ku siniy· kā driy· yajamāna yāṅ· pov·
+              <lb n="D17"/>maAnan· driy· yāṅ· pov· ku di yāṅ· yaṁṅ· sandhyā di yā<lb n="D18" break="no"/>ṅ· pu pov· ku śrīśānabhadreśvara<g type="dotMid">.</g> kintu gaṁp· kamiy· yaṅ· yaja <!-- sapi2argr Could we read yajā ? --><lb n="D19" break="no"/>māna yāṅ· pov· ku siniy· kā driy· yajamāna yāṅ· pov·
               <lb n="D20"/>ku siniy· paknā dharmma niy· siy· srauṅ· punya<choice><unclear>u</unclear><unclear>va</unclear></choice> kamiy·
               <lb n="D21"/>paknā kaṁn· Urāṅ· tapaḥ viśeṣa sidaḥ luniy· napāy·
               <lb n="D22"/>hetu jeṅ· daḥ sunan· Urāṅ· tapaḥ viśeṣa nan· tan madā<g type="crossPlus">.</g>

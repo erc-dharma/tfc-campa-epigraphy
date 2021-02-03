@@ -48,12 +48,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
-                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
-						<summary><p><p/></summary>
-						<handNote xml:id="Pallava00001_hand1"></handNote>
-						<handNote xml:id="Pallava00001_hand2"></handNote>
-					 -->
+                            <p>One case of m̃ to express sound of ṅ in line 8.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -74,12 +69,13 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+          <change who="part:sapi part:argr" when="2021-02-03">finished initial encoding of the inscription</change>
           <change who="part:sapi part:argr" when="2021-01-27">further revisions of the translation</change>
-           <change who="part:sapi" when="2021-01-26">modifications of the bibliography</change>
-            <change who="part:sapi part:argr" when="2021-01-20">first correction of the new translation</change>
-            <change who="part:sapi" when="2021-01-20">adding a new translation</change>
-            <change who="part:sapi part:argr" when="2021-01-13">revised initial encoding of the inscription</change>
-            <change who="part:sapi" when="2020-12-01">started initial encoding of the inscription</change>
+          <change who="part:sapi" when="2021-01-26">modifications of the bibliography</change>
+          <change who="part:sapi part:argr" when="2021-01-20">first correction of the new translation</change>
+          <change who="part:sapi" when="2021-01-20">adding a new translation</change>
+          <change who="part:sapi part:argr" when="2021-01-13">revised initial encoding of the inscription</change>
+          <change who="part:sapi" when="2020-12-01">started initial encoding of the inscription</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
@@ -112,7 +108,7 @@
          </div>
          <div type="translation" xml:lang="eng" resp="part:argr" resp="part:sapi">
            <p n="1-5">Hail! This is an order from me, the king <supplied reason="explanation"><foreign>pu pov tana rayā</foreign></supplied>, who am Śrī Indravarmadeva, overlord of all kings in the country of Campā. <supplied reason="subaudible">I</supplied> allow the <supplied reason="subaudible">temple of</supplied> Y.P.K. Śrī Bhāgyakānteśvara to be exempted from all taxes.
-           I allow these four gods <supplied reason="subaudible">to be exempted as well</supplied>. The P.K. Cult Servant <supplied reason="subaudible">shall be</supplied> their priest.
+           I allow these four gods <supplied reason="subaudible">to be exempted as well</supplied>. The P.K. Cult Servants <supplied reason="subaudible">shall be</supplied> their priests.
            <!-- I give this god these four Y.P.K. priests, these priest of this god. -->
            <!-- I allow/give these four Y.P.K. priests of this god. -->
           <!-- I allow these four Y.P.K. to serve as sacrificers for this god.
@@ -123,19 +119,23 @@
                 C. 67 ājñā pov ku lyaṅ śrī rā(8)[jakulākhyāyā]ḥ svāmbānujāyāḥ  -->
            <!-- C. 106:  ājñā yāṅ· pu pov· ku śrījayasiṅhavarmmadeva • vriy· yāṅ· pov· ku siniy· mataṇḍāḥ avis· pat·-->
            <!--sapi2argr Corriger en  "as HIS sacrificers" ? Ici j'ai juste mis l'accent sur les répétitions et l'insistance sur yāṅ· niy· -->
-           But for purpose of the satiation of these gods with water and food, that is why I transfer <supplied reason="subaudible">that revenue</supplied> to these sacrificers.</p>
-           <p n="5-10">Whatever sovereign shall reign here in the future, whatever dignitaries shall have dignity here in the future, may <supplied reason="subaudible">those</supplied> sovereigns and <supplied reason="subaudible">those</supplied> dignitaries maintain <supplied reason="subaudibke">the exemption</supplied> in conformity with this rule of mine. @@@@ These kings and these important men will <supplied reason="subaudible">then</supplied> obtain the merit in my kingdom and in the kingdom of <supplied reason="subaudible">other</supplied> people, and they will obtain the feet of god Śiva. The time when <!--sapi2argr Je ne suis pas sûre de moi ici, mais j’ai trouvé A&C f341 en face de bel, une note sur vela signifiant temps -->
-           important people who tear
-           <!--sapi2argr Pour le mot masuvāk, dans le cam-lexicon, il y a un renvoi à f198 mais je n’ai pas trouvé ce mot à cette page. À la place, je suis allée en f389, où j’ai pu trouver le sens d’arracher, dépouiller que j’ai ajouté. --> <supplied reason="subaudible">and</supplied> steal this foundation from the sacrificers, the time when they destroy kariy· Athavā ?? or allow other men to destroy it, this group of important men shall go to the Avīci hell.
+           But for purpose of the satiation of these gods with water and food, that is why I transfer <supplied reason="subaudible">that revenue</supplied> to these priests.</p>
+           <p n="5-10">Whatever sovereign shall reign here in the future, whatever dignitaries shall have dignity here in the future
+             — sovereigns and dignitaries maintaining <supplied reason="subaudible">the exemption</supplied> in conformity with this rule of mine —
+             those kings and those dignitaries obtain merit <supplied reason="explanation"><foreign>puṇya</foreign></supplied> in my kingdom and in their own kingdom, and reach the abode (or: feet) of god Śiva. If dignitaries uproot <supplied reason="subaudible">or</supplied> steal this meritorious work <supplied reason="explanation"><foreign>puṇya</foreign></supplied> from the priests; if they behave destructively in any other way or <gap reason="ellipsis"/> allow other men to behave destructively, those dignitaries themselves shall go to the Avīci <supplied reason="explanation">hell</supplied>.
          </p>
          </div>
          <div type="translation" xml:lang="fra" source="bib:Huber1911_02">
  	         <p n="1-10">Bonheur ! Voici ce que j'ordonne, moi, <foreign>Śrī</foreign> Indravarmadeva, roi des rois du pays de Campā. Au <supplied reason="subaudible">temple du</supplied> dieu <foreign>Śrī</foreign> Bhāgyakānteśvara je donne l'exemption de tous les impôts. Et j'attache au service de ce dieu quatre desservants qui seront ses sacrificateurs, et <supplied reason="subaudible">je leur donne</supplied> de quoi subvenir aux frais du culte et à leur entretien. À l'égard de ce dont je dispose en faveur des desservants du temple, j'invoque les rois qui régneront à l'avenir et les habitants du pays qui vivront à l'avenir : que ces rois-là et ces habitants-là respectent ce que j'ai institué. Car en agissant ainsi ces rois-là et ces hommes-là vivront heureux dans ce royaume ou ailleurs, et à leur mort ils gagneront le paradis de Śiva. Mais si des hommes ruinent la fondation pieuse faite en faveur des desservants du temple ou s'ils la font détruire par autrui, que ces hommes-là aillent dans l'enfer Avīci.</p>
          </div>
          <div type="commentary">
+           <p n="6"><foreign>urāṅ rayā</foreign>: we will need a note on the meaning of this term, its relation (in sense and etymology) with orang kaya "aristocrat" in Malay and urang reya "common man" in Sundanese. The use of pr̥thujana in C. 148 suggests a meaning like the latter, but the context in which that gloss is used in C. 148 and the context here rather suggest that the meaning of the Cam expression was like that of orang kaya in Malay. The situation is further complicated by the fact that in Sundanese, the cognate expression urang reya means "common man".</p>
+           <p n="8-9">Cf. C. 67 A, st. IX <foreign>śivapadapūjanāśayatanuḥ satataṁ bhavati</foreign>.</p>
          </div>
         <div type="bibliography">
-           <p>First edited with translation into French by E. Huber (<bibl rend="omitname"><ptr target="bib:Huber1911_02"/><citedRange unit="page">10-13</citedRange></bibl>). Then re-edited by Majumdar <!--sapi2argr Which reference should i quote ?--> Huber's edition was republished with translation into English by K.-H. Golzio (<bibl rend="omitname"><ptr target="bib:Golzio2004_01"/><citedRange unit="page">77-78</citedRange></bibl>). The inscription is re-edited here by Arlo Griffiths based on autopsy and the EFEO estampage n. 153.</p>
+           <p>First edited with translation into French by E. Huber (<bibl rend="omitname"><ptr target="bib:Huber1911_02"/><citedRange unit="page">10-13</citedRange></bibl>), whose results were subsequently republished and translated into English by R. C. Majumdar (<bibl rend="omitname"><ptr target="bib:Majumdar1927_01"/><citedRange unit="part">3</citedRange><citedRange unit="page">92-93</citedRange><citedRange unit="item">33</citedRange></bibl>)
+           and republished again by K.-H. Golzio (<bibl rend="omitname"><ptr target="bib:Golzio2004_01"/><citedRange unit="page">77-78</citedRange></bibl>). 
+           The inscription is re-edited here by Arlo Griffiths &amp; Salomé Pichon based on autopsy and the EFEO estampage n. 153.</p>
         	<listBibl type="primary">
             <bibl n="H">
             <ptr target="bib:Huber1911_02"/>
@@ -143,6 +143,12 @@
             </bibl>
 			</listBibl>
            <listBibl type="secondary">
+             <bibl>
+               <ptr target="bib:Majumdar1927_01"/>
+               <citedRange unit="part">3</citedRange>
+               <citedRange unit="page">92-93</citedRange>
+               <citedRange unit="item">33</citedRange>
+             </bibl>
            <bibl>
            <ptr target="bib:Golzio2004_01"/>
            <citedRange unit="page">77-78</citedRange>

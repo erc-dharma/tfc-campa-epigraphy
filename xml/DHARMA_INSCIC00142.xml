@@ -90,6 +90,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+        <change who="part:sapi" when="2021-02-12" status="draft">few corrections</change>
          <change who="part:sapi" when="2020-12-27" status="draft">few corrections</change>
          <change who="part:sapi" when="2020-12-27" status="draft">Initial encoding of the inscription</change>
       </revisionDesc>
@@ -253,7 +254,8 @@
             </p>
             <p xml:lang="x-oldcham-Latn">
               <lb n="B20"/>sā suvauk· pirak· sā <unclear>ta X<!--sapi2argr : Que signifie le X ici ?-->  n</unclear>· laṅgov· sā tralāy· laṅgov· tluv· Avista dravya nan· ṅan· vlim̃ kintu yām̃ pu pov ku śrījayasim̃havarmmade<lb n="B21" break="no"/>va yam̃ṅ· <unclear>katu</unclear><gap reason="lost" quantity="1" unit="character"/>· X X X n·
-              <milestone type="pagelike" unit="face" n="C"/><gap reason="lost" quantity="3" unit="line" precision="low"/>
+              <milestone type="pagelike" unit="face" n="C"/>
+              <gap reason="lost" quantity="3" unit="line" precision="low"/>
             </p>
             <p xml:lang="san-Latn"> <!--sapi2argr : Comment encoder la présence sur deux lignes d'une lacune de stance ?-->
               <gap reason="lost" quantity="2" unit="line" precision="low"/>

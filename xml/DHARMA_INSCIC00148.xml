@@ -86,6 +86,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+        <change who="part:sapi" when="2021-02-12" status="draft">Correction of the bibliography</change>
          <change who="part:sapi" when="2021-01-26" status="draft">Initial encoding of the inscription</change>
       </revisionDesc>
    </teiHeader>
@@ -200,7 +201,7 @@
             <p n="A8">IV c. śāntyā: one could easily read kāntyā, but it would result in a repetition of IIId and C. 167, II seems to link śam and rākendu in the same way.</p>
          </div>
         <div type="bibliography">
-           <p>First edited with translation into French by E. Huber (<bibl rend="omitname"><ptr target="bib:Huber1911_02"/><citedRange unit="page">15-22</citedRange></bibl>). Then re-edited by Majumdar <!--sapi2argr which reference should I quote ? -->. Huber's edition was republished with translation into English by K.-H. Golzio (<bibl rend="omitname"><ptr target="bib:Golzio2004_01"/><citedRange unit="page">117-119</citedRange></bibl>). The inscription is re-edited here by Arlo Griffiths based on autopsy and the EFEO estampage n. 1076.</p>
+           <p>First edited with translation into French by E. Huber (<bibl rend="omitname"><ptr target="bib:Huber1911_02"/><citedRange unit="page">15-22</citedRange></bibl>). The inscription is re-edited here by Arlo Griffiths based on autopsy and the EFEO estampage n. 1076.</p>
         	<listBibl type="primary">
             <bibl n="H">
             <ptr target="bib:Huber1911_02"/>
@@ -208,6 +209,12 @@
             </bibl>
 			</listBibl>
            <listBibl type="secondary">
+             <bibl>
+               <ptr target="bib:Majumdar1927_01"/>
+               <citedRange unit="part">3</citedRange>
+               <citedRange unit="page">139-143</citedRange>
+               <citedRange unit="item">46</citedRange>
+             </bibl>
              <bibl>
              <ptr target="bib:Golzio2004_01"/>
              <citedRange unit="page">117-119</citedRange>

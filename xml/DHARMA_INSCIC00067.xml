@@ -23,9 +23,8 @@
             </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
-                <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
-                <idno type="filename">DHARMA_EncodingTemplateInscription</idno>
-                <!-- Replace by filename, e.g. Pallava00001 -->
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSCIC00067</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -75,6 +74,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+          <change who="part:sapi" when="2021-02-17" status="draft">few corrections</change>
             <change who="part:sapi" when="2021-02-12" status="draft">Initial encoding of the inscription</change>
         </revisionDesc>
     </teiHeader>
@@ -182,7 +182,7 @@
              <l n="d">mākhyā trayaḥ suranaraiḥ kila banditas te<g type="floretQuatrefoil">.</g></l>
            </lg>
             <ab><milestone type="pagelike" unit="face" n="C"/><lb n="C01"/>namaḥ sarvvatām <gap reason="illegible" quantity="4" unit="character"></ab><!--sapi2argr Ici ce n'est pas tout à fait ça. Finot a semblé ne pas réussir à proposer de lecture au delà de sarva. On pourrait songer lire °tām dravide ; °tām draviṅa (bien que le terme pour richesse soit draviṇa) -->
-            <p>
+            <p xml:lang="x-oldcham-Latn">
               <lb n="C1"/>Ājñā yāṅ· pu pov· ku śrī jayasiṅhavarmma<lb
               n="C2" break="no"/>deva kā vriy· yāṅ· pu pov· ku śrīndraparame<lb
               n="C3" break="no"/>śvara yāṅ· pu pov· ku śri har<choice><sic>amo</sic><corr>omā</corr></choice>devī yāṅ· pu

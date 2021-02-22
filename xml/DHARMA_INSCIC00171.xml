@@ -148,8 +148,8 @@
 </lg>
 <lg n="7" met="anuṣṭubh">
 	<l n="a"><seg met="====-++="><gap reason="lost" unit="character" quantity="8"/></seg></l>
-	<l n="b"><lb n="B2"/><foreign xml:lang="x-oldcham-Latn">hjai-traṅ·</foreign>-kṣetraṁ <foreign xml:lang="x-oldcham-Latn">juṅā</foreign>-pure<space/></l>
-	<l n="c"><foreign xml:lang="x-oldcham-Latn">cvaḥ-sirā</foreign>la<unclear>ya</unclear><seg met="++="><gap reason="lost" unit="character" quantity="3"/></seg></l>
+	<l n="b"><lb n="B2"/><foreign xml:lang="ocm-Latn">hjai-traṅ·</foreign>-kṣetraṁ <foreign xml:lang="ocm-Latn">juṅā</foreign>-pure<space/></l>
+	<l n="c"><foreign xml:lang="ocm-Latn">cvaḥ-sirā</foreign>la<unclear>ya</unclear><seg met="++="><gap reason="lost" unit="character" quantity="3"/></seg></l>
 	<l n="d"><seg met="====-+-="><gap reason="lost" unit="character" quantity="8"/></seg></l>
 </lg>
 <lg n="8" met="anuṣṭubh">

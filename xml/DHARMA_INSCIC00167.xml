@@ -117,7 +117,7 @@
 				<lg n="3" met="anuṣṭubh">
 					<l n="a">cūrṇṇāṅkita<choice><unclear>-vadane ye</unclear><unclear>vadanāyai</unclear></choice><g type="danda">.</g></l><!-- argr2sapi: check EDG if if doesn't rather recommend limtiing <choice> to the syllables in question, even if more than one word is concerned -->
 					<l n="b">prabhātaḥ svavanau pri<lb n="A3" break="no"/>ye<g type="danda">.</g></l>
-					<l n="c"><foreign xml:lang="x-oldcham-Latn">lyaṅ·</foreign>-Indrabhūmi-subhadre<g type="danda">.</g></l>
+					<l n="c"><foreign xml:lang="ocm-Latn">lyaṅ·</foreign>-Indrabhūmi-subhadre<g type="danda">.</g></l>
 					<l n="d"><unclear>bha</unclear>dre sadam gir asya te<g type="ddanda">.</g></l>
 				</lg>
 				<lg n="4" met="vasantatilakā">
@@ -135,11 +135,11 @@
 				<lg n="6" met="anuṣṭubh">
 					<l n="a">puṇyaṁ śubham upanītaṁ<g type="danda">.</g></l>
 					<l n="b">svāmvāyāy idam eva ca<g type="danda">.</g></l>
-					<l n="c"><foreign xml:lang="x-oldcham-Latn">pu-pov-ku-kunukuḥ</foreign>-devyai<g type="danda">.</g></l>
+					<l n="c"><foreign xml:lang="ocm-Latn">pu-pov-ku-kunukuḥ</foreign>-devyai<g type="danda">.</g></l>
 					<l n="d">tena tribhuvanādhikam·</l>
 				</lg>
 				<lg n="7" met="āryā">
-					<l n="ab"><milestone type="pagelike" unit="face" n="C"/><lb n="C1"/>śrī-Indravarmma-nr̥pati<g type="danda">.</g>r yyaś cājñā<supplied reason="omitted">ṁ</supplied> <foreign xml:lang="x-oldcham-Latn">pov-ku</foreign>-mahīndrādhipatau<g type="danda">.</g></l>
+					<l n="ab"><milestone type="pagelike" unit="face" n="C"/><lb n="C1"/>śrī-Indravarmma-nr̥pati<g type="danda">.</g>r yyaś cājñā<supplied reason="omitted">ṁ</supplied> <foreign xml:lang="ocm-Latn">pov-ku</foreign>-mahīndrādhipatau<g type="danda">.</g></l>
 					<l n="cd">sarvvāṁ muktiṁ kr̥payā <g type="danda">.</g>mahīndralok<supplied reason="lost">e</supplied>śvarāyādāt·<g type="danda">.</g><g type="ddanda">.</g></l>
 				</lg>
 				<lg n="8" met="śārdūlavikrīḍita">
@@ -148,7 +148,7 @@
 					<l n="c">tasyai ketaka-reṇu-reṇu-vadanāyai prīty-anāśāya yaḥ<g type="danda">.</g></l>
 					<l n="d">sau<lb n="C3" break="no"/><supplied reason="lost">bhā</supplied>gye sati <unclear>s</unclear>au-viśāla-nayanāyai cāvalāyai sadā<g type="danda">.</g><g type="floretQuatrefoil"/> <g type="danda">.</g></l>
 				</lg>
-				<p xml:lang="x-oldcham-Latn">humā hali<g type="danda">.</g>
+				<p xml:lang="ocm-Latn">humā hali<g type="danda">.</g>
 				kedvuk·<g type="danda">.</g>
 				cuvair· bhoja<!-- or moja? dhoja? --><g type="danda">.</g>
 				lahaur·<g type="danda">.</g>

@@ -110,7 +110,7 @@
 	<l n="d"><milestone unit="zone" n="b"/>tāṅ gatiṁ pragataś śubhām·</l>
 </lg>
 <lg n="3" met="upajāti">
-	<l n="a"><lb n="5"/><foreign xml:lang="x-oldcham-Latn">humā-tavov·</foreign> saṁgaṇitas tu <foreign xml:lang="x-oldcham-Latn">pāt-pluḥ</foreign></l>
+	<l n="a"><lb n="5"/><foreign xml:lang="ocm-Latn">humā-tavov·</foreign> saṁgaṇitas tu <foreign xml:lang="ocm-Latn">pāt-pluḥ</foreign></l>
 	<l n="b" real="++-++--+++">kṣetran tu khāryyā<surplus>ḥ</surplus> daśa ma<orig>stā</orig>ṅke</l>
 	<l n="c"><lb n="6"/>paratra bhūrīcchati bhogam āryyaṁ</l>
 	<l n="d">prādāj jināyaiva manaś-śubhena</l>
@@ -121,7 +121,7 @@
 	<l n="c"><add place="bottom" rend="mark"><lb n="15"/>kāvyasya karaṇañ cakre</add></l>
 	<l n="d"><add place="bottom" rend="mark"><lb n="16"/>jñātaye bhūtale nr̥ṇām·<g type="ddanda">.</g></add></l>	
 </lg>
-<p xml:lang="x-oldcham-Latn"><lb n="8"/>humā pralauṅ·<g type="ddanda">.</g> humā padaiṅ·<g type="ddanda">.</g> ney· śaka vanuḥ humā dvā nan·
+<p xml:lang="ocm-Latn"><lb n="8"/>humā pralauṅ·<g type="ddanda">.</g> humā padaiṅ·<g type="ddanda">.</g> ney· śaka vanuḥ humā dvā nan·
 <lb n="9"/> <num value="751">751</num><g type="ddanda">.</g>
 <lb n="10"/>yāṅ· maṇḍara di parvvata<g type="ddanda">.</g>
 <lb n="11"/>vihāra devarakṣa di krauṅ·<g type="ddanda">.</g>

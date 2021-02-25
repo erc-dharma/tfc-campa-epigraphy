@@ -86,6 +86,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:argr" when="2021-02-25" status="draft">added @rend="corrected" and resolved validation problems</change>
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
          <change who="part:argr" when="2020-10-17" status="draft">finished initial encoding of the file</change>
          <change who="part:argr part:sapi" when="2020-10-14" status="draft">started initial encoding of the file</change>
@@ -104,7 +105,7 @@
 	<l n="d"><milestone unit="zone" n="b"/>tasya puṇyam idaṁ matam·<g type="ddanda">.</g></l>
 </lg>
 <lg n="2" met="anuṣṭubh">
-	<l n="a" real="-+++--++"><lb n="3"/><milestone unit="zone" n="a"/>vihārau deva-kule <subst><del>dvau</del><add place="inline">dve</add></subst></l>
+	<l n="a" real="-+++--++"><lb n="3"/><milestone unit="zone" n="a"/>vihārau deva-kule <subst><del rend="corrected">dvau</del><add place="inline">dve</add></subst></l>
 	<l n="b"><milestone unit="zone" n="b"/>jina-śaṅkarayos tayoḥ<g type="ddanda">.</g></l>
 	<l n="c" real="+-+++--+"><lb n="4"/><milestone unit="zone" n="a"/>pūjanārthaṁ prakurute</l><!-- bha-vipulā! -->
 	<l n="d"><milestone unit="zone" n="b"/>tāṅ gatiṁ pragataś śubhām·</l>
@@ -191,7 +192,7 @@ ma<choice><sic>stā</sic><corr>sta A</corr></choice>ṅke
                </listApp>
  </div><!-- end of textpart -->
          </div><!-- end of apparatus -->
-         <div type="translation">
+         <div type="translation" resp="part:argr">
 <p rend="stanza" n="1">Of the two kings, Vikrānta<supplied reason="subaudible">varman</supplied> and Īśvaraloka, the one renowned by the name Samanta, was the commander. This meritorious work is deemed to be his.</p>
 <!-- ECIC II, 295: "De ces deux rois, V. et Ī., celui qui est célèbre sous le nom de Samanta était le chef. Cette oeuvre pie est considérée comme la sienne -->
 <p rend="stanza" n="2">He fashions the two monasteries and the two temples of the Jina and of Śaṅkara, in order to worship the two. He has set out to this beautiful destination.</p>
@@ -214,28 +215,24 @@ Regarding the second half of the stanza, it is likely that <foreign>ārya</forei
            <p>The Old Cam part was edited by É. Aymonier (<bibl rend="omitname"><ptr target="bib:Aymonier1891_01"/><citedRange unit="page">25-27</citedRange><citedRange unit="item">396</citedRange></bibl>), with French word-for-word gloss; the Sanskrit part was edited by A. Bergaigne (<bibl rend="omitname"><ptr target="bib:Barth+Bergaigne1885-1893_01"/><citedRange unit="page">237-241</citedRange><citedRange unit="item">XXV (396)</citedRange></bibl>), with translation into French; textual notes were offered by L. Finot (<bibl rend="omitname"><ptr target="bib:Finot1903_05"/><citedRange unit="page">18-19</citedRange><citedRange unit="item">V</citedRange>, n. 2</bibl>). Bergaigne's edition of the Sanskrit text was published again by R. C. Majumdar (<bibl rend="omitname"><ptr target="bib:Majumdar1927_02"/><citedRange unit="page">65-67</citedRange><citedRange unit="item">28</citedRange></bibl>), with translation into English. The two parts were first put together by K.-H. Golzio (<bibl rend="omitname"><ptr target="bib:Golzio2004_01"/><citedRange unit="page">55-56</citedRange></bibl>), with translation into English. The text is re-edited and freshly translated here by Arlo Griffiths, based on the available estampages and autopsy of the stone.</p>
 	<!-- model from C. 87: First published, with French translation, in Finot 1904d: 925-928; whence, with English translation, in Majumdar 1927: 28-31; whence Golzio 2004: 21-23. Newly edited in Đà Nẵng Catalog: 229-233, whence the present edition. -->
         	<listBibl type="primary">
-			<bibl n="A">
-			<ptr target="bib:Aymonier1891_01"/>
-			<citedRange unit="page">25-27</citedRange><citedRange unit="item">396</citedRange>
+	<bibl n="A">
+		<ptr target="bib:Aymonier1891_01"/>
+		<citedRange unit="page">25-27</citedRange><citedRange unit="item">396</citedRange>
 	</bibl>
-		 <bibl n="B">
-			<ptr target="bib:Barth+Bergaigne1885-1893_01"/>
-			<citedRange unit="page">237-241</citedRange><citedRange unit="item">XXV (396)</citedRange>
+	<bibl n="B">
+		<ptr target="bib:Barth+Bergaigne1885-1893_01"/>
+		<citedRange unit="page">237-241</citedRange><citedRange unit="item">XXV (396)</citedRange>
 	</bibl>
-		 <bibl>
+	<bibl n="M">
 		 <ptr target="bib:Majumdar1927_02"/>
 		 <citedRange unit="page">65-67</citedRange><citedRange unit="item">28</citedRange>
-			</bibl>
-		 <bibl>
-		 <ptr target="bib:Golzio2004_01"/>
-		 <citedRange unit="page">55-56</citedRange>
-		 </bibl>
-        	</listBibl>
+	</bibl>
+</listBibl>
 <listBibl type="secondary">
 	<bibl>
 		<ptr target="bib:Bergaigne1888_01"/>
 		<citedRange unit="page">27, 71, 78</citedRange>
-		</bibl>
+	</bibl>
 	<bibl n="F">
 		<ptr target="bib:Finot1903_05"/>
 		<citedRange unit="page">18-19</citedRange><citedRange unit="item">V</citedRange>
@@ -248,14 +245,18 @@ Regarding the second half of the stanza, it is likely that <foreign>ārya</forei
 		<ptr target="bib:Finot1915_01"/>
 		<citedRange unit="page">11, 47</citedRange>
 	</bibl>
-<bibl>
-		<ptr target="bib:Griffiths+Southworth2011_01"/>
+	<bibl>
+		 <ptr target="bib:Golzio2004_01"/>
+		 <citedRange unit="page">55-56</citedRange>
+	</bibl>
+	<bibl>
+ 		<ptr target="bib:Griffiths+Southworth2011_01"/>
 		<citedRange unit="page">294-295</citedRange>
-		</bibl>
+	</bibl>
 	<bibl>
 		<ptr target="bib:Griffiths+al2008-2009_01"/>
 		<citedRange unit="page">446, 481-484, 486</citedRange>
-		</bibl>
+	</bibl>
            </listBibl>
         </div>
       </body>

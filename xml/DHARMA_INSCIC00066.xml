@@ -74,6 +74,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:sapi" when="2021-03-02" status="draft">Continuing initial encoding of the inscription</change>
             <change who="part:sapi" when="2021-02-12" status="draft">Beggining initial encoding of the inscription</change>
         </revisionDesc>
     </teiHeader>
@@ -129,13 +130,13 @@
               <l n="a">santānam̃ <unclear>sarv</unclear>vadevāḥ surucira<unclear>manas</unclear>ā labdhavanta<seg met="-+"><gap reason="lost" quantity="2" unit="character"/></seg> <lb n="A11"/> smāt</l>
               <l n="b">sañcintyaivañ ca <unclear>śam</unclear>bhus smi<unclear>tamu</unclear>khanayanaḥ preṣitoroja Eva</l>
               <l n="c">sa tva<unclear>ṁ</unclear> śrīmān uroja sphuṭatarasuyaśāḥ śrīnidhiḥ kṣmāñ ca yāhi</l>
-              <l n="d">grāhyam̃ rajyañ ca<seg met="++-"><gap reason="lost" quantity="3" unit="character"/></seg><lb n="A12"/> guru<unclear>ca</unclear>raṇarajaś śambhubhadreśvarasya<g type="eye">.</g><!--sapi2argr Ce symbole ressemble à l'eye de l'inscription C. 171, donc je l'ai encodé comme tel--></l>
+              <l n="d">grāhyam̃ rajyañ ca<seg met="++-"><gap reason="lost" quantity="3" unit="character"/></seg><lb n="A12"/> guru<unclear>ca</unclear>raṇarajaś śambhubhadreśvarasya<g type="complexFinial">.</g><!--sapi2argr Ce symbole ressemble également à l'eye de l'inscription C. 171.--></l>
             </lg>
             <lg n="11" met="sragdharā">
               <l n="a">rājyam̃ sa prāpta<unclear>vā</unclear>m̃<unclear>ś cā</unclear>pratiharata Idam̃ liṅgam īśasya kāryyam̃</l>
               <l n="b">loke sam̃sthāpitan te sakalanr̥patibhir dhāryyamā<choice><sic>n</sic><corr>ṇ</corr></choice>am̃ śirobhiḥ<!--sapi2argr Ici, je n'ai pas mis le danda que je ne vois pas sur l'estampage.--></l>
               <l n="c">Evo<lb n="A13" break="no"/>rojaḥ prati<choice><sic>jñe</sic><corr>jajñe</corr></choice> svayam iha ka<unclear>tha</unclear>yan svātmanaḥ kīrtt<supplied reason="lost">i</supplied>m etām̃</l>
-              <l n="d">dikśreṣṭham̃ syāc ca liṅgañ jagadupakara<unclear>ṇād bhūrbhuva</unclear>ssvassudīptam·<g type="eye">.</g><!--sapi2argr idem pour ce symbole--></l>
+              <l n="d">dikśreṣṭham̃ syāc ca liṅgañ jagadupakara<unclear>ṇād bhūrbhuva</unclear>ssvassudīptam·<g type="complexFinial">.</g><!--sapi2argr idem pour ce symbole--></l>
             </lg>
             <lg n="12" met="śārdūlavikrīḍita">
               <l n="a">mokṣe liṅgam udīritan tad adhiśasyeśāt purā <lb n="A14"/> yad bhr̥gus</l>
@@ -147,53 +148,53 @@
               <l n="a"><lb n="A15"/>svarggasthāḥ parameśvarāt tu ca varam̃  devā na mokse cyute</l>
               <l n="b">tenopādadire surāhitakr̥tāś ślāghyair vvihīnās sadā</l>
               <l n="c">lokasthāś ca surā nr̥pā bhagavato bhadreśvarāt tu kṣitau</l>
-              <l n="d"><unclear>ta</unclear>smāt na prabhavanti te suranr̥pāś śrīvarddhamānās tadā<g type="eye">.</g><!--sapi2argr idem pour ce symbole--></l>
+              <l n="d"><unclear>ta</unclear>smāt na prabhavanti te suranr̥pāś śrīvarddhamānās tadā<g type="complexFinial">.</g><!--sapi2argr idem pour ce symbole--></l>
             </lg>
             <lg n="14" met="mālinī">
               <l n="a">stutinilayanidhīnāṅ kīrttirāśer atītam̃</l>
               <l n="b">stavanam abhimatārtha<unclear>m̃</unclear> maṅgalam̃ syāt munīnām·</l>
               <l n="c">janayati nr̥patīnām̃ sam̃padaṁ ta<lb n="A17" break="no"/>sya tasmai</l>
-              <l n="d">jagata Iha namo bhū<unclear>c cha</unclear>mbhubhadreśvarāya<g type="eye">.</g><!--sapi2argr Ici j'ai remplacé le double danda du rtf par un @.--></l>
+              <l n="d">jagata Iha namo bhū<unclear>c cha</unclear>mbhubhadreśvarāya<g type="complexFinial">.</g><!--sapi2argr Ici j'ai remplacé le double danda du rtf par un [fleuron].--></l>
             </lg>
             <lg n="15" met="indravajrā">
               <l n="a" enjamb="yes">yas svaprabhāvātiśayāt sureśa</l>
               <l n="b">v<choice><sic>ai</sic><corr>i</corr></choice>bhutvam āpnoti yaśobhir eva</l>
               <l n="c">tasmai stuti<supplied reason="lost">r</supplied> mme bhavatu svabhaktyā</l>
-              <l n="d">śrī śambhubhadre<lb n="A18" break="no"/>śvaraviśrutāya<g type="eye">.</g><!--sapi2argr symbole--></l>
+              <l n="d">śrī śambhubhadre<lb n="A18" break="no"/>śvaraviśrutāya<g type="complexFinial">.</g><!--sapi2argr symbole--></l>
             </lg>
             <lg n="16" met="upajāti">
               <l n="a">virājito devaganair anekaiś</l>
               <l n="b">śrī śambhubhadreśvara Eva pūjyaḥ</l>
               <l n="c">campāpurīm̃ darśitasarvvadharmmām</l>
-              <l n="d">apālayat pāvanasārabhūtaḥ<g type="eye">.</g><!--sapi2argr symbole--></l>
+              <l n="d">apālayat pāvanasārabhūtaḥ<g type="complexFinial">.</g><!--sapi2argr symbole--></l>
             </lg>
             <lg n="17" met="indravajrā">
               <l n="a">ye te pi copāda<lb n="A19" break="no"/>dire tha rājyam̃</l>
               <l n="b">campāpure santatirājyasāre</l>
               <l n="c">śrīmaty urojasya suśāsanāc ca</l>
-              <l n="d">bhadreśvare te prathitāḥ pr̥thivyām·<g type="eye">.</g><!--sapi2argr symbole--></l>
+              <l n="d">bhadreśvare te prathitāḥ pr̥thivyām·<g type="complexFinial">.</g><!--sapi2argr symbole--></l>
             </lg>
             <lg n="18" met="āryā">
               <l n="ab">parameśvarasantānāj jāta Urojo dharāpati<lb n="A20" break="no"/>r yyaś ca</l>
-              <l n="cd">tasmāj jātaś śrīmāñ chrīmatimān dharmmarājeti<g type="eye">.</g><!--sapi2argr symbole--></l>
+              <l n="cd">tasmāj jātaś śrīmāñ chrīmatimān dharmmarājeti<g type="complexFinial">.</g><!--sapi2argr symbole--></l>
             </lg>
             <lg n="19" met="āryā">
               <l n="ab">tasmāj jajñe rājā śrīdhiś śrī rudravarmmanāmā yaḥ</l>
-              <l n="cd">tasya sutaḥ khyātayaśāś <!--sapi2argr Ici, Finot le lit 'khyātayaśāḥ'-->  śrīsahito bhadravarmmavibhuḥ<g type="eye">.</g><!--sapi2argr Le symbole est plus gros que les autres et coupé à moitié par l'estampage.--></l>
+              <l n="cd">tasya sutaḥ khyātayaśāś <!--sapi2argr Ici, Finot le lit 'khyātayaśāḥ'-->  śrīsahito bhadravarmmavibhuḥ<g type="complexFinial">.</g><!--sapi2argr Le symbole est plus gros que les autres et coupé à moitié par l'estampage.--></l>
             </lg>
             <lg n="20" met="āryā">
               <l n="ab"><lb n="A21"/>śrī Indravarmmaviditas <!-- Ici, Finot lit śrīndravarmmaviditas, sans distinguer le I indépendant--> sūnuś śrī bhadravarmmaṇas tasya</l>
-              <l n="cd">māheśvaraprabhāvāc campānagare nr̥po bhavati<g type="eye">.</g><!--sapi2argr symbole--></l>
+              <l n="cd">māheśvaraprabhāvāc campānagare nr̥po bhavati<g type="complexFinial">.</g><!--sapi2argr symbole--></l>
             </lg>
             <lg n="21" met="āryā">
               <l n="ab">tebhyas santānebhyo rājyam̃ jātam̃ nr̥pasya sam̃pūrṇṇam̃</l>
-              <l n="cd">na pitāmahe<lb n="A22" break="no"/>na dattam̃ pitrā ca tathā na dattan te<g type="eye">.</g><!--sapi2argr symbole--></l>
+              <l n="cd">na pitāmahe<lb n="A22" break="no"/>na dattam̃ pitrā ca tathā na dattan te<g type="complexFinial">.</g><!--sapi2argr symbole--></l>
             </lg>
             <lg n="22" met="anuṣṭubh">
               <l n="a">tapaḥ<unclear>pha</unclear>laviśeṣāc ca</l>
               <l n="b">puṇyabuddhiparākramāt·</l>
               <l n="c"><seg met="==="><gap reason="lost" quantity="2" unit="character"/></seg>mo nr̥paḥ prāpto</l>
-              <l n="d">na pitur na pitāmahāt·<g type="eye">.</g><!--sapi2argr symbole--></l>
+              <l n="d">na pitur na pitāmahāt·<g type="complexFinial">.</g><!--sapi2argr symbole--></l>
             </lg>
             <lg n="22" met="indravajrā">
               <l n="a">sam̃prāptavān rājyam i<lb n="A23" break="no"/>dan narendro</l>
@@ -203,7 +204,7 @@
             </lg>
             <lg n="23-24"><!--Même question que pour stances III-V, je ne sais pas comment encoder cela...-->
               <gap reason="lost" quantity="3" unit="character" precision="low"/>svāmī jānanībhūmi<lb n="A24" break="no"/>prasāda <gap reason="lost" quantity="46" unit="character" precision="low"/>
-              <lb n="A25"/><gap reason="lost" quantity="46" unit="character" precision="low"/><unclear>ṇam</unclear><g type="eye">.</g><!--sapi2argr symbole-->
+              <lb n="A25"/><gap reason="lost" quantity="46" unit="character" precision="low"/><unclear>ṇam</unclear><g type="complexFinial">.</g><!--sapi2argr symbole-->
             </lg>
             <lg n="25"><milestone type="pagelike" unit="face" n="B"/>
             <lb n="B1"/><gap reason="lost" quantity="1" unit="line"/>
@@ -290,6 +291,101 @@
                 <l n="c">kaulīrendau ca puṣye śucisitadivase pañcame śrīvivr̥ddhe</l>
                 <l n="d">sa śrīmān indravarmmā sva<lb n="B19" break="no"/>bhayadam adhikam̃ svājñayātisṭhipad yaḥ<g type="complexFinial">.</g></l>
               </lg>
+              <p>Atha sa Eva narapatiś śrī jayaIndravarmmā mahārājādhirājo nekapūrvvajanmāntaratapaḥphala<lb
+              n="B20" break="no"/>viśeṣāt samadhigatacampādhirājo daivaprasādayogāt sakaladiṅmaṇḍalākāśavyāpyanekabuddhiprakarṣasam̃pad atulakīrttiḥ kīrttisam̃padaś śrīsamudayā<lb
+              n="B21" break="no"/>bhivarddhitacittapras<unclear>āda</unclear>nayanavadanaś śrī maheśvaralokasan<unclear>t</unclear>ānajādi<unclear>p</unclear>rabhava<unclear>te</unclear><gap reason="lost" quantity="9" unit="character" precision="low"/>iśrava śrī la<unclear>kṣ</unclear>mīndrabh<unclear>ūm</unclear>ī<unclear>śvara</unclear>grāmasvāmibhūtas sakalabhuva<lb
+              n="B22" break="no"/>naguruvareṣṭo bhavad iti<g type="complexFinial">.</g> punar api tathaiva ṣaṣ<gap reason="lost" quantity="1" unit="character"/><unclear>ṇa</unclear><gap reason="lost" quantity="21" unit="character" precision="low"/><gap reason="illegible" quantity="8" unit="character" precision="low"/> śrī avaloki<lb
+              n="B23" break="no"/>teśva<unclear>ra</unclear><gap reason="lost" quantity="2" unit="character"/> <supplied reason="lost">śr</supplied>ī <supplied reason="lost">I</supplied>nd<supplied reason="lost">dra</supplied>varmma<supplied>d</supplied>e<supplied>va</supplied><gap reason="lost" quantity="44" unit="character" precison="low"/> nidhir adhi
+              <lb n="B24"/><gap reason="lost" quantity="1" unit="line"/>
+              <lb n="B25"/>dhvadvayam̃ <unclear>s</unclear>u<unclear>varṇṇa</unclear><gap reason="lost" quantity="52" unit="character" precison="low"/>
+              </p>
+              <lg n="40" met="anuṣṭubh"><milestone type="pagelike" unit="face" n="C"/>
+                <l n="a"><lb n="C1"/><seg met="====-"><gap reason="lost" quantity="5" unit="character"/></seg><unclear>dha</unclear>rmmārthaṁ</l>
+                <l n="b">vihāras sthāpito<lb n="C2"/><seg met="-="><gap reason="lost" quantity="2" unit="character"/></seg></l>
+                <l n="c"><unclear>rā</unclear>jño na tv ākarādānād</l>
+                <l n="d">bhikṣusaṅgha<lb n="C3" break="no"/><supplied reason="lost">prayo</supplied>janam·<g type="ddandaHooked">.</g></l>
+              </lg>
+              <lg n="41" met="anuṣṭubh">
+                <l n="a">paribhogāni sarvvā<choice><sic>n</sic><corr>ṇ</corr></choice>i<space/></l>
+                <l n="b">vi<lb n="C4" break="no"/>hāre sthāpitāni me<space/></l>
+                <l n="c">bhikṣusaṅghopa<lb n="C5" break="no"/>bhogārthaṁ<space/></l>
+                <l n="d">satvānāñ ca prayojanam·</l>
+              </lg>
+              <lg n="42" met="anuṣṭubh">
+                <l n="a"><lb n="C6"/>na rājñaḥ paribhogārtho<space/></l>
+                <l n="b">nākarādānasanta<lb n="C7" break="no"/>tiḥ<space/></l>
+                <l n="c">bhikṣusaṅghopabhogārtho<space/></l>
+                <l n="d">vihā<lb n="C8" break="no"/>ras sthāpitas sadā<g type="ddandaPlain">.</g><g type="dandaHooked">.</g></l>
+              </lg>
+              <lg n="43" met="śārdūlavikrīḍita">
+                <l n="a">bhiksūṇāñ ca dhanā<lb n="C9" break="no"/>ni tāni sakalāny evañ ca ra<unclear>kṣ</unclear>anti ye</l>
+                <l n="b"><lb n="C10"/>vidvadbrāhmaṇatāpasakṣitipatijñātyā<lb n="C11" break="no"/>dayo bhuktaye</l>
+                <l n="c">bauddhaṁ mokṣap<choice><sic>a</sic><corr>u</corr></choice>raṁ sa<lb n="C12" break="no"/>mīyur asamaṁ sarvve ca te vāndhavair </l>
+                <l n="d">yye <lb n="C13"/> gr̥h<choice><sic>n</sic><corr>ṇ</corr></choice>anti ca nāśayanti narakaṁ raudraṁ patantu <lb n="C14"/> svayam·<g type="dandaHooked">.</g></l>
+              </lg>
+              <lg n="44" met="anuṣṭubh">
+                <l n="a">śrutvā jānanti paśyanti</l>
+                <l n="b">taddravya<lb n="C15" break="no"/>ñ ca haranti ye<space/></l>
+                <l n="c">nivedayanti rājñe na<space/></l>
+                <l n="d">sa<lb n="C16" break="no"/>rvve te narakaṁ yayuḥ<g type="complexFinial">.</g></l>
+              </lg>
+              <lg n="45" met="anuṣṭubh">
+                <l n="a">nivedayanti <lb n="C17"/> rājñe ca<space/></l>
+                <l n="b">sarvve te ca punaḥpunaḥ<space/></l>
+                <l n="c">vā<lb n="C18" break="no"/>ndhavais saha pitrā vā<space/></l>
+                <l n="d">narakaṁ vai pa<lb n="C19" break="no"/>tantu na<g type="complexFinial">.</g></l>
+              </lg>
+              <lg n="46" met="upajāti of triṣṭubh">
+                <l n="a">haranti sarvvā<choice><sic>n</sic><corr>ṇ</corr></choice>i dhanāni <lb n="C20"/> tāni<space/></l>
+                <l n="b">ye kṣatriyā vātha nr̥pā <lb n="C21"/> dvijā vā<space/></l>
+                <l n="c">sarvve ca te nārakam e<lb n="C22" break="no"/>va duḥkhaṁ<space/></l>
+                <l n="d">mātrā ca pitrā ca pata<lb n="C23" break="no"/>ntu nityam·<g type="complexFinial">.</g></l>
+              </lg>
+              <lg n="47" met="indravajrā">
+                <l n="a">rakṣanti <choice><sic>te</sic><corr>ye</corr></choice> tāni dha<lb n="C24" break="no"/>nāni sarvve<space/></l>
+                <l n="b">saṅghopabhogā<lb n="C25" break="no"/>ya mamāpi vācā<space/></l>
+                <l n="c">kṣetraṁ suva<lb n="C26" break="no"/>rṇṇaṁ rajatañ ca kaṅsaṁ<space/></l>
+                <l n="d">dāsādibhi<lb n="C27" break="no"/>r buddhapadaṁ samīyuḥ<g type="complexFinial">.</g></l>
+              </lg>
+              <lg n="48" met="indravajrā">
+                <l n="a">tyaktvā <lb n="C28"/> vaco me ca haranti ke cit<space/></l>
+                <l n="b"><unclear>n</unclear>r̥p<supplied reason="lost">ā</supplied><lb n="C29" break="no"/>dayo vipradhaneśvarāś ca<space/></l>
+                <l n="c">Aṣṭ<unclear>au</unclear> <lb n="C30"/> samīyur nnarakān samastān<space/></l>
+                <l n="d">pitrā <lb n="C31"/> ca mātrā ca sabandhuvarggaiḥ<g type="complexFinial">.</g></l>
+              </lg>
+              <lg n="49" met="anuṣṭubh"><milestone type="pagelike" unit="face" n="D"/>
+                <l n="a"><lb n="D1"/><seg met="="><gap reason="lost" quantity="1" unit="character"/></seg>lāy·kṣetraṁ Asoksetraṁ</l>
+                <l n="b">gamr̥<lb n="D2" break="no"/><unclear>yā</unclear>ṅkṣetraṁ tathaiva<space/></l>
+                <l n="c">jrauṅ·Apaṅ·<lb n="D3" break="no"/>salavaṅksetraṁ<space/></l>
+                <l n="d">sadamandiṅ dhanyadvayaṁ</l>
+              </lg>
+              <lg n="50" met="anuṣṭubh">
+                <l n="a"><lb n="D4"/>damanuv·vlur·candāṅkṣetraṁ</l>
+                <l n="b">dandānkṣ<choice><sic>a</sic><corr>e</corr></choice><lb n="D5" break="no"/>traṁ vataiṅ· tathā<space/></l>
+                <l n="c">ṅauk· Amvil· cva <lb n="D6"/> patāk·kṣetraṁ<space/></l>
+                <l n="d">raṅaul·kṣetraṁ Atau<lb n="D7" break="no"/>r· sivaḥ</l>
+              </lg>
+              <lg n="51" met="anuṣṭubh">
+                <l n="a">lvuk·tandreṁlvukkavov·kṣetraṁ</l>
+                <l n="b"><lb n="D8"/>vamanauṅ· ca Avam̃ tathā<space/></l>
+                <l n="c">kṣetrā<lb n="D9" break="no"/>ṇy etāni sarvvāṇi</l>
+                <l n="d">lokeśāya nr̥po dadat·<g type="complexFinial">.</g></l>
+              </lg>
+              <p>Api ca yaś śrī I<lb
+                n="D11" break="no"/>ndravarmmā kṣetrāni sadhanyāni dāsīdā<lb
+                n="D12" break="no"/>sān sarajatasuvarṇṇakaṅsaloha<lb
+                n="D13" break="no"/>tāmrādīni dravyāṇi śrī lakṣmīndralo<lb
+                n="D14" break="no"/>keśvarāya bhikṣusaṅghaparibhogā<lb
+                n="D15" break="no"/>ya dharmmasantatiparipūraṇārthāya da<lb
+                n="D16" break="no"/>ttavān iti<g type="dashTriple">.</g><!--sapi2argr Ici j'ai inventé un symbole à partir de la taxonomie mais je ne suis pas sûre--> ye rājānaḥ kṣatriy<supplied reason="lost">ā vā</supplied>
+                <lb n="D17"/>brāhmaṇā vāmātyā vā <gap reason="lost" quantity="2" unit="character"/>
+                <lb n="D18"/>vā va<choice><sic>n</sic><corr>ṇ</corr></choice>ijo vā haranti nāśayant<unclear>i</unclear> <gap reason="lost" quantity="1" unit="character"/>
+                <lb n="D19"/>ḍhayanti vā te sarvve mahārauravaṁ ga<lb
+                n="D20" break="no"/>cchantu<g type="complexFinial">.</g> punar api te rakṣanti pari<lb
+                n="D21" break="no"/>pālayanti Āviṣkurvvanti sarvve sva<lb
+                n="D22" break="no"/>rggapuraṁ mokṣapurañ ca yatheṣṭaṁ
+                <lb n="D23"/>gacchantu bhavantas sarvve<g type="complexFinial">.</g><g type="complexFinial">.</g>
+              </p>
                <listApp>
                  <app loc="A1"><!--sapi2argr Dois-je noter cette modification? Je n'ai pas fait les autres car il me semblait que non-->
                      <lem>jīvitam̃</lem>
@@ -312,8 +408,37 @@
                      <rdg source="bib:Finot1904_01">dharmasya</rdg>
                  </app>
                  <app loc="B15-B16">
-                     <lem>śrīsam̃padālaṅkr̥taḥ</lem>
-                     <rdg source="bib:Finot1904_01">sampadālaṅkr̥taḥ</rdg>
+                     <lem>°sam̃padālaṅkr̥taḥ</lem> <!--sapi2argr Ai-je le droit de mettre le symbole ° dans l'apparatus ?-->
+                     <rdg source="bib:Finot1904_01">°sampadālaṅkr̥taḥ</rdg>
+                 </app>
+                 <app loc="B20">
+                     <lem>°sam̃pad</lem>
+                     <rdg source="bib:Finot1904_01">°sampad</rdg>
+                 </app>
+                 <app loc="B20">
+                     <lem>°sam̃padaś</lem>
+                     <rdg source="bib:Finot1904_01">°sampadaś</rdg>
+                 </app>
+                 <app loc="C3">
+                     <lem>sarvvā<choice><sic>n</sic><corr>ṇ</corr></choice>i</lem>
+                     <rdg source="bib:Finot1904_01">sarvvāṇi</rdg>
+                 </app>
+                 <app loc="C25-C26">
+                     <lem>suvarṇaṁ</lem>
+                     <rdg source="bib:Finot1904_01">suvarṇṇaṁ</rdg>
+                 </app>
+                 <app loc="D5">
+                     <lem>cva</lem>
+                     <rdg source="bib:Finot1904_01">ca</rdg>
+                 </app>
+                 <app loc="D7">
+                     <lem>tandreṁ</lem>
+                     <rdg source="bib:Finot1904_01">tandrī</rdg>
+                     <note>Finot wrongly split lvuk tandrīl vuk kavov kṣetraṁ, misread -e as -ī and missed the anusvāra on tandreṁ. This is probably the same toponym as tanreṅ in C. 167.</note>
+                 </app>
+                 <app loc="D13">
+                     <lem>dravyāni</lem>
+                     <rdg source="bib:Finot1904_01">dravyāṇi</rdg>
                  </app>
                </listApp>
          </div>
@@ -323,6 +448,15 @@
          <div type="commentary">
            <p n="B14">XXXVI d. °nāvi: perhaps emend °nāmi (proposed by Diwakar Acharya). The multiple emendations proposed by Majumdar, p. 80 (note) are unnecessary.</p>
            <p n="B18">XXXIX b. śr̥ṅgīna: "Le texte porte bien śr̥ṅgīṇa (sic! AG), mais il faut, selon toute apparence, corriger śr̥ṅgīne, chaque signe du zodiaque mentionné donnant lieu à un composé à part." (Finot)</p>
+           <p n="C1-C2">XL a. One expects something like buddhasaṅghasudharmmārthaṁ. b."Le dernier mot était sans doute mayā." (Finot) c. na tv ākarādānād: or understand natvā-akarādānād?</p>
+           <p n="C5">XLI d. There is no punctuation sign closing this staze.</p>
+           <p n="C12">XLIII c. ca te vāndhavair: Finot omits to without noticing the resulting metrical deficiency.</p>
+           <p n="C28">XLVIII ab. cit (n)r̥p(ā)dayo: the engraver has not used a virāma at the end of pāda, but apparently written the akṣara tnr̥, although the estampage is not entirely clear on this point.</p>
+           <p n="D1">XLIX c. sadamandiṅ: or read saṁ °umandiṅ?</p>
+           <p n="D11">sadhanyāni: « Corr. sadhānyāni(?) » (Finot)</p>
+           <p n="D18-19">ḍhayanti: restore pīḍhayanti, then correct pīḍayanti? Cf. K. 379, st. II ye tāny apraharaṇṭīha pīḍayanti vanāni cca te yānti pitr̥bhiḥ sārvve rauravadyeṣu yāta[nam].</p>
+           <p n="D20-21">paripālayanti: pari....... pālayanti Finot. Despite the dots inserted by Finot, there is no lacuna between pari and pālayanti.</p>
+           <p n="D23">bhavantas: Finot doesn't seem to have translated this word, the meaning of which is indeed not very clear. Compare to the use of bhavān in C. 167?</p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
@@ -338,3 +472,4 @@
       </body>
   </text>
 </TEI>
+<!-- Inversion des estampages C et D.-->

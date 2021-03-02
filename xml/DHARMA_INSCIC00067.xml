@@ -181,7 +181,7 @@
              <l n="c" enjamb="yes">sā śrīmatī jayati lokadharā ca rudro<g type="dotMid">.</g></l>
              <l n="d">mākhyā trayaḥ suranaraiḥ kila banditas te<g type="floretQuatrefoil">.</g></l>
            </lg>
-            <ab><milestone type="pagelike" unit="face" n="C"/><lb n="C01"/>namaḥ sarvvatām <gap reason="illegible" quantity="4" unit="character"></ab><!--sapi2argr Ici ce n'est pas tout à fait ça. Finot a semblé ne pas réussir à proposer de lecture au delà de sarva. On pourrait songer lire °tām dravide ; °tām draviṅa (bien que le terme pour richesse soit draviṇa) -->
+            <ab><milestone type="pagelike" unit="face" n="C"/><lb n="C01"/>namaḥ sarvvatām <gap reason="illegible" quantity="4" unit="character"/></ab><!--sapi2argr Ici ce n'est pas tout à fait ça. Finot a semblé ne pas réussir à proposer de lecture au delà de sarva. On pourrait songer lire °tām dravide ; °tām draviṅa (bien que le terme pour richesse soit draviṇa) -->
             <p xml:lang="ocm-Latn">
               <lb n="C1"/>Ājñā yāṅ· pu pov· ku śrī jayasiṅhavarmma<lb
               n="C2" break="no"/>deva kā vriy· yāṅ· pu pov· ku śrīndraparame<lb
@@ -191,7 +191,7 @@
               n="C6" break="no"/>ṅ nāma mavriy· Urāṅ· kluñ· yāṅ· pov· ku si niy·<!--sapi2argr Ici, Finot lit "niḥ"--> A<lb
               n="C7" break="no"/>tha vā trā top· dravya yām̃ pov· ku si niy· Urām̃ nan· sidaḥ <!--sapi2argr Pour yām̃ comme pour Urām̃, Finot note un ṅ final à la place du m̃.-->
               <lb n="C8"/>Adhamapuruṣa Annan· ñū lavuḥ di mahāraurava naraka<g type="circleMed">.</g> Api
-              <lb n="C9"/>ca<g type="dotMid">.</g> ya sim̃ Urām̃ nāma pasyāṁ yām̃ pom̃ ku si nim̃ Athavā<gap reason="illegible" quantity="1" unit="character">ḥ <!--sapi2argr : Ici, Finot ne semble pas avoir relevé le signe suivi d'un visarga. Il a juste translittéré "Athavā top". Quel est ce signe ? S'agirait-il d'un ai inhabituel ? D'un deuxième ā long, accolé au vā, et donc d'une erreur du scribe ?-->
+              <lb n="C9"/>ca<g type="dotMid">.</g> ya sim̃ Urām̃ nāma pasyāṁ yām̃ pom̃ ku si nim̃ Athavā<gap reason="illegible" quantity="1" unit="character"/>ḥ <!--sapi2argr : Ici, Finot ne semble pas avoir relevé le signe suivi d'un visarga. Il a juste translittéré "Athavā top". Quel est ce signe ? S'agirait-il d'un ai inhabituel ? D'un deuxième ā long, accolé au vā, et donc d'une erreur du scribe ?-->
               <!--sapi2argr : Deuxième remarque : il semblerait ici que le scribe ait fait un très grand usage de l'anusvara candra. Corriger le pom̃ en pov· ?--> top· dravya
               <lb n="C10"/>yām̃ pov· ku si niy· Urām̃ nan·  sidaḥ Uttamapuruṣa nau svarggā<lb
               n="C11" break="no"/>pavargga<g type="circleMed">.</g> kevala yām̃ pov· ku si nim̃ prayojana van drim̃ Udakā<lb

@@ -53,7 +53,7 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                     <p>Two forms of pā.</p>
                      <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
@@ -86,6 +86,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+        <change who="part:argr part:sapi" when="2021-03-03" status="draft">Few corrections of the transliteration</change>
         <change who="part:sapi" when="2021-02-12" status="draft">Correction of the bibliography</change>
          <change who="part:sapi" when="2021-01-26" status="draft">Initial encoding of the inscription</change>
       </revisionDesc>
@@ -93,38 +94,39 @@
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">
-           <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A1"/><g type="floretComplex"/><g type="ddandaHooked">.</g> svasti<g type="ddandaHooked">.</g> Oṁ namaś śivāya<g type="ddandaHooked">.</g> siddhir astu<g type="ddandaHooked">.</g><space/><g type="floretComplex"/></ab>
+           <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A1"/><g type="floretComplex"/><g type="ddandaPlain">.</g> svasti<g type="ddandaPlain">.</g> Oṁ namaś śivāya<g type="ddandaPlain">.</g> siddhir astu<g type="ddandaPlain">.</g> <g type="floretComplex"/></ab>
            <lg n="1" met="śārdūlavikrīḍita">
-             <l n="a"><lb n="A2"/>yo vyāpī tribhavottamo guruyaśās sarvvaiḥ suraiḥ pūjito</l>
-             <l n="b">bhaktyā yogaviśuddhayā<lb n="A3"/> pṛthutamaujobhiś ca siddharṣibhiḥ"/&gt;<g type="dandaPlain">.</g></l>
-             <l n="c">devāmitragaṇair agendravivare devāṅganābhis tathā</l>
-             <l n="d">pāpāpattivināśakṛt pra<lb n="A4" break="no"/>ṇayināṁ nṝṇāṁ vibhūtin dadau<g type="ddandaHooked">.</g></l>
+             <l n="a"><lb n="A2"/>yo vyāpī tribhavottamo guru-yaśās sarvvaiḥ suraiḥ pūjito</l>
+             <l n="b">bhaktyā yoga-viśuddhayā <lb n="A3"/> pr̥thutamaujobhiś ca siddharṣibhiḥ<g type="dandaPlain">.</g></l>
+             <l n="c">devāmitra-gaṇair agendra-vivare devāṅganābhis tathā</l>
+             <l n="d">pāpāpatti-vināśa-kr̥t pra<lb n="A4" break="no"/>ṇayināṁ nr̥̄ṇāṁ vibhūtin dadau<g type="ddandaPlain">.</g></l>
            </lg>
            <lg n="2" met="indravajrā">
              <l n="a" enjamb="yes">śrīśānadevasya harasya tasyai</l>
-             <l n="b">vāṅghridvayāmbhoruhareṇubhir yyā<unclear><g type="dandaPlain">.</g></unclear></l>
-             <l n="c" enjamb="yes"><lb n="A5"/>campāpurī saṁpadanūnaśobhā</l><!--sapi2argr Ici entre le "u" de °purī et le "ū" de °anū° j'ai du mal à voir une différence paléographique. -->
-             <l n="d">sadbhogabhārāḍhyatarā samṛddhā<g type="ddandaHooked">.</g></l>
+             <l n="b">vāṅghri-dvayāmbho-ruha-reṇubhir yyā<unclear><g type="dandaPlain">.</g></unclear></l>
+             <l n="c"><lb n="A5"/>campā-purī saṁpad-anūna-śobhā</l>
+             <l n="d">sad-bhoga-bhārāḍhyatarā samr̥ddhā<g type="ddandaPlain">.</g></l>
            </lg>
            <lg n="3" met="śārdūlavikrīḍita">
-             <l n="a">tasyāṁ śrī jaya Indravarmmanṛpatiḥ saṁp<choice><sic>a</sic><corr>ā</corr></choice>ditaśrīḥ<lb n="A6"/> satā<unclear>ṁ</unclear></l>
+             <l n="a">tasyāṁ śrī-jaya-Indravarmma-nr̥patiḥ saṁp<unclear>ā</unclear>dita-śrīḥ <lb n="A6"/>satā<unclear>ṁ</unclear></l>
              <l n="b">senābhiḥ sakalābhir indur iva vā tārābhir āsevitaḥ</l>
-             <l n="c">dīptājñāparirakṣitākhilajagad yaḥ puṇyakarmmodayaḥ</l>
-             <l n="d"><lb n="A7"/>kāntyālokamanovibodhanakaraś śaktyā prajā rakṣatu<g type="ddandaHooked">.</g></l>
+             <l n="c">dīptājñā-parirakṣitākhila-jagad yaḥ puṇya-<unclear>ka</unclear>rmmodayaḥ</l><!-- varmmodayaḥ? dharmmodayaḥ? -->
+             <l n="d"><lb n="A7"/>kāntyāloka-mano-vibodhana-karaś śaktyā prajā rakṣatu<g type="ddandaPlain">.</g></l>
            </lg>
            <lg n="4" met="sragdharā">
-             <l n="a">tasyāmātyas samasteśaguṇapaṭutaro śesa<lb n="A8" break="no"/>dharmmāspadārthī</l>
-             <l n="b">nānāpuṇyāvasānāj janitamunimanomodano yo malātmā<unclear><g type="dandaPlain">.</g></unclear></l>
-             <l n="c">śāntyā rākenduvat sajjana<unclear>jana</unclear><!--sapi2argr Ici j'ai moi même lu jana. Mais voici le commentaire du rtf : c. sajjanaXX: lire sajjanajana? Majumdar propose sajjanagaṇa.--><lb n="A9" break="no"/>viruto labdhakīrttyāgamaśrīḥ</l>
-             <l n="d">śāstrī śāstrajñasaṁghaiḥ stutipaṭumatibhir ddiṅmukhe gīyate sma<g type="ddandaHooked">.</g></l>
+             <l n="a">tasyāmātyas samasteśa-guṇa-paṭutaro śesa<lb n="A8" break="no"/>-dharmmāspadārthī</l>
+             <l n="b">nānā-puṇyāvasānāj janita-muni-mano-modano yo 'malātmā<unclear><g type="dandaPlain">.</g></unclear></l>
+             <l n="c">śāntyā rākenduvat saj-jana-jana<lb n="A9" break="no"/>-viruto labdha-kīrtty-āgama-śrīḥ</l>
+             <l n="d">śāstrī śāstra-jña-saṁghaiḥ stuti-paṭu-matibhir ddiṅ-mukhe gīyate sma<g type="ddandaPlain">.</g></l>
            </lg>
+           <!-- sapi and argr have read down to here on 2021-03-03 -->
            <lg n="5" met="śārdūlavikrīḍita">
-             <l n="a"><lb n="A10"/>po yāñ pov ku danāy pināṅ pṛthujanaḥ śaivakriyājñānavid</l>
-             <l n="b">yogadhyānasamādhikṛc chivapadecchā<lb n="A11"/> yo nijātmaśriyaḥ<g type="dandaPlain">.</g><!--sapi2argr Ici j'ai rajouté un danda au rtf ainsi qu'au xml car il me semble en distinguer un.--></l>
-             <l n="c">smṛtvāmbhaḥplavamānaphenasadṛśa<unclear>ṁ</unclear> kāyaṁ<!--sapi2argr Ici j'ai corrigé kāyam en kāyaṁ--> tv anityam mahat</l>
-             <l n="d">tat puṇyaṁ bha<lb n="A12" break="no"/>vasāgarāt sma kurute pitror mmuce svātmanaḥ<g type="ddandaHooked">.</g></l>
+             <l n="a"><lb n="A10"/>po yāñ pov ku danāy pināṅ pr̥thujanaḥ śaivakriyājñānavid</l>
+             <l n="b">yogadhyānasamādhikr̥c chivapadecchā<lb n="A11"/> yo nijātmaśriyaḥ<g type="dandaPlain">.</g><!--sapi2argr Ici j'ai rajouté un danda au rtf ainsi qu'au xml car il me semble en distinguer un.--></l>
+             <l n="c">smr̥tvāmbhaḥplavamānaphenasadr̥śa<unclear>ṁ</unclear> kāyaṁ<!--sapi2argr Ici j'ai corrigé kāyam en kāyaṁ--> tv anityam mahat</l>
+             <l n="d">tat puṇyaṁ bha<lb n="A12" break="no"/>vasāgarāt sma kurute pitror mmuce svātmanaḥ<g type="ddandaPlain">.</g></l>
            </lg>
-           <p>śrī Amarendrapureśvarasya dhanāni kṣetra<lb n="A13" break="no"/>godāsadāsīmahiṣādīni dhānyataṇḍulavasanarajatakanakakaṁsaloha<choice><unclear>ta</unclear><unclear>tra</unclear></choice><!--sapi2argr Ici le rtf indique "ta", ainsi que Huber, mais il semble y avoir un ra souscrit ?--><lb n="A14" break="no"/>mrādīni ca ye ke pāpapuruṣā haranti balatayā tṛṣṇatayā vā <milestone type="pagelike" unit="face" n="B"/><!--sapi2argr Inverser les faces b et C en B et c et mettre un commentaire pour montrer la différence avec Huber ? (si oui, ne pas oublier de changer le rtf)-->
+           <p>śrī Amarendrapureśvarasya dhanāni kṣetra<lb n="A13" break="no"/>godāsadāsīmahiṣādīni dhānyataṇḍulavasanarajatakanakakaṁsaloha<choice><unclear>ta</unclear><unclear>tra</unclear></choice><!--sapi2argr Ici le rtf indique "ta", ainsi que Huber, mais il semble y avoir un ra souscrit ?--><lb n="A14" break="no"/>mrādīni ca ye ke pāpapuruṣā haranti balatayā tr̥ṣṇatayā vā <milestone type="pagelike" unit="face" n="B"/><!--sapi2argr Inverser les faces b et C en B et c et mettre un commentaire pour montrer la différence avec Huber ? (si oui, ne pas oublier de changer le rtf)-->
             </p>
              <p xml:lang="ocm-Latn"><lb n="B1"/>humā
              <lb n="B2"/>
@@ -134,20 +136,20 @@
              <lb n="B4"/>kalkanatayā vātibhīmama
              <lb n="B5"/>hānarake ghoratarahutā
              <lb n="B6"/>śanaśikhākarāle patantu te
-             <lb n="B7"/>pitṛvandhupakṣair mmātrivandhupakṣai<lb n="B8" break="no"/>ḥ punā rakṣanti na haranti vā ye
-             <lb n="B9"/>ke sādhupuruṣā dharmmakāṅkṣi<lb n="B10" break="no"/>ṇaḥ prāpnuvantu te nityaṁ svargga<lb n="B11" break="no"/>phalam iti<g type="ddandaHooked">.</g>
+             <lb n="B7"/>pitr̥vandhupakṣair mmātrivandhupakṣai<lb n="B8" break="no"/>ḥ punā rakṣanti na haranti vā ye
+             <lb n="B9"/>ke sādhupuruṣā dharmmakāṅkṣi<lb n="B10" break="no"/>ṇaḥ prāpnuvantu te nityaṁ svargga<lb n="B11" break="no"/>phalam iti<g type="ddandaPlain">.</g>
            </p>
            <p xml:lang="ocm-Latn">siy· Urāṅ· yaṅ·
              <lb n="B12"/>mavac· tuy· śanāpa niy· Asu<lb n="B13" break="no"/>v hitaṁ asuv putiḥ Asuv miraḥ
              <lb n="B14"/>Asuv pāk matā Avis ta ya nan·
-             <lb n="B15"/>Āśraya Inā Urāṅ nan<g type="ddandaHooked">.</g> niy·
+             <lb n="B15"/>Āśraya Inā Urāṅ nan<g type="ddandaPlain">.</g> niy·
              <lb n="B16"/>śakarāja kāla vuḥ yāp· triḥ
              <lb n="B17"/>catvāra Aṣṭa<space/><g type="floretComplex"/>
              <milestone type="pagelike" unit="face" n="C"/><gap reason="lost" quantity="14" unit="line" precision="low"/><milestone type="pagelike" unit="face" n="D"/><lb n="D1" break="no"/>nna niy· kā liṅait· Oḥ pathuv·
              <lb n="D2"/>Urāṅ· rayā Oḥ surāk· di pu po<lb n="D3" break="no"/>v· tana rayā urāṅ· nan· tmuv· Avīcīna<lb n="D4" break="no"/>raka samū nan· Urāṅ· yaṅ· paliṅait·
              <lb n="D5"/>Udakānna niy· man· kintu Urāṅ yāṅ·
              <lb n="D6"/>pov· ku siniy·<gap reason="lost" quantity="4" unit="character"/> tok· nauka<lb n="D7" break="no"/>n· kanumvrap· Athavā kaṁn· sī&gt;<!--sapi2argr ici il y avait ī sur le rtf mais je propose la lecture alternative de e-->v· Anaiḥ
-             <lb n="D8"/>Urāṅ· Athavā kaṁn· ganuhā Urāṅ· Atha<lb n="D9" break="no"/>vā nau tamṛyāla niv· di kāryya Urāṅ·
+             <lb n="D8"/>Urāṅ· Athavā kaṁn· ganuhā Urāṅ· Atha<lb n="D9" break="no"/>vā nau tamr̥yāla niv· di kāryya Urāṅ·
              <lb n="D10"/>Athavā tauk· panavau danau riyo pasa
              <lb n="D11"/>kā <gap reason="lost" quantity="2" unit="character"/>ḥ jeṅ·<gap reason="lost" quantity="9" unit="character"/> jeṅ·<gap reason="lost" quantity="14" unit="line"/>
            </p>
@@ -159,8 +161,8 @@
                <note>Majumdar also reads nṝṇāṁ.</note>
            </app>
            <app loc="A4">
-               <lem>°ruhareṇubhir</lem><!--sapi2argr comment figurer les ° ?-->
-               <rdg source="bib:Huber1911_02">°rohareṇubhir</rdg>
+               <lem>-ruha-reṇubhir</lem>
+               <rdg source="bib:Huber1911_02">-rohareṇubhir</rdg>
                <note>Majumdar also reads °ruhareṇubhir.</note>
            </app>
            <app loc="A5">
@@ -168,6 +170,11 @@
                <rdg source="bib:Huber1911_02">°saṅbhoga°</rdg>
                <rdg source="bib:Majumdar1927_01">°saṁbhoga°</rdg><!--sapi2argr Ici je ne suis pas sûre qu'il s'agisse de la bonne référence-->
                <note>Huber's reading is unmetrical.</note>
+           </app>
+           <app loc="A5">
+               <lem source="bib:Majumdar1927_01">saṁp<unclear>ā</unclear>dita-</lem>
+               <rdg source="bib:Huber1911_02">saṁpadita-</rdg>
+               <note>Huber seems not to have realized his reading is unmetrical, and that the <foreign>-ā</foreign> marker in <foreign>pā</foreign> here takes the same inward-turning form as in <foreign>pāda</foreign> c <foreign>ptā</foreign>.</note>
            </app>
            <app loc="A9">
                <lem>śāstrī</lem>

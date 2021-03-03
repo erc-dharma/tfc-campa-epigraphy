@@ -74,6 +74,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+          <change who="part:sapi" when="2021-03-03" status="draft">few corrections</change>
           <change who="part:sapi" when="2021-02-17" status="draft">few corrections</change>
             <change who="part:sapi" when="2021-02-12" status="draft">Initial encoding of the inscription</change>
         </revisionDesc>
@@ -338,8 +339,8 @@
                  </app>
                </listApp>
          </div>
-         <div type="translation" xml:lang="eng">
- 	<!--translation encoded as per EGD §9.2 -->
+         <div type="translation" xml:lang="fra" source="bib:Finot1904_01">
+           <p n="A01">Hommage à Çiva !</p>
          </div>
          <div type="commentary">
           <p n="A8">V c. dbhūta°: "dbhūta est sans doute pour dbhuta; u a été allongé pour les besoins de mètre." (Finot)</p>

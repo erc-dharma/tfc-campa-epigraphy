@@ -74,6 +74,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+          <change who="part:sapi" when="2021-03-03" status="draft">Few corrections.</change>
             <change who="part:sapi" when="2021-03-02" status="draft">Continuing initial encoding of the inscription</change>
             <change who="part:sapi" when="2021-02-12" status="draft">Beggining initial encoding of the inscription</change>
         </revisionDesc>
@@ -86,7 +87,7 @@
             <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A01"/><g type="?"/><!--sapi2argr ici il semblerait y avoir des symboles, mais je n'arrive pas à les identifier.--> śrīlakṣmīndralokeśvarāya<supplied reason="lost">namaḥ</supplied></ab>
             <lg n="1" met="pr̥thvī">
               <l n="a"><lb n="A1"/><seg met="-+---+"><gap reason="lost" quantity="6" unit="character"/></seg> priyaṁ paradhanāni vākāṅkṣate<space/></l>
-              <l n="b">svayañ ca yadi jīvitam̃ na khalu hiṅsi<seg met="++"><gap reason="illegible" quantity="2" unit="character"/> dharaḥ<space/></l>
+              <l n="b">svayañ ca yadi jīvitam̃ na khalu hiṅsi<seg met="++"><gap reason="illegible" quantity="2" unit="character"/> dharaḥ<space/></seg></l>
               <l n="c"><seg met="-+---+-+---+-++="><gap reason="lost" quantity="16" unit="character"/></seg></l>
               <l n="d"><seg met="-+---+-+---+-++="><gap reason="lost" quantity="16" unit="character"/></seg></l>
             </lg>
@@ -202,18 +203,18 @@
               <l n="c">Evam̃ hy urojasya viśe <seg met="-++"><gap reason="lost" quantity="3" unit="character"/></seg></l>
               <l n="d"><seg met="++-++--+-++"><gap reason="lost" quantity="11" unit="character"/></seg></l>
             </lg>
-            <lg n="23-24"><!--Même question que pour stances III-V, je ne sais pas comment encoder cela...-->
+            <lg n="23-24" met="unknown"><!--Même question que pour stances III-V, je ne sais pas comment encoder cela...-->
               <gap reason="lost" quantity="3" unit="character" precision="low"/>svāmī jānanībhūmi<lb n="A24" break="no"/>prasāda <gap reason="lost" quantity="46" unit="character" precision="low"/>
               <lb n="A25"/><gap reason="lost" quantity="46" unit="character" precision="low"/><unclear>ṇam</unclear><g type="complexFinial">.</g><!--sapi2argr symbole-->
             </lg>
-            <lg n="25"><milestone type="pagelike" unit="face" n="B"/>
+            <lg n="25" met="unknown"><milestone type="pagelike" unit="face" n="B"/>
             <lb n="B1"/><gap reason="lost" quantity="1" unit="line"/>
             <lb n="B2"/><gap reason="lost" quantity="1" unit="character"/> vuddhyā<gap reason="lost" quantity="1" unit="character"/> tu sthāp<supplied reason="lost">i</supplied>tavān ta<supplied reason="lost">ṁ</supplied> harinr̥pa<unclear>t</unclear>iḥ<g type="complexFinial">.</g>
             </lg>
             <lg n="26" met="pr̥thvī">
               <l n="a">sate malayavāsine bhagavate ja<choice><sic>gat</sic><corr>gan</corr></choice>muktaye</l>
               <l n="b">nr̥ṇāñ ca <seg met="--+-+---+-++-+"><gap reason="lost" quantity="14" unit="character"/></seg></l>
-              <l n="c"><seg met="-+-+"><gap reason="lost" quantity="''" unit="character"/></seg><lb n="B3" break="no"/>takośarūpam adhikam̃ suvarṇṇānanam̃ </l>
+              <l n="c"><seg met="-+-+"><gap reason="lost" quantity="4" unit="character"/></seg><lb n="B3" break="no"/>takośarūpam adhikam̃ suvarṇṇānanam̃ </l>
               <l n="d">pratiṣṭhitam aram̃ nr̥pena kr̥tinā ca tasmai punaḥ<g type="complexFinial">.</g></l>
               <lg n="27" met="anuṣṭubh">
                 <l n="a">Ityevam̃ rājasanmānāt</l>
@@ -255,8 +256,7 @@
                 <l n="a">Aty<lb n="B10" break="no"/>antajanmapariśuddhaviśiṣṭacitto</l>
                 <l n="b">rājā mahājanavarair anugamyamānaḥ</l>
                 <l n="c">campāpurīm abhimatām akhilañ ca pātun</l>
-                <l n="d">tvām̃ rakṣatu tv iha tam eva ciram̃ sadā śrīḥ<g type="ddandaPlain">.</g></l><add place="below">-dvaya</add>
-              </lg>
+                <l n="d">tvām̃ rakṣatu tv iha tam eva ciram̃ sadā śrīḥ<g type="ddandaPlain">.</g></l>
               <lg n="34" met="śārdūlavikrīḍita">
                 <l n="a"><lb n="B11"/>yāvad dharmmanayena rakṣati divam̃ devendra Iṣṭyājñayā</l>
                 <l n="b">yāvac cāmbunidhir jjalāni saritām̃ gāmbhīryyato dhārayan·</l>
@@ -295,9 +295,9 @@
               n="B20" break="no"/>viśeṣāt samadhigatacampādhirājo daivaprasādayogāt sakaladiṅmaṇḍalākāśavyāpyanekabuddhiprakarṣasam̃pad atulakīrttiḥ kīrttisam̃padaś śrīsamudayā<lb
               n="B21" break="no"/>bhivarddhitacittapras<unclear>āda</unclear>nayanavadanaś śrī maheśvaralokasan<unclear>t</unclear>ānajādi<unclear>p</unclear>rabhava<unclear>te</unclear><gap reason="lost" quantity="9" unit="character" precision="low"/>iśrava śrī la<unclear>kṣ</unclear>mīndrabh<unclear>ūm</unclear>ī<unclear>śvara</unclear>grāmasvāmibhūtas sakalabhuva<lb
               n="B22" break="no"/>naguruvareṣṭo bhavad iti<g type="complexFinial">.</g> punar api tathaiva ṣaṣ<gap reason="lost" quantity="1" unit="character"/><unclear>ṇa</unclear><gap reason="lost" quantity="21" unit="character" precision="low"/><gap reason="illegible" quantity="8" unit="character" precision="low"/> śrī avaloki<lb
-              n="B23" break="no"/>teśva<unclear>ra</unclear><gap reason="lost" quantity="2" unit="character"/> <supplied reason="lost">śr</supplied>ī <supplied reason="lost">I</supplied>nd<supplied reason="lost">dra</supplied>varmma<supplied>d</supplied>e<supplied>va</supplied><gap reason="lost" quantity="44" unit="character" precison="low"/> nidhir adhi
+              n="B23" break="no"/>teśva<unclear>ra</unclear><gap reason="lost" quantity="2" unit="character"/> <supplied reason="lost">śr</supplied>ī <supplied reason="lost">I</supplied>nd<supplied reason="lost">dra</supplied>varmma<supplied reason="lost">d</supplied>e<supplied reason="lost">va</supplied><gap reason="lost" quantity="44" unit="character" precision="low"/> nidhir adhi
               <lb n="B24"/><gap reason="lost" quantity="1" unit="line"/>
-              <lb n="B25"/>dhvadvayam̃ <unclear>s</unclear>u<unclear>varṇṇa</unclear><gap reason="lost" quantity="52" unit="character" precison="low"/>
+              <lb n="B25"/>dhvadvayam̃ <unclear>s</unclear>u<unclear>varṇṇa</unclear><gap reason="lost" quantity="52" unit="character" precision="low"/>
               </p>
               <lg n="40" met="anuṣṭubh"><milestone type="pagelike" unit="face" n="C"/>
                 <l n="a"><lb n="C1"/><seg met="====-"><gap reason="lost" quantity="5" unit="character"/></seg><unclear>dha</unclear>rmmārthaṁ</l>

@@ -85,8 +85,6 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">
-         </div>
-         <div type="apparatus">
             <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A01"/><g type="?"/><!--sapi2argr ici il semblerait y avoir des symboles, mais je n'arrive pas à les identifier.--> śrīlakṣmīndralokeśvarāya<supplied reason="lost">namaḥ</supplied></ab>
             <lg n="1" met="pr̥thvī">
               <l n="a"><lb n="A1"/><seg met="-+---+"><gap reason="lost" quantity="6" unit="character"/></seg> priyaṁ paradhanāni vākāṅkṣate<space/></l>
@@ -260,6 +258,7 @@
                 <l n="b">rājā mahājanavarair anugamyamānaḥ</l>
                 <l n="c">campāpurīm abhimatām akhilañ ca pātun</l>
                 <l n="d">tvām̃ rakṣatu tv iha tam eva ciram̃ sadā śrīḥ<g type="ddandaPlain">.</g></l>
+              </lg>
               <lg n="34" met="śārdūlavikrīḍita">
                 <l n="a"><lb n="B11"/>yāvad dharmmanayena rakṣati divam̃ devendra Iṣṭyājñayā</l>
                 <l n="b">yāvac cāmbunidhir jjalāni saritām̃ gāmbhīryyato dhārayan·</l>
@@ -389,6 +388,8 @@
                 n="D22" break="no"/>rggapuraṁ mokṣapurañ ca yatheṣṭaṁ
                 <lb n="D23"/>gacchantu bhavantas sarvve<g type="complexFinial">.</g><g type="complexFinial">.</g>
               </p>
+              </div>
+         <div type="apparatus">
                <listApp>
                  <app loc="A1"><!--sapi2argr Dois-je noter cette modification? Je n'ai pas fait les autres car il me semblait que non-->
                      <lem>jīvitam̃</lem>

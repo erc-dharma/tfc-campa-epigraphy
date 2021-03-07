@@ -77,6 +77,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+          <change who="part:sapi" when="2021-03-07" status="draft">adding translation</change>
           <change who="part:sapi" when="2021-03-03" status="draft">few corrections</change>
           <change who="part:sapi" when="2021-02-17" status="draft">few corrections</change>
             <change who="part:sapi" when="2021-02-12" status="draft">Initial encoding of the inscription</change>
@@ -93,7 +94,7 @@
              <l n="d"><lb n="A2"/>yasyāṅghripadmaṁ praṇamanti devāḥ<g type="floretQuatrefoil">.</g></l>
            </lg>
            <lg n="2" met="pr̥thvī">
-             <l n="a">sa Eva para<supplied reason="lost">m</supplied>e<supplied reason="lost">śvar<seg met="+"><gap reason="lost" quantity="1" unit="character"/></seg></supplied> <seg met="--"><gap reason="lost" quantity="2" unit="character"/></seg> guheśvarākhyaḥ kṣitau</l>
+             <l n="a">sa Eva para<supplied reason="lost">m</supplied>e<supplied reason="lost">śvar</supplied><seg met="+--"><gap reason="lost" quantity="3" unit="character"/></seg> guheśvarākhyaḥ kṣitau</l>
              <l n="b"><lb n="A3"/><seg met="-+"><gap reason="lost" quantity="2" unit="character"/></seg> yatakumāraśāntijayamaṅgalotpāda<supplied reason="lost">kaḥ</supplied></l>
              <l n="c">svaputravarakīrtt<supplied reason="lost">i</supplied><seg met="+---+-"><gap reason="lost" quantity="6" unit="character"/></seg> pādāmvujaḥ<g type="dotMid">.</g></l>
              <l n="d">sthirāya ni<lb n="A4" break="no"/>jarājyasa<unclear>ṁ</unclear>padudayāya jejīyate<g type="floretQuatrefoil">.</g></l>
@@ -158,11 +159,11 @@
              <l n="c">Adveṣaṁ nāma<seg met="++="><gap reason="lost" quantity="3" unit="character"/></seg></l>
              <l n="d"><seg met="====-+-="><gap reason="lost" quantity="8" unit="character"/></seg></l>
            </lg>
-           <lg n="13" met="uncertain"><lb n="B3"/><gap reason="lost" quantity="30" unit="character" precision="low"/></lg>
+           <lg n="13" met="uncertain"><lb n="B3"/><gap reason="lost" quantity="30" unit="character" precision="low"/></lg><!--sapi2argr Ici, cela me marque une erreur mais je ne sais pas pourquoi.-->
            <lg n="14" met="śārdūlavikrīḍita">
-             <l n="a"><seg met="+++--+"><gap reason="lost" quantity="6" unit="character"/></seg><lb n="B4"/><seg met="-+---+++-++-+"><gap reason="lost" quantity="13" unit="character"/></l>
+             <l n="a"><seg met="+++--+"><gap reason="lost" quantity="6" unit="character"/></seg><lb n="B4"/><seg met="-+---+++-++-+"><gap reason="lost" quantity="13" unit="character"/></seg></l>
              <l n="b"><seg met="+++--+-+---+++-++"><gap reason="lost" quantity="17" unit="character"/></seg>śubhe<g type="dotMid">.</g></l>
-             <l n="c">ga<seg met="++"><gap reason="lost" quantity="2" unit="character"/></seg><lb n="B5"/><seg met="--+-+--++"><gap reason="lost" quantity="9" unit="character"/> <supplied reason="lost">jyai</supplied>ṣṭh<supplied reason="lost">e</supplied> śucau māsake<g type="dotMid">.</g></l>
+             <l n="c">ga<seg met="++"><gap reason="lost" quantity="2" unit="character"/></seg><lb n="B5"/><seg met="--+-+--++"><gap reason="lost" quantity="9" unit="character"/></seg> <supplied reason="lost">jyai</supplied>ṣṭh<supplied reason="lost">e</supplied> śucau māsake<g type="dotMid">.</g></l>
              <l n="d">devā Indrapur<supplied reason="lost">e</supplied> <unclear>tayā</unclear> sumanasā kīrttyai pratiṣṭhāpitāḥ<g type="floretQuatrefoil">.</g></l>
            </lg>
            <p>
@@ -344,17 +345,35 @@
          </div>
          <div type="translation" xml:lang="fra" source="bib:Finot1904_01">
            <p n="A01">Hommage à Çiva !</p>
+            <p rend="stanza" n="1">Celui qui réduisit Kāma à l'état d'Anaṅga <supplied reason="explanation">sans corps</supplied> et lui <supplied reason="subaudible">rendit</supplied> ensuite son beau corps..., celui aux pieds de qui se prosternent les Devas ;</p>
+            <p rend="stanza" n="2">Ce Parameśvara... nommé Guheśvara sur les terre ; qui soulève les acclamations de victoire pour apaiser Kumāra ; dont les pieds, lots..... la gloire de son fils ; accumule les victoires pour le constant lever de la prospérité de son règne.</p>
+            <p rend="stanza" n="3">La ville parée de la splendeur de la ville d'Indra... brillante de lotus blancs, ornée des plus belles fleurs de lotus, fondée par Bhr̥gu dans les temps anciens... <supplied reason="subaudible">Cette ville</supplied> appelée Campā garde ici son invincible fortune.</p>
+            <p rend="stanza" n="4">Cette <supplied reason="subaudible">ville</supplied> illustre que protège S. M. Jaya Siṅhavarman et dont la puissance renouvelle sans cesse la prospérité, <supplied reason="subaudible">cette ville</supplied> inséparablement unie à la bonne fortune resplendit ici.</p>
+            <p rend="stanza" n="5">Le roi est l'abri des vertus et des égards qui ravissent les cœurs ; des gens vertueux qui tiennent une conduite céleste et dont le cœur est enclin au bien ; de multiples joyaux et autres <supplied reason="subaudible">trésors</supplied>, tel que l'inébranlable Montagne d'or à l'abondance merveilleuse <supplied reason="explanation">le Meru</supplied> ; de splendeurs <supplied reason="subaudible">dignes</supplied> d'un arbre Kalpa terrestre paré de l'éclat des pierres précieuses.</p>
+            <p rend="stanza" n="6">Sa gloire blanchit son espérance ; sa puissance illumine tous les hommes ; il aveugle ses ennemis par sa colère et son éclat ; il inspire l'amour à toutes les femmes.</p>
+            <p rend="stanza" n="7">Son esprit est prompt ; pour la vertu, il est d'une extrême bienveillance ; pour les méfaits réprouvés par les justes, il est doux sans qu'on le flatte.</p>
+            <p rend="stanza" n="8">Ce roi Śrī Jaya Siṅhavarman a une tante maternelle, d'une constante habileté au bien, douée de qualités exceptionnelles, parée du lever de tous les bonheurs ; heureuse de gloire et d'espérance, asile de bonnes pensées formées dans son cœur, elle brille ; elle s'entend et se plaît aux parfums, l'arrangement des fleurs et des étoffes.</p>
+            <p rend="stanza" n="9">Elle se plaît à révérer les pieds de son époux bien-aimé ; elle est vouée à la vérité suprême ; elle possède la plénitude de félicité que produit la perfection de la nature et de la conduite ; elle fait sans relâche des dons aux brahmanes, aux ascètes, aux gens de bien ; son corps est toujours prêt à vénérer les pieds de Śiva.</p>
+            <p rend="stanza" n="10">Elle tire sa gloire la plus pure de sa dévotion envers ses gurus, dont le parfait contentement est la source de sa félicité et de sa grandeur ; elle trouve l'accomplissement de ses vœux dans la bénédiction <supplied reason="subaudible">résultant de leur</supplied> faveur qui lui est chère ; son âme ferme est la source de sa prospérité ; son intelligence est sans défaut.</p>
+            <p n="B01">Hommage à Pa<supplied reason="lost">rameśvara</supplied> !</p>
+            <p rend="stanza" n="11-13"><!--sapi2argr Ici j'ai corrigé le numéro des stances en fonction de ceux de la translittération. Ai-je bien fais ? (Finot considère qu'il s'agit des stance I-III de la face B)-->Cette <foreign>Pu lyaṅ</foreign> Rājakula, habile dans l'observation du Dharma, au gracieux visage..... dit ce qui est vrai et non ce qui est faux, non ce qui est impur, mais seulement ce qui est pur. En vérité l'absence de haine........</p>
+            <p rend="stanza" n="14">......... en <supplied reason="lost">Jyai</supplied>ṣṭha dans un mois et un jour propices, à Indrapura, des dieux ont été érigés pour la gloire par cette excellente dame.</p>
+            <p n="B6-B8">................. Par Śrī Jaya Siṅhavarmadeva Campāpura-parameśvara, connaissant le mérite des gens de bien, d'une pénétrante intelligence, a été érigée, dans cette ville nommée Indrapura, l'auguste Haromādevī, pour l'accroissement du mérite spirituel de la sœur cadette de sa mère, la prince <foreign>Po ku lyaṅ</foreign> Śrī Rājakula, autrement appelée Haradevī.</p>
+            <p n="B8-B10">Pour le mérite de son mari le roi Śrī Paramabuddhaloka, l'excellente <foreign>Po ku lyaṅ</foreign> Śrī Rājakula, connaissant les mérites...... a érigé cet Indraparameśvara.</p>
+            <p n="B10-B13">Dans la même année <foreign>śaka</foreign>, la même princesse a érigé un Rudraparameśvara pour l'accroissement du mérite de son père. Et pour l'accroissement du mérite de sa mère, elle a érigé cette Rudromā avec piété.</p>
+            <p rend="stanza" n="15-17">Victoire à la glorieuse déesse nommée Haromādevī, qui est le portrait de la princesse Rājakula Haradevī ; à l'auguste Indraparameśvara ; à l'auguste Rudraparameśvara ; à l'auguste protectrice du monde Rudromā ! Tous trois sont adorés par les dieux et les hommes.</p>
+            <p n="C1-C14">Ordre de S. M. Śrī Jaya Siṅhavarmadeva de donner au dieu Śrī Indraparameśvara, à la déesse Śrī Rudromā <unclear>l'exemption</unclear> de tout impôt. Si une personne prend les serviteurs ou les biens de ces divinités, que le scélérat <unclear>tombe</unclear> dans l'enfer Mahāraurava. Et de plus : si une personne fait prospérer ces divinités ou les biens de ces divinités, que cet homme noble aille au ciel et à la délivrance complète. Toutes ces divinités ont l'usage...... Moi, princesse <foreign>Lyaṅ</foreign> Rājakula, je fais cette œuvre pie comme legs en ce monde. Si un homme distigué fait prospérer cette œuvre pie, les dieux connaîtront son mérite. Moi, femme, j'adore le dieu Parameśvara.</p>
+            <p n="D1-D6">Ordre de...... <supplied reason="subaudible">Si</supplied> cet homme s'abstient <supplied reason="subaudible">de faire</supplied> du mal à moi et du mal à ma famille et du mal à tous les êtres, si cet homme suit <unclear>l'ordre</unclear> de S. M. Śrī Jaya Siṅhavarmadeva <supplied reason="subaudible">adressé</supplied> à moi, <foreign>Lyaṅ</foreign> Rājakula, cet homme, savoir... il fera réussir tous les hommes sans distinction à jouir promptement du ciel et de la délivrance.</p>
          </div>
          <div type="commentary">
           <p n="A8">V c. dbhūta°: "dbhūta est sans doute pour dbhuta; u a été allongé pour les besoins de mètre." (Finot)</p>
-         </div>
          <p n="A17">X c. uparucitatprasāda°: "Corr. uparucitaprasāda (?)" (Finot)</p>
         </div>
         <div type="bibliography">
            <p>First edited with translation into French by L. Finot (<bibl rend="omitname"><ptr target="bib:Finot1904_01"/><citedRange unit="page">105-112</citedRange></bibl>). The inscription is re-edited here by Arlo Griffiths and Salomé Pichon based on autopsy and the EFEO estampage n. 265.</p>
         	<listBibl type="primary">
-				<bibl n="F"/>
-        <ptr target="bib:Finot1904_01"/>
+				  <bibl n="F">
+          <ptr target="bib:Finot1904_01"/>
         <citedRange unit="page">105-112</citedRange>
       </bibl>
 			</listBibl>

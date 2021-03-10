@@ -86,6 +86,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+        <change who="part:argr part:sapi" when="2021-03-10" status="draft">Few corrections of the transliteration</change>
          <change who="part:argr part:sapi" when="2021-03-03" status="draft">Few corrections of the transliteration</change>
          <change who="part:sapi" when="2021-02-12" status="draft">Correction of the bibliography</change>
          <change who="part:sapi" when="2021-01-26" status="draft">Initial encoding of the inscription</change>
@@ -121,34 +122,41 @@
            </lg>
            <!-- sapi and argr have read down to here on 2021-03-03 -->
            <lg n="5" met="śārdūlavikrīḍita">
-             <l n="a"><lb n="A10"/>po yāñ pov ku danāy pināṅ pr̥thujanaḥ śaivakriyājñānavid</l>
-             <l n="b">yogadhyānasamādhikr̥c chivapadecchā<lb n="A11"/> yo nijātmaśriyaḥ<g type="dandaPlain">.</g><!--sapi2argr Ici j'ai rajouté un danda au rtf ainsi qu'au xml car il me semble en distinguer un.--></l>
-             <l n="c">smr̥tvāmbhaḥplavamānaphenasadr̥śa<unclear>ṁ</unclear> kāyaṁ<!--sapi2argr Ici j'ai corrigé kāyam en kāyaṁ--> tv anityam mahat</l>
-             <l n="d">tat puṇyaṁ bha<lb n="A12" break="no"/>vasāgarāt sma kurute pitror mmuce svātmanaḥ<g type="ddandaPlain">.</g></l>
+             <l n="a"><lb n="A10"/>po 'ya<unclear>ṁ</unclear> pov ku danāy pināṅ pr̥thu-janaḥ śaiva-kriyā-jñānavid</l>
+             <l n="b">yoga-dhyāna-samādhi-kr̥c chiva-padecchā <lb n="A11"/>yo nijātma-śriyaḥ<g type="dandaPlain">.</g></l>
+             <l n="c">smr̥tvāmbhaḥ-plavamāna-phena-sadr̥śa<unclear>ṁ</unclear> kāya<unclear>ṁ</unclear> tv anitya<unclear>ṁ</unclear> mahat</l>
+             <l n="d">tat puṇya<unclear>ṁ</unclear> bha<lb n="A12" break="no"/>va-sāgarāt sma kurute pitror mmuce svātmanaḥ<g type="ddandaPlain">.</g></l>
            </lg>
-           <p>śrī Amarendrapureśvarasya dhanāni kṣetra<lb n="A13" break="no"/>godāsadāsīmahiṣādīni dhānyataṇḍulavasanarajatakanakakaṁsaloha<choice><unclear>ta</unclear><unclear>tra</unclear></choice><!--sapi2argr Ici le rtf indique "ta", ainsi que Huber, mais il semble y avoir un ra souscrit ?--><lb n="A14" break="no"/>mrādīni ca ye ke pāpapuruṣā haranti balatayā tr̥ṣṇatayā vā <milestone type="pagelike" unit="face" n="B"/><!--sapi2argr Inverser les faces b et C en B et c et mettre un commentaire pour montrer la différence avec Huber ? (si oui, ne pas oublier de changer le rtf)-->
-            </p>
-             <p xml:lang="ocm-Latn"><lb n="B1"/>humā
-             <lb n="B2"/>
-             <lb n="B3"/>
-           </p>
-           <p xml:lang="san-Latn">
-             <lb n="B4"/>kalkanatayā vātibhīmama
-             <lb n="B5"/>hānarake ghoratarahutā
-             <lb n="B6"/>śanaśikhākarāle patantu te
-             <lb n="B7"/>pitr̥vandhupakṣair mmātrivandhupakṣai<lb n="B8" break="no"/>ḥ punā rakṣanti na haranti vā ye
-             <lb n="B9"/>ke sādhupuruṣā dharmmakāṅkṣi<lb n="B10" break="no"/>ṇaḥ prāpnuvantu te nityaṁ svargga<lb n="B11" break="no"/>phalam iti<g type="ddandaPlain">.</g>
+           <p>śrī-Amarendra-pureśvarasya dhanāni kṣetra<lb n="A13" break="no"/>-go-dāsa-dāsī-mahiṣādīni dhānya-taṇḍula-vasana-rajata-kanaka-ka<unclear>ṁ</unclear>sa-loha-<choice><sic>trā</sic><corr>tā</corr></choice><lb n="A14" break="no"/>mrādīni ca ye ke pāpa-puruṣā haranti balatayā tr̥ṣṇatayā vā<!--sapi2argr Inverser les faces b et C en B et c et mettre un commentaire pour montrer la différence avec Huber ? (si oui, ne pas oublier de changer le rtf)-->
+           <milestone type="pagelike" unit="face" n="b"/>
+           <lb n="b1"/>kalkanatayā vātibhīma-ma<lb
+             n="b2" break="no"/>hā-narake ghoratara-hutā<lb n="b3" break="no"/>śana-śikhā-karāle patantu te
+             <lb n="b4"/>pitr̥-vandhu-pakṣair mmātr̥-vandhu-pakṣai<lb
+             n="b5" break="no"/>ḥ punā rakṣanti na haranti vā ye
+             <lb n="b6"/>ke sādhu-puruṣā dharmma-kāṅkṣi<lb
+             n="b7" break="no"/>ṇaḥ prāpnuvantu te nityaṁ svargga<lb
+             n="b8" break="no"/>-phalam iti<g type="ddandaPlain">.</g>
            </p>
            <p xml:lang="ocm-Latn">siy· Urāṅ· yaṅ·
-             <lb n="B12"/>mavac· tuy· śanāpa niy· Asu<lb n="B13" break="no"/>v hitaṁ asuv putiḥ Asuv miraḥ
-             <lb n="B14"/>Asuv pāk matā Avis ta ya nan·
-             <lb n="B15"/>Āśraya Inā Urāṅ nan<g type="ddandaPlain">.</g> niy·
-             <lb n="B16"/>śakarāja kāla vuḥ yāp· triḥ
-             <lb n="B17"/>catvāra Aṣṭa<space/><g type="floretComplex"/>
-             <milestone type="pagelike" unit="face" n="C"/><gap reason="lost" quantity="14" unit="line" precision="low"/><milestone type="pagelike" unit="face" n="D"/><lb n="D1" break="no"/>nna niy· kā liṅait· Oḥ pathuv·
+             <lb n="b9"/>mavac· tuy· śanāpa niy· Asu<lb
+             n="b10" break="no"/>v· hitaṁ Asuv· putiḥ Asuv· miraḥ
+             <lb n="b11"/>Asuv· pāk· matā Avista ya nan·
+             <lb n="b12"/>Āśraya Inā Urāṅ· nan·<g type="ddandaPlain">.</g> niy·
+             <lb n="b13"/>śakarāja kāla vuḥ yāṅ· triḥ
+             <lb n="b14"/>catvāra Aṣṭa<g type="ddandaPlain">.</g><g type="floretComplex"/>
+          </p>
+<!--The way a space is left open between sa and vi in the third line proves that lines 1-3 were written after the rest of the face. -->
+    <p xml:lang="ocm-Latn"><milestone type="pagelike" unit="face" n="b"/><lb n="b1bis"/>humā vūnūk· klar· tipā<lb
+    n="b2bis" break="no"/>r· kūṅ dada<!-- or dadaṁ? --> tala Ajau<unclear>ñ·</unclear>
+    <lb n="b3bis"/>vavūy<unclear>·</unclear> ṅan<unclear>·</unclear> glai A<space type="ascender" quantity="2" unit="character"/>viḥ <unclear>nau</unclear>
+  </p>
+           <p>
+             <!-- sapi and argr have read down to here on 2021-03-1O -->
+             <milestone type="pagelike" unit="face" n="C"/><gap reason="lost" quantity="14" unit="line" precision="low"/>
+             <milestone type="pagelike" unit="face" n="D"/><lb n="D1" break="no"/>nna niy· kā liṅait· Oḥ pathuv·
              <lb n="D2"/>Urāṅ· rayā Oḥ surāk· di pu po<lb n="D3" break="no"/>v· tana rayā urāṅ· nan· tmuv· Avīcīna<lb n="D4" break="no"/>raka samū nan· Urāṅ· yaṅ· paliṅait·
              <lb n="D5"/>Udakānna niy· man· kintu Urāṅ yāṅ·
-             <lb n="D6"/>pov· ku siniy·<gap reason="lost" quantity="4" unit="character"/> tok· nauka<lb n="D7" break="no"/>n· kanumvrap· Athavā kaṁn· sī&gt;<!--sapi2argr ici il y avait ī sur le rtf mais je propose la lecture alternative de e-->v· Anaiḥ
+             <lb n="D6"/>pov· ku siniy·<gap reason="lost" quantity="4" unit="character"/> tok· nauka<lb n="D7" break="no"/>n· kanumvrap· Athavā kaṁn· se<!--sapi2argr ici il y avait ī sur le rtf mais je propose la lecture alternative de e-->v· Anaiḥ
              <lb n="D8"/>Urāṅ· Athavā kaṁn· ganuhā Urāṅ· Atha<lb n="D9" break="no"/>vā nau tamr̥yāla niv· di kāryya Urāṅ·
              <lb n="D10"/>Athavā tauk· panavau danau riyo pasa
              <lb n="D11"/>kā <gap reason="lost" quantity="2" unit="character"/>ḥ jeṅ·<gap reason="lost" quantity="9" unit="character"/> jeṅ·<gap reason="lost" quantity="14" unit="line"/>
@@ -156,20 +164,18 @@
          </div>
          <div type="apparatus">
            <app loc="A4">
-               <lem>nṝṇāṁ</lem>
-               <rdg source="bib:Huber1911_02">nṝṇām</rdg>
-               <note>Majumdar also reads nṝṇāṁ.</note>
+               <lem source="bib:Majumdar1927_01">nr̥̄ṇāṁ</lem>
+               <rdg source="bib:Huber1911_02">nr̥̄ṇām</rdg>
            </app>
            <app loc="A4">
-               <lem>-ruha-reṇubhir</lem>
-               <rdg source="bib:Huber1911_02">-rohareṇubhir</rdg>
-               <note>Majumdar also reads °ruhareṇubhir.</note>
+               <lem source="bib:Majumdar1927_01">-ruha-reṇubhir</lem>
+               <rdg source="bib:Huber1911_02">-roha-reṇubhir</rdg>
+               <note>Huber's reading is unmetrical.</note>
            </app>
            <app loc="A5">
-               <lem>°sadbhoga°:</lem>
-               <rdg source="bib:Huber1911_02">°saṅbhoga°</rdg>
-               <rdg source="bib:Majumdar1927_01">°saṁbhoga°</rdg><!--sapi2argr Ici je ne suis pas sûre qu'il s'agisse de la bonne référence-->
-               <note>Huber's reading is unmetrical.</note>
+               <lem>-sadbhoga-</lem>
+               <rdg source="bib:Huber1911_02">-saṅbhoga-</rdg>
+               <rdg source="bib:Majumdar1927_01">-saṁbhoga-</rdg>
            </app>
            <app loc="A5">
                <lem source="bib:Majumdar1927_01">saṁp<unclear>ā</unclear>dita-</lem>
@@ -177,23 +183,46 @@
                <note>Huber seems not to have realized his reading is unmetrical, and that the <foreign>-ā</foreign> marker in <foreign>pā</foreign> here takes the same inward-turning form as in <foreign>pāda</foreign> c <foreign>ptā</foreign>.</note>
            </app>
            <app loc="A9">
-               <lem>śāstrī</lem>
+               <lem source="bib:Majumdar1927_01">śāstrī</lem>
                <rdg source="bib:Huber1911_02">śāstri</rdg>
-               <note>Majumdar also reads śāstrī. Huber's reading is unmetrical.</note>
+               <note>Huber's reading is unmetrical.</note>
            </app>
-           <app loc="B9-B10">
-               <lem>°kāṅkṣiṇaḥ</lem>
-               <rdg source="bib:Huber1911_02">°kaṅkṣiṇaḥ</rdg>
+           <app loc="A10">
+             <lem>po 'ya<unclear>ṁ</unclear></lem>
+             <rdg source="bib:Huber1911_02">po yām̃</rdg>
            </app>
-           <app loc="B10">
+           <app loc="A11">
+             <lem>-śriyaḥ<g type="dandaPlain">.</g></lem>
+             <rdg source="bib:Huber1911_02">-śriyaḥ</rdg>
+             <note>Huber omits the punctuation mark.</note>
+           </app>
+           <app loc="A13">
+             <lem>-<choice><sic>trā</sic><corr>tā</corr></choice><lb n="A14" break="no"/>mrādīni</lem>
+             <rdg source="bib:Huber1911_02">-tamrādīni</rdg>
+             <rdg source="bib:Majumdar1927_01">-tāmrādīni</rdg>
+           </app>
+           <app loc="b4">
+             <lem>mmātr̥-</lem>
+             <rdg source="bib:Huber1911_02">mmātri-</rdg>
+             <rdg source="bib:Majumdar1927_01">mātr̥-</rdg>
+           </app>
+           <app loc="b9">
+               <lem>-kāṅkṣiṇaḥ</lem>
+               <rdg source="bib:Huber1911_02">-kaṅkṣiṇaḥ</rdg>
+           </app>
+           <app loc="b10">
                <lem>prāpnuvantu</lem>
                <rdg source="bib:Huber1911_02">prapnuvantu</rdg>
+           </app>
+           <app loc="b16">
+             <lem>yāṅ·</lem>
+             <rdg source="bib:Huber1911_02">yāp·</rdg>
            </app>
          </div>
          <div type="translation" xml:lang="fra" source="bib:Huber1911_01">
  	         <p n="A1">Bonheur ! Adoration à Śiva ! Succès !</p>
            <p rend="stanza" n="1">Le dieu qui pénètre partout, auquel nul n'est pareil dans les trois mondes, qui est doué d'une gloire majestueuse, qu'adorent, dans sa caverne de l'Himālaya, tous les autres dieux, les troupes des démons et les nymphes célestes, de même que les génies et les sages doués de la puissance illimitée que leur confère leur fois <supplied reason="subaudible">en Śiva</supplied> purifiée par le <foreign>yoga</foreign>, ce dieu-là qui efface les péchés et les malheurs des êtres donne aux hommes la félicité.</p>
-           <p rend="stanza" n="2"><!--sapi2argr Ici, Huber, ne l'a pas comptée comme une stance mais j'ai rectifié pour correspondre avec la translittération. Ai-je bien fait ?-->La faveur du pollen de ces lotus qui sont les deux pieds du dieu Śrīśāna Hara a procuré à la cité de Campā une abondance incomparable de félicités, de beautés et de délices sans nombre.</p>
+           <p rend="stanza" n="2"><!--sapi2argr Ici, Huber, ne l'a pas comptée comme une stance mais j'ai rectifié pour correspondre avec la translittération du rtf. Ai-je bien fait ?-->La faveur du pollen de ces lotus qui sont les deux pieds du dieu Śrīśāna Hara a procuré à la cité de Campā une abondance incomparable de félicités, de beautés et de délices sans nombre.</p>
            <p rend="stanza" n="3">Dans cette cité règne, pour le bonheur des vertueux, le roi Śrī Jaya Indravarman, entouré de la multitude de ses guerriers, telle la lune avec son cortège d'étoiles. Par sa puissance éclatante il assure la paix du monde entier, lui qui est la source de toutes les bonne œuvres ; puisse-t-il, en abaissant sur eux son doux regard, accorder sa protection puissante à ses sujets, lui qui les éveille à l'intelligence !</p>
            <p rend="stanza" n="4">Il a un ministre, très habile dans la connaissance de toutes les qualités du Seigneur <supplied reason="subaudible">Śiva</supplied>, zélé dans la recherche de tous les mérites religieux qu'il pourrait accomplir ; menant à bonne fin de nombreuses œuvres pies, il s'est créé une âme de <foreign>muni</foreign>, ce magnanime, le délice du pays. D'un aspect doux comme celui de la pleine lune, c'est qu'invoquent les hommes de bien ; il a en partage la gloire, la science révélée et la félicité. Savant, ses louanges sont chantées dans les assemblées des savants et par des techniciens de l'éloge jusqu'aux confins du monde.</p>
            <p rend="stanza" n="5">Le seigneur Danāy Pināṅ, un des Grands du Campā, expert dans les rites et la connaissance de Śiva, se livrant au <foreign>yoga</foreign>, au <foreign>dhyāna</foreign> et au <foreign>samādhi</foreign> dans le désir de gagner pour son salut le paradis de Śiva, se souvenant que notre corps n'a plus de durée qu'un flocon d'écume ballotté sur la mer, a érigé cette grande construction religieuse en faisant le vœu que lui et ses parents puissent être auvés de l'océan des existences.</p>

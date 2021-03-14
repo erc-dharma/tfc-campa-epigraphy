@@ -86,6 +86,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+          <change who="part:sapi" when="2021-03-14" status="draft">Few corrections</change>
         <change who="part:argr part:sapi" when="2021-03-10" status="draft">Few corrections of the transliteration</change>
          <change who="part:argr part:sapi" when="2021-03-03" status="draft">Few corrections of the transliteration</change>
          <change who="part:sapi" when="2021-02-12" status="draft">Correction of the bibliography</change>
@@ -153,13 +154,15 @@
            <p>
              <!-- sapi and argr have read down to here on 2021-03-1O -->
              <milestone type="pagelike" unit="face" n="C"/><gap reason="lost" quantity="14" unit="line" precision="low"/>
-             <milestone type="pagelike" unit="face" n="D"/><lb n="D1" break="no"/>nna niy· kā liṅait· Oḥ pathuv·
-             <lb n="D2"/>Urāṅ· rayā Oḥ surāk· di pu po<lb n="D3" break="no"/>v· tana rayā urāṅ· nan· tmuv· Avīcīna<lb n="D4" break="no"/>raka samū nan· Urāṅ· yaṅ· paliṅait·
+             <milestone type="pagelike" unit="face" n="D"/><lb n="D1" break="no"/>nna niy· kā liṅai<unclear><choice>t</choice><choice>k</choice>·<!--sapi2argr Ici, même si la lecture du t paraît en effet plus probable, une recherche dans le dictionnaire A&C, p. 442, nous informe de la présence du terme liṅyak, signifiant "hors, dehors". cf. même phénomène l. D4 paliṅai(t/k)/liṅyak. En cam moderne, "aik" peut-il devenir "yak" ?--> Oḥ pathuv·
+             <lb n="D2"/>Urāṅ· rayā Oḥ suvāk· <!--sapi2argr Ici, j'ai modifié dans xml comme dans le rtf surāk en suvāk, après avoir revérifié l'estampage--> di pu po<lb
+             n="D3" break="no"/>v· tana rayā urāṅ· nan· tmuv· Avīcīna<lb
+             n="D4" break="no"/>raka samū nan· Urāṅ· yaṅ· paliṅai<unclear><choice>t</choice><choice>k</choice>·<!--sapi2argr Ici, même si la lecture du t paraît en effet plus probable, une recherche dans le dictionnaire A&C, p. 282, nous informe de la présence du terme paliṅyak, signifiant "expulser, chasser" : à savoir liṅaik + préfixe du causatif pa-. Cela conviendrait bien au contexte.-->
              <lb n="D5"/>Udakānna niy· man· kintu Urāṅ yāṅ·
              <lb n="D6"/>pov· ku siniy·<gap reason="lost" quantity="4" unit="character"/> tok· nauka<lb n="D7" break="no"/>n· kanumvrap· Athavā kaṁn· se<!--sapi2argr ici il y avait ī sur le rtf mais je propose la lecture alternative de e-->v· Anaiḥ
              <lb n="D8"/>Urāṅ· Athavā kaṁn· ganuhā Urāṅ· Atha<lb n="D9" break="no"/>vā nau tamr̥yāla niv· di kāryya Urāṅ·
              <lb n="D10"/>Athavā tauk· panavau danau riyo pasa
-             <lb n="D11"/>kā <gap reason="lost" quantity="2" unit="character"/>ḥ jeṅ·<gap reason="lost" quantity="9" unit="character"/> jeṅ·<gap reason="lost" quantity="14" unit="line"/>
+             <lb n="D11"/>kā <gap reason="illegible" quantity="2" unit="character"/>ḥ jeṅ·<gap reason="lost" quantity="9" unit="character"/> jeṅ·<gap reason="lost" quantity="14" unit="line"/>
            </p>
          </div>
          <div type="apparatus">

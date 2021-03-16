@@ -86,6 +86,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+          <change who="part:sapi" when="2021-03-16" status="draft">Few corrections</change>
           <change who="part:sapi" when="2021-03-14" status="draft">Few corrections</change>
         <change who="part:argr part:sapi" when="2021-03-10" status="draft">Few corrections of the transliteration</change>
          <change who="part:argr part:sapi" when="2021-03-03" status="draft">Few corrections of the transliteration</change>
@@ -151,9 +152,22 @@
     n="b2bis" break="no"/>r· kūṅ dada<!-- or dadaṁ? --> tala Ajau<unclear>ñ·</unclear>
     <lb n="b3bis"/>vavūy<unclear>·</unclear> ṅan<unclear>·</unclear> glai A<space type="ascender" quantity="2" unit="character"/>viḥ <unclear>nau</unclear>
   </p>
-           <p>
+           <p xml:lang="ocm-Latn">
              <!-- sapi and argr have read down to here on 2021-03-1O -->
-             <milestone type="pagelike" unit="face" n="C"/><gap reason="lost" quantity="14" unit="line" precision="low"/>
+             <milestone type="pagelike" unit="face" n="C"/>
+             <lb n="C1"/><gap reason="lost" quantity="17" unit="characters" precision="low"/>pranaX humā riy·
+             <lb n="C2"/><gap reason="lost" quantity="17" unit="characters" precision="low"/>tranān· tuy· cikir· huriy·
+             <lb n="C3"/><gap reason="lost" quantity="16" unit="characters" precision="low"/>ḥ puva rāk· vandaḥ neḥ nariy· na<lb
+             n="C4" break="no"/><gap reason="lost" quantity="17" unit="characters" precision="low"/>kra tuy· krauṅ· nan· naukaṁ
+             <lb n="C5"/><gap reason="lost" quantity="17" unit="characters" precision="low"/>kra tuy· krauṅ· daut· ma<lb
+             n="C6" break="no"/><gap reason="lost" quantity="15" unit="characters" precision="low"/>ṅgu Xy· pināṅ· mavuḥ pagan· suvā<lb
+             n="C7" break="no"/><gap reason="lost" quantity="17" unit="characters" precision="low"/>nriy· yāṅ· po ku śrī Indrava<lb
+             n="C8" break="no"/><gap reason="lost" quantity="23" unit="characters" precision="low"/> pov· ku
+             <lb n="C9"/><gap reason="lost" quantity="22" unit="characters" precision="low"/> nū huma
+             <lb n="C10"/> gusa ni<lb
+             n="C11" break="no"/><gap reason="lost" quantity="19" unit="characters" precision="low"/>ṅ· pov ku siniy· ku
+             <lb n="C12"/><gap reason="lost" quantity="19" unit="characters" precision="low"/>y· Asrauṅ sa gū<lb
+             n="C13" break="no"/><gap reason="lost" quantity="18" unit="characters" precision="low"/> kunya niy· malinai Xna<gap reason="lost" quantity="1" unit="line" precision="low"/>
              <milestone type="pagelike" unit="face" n="D"/><lb n="D1" break="no"/>nna niy· kā liṅai<unclear><choice>t</choice><choice>k</choice>·<!--sapi2argr Ici, même si la lecture du t paraît en effet plus probable, une recherche dans le dictionnaire A&C, p. 442, nous informe de la présence du terme liṅyak, signifiant "hors, dehors". cf. même phénomène l. D4 paliṅai(t/k)/liṅyak. En cam moderne, "aik" peut-il devenir "yak" ?--> Oḥ pathuv·
              <lb n="D2"/>Urāṅ· rayā Oḥ suvāk· <!--sapi2argr Ici, j'ai modifié dans xml comme dans le rtf surāk en suvāk, après avoir revérifié l'estampage--> di pu po<lb
              n="D3" break="no"/>v· tana rayā urāṅ· nan· tmuv· Avīcīna<lb
@@ -193,9 +207,10 @@
            <app loc="A10">
              <lem>po 'ya<unclear>ṁ</unclear></lem>
              <rdg source="bib:Huber1911_02">po yām̃</rdg>
+             <lem source="bib:Majumdar1927_01">po yaṅ·</lem>
            </app>
            <app loc="A11">
-             <lem>-śriyaḥ<g type="dandaPlain">.</g></lem>
+             <lem source="bib:Majumdar1927_01">-śriyaḥ<g type="dandaPlain">.</g></lem>
              <rdg source="bib:Huber1911_02">-śriyaḥ</rdg>
              <note>Huber omits the punctuation mark.</note>
            </app>
@@ -209,15 +224,17 @@
              <rdg source="bib:Huber1911_02">mmātri-</rdg>
              <rdg source="bib:Majumdar1927_01">mātr̥-</rdg>
            </app>
-           <app loc="b9">
+           <app loc="b6">
                <lem>-kāṅkṣiṇaḥ</lem>
                <rdg source="bib:Huber1911_02">-kaṅkṣiṇaḥ</rdg>
+               <rdg source="bib:Majumdar1927_01">-k<choice><sic>a</sic><corr>ā</corr></choice>ṅkṣiṇaḥ</rdg>
            </app>
-           <app loc="b10">
+           <app loc="b7">
                <lem>prāpnuvantu</lem>
                <rdg source="bib:Huber1911_02">prapnuvantu</rdg>
+               <rdg source="bib:Majumdar1927_01">pr<choice><sic>a</sic><corr>ā</corr></choice>pnuvantu</rdg>
            </app>
-           <app loc="b16">
+           <app loc="b13">
              <lem>yāṅ·</lem>
              <rdg source="bib:Huber1911_02">yāp·</rdg>
            </app>

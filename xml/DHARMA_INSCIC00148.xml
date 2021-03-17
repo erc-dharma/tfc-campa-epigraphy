@@ -86,6 +86,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+        <change who="part:sapi" when="2021-03-17" status="draft">Few corrections</change>
           <change who="part:sapi" when="2021-03-16" status="draft">Few corrections</change>
           <change who="part:sapi" when="2021-03-14" status="draft">Few corrections</change>
         <change who="part:argr part:sapi" when="2021-03-10" status="draft">Few corrections of the transliteration</change>
@@ -156,15 +157,15 @@
              <!-- sapi and argr have read down to here on 2021-03-1O -->
              <milestone type="pagelike" unit="face" n="C"/>
              <lb n="C1"/><gap reason="lost" quantity="17" unit="characters" precision="low"/>pranaX humā riy·
-             <lb n="C2"/><gap reason="lost" quantity="17" unit="characters" precision="low"/>tranān· tuy· cikir· huriy·
-             <lb n="C3"/><gap reason="lost" quantity="16" unit="characters" precision="low"/>ḥ puva rāk· vandaḥ neḥ nariy· na<lb
-             n="C4" break="no"/><gap reason="lost" quantity="17" unit="characters" precision="low"/>kra tuy· krauṅ· nan· naukaṁ
-             <lb n="C5"/><gap reason="lost" quantity="17" unit="characters" precision="low"/>kra tuy· krauṅ· daut· ma<lb
-             n="C6" break="no"/><gap reason="lost" quantity="15" unit="characters" precision="low"/>ṅgu Xy· pināṅ· mavuḥ pagan· suvā<lb
-             n="C7" break="no"/><gap reason="lost" quantity="17" unit="characters" precision="low"/>nriy· yāṅ· po ku śrī Indrava<lb
+             <lb n="C2"/><gap reason="lost" quantity="17" unit="characters" precision="low"/>kravāv· tuy· cikir· huriy·
+             <lb n="C3"/><gap reason="lost" quantity="16" unit="characters" precision="low"/>ḥ pu varāk· vandaḥ neḥ nariy· na<lb
+             n="C4" break="no"/><gap reason="lost" quantity="17" unit="characters" precision="low"/>kra tuy· krauṅ· nan· naikaṁ
+             <lb n="C5"/><gap reason="lost" quantity="17" unit="characters" precision="low"/>kra tuy· krauṅ· dauk· ma<lb
+             n="C6" break="no"/><gap reason="lost" quantity="15" unit="characters" precision="low"/>ṅgu XXy· pināṅ· mavuḥ yāṅ· suvā<lb
+             n="C7" break="no"/><gap reason="lost" quantity="17" unit="characters" precision="low"/>nriy· yāṅ· pov· ku śrī Indrava<lb
              n="C8" break="no"/><gap reason="lost" quantity="23" unit="characters" precision="low"/> pov· ku
              <lb n="C9"/><gap reason="lost" quantity="22" unit="characters" precision="low"/> nū huma
-             <lb n="C10"/> gusa ni<lb
+             <lb n="C10"/> vuḥ di<lb
              n="C11" break="no"/><gap reason="lost" quantity="19" unit="characters" precision="low"/>ṅ· pov ku siniy· ku
              <lb n="C12"/><gap reason="lost" quantity="19" unit="characters" precision="low"/>y· Asrauṅ sa gū<lb
              n="C13" break="no"/><gap reason="lost" quantity="18" unit="characters" precision="low"/> kunya niy· malinai Xna<gap reason="lost" quantity="1" unit="line" precision="low"/>

@@ -86,7 +86,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-        <change who="part:sapi" when="2021-03-17" status="draft">Few corrections</change>
+        <change who="part:argr part:sapi" when="2021-03-17" status="draft">Few corrections of the transliteration</change>
           <change who="part:sapi" when="2021-03-16" status="draft">Few corrections</change>
           <change who="part:sapi" when="2021-03-14" status="draft">Few corrections</change>
         <change who="part:argr part:sapi" when="2021-03-10" status="draft">Few corrections of the transliteration</change>

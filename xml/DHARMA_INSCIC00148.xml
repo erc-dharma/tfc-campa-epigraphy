@@ -86,6 +86,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+          <change who="part:argr part:sapi" when="2021-03-24" status="draft">beggining of the translation</change>
         <change who="part:argr part:sapi" when="2021-03-17" status="draft">Few corrections of the transliteration</change>
           <change who="part:sapi" when="2021-03-16" status="draft">Few corrections</change>
           <change who="part:sapi" when="2021-03-14" status="draft">Few corrections</change>
@@ -133,8 +134,9 @@
            <p>śrī-Amarendra-pureśvarasya dhanāni kṣetra<lb n="A13" break="no"/>-go-dāsa-dāsī-mahiṣādīni dhānya-taṇḍula-vasana-rajata-kanaka-ka<unclear>ṁ</unclear>sa-loha-<choice><sic>trā</sic><corr>tā</corr></choice><lb n="A14" break="no"/>mrādīni ca ye ke pāpa-puruṣā haranti balatayā tr̥ṣṇatayā vā<!--sapi2argr Inverser les faces b et C en B et c et mettre un commentaire pour montrer la différence avec Huber ? (si oui, ne pas oublier de changer le rtf)-->
            <milestone type="pagelike" unit="face" n="b"/>
            <lb n="b1"/>kalkanatayā vātibhīma-ma<lb
-             n="b2" break="no"/>hā-narake ghoratara-hutā<lb n="b3" break="no"/>śana-śikhā-karāle patantu te
-             <lb n="b4"/>pitr̥-vandhu-pakṣair circleTarget-vandhu-pakṣai<lb
+             n="b2" break="no"/>hā-narake ghoratara-hutā<lb
+             n="b3" break="no"/>śana-śikhā-karāle patantu te
+             <lb n="b4"/>pitr̥-vandhu-pakṣair mmātr̥-vandhu-pakṣai<lb
              n="b5" break="no"/>ḥ punā rakṣanti na haranti vā ye
              <lb n="b6"/>ke sādhu-puruṣā dharmma-kāṅkṣi<lb
              n="b7" break="no"/>ṇaḥ prāpnuvantu te nityaṁ svargga<lb
@@ -144,13 +146,15 @@
              <lb n="b9"/>mavac· tuy· śanāpa niy· Asu<lb
              n="b10" break="no"/>v· hitaṁ Asuv· putiḥ Asuv· miraḥ
              <lb n="b11"/>Asuv· pāk· matā Avista ya nan·
-             <lb n="b12"/>Āśraya Inā Urāṅ· nan·<g type="ddandaPlain">.</g> niy·
-             <lb n="b13"/>śakarāja kāla vuḥ yāṅ· triḥ
+             <lb n="b12"/>Āśraya Inā Urāṅ· nan·<g type="ddandaPlain">.</g>
+           </p>
+           <p xml:lang="ocm-Latn">niy·
+             <lb n="b13"/>śakarāja-kāla vuḥ yāṅ·<!--ou yāp ?--> triḥ
              <lb n="b14"/>catvāra Aṣṭa<g type="ddandaPlain">.</g><g type="floretComplex"/>
           </p>
 <!--The way a space is left open between sa and vi in the third line proves that lines 1-3 were written after the rest of the face. -->
     <p xml:lang="ocm-Latn"><milestone type="pagelike" unit="face" n="b"/><lb n="b1bis"/>humā vūnūk· klar· tipā<lb
-    n="b2bis" break="no"/>r· kūṅ dada<!-- or dadaṁ? --> tala Ajau<unclear>ñ·</unclear>
+    n="b2bis" break="no"/>r· kūṅ· dada<!-- or dadaṁ? --> tala Ajau<unclear>ñ·</unclear>
     <lb n="b3bis"/>vavūy<unclear>·</unclear> ṅan<unclear>·</unclear> glai A<space type="ascender" quantity="2" unit="character"/>viḥ <unclear>nau</unclear>
   </p>
            <p xml:lang="ocm-Latn">
@@ -158,11 +162,11 @@
              <milestone type="pagelike" unit="face" n="C"/>
              <lb n="C1"/><gap reason="illegible" quantity="17" unit="characters" precision="low"/>pra<unclear>māna</unclear> humā niy·
              <lb n="C2"/><gap reason="illegible" quantity="17" unit="characters" precision="low"/>kravāv· tuy· cikir· huriy·
-             <lb n="C3"/><gap reason="illegible" quantity="16" unit="characters" precision="low"/><unclear>ḥ</unclear> pu varāk· vandaḥ neḥ nariy· na<lb
+             <lb n="C3"/><gap reason="illegible" quantity="16" unit="characters" precision="low"/><unclear>ḥ</unclear> pu Āk· vandaḥ neḥ nariy· na<lb
              n="C4" break="no"/><gap reason="illegible" quantity="15" unit="characters" precision="low"/>nan· tr<unclear>ā</unclear> tuy· krauṅ· nan· <unclear>nau</unclear> kaṁ<!-- see d6–7, so restore n· at beginning of line C5; for the unusual shape of -au, see d9 -->
              <lb n="C5"/><gap reason="illegible" quantity="15" unit="characters" precision="low"/>nan· tr<unclear>ā</unclear> tuy· krauṅ· bhauk· ma<lb
-             n="C6" break="no"/><gap reason="illegible" quantity="14" unit="characters" precision="low"/><unclear>po</unclear>v ku <unclear>danā</unclear>y· pināṅ· mavuḥ yāṅ· suvā<lb <!-- ou yāṅ pu ...? -->
-             n="C7" break="no"/><gap reason="illegible" quantity="17" unit="characters" precision="low"/>driy· yāṅ· pov· ku śrī bhadrava<lb
+             n="C6" break="no"/><gap reason="illegible" quantity="14" unit="characters" precision="low"/><unclear>po</unclear>v ku <unclear>danā</unclear>y· pināṅ· mavuḥ yāṅ· suvā<lb
+             n="C7" break="no"/><!-- ou yāṅ pu ...? --><gap reason="illegible" quantity="17" unit="characters" precision="low"/>driy· yāṅ· pov· ku śrī bhadrava<lb
              n="C8" break="no"/><gap reason="illegible" quantity="21" unit="characters" precision="low"/><unclear>yāṅ</unclear>·  pov· ku
              <lb n="C9"/><gap reason="illegible" quantity="22" unit="characters" precision="low"/> nū huma
              <lb n="C10"/><gap reason="illegible" quantity="21" unit="characters" precision="low"/><unclear>ma</unclear>vuḥ di<lb
@@ -212,7 +216,7 @@
            <app loc="A10">
              <lem>po 'ya<unclear>ṁ</unclear></lem>
              <rdg source="bib:Huber1911_02">po yām̃</rdg>
-             <lem source="bib:Majumdar1927_01">po yaṅ·</lem>
+             <rdg source="bib:Majumdar1927_01">po yaṅ·</rdg>
            </app>
            <app loc="A11">
              <lem source="bib:Majumdar1927_01">-śriyaḥ<g type="dandaPlain">.</g></lem>
@@ -225,7 +229,7 @@
              <rdg source="bib:Majumdar1927_01">-tāmrādīni</rdg>
            </app>
            <app loc="b4">
-             <lem>circleTarget-</lem>
+             <lem>mmātr̥-</lem>
              <rdg source="bib:Huber1911_02">mmātri-</rdg>
              <rdg source="bib:Majumdar1927_01">mātr̥-</rdg>
            </app>
@@ -239,10 +243,23 @@
                <rdg source="bib:Huber1911_02">prapnuvantu</rdg>
                <rdg source="bib:Majumdar1927_01">pr<choice><sic>a</sic><corr>ā</corr></choice>pnuvantu</rdg>
            </app>
+           <app loc="b9">
+             <lem>mavac·</lem>
+             <rdg source="bib:Huber1911_02">mavāc·</rdg>
+           </app>
            <app loc="b13">
              <lem>yāṅ·</lem>
              <rdg source="bib:Huber1911_02">yāp·</rdg>
            </app>
+         </div>
+         <div type="translation" resp="part:sapi part:argr">
+           <p n="b8-b12">People who speak (?) in accordance with this curse, the black dog, the white dog, the red dog <supplied reason="subaudible">and</supplied> the four-eyed dog turn to their mothers.</p>
+          <p n="b12-b14">This is the date in the Śaka era of the god's donation: three, four, eight <supplied reason="explanation">i.e., 843</supplied>.</p>
+          <p n="C1-C14"> ... the extent of this field ... buffaloes along Cikir Huriy ... west
+
+          </p>
+           <p n="d1-d12"/>À l’extérieur, on ne pathuv pas, que les hommes du commun n’arrachent pas au <foreign>pu pov tana rayā</foreign> <supplied reason="subaudible">ou</supplied> cet homme obtiendra l’Enfer Avīcī comme les hommes qui chassent l’eau et la nourriture tout court. Mais les hommes du <foreign>yāṅ pov ku</foreign> ici présents ne donneront pas l’ordre de faire prendre <supplied reason="subaudible">et</supplied> de renverser le kanumvrap, ou de renverser le petit sev des hommes, ou de renverser le ganuhā des hommes ou d’aller vers le tamṛyāla niv qui doit être fait par les hommes, ou de prendre tous les Ana</p>
+           <p n="b1bis-b3bis">Le champ vūnūk, la forêt au-delà de tous les tala Ajauñ vavūy et toutes les forêts autour.</p><!--Mots douteux : Vūnūk ; klar ; tala ; vavūy-->
          </div>
          <div type="translation" xml:lang="fra" source="bib:Huber1911_01">
  	         <p n="A1">Bonheur ! Adoration à Śiva ! Succès !</p>

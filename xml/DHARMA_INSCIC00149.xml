@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nhân Biêu stela (C. 149)</title>
+                <respStmt>
+                  <resp>EpiDoc Encoding</resp>
+                  <persName ref="part:sapi">
+                     <forename>Salomé</forename>
+                     <surname>Pichon</surname>
+                  </persName>
+               </respStmt>
+               <respStmt>
+                  <resp>intellectual authorship of edition</resp>
+                  <persName ref="part:argr">
+                     <forename>Arlo</forename>
+                     <surname>Griffiths</surname>
+                  </persName>
+               </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSCIC00149</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Arlo Griffiths &amp; Salomé Pichon.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:sapi" when="2021-03-30" status="draft">Initial encoding of the inscription</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="san-Latn">
+           <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A01"/><g type="floretComplex"/><g type="ddandaPlain">.</g> Om̐ namaś śivāya<g type="ddandaPlain">.</g><g type="floretComplex"/>
+         <lb n="A1"/><g type="dandaPlain">.</g> svasti<g type="ddandaPlain">.</g></ab>
+         <lg n="1" met="upajāti of triṣṭubh">
+           <l n="a">yaṁ bhūrbbhuvassvassu ca varṇṇayanti<g type="dotMid">.</g></l>
+           <l n="b">sma varṇṇayiṣyanti ca varṇṇayanti<g type="dotMid">.</g></l>
+           <l n="c">traiyaddhvikās santi<seg met="-+-++"><gap reason="illegible" quantity="5" unit="character"/></seg></l>
+           <l n="d"><seg met="++-++-"><gap reason="illegible" quantity="6" unit="character"/></seg> na<lb n="A2" break="no"/>mo stu tasmai<g type="ddandaPlain">.</g></l>
+         </lg>
+         <ab>Api ca<g type="ddandaPlain">.</g></ab>
+         <lg n="2" met="śārdūlavikrīḍita">
+           <l n="a">yena śrīpatitulyavikramavatā niśśaṅkayā <unclear>ra</unclear>kṣatā<g type="dotMid">.</g></l>
+           <l n="b">campābhūmim akhaṇḍitasvatarasāṁ lakṣmī<lb n="A3" break="no"/>m ivācañcalām·<g type="dotMid">.</g></l>
+           <l n="c">dattā dattamanorathā vahuvidhā sampat prajābhyas sadā</l>
+           <l n="d">śrīmacchrījayasiṁhavarmmanr̥patis sa <lb n="A4"/>khyāyate bhūtale<g type="ddandaPlain">.</g></l>
+         </lg>
+         <lg n="3" met="śikhariṇī">
+           <l n="a">satī nāmnā yā śrītribhuvanamahādevy anupamā<unclear><g type="dotMid">.</g></unclear></l>
+           <l n="b">nr̥pastrīṇāṁ tasyāvanipabhavaneṣv agrama<lb n="A5" break="no"/>hiṣī<g type="dotMid">.</g></l>
+           <l n="c">pradhānā sarvvāsāṁ sucaritaratā<unclear>p</unclear>atyasahitā<unclear><g type="dotMid">.</g></unclear></l>
+           <l n="d">vibhāti prāyeṇa svapatibhavane śrīr iva rucā<g type="ddandaPlain">.</g></l>
+         </lg>
+         <lg n="4" met="gīti">
+           <l n="ab">sā lyaṅvr̥ddha<lb n="A6" break="no"/>kulāyāḥ pautrī samabhūd viśuddhavaṁśāyāḥ<g type="dotMid">.</g></l>
+            <l n="cd">saṁpūrṇṇendusamāyāḥ dīpitavaṁśadvayāmvarāyāś ca<g type="ddandaPlain">.</g></l>
+          </lg>
+          <lg n="5" met="āryā">
+            <l n="ab">Api ca nare<lb n="A7" break="no"/>ndrādhipater avanipacaraṇāravindabhaktibhr̥taḥ</l>
+             <l n="cd">prakr̥ter iṣṭaprakr̥ter lyaṅvr̥ddhakulāgrajasya sataḥ<g type="ddandaPlain">.</g></l>
+           </lg>
+           <lg n="6" met="gīti">
+             <l n="ab">śreṣṭhā<lb n="A8" break="no"/>yās tanayāyāḥ <!--sapi2argr Ici il semblerait qu'il y ait une consonne souscrite sous le na de tana- --> prakr̥tisupariśuddhanaijavaṁśāyāḥ</l>
+              <l n="cd">tanayaḥ prakhyātanayaḥ kṣitipacaraṇasevānipu<choice><sic>n</sic><corr>ṇ</corr></choice>amatir abhū<lb n="A9" break="no"/>t·<g type="ddandaPlain">.</g></l>
+            </lg>
+            <lg n="7" met="anuṣṭubh">
+              <l n="a">yo dhīmān svanayopeto</l>
+              <l n="b">dharmmyaḥ kuśalanītimān·<g type="dotMid">.</g></l>
+              <l n="c" enjamb="yes">bhūpaśāsananamrātmā<g type="dotMid">.</g></l>
+              <l n="d">bhavad atyantabhaktitaḥ<g type="ddandaPlain">.</g></l>
+            </lg>
+            <p>yaś śrī
+              <lb n="A10" break="no"/>jayasiṁhavarmmanr̥pater ativallabho nāyako yam abhimatasaṁpad asti<g type="dotMid">.</g> tadā yaḥ pov· kluñ· piliḥ rāja
+              <lb n="A11" break="no"/>dvāranāmābhūt·<g type="dotMid">.</g> kintu<g type="dotMid">.</g>
+            </p>
+            <lg n="8" met="anuṣṭubh">
+              <l n="a" enjamb="yes">yavadvīpaṁ puraṁ bhūpā</l>
+              <l n="b">nujñāto dūtakarmmaṇi</l>
+              <l n="c">gatvā yaḥ pratipattisthaḥ</l>
+              <l n="d">siddhayātrāṁ samā<lb n="A12" break="no"/>gamat·<g type="ddandaPlain">.</g></l>
+            </lg>
+            <p>Ato vibhavasaṁpadam adhigatavān iti<g type="ddandaPlain">.</g></p>
+            <lg n="9" met="śārdūlavikrīḍita">
+              <l n="a">paścāc chrījayaśaktivarmmanr̥pater iddhājñayā rakṣataś</l>
+              <l n="b">śrīmacchrī<lb n="A13" break="no"/>jayasiṁhavarmmavasudhāpālātmajasya kṣitim·<unclear><g type="dotMid">.</g></unclear></l>
+              <l n="c">rājye śrīmati sarvvasaṁpadudayair āpūrite sarvva<unclear>to</unclear></l>
+              <l n="d"><unclear>ya</unclear><milestone type="pagelike" unit="face" n="B" break="no"/><lb n="B1"/><seg met="++--+-+---+"><gap reason="illegible" quantity="11" unit="character"/></seg> yadvat prabhūto bhavat·<g type="ddandaPlain">.</g></l>
+            </lg>
+            <ab>Api ca<g type="dotMid">.</g></ab>
+            <lg n="10" met="sragdharā">
+              <l n="a">śrīmacchrībhadravarmmāvanibhuja iha dikpra <seg met="-+"><gap reason="illegible" quantity="2" unit="character"/></seg> <unclear>st</unclear>ā <lb n="B2"/><seg met="-++"><gap reason="illegible" quantity="3" unit="character"/></seg></l>
+              <l n="b"><unclear>pratyaṅgānye</unclear><seg met="-++--"><gap reason="illegible" quantity="5" unit="character"/></seg> kalimaṇa <seg met="++-++-++"><gap reason="illegible" quantity="8" unit="character"/></seg></l>
+              <l n="c"><seg met="+"><gap reason="illegible" quantity="1" unit="character"/></seg> hr̥tyājāv arīnāṁ <seg met="+------++-"><gap reason="illegible" quantity="10" unit="character"/></seg> <unclear>vīry</unclear>ya<lb n="B3" break="no"/>prakāraṁ</l>
+              <l n="d">dikṣv ākarṇya dviṣas te pulakitabapuṣo tijvaraṁ yanti sarvve<g type="ddandaPlain">.</g></l>
+            </lg>
+              <p><unclear>tatra tas</unclear>ya pov· kluñ· sudaṇḍa<supplied reason="lost">vā</supplied><unclear>sa</unclear>
+              <lb n="B4" break="no"/>nāmadheyas samabhūt·<g type="dotMid">.</g> tadāpi<g type="dotMid">.</g></p>
+            <lg n="11" met="anuṣṭubh">
+              <l n="a">yavadvīpapuraṁ bhūyaḥ</l>
+              <l n="b">kṣitipānujñayānayā <unclear><g type="dotMid">.</g></unclear></l>
+              <l n="c">dvivāram api yo gatvā<g type="dotMid">.</g></l>
+              <l n="d">siddha<lb n="B5" break="no"/>yātrām upāgamat·<g type="ddandaPlain">.</g></l>
+            </lg>
+            <p>Ato yasmiṁś ca śrībhadravarmmāvanibhujo ti<supplied reason="lost">maha</supplied>tyāḥ kṣamāyās sudāṅkumuvel·kṣe
+            <lb n="B6" break="no"/>trāṇi yo dhigatavān iti<g type="ddandaPlain">.</g> Api ca<g type="dotMid">.</g></p>
+            <lg n="12" met="śārdūlavikrīḍita">
+              <l n="a" enjamb="yes">yasyerām avataḥ punaḥ sthirata(mā)ṁ śrībhadravarmmāhvaya</l>
+              <l n="b">kṣoṇīpālasuta<lb n="B7" break="no"/>sya durjjayajayaśrīvistarasyākhilām·<g type="dotMid">.</g></l>
+              <l n="c">kīrttir vvibhramatīva dikṣu vita<unclear>tā</unclear> nirggantum asmāt paraṁ<g type="dotMid">.</g></l>
+              <l n="d">pū<unclear>ṣ</unclear>atpradhanāya <lb n="B8"/>sarvvadig iyaṁ hāsaṅkarety avravīt·<g type="ddandaPlain">.</g></l>
+            </lg>
+            <lg n="13" met="indravajrā">
+              <l n="a">śrī Indravarmmāṇam adhīśvaraṁ taṁ</l>
+              <l n="b">deśāntare vyāptayaśaḥprakāṇḍam·<g type="dotMid">.</g></l>
+              <l n="c">prī<lb n="B9" break="no"/>tyā samākarṇṇya nr̥pāś ca tuṣṭās</l>
+              <l n="d">taṁ saṁstuvanti sma nirantaraṁ te<g type="ddandaPlain">.</g></l>
+            </lg>
+            <p>tadrājye <gap reason="illegible" quantity="1" unit="character"/> yas tu prāyaśo bhūpater ājñāsupra
+              <lb n="B10" break="no"/>yatnakr̥tāyāsatvād akālādhipatināmadheyam avāpa<g type="ddandaPlain">.</g>
+            </p>
+            <lg n="14" met="upajāti">
+              <l n="a">gu<unclear>ṇāṅga</unclear>karmmopacitātmabhāvaḥ</l>
+              <l n="b">kṣitīśanī<lb n="B11" break="no"/>tipratibaddhabuddhiḥ<unclear><g type="dotMid">.</g></unclear></l>
+              <l n="c">Iṣṭesv aniṣṭeṣu narādhipasya</l>
+              <l n="d">kiñcit pra<unclear>netuṁ</unclear><!-- note rtf : Or pramātuṁ?--> khalu yaḥ samartthaḥ<g type="ddandaPlain">.</g></l>
+            </lg>
+            <p>Asti ya<lb n="B12" break="no"/>dagrajas sukr̥tī pov· kluñ· dharmmapāṭhākhyaḥ śrī Indravarmmāvanipālānugraho bhūt·<!--note rtf : -nugraho bhūt‚: understand -nugrahād abhūt·, or bahuvrīhi ‘he whose (state of) grace is thanks to?--><g type="ddandaPlain">.</g>
+            </p>
+            <lg n="15" met="pr̥thvī">
+              <l n="a">vidagdhamatisaṁ<lb n="B13" break="no"/>padām iha paraṁ guṇāmbhonidheḥ<g type="dotMid">.</g></l>
+              <l n="b">nidhiḥ prakr̥tibhāsurasphaṭikaśuddhacittodayaḥ<g type="dotMid">.</g></l>
+              <l n="c">nayā suvipulā <lb n="B14"/><seg met="-+---+-++-+"><gap reason="illegible" quantity="11" unit="character"/></seg></l>
+              <l n="d"><seg met="-+---+-+---+-++-+"><gap reason="illegible" quantity="17" unit="character"/></seg></l>
+            </lg>
+            <p><milestone type="pagelike" unit="face" n="C"/>
+            <lb n="C1"/>yenāyam agrajo <gap reason="illegible" quantity="1" unit="character"/>i<gap reason="illegible" quantity="2" unit="character"/>ām evam akathayat·<g type="dotMid">.</g> kumuvel· bhūmikṣetrāṇi rājaprasādād adhigatā<lb
+            n="C2" break="no"/>ny abhūvan·<g type="dotMid">.</g> cikirgrām<unclear>o cā</unclear><!--sapi2argr Ici, à la place de 'me cā' comme c'était proposé sur le rtf, je lis plutôt mo cā, comme Huber apparemment. Note du rtf : °grām(e cā)tma°: °grāmo vātma° Huber. The stone is heavily weathered here and would allow both readings, but the reading we prefer agrees better with what follows (l. 10).-->tmajananīnivāsabhūmi<gap reason="illegible" quantity="2" unit="character"/> sthānayoḥ devaḥ pratiṣṭhāpayitavya I<lb
+            n="C3" break="no"/>ti<g type="dotMid">.</g> kutaḥ<g type="ddandaPlain">.</g>
+          </p>
+          <lg n="16" met="vaṁśastha">
+            <l n="a">vibhūtir eṣā vipulāpy apārtthikā<g type="dotMid">.</g></l>
+            <l n="b">samuccitāpi kṣaṇabhaṅgatāṅ gatā<g type="dotMid">.</g></l>
+            <l n="c">Atīva nissāratamā ma<lb n="C4" break="no"/><unclear>h</unclear>ī<supplied reason="lost">ta</supplied>le<g type="dotMid">.</g></l>
+            <l n="d">maharṣiṇoktā sakale sadāgame<g type="ddandaPlain">.</g></l>
+          </lg>
+          <lg n="17" met="anuṣṭubh">
+            <l n="a">Etat sañcintya matimān</l>
+            <l n="b">atra kīrttiparāyaṇaḥ</l>
+            <l n="c"><lb n="C5"/>tayor ddevapratiṣṭhāṁ yaḥ</l>
+            <l n="d">karttum utsahate tadā<g type="ddandaPlain">.</g></l>
+          </lg>
+          <p>sa Eva paramakuśalapuṇyasaṁbhārabhārāva
+            <lb n="C6" break="no"/>rjjitahr̥dayo mvaradahanamaṅgalopagate śakarāje mithunādityaketvindutanaye mr̥gendra
+            <lb n="C7" break="no"/>lagne mr̥garājākhaṇḍatuṣārāṁśau kanyābhūtanaye makararāhau meṣasuragururavije magharkṣe
+            <lb n="C8"/>somavāre j<choice><sic>e</sic><corr>ye</corr></choice>ṣṭhasitapañcāhe devaliṅgeśvaram atiṣṭhipat svāgrajena saha kīrttaya
+            <lb n="C9"/>Iti<g type="ddandaPlain">.</g>
+          </p>
+          <lg n="18" met="upajāti of triṣṭhubh">
+            <l n="a">tataḥ pratiṣṭhāpita Eva tena</l>
+            <l n="b">śrīvr̥ddhalokeśvaranāmadheyaḥ</l>
+            <l n="c">tritryaṣṭayukte ca <lb n="C10"/>śake vihāro</l>
+            <l n="d">grāme cikirnnāmni tu sāgrajena<g type="ddandaPlain">.</g></l>
+          </lg>
+          <lg n="19" met="vaṁśastha">
+            <l n="a">yathā dharāśr<choice><sic>ī</sic><corr>i</corr></choice>tya vasundharādharaṁ<g type="dotMid">.</g></l>
+            <l n="b">calācalāpi <lb n="C11"/>sthiratām upaiti sā<g type="dotMid">.</g></l>
+            <l n="c">tathā pradeśo yam asau maheśvaraṁ<g type="dotMid">.</g></l>
+            <l n="d">grāme cikirnnāmni tu sāgrajena<g type="ddandaPlain">.</g></l>
+          </lg>
+          <p xml:lang="ocm-Latn"><milestone type="pagelike" unit="face" n="D"/>
+            <lb n="D1"/>niy· doṁ humā yāṁṅ·<!--sapi2argr Ici au lieu de yān, je lis yāṁṅ. Ne pas oublier de rectifier l'apparatus si non.--> pov· ku devaliṅgeśvara di kumuvvel·<g type="dotMid">.</g> humā bhauk· pu Āk·<!--sapi2argr Voir note dans apparatus à ce sujet.--> tluv· pluḥ tijuḥ galauk·<g type="dotMid">.</g> A<lb
+            n="D2" break="no"/>siy· ñū sa pluḥ jāk·<g type="dotMid">.</g> nariy· sāṅ· Urāṅ· pagār· pināṅ· tūy· Andap· sdāṅ· nau pataṁl· dandau viśeṣa<g type="circleLarge">.</g><!--sapi2argr Ou un autre caractère non lisible ?--> sumrāṅ·
+            <lb n="D3"/>dakṣiṇa naṁ pluḥ galauk<g type="dotMid">.</g> Asiy· ñū tluv· pluḥ jāk·<g type="dotMid">.</g> nariy· sim· pataṁl· dvā sumrāṅ· dandau viśeṣa pataṁl· hu<lb
+            n="D4" break="no"/>mā krain· ṅan· humā talavvār· tluv· rtuḥ sā pluḥ galauk·<g type="dandaPlain">.</g> Asiy· ñū dalapan· pluḥ jāk·<g type="dotMid">.</g> niy· humā daniḥ trā
+            <lb n="D5"/>nariy· sim· pataṁl· sāṅ· pov· Acov· vuṅā<g type="dotMid">.</g> tijuḥ pluḥ tluv· galauk·<g type="dotMid">.</g> nariy· dandau viśeṣa pataṁl· rumaḥ yāṅ· sā
+            <lb n="D6"/>rtuḥ naṁ pluḥ dvā galauk·<g type="dotMid">.</g> humā vrajaṁṅ· Aviḥ lagaiḥ di yāṅ·<g type="dotMid">.</g> nariy· likuk· dlai rumaḥ yāṅ· pataṁl· dlai vandāṅ· ru<lb
+            n="D7" break="no"/>maṅ· dlai vandāṅ· pataṁl· dlai pa<unclear>dan</unclear>·<!-- note du rtf : padan·: it seems difficult to read both panan· and padaṅ· (= pa-daṅ). I assume Old Cam padan, if read correctly, is equivalent to Modern Cam panan.--> nariy· Ajauñ· dlai nan· nau bhauk· huriy· tamā Aviḥ nau<g type="dotMid">.</g> nariy· dlai Ajau<lb
+            n="D8" break="no"/>ñ· curaiḥ pataṁl· Ajauñ· dlai dandau rivuv·<g type="dotMid">.</g> dlai pulāv· dandau rivuv·<g type="dotMid">.</g> tum· jalān· virān· niy· dandau trā<g type="dotMid">.</g> dandau
+            <lb n="D9"/>rivuv·<g type="dotMid">.</g> dandau rusā<g type="dotMid">.</g> dandau tlan·<g type="dotMid">.</g> dandau Ajauñ· curaiḥ<g type="dotMid">.</g> dandau krain·<g type="dotMid">.</g> dandau Akyak·<g type="dotMid">.</g> dandau kmaṁn·<g type="dotMid">.</g> dandau kuñit·<g type="dotMid">.</g>
+            <lb n="D10"/>dandau viśeṣa<g type="dotMid">.</g> tum· nariy· danau<!-- note du rtf : 10. danau: emend dandau?--> rivuv· pataṁl· stap· Uttara hajai yāṅ· pov· ku trivikramapura<g type="dotMid">.</g> rumaṅ· da<lb
+            n="D11" break="no"/>kṣiṇa hajai yāṅ· pov· ku trivikramapura pataṁl· stap· har· tanipār· Urāṅ· cvaḥ nan· ṅan· tum· nan· A<lb
+            n="D12" break="no"/>vista lagaiḥ di yāṅ· pov· ku siniy·<g type="dotMid">.</g><g type="floretComplex"/>
+          </p>
+         </div>
+         <div type="apparatus">
+               <listApp>
+                 <app loc="A1">
+                     <lem>-svassu ca varṇṇayanti</lem>
+                     <rdg source="bib:Huber1911_01">svas<seg met="--+-++"><gap reason="illegible" quantity="6" unit="character"/></seg></rdg>
+                 </app>
+                 <app loc="A1">
+                     <lem>traiya-</lem>
+                     <rdg source="bib:Huber1911_01">traya-</rdg>
+                 </app>
+                 <app loc="A3">
+                     <lem source="bib:Majumdar1927_01">dattā datta-</lem>
+                     <rdg source="bib:Huber1911_01">dattādatta-</rdg>
+                 </app>
+                 <app loc="A5">
+                     <lem source="bib:Majumdar1927_01">-ratāpatyasahitā</lem>
+                     <rdg source="bib:Huber1911_01">-ratā patyasahitā</rdg>
+                 </app>
+                 <app loc="A8">
+                     <lem>-nipu<choice><sic>n</sic><corr>ṇ</corr></choice>a-</lem>
+                     <rdg source="bib:Huber1911_01">-nipuna-</rdg>
+                 </app>
+                 <app loc="A11">
+                     <lem>yavadvīpaṁ puraṁ</lem>
+                     <rdg source="bib:Huber1911_01">yavadvīpapuraṁ</rdg>
+                     <note>Note clear absence of anusvāra after yavadvīpa in st. XI. Read yavadvīpapuraṁ.</note>
+                 </app>
+                 <app loc="A11">
+                     <lem source="bib:Majumdar1927_01">dūta-</lem>
+                     <rdg source="bib:Huber1911_01">nūta-</rdg>
+                 </app>
+                 <app loc="A11">
+                     <lem source="bib:Majumdar1927_01">-yātrāṁ</lem>
+                     <rdg source="bib:Huber1911_01">-yātrām</rdg>
+                 </app>
+                 <app loc="B4">
+                     <lem>-jñayānayā</lem>
+                     <rdg source="bib:Huber1911_01">-jñayā<seg met="++"><gap reason="illegible" quantity="2" unit="character"/></seg></rdg>
+                     <note>Huber did the wrong scansion.</note>
+                 </app>
+                 <app loc="B5">
+                     <lem>bhujo ti<supplied reason="lost">maha</supplied>tyāḥ kṣamāyās</lem>
+                     <rdg source="bib:Huber1911_01">bhujo <gap reason="illegible" quantity="4" unit="character"/> tyāḥ kṣamāyās</rdg>
+                 </app>
+                 <app loc="B6">
+                     <lem>yasyerām avataḥ</lem>
+                     <rdg source="bib:Huber1911_01">yasyerājavataḥ</rdg>
+                     <note>Our reading was proposed by Yuko Yokochi.</note>
+                 </app>
+                 <app loc="B6">
+                     <lem>sthirata<unclear>mā</unclear>ṁ śrībhadra-</lem>
+                     <rdg source="bib:Huber1911_01">sthira<seg met="-+"><gap reason="illegible" quantity="2" unit="character"/></seg> śrībhadra-</rdg>
+                 </app>
+                 <app loc="B7">
+                     <lem>vvibhramatīva</lem>
+                     <rdg source="bib:Huber1911_01">vvibhramatī ca</rdg>
+                 </app>
+                 <app loc="B7">
+                     <lem>vita<unclear>tā</unclear></lem>
+                     <rdg source="bib:Huber1911_01">vi<seg met="-+"><gap reason="illegible" quantity="2" unit="character"/></seg></rdg>
+                 </app>
+                 <app loc="B7">
+                     <lem>pū<unclear>ṣ</unclear>at-</lem>
+                     <rdg source="bib:Huber1911_01">pūyat-</rdg>
+                 </app>
+                 <app loc="B10">
+                     <lem>gu<unclear>ṇāṅga</unclear>karmmopa-</lem>
+                     <rdg source="bib:Huber1911_01"><seg met="++-"><gap reason="illegible" quantity="3" unit="character"/>karmmopa-</seg></rdg>
+                     <note>Huber did the wrong scansion of the first syllable.</note>
+                 </app>
+                 <app loc="B11">
+                     <lem>pra<unclear>netuṁ</unclear></lem>
+                     <rdg source="bib:Huber1911_01">pra<seg met="++"><gap reason="illegible" quantity="2" unit="character"/></seg></rdg>
+                     <note>Or pramātuṁ?</note>
+                 </app>
+                 <app loc="B12">
+                     <lem>-pāṭhākhyaḥ</lem>
+                     <rdg source="bib:Huber1911_01">-pāthākhyaḥ</rdg>
+                 </app>
+                 <app loc="B13">
+                     <lem>prakr̥tibhāsurasphaṭikaśuddha-</lem>
+                     <rdg source="bib:Huber1911_01">prakr̥tibhaḥ purassarikaśuddha-</rdg>
+                 </app>
+                 <app loc="C1">
+                     <lem>yenāyam agrajo <gap reason="illegible" quantity="1" unit="character"/>i<gap reason="illegible" quantity="2" unit="character"/>ām evam</lem>
+                     <rdg source="bib:Huber1911_01">yo ’yam agraja<gap reason="illegible" quantity="5" unit="character"/> evam</rdg>
+                     <note>Perhaps restore nijakathām, although the shape of the ā-vocalisation rather makes one suspect its supporting consonant to be ṅ, j, ñ or ṭ.</note>
+                 </app>
+                 <app loc="C2">
+                     <lem>sthānayoḥ</lem>
+                     <rdg source="bib:Huber1911_01">hr̥dayoḥ</rdg>
+                     <note>Huber identifies this passages as an Āryā stanza (nr. XVII), but this cannot be correct. We believe the passage is prose.</note>
+                 </app>
+                 <app loc="C3">
+                     <lem>apārtthikā</lem>
+                     <rdg source="bib:Huber1911_01">asārtthikā</rdg>
+                 </app>
+                 <app loc="C3">
+                     <lem>samuccitāpi</lem>
+                     <rdg source="bib:Huber1911_01">samucchitāpi</rdg>
+                 </app>
+                 <app loc="C5">
+                     <lem>-sambhāra-</lem>
+                     <rdg source="bib:Huber1911_01">-saṁbhāra-</rdg>
+                 </app>
+                 <app loc="C7">
+                     <lem>-tuṣārāṁśau</lem>
+                     <rdg source="bib:Huber1911_01">-tuṣarāṁśau</rdg>
+                 </app>
+                 <app loc="C10">
+                     <lem>cikirnnāmni</lem>
+                     <rdg source="bib:Huber1911_01">cikir nāmni</rdg>
+                 </app>
+                 <app loc="C11">
+                     <lem>maheśvaraṁ</lem>
+                     <rdg source="bib:Huber1911_01">maheśvaram</rdg>
+                 </app>
+                 <app loc="C11">
+                     <lem>-kam vāpi</lem>
+                     <rdg source="bib:Huber1911_01">-kaṁ vāpi</rdg>
+                 </app>
+                 <app loc="C11">
+                     <lem>yāṁṅ·</lem>
+                     <rdg source="bib:Huber1911_01">yāṅ·</rdg>
+                 </app>
+                 <app loc="C11">
+                     <lem>pu Āk·</lem>
+                     <rdg source="bib:Huber1911_01">purāk·</rdg>
+                     <note>Huber admitted that the reading was uncertain. The combination pu Āk also occurs in C. 148, l. C. 3. Another combination, pu AUk·, occurs in C. 30B1, l. 4-5 (should it be corrected in pu Āk?)</note>
+                 </app>
+                 <app loc="D7">
+                     <lem>bhauk·</lem>
+                     <rdg source="bib:Huber1911_01">gauk·</rdg>
+                     <note>Cf. l. 1.</note>
+                 </app>
+                 <app loc="D9">
+                     <lem>kuñit·</lem>
+                     <rdg source="bib:Huber1911_01">tuñit·</rdg>
+                 </app>
+               </listApp>
+         </div>
+         <div type="translation" xml:lang="fra" source="bib:Huber1911_01">
+ 	<!--translation encoded as per EGD §9.2 -->
+         </div>
+         <div type="commentary">
+            <p n="A6-A7">V a. Huber prints api ca as though it were not part of the stanza, which he consequently misidentifies as Upagīti, whereas it is a regular Āryā.</p>
+            <p n="B3">sudaṇḍa[vā]sa-: or read sudaṇḍa<supplied reason="lost">vāsabha</supplied>ṭa-? There seems to be space for more lost akṣaras than Huber’s reading suggests. Cf. C. 106, st. III.</p>
+            <p n="B7-B8">XII d. Huber rightly observes in a note that the pāda, as written, is deficient by one syllable at the beginnining. This syllable would have had to be long. Options that Yuko Yokochi has proposed to me are tat- (referring to the king), or else syāt or sā.</p>
+            <p n="B9-B10">Huber identifies this passages as an Āryā stanza (nr. XIV), but this cannot be correct. We believe the passage is prose.</p>
+         </div>
+        <div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+	<!-- NB: you are encouraged to experiment with encoding bibliography to the extent you have the bibliographic data available, but it is not mandatory at this stage, because our bibliographic data are normally assembled along with other metadata in spreadsheets and will be imported from there into our xml files by a semi-automated process at a later stage. -->
+           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+        	<listBibl type="primary">
+				<bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+			</listBibl>
+           <listBibl type="secondary">
+              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>

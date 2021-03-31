@@ -160,20 +160,20 @@
            <p xml:lang="ocm-Latn">
              <!-- sapi and argr have read down to here on 2021-03-1O -->
              <milestone type="pagelike" unit="face" n="C"/>
-             <lb n="C1"/><gap reason="illegible" quantity="17" unit="characters" precision="low"/>pra<unclear>māna</unclear> humā niy·
-             <lb n="C2"/><gap reason="illegible" quantity="17" unit="characters" precision="low"/>kravāv· tuy· cikir· huriy·
-             <lb n="C3"/><gap reason="illegible" quantity="16" unit="characters" precision="low"/><unclear>ḥ</unclear> pu Āk· vandaḥ neḥ nariy· na<lb
-             n="C4" break="no"/><gap reason="illegible" quantity="15" unit="characters" precision="low"/>nan· tr<unclear>ā</unclear> tuy· krauṅ· nan· <unclear>nau</unclear> kaṁ<!-- see d6–7, so restore n· at beginning of line C5; for the unusual shape of -au, see d9 -->
-             <lb n="C5"/><gap reason="illegible" quantity="15" unit="characters" precision="low"/>nan· tr<unclear>ā</unclear> tuy· krauṅ· bhauk· ma<lb
-             n="C6" break="no"/><gap reason="illegible" quantity="14" unit="characters" precision="low"/><unclear>po</unclear>v ku <unclear>danā</unclear>y· pināṅ· mavuḥ yāṅ· suvā<lb
-             n="C7" break="no"/><!-- ou yāṅ pu ...? --><gap reason="illegible" quantity="17" unit="characters" precision="low"/>driy· yāṅ· pov· ku śrī bhadrava<lb
-             n="C8" break="no"/><gap reason="illegible" quantity="21" unit="characters" precision="low"/><unclear>yāṅ</unclear>·  pov· ku
-             <lb n="C9"/><gap reason="illegible" quantity="22" unit="characters" precision="low"/> nū huma
-             <lb n="C10"/><gap reason="illegible" quantity="21" unit="characters" precision="low"/><unclear>ma</unclear>vuḥ di<lb
-             n="C11" break="no"/><gap reason="illegible" quantity="19" unit="characters" precision="low"/><unclear>yā</unclear>ṅ· pov ku siniy· ku
-             <lb n="C12"/><gap reason="illegible" quantity="19" unit="characters" precision="low"/>y· pasrauṅ· samū
-             <lb n="C13"/><gap reason="illegible" quantity="18" unit="characters" precision="low"/><unclear>punya</unclear> niy· <unclear>kā</unclear> liṅai<unclear>t</unclear>· <gap reason="illegible" quantity="2" unit="characters"/>
-             <lb n="C14"/><gap reason="illegible" quantity="1" unit="line"/>
+             <lb n="C1"/><gap reason="illegible" quantity="17" unit="character" precision="low"/>pra<unclear>māna</unclear> humā niy·
+             <lb n="C2"/><gap reason="illegible" quantity="17" unit="character" precision="low"/>kravāv· tuy· cikir· huriy·
+             <lb n="C3"/><gap reason="illegible" quantity="16" unit="character" precision="low"/><unclear>ḥ</unclear> puĀk· vandaḥ neḥ nariy· na<lb
+             n="C4" break="no"/><gap reason="illegible" quantity="15" unit="character" precision="low"/>nan· tr<unclear>ā</unclear> tuy· krauṅ· nan· <unclear>nau</unclear> kaṁ<!-- see d6–7, so restore n· at beginning of line C5; for the unusual shape of -au, see d9 -->
+             <lb n="C5"/><gap reason="illegible" quantity="15" unit="character" precision="low"/>nan· tr<unclear>ā</unclear> tuy· krauṅ· bhauk· ma<lb
+             n="C6" break="no"/><gap reason="illegible" quantity="14" unit="character" precision="low"/><unclear>po</unclear>v ku <unclear>danā</unclear>y· pināṅ· mavuḥ yāṅ· suvā<lb
+             n="C7" break="no"/><supplied reason="lost">k·</supplied><!-- ou yāṅ pu ...? --><gap reason="illegible" quantity="16" unit="character" precision="low"/>driy· yāṅ· pov· ku śrī bhadrava<lb
+             n="C8" break="no"/><gap reason="illegible" quantity="21" unit="character" precision="low"/><unclear>yāṅ</unclear>·  pov· ku
+             <lb n="C9"/><gap reason="illegible" quantity="22" unit="character" precision="low"/> kintu humā
+             <lb n="C10"/><gap reason="illegible" quantity="21" unit="character" precision="low"/><unclear>ma</unclear>vuḥ di
+             <lb n="C11"/><gap reason="illegible" quantity="19" unit="character" precision="low"/><unclear>yā</unclear>ṅ· pov ku siniy· ku
+             <lb n="C12"/><gap reason="illegible" quantity="19" unit="character" precision="low"/>y· pasrauṅ· samū
+             <lb n="C13"/><gap reason="illegible" quantity="18" unit="character" precision="low"/><unclear>punya</unclear> niy· <unclear>pa</unclear>liṅai<unclear>t</unclear>· <gap reason="illegible" quantity="2" unit="character"/>
+             <lb n="C14"/><gap reason="illegible" quantity="21" unit="character"/><supplied reason="illegible">Udakā</supplied>
              <milestone type="pagelike" unit="face" n="d" break="no"/><lb
              n="d1" break="no"/>nna niy· kā liṅait· Oḥ pathuv·
              <lb n="d2"/>Urāṅ· rayā Oḥ suvāk· di pu po<lb
@@ -185,7 +185,8 @@
              <lb n="d8"/>Urāṅ· Athavā kaṁn· ganuhā Urāṅ· Atha<lb
              n="d9" break="no"/>vā nau tamr̥yāla niv· di kāryya Urāṅ·<!-- the sequence tamr̥yāla niv· is also found in C106 — how to break the words? -->
              <lb n="d10"/>Athavā tok· Ana tauṅ·<!-- Annatauṅ in C106--> nau riyo pasa
-             <lb n="d11"/>kāra<!-- read pasabhāra? --> Oḥ jeṅ·<gap reason="lost" quantity="9" unit="character"/> jeṅ·<gap reason="lost" quantity="14" unit="line"/>
+             <lb n="d11"/>kāra<!-- read pasabhāra? --> Oḥ jeṅ· sarv<unclear>v</unclear>ā<unclear>ka</unclear>rādāna Oḥ jeṅ·
+             <lb n="d12"/><gap reason="lost" quantity="1" unit="line"/>
            </p>
          </div>
          <div type="apparatus">
@@ -255,20 +256,14 @@
          <div type="translation" resp="part:sapi part:argr">
            <p n="b8-b12">People who speak (?) in accordance with this curse, the black dog, the white dog, the red dog <supplied reason="subaudible">and</supplied> the four-eyed dog turn to their mothers.</p>
           <p n="b12-b14">This is the date in the Śaka era of the god's donation: three, four, eight <supplied reason="explanation">i.e., 843</supplied>.</p>
-          <p n="C1-C14"> ... the extent of this field ... buffaloes along Cikir Huriy ... west
-
+          <p n="C1-C13"> ... the extent of this field ... buffaloes along Cikir Huriy ... this part measures <supplied reason="explanation"><foreign>puāk</foreign></supplied> ... from ... and follows that river to ... and follows the Bhauk river ... The P.K. Danāy Pināṅ<!-- son nom est présent dans la partie sanskrite--> allowed the uprooted <supplied reason="explanation"><foreign>suvāk</foreign></supplied> god<!-- "offers the god uprooted" or "allows the god to be uprooted"?--> to ... individuals. Y.P.K. Śrī Bhadrava... Y.P.K. ... but the field... offer to... the Y.P.K. here ... rejuvenate like... this meritorious work, ... remove ...
+          <!-- Vraiment lire punya ? Ou kunya ? -->
           </p>
-          <p n="C3-C14">this part from.... that also follows the river that goes on tilted = that tilts .... that also follows the river and/of the <foreign>bhauk</foreign>... The P.K. Danāy Pināṅ <!-- son nom est présent dans la partie sanskrite--> offers to the god <!-- Ici, on rencontre l'expression mavuḥ yām̃ dans C. 101. Cette dernière a été traduite par Finot (BEFEO IV, p. 963-966) ainsi. On aurait pu également imaginer : offers the god.--> uprooted... <!-- si on lit bien suvā, et non pu, il pourrait s'agit de suvāk. Dans ce cas, peut être que la deuxième hypothèse de traduction : offers the god uprooted conviendrait mieux. On offre le dieu car il est "déraciné".--> ... The people of Y.P.K. Śrī Bhadrava... Y.P.K.... field... offer... Y.P.K. here I... rejuvenate like... this meritorious work for outside...
-          <!-- Vraiment lire punya ? Ou kunya ? Cf. C. 116, piédroit Nord intérieur, l. 31 : kunyau.-->
-          </p>
-           <p n="d1-d12"/>
-           This.... for outside. <!--sapi2argr ici, la structure me fait penser à ce que nous avons face C., l. 13 : (punya) niy· (kā) liṅai(t). Nous ne pouvons émettre l'hypothèse de punya ici, car le "nna" ne fait aucun doute. En revanche, cf. C. 64, l. C4 : puṇyadāna ?
-          Autre question : l. C. 13 : vraiment lire punya ? Ou kunya ?-->
-          One should not pathuv <!--pathuei, A&C, p. 263 (339 PDF) : Danger, péril mortel. Mais associé au Cambodgien dans le dictionnaire. -->.
-          The dignitaries/common people should not take from the P.K. <foreign>tana rayā</foreign> <!--sapi2argr Ici, on aurait pu songer à inclure urāṅ dans la balise foreign, mais aucune autre inscription ne présente cette combinaison tana rayā urāṅ·.-->
-          <!-- autre option de traduction :-->The dignitaries/common people who do not take (?) from the P.K. <foreign>tana rayā</foreign>, these men will obtain the Avīcī hell, just like the men who cast away any water and food at all.
-
-          But the men of the Y.P.K. here absolutely won't give the order to take, going foward, <!--sapi2argr ou comprendre kaṁn comme : overturn ?. Trad : won't give the order to take [and] overturn--> the elevated <foreign>vrak</foreign> <!--sapi2argr kanumvrap· : serait-il possible de lire kanukvrap à la place ? Kanuk est reconnu dans A&C, p. f55 (PDF p. 113).
+           <p n="C14-d12">
+           This water and food then disappeared. Not informing the common people, not <foreign>suvāk</foreign> to the sovereign, those people obtain the Avīcī hell, similarly to men who only <supplied reason="explanation"><foreign>maṁn</foreign></supplied> remove this water and food.
+           <!-- sapi and argr have read down to here on 2021-03-31 -->
+          But the men of the Y.P.K. here absolutely won't give the order to take, going foward,
+          <!--sapi2argr ou comprendre kaṁn comme : overturn ?. Trad : won't give the order to take [and] overturn--> the elevated <foreign>vrak</foreign> <!--sapi2argr kanumvrap· : serait-il possible de lire kanukvrap à la place ? Kanuk est reconnu dans A&C, p. f55 (PDF p. 113).
           Kanu, A&C, p. 55 : élevé, haut, surélevé. Ex: hamu kanu = rizière surélevée.
           Dans A&C, p. 458 (PDF p. 534) : vrak = se rouler, muer, croc < malais ūrak ?-->, or to overturn <foreign>sev</foreign> <!--sapi2argr Je lis plus sev que siv. Cf. C. 140, l. B. 13. Je n'ai pas eu accès à l'édition de cette inscription. Edouard Huber, Études indochinoises VII: Nouvelles découvertes archéologiques en Annam. 3. Vestiges et stèle chams à Huong-Que, BEFEO XI (1911), p. 15 n'est pas la bonne référence, et Majumdar ne l'a pas édité.--> of small men <!--sapi2argr Common folks ? Ce qui ferait pencher la balance vers une traduction de Urāṅ· rayā en dignitaries ?-->, or the overturn the <foreign>ganuhā</foreign><!--sapi2argr Ganuhā < ganuḥ : puissance ?--> of men, or to go toward this tamṛyāla<!-- the sequence tamr̥yāla niv· is also found in C106 — how to break the words? --> that must be done by men, or to take all the <foreign>ana</foreign> ... <!--sapi2argr au lieu de pasa kāra, on pourrait lire pa Akāra. Ou pu Āk ? (peu probable).-->
            À l’extérieur, on ne pathuv pas, que les hommes du commun n’arrachent pas au P.K. <foreign>tana rayā</foreign> <supplied reason="subaudible">ou</supplied> cet homme obtiendra l’Enfer Avīcī comme les hommes qui chassent l’eau et la nourriture tout court. Mais les hommes du <foreign>yāṅ pov ku</foreign> ici présents ne donneront pas l’ordre de faire prendre <supplied reason="subaudible">et</supplied> de renverser le kanumvrap, ou de renverser le petit sev des hommes, ou de renverser le ganuhā des hommes ou d’aller vers le tamṛyāla niv qui doit être fait par les hommes, ou de prendre tous les Ana</p>

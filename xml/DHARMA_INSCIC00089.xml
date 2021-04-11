@@ -155,7 +155,7 @@
            n="B31" break="no"/>nan· pīṇa vana Ānāk· kośa māḥ nan<g type="dandaPlain">.</g> <num value="314">314</num> thil· <num value="8">8</num> draṁ<g type="dandaPlain">.</g> vana Ānāk· māḥ ṣanmukha nan· ṅan· maku<lb
            n="B32" break="no"/>ṭa dinan· maddan nāgarāja dvā nan· ṅan· Ādhāra Urdhvamukha nan· rim̃<g type="dandaPlain">.</g> 136 thil·<g type="dandaPlain">.</g> Avi<add place="below">ḥ</add> jem̃<g type="dandaPlain">.</g> <num value="450">450</num> thim̃ <num value="8">8</num> draṁ śakarāja <num value="1010">1010</num>
            <milestone type="pagelike" unit="face" n="d"/><!--sapi2argr Pour cette face, oxygen me détecte plein d'erreurs que je ne comprends pas.-->
-           <lb n="d1"/><unclear>h</unclear>u<unclear>mā</unclear> <gap reason="illegible" quantity="2" unit="characters"/>au <unclear>sā</unclear> rātuḥ<!--note rtf : rātuḥ ou lire rutuḥ ? --> <unclear>jāk· h</unclear>u<unclear>mā</unclear> <gap reason="illegible" quantity="2" unit="characters"/> h<choice><unclear>a</unclear><unclear>ā</unclear></choice><lb 
+           <lb n="d1"/><unclear>h</unclear>u<unclear>mā</unclear> <gap reason="illegible" quantity="2" unit="characters"/>au <unclear>sā</unclear> rātuḥ<!--note rtf : rātuḥ ou lire rutuḥ ? --> <unclear>jāk· h</unclear>u<unclear>mā</unclear> <gap reason="illegible" quantity="2" unit="characters"/> h<choice><unclear>a</unclear><unclear>ā</unclear></choice><lb
             n="d2" break="no"/><gap reason="illegible" quantity="1" unit="characters"/><unclear>ṛ</unclear>ai<!--note rtf : Cṛai : est-ce qu'on peut lire le nom thvai que Finot lisait dans C. 100 c, l. 12 ?--> dalapan· pluḥ jāk· humā <unclear>rava</unclear><gap reason="illegible" quantity="3" unit="characters"/> <unclear>ti</unclear>juḥ
            <lb n="d3"/>pluḥ jāk· <unclear>Av</unclear>iḥ jem̃ dvā rātuḥ<!--note rtf : rātuḥ ou lire rutuḥ ? --> limā pluḥ jāk·
            <lb n="d4"/>ṅan· tandom̃ languv· humā <unclear>rimand</unclear>u<unclear>r</unclear>· <unclear>sāpa</unclear>m̃ kdaḥ <unclear>r</unclear>ā
@@ -253,7 +253,7 @@
                      <rdg source="bib:Finot1904_05">aviṣṭa</rdg>
                  </app>
                  <app loc="A10">
-                     <lem>pakṣapāta:</lem>
+                     <lem>pakṣapāta</lem>
                      <rdg source="bib:Finot1904_05">paksapāta</rdg>
                  </app>
                  <app loc="A10">
@@ -493,11 +493,12 @@
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-          <p>First edited with translation into French by L. Finot (<bibl rend="omitname"><ptr target="bib:Finot1904_05"/><citedRange unit="page">946-951</citedRange></bibl>). The inscription is re-edited here by Arlo Griffiths based on autopsy and the EFEO estampage n. 333.</p>
+          <p>First edited with translation into French by L. Finot (<bibl rend="omitname"><ptr target="bib:Finot1904_05"/><citedRange unit="page">946-951</citedRange><citedRange unit="item">16</citedRange></bibl></bibl>). The inscription is re-edited here by Arlo Griffiths and Salomé Pichon based on autopsy and the EFEO estampage n. 333.</p>
          <listBibl type="primary">
            <bibl n="F">
            <ptr target="bib:Finot1904_05"/>
            <citedRange unit="page">946-951</citedRange>
+           <citedRange unit="item">16</citedRange></bibl>
            </bibl>
          </listBibl>
            <listBibl type="secondary">

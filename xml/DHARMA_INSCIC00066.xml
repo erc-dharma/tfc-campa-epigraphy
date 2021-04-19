@@ -77,6 +77,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+          <change who="part:sapi" when="2021-04-19" status="draft">Adding translation and bibliography</change>
           <change who="part:sapi" when="2021-03-03" status="draft">Few corrections.</change>
             <change who="part:sapi" when="2021-03-02" status="draft">Continuing initial encoding of the inscription</change>
             <change who="part:sapi" when="2021-02-12" status="draft">Beggining initial encoding of the inscription</change>
@@ -447,8 +448,54 @@
                  </app>
                </listApp>
          </div>
-         <div type="translation">
- 	<!--translation encoded as per EGD §9.2 -->
+         <div type="translation" xml:lang="fra" resp="Finot1904_01">
+           <p n="A01"><supplied reason="subaudible">Hommage</supplied> à Lakṣmīndra Lokeśvara !</p>
+           <p rend="stanza" n="1-5">......... Bhadreśvara........ et Bhṛgu fut envoyé.</p>
+           <p rend="stanza" n="6">Celui-ci, un autre Bhadreśvara, jouit alors........ Toujours Śaṁbhu connaît par toi, qui es sa pensée, les mérites...</p>
+           <p rend="stanza" n="7">......... a été érigé ce <foreign>liṅga</foreign> de Śrī Śaṁbhubhadreśvara...........
+           <p rend="stanza" n="8">De même que les dieux habitants le ciel, et dont la profonde intelligence est affinée par le séjour du ciel, cherchent, pour obtenir la délivrance, un refuge à ses pieds avec une piété consciente ; ainsi ces dieux qui séjournent en foule sur la terre, les rois..., prosternés aux pieds de Śrī Bhadreśvara, y trouvent la prospérité.</p>
+           <p rend="stanza" n="9">Tous les Indra des dieux... épris de leur séjour, <supplied reason="subaudible">ô Śaṁbhu,</foreign> ne quittent ton monde suprême, difficile à atteindre... éminent, incomparable... que pour se donner une postérité et retourner aussitôt eux-mêmes à leur monde. Śaṁbhu, qui le sait, dit en souriant au grand Uroja :</p>
+           <p rend="stanza" n="10">"Tous les dieux, d'un cœur gracieux, ont reçu une postérité..." Ayant fait cette réflexion, Śaṁbhu, avec un sourire des yeux et du visage, envoya Uroja à son tour : "Tu es fortuné, Uroja, rayonnant de gloire, un réceptacle de prospérité, poussière des pieds du Guru Śaṁbhubhadreśvara. Va sur la terre et prends la royauté."</p>
+           <p rend="stanza" n="11">Celui-ci prit le pouvoir royal et en jouit. Et ce <foreign>liṅga</foreign> qui est ton œuvre, Īśa, fut érigé en ce monde et porté sur la tête de tous les rois. Uroja lui-même annonça ici sa gloire en disant : "Que ce <foreign>liṅga</foreign>, le premier de l'univers, soit un bienfait pour les hommes, lui qui brille sur les trois mondes !"</p>
+           <p rend="stanza" n="12">Ce <foreign>liṅga</foreign> d'Adhīśa, que jadis Bhṛgu reçut d'Īśa et Uroja de Bhṛgu, conduit le monde à la délivrance en vue de laquelle il fut créé. Ce <foreign>liṅga</foreign>, toujours bienfaisant pour le monde, érigé à Campā par toi, Uraḥprabhū, puisse-t-il être pour celui-ci aussi rendu bienfaisant par les hommes de bien ! </p>
+           <p rend="stanza" n="13">Les dieux restés au ciel, le Mokṣa étant tombé de Parameśvara, n'obtenaient plus par lui <supplied reason="subaudible">la satisfaction de</supplied> leurs vœux.Maltraités par les Asuras, ils étaient désormais privés d'<supplied reason="subaudible">exploits</supplied> glorieux. Pendant ce temps les dieux rois restaient sur la terre parce que l'auguste Bhadreśvara y était. C'est pourquoi ceux-là <supplied reason="explanation">les dieux du ciel</supplied> ne prospéraient plus, tandis que les Asuras voyaient leur puissance s'accroître.</p>
+           <p rend="stanza" n="14">Puisse cet hymne agréable, surpassant une masse de gloire, être une fête pour les Munis, réceptacles de louanges ! Il procure la puissance aux rois. Que l'hommage de ce monde aille à Śaṁbhubhadreśvara !</p>
+           <p rend="stanza" n="15">À celui qui, par son extrême puissance et par sa gloire, atteint l'universel pouvoir du roi des dieux, à celui qu'on nomme Śrī Śaṁbhubhadreśvara soit avec piété mon hymne de louange !</p>
+           <p rend="stanza" n="16">Seul digne des hommages de la multitude des dieux est Śrī Śaṁbhubhadreśvara. Il protège la cité de Campā, où se manifestent toutes les bonnes lois, lui qui est l'étincelante essence du feu.</p>
+           <p rend="stanza" n="17">Ceux qui, depuis le règne d'Uroja, ont occupé le trône de Campāpura, <supplied reason="subaudible">où</supplied> l'auguste Bhadreśvara <supplied reason="subaudible">forme</supplied> l'essence de la royauté et de la perpétuité, ceux-là sont universellement connus sur la terre.</p>
+           <p rend="stanza" n="18">De la descendance de Parameśvara naquit le roi Uroja ; de celui-ci naquit le fortuné et intelligent Dharmarāja.</p>
+           <p rend="stanza" n="19">De celui-ci naquit l'intelligent Rudravarman ; il eut pour fils le glorieux et fortuné roi Bhadravarman.</p>
+           <p rend="stanza" n="20">Śrī Indravarman, fils de Śrī Bhadravarman, par la puissance de Maheśvara est roi dans le pays de Campā.</p>
+           <p rend="stanza" n="21">C'est ainsi que la royauté se transmit dans sa plénitude à ce roi : elle ne lui fut point donnée par son grand'père ni donnée par son père.</p>
+           <p rend="stanza" n="22">C'est par l'excellence de son ascétisme, par la puissance de sa pure intelligence qu'il devint roi... non par son père ou son grand'père.</p>
+           <p rend="stanza" n="23-24">C'est de Bhadreśvara que le roi Indravarman reçut la royauté ; car ainsi... d'Uroja.............. seigneur par la grâce de la Terre Mère.....</p><!--sapi2argr À partir ce là, Finot repart de la stance I, face B. Pour ma part, j'ai gardé la numérotation de la translittération ci-dessus.-->
+           <p rend="stanza" n="25">........ par l'intelligence....... l'auguste roi Hari l'a érigé.</p>
+           <p rend="stanza" n="26">À l'Être auguste qui habite le Malaya, délivrance du monde et...... des hommes.......... <supplied reason="subaudible">un <foreign>liṅga</foreign></supplied> sous forme de <foreign>kośa</foreign>.... magnifique, au visage d'or, fut promptement érigé de nouveau par le sage roi.</p>
+           <p rend="stanza" n="27">C'est par cette succession de rois que m'est parvenu ce <foreign>liṅga</foreign> de Śaṁbhu ; je l'ai fait...... par l'effort de ma pensée.</p>
+           <p rend="stanza" n="28">Et ce suprême, cet éminent Lokeśvara, issu de la succession des Buddhas, puissè-je, en le faisant, contribuer à la délivrance des êtres !</p>
+           <p rend="stanza" n="29">"Quels sont les dieux qui ont pour attribut essentiel la bonté et dont l'âme est large pour les êtres à sauver ? Lokeśa fut toujours débordant de compassion et d'une patience incomparable." Songeant ainsi, désirant en son coeur la connaissance du Dharma, le roi habile à <supplied reason="subaudible">trouver</supplied> l'essence de la vérité suprême fit ce Lokeśa de sa main.</p>
+           <p rend="stanza" n="30">Jadis cette terre fut constamment puissante et longtemps pleine de splendeur ; les hommes y étaient de grande richesse et de haute naissance. Ces riches prenant de temps en temps un roi, le souverain unique de cet État, ce fut toi, Pṛthivīndravarman, pareil à l'Indra des dieux sur la terre.</p>
+           <p rend="stanza" n="31">Tantôt ce fut un fils d'Indra, de Brahmā, de Viṣṇu ; tantôt l'Indra des Nāgas ; tantôt Śaṁkara ; tantôt les Ṛṣis, le Soleil, la Lune, le Maître des eaux <supplied reason="explanation">Varuṇa</supplied>, celui qui a la forme du feu <supplied reason="explanation">Agni</supplied> ; un reflet d'Abhayada qui servit à la délivrance des êtres.</p>
+           <p rend="stanza" n="32">Les hommes épuisés de souffrance, certains d'entre eux damnés dans l'enfer, jour et nuit, sans cesse, désirent ta vue ; comme en été les hommes brûlés de soif et de soleil désirent de l'eau fraîche, ainsi, frappés sur cette terre de maux innombrables, ils aspirent à te voir.</p>
+           <p rend="stanza" n="33">Le roi, dont l'âme supérieure s'était sans cesse purifiée de naissance en naissance, les premiers des citoyens l'ont été chercher pour protéger le cher pays de Campā. Que la Fortune te garde ici longtemps et toujours !</p>
+           <p rend="stanza" n="34">Aussi longtemps que le roi des dieux gouvernera le ciel par la règle du Dharma, par la puissance du sacrifice ; aussi longtemps que la profondeur de la mer recevra les eaux des fleuves ; aussi longtemps que dureront le porteur du vent, la Terre, la Lune, le Soleil et une portion même de la multitude des étoiles, aussi longtemps puisse le roi, inébranlable dans la fortune, conduire <supplied reason="subaudible">le monde</supplied> au joug et au séjour de Buddha !</p>
+           <p rend="stanza" n="35">Lui qui est appelé Lakṣmīndra Bhūmīśvara, qui, malgré son nom de Grāma, a la force des Treize Dieux, a d'abord été désigné par le roi, ensuite célébré par les chants des princes des poètes.</p>
+           <p rend="stanza" n="36">Lui, l'arracheur des bornes frontières, il est doux pour les ennemis mêmes, qui n'ayant pas les yeux aveuglés par <supplied reason="subaudible">la fureur du</supplied> combat, arrivent à portée de la voix et de l'ouïe et se mettent, éperdus de souffrance, à sa merci. Lokeśa, habile aux qualités d'Iśvara, sans orgueil, évitant le péché, a été érigé par ce roi dont la pensée n'est point courbée par une puissance de ce monde et dont le langage est irréprochable à l'égard du Dharma.</p>
+           <p rend="stanza" n="37">Tu es sans égal dans le monde en gloire royale, en connaissance, intelligence, éclat, célébrité, science, pratique, gloire, bonheur, orné de la plénitude de la fortune. Protégé par Mercure, Mars, Jupiter, la Lune, le Soleil, Vénus, Saturne, l'auguste Jaya Indravarman resplendit de sagesse.</p>
+           <p rend="stanza" n="38">Les marques fortunées qui distinguent son corps et tout ce qui le touche accroissent pour l'avenir sur la terre la royauté et la vaillance invicible.</p>
+           <p rend="stanza" n="39">Le roi des Śakas étant illuminé par les montagnes, neuf et les <foreign>munis</foreign> <supplied reason="explanation">797</supplied>, Saturne étant dans le Verseau, le Soleil dans le Taureau, Jupiter, l'horoscope et Vénus dans les Gémeaux, le vendredi, Mars étant dans le Bélier, la Lune dans le Cancer, sous le <foreign>nakṣatra</foreign> Puṣya, le cinquième jour de la quinzaine claire de Śuci <supplied reason="explanation">Jyaiṣṭha</supplied>, S. M. Indravarman a fait ériger d'après ses ordres le suprême Svabhayada.</p>
+           <p n="B19-B25">Or ce roi Śrī Jaya Indravarman <foreign>mahārāja adhirāja</foreign>, qui, par la perfection des fruits de l'ascétisme <supplied reason="subaudible">pratiqué</supplied> dans de nombreuses existences antérieures, est parvenu à la souveraineté de Campā par la faveur du destin ; dont la prospérité <supplied reason="subaudible">provient</supplied> de l'excellence de ses multiples desseins, qui occupent à la fois le ciel et tous les points de l'horizon ; dont la gloire est sans égale ; qui a la plénitude de la gloire ; dont le visage et les yeux ont la sérénité <supplied reason="subaudible">résultant</supplied> d'une pensée élargie par l'affluence des félicités, - tire son origine de la descendance de Śrī Maheśvaraloka...... Étant Lakṣmīndra Bhūmīśvara Grāmasvāmin, il était chéri des plus éminents gurus de la terre. Ensuite.... Śrī Avalokiteśvara...... Śrī Indravarmadeva...... réceptacle...... deux...... d'or......</p>
+           <p rend="stanza" n="40">....... en vue du Dharma un monastère a été fondé <supplied reason="explanation">par moi</supplied>, exempt de tout impôt royal, pour le profit de la communauté des moines.</p>
+           <p rend="stanza" n="41">J'y ai placé tous les moyens de subsistance pour l'usage de la communauté des religieux, pour les profit des êtres.</p>
+           <p rend="stanza" n="42">Ce n'est pas au profit du roi, ce n'est pas comme extension d'impôt, c'est au profit de la communauté des religieux que ce monastère est fondé à perpétuité.</p>
+           <p rend="stanza" n="43">Que ceux qui garderont ces biens des religieux, - sages brahmanes, ascètes, parents du roi, etc. - atteignent tous avec leurs parents l'incomparable Cité de la Délivrance buddhique ; quant à ceux qui les raviront ou les détruiront, puissent-ils tomber dans le redoutable enfer !</p>
+           <p rend="stanza" n="44">Que ceux qui connaîtront par ouï-dire ou de leurs propres yeux les ravisseurs de ces biens et ne les dénonceront pas au roi, aillent tous en enfer !</p>
+           <p rend="stanza" n="45">Que tous ceux, au contraire, qui les dénonceront chaque fois, ne tombent jamais dans l'enfer, ni eux, ni leur père, ni leurs parents !</p>
+           <p rend="stanza" n="46">Que ceux qui enlèveront ces biens, - <foreign>kṣatriya</foreign>, rois ou brahmanes, - tombent éternellement, avec leur père et leur mère, dans les tourments de l'enfer !</p>
+           <p rend="stanza" n="47">Que ceux qui, suivant ma parole, garderont ces biens - champs, or, argent, laiton, - pour l'usage de la communauté, parviennent, avec leurs serviteurs, etc., au séjour du Buddha !</p>
+           <p rend="stanza" n="48">Que ceux qui les raviront en violation de ma parole, - rois, brahmanes, riches propriétaires, - ailleurs aux huits enfers avec leur père, leur mère et tous leurs parents !</p>
+           <p rend="stanza" n="49-51"><supplied reason="explanation">Enumération de champs.</supplied> Tous ces champs, le roi les a donnés à Lokeśa.</p>
+           <p n="D10-D23">Et encore : le roi Indravarman a donné ces champs avec leurs récoltes, les esclaves des deux sexes, l'argent, l'or, le laiton, le cuivre et autres richesses, à Śrī Lakṣmīndralokeśvara, pour l'usage de la communauté des religieux, pour l'achèvement de la propagation du Dharma. Ceux qui, - rois, <foreign>kṣatriyas</foreign>.. brahmanes, ministres..... marchands, - enlèveront, détruiront ou.... <supplied reason="subaudible">ces biens</foreign>, qu'ils aillent tous au Mahāraurava ; ceux qui au contraire les garderont, les protégeront, révèleront <supplied reason="subaudible">ceux qui les auront enlevés</supplied>, qu'ils aillent tous, suivant leur désir, à la Cité du Ciel et à la Cité de la Délivrance !</p>
          </div>
          <div type="commentary">
            <p n="B14">XXXVI d. °nāvi: perhaps emend °nāmi (proposed by Diwakar Acharya). The multiple emendations proposed by Majumdar, p. 80 (note) are unnecessary.</p>
@@ -464,14 +511,29 @@
            <p n="D23">bhavantas: Finot doesn't seem to have translated this word, the meaning of which is indeed not very clear. Compare to the use of bhavān in C. 167?</p>
          </div>
         <div type="bibliography">
-	<!--bibliography encoded as per section §9.4 -->
-	<!-- NB: you are encouraged to experiment with encoding bibliography to the extent you have the bibliographic data available, but it is not mandatory at this stage, because our bibliographic data are normally assembled along with other metadata in spreadsheets and will be imported from there into our xml files by a semi-automated process at a later stage. -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <p>First edited with translation into French by L. Finot (<bibl rend="omitname"><ptr target="bib:Finot1904_01"/><citedRange unit="page">84-99</citedRange></bibl>). The inscription is re-edited here by Arlo Griffiths and Salomé Pichon based on autopsy and the EFEO estampages n. 264, n. 2116 and n. 2121.</p>
         	<listBibl type="primary">
-				<bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+            <bibl n="F">
+            <ptr target="bib:Finot1904_01"/>
+            <citedRange unit="page">84-99</citedRange>
+            </bibl>
 			</listBibl>
            <listBibl type="secondary">
-              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+             <bibl>
+               <ptr target="bib:Majumdar1927_01"/>
+               <citedRange unit="part">3</citedRange>
+               <citedRange unit="page">74-88</citedRange>
+               <citedRange unit="item">31</citedRange>
+             </bibl>
+             <bibl>
+             <ptr target="bib:Golzio2004_01"/>
+             <citedRange unit="page">60-73</citedRange>
+             </bibl>
+             <bibl>
+             <ptr target="bib:Takashima+Sawada2006_01"/>
+             <citedRange unit="part">3</citedRange>
+             <citedRange unit="page">15-21</citedRange>
+             </bibl>
            </listBibl>
         </div>
       </body>

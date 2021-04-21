@@ -87,7 +87,8 @@
       <body>
          <div type="edition" xml:lang="ocm-Latn">
            <p>
-<lb n="1"/><g type="dandaPlain"/><g type="dandaPlain"/><g type="dandaPlain"/><g type="floretQuatrefoil"/><g type="ddandaPlain"/> svasti<g type="ddandaPlain">.</g> di śakarāja <num value="1036">1036</num><g type="ddandaPlain">.</g> kāla yām̃ po ku śrī harivarmmadeva ya kumvan· yām̃ po ku śrī jaya Inravarmmadeva da<gap reason="lost" quantity="4" unit="character"/>
+<lb n="1"/><g type="dandaPlain"/><g type="dandaPlain"/><g type="dandaPlain"/><g type="floretQuatrefoil"/><g type="ddandaPlain"/> svasti<g type="ddandaPlain">.</g> di śakarāja <num value="1036">1036</num><g type="ddandaPlain">.</g> kāla yām̃ po ku śrī harivarmmadeva ya kumvan· yām̃ po ku śrī jaya
+Inravarmmadeva d<seg type="component" subtype="vowel"><gap reason="lost" unit="component" quantity="1"/></seg><gap reason="lost" quantity="4" unit="character"/>
 <lb n="2"/>mvoḥ yām̃ po ku śrīśānabhadre<choice><orig>ś</orig><reg>śv</reg></choice>ara nim̃ kā ruṅ· hanatap· Upak· chāy· pūrvvakāla trā yām̃ po ku śrī harivarmmadeva ra paṅap· Anvak· tumvrāk· ra paha<lb
 n="3" break="no"/>tap· sā yam̃ṅ· punaḥ sā yam̃ṅ· trā ra paṅap· Anvak· pirak· ra hatap· mulaṅ· di rāja nan· jem̃ dvā vvāra hatap· prāsāda yām̃ po ku śrīśānabhadre<choice><orig>ś</orig><reg>śv</reg></choice>ara tra ra
 <lb n="4"/>vuḥ suvauk· māḥ sā sarutuḥ salapan· pluḥ thil· pirak· srakvak· ñū pāk· pluḥ salapan· thil· dradīk· māḥ sā naṁ pluḥ dvā thil· taliy· māḥ tijuḥ tal·<!-- or read kal·? --> pradap· matā dvā
@@ -109,6 +110,10 @@ sa <unclear>p</unclear>luḥ dvā <unclear>th</unclear>i<unclear>l</unclear>· <
                   <lem>Inravarmmadeva</lem>
                   <rdg source="bib:Finot1904_05">Indravarmmadeva</rdg>
                 </app>
+                <app loc="1">
+                 <lem>d<seg type="component" subtype="vowel"><gap reason="lost" unit="component" quantity="1"/></seg><gap reason="lost" quantity="4" unit="character"/></lem>
+                 <note>Possibly restore <foreign>dinan· tra ra</foreign>, a sequence found a few times in other inscriptions, including C. 89.</note>
+               </app>
               <app loc="2">
                 <lem>Upak·</lem>
                 <rdg source="bib:Finot1904_05">Upāk·</rdg>
@@ -128,6 +133,9 @@ sa <unclear>p</unclear>luḥ dvā <unclear>th</unclear>i<unclear>l</unclear>· <
               </app>
                </listApp>
          </div>
+         <div type="translation" resp="part:argr part:sapi">
+           <p>Hail! In <supplied reason="subaudible">the year of</supplied> the Śaka king 1036: <supplied reason="subaudible">that was</supplied> when Y.P.K. Śrī Harivarmadeva who was the nephew of Y.P.K. Śrī Jaya Indravarmadeva <gap reason="lost"/> saw that Y.P.K. Śrīśānabhadreśvara here had a broken roof, not like in former times. And Y.P.K. Harivarmadeva, he built an <foreign>anvak</foreign> <supplied reason="subaudible">and</supplied> a <foreign>tumvrak</foreign>
+         </p>
          <div type="translation" xml:lang="fra" source="bib:Finot1904_05">
            <p n="1-4">Bonheur ! En <foreign>śakarāja</foreign> 1036, au temps de S. M. Śrī Harivarmadeva, neveu de S. M. Śrī Indravarmadeva...... voyant que le dieu Śrīśānabhadreśvara.......... précédemment, S. M. Śrī Harivarmadeva fit faire........ d'argent. Il fit tout cela en cette <supplied reason="subaudible">année <foreign>śaka</foreign></supplied><foreign>rāja</foreign> deux fois. Il bâtit une tour <supplied reason="explanation"><foreign>prāsāda</foreign></supplied> au dieu Śrīśānabhadreśvara, et il donna :
          </p>

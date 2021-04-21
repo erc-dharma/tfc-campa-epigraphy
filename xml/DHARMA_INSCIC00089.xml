@@ -152,7 +152,7 @@
            <lb n="B28"/>di hulum̃ <choice><sic>mk</sic><corr>mak</corr></choice>uṭa nan· ṅan nāgarājabhūṣaṇa dakṣiṇottarapūrvvamukha nan· ṅan matā nīla pāk· si Ikak· di matā nāgarā<lb
            n="B29" break="no"/>ja nan· di hulum̃ makuṭa sumvrām̃ dakṣiṇa nan· matā māṇikya sā si Ikak· ganan· di hulum̃ makuṭa sumvrāṅ· pa<lb
            n="B30" break="no"/>ścima matā puṣparāga sā si Ikak· ganan· di hulum̃ makuṭa sumvrām̃ Uttara matā Uttaratna sā si Ikak· ga<lb
-           n="B31" break="no"/>nan· pīṇa vana Ānāk· kośa māḥ nan<g type="dandaPlain">.</g> <num value="314">314</num> thil· <num value="8">8</num> draṁ<g type="dandaPlain">.</g> vana Ānāk· māḥ ṣanmukha nan· ṅan· maku<lb
+           n="B31" break="no"/>nan· pīṇa<!-- the same word figures in C. 82, l. 7! --> vana Ānāk· kośa māḥ nan<g type="dandaPlain">.</g> <num value="314">314</num> thil· <num value="8">8</num> draṁ<g type="dandaPlain">.</g> vana Ānāk· māḥ ṣanmukha nan· ṅan· maku<lb
            n="B32" break="no"/>ṭa dinan· maddan nāgarāja dvā nan· ṅan· Ādhāra Urdhvamukha nan· rim̃<g type="dandaPlain">.</g> 136 thil·<g type="dandaPlain">.</g> Avi<add place="below">ḥ</add> jem̃<g type="dandaPlain">.</g> <num value="450">450</num> thim̃ <num value="8">8</num> draṁ śakarāja <num value="1010">1010</num>
            <milestone type="pagelike" unit="face" n="d"/><!--sapi2argr Pour cette face, oxygen me détecte plein d'erreurs que je ne comprends pas.-->
            <lb n="d1"/><unclear>h</unclear>u<unclear>mā</unclear> <gap reason="illegible" quantity="2" unit="characters"/>au <unclear>sā</unclear> rātuḥ<!--note rtf : rātuḥ ou lire rutuḥ ? --> <unclear>jāk· h</unclear>u<unclear>mā</unclear> <gap reason="illegible" quantity="2" unit="characters"/> h<choice><unclear>a</unclear><unclear>ā</unclear></choice><lb
@@ -486,20 +486,20 @@
                  </app>
                </listApp>
          </div>
-         <div type="translation">
+         <div type="translation" resp="part:argr part:sapi">
  	<!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-          <p>First edited with translation into French by L. Finot (<bibl rend="omitname"><ptr target="bib:Finot1904_05"/><citedRange unit="page">946-951</citedRange><citedRange unit="item">16</citedRange></bibl></bibl>). The inscription is re-edited here by Arlo Griffiths and Salomé Pichon based on autopsy and the EFEO estampage n. 333.</p>
+          <p>First edited with translation into French by L. Finot (<bibl rend="omitname"><ptr target="bib:Finot1904_05"/><citedRange unit="page">946-951</citedRange><citedRange unit="item">16</citedRange></bibl>). The inscription is re-edited here by Arlo Griffiths and Salomé Pichon based on autopsy and the EFEO estampage n. 333.</p>
          <listBibl type="primary">
            <bibl n="F">
            <ptr target="bib:Finot1904_05"/>
            <citedRange unit="page">946-951</citedRange>
-           <citedRange unit="item">16</citedRange></bibl>
-           </bibl>
+           <citedRange unit="item">16</citedRange>
+	</bibl>
          </listBibl>
            <listBibl type="secondary">
              <bibl>

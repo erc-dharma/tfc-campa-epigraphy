@@ -92,10 +92,15 @@
 n="3" break="no"/>tap· sā yam̃ṅ· punaḥ sā yam̃ṅ· trā ra paṅap· Anvak· pirak· ra hatap· mulaṅ· di rāja nan· jem̃ dvā vvāra hatap· prāsāda yām̃ po ku śrīśānabhadre<choice><orig>ś</orig><reg>śv</reg></choice>ara tra ra
 <lb n="4"/>vuḥ suvauk· māḥ sā sarutuḥ salapan· pluḥ thil· pirak· srakvak· ñū pāk· pluḥ salapan· thil· dradīk· māḥ sā naṁ pluḥ dvā thil· taliy· māḥ tijuḥ tal·<!-- or read kal·? --> pradap· matā dvā
 <lb n="5"/>pluḥ dvā thil· dalapan· draṁ paduḥ māḥ sā <unclear>p</unclear>aum̃<!-- or read maum̃? --> kluv· pluḥ thil· pirak· <unclear>s</unclear>rakvak· ñū pāk· pluḥ thil· tralāy· māḥ sā salapan· pluḥ dalapan· thil· kluv· draṁ sanraum̃ māḥ <supplied reason="lost">sā</supplied>
-<lb n="6" break="no"/>da<supplied reason="lost">lapan· p</supplied>lu<supplied reason="lost">ḥ dalapan</supplied>· <supplied reason="lost">th</supplied>i<supplied reason="lost">l</supplied>· <supplied reason="lost">dalapan</supplied>· <supplied reason="lost">d</supplied><unclear>raṁ</unclear> vraḥ kalaśa <gap reason="illegible" quantity="4" unit="character"/> <supplied reason="lost">kara māḥ sa ayam̃ṅ· māḥ sā pāk· pluh naṁ thil· pirak· srakvak· ñ</supplied>ū <supplied reason="illegible">sarut</supplied>u<supplied reason="illegible">ḥ thil</supplied><gap reason="illegible" quantity="1" unit="character"/>ra <gap reason="illegible" quantity="1" unit="character"/> <supplied reason="lost">pe</supplied><lb
-n="7" break="no"/>nda pāk· rutuḥ thil· sanraum̃ pirak· kluv· penda kluv· rutuḥ dvā pluḥ thil· māḥ huluv· sanrauṅ <gap reason="illegible" quantity="3" unit="character"/> dvā thil· <gap reason="illegible" quantity="1" unit="character"/><unclear>īṇa māḥ l</unclear>i <gap reason="illegible" quantity="3" unit="character"/> klu<supplied reason="lost">v</supplied>
-<lb n="8"/>salapan· draṁ pirak· salapan· ruluḥ<!--sapi2argr Ici, il semblerait qu'il y ait eu une correction apportée à Finot. Rutuḥ est devenu ruluḥ. Cependant, sur l'estampage, je lis rutuḥ comme Finot.--> dalapan· thil· pirak· si pa<gap reason="illegible" quantity="2" unit="character"/>· prāsāda Itu māṅ· sā rivuv<supplied reason="lost">·</supplied> sā ruluh <unclear>salapan·</unclear> thil·<unclear><g type="ddandaOrnate">.</g><g type="floretComplex"/></unclear> <!--sapi2argr La ponctuation est assez énigmatique. Elle ressemble presque à d'autres caractères tel qu'un hu. Y aurait-il un floretComplex unclear sous la tâche blanche de l'estampage ?-->
-           </p>
+<lb n="6" break="no"/><!-- argr2sapi: the whole reading/encoding of this line is to be checked against the other EFEO estampage and, eventually, in the field -->da<supplied reason="lost">lapan· p</supplied>lu<supplied reason="lost">ḥ dalapan</supplied>· <supplied reason="lost">th</supplied>i<supplied reason="lost">l</supplied>· <supplied reason="lost">dalapan</supplied>·
+<supplied reason="lost">d</supplied><unclear>raṁ</unclear> vraḥ kalaśa<!-- vraḥ kalaśa was read by Finot but no part of it can be confirmed from est. EFEO n. 334 except the top of the r in vraḥ --> <gap reason="illegible" quantity="4" unit="character"/> <supplied reason="lost">kara māḥ sa Ayam̃ṅ·<!-- wrong reading forn Asam̃ṅ·? --> māḥ sā pāk· pluḥ naṁ thil· pirak· srakvak· ñ</supplied>ū <unclear>sarut</unclear>u<unclear>ḥ thil</unclear>·
+<seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>ra</seg>
+<gap reason="illegible" quantity="1" unit="character"/> <supplied reason="lost">pe</supplied><lb
+n="7" break="no"/>nda pāk· rutuḥ thil· sanraum̃ pirak· kluv· penda kluv· rutuḥ dvā pluḥ thil· māḥ huluv· sanrauṅ<unclear>·</unclear>
+sa <unclear>p</unclear>luḥ dvā <unclear>th</unclear>i<unclear>l</unclear>· <unclear>pīṇa māḥ l</unclear>i<unclear>mā</unclear> ru<unclear>tuḥ</unclear>  klu<supplied reason="lost">v· pluḥ</supplied>
+<lb n="8"/>salapan· draṁ pirak· salapan· rutuḥ dalapan· thil· pirak· si pa<gap reason="illegible" quantity="2" unit="character"/>· prāsāda Itu māṅ· sā rivuv<supplied reason="lost">·</supplied> sā rutuḥ <unclear>salapan·</unclear> thil·</p>
+<ab><unclear><g type="ddandaOrnate">.</g><g type="floretComplex"/></unclear><!--sapi2argr La ponctuation est assez énigmatique. Elle ressemble presque à d'autres caractères tel qu'un humā. Y aurait-il un floretComplex unclear sous la tâche blanche de l'estampage ?-->
+</ab>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
@@ -113,12 +118,13 @@ n="7" break="no"/>nda pāk· rutuḥ thil· sanraum̃ pirak· kluv· penda kluv�
                 <rdg source="bib:Finot1904_05">sanraum̃ māḥ <lb/>da<unclear>lapan· p</unclear>luḥ</rdg>
               </app>
               <app loc="7">
-                <lem>sanrauṅ <gap reason="illegible" quantity="3" unit="character"/></lem>
-                <rdg source="bib:Finot1904_05">sanrauṅ</rdg>
+                <lem>sanrauṅ<unclear>·</unclear> sa <unclear>p</unclear>luḥ dvā</lem>
+                <rdg source="bib:Finot1904_05">sanrauṅ· dvā</rdg>
               </app>
-              <app loc="8">
-                <lem>ruluḥ</lem>
-                <rdg source="bib:Finot1904_05">rutuḥ</rdg>
+              <app loc="7">
+                <lem><unclear>pīṇa māḥ l</unclear>i<unclear>mā</unclear> ru<unclear>tuḥ</unclear> klu<supplied reason="lost">v· pluḥ</supplied></lem>
+                <rdg source="bib:Finot1904_05"><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>ī</seg>ṇa māḥ li<gap reason="illegible" quantity="3" unit="character"/></rdg>
+                <note>The word <foreign>pīṇa</foreign> can be read here thanks to the occurrence of the same word, clearly preserved and in a similar context, in <ref target="DHARMA_INSCIC00089.xml">C. 89</ref> B, line 31. Finot's reading, ending the line with the numeral <foreign>kluv·</foreign> that is immnediately followed by <foreign>salapan·</foreign> in the next next line, would yield an uninterpretable sequence of numeral words.</note>
               </app>
                </listApp>
          </div>

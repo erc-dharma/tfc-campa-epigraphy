@@ -94,7 +94,7 @@ n="3" break="no"/>tap· sā yam̃ṅ· punaḥ sā yam̃ṅ· trā ra paṅap· 
 <lb n="4"/>vuḥ suvauk· māḥ sā sarutuḥ salapan· pluḥ thil· pirak· srakvak· ñū pāk· pluḥ salapan· thil· dradīk· māḥ sā naṁ pluḥ dvā thil· taliy· māḥ tijuḥ tal·<!-- or read kal·? --> pradap· matā dvā
 <lb n="5"/>pluḥ dvā thil· dalapan· draṁ paduḥ māḥ sā <unclear>p</unclear>aum̃<!-- or read maum̃? --> kluv· pluḥ thil· pirak· <unclear>s</unclear>rakvak· ñū pāk· pluḥ thil· tralāy· māḥ sā salapan· pluḥ dalapan· thil· kluv· draṁ sanraum̃ māḥ <supplied reason="lost">sā</supplied>
 <lb n="6" break="no"/><!-- argr2sapi: the whole reading/encoding of this line is to be checked against the other EFEO estampage and, eventually, in the field -->da<supplied reason="lost">lapan· p</supplied>lu<supplied reason="lost">ḥ dalapan</supplied>· <supplied reason="lost">th</supplied>i<supplied reason="lost">l</supplied>· <supplied reason="lost">dalapan</supplied>·
-<supplied reason="lost">d</supplied><unclear>raṁ</unclear> vraḥ kalaśa<!-- vraḥ kalaśa was read by Finot but no part of it can be confirmed from est. EFEO n. 334 except the top of the r in vraḥ --> <gap reason="illegible" quantity="4" unit="character"/> <supplied reason="lost">kara māḥ sa Ayam̃ṅ·<!-- wrong reading forn Asam̃ṅ·? --> māḥ sā pāk· pluḥ naṁ thil· pirak· srakvak· ñ</supplied>ū <unclear>sarut</unclear>u<unclear>ḥ thil</unclear>·
+<supplied reason="lost">d</supplied><unclear>raṁ</unclear> vraḥ kalaśa<!-- vraḥ kalaśa was read by Finot but no part of it can be confirmed from est. EFEO n. 334 except the top of the r in vraḥ --> <gap reason="illegible" quantity="4" unit="character"/> <supplied reason="lost">kara māḥ sā Ayam̃ṅ·<!-- wrong reading forn Asam̃ṅ·? or sa yam̃ṅ  --> māḥ sā pāk· pluḥ naṁ thil· pirak· srakvak· ñ</supplied>ū <unclear>sarut</unclear>u<unclear>ḥ thil</unclear>·
 <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>ra</seg>
 <gap reason="illegible" quantity="1" unit="character"/> <supplied reason="lost">pe</supplied><lb
 n="7" break="no"/>nda pāk· rutuḥ thil· sanraum̃ pirak· kluv· penda kluv· rutuḥ dvā pluḥ thil· māḥ huluv· sanrauṅ<unclear>·</unclear>
@@ -134,11 +134,15 @@ sa <unclear>p</unclear>luḥ dvā <unclear>th</unclear>i<unclear>l</unclear>· <
                </listApp>
          </div>
          <div type="translation" resp="part:argr part:sapi">
-           <p>Hail! In <supplied reason="subaudible">the year of</supplied> the Śaka king 1036: <supplied reason="subaudible">that was</supplied> when Y.P.K. Śrī Harivarmadeva who was the nephew of Y.P.K. Śrī Jaya Indravarmadeva <gap reason="lost"/> saw that Y.P.K. Śrīśānabhadreśvara here had a broken roof, not like in former times. And Y.P.K. Harivarmadeva, he built an <foreign>anvak</foreign> <supplied reason="subaudible">and</supplied> a <foreign>tumvrak</foreign>
-         </p>
-         <p><!--début de la traduction de sapi-->... … he built one roof <supplied reason="subaudible">for</supplied> the god, one again <supplied reason="subaudible">for</supplied> the god. And he built an silver <foreign>anvak</foreign>, he placed a roof<!--sapi2argr ne pourrions nous pas traduire hatap par construire ?--> again in this <supplied reason="subaudible">year <foreign>śaka</foreign></supplied><foreign>rāja</foreign> twice <!-- var p. 455/531 PDF. Vāra sanskrit--> <supplied reason="subaudible">He</supplied> placed a roof on the tower of Y.P.K. Śrīśānabhadreśvara, and he offered :
-         One golden tray, of 190 <foreign>thil</foreign>.
-         
+           <p>Hail! In <supplied reason="subaudible">the year of</supplied> the Śaka king 1036: <supplied reason="subaudible">that was</supplied> when Y.P.K. Śrī Harivarmadeva who was the nephew of Y.P.K. Śrī Jaya Indravarmadeva <gap reason="lost"/> saw that Y.P.K. Śrīśānabhadreśvara here had a broken roof, not like in former times. And Y.P.K. Harivarmadeva, he built an <foreign>anvak</foreign> <supplied reason="subaudible">and</supplied> a <foreign>tumvrak</foreign> (or: a glittering <foreign>anvak</foreign>).
+           He put a roof on one <foreign>yǝṅ</foreign>, and one more <foreign>yǝṅ</foreign>.
+           He built a silver <foreign>anvak</foreign>. He again put a roof, in that <supplied reason="subaudible">year of the Śaka</supplied> king. So, two times he also roofed the  tower of Y.P.K. Śrīśānabhadreśvara. 
+           He offered:
+            one golden tray, of 190 <foreign>thil</foreign> <supplied reason="subaudible">and</supplied> silver for its <foreign>srakvak</foreign>, of 49 <foreign>thil</foreign>;
+            one golden <foreign>dradīk</foreign>, of 62 <foreign>thil</foreign>;
+            one golden cord, of 62 <foreign>thil</foreign>;
+            <foreign>thil</foreign>
+
          </p>
          <div type="translation" xml:lang="fra" source="bib:Finot1904_05">
            <p n="1-4">Bonheur ! En <foreign>śakarāja</foreign> 1036, au temps de S. M. Śrī Harivarmadeva, neveu de S. M. Śrī Indravarmadeva...... voyant que le dieu Śrīśānabhadreśvara.......... précédemment, S. M. Śrī Harivarmadeva fit faire........ d'argent. Il fit tout cela en cette <supplied reason="subaudible">année <foreign>śaka</foreign></supplied><foreign>rāja</foreign> deux fois. Il bâtit une tour <supplied reason="explanation"><foreign>prāsāda</foreign></supplied> au dieu Śrīśānabhadreśvara, et il donna :

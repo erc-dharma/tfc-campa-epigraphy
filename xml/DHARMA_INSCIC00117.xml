@@ -137,5 +137,5 @@
    <text xml:space="preserve"><body><div type="edition" xml:lang="x-oldcam-Latn"> 
                  <ab>pu vyā</ab>
             </div><div type="translation"><p>Her majesty the queen
-                </p></div><div type="translation" xml:lang="fra"><p>Sa majesté la reine</p></div><div type="bibliography"><p>Read and interpreted in <bibl><ptr target="bib:finot-1904c"/><citedRange unit="page">679</citedRange></bibl>, whence the present edition.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><!-- <bibl><ptr target="cic-bibl:finot-1903"/>: <biblScope>635</biblScope>.</bibl>  --><bibl><ptr target="bib:parmentier-1909"/><citedRange unit="page">556</citedRange></bibl></listBibl></div></body></text>
+                </p></div><div type="translation" xml:lang="fra"><p>Sa majesté la reine</p></div><div type="bibliography"><p>Read and interpreted in <bibl><ptr target="bib:Finot1904_04"/><citedRange unit="page">679</citedRange></bibl>, whence the present edition.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><!-- <bibl><ptr target="cic-bibl:finot-1903"/>: <biblScope>635</biblScope>.</bibl>  --><bibl><ptr target="bib:Parmentier1909_01"/><citedRange unit="page">556</citedRange></bibl></listBibl></div></body></text>
 </TEI>

@@ -148,7 +148,7 @@
          </div><div type="apparatus">
             <div type="textpart">
                <head xml:lang="eng">C. 127.1</head>
-               <listApp><app loc="2"><lem>jaya<unclear>ti</unclear></lem><rdg source="bib:Finot">jayadā<supplied reason="lost">naṁ</supplied></rdg><note>This reading was repeated, without square brackets and introducing a new variation (<foreign>prakāśavarmmā</foreign>), in <bibl><ptr target="bib:schweyer-2009a"/><citedRange unit="page">35, note 60</citedRange></bibl>.</note></app></listApp>
+               <listApp><app loc="2"><lem>jaya<unclear>ti</unclear></lem><rdg source="bib:Finot">jayadā<supplied reason="lost">naṁ</supplied></rdg><note>This reading was repeated, without square brackets and introducing a new variation (<foreign>prakāśavarmmā</foreign>), in <bibl><ptr target="bib:Schweyer2009_01"/><citedRange unit="page">35, note 60</citedRange></bibl>.</note></app></listApp>
             </div>
          </div>
       <div type="translation">
@@ -169,5 +169,5 @@
             <p>Seigneur du Campā.</p>
          </div>
       </div>
-      <div type="bibliography"><p>Translated in <bibl><ptr target="bib:finot-1915c"/><citedRange unit="page">112</citedRange></bibl>; whence <bibl><ptr target="bib:majumdar-1927"/><citedRange unit="page">28</citedRange></bibl> and <bibl><ptr target="bib:golzio-2004"/><citedRange unit="page">12</citedRange></bibl>. The present edition and translation after <bibl><ptr target="bib:ECIC-III"/><citedRange unit="page">463-464</citedRange></bibl>.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:schweyer-2009a"/><citedRange unit="page">35</citedRange></bibl><bibl><ptr target="bib:southworth-2011"/><citedRange unit="page">111</citedRange></bibl></listBibl></div></body></text>
+      <div type="bibliography"><p>Translated in <bibl><ptr target="bib:Finot1915_04"/><citedRange unit="page">112</citedRange></bibl>; whence <bibl><ptr target="bib:Majumdar1985_01"/><citedRange unit="page">28</citedRange></bibl> and <bibl><ptr target="bib:Golzio2004_01"/><citedRange unit="page">12</citedRange></bibl>. The present edition and translation after <bibl><ptr target="bib:Griffiths+al2008-2009_01"/><citedRange unit="page">463-464</citedRange></bibl>.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Schweyer2009_01"/><citedRange unit="page">35</citedRange></bibl><bibl><ptr target="bib:Southworth2011_01"/><citedRange unit="page">111</citedRange></bibl></listBibl></div></body></text>
 </TEI>

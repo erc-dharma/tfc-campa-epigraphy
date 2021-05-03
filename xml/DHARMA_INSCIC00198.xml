@@ -142,5 +142,5 @@
                    <head xml:lang="eng">Lateral</head>
                 <ab>Virtually unreadable.</ab>
                 </div>
-            </div><div type="translation"><p/></div><div type="translation" xml:lang="fra"><p/></div><div type="commentary"><p/></div><div type="bibliography"><p/><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:parmentier-1909"/><citedRange unit="page">285</citedRange></bibl><bibl><ptr target="bib:parmentier-1918"/><citedRange unit="page">243</citedRange></bibl></listBibl></div></body></text>
+            </div><div type="translation"><p/></div><div type="translation" xml:lang="fra"><p/></div><div type="commentary"><p/></div><div type="bibliography"><p/><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Parmentier1909_01"/><citedRange unit="page">285</citedRange></bibl><bibl><ptr target="bib:Parmentier1918_01"/><citedRange unit="page">243</citedRange></bibl></listBibl></div></body></text>
 </TEI>

@@ -5,85 +5,94 @@
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Đông Dương first stela (C. 66)</title>
-                <respStmt>
-                   <resp>EpiDoc Encoding</resp>
-                   <persName ref="part:sapi">
-                      <forename>Salomé</forename>
-                      <surname>Pichon</surname>
-                   </persName>
-                </respStmt>
-                <respStmt>
-                   <resp>intellectual authorship of edition</resp>
-                   <persName ref="part:argr">
-                      <forename>Arlo</forename>
-                      <surname>Griffiths</surname>
-                   </persName>
-                </respStmt>
-            </titleStmt>
-            <publicationStmt>
-                <authority>DHARMA</authority>
-                <pubPlace>Paris</pubPlace>
-                <idno type="filename">DHARMA_INSCIC00066</idno>
-                <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/">
-                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Đông Dương first stela (C. 66)</title>
+            <respStmt>
+               <resp>EpiDoc Encoding</resp>
+               <persName ref="part:sapi">
+                  <forename>Salomé</forename>
+                  <surname>Pichon</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_INSCIC00066</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
                             Licence. To view a copy of the licence, visit
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Arlo Griffiths &amp; Salomé Pichon.</p>
-                    </licence>
-                </availability>
-                <date from="2019" to="2025">2019-2025</date>
-            </publicationStmt>
-            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
-                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
-                    <msIdentifier>
-                        <repository>DHARMAbase</repository>
-                        <idno/><!-- don't modify this -->
-                    </msIdentifier>
-                    <msContents><!-- describe the intellectual content of an inscription -->
-                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
-                    </msContents>
-                    <physDesc>
-                        <handDesc>
-                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
-                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths &amp; Salomé Pichon.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+            <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+                  <!-- don't modify this -->
+               </msIdentifier>
+               <msContents><!-- describe the intellectual content of an inscription -->
+                  <summary><!-- //// NOT MANDATORY  ////--></summary>
+                  <!-- offers the possibility to give a summary of the inscription's content -->
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                     <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
 						<handNote xml:id="Pallava00001_hand2"></handNote>
 					 -->
-                        </handDesc>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
-            </projectDesc>
-            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
-            <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
-                </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-                </prefixDef>
-            </listPrefixDef>
-        </encodingDesc>
-        <revisionDesc>
-          <change who="part:sapi" when="2021-04-19" status="draft">Adding translation and bibliography</change>
-          <change who="part:sapi" when="2021-03-03" status="draft">Few corrections.</change>
-            <change who="part:sapi" when="2021-03-02" status="draft">Continuing initial encoding of the inscription</change>
-            <change who="part:sapi" when="2021-02-12" status="draft">Beggining initial encoding of the inscription</change>
-        </revisionDesc>
-    </teiHeader>
-    <text xml:space="preserve">
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <!-- UPDATE the link once the release is made official -->
+         <listPrefixDef>
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="part:sapi" when="2021-04-19" status="draft">Adding translation and bibliography</change>
+         <change who="part:sapi" when="2021-03-03" status="draft">Few corrections.</change>
+         <change who="part:sapi" when="2021-03-02" status="draft">Continuing initial encoding of the inscription</change>
+         <change who="part:sapi" when="2021-02-12" status="draft">Beggining initial encoding of the inscription</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">
             <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A01"/><g type="?"/><!--sapi2argr ici il semblerait y avoir des symboles, mais je n'arrive pas à les identifier.--> śrīlakṣmīndralokeśvarāya<supplied reason="lost">namaḥ</supplied></ab>
@@ -100,8 +109,7 @@
               <l n="d"><seg met="------+++-++-+="><gap reason="lost" quantity="15" unit="character"/></seg></l>
             </lg>
             <lg n="3-5"><!--sapi2argr Comment puis je encoder une telle lacune ? -->
-              <lb n="A3"/>bhadreśvara<gap reason="illegible" quantity="45" unit="character" precision="low"/><lb
-              n="A4" break="no"/>ravacanam̃ buddhi<gap reason="illegible" quantity="43" unit="character" precision="low"/>
+              <lb n="A3"/>bhadreśvara<gap reason="illegible" quantity="45" unit="character" precision="low"/><lb n="A4" break="no"/>ravacanam̃ buddhi<gap reason="illegible" quantity="43" unit="character" precision="low"/>
               <lb n="A5"/><gap reason="illegible" quantity="1" unit="line"/>
               <lb n="A6"/>bhr̥guh presitaś ca<g type="ddandaPlain">.</g>
             </lg>
@@ -295,11 +303,7 @@
                 <l n="c">kaulīrendau ca puṣye śucisitadivase pañcame śrīvivr̥ddhe</l>
                 <l n="d">sa śrīmān indravarmmā sva<lb n="B19" break="no"/>bhayadam adhikam̃ svājñayātisṭhipad yaḥ<g type="complexFinial">.</g></l>
               </lg>
-              <p>Atha sa Eva narapatiś śrī jayaIndravarmmā mahārājādhirājo nekapūrvvajanmāntaratapaḥphala<lb
-              n="B20" break="no"/>viśeṣāt samadhigatacampādhirājo daivaprasādayogāt sakaladiṅmaṇḍalākāśavyāpyanekabuddhiprakarṣasam̃pad atulakīrttiḥ kīrttisam̃padaś śrīsamudayā<lb
-              n="B21" break="no"/>bhivarddhitacittapras<unclear>āda</unclear>nayanavadanaś śrī maheśvaralokasan<unclear>t</unclear>ānajādi<unclear>p</unclear>rabhava<unclear>te</unclear><gap reason="lost" quantity="9" unit="character" precision="low"/>iśrava śrī la<unclear>kṣ</unclear>mīndrabh<unclear>ūm</unclear>ī<unclear>śvara</unclear>grāmasvāmibhūtas sakalabhuva<lb
-              n="B22" break="no"/>naguruvareṣṭo bhavad iti<g type="complexFinial">.</g> punar api tathaiva ṣaṣ<gap reason="lost" quantity="1" unit="character"/><unclear>ṇa</unclear><gap reason="lost" quantity="21" unit="character" precision="low"/><gap reason="illegible" quantity="8" unit="character" precision="low"/> śrī avaloki<lb
-              n="B23" break="no"/>teśva<unclear>ra</unclear><gap reason="lost" quantity="2" unit="character"/> <supplied reason="lost">śr</supplied>ī <supplied reason="lost">I</supplied>nd<supplied reason="lost">dra</supplied>varmma<supplied reason="lost">d</supplied>e<supplied reason="lost">va</supplied><gap reason="lost" quantity="44" unit="character" precision="low"/> nidhir adhi
+              <p>Atha sa Eva narapatiś śrī jayaIndravarmmā mahārājādhirājo nekapūrvvajanmāntaratapaḥphala<lb n="B20" break="no"/>viśeṣāt samadhigatacampādhirājo daivaprasādayogāt sakaladiṅmaṇḍalākāśavyāpyanekabuddhiprakarṣasam̃pad atulakīrttiḥ kīrttisam̃padaś śrīsamudayā<lb n="B21" break="no"/>bhivarddhitacittapras<unclear>āda</unclear>nayanavadanaś śrī maheśvaralokasan<unclear>t</unclear>ānajādi<unclear>p</unclear>rabhava<unclear>te</unclear><gap reason="lost" quantity="9" unit="character" precision="low"/>iśrava śrī la<unclear>kṣ</unclear>mīndrabh<unclear>ūm</unclear>ī<unclear>śvara</unclear>grāmasvāmibhūtas sakalabhuva<lb n="B22" break="no"/>naguruvareṣṭo bhavad iti<g type="complexFinial">.</g> punar api tathaiva ṣaṣ<gap reason="lost" quantity="1" unit="character"/><unclear>ṇa</unclear><gap reason="lost" quantity="21" unit="character" precision="low"/><gap reason="illegible" quantity="8" unit="character" precision="low"/> śrī avaloki<lb n="B23" break="no"/>teśva<unclear>ra</unclear><gap reason="lost" quantity="2" unit="character"/> <supplied reason="lost">śr</supplied>ī <supplied reason="lost">I</supplied>nd<supplied reason="lost">dra</supplied>varmma<supplied reason="lost">d</supplied>e<supplied reason="lost">va</supplied><gap reason="lost" quantity="44" unit="character" precision="low"/> nidhir adhi
               <lb n="B24"/><gap reason="lost" quantity="1" unit="line"/>
               <lb n="B25"/>dhvadvayam̃ <unclear>s</unclear>u<unclear>varṇṇa</unclear><gap reason="lost" quantity="52" unit="character" precision="low"/>
               </p>
@@ -375,19 +379,10 @@
                 <l n="c">kṣetrā<lb n="D9" break="no"/>ṇy etāni sarvvāṇi</l>
                 <l n="d">lokeśāya nr̥po dadat·<g type="complexFinial">.</g></l>
               </lg>
-              <p>Api ca yaś śrī I<lb
-                n="D11" break="no"/>ndravarmmā kṣetrāni sadhanyāni dāsīdā<lb
-                n="D12" break="no"/>sān sarajatasuvarṇṇakaṅsaloha<lb
-                n="D13" break="no"/>tāmrādīni dravyāṇi śrī lakṣmīndralo<lb
-                n="D14" break="no"/>keśvarāya bhikṣusaṅghaparibhogā<lb
-                n="D15" break="no"/>ya dharmmasantatiparipūraṇārthāya da<lb
-                n="D16" break="no"/>ttavān iti<g type="dashTriple">.</g><!--sapi2argr Ici j'ai inventé un symbole à partir de la taxonomie mais je ne suis pas sûre--> ye rājānaḥ kṣatriy<supplied reason="lost">ā vā</supplied>
+              <p>Api ca yaś śrī I<lb n="D11" break="no"/>ndravarmmā kṣetrāni sadhanyāni dāsīdā<lb n="D12" break="no"/>sān sarajatasuvarṇṇakaṅsaloha<lb n="D13" break="no"/>tāmrādīni dravyāṇi śrī lakṣmīndralo<lb n="D14" break="no"/>keśvarāya bhikṣusaṅghaparibhogā<lb n="D15" break="no"/>ya dharmmasantatiparipūraṇārthāya da<lb n="D16" break="no"/>ttavān iti<g type="dashTriple">.</g><!--sapi2argr Ici j'ai inventé un symbole à partir de la taxonomie mais je ne suis pas sûre--> ye rājānaḥ kṣatriy<supplied reason="lost">ā vā</supplied>
                 <lb n="D17"/>brāhmaṇā vāmātyā vā <gap reason="lost" quantity="2" unit="character"/>
                 <lb n="D18"/>vā va<choice><sic>n</sic><corr>ṇ</corr></choice>ijo vā haranti nāśayant<unclear>i</unclear> <gap reason="lost" quantity="1" unit="character"/>
-                <lb n="D19"/>ḍhayanti vā te sarvve mahārauravaṁ ga<lb
-                n="D20" break="no"/>cchantu<g type="complexFinial">.</g> punar api te rakṣanti pari<lb
-                n="D21" break="no"/>pālayanti Āviṣkurvvanti sarvve sva<lb
-                n="D22" break="no"/>rggapuraṁ mokṣapurañ ca yatheṣṭaṁ
+                <lb n="D19"/>ḍhayanti vā te sarvve mahārauravaṁ ga<lb n="D20" break="no"/>cchantu<g type="complexFinial">.</g> punar api te rakṣanti pari<lb n="D21" break="no"/>pālayanti Āviṣkurvvanti sarvve sva<lb n="D22" break="no"/>rggapuraṁ mokṣapurañ ca yatheṣṭaṁ
                 <lb n="D23"/>gacchantu bhavantas sarvve<g type="complexFinial">.</g><g type="complexFinial">.</g>
               </p>
               </div>

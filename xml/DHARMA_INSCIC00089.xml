@@ -5,82 +5,92 @@
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Stela of Mỹ Sơn (C. 89)</title>
-                <respStmt>
-                   <resp>EpiDoc Encoding</resp>
-                   <persName ref="part:sapi">
-                      <forename>Salomé</forename>
-                      <surname>Pichon</surname>
-                   </persName>
-                </respStmt>
-                <respStmt>
-                   <resp>intellectual authorship of edition</resp><!--sapi2argr Ajouter également Amandine Lepoutre ?-->
-                   <persName ref="part:argr">
-                      <forename>Arlo</forename>
-                      <surname>Griffiths</surname>
-                   </persName>
-                </respStmt>
-            </titleStmt>
-            <publicationStmt>
-                <authority>DHARMA</authority>
-                <pubPlace>Paris</pubPlace>
-                <idno type="filename">DHARMA_INSCIC00089</idno>
-                <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/">
-                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Stela of Mỹ Sơn (C. 89)</title>
+            <respStmt>
+               <resp>EpiDoc Encoding</resp>
+               <persName ref="part:sapi">
+                  <forename>Salomé</forename>
+                  <surname>Pichon</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <!--sapi2argr Ajouter également Amandine Lepoutre ?-->
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_INSCIC00089</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
                             Licence. To view a copy of the licence, visit
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Arlo Griffiths &amp; Salomé Pichon.</p>
-                    </licence>
-                </availability>
-                <date from="2019" to="2025">2019-2025</date>
-            </publicationStmt>
-            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
-                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
-                    <msIdentifier>
-                        <repository>DHARMAbase</repository>
-                        <idno/><!-- don't modify this -->
-                    </msIdentifier>
-                    <msContents><!-- describe the intellectual content of an inscription -->
-                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
-                    </msContents>
-                    <physDesc>
-                        <handDesc>
-                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
-                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths &amp; Salomé Pichon.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+            <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+                  <!-- don't modify this -->
+               </msIdentifier>
+               <msContents><!-- describe the intellectual content of an inscription -->
+                  <summary><!-- //// NOT MANDATORY  ////--></summary>
+                  <!-- offers the possibility to give a summary of the inscription's content -->
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                     <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
 						<handNote xml:id="Pallava00001_hand2"></handNote>
 					 -->
-                        </handDesc>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
-            </projectDesc>
-            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
-            <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
-                </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-                </prefixDef>
-            </listPrefixDef>
-        </encodingDesc>
-        <revisionDesc>
-          <change who="part:sapi" when="2021-03-23" status="draft">Initial encoding of the inscription</change>
-        </revisionDesc>
-    </teiHeader>
-    <text xml:space="preserve">
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <!-- UPDATE the link once the release is made official -->
+         <listPrefixDef>
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="part:sapi" when="2021-03-23" status="draft">Initial encoding of the inscription</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="ocm-Latn">
            <p><milestone type="pagelike" unit="face" n="A"/>
@@ -88,28 +98,15 @@
            <lb n="A2"/>harivarmmadeva ciy· tham̃ṅ· candya<unclear>m̃</unclear> nan· kā rakṣā rāja parimāna Ekamāsa mam̃n· hetu yām̃po ku śrī
            <lb n="A3"/>jaya Inravarmmadeva nan· vālasvabhāva vlo<unclear>m̃</unclear> kam̃n· pyan· thuv· hitāhitavastu si marakṣā rāja tra dunan·
            <lb n="A4"/>kā Aviḥ phala karmma Upak nyāya ṅan· rakṣā rāja trā mam̃n· yām̃ po ku śrī jaya Inravarmmadeva nan·
-           <lb n="A5"/>ṅan· ya doṁ senāpatī brahmaṇa hora paṇdita kalpācāryya maddan· Antaḥpurikā yām̃ po ku śrī ha<lb
-           n="A6" break="no"/>rivarmmadeva Avista viveka Imyaṅ· siy· yam̃ṅ· jem̃sī rakṣā rāja mam̃n· ra mvoḥ pu lyam̃ śrī yuvarāja
+           <lb n="A5"/>ṅan· ya doṁ senāpatī brahmaṇa hora paṇdita kalpācāryya maddan· Antaḥpurikā yām̃ po ku śrī ha<lb n="A6" break="no"/>rivarmmadeva Avista viveka Imyaṅ· siy· yam̃ṅ· jem̃sī rakṣā rāja mam̃n· ra mvoḥ pu lyam̃ śrī yuvarāja
            <lb n="A7"/>mahāsenāpati<!--sapi2argr Ou lire ī ?--> ciy· pam̃ṅ·<!--Note du rtf : or read tham̃ṅ·? Cf. l. 2 above. But cf. also C. 30 A1, l. 1.--> cralaum̃ ya myak· prāṇa yām̃po ku śrī jaya Inravarmmadeva ya
            <lb n="A8"/><unclear>A</unclear>diy· yām̃ po ku śrī harivarmmadeva nan· madā rājalakṣaṇa saṁpurṇṇa tūy· nyāya pu pov·
-           <lb n="A9"/>tana rayā cakravartti tra dunan· thuv· hitāhitavastu dharmma tyāga satyavacana karuṇā di sarvvabhāva ni<lb
-           n="A10" break="no"/>y· Avista raḥ pakṣapāta gnaṅ· rakṣā rāja si jem̃ yām̃ po ku śrī jaya Inravarmmadeva ya kumva<lb
-           n="A11" break="no"/>n· pu lyam̃ śrī yuvarāja mahāsenāpatī ṅan· brahmaṇa kṣatriya paṇdita hora kalpācāryya
-           <lb n="A12"/>maddan· ya <unclear>dom̃</unclear> Antaḥpurikā Avista Ekārtha<unclear>pādā ya vā</unclear> Aneka ya doṁ śubhavastu ṅan· sanaṅguḥ rā<lb
-           n="A13" break="no"/>ja śrī Avista nau po pu lyam̃ śrī yuvarāja mahāsenāpatī Abhi<unclear>ṣ</unclear>eka vriy· rāja <gap reason="illegible" quantity="1" unit="characters"/> <unclear>A</unclear>nan·<!--sapi2argr Ici, je lis un A indépendant, sans être certaine.--> yām̃
-           <lb n="A14"/>po ku śrī paramabodhisatva dauk· rakṣā rāja tuy<!-- commentaire rtf : tuy: or read tūy?--> tanatap· <unclear>vidhiḥ</unclear> tra ya doṁ senāpatī bra<lb
-           n="A15" break="no"/>hmaṇa paṇdita hora kalpācāryya Avista <gap reason="illegible" quantity="4" unit="characters"/> <unclear>yogyapigi kā</unclear> vriy· yām̃ po ku śrī parama<unclear>b</unclear><!--sapi2argr Ici, on a un phénonème très inhabituelle de division d'une syllable non ? Ou alors lire autre chose ?--><lb
-           n="A16" break="no"/>odhisatva niy· maAnan· yām̃ po ku śrī paramabodhisatva tuy· samvandha <unclear>sā</unclear> Artha nan· tra sāru<lb
-           n="A17" break="no"/> k· yām̃ po ku śrī paramabodhisatva niy· mahādharmma gnaṅ· clam̃ṅ· parārtha paklāḥ ya doṁ Urām̃ya <unclear>la</unclear><lb
-           n="A18" break="no"/>gaiḥ di Āpatkāla si ya doṁ pu pov· tana rayā vukam̃n· daṇda vuḥ di dadam̃n· yām̃padām̃hajai svam̃<lb
-           n="A19" break="no"/>n· vriy· nau tūy· hīnamaddhyottama <unclear>mapadaipadina duñū</unclear> mulam̃tra yām̃ po ku śrī parama<lb
-           n="A20" break="no"/>bodhisatva nan· ya vriy· bhogopabhoga kam̃n· senāpatī ṅan· ya doṁ Urām̃nagara campa
+           <lb n="A9"/>tana rayā cakravartti tra dunan· thuv· hitāhitavastu dharmma tyāga satyavacana karuṇā di sarvvabhāva ni<lb n="A10" break="no"/>y· Avista raḥ pakṣapāta gnaṅ· rakṣā rāja si jem̃ yām̃ po ku śrī jaya Inravarmmadeva ya kumva<lb n="A11" break="no"/>n· pu lyam̃ śrī yuvarāja mahāsenāpatī ṅan· brahmaṇa kṣatriya paṇdita hora kalpācāryya
+           <lb n="A12"/>maddan· ya <unclear>dom̃</unclear> Antaḥpurikā Avista Ekārtha<unclear>pādā ya vā</unclear> Aneka ya doṁ śubhavastu ṅan· sanaṅguḥ rā<lb n="A13" break="no"/>ja śrī Avista nau po pu lyam̃ śrī yuvarāja mahāsenāpatī Abhi<unclear>ṣ</unclear>eka vriy· rāja <gap reason="illegible" quantity="1" unit="characters"/> <unclear>A</unclear>nan·<!--sapi2argr Ici, je lis un A indépendant, sans être certaine.--> yām̃
+           <lb n="A14"/>po ku śrī paramabodhisatva dauk· rakṣā rāja tuy<!-- commentaire rtf : tuy: or read tūy?--> tanatap· <unclear>vidhiḥ</unclear> tra ya doṁ senāpatī bra<lb n="A15" break="no"/>hmaṇa paṇdita hora kalpācāryya Avista <gap reason="illegible" quantity="4" unit="characters"/> <unclear>yogyapigi kā</unclear> vriy· yām̃ po ku śrī parama<unclear>b</unclear><!--sapi2argr Ici, on a un phénonème très inhabituelle de division d'une syllable non ? Ou alors lire autre chose ?--><lb n="A16" break="no"/>odhisatva niy· maAnan· yām̃ po ku śrī paramabodhisatva tuy· samvandha <unclear>sā</unclear> Artha nan· tra sāru<lb n="A17" break="no"/> k· yām̃ po ku śrī paramabodhisatva niy· mahādharmma gnaṅ· clam̃ṅ· parārtha paklāḥ ya doṁ Urām̃ya <unclear>la</unclear><lb n="A18" break="no"/>gaiḥ di Āpatkāla si ya doṁ pu pov· tana rayā vukam̃n· daṇda vuḥ di dadam̃n· yām̃padām̃hajai svam̃<lb n="A19" break="no"/>n· vriy· nau tūy· hīnamaddhyottama <unclear>mapadaipadina duñū</unclear> mulam̃tra yām̃ po ku śrī parama<lb n="A20" break="no"/>bodhisatva nan· ya vriy· bhogopabhoga kam̃n· senāpatī ṅan· ya doṁ Urām̃nagara campa
            <lb n="A21"/>kā nirupadrava svasti dauk· samū p<unclear>ū</unclear>rvvakāla mulam̃ tra yām̃ po ku śrī jaya Inravarmmadeva
-           <lb n="A22"/>ciy· vāk· ya kumvan· yām̃ po ku śrī paramabodhisatva kā nau bhikṣa Aṅguy· sukhasanto<lb
-           n="A23" break="no"/>ṣa tūy· yathā Iṣṭa mulam̃ trā yām̃ po ku śrī paramabodhisatva <unclear>daḥ</unclear> hake <unclear>du po</unclear>v·
-           <lb n="A24"/>ya marakṣā rāja di nagara campa Andap· niy· mam̃n· yām̃ po ku śrī paramabodhisatva payva<lb
-           n="A25" break="no"/>r· dharmma ṅan· tanatap· maddan· sakalavandhuvargga yām̃ po ku śrī paramabodhisatva di du po<!--sapi2argr note rtf : pa-yvar: cf. A&C p. 401.--><lb
-           n="A26" break="no"/> v· sadākāla
+           <lb n="A22"/>ciy· vāk· ya kumvan· yām̃ po ku śrī paramabodhisatva kā nau bhikṣa Aṅguy· sukhasanto<lb n="A23" break="no"/>ṣa tūy· yathā Iṣṭa mulam̃ trā yām̃ po ku śrī paramabodhisatva <unclear>daḥ</unclear> hake <unclear>du po</unclear>v·
+           <lb n="A24"/>ya marakṣā rāja di nagara campa Andap· niy· mam̃n· yām̃ po ku śrī paramabodhisatva payva<lb n="A25" break="no"/>r· dharmma ṅan· tanatap· maddan· sakalavandhuvargga yām̃ po ku śrī paramabodhisatva di du po<!--sapi2argr note rtf : pa-yvar: cf. A&C p. 401.--><lb n="A26" break="no"/> v· sadākāla
            <lb n="A27"/>
            <lb n="A28"/>
            <lb n="A29"/>
@@ -122,62 +119,35 @@
            <lb n="A36"/>
            <lb n="A37"/>
            <milestone type="pagelike" unit="face" n="B"/>
-           <lb n="B1"/><g type="ddandaPlain">.</g><g type="dandaPlain">.</g><g type="floretQuatrefoil"/><g type="ddandaPlain">.</g><g type="dandaPlain">.</g> śrī<g type="ddandaPlain">.</g><g type="dandaPlain">.</g> madā pu pom̃ tana rayā sa driy· sidaḥ yām̃ pom̃ ku śrī jaya Indravarmmadeva ya paramarājādhi<lb
-           n="B2" break="no"/>rāja vik· sthāna janmotpatti di lamvīṅ· campapura yam̃ṅ· Utkṛṣṭa Ubhaya pariśuddhi santāna tra yām̃
-           <lb n="B3"/>po ku śrī jaya Indravarmmadeva nan· trā madā vāttriṅśalakṣaṇasampanna <!--sapi2argr °kṣaṇa°: Ici, j'ai calqué ma lecture sur vos hypothèses à propos du s de Finot qui serait peut être un ṣ. J'ai ajouté cela à l'apparatus--> maknā nau ṅan· sau<lb
-           n="B4" break="no"/>ndaryya rūpa Abhinavayauvana sāmarthya catura suguṇa sahajajātiśūra sarvvāyudhakuśala ma<lb
-           n="B5" break="no"/>hāparākrama gnam̃ paslyam̃ ya doṁ ripuvargga sadākāla tra thum̃ tatvajñāna sahita maknā ṅan· paramārthava<lb
-           n="B6" break="no"/>stu Upak· Ahaṅkāra tra dunan· śānticitta karuṇā di ya doṁ sarvvabhāva nim̃ tra dunan· mahātyāga dhairyya gā<!--sapi2argr Ici je lis gā au lieu de ga, sans en être certaine.--><lb
-           n="B7" break="no"/>mbhirabuddhi tra dunan· kā vavā sanamū di trivargga sidaḥ Artha dharmma kāma Upak· vik·<!--sapi2argr Ici je lis i là où Finot lit ī.--> pakṣapāta<!--sapi2argr même logique plus haut pour les ṣ--> tra dunan· vavā caturu<lb
-           n="B8" break="no"/>pāya sidaḥ sāma daṇda bheda Upapradāna di śatrumaṇdala mitramanḍala Udāsīnagaṇa klum̃
+           <lb n="B1"/><g type="ddandaPlain">.</g><g type="dandaPlain">.</g><g type="floretQuatrefoil"/><g type="ddandaPlain">.</g><g type="dandaPlain">.</g> śrī<g type="ddandaPlain">.</g><g type="dandaPlain">.</g> madā pu pom̃ tana rayā sa driy· sidaḥ yām̃ pom̃ ku śrī jaya Indravarmmadeva ya paramarājādhi<lb n="B2" break="no"/>rāja vik· sthāna janmotpatti di lamvīṅ· campapura yam̃ṅ· Utkṛṣṭa Ubhaya pariśuddhi santāna tra yām̃
+           <lb n="B3"/>po ku śrī jaya Indravarmmadeva nan· trā madā vāttriṅśalakṣaṇasampanna <!--sapi2argr °kṣaṇa°: Ici, j'ai calqué ma lecture sur vos hypothèses à propos du s de Finot qui serait peut être un ṣ. J'ai ajouté cela à l'apparatus--> maknā nau ṅan· sau<lb n="B4" break="no"/>ndaryya rūpa Abhinavayauvana sāmarthya catura suguṇa sahajajātiśūra sarvvāyudhakuśala ma<lb n="B5" break="no"/>hāparākrama gnam̃ paslyam̃ ya doṁ ripuvargga sadākāla tra thum̃ tatvajñāna sahita maknā ṅan· paramārthava<lb n="B6" break="no"/>stu Upak· Ahaṅkāra tra dunan· śānticitta karuṇā di ya doṁ sarvvabhāva nim̃ tra dunan· mahātyāga dhairyya gā<!--sapi2argr Ici je lis gā au lieu de ga, sans en être certaine.--><lb n="B7" break="no"/>mbhirabuddhi tra dunan· kā vavā sanamū di trivargga sidaḥ Artha dharmma kāma Upak· vik·<!--sapi2argr Ici je lis i là où Finot lit ī.--> pakṣapāta<!--sapi2argr même logique plus haut pour les ṣ--> tra dunan· vavā caturu<lb n="B8" break="no"/>pāya sidaḥ sāma daṇda bheda Upapradāna di śatrumaṇdala mitramanḍala Udāsīnagaṇa klum̃
            <lb n="B9"/>yathākrama tra dunan· kā paslyam̃ ṣaḍarivargga sidaḥ kāma krodha lobha moha mada mātsaryya
-           <lb n="B10"/>tra dunan· thum̃ ṣaḍgunyābhiprāya tra dunan· kā tatap· tūm̃ manumārgga ya sapluḥ dalapan· prakāra tra mū<lb
-           n="B11" break="no"/>lam̃ trā sidaḥ di kaliyuga nim̃ kintu yaḥ mahāpuruṣa nan· kā tmum̃ rājaparibhoga ṅan· guṇa sā prakāra
-           <lb n="B12"/>mam̃n· tathāpi kaliḥ kā vā puruṣa nan· mohapramadana ñāk· lupā yogaddhyāna samādhi ṅā dharmmapuṇya para<lb
-           n="B13" break="no"/>hitāhitayogyāyogyakaraṇa<choice><sic>ma</sic><corr>m·</corr></choice> pajem̃ yaśa kīrtti ṅan· pandyā kam̃ Ātmā drim̃ di loka nim̃ ṅan· paraloka
+           <lb n="B10"/>tra dunan· thum̃ ṣaḍgunyābhiprāya tra dunan· kā tatap· tūm̃ manumārgga ya sapluḥ dalapan· prakāra tra mū<lb n="B11" break="no"/>lam̃ trā sidaḥ di kaliyuga nim̃ kintu yaḥ mahāpuruṣa nan· kā tmum̃ rājaparibhoga ṅan· guṇa sā prakāra
+           <lb n="B12"/>mam̃n· tathāpi kaliḥ kā vā puruṣa nan· mohapramadana ñāk· lupā yogaddhyāna samādhi ṅā dharmmapuṇya para<lb n="B13" break="no"/>hitāhitayogyāyogyakaraṇa<choice><sic>ma</sic><corr>m·</corr></choice> pajem̃ yaśa kīrtti ṅan· pandyā kam̃ Ātmā drim̃ di loka nim̃ ṅan· paraloka
            <lb n="B14"/>na si yām̃ po ku śrī jaya Indravarmmadeva kā madā sampūrṇṇa ṅan· guṇa nan· tra rumam̃ dunan· kā tmum̃ rājaparibhoga mam̃n· dunan·
            <lb n="B15"/>kā thum̃ daḥ śarīra ṅan· paribhoga nim̃ pā<unclear>dāḥ</unclear><!--sapi2argr Ici le terme n'a pas été lu par Finot, c'est une premier jet qui est sans doute incorrect. Je ne dois pas oublier de corriger l'apparatus si le terme change.--> Anitya mam̃n· si jeṅ<unclear>·</unclear> dunan· kevalasādhāra Utsāha di yogaddhyānasamādhi
-           <lb n="B16"/>vavā dharmma sadākāla punaḥ mulam̃ trā sidaḥ nagara campa nim̃ kintu kā liṅyak· śūnyākāra <!--sapi2argr note rtf : śūnyākāra: śūnyā kā ra Finot. Voir C. 84.1. Dois-je inclure les découpages des mots dans l'apparatus ?)--> nau hetu śanāpa navai<!--sapi2argr śanāpa navai: śanāpana vai Finot. Voir C. 90 C, l. 22. Même question.--> ta<lb
-           n="B17" break="no"/>thāpi si yām̃ po ku śrī jaya Indravarmmadeva yam̃ṅ· devatāmūrtti nan· kā pajem̃ nagara rumam̃ jumvuv· patruḥ tam̃l· rilvai kā syāṁ
-           <lb n="B18"/>samṛddhi samū pūrvvakāla mulam̃ tra ra vuḥ vihāra śrī Indralokeśvara di tranūl· vijaya ra vuḥ samasta Upabhoga devatā nan· pa<lb
-           n="B19" break="no"/>ripūrṇṇa tra ra punaḥ ya doṁ devatā vukam̃n· Avista ra vuḥ suvarṇṇakośa ṅan· rajitakośa maddan· hemamukhamaku<lb
-           n="B20" break="no"/>ṭa dadam̃n· sthāna devatā dinan· tra ra vuḥ Urāṅ· ṅan· lumvau kruvāv· ṅan· samasta Upakaraṇa panūjā devatā dinan· mam̃n· ya doṁ
+           <lb n="B16"/>vavā dharmma sadākāla punaḥ mulam̃ trā sidaḥ nagara campa nim̃ kintu kā liṅyak· śūnyākāra <!--sapi2argr note rtf : śūnyākāra: śūnyā kā ra Finot. Voir C. 84.1. Dois-je inclure les découpages des mots dans l'apparatus ?)--> nau hetu śanāpa navai<!--sapi2argr śanāpa navai: śanāpana vai Finot. Voir C. 90 C, l. 22. Même question.--> ta<lb n="B17" break="no"/>thāpi si yām̃ po ku śrī jaya Indravarmmadeva yam̃ṅ· devatāmūrtti nan· kā pajem̃ nagara rumam̃ jumvuv· patruḥ tam̃l· rilvai kā syāṁ
+           <lb n="B18"/>samṛddhi samū pūrvvakāla mulam̃ tra ra vuḥ vihāra śrī Indralokeśvara di tranūl· vijaya ra vuḥ samasta Upabhoga devatā nan· pa<lb n="B19" break="no"/>ripūrṇṇa tra ra punaḥ ya doṁ devatā vukam̃n· Avista ra vuḥ suvarṇṇakośa ṅan· rajitakośa maddan· hemamukhamaku<lb n="B20" break="no"/>ṭa dadam̃n· sthāna devatā dinan· tra ra vuḥ Urāṅ· ṅan· lumvau kruvāv· ṅan· samasta Upakaraṇa panūjā devatā dinan· mam̃n· ya doṁ
            <lb n="B21"/>devatā dinan· kā saṁmṛddhi syāṁ tmum̃ panūjā dhāy· pūrvvakāla mulam̃ mam̃n ya doṁ sarvvajana caturvvarṇṇa sidaḥ brāhmaṇa
            <lb n="B22"/>kṣatriya vaiśya śūdra Avista ka pramuditamānasa ran· di yām̃ po ku śrī jaya Indravarmmadeva nan· samū
            <lb n="B23"/>svabhāva canrāditya <unclear>paran</unclear>· puṇdirīkavuṅā <unclear>bhireṣa</unclear><!--note rtf : bhireṣa: read cireṣa?--> ṅan· kumudavuṅā supara<!--note rtf : supara: read sumara?--> rim̃<g type="ddandaPlain">.</g> yām̃ po ku śrī jaya Inravarmmadeva dunan·
-           <lb n="B24"/>ya Īśvaramūrtti kā thum̃ daḥ yām̃ po ku śrīśānabhadreśvara nim̃ yaḥ īśvara sakala pratyakṣa di lo<lb
-           n="B25" break="no"/>ka nim̃ mam̃n· ra paṅap· suvarṇṇakośa ṣanmukha maknā ṅan· nāgabhūṣaṇa maddan· ratnarañjita si kā nivandha di śikha<lb
-           n="B26" break="no"/>ra makuṭa dinan· kintu lac· Urddhvakośa nan· madā hema vicitra si kā pajem̃ Ādhāra Urddhvamukha dvā nan· ṅan· matā sū<lb
-           n="B27" break="no"/>ryyakānti sā khanda si kā Ikak· di hulum̃ makuṭa nan· mukha sumvrām̃ pūrvva madā matā māṇikya sā si Ikak·
-           <lb n="B28"/>di hulum̃ <choice><sic>mk</sic><corr>mak</corr></choice>uṭa nan· ṅan nāgarājabhūṣaṇa dakṣiṇottarapūrvvamukha nan· ṅan matā nīla pāk· si Ikak· di matā nāgarā<lb
-           n="B29" break="no"/>ja nan· di hulum̃ makuṭa sumvrām̃ dakṣiṇa nan· matā māṇikya sā si Ikak· ganan· di hulum̃ makuṭa sumvrāṅ· pa<lb
-           n="B30" break="no"/>ścima matā puṣparāga sā si Ikak· ganan· di hulum̃ makuṭa sumvrām̃ Uttara matā Uttaratna sā si Ikak· ga<lb
-           n="B31" break="no"/>nan· pīṇa<!-- the same word figures in C. 82, l. 7! --> vana Ānāk· kośa māḥ nan<g type="dandaPlain">.</g> <num value="314">314</num> thil· <num value="8">8</num> draṁ<g type="dandaPlain">.</g> vana Ānāk· māḥ ṣanmukha nan· ṅan· maku<lb
-           n="B32" break="no"/>ṭa dinan· maddan nāgarāja dvā nan· ṅan· Ādhāra Urdhvamukha nan· rim̃<g type="dandaPlain">.</g> 136 thil·<g type="dandaPlain">.</g> Avi<add place="below">ḥ</add> jem̃<g type="dandaPlain">.</g> <num value="450">450</num> thim̃ <num value="8">8</num> draṁ śakarāja <num value="1010">1010</num>
+           <lb n="B24"/>ya Īśvaramūrtti kā thum̃ daḥ yām̃ po ku śrīśānabhadreśvara nim̃ yaḥ īśvara sakala pratyakṣa di lo<lb n="B25" break="no"/>ka nim̃ mam̃n· ra paṅap· suvarṇṇakośa ṣanmukha maknā ṅan· nāgabhūṣaṇa maddan· ratnarañjita si kā nivandha di śikha<lb n="B26" break="no"/>ra makuṭa dinan· kintu lac· Urddhvakośa nan· madā hema vicitra si kā pajem̃ Ādhāra Urddhvamukha dvā nan· ṅan· matā sū<lb n="B27" break="no"/>ryyakānti sā khanda si kā Ikak· di hulum̃ makuṭa nan· mukha sumvrām̃ pūrvva madā matā māṇikya sā si Ikak·
+           <lb n="B28"/>di hulum̃ <choice><sic>mk</sic><corr>mak</corr></choice>uṭa nan· ṅan nāgarājabhūṣaṇa dakṣiṇottarapūrvvamukha nan· ṅan matā nīla pāk· si Ikak· di matā nāgarā<lb n="B29" break="no"/>ja nan· di hulum̃ makuṭa sumvrām̃ dakṣiṇa nan· matā māṇikya sā si Ikak· ganan· di hulum̃ makuṭa sumvrāṅ· pa<lb n="B30" break="no"/>ścima matā puṣparāga sā si Ikak· ganan· di hulum̃ makuṭa sumvrām̃ Uttara matā Uttaratna sā si Ikak· ga<lb n="B31" break="no"/>nan· pīṇa<!-- the same word figures in C. 82, l. 7! --> vana Ānāk· kośa māḥ nan<g type="dandaPlain">.</g> <num value="314">314</num> thil· <num value="8">8</num> draṁ<g type="dandaPlain">.</g> vana Ānāk· māḥ ṣanmukha nan· ṅan· maku<lb n="B32" break="no"/>ṭa dinan· maddan nāgarāja dvā nan· ṅan· Ādhāra Urdhvamukha nan· rim̃<g type="dandaPlain">.</g> 136 thil·<g type="dandaPlain">.</g> Avi<add place="below">ḥ</add> jem̃<g type="dandaPlain">.</g> <num value="450">450</num> thim̃ <num value="8">8</num> draṁ śakarāja <num value="1010">1010</num>
            <milestone type="pagelike" unit="face" n="d"/><!--sapi2argr Pour cette face, oxygen me détecte plein d'erreurs que je ne comprends pas.-->
-           <lb n="d1"/><unclear>h</unclear>u<unclear>mā</unclear> <gap reason="illegible" quantity="2" unit="characters"/>au <unclear>sā</unclear> rātuḥ<!--note rtf : rātuḥ ou lire rutuḥ ? --> <unclear>jāk· h</unclear>u<unclear>mā</unclear> <gap reason="illegible" quantity="2" unit="characters"/> h<choice><unclear>a</unclear><unclear>ā</unclear></choice><lb
-            n="d2" break="no"/><gap reason="illegible" quantity="1" unit="characters"/><unclear>ṛ</unclear>ai<!--note rtf : Cṛai : est-ce qu'on peut lire le nom thvai que Finot lisait dans C. 100 c, l. 12 ?--> dalapan· pluḥ jāk· humā <unclear>rava</unclear><gap reason="illegible" quantity="3" unit="characters"/> <unclear>ti</unclear>juḥ
+           <lb n="d1"/><unclear>h</unclear>u<unclear>mā</unclear> <gap reason="illegible" quantity="2" unit="characters"/>au <unclear>sā</unclear> rātuḥ<!--note rtf : rātuḥ ou lire rutuḥ ? --> <unclear>jāk· h</unclear>u<unclear>mā</unclear> <gap reason="illegible" quantity="2" unit="characters"/> h<choice><unclear>a</unclear><unclear>ā</unclear></choice><lb n="d2" break="no"/><gap reason="illegible" quantity="1" unit="characters"/><unclear>ṛ</unclear>ai<!--note rtf : Cṛai : est-ce qu'on peut lire le nom thvai que Finot lisait dans C. 100 c, l. 12 ?--> dalapan· pluḥ jāk· humā <unclear>rava</unclear><gap reason="illegible" quantity="3" unit="characters"/> <unclear>ti</unclear>juḥ
            <lb n="d3"/>pluḥ jāk· <unclear>Av</unclear>iḥ jem̃ dvā rātuḥ<!--note rtf : rātuḥ ou lire rutuḥ ? --> limā pluḥ jāk·
            <lb n="d4"/>ṅan· tandom̃ languv· humā <unclear>rimand</unclear>u<unclear>r</unclear>· <unclear>sāpa</unclear>m̃ kdaḥ <unclear>r</unclear>ā
            <lb n="d5"/><gap reason="illegible" quantity="2" unit="characters"/>· nau gaḥ manrauṅ· paun· <gap reason="illegible" quantity="1" unit="characters"/>m̃k· yām̃ <gap reason="illegible" quantity="1" unit="characters"/><choice><unclear>ḥ</unclear><unclear>na</unclear></choice>
-           <lb n="d6"/>rā sakyak·<!-- note rtf : sakyak : on trouve lakyak ou sakyak (C. 100 c, l. 4 et 11). On pourrait aussi lire akyak ici.--> glai<g type="dandaPlain">.</g> yāt· <gap reason="illegible" quantity="1" unit="characters"/> <choice><unclear>bh</unclear><unclear>c</unclear></choice>rauḥ<!--note rtf : bhauḥ : on trouve crauḥ huriy (C. 100 c, l. 24)--> huriy· <gap reason="illegible" quantity="1" unit="characters"/><lb
-           n="d7" break="no"/>tā<!--sapi2argr Ici il y avait marqué t·. Je me suis permis de corriger en tā--> raditam̃<gap reason="illegible" quantity="1" unit="characters"/>· sakyam̃ pa<gap reason="illegible" quantity="1" unit="characters"/>iv· gaḥ huriy· tamā
+           <lb n="d6"/>rā sakyak·<!-- note rtf : sakyak : on trouve lakyak ou sakyak (C. 100 c, l. 4 et 11). On pourrait aussi lire akyak ici.--> glai<g type="dandaPlain">.</g> yāt· <gap reason="illegible" quantity="1" unit="characters"/> <choice><unclear>bh</unclear><unclear>c</unclear></choice>rauḥ<!--note rtf : bhauḥ : on trouve crauḥ huriy (C. 100 c, l. 24)--> huriy· <gap reason="illegible" quantity="1" unit="characters"/><lb n="d7" break="no"/>tā<!--sapi2argr Ici il y avait marqué t·. Je me suis permis de corriger en tā--> raditam̃<gap reason="illegible" quantity="1" unit="characters"/>· sakyam̃ pa<gap reason="illegible" quantity="1" unit="characters"/>iv· gaḥ huriy· tamā
            <lb n="d8"/>mulam̃<!--note rtf : mulam̃ : cf. C. 100 c, l. 25 (huriy tamā mulam̃)--> humā makik·<!-- note rtf : humā makīk : citée dans C. 100 c, l. 6.--> sā rātuḥ<!--note rtf : rātuḥ ou lire rutuḥ ? --> jāk· humā
            <lb n="d9"/>Ataṁ sā rātuḥ<!--note rtf : rātuḥ ou lire rutuḥ ? -->  limā pluḥ jāk· humā <unclear>v</unclear>auḥ
-           <lb n="d10"/>ha<unclear>v</unclear>v<unclear>ai</unclear> dvā rā<unclear>t</unclear>u<unclear>ḥ<!--note rtf : rātuḥ ou lire rutuḥ ? --> jā</unclear>k· humā <unclear>ve</unclear><gap reason="illegible" quantity="1" unit="characters"/><unclear>guḥ</unclear> <choice><unclear>ha</unclear><unclear>sā</unclear></choice><gap reason="illegible" quantity="1" unit="characters"/>i li<lb
-           n="d11" break="no"/>ma pluḥ jāk· Aviḥ <unclear>je</unclear>m̃ limā rātuḥ<!--note rtf : rātuḥ ou lire rutuḥ ? --> jāk·
+           <lb n="d10"/>ha<unclear>v</unclear>v<unclear>ai</unclear> dvā rā<unclear>t</unclear>u<unclear>ḥ<!--note rtf : rātuḥ ou lire rutuḥ ? --> jā</unclear>k· humā <unclear>ve</unclear><gap reason="illegible" quantity="1" unit="characters"/><unclear>guḥ</unclear> <choice><unclear>ha</unclear><unclear>sā</unclear></choice><gap reason="illegible" quantity="1" unit="characters"/>i li<lb n="d11" break="no"/>ma pluḥ jāk· Aviḥ <unclear>je</unclear>m̃ limā rātuḥ<!--note rtf : rātuḥ ou lire rutuḥ ? --> jāk·
            <lb n="d12"/>ṅan· tandom̃ languv·<g type="dandaPlain">.</g> niy· humā ni nagara
            <lb n="d13"/><unclear>t</unclear>rai<unclear>c</unclear>· humā <choice><unclear>ha</unclear><unclear>sā</unclear></choice><gap reason="illegible" quantity="1" unit="characters"/>ai Avauṅ· d<unclear>i</unclear> ka<unclear>vi</unclear>ṅ· sā
            <lb n="d14"/><gap reason="illegible" quantity="1" unit="characters"/>m̃ <unclear>t</unclear>anṛṅ· huriy· vaṅun·<!--note rtf : vaṅun : j'hésitai entre les lectures caṅun et vaṅun. On trouve huriy vaṅun dans le corpus (C. 100 c, l. 5).--> sauk·<!--sauk : j'hésitais entre sauk et pauk. On trouve sauk tam̃l toujours dans C. 100 c (l. 12).--> tam̃l· thvai<!--note rtf : thvai : je ne le lis pas mais cf. C. 100 c, l. 12, lecture de Finot = thvai-->
-           <lb n="d15"/>bham̃k· <gap reason="illegible" quantity="1" unit="characters"/>ndau<g type="dandaPlain">.</g> humā makik· klum̃ rātuḥ<!--note rtf : rātuḥ ou lire rutuḥ ? --> jā<lb
-           n="d16"/>k· humā <unclear>deva</unclear><gap reason="illegible" quantity="1" unit="characters"/>au sā rātuḥ<!--note rtf : rātuḥ ou lire rutuḥ ? --> jāk humā <gap reason="illegible" quantity="1" unit="characters"/>tam̃<lb
-           n="d17" break="no"/>m· dvā rātuḥ jāk· humā siñjo<unclear>l</unclear>·<!--note rtf : siñjol : cf. C. 100 c, l. 7, 16 et 24.--> sā rātu<lb
-           n="d18" break="no"/>ḥ jāk·<g type="dandaPlain">.</g> humā di cāmpapura<!--sapi2argr Je me suis permise de corriger le Xdyapura du rtf en cāmpapura--> krauṅ· gaḥ manrau<lb
-           n="d19" break="no"/>ṅ· <unclear>A</unclear>rāṁ gaḥ varāk· humā makīk·<!--note rtf: humā makīk : citée dans C. 100 c, l. 6.--> sā rā<lb
-           n="d20" break="no"/>tuḥ jāk· humā ma<unclear>l</unclear>au<!--note rtf : humā malau : citée dans C. 100 c, l. 14 et 20.--> sa rātuḥ limā
+           <lb n="d15"/>bham̃k· <gap reason="illegible" quantity="1" unit="characters"/>ndau<g type="dandaPlain">.</g> humā makik· klum̃ rātuḥ<!--note rtf : rātuḥ ou lire rutuḥ ? --> jā<lb n="d16"/>k· humā <unclear>deva</unclear><gap reason="illegible" quantity="1" unit="characters"/>au sā rātuḥ<!--note rtf : rātuḥ ou lire rutuḥ ? --> jāk humā <gap reason="illegible" quantity="1" unit="characters"/>tam̃<lb n="d17" break="no"/>m· dvā rātuḥ jāk· humā siñjo<unclear>l</unclear>·<!--note rtf : siñjol : cf. C. 100 c, l. 7, 16 et 24.--> sā rātu<lb n="d18" break="no"/>ḥ jāk·<g type="dandaPlain">.</g> humā di cāmpapura<!--sapi2argr Je me suis permise de corriger le Xdyapura du rtf en cāmpapura--> krauṅ· gaḥ manrau<lb n="d19" break="no"/>ṅ· <unclear>A</unclear>rāṁ gaḥ varāk· humā makīk·<!--note rtf: humā makīk : citée dans C. 100 c, l. 6.--> sā rā<lb n="d20" break="no"/>tuḥ jāk· humā ma<unclear>l</unclear>au<!--note rtf : humā malau : citée dans C. 100 c, l. 14 et 20.--> sa rātuḥ limā
            <lb n="d21"/>pluḥ jāk· humā Atam̃<unclear>k</unclear>· sā rātuḥ jāk·
-           <lb n="d22"/>humā siñjol·<!--note rtf : humā siñjol : citée dans C. 100 B, l. 24 et face c, l. 7 et 16.--> limā pluḥ jāk· di dvā <unclear>sthā</unclear><lb
-           n="d23" break="no"/>na humā nan· Aviḥ jem̃ sā rivuv·<!--note rtf : rivuv : lire ribuv--> sā rā<unclear>tuḥ</unclear>
+           <lb n="d22"/>humā siñjol·<!--note rtf : humā siñjol : citée dans C. 100 B, l. 24 et face c, l. 7 et 16.--> limā pluḥ jāk· di dvā <unclear>sthā</unclear><lb n="d23" break="no"/>na humā nan· Aviḥ jem̃ sā rivuv·<!--note rtf : rivuv : lire ribuv--> sā rā<unclear>tuḥ</unclear>
            <lb n="d24"/>jāk· ṅan· tandom̃ laṅguv·<g type="ddandaPlain">.</g>
            </p>
          </div>

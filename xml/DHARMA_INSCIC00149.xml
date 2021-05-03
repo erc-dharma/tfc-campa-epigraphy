@@ -5,83 +5,92 @@
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Nhân Biêu stela (C. 149)</title>
-                <respStmt>
-                  <resp>EpiDoc Encoding</resp>
-                  <persName ref="part:sapi">
-                     <forename>Salomé</forename>
-                     <surname>Pichon</surname>
-                  </persName>
-               </respStmt>
-               <respStmt>
-                  <resp>intellectual authorship of edition</resp>
-                  <persName ref="part:argr">
-                     <forename>Arlo</forename>
-                     <surname>Griffiths</surname>
-                  </persName>
-               </respStmt>
-            </titleStmt>
-            <publicationStmt>
-                <authority>DHARMA</authority>
-                <pubPlace>Paris</pubPlace>
-                <idno type="filename">DHARMA_INSCIC00149</idno>
-                <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/">
-                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nhân Biêu stela (C. 149)</title>
+            <respStmt>
+               <resp>EpiDoc Encoding</resp>
+               <persName ref="part:sapi">
+                  <forename>Salomé</forename>
+                  <surname>Pichon</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_INSCIC00149</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
                             Licence. To view a copy of the licence, visit
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Arlo Griffiths &amp; Salomé Pichon.</p>
-                    </licence>
-                </availability>
-                <date from="2019" to="2025">2019-2025</date>
-            </publicationStmt>
-            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
-                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
-                    <msIdentifier>
-                        <repository>DHARMAbase</repository>
-                        <idno/><!-- don't modify this -->
-                    </msIdentifier>
-                    <msContents><!-- describe the intellectual content of an inscription -->
-                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
-                    </msContents>
-                    <physDesc>
-                        <handDesc>
-                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
-                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths &amp; Salomé Pichon.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+            <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+                  <!-- don't modify this -->
+               </msIdentifier>
+               <msContents><!-- describe the intellectual content of an inscription -->
+                  <summary><!-- //// NOT MANDATORY  ////--></summary>
+                  <!-- offers the possibility to give a summary of the inscription's content -->
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                     <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
 						<handNote xml:id="Pallava00001_hand2"></handNote>
 					 -->
-                        </handDesc>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
-            </projectDesc>
-            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
-            <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
-                </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-                </prefixDef>
-            </listPrefixDef>
-        </encodingDesc>
-        <revisionDesc>
-            <change who="part:sapi" when="2021-04-20" status="draft">Adding translation and bibliography</change>
-            <change who="part:sapi" when="2021-03-30" status="draft">Initial encoding of the inscription</change>
-        </revisionDesc>
-    </teiHeader>
-    <text xml:space="preserve">
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <!-- UPDATE the link once the release is made official -->
+         <listPrefixDef>
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="part:sapi" when="2021-04-20" status="draft">Adding translation and bibliography</change>
+         <change who="part:sapi" when="2021-03-30" status="draft">Initial encoding of the inscription</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">
            <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A01"/><g type="floretComplex"/><g type="ddandaPlain">.</g> Om̐ namaś śivāya<g type="ddandaPlain">.</g><g type="floretComplex"/>
@@ -187,9 +196,7 @@
               <l n="d"><seg met="-+---+-+---+-++-+"><gap reason="illegible" quantity="17" unit="character"/></seg></l>
             </lg>
             <p><milestone type="pagelike" unit="face" n="C"/>
-            <lb n="C1"/>yenāyam agrajo <gap reason="illegible" quantity="1" unit="character"/>i<gap reason="illegible" quantity="2" unit="character"/>ām evam akathayat·<g type="dotMid">.</g> kumuvel· bhūmikṣetrāṇi rājaprasādād adhigatā<lb
-            n="C2" break="no"/>ny abhūvan·<g type="dotMid">.</g> cikirgrām<unclear>o cā</unclear><!--sapi2argr Ici, à la place de 'me cā' comme c'était proposé sur le rtf, je lis plutôt mo cā, comme Huber apparemment. Note du rtf : °grām(e cā)tma°: °grāmo vātma° Huber. The stone is heavily weathered here and would allow both readings, but the reading we prefer agrees better with what follows (l. 10).-->tmajananīnivāsabhūmi<gap reason="illegible" quantity="2" unit="character"/> sthānayoḥ devaḥ pratiṣṭhāpayitavya I<lb
-            n="C3" break="no"/>ti<g type="dotMid">.</g> kutaḥ<g type="ddandaPlain">.</g>
+            <lb n="C1"/>yenāyam agrajo <gap reason="illegible" quantity="1" unit="character"/>i<gap reason="illegible" quantity="2" unit="character"/>ām evam akathayat·<g type="dotMid">.</g> kumuvel· bhūmikṣetrāṇi rājaprasādād adhigatā<lb n="C2" break="no"/>ny abhūvan·<g type="dotMid">.</g> cikirgrām<unclear>o cā</unclear><!--sapi2argr Ici, à la place de 'me cā' comme c'était proposé sur le rtf, je lis plutôt mo cā, comme Huber apparemment. Note du rtf : °grām(e cā)tma°: °grāmo vātma° Huber. The stone is heavily weathered here and would allow both readings, but the reading we prefer agrees better with what follows (l. 10).-->tmajananīnivāsabhūmi<gap reason="illegible" quantity="2" unit="character"/> sthānayoḥ devaḥ pratiṣṭhāpayitavya I<lb n="C3" break="no"/>ti<g type="dotMid">.</g> kutaḥ<g type="ddandaPlain">.</g>
           </p>
           <lg n="16" met="vaṁśastha">
             <l n="a">vibhūtir eṣā vipulāpy apārtthikā<g type="dotMid">.</g></l>
@@ -222,18 +229,12 @@
             <l n="d">grāme cikirnnāmni tu sāgrajena<g type="ddandaPlain">.</g></l>
           </lg>
           <p xml:lang="ocm-Latn"><milestone type="pagelike" unit="face" n="D"/>
-            <lb n="D1"/>niy· doṁ humā yāṁṅ·<!--sapi2argr Ici au lieu de yān, je lis yāṁṅ. Ne pas oublier de rectifier l'apparatus si non.--> pov· ku devaliṅgeśvara di kumuvvel·<g type="dotMid">.</g> humā bhauk· puĀk·<!--sapi2argr Voir note dans apparatus à ce sujet.--> tluv· pluḥ tijuḥ galauk·<g type="dotMid">.</g> A<lb
-            n="D2" break="no"/>siy· ñū sa pluḥ jāk·<g type="dotMid">.</g> nariy· sāṅ· Urāṅ· pagār· pināṅ· tūy· Andap· sdāṅ· nau pataṁl· dandau viśeṣa<g type="circleLarge">.</g><!--sapi2argr Ou un autre caractère non lisible ?--> sumrāṅ·
-            <lb n="D3"/>dakṣiṇa naṁ pluḥ galauk<g type="dotMid">.</g> Asiy· ñū tluv· pluḥ jāk·<g type="dotMid">.</g> nariy· sim· pataṁl· dvā sumrāṅ· dandau viśeṣa pataṁl· hu<lb
-            n="D4" break="no"/>mā krain· ṅan· humā talavvār· tluv· rtuḥ sā pluḥ galauk·<g type="dandaPlain">.</g> Asiy· ñū dalapan· pluḥ jāk·<g type="dotMid">.</g> niy· humā daniḥ trā
+            <lb n="D1"/>niy· doṁ humā yāṁṅ·<!--sapi2argr Ici au lieu de yān, je lis yāṁṅ. Ne pas oublier de rectifier l'apparatus si non.--> pov· ku devaliṅgeśvara di kumuvvel·<g type="dotMid">.</g> humā bhauk· puĀk·<!--sapi2argr Voir note dans apparatus à ce sujet.--> tluv· pluḥ tijuḥ galauk·<g type="dotMid">.</g> A<lb n="D2" break="no"/>siy· ñū sa pluḥ jāk·<g type="dotMid">.</g> nariy· sāṅ· Urāṅ· pagār· pināṅ· tūy· Andap· sdāṅ· nau pataṁl· dandau viśeṣa<g type="circleLarge">.</g><!--sapi2argr Ou un autre caractère non lisible ?--> sumrāṅ·
+            <lb n="D3"/>dakṣiṇa naṁ pluḥ galauk<g type="dotMid">.</g> Asiy· ñū tluv· pluḥ jāk·<g type="dotMid">.</g> nariy· sim· pataṁl· dvā sumrāṅ· dandau viśeṣa pataṁl· hu<lb n="D4" break="no"/>mā krain· ṅan· humā talavvār· tluv· rtuḥ sā pluḥ galauk·<g type="dandaPlain">.</g> Asiy· ñū dalapan· pluḥ jāk·<g type="dotMid">.</g> niy· humā daniḥ trā
             <lb n="D5"/>nariy· sim· pataṁl· sāṅ· pov· Acov· vuṅā<g type="dotMid">.</g> tijuḥ pluḥ tluv· galauk·<g type="dotMid">.</g> nariy· dandau viśeṣa pataṁl· rumaḥ yāṅ· sā
-            <lb n="D6"/>rtuḥ naṁ pluḥ dvā galauk·<g type="dotMid">.</g> humā vrajaṁṅ· Aviḥ lagaiḥ di yāṅ·<g type="dotMid">.</g> nariy· likuk· dlai rumaḥ yāṅ· pataṁl· dlai vandāṅ· ru<lb
-            n="D7" break="no"/>maṅ· dlai vandāṅ· pataṁl· dlai pa<unclear>dan</unclear>·<!-- note du rtf : padan·: it seems difficult to read both panan· and padaṅ· (= pa-daṅ). I assume Old Cam padan, if read correctly, is equivalent to Modern Cam panan.--> nariy· Ajauñ· dlai nan· nau bhauk· huriy· tamā Aviḥ nau<g type="dotMid">.</g> nariy· dlai Ajau<lb
-            n="D8" break="no"/>ñ· curaiḥ pataṁl· Ajauñ· dlai dandau rivuv·<g type="dotMid">.</g> dlai pulāv· dandau rivuv·<g type="dotMid">.</g> tum· jalān· virān· niy· dandau trā<g type="dotMid">.</g> dandau
+            <lb n="D6"/>rtuḥ naṁ pluḥ dvā galauk·<g type="dotMid">.</g> humā vrajaṁṅ· Aviḥ lagaiḥ di yāṅ·<g type="dotMid">.</g> nariy· likuk· dlai rumaḥ yāṅ· pataṁl· dlai vandāṅ· ru<lb n="D7" break="no"/>maṅ· dlai vandāṅ· pataṁl· dlai pa<unclear>dan</unclear>·<!-- note du rtf : padan·: it seems difficult to read both panan· and padaṅ· (= pa-daṅ). I assume Old Cam padan, if read correctly, is equivalent to Modern Cam panan.--> nariy· Ajauñ· dlai nan· nau bhauk· huriy· tamā Aviḥ nau<g type="dotMid">.</g> nariy· dlai Ajau<lb n="D8" break="no"/>ñ· curaiḥ pataṁl· Ajauñ· dlai dandau rivuv·<g type="dotMid">.</g> dlai pulāv· dandau rivuv·<g type="dotMid">.</g> tum· jalān· virān· niy· dandau trā<g type="dotMid">.</g> dandau
             <lb n="D9"/>rivuv·<g type="dotMid">.</g> dandau rusā<g type="dotMid">.</g> dandau tlan·<g type="dotMid">.</g> dandau Ajauñ· curaiḥ<g type="dotMid">.</g> dandau krain·<g type="dotMid">.</g> dandau Akyak·<g type="dotMid">.</g> dandau kmaṁn·<g type="dotMid">.</g> dandau kuñit·<g type="dotMid">.</g>
-            <lb n="D10"/>dandau viśeṣa<g type="dotMid">.</g> tum· nariy· danau<!-- note du rtf : 10. danau: emend dandau?--> rivuv· pataṁl· stap· Uttara hajai yāṅ· pov· ku trivikramapura<g type="dotMid">.</g> rumaṅ· da<lb
-            n="D11" break="no"/>kṣiṇa hajai yāṅ· pov· ku trivikramapura pataṁl· stap· har· tanipār· Urāṅ· cvaḥ nan· ṅan· tum· nan· A<lb
-            n="D12" break="no"/>vista lagaiḥ di yāṅ· pov· ku siniy·<g type="dotMid">.</g><g type="floretComplex"/>
+            <lb n="D10"/>dandau viśeṣa<g type="dotMid">.</g> tum· nariy· danau<!-- note du rtf : 10. danau: emend dandau?--> rivuv· pataṁl· stap· Uttara hajai yāṅ· pov· ku trivikramapura<g type="dotMid">.</g> rumaṅ· da<lb n="D11" break="no"/>kṣiṇa hajai yāṅ· pov· ku trivikramapura pataṁl· stap· har· tanipār· Urāṅ· cvaḥ nan· ṅan· tum· nan· A<lb n="D12" break="no"/>vista lagaiḥ di yāṅ· pov· ku siniy·<g type="dotMid">.</g><g type="floretComplex"/>
           </p>
          </div>
          <div type="apparatus">

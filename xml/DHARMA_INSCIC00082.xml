@@ -99,20 +99,23 @@
            <p>
 <lb n="1"/><g type="dandaPlain"/><g type="dandaPlain"/><g type="dandaPlain"/><g type="floretQuatrefoil"/><g type="ddandaPlain"/> svasti<g type="ddandaPlain">.</g> di śakarāja <num value="1036">1036</num><g type="ddandaPlain">.</g> kāla yām̃ po ku śrī harivarmmadeva ya kumvan· yām̃ po ku śrī jaya
 Inravarmmadeva d<seg type="component" subtype="vowel"><gap reason="lost" unit="component" quantity="1"/></seg><gap reason="lost" quantity="4" unit="character"/>
-<lb n="2"/>mvoḥ yām̃ po ku śrīśānabhadre<choice><orig>ś</orig><reg>śv</reg></choice>ara nim̃ kā ruṅ· hanatap· Upak· chāy· pūrvvakāla trā yām̃ po ku śrī harivarmmadeva ra paṅap· Anvak· tumvrāk· ra paha<lb n="3" break="no"/>tap· sā yam̃ṅ· punaḥ sā yam̃ṅ· trā ra paṅap· Anvak· pirak· ra hatap· mulaṅ· di rāja nan· jem̃ dvā vvāra hatap· prāsāda yām̃ po ku śrīśānabhadre<choice><orig>ś</orig><reg>śv</reg></choice>ara tra ra
+<lb n="2"/>mvoḥ yām̃ po ku śrīśānabhadre<choice><orig>ś</orig><reg>śv</reg></choice>ara nim̃ kā ruṅ· hanatap· Upak· chāy· pūrvvakāla trā yām̃ po ku śrī harivarmmadeva ra paṅap· Anvak· tumvrāk· ra paha<lb n="3" break="no"/>tap· sā yam̃ṅ· punaḥ sā yam̃ṅ· trā ra paṅap· Anvak· pirak· ra hatap· mulaṅ· di rāja nan· jem̃ dvā vvāra hatap· prāsāda yām̃ po ku śrīśānabhadre<choice><orig>ś</orig><reg>śv</reg></choice>ara
+</p>
+<p>tra ra
 <lb n="4"/>vuḥ suvauk· māḥ sā sarutuḥ salapan· pluḥ thil· pirak· srakvak· ñū pāk· pluḥ salapan· thil· dradīk· māḥ sā naṁ pluḥ dvā thil· taliy· māḥ tijuḥ tal·<!-- or read kal·? --><!--sapi2argr après vérification de l'estampage, ça ressemble plus à un ta.--> pradap· matā dvā
 <lb n="5"/>pluḥ dvā thil· dalapan· draṁ paduḥ māḥ sā paum̃<!-- or read maum̃? --><!--sapi2argr Après vérification de l'estampage, c'est bien pau--> kluv· pluḥ thil· pirak· srakvak· ñū pāk· pluḥ thil· tralāy· māḥ sā salapan· pluḥ dalapan· thil· kluv· draṁ sanraum̃ māḥ <supplied reason="lost">sā</supplied>
-<lb n="6"/><!--Nouvelle lecture-->da<supplied reason="lost">lapan</supplied>· <unclear>p</unclear>luḥ dalapan· <unclear>th</unclear>i<supplied reason="lost">l</supplied>· <supplied reason="lost">dalapan</supplied>· <supplied reason="lost">d</supplied>raṁ vraḥ kalaśa <gap reason="illegible" quantity="2" unit="character"/> kara māḥ sa Ayam̃<supplied reason="lost">ṅ</supplied>· māḥ sā pāk· p<supplied reason="lost">l</supplied><unclear>u</unclear>ḥ naṁ thil· pi<supplied reason="lost">rak· srakvak·</supplied> <unclear>ñ</unclear>ū sarutuḥ thil· <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>ra</seg> <gap reason="illegible" quantity="1" unit="character"/>· <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>i</seg>
-<!--sapi2argr Dois-je ajouter une entrée dans l'apparat à chaque fois que les <unclear> et <supplied> de Finot ne correspondent pas aux nôtres ?-->
-
-<!--Ancienne lecture-->
-<!-- argr2sapi: the whole reading/encoding of this line is to be checked against the other EFEO estampage and, eventually, in the field -->da<supplied reason="lost">lapan· p</supplied>lu<supplied reason="lost">ḥ dalapan</supplied>· <supplied reason="lost">th</supplied>i<supplied reason="lost">l</supplied>· <supplied reason="lost">dalapan</supplied>·
-<supplied reason="lost">d</supplied><unclear>raṁ</unclear> vraḥ kalaśa<!-- vraḥ kalaśa was read by Finot but no part of it can be confirmed from est. EFEO n. 334 except the top of the r in vraḥ --> <gap reason="illegible" quantity="4" unit="character"/> <supplied reason="lost">kara māḥ sā Ayam̃ṅ·<!-- wrong reading forn Asam̃ṅ·? or sa yam̃ṅ  --> māḥ sā pāk· pluḥ naṁ thil· pirak· srakvak· ñ</supplied>ū <unclear>sarut</unclear>u<unclear>ḥ thil</unclear>·
+<lb n="6"/><!--Nouvelle lecture-->da<supplied reason="lost">lapan</supplied>· <unclear>p</unclear>luḥ dalapan· <unclear>th</unclear>i<supplied reason="lost">l</supplied>· <supplied reason="lost">dalapan</supplied>· <supplied reason="lost">d</supplied>raṁ vraḥ kalaśa <supplied reason="lost" cert="low">māḥ sā</supplied> kara māḥ sa Ayam̃<supplied reason="lost">ṅ</supplied>· māḥ sā pāk· p<supplied reason="lost">l</supplied><unclear>u</unclear>ḥ
+naṁ thil· pi<supplied reason="lost">rak· srakvak·</supplied> <unclear>ñ</unclear>ū
+sarutuḥ thil· <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>ra</seg> <gap reason="illegible" quantity="1" unit="character"/>· <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>i</seg><!-- Ancienne lecture -->
+<!-- maybe srakvak· pe- at the end of line 6? -->
+<!-- argr2sapi: the whole reading/encoding of this line is to be checked against the other EFEO estampage and, eventually, in the field da<supplied reason="lost">lapan· p</supplied>lu<supplied reason="lost">ḥ dalapan</supplied>· <supplied reason="lost">th</supplied>i<supplied reason="lost">l</supplied>· <supplied reason="lost">dalapan</supplied>·
+<supplied reason="lost">d</supplied><unclear>raṁ</unclear> vraḥ kalaśa--><!-- vraḥ kalaśa was read by Finot but no part of it can be confirmed from est. EFEO n. 334 except the top of the r in vraḥ --> <!--<gap reason="illegible" quantity="4" unit="character"/> <supplied reason="lost">kara māḥ sā Ayam̃ṅ·--><!-- wrong reading forn Asam̃ṅ·? or sa yam̃ṅ  --> <!--māḥ sā pāk· pluḥ naṁ thil· pirak· srakvak· ñ</supplied>ū <unclear>sarut</unclear>u<unclear>ḥ thil</unclear>·
 <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>ra</seg>
-<gap reason="illegible" quantity="1" unit="character"/> <supplied reason="lost">pe</supplied><lb n="7" break="no"/>nda pāk· rutuḥ thil· sanraum̃ pirak· kluv· penda kluv· rutuḥ dvā pluḥ thil· māḥ huluv· sanrauṅ·
+<gap reason="illegible" quantity="1" unit="character"/> <supplied reason="lost">pe</supplied>--><lb
+n="7" break="no"/>nda pāk· rutuḥ thil· sanraum̃ pirak· kluv· penda kluv· rutuḥ dvā pluḥ thil· māḥ huluv· sanrauṅ·
 sa <unclear>p</unclear>luḥ dvā <unclear>th</unclear>i<unclear>l</unclear>· <unclear>pī</unclear>ṇa <unclear>māḥ l</unclear>i<unclear>mā</unclear> ru<unclear>tuḥ</unclear>  klu<supplied reason="lost">v· pluḥ</supplied>
-<lb n="8"/>salapan· draṁ pirak· salapan· rutuḥ dalapan· thil· pirak· si pa<gap reason="illegible" quantity="2" unit="character"/>· prāsāda Itu māṅ· sā rivuv· sā rutuḥ sa<unclear>lapa</unclear>n<unclear>·</unclear> thil·</p>
-<ab><unclear><g type="ddandaOrnate">.</g><g type="floretComplex"/></unclear><!--sapi2argr La ponctuation est assez énigmatique. Elle ressemble presque à d'autres caractères tel qu'un humā. Y aurait-il un floretComplex unclear sous la tâche blanche de l'estampage ?-->
+<lb n="8"/>salapan· draṁ pirak· salapan· rutuḥ dalapan· thil· pirak· si ha<unclear>tap</unclear>· prāsāda Ai tumān· sā rivuv· sā <unclear>ru</unclear>tuḥ sa<unclear>lapa</unclear>n<unclear>·</unclear> thil·</p>
+<ab><unclear><g type="ddandaOrnate">.</g><g type="floretComplex"/></unclear><!-- argr2sapi: une second main ou une main postérieure a ajouté à la fin qqch comme humā: créer un second textpart pour l'accommoder-->
 </ab>
          </div>
          <div type="apparatus">
@@ -147,31 +150,41 @@ sa <unclear>p</unclear>luḥ dvā <unclear>th</unclear>i<unclear>l</unclear>· <
                 <rdg source="bib:Finot1904_05"><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>ī</seg>ṇa māḥ li<gap reason="illegible" quantity="3" unit="character"/></rdg>
                 <note>The word <foreign>pīṇa</foreign> can be read here thanks to the occurrence of the same word, clearly preserved and in a similar context, in <ref target="DHARMA_INSCIC00089.xml">C. 89</ref> B, line 31. Finot's reading, ending the line with the numeral <foreign>kluv·</foreign> that is immnediately followed by <foreign>salapan·</foreign> in the next next line, would yield an uninterpretable sequence of numeral words.</note>
               </app>
+              <app loc="8">
+                <lem>ha<unclear>tap</unclear>·</lem>
+                <rdg source="bib:Finot1904_05">pa<gap reason="illegible" quantity="2" unit="character"/></rdg>
+                <note>The segment <foreign>tap</foreign> is extremely unclear on the estampages, but the reading is supported by a parallel passage in <ref target="DHARMA_INSCIC00092">C. 92</ref> A, line 11.</note>
+              </app>
+              <app loc="8">
+                <lem>Ai tumān·</lem>
+                <rdg source="bib:Finot1904_05">Itu māṅ·</rdg>
+              </app>
                </listApp>
          </div>
          <div type="translation" resp="part:argr part:sapi">
            <p>Hail! In <supplied reason="subaudible">the year of</supplied> the Śaka king 1036: <supplied reason="subaudible">that was</supplied> when Y.P.K. Śrī Harivarmadeva who was the nephew of Y.P.K. Śrī Jaya Indravarmadeva <gap reason="lost"/> saw that Y.P.K. Śrīśānabhadreśvara here had a broken roof, not like in former times. And Y.P.K. Harivarmadeva, he built an <foreign>anvak</foreign> <supplied reason="subaudible">and</supplied> a <foreign>tumvrak</foreign> (or: a glittering <foreign>anvak</foreign>).
-           He put a roof on one <foreign>yǝṅ</foreign>, and one more <foreign>yǝṅ</foreign>.
-           He built a silver <foreign>anvak</foreign>. He again put a roof, in that <supplied reason="subaudible">year of the Śaka</supplied> king. So, two times he also roofed the  tower of Y.P.K. Śrīśānabhadreśvara.
-           He offered:
-            one golden tray, of 190 <foreign>thil</foreign> <supplied reason="subaudible">and</supplied> silver for its <foreign>srakvak</foreign>, of 49 <foreign>thil</foreign>;
-            one golden <foreign>dradīk</foreign>, of 62 <foreign>thil</foreign>;
-            one golden cord, of 62 <foreign>thil</foreign>;
-            <foreign>thil</foreign>
-            <!--beginning of sapi translation-->
-            <!--sapi2argr À la place de "one golden cord of 62 thil" je lis :-->
-            Seven golden cord adorned with jewels, of 22 <foreign>thil</foreign> 8 <foreign>draṁ</foreign>;
-            one golden <foreign>paduḥ paum̃</foreign>, of 30 <foreign>thil</foreign> <supplied reason="subaudible">and</supplied> silver for its <foreign>srakvak</foreign>, of 40 <foreign>thil</foreign>;
-            one golden <foreign>tralāy</foreign>, of 98 <foreign>thil</foreign> 3 <foreign>draṁ</foreign>;
-            one golden <foreign>sanraum̃</foreign>, of 88 <foreign>thil</foreign> 8 <foreign>draṁ</foreign>;
-            divine vase <gap reason="illegible"/>;
-            one golden <foreign>kara</foreign>;
-            one golden <foreign>ayam̃</foreign>, of 46 <foreign>thil</foreign> <supplied reason="subaudible">and</supplied> silver for its <foreign>srakvak</foreign>, of 100 <foreign>thil</foreign>;
-            <gap reason="illegible"/><foreign>inda</foreign>, of 400 <foreign>thil</foreign>;
-            silvery <foreign>sanraum̃</foreign>, of 3 <foreign>penda</foreign> 320 <foreign>thil</foreign>;
-            one golden <foreign>huluv sanraum̃</foreign><!--sapi2argr : Ici c'est écrit sanrauṅ mais j'ai normalisé. De plus, le māh est placé devant le huluv, ce qui est inhabituel.-->, of 12 <foreign>thil</foreign>;
-            golden <foreign>pīṇa</foreign>, of 539 <foreign>draṁ</foreign> of silver <!--sapi2argr encore une fois le métal est derrière le nombre--> 908 <foreign>thil</foreign> of silver <!--sapi2argr Ici aussi-->;
-            <gap reason="illegible"/> the tower .... 1109 <foreign>thil</foreign>.
+           He roofed one <foreign>yǝṅ</foreign> <supplied reason="subaudible">and</supplied> restored <supplied reason="explanation">punaḥ</supplied> one <foreign>yǝṅ</foreign>.
+           And he built a silver <foreign>anvak</foreign>. He roofed <supplied reason="subaudible">it</supplied> anew <supplied reason="subaudible">in</supplied> that <supplied reason="subaudible">year of the Śaka</supplied> king. So, two times he roofed the tower of Y.P.K. Śrīśānabhadreśvara.</p>
+           <p>And he offered:
+            one golden tray, of one hundred and ninety <foreign>thil</foreign>;
+            silver for its <foreign>srakvak</foreign>, of forty-nine <foreign>thil</foreign>;
+            one golden <foreign>dradīk</foreign>, of sixty-two <foreign>thil</foreign>;
+            <supplied reason="subaudible">one</supplied> golden necklace of seven layers adorned with jewels, of twenty-two <foreign>thil</foreign>, eight <foreign>draṁ</foreign>;
+            one golden <foreign>paduḥ</foreign> that is <foreign>paum̃</foreign><!-- possible de lire dhaum̃? -->, of thirty <foreign>thil</foreign>;
+            silver for its <foreign>srakvak</foreign>, of forty <foreign>thil</foreign>;
+            one golden <foreign>tralāy</foreign>, of ninety-eight <foreign>thil</foreign>, three <foreign>draṁ</foreign>;
+            one golden <foreign>sanrauṅ</foreign>, of eighty-eight <foreign>thil</foreign>, eight <foreign>draṁ</foreign>;
+            one golden divine vase, one golden <foreign>kara</foreign>, one golden <foreign>ayam̃</foreign>, of <supplied reason="subaudible">altogether</supplied> forty-six <foreign>thil</foreign>
+            silver for its <foreign>srakvak</foreign>, of one hundred <foreign>thil</foreign>;
+            <gap reason="illegible"/><foreign>inda</foreign>, of four hundred <foreign>thil</foreign>;
+            silver <foreign>sanrauṅ</foreign>, of three <foreign>penda</foreign> three hundred twenty <foreign>thil</foreign>;
+
+
+            total: three hundred and twenty <foreign>thil</foreign>.
+
+            gold for tops of the <foreign>sanrauṅ</foreign>: twelve <foreign>thil</foreign>;
+            gold for <foreign>pīṇa</foreign>s: five hundred thirty nine <foreign>draṁ</foreign>; silver <supplied reason="subaudible">for the same</supplied>: nine hundred and eight <foreign>thil</foreign>;
+            silver that roofs the tower of Ai Tumān <supplied reason="explanation">or: of his elder <foreign>tumān</foreign></supplied>: one thousand one hundred nine <foreign>thil</foreign>.
          </p>
          </div>
          <div type="translation" xml:lang="fra" source="bib:Finot1904_05">

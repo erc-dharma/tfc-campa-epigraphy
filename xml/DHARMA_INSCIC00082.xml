@@ -99,15 +99,15 @@
            <p>
 <lb n="1"/><g type="dandaPlain"/><g type="dandaPlain"/><g type="dandaPlain"/><g type="floretQuatrefoil"/><g type="ddandaPlain"/> svasti<g type="ddandaPlain">.</g> di śakarāja <num value="1036">1036</num><g type="ddandaPlain">.</g> kāla yām̃ po ku śrī harivarmmadeva ya kumvan· yām̃ po ku śrī jaya
 Inravarmmadeva d<seg type="component" subtype="vowel"><gap reason="lost" unit="component" quantity="1"/></seg><gap reason="lost" quantity="4" unit="character"/>
-<lb n="2"/>mvoḥ yām̃ po ku śrīśānabhadre<choice><orig>ś</orig><reg>śv</reg></choice>ara nim̃ kā ruṅ· hanatap· Upak· chāy· pūrvvakāla trā yām̃ po ku śrī harivarmmadeva ra paṅap· Anvak· tumvrāk· ra paha<lb n="3" break="no"/>tap· sā yam̃ṅ· punaḥ sā yam̃ṅ· trā ra paṅap· Anvak· pirak· ra hatap· mulaṅ· di rāja nan· jem̃ dvā vvāra hatap· prāsāda yām̃ po ku śrīśānabhadre<choice><orig>ś</orig><reg>śv</reg></choice>ara
+<lb n="2"/>mvoḥ yām̃ po ku śrīśānabhadre<choice><orig>ś</orig><reg>śv</reg></choice>ara nim̃ kā ruṅ· hanatap· Upak· chāy· pūrvvakāla trā yām̃ po ku śrī harivarmmadeva ra paṅap· Anvak· tumvrāk· ra paha<lb
+n="3" break="no"/>tap· sā yam̃ṅ· punaḥ sā yam̃ṅ· trā ra paṅap· Anvak· pirak· ra hatap· mulaṅ· di rāja nan· jem̃ dvā vvāra hatap· prāsāda yām̃ po ku śrīśānabhadre<choice><orig>ś</orig><reg>śv</reg></choice>ara
 </p>
 <p>tra ra
 <lb n="4"/>vuḥ suvauk· māḥ sā sarutuḥ salapan· pluḥ thil· pirak· srakvak· ñū pāk· pluḥ salapan· thil· dradīk· māḥ sā naṁ pluḥ dvā thil· taliy· māḥ tijuḥ tal·<!-- or read kal·? --><!--sapi2argr après vérification de l'estampage, ça ressemble plus à un ta.--> pradap· matā dvā
 <lb n="5"/>pluḥ dvā thil· dalapan· draṁ paduḥ māḥ sā paum̃<!-- or read maum̃? --><!--sapi2argr Après vérification de l'estampage, c'est bien pau--> kluv· pluḥ thil· pirak· srakvak· ñū pāk· pluḥ thil· tralāy· māḥ sā salapan· pluḥ dalapan· thil· kluv· draṁ sanraum̃ māḥ <supplied reason="lost">sā</supplied>
 <lb n="6"/><!--Nouvelle lecture-->da<supplied reason="lost">lapan</supplied>· <unclear>p</unclear>luḥ dalapan· <unclear>th</unclear>i<supplied reason="lost">l</supplied>· <supplied reason="lost">dalapan</supplied>· <supplied reason="lost">d</supplied>raṁ vraḥ kalaśa <supplied reason="lost" cert="low">māḥ sā</supplied> kara māḥ sa Ayam̃<supplied reason="lost">ṅ</supplied>· māḥ sā pāk· p<supplied reason="lost">l</supplied><unclear>u</unclear>ḥ
 naṁ thil· pi<supplied reason="lost">rak· srakvak·</supplied> <unclear>ñ</unclear>ū
-sarutuḥ thil· <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>ra</seg> <gap reason="illegible" quantity="1" unit="character"/>· <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>i</seg><!-- Ancienne lecture -->
-<!-- maybe srakvak· pe- at the end of line 6? -->
+sarutuḥ thil· <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>ra</seg> <gap reason="illegible" quantity="1" unit="character"/>· <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>i</seg><!-- maybe srakvak· pe- at the end of line 6? -->
 <!-- argr2sapi: the whole reading/encoding of this line is to be checked against the other EFEO estampage and, eventually, in the field da<supplied reason="lost">lapan· p</supplied>lu<supplied reason="lost">ḥ dalapan</supplied>· <supplied reason="lost">th</supplied>i<supplied reason="lost">l</supplied>· <supplied reason="lost">dalapan</supplied>·
 <supplied reason="lost">d</supplied><unclear>raṁ</unclear> vraḥ kalaśa--><!-- vraḥ kalaśa was read by Finot but no part of it can be confirmed from est. EFEO n. 334 except the top of the r in vraḥ --> <!--<gap reason="illegible" quantity="4" unit="character"/> <supplied reason="lost">kara māḥ sā Ayam̃ṅ·--><!-- wrong reading forn Asam̃ṅ·? or sa yam̃ṅ  --> <!--māḥ sā pāk· pluḥ naṁ thil· pirak· srakvak· ñ</supplied>ū <unclear>sarut</unclear>u<unclear>ḥ thil</unclear>·
 <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>ra</seg>
@@ -169,21 +169,19 @@ sa <unclear>p</unclear>luḥ dvā <unclear>th</unclear>i<unclear>l</unclear>· <
             one golden tray, of one hundred and ninety <foreign>thil</foreign>;
             silver for its <foreign>srakvak</foreign>, of forty-nine <foreign>thil</foreign>;
             one golden <foreign>dradīk</foreign>, of sixty-two <foreign>thil</foreign>;
-            <supplied reason="subaudible">one</supplied> golden necklace of seven layers adorned with jewels, of twenty-two <foreign>thil</foreign>, eight <foreign>draṁ</foreign>;
+            <supplied reason="subaudible">one</supplied> golden necklace of seven layers adorned with jewels,<note>Or <q>seven golden layered necklaces adorned with jewels</q>? It is the fact that <bibl><ptr target="bib:Aymonier+Cabaton1906_01"/><citedRange unit="entry">tal</citedRange></bibl> cite expression of the type <foreign>dvā tal</foreign> <q>two-layered</q> and <foreign>pak tal</foreign> <q>four-layered</q> that makes us inclined to prefer assuming that the words <foreign>tijuḥ tal</foreign> are to be read as an attributive expression in our context.</note> of twenty-two <foreign>thil</foreign>, eight <foreign>draṁ</foreign>;
             one golden <foreign>paduḥ</foreign> that is <foreign>paum̃</foreign><!-- possible de lire dhaum̃? -->, of thirty <foreign>thil</foreign>;
             silver for its <foreign>srakvak</foreign>, of forty <foreign>thil</foreign>;
             one golden <foreign>tralāy</foreign>, of ninety-eight <foreign>thil</foreign>, three <foreign>draṁ</foreign>;
             one golden <foreign>sanrauṅ</foreign>, of eighty-eight <foreign>thil</foreign>, eight <foreign>draṁ</foreign>;
-            one golden divine vase, one golden <foreign>kara</foreign>, one golden <foreign>ayam̃</foreign>, of <supplied reason="subaudible">altogether</supplied> forty-six <foreign>thil</foreign>
+            one golden holy vase, one golden <foreign>kara</foreign>, one golden <foreign>ayam̃</foreign>, of <supplied reason="subaudible">altogether</supplied> forty-six <foreign>thil</foreign>,
             silver for its <foreign>srakvak</foreign>, of one hundred <foreign>thil</foreign>;
             <gap reason="illegible"/><foreign>inda</foreign>, of four hundred <foreign>thil</foreign>;
-            silver <foreign>sanrauṅ</foreign>, of three <foreign>penda</foreign> three hundred twenty <foreign>thil</foreign>;
-
-
-            total: three hundred and twenty <foreign>thil</foreign>.
-
+            three silver <foreign>sanrauṅ</foreign>,
+            three <foreign>penda</foreign> three hundred twenty <foreign>thil</foreign>;
+            total <supplied reason="explanation">of the three silver <foreign>sanrauṅ</foreign>?</supplied>: three hundred and twenty <foreign>thil</foreign>;
             gold for tops of the <foreign>sanrauṅ</foreign>: twelve <foreign>thil</foreign>;
-            gold for <foreign>pīṇa</foreign>s: five hundred thirty nine <foreign>draṁ</foreign>; silver <supplied reason="subaudible">for the same</supplied>: nine hundred and eight <foreign>thil</foreign>;
+            golden <foreign>pīṇa</foreign>: five hundred thirty nine <foreign>draṁ</foreign>, silver <supplied reason="subaudible"><foreign>pīṇa</foreign></supplied>: nine hundred and eight <foreign>thil</foreign>;
             silver that roofs the tower of Ai Tumān <supplied reason="explanation">or: of his elder <foreign>tumān</foreign></supplied>: one thousand one hundred nine <foreign>thil</foreign>.
          </p>
          </div>

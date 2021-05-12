@@ -18,7 +18,6 @@
             </respStmt>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
-               <!--sapi2argr Ajouter également Amandine Lepoutre ?-->
                <persName ref="part:argr">
                   <forename>Arlo</forename>
                   <surname>Griffiths</surname>
@@ -94,8 +93,8 @@
       <body>
          <div type="edition" xml:lang="ocm-Latn">
            <p><milestone type="pagelike" unit="face" n="A"/>
-           <lb n="A1"/><g type="floretQuatrefoil"/><g type="ddandaPlain">.</g>  śrī <g type="floretQuatrefoil">.</g> madā yām̃ po ku śrī jaya Inravarmmadeva ciy· vāk· ya Anāk· yām̃po ku śrī
-           <lb n="A2"/>harivarmmadeva ciy· tham̃ṅ· candya<unclear>m̃</unclear> nan· kā rakṣā rāja parimāna Ekamāsa mam̃n· hetu yām̃po ku śrī
+           <lb n="A1"/><g type="floretQuatrefoil"/><g type="ddandaPlain"/> śrī <g type="floretQuatrefoil"/> madā yām̃ po ku śrī jaya Inravarmmadeva ciy· vāk· ya Anāk· yām̃ po ku śrī
+           <lb n="A2"/>harivarmmadeva ciy· tham̃ṅ·<!-- or pam̃ṅ· or pham̃ṅ·? --> candya<unclear>m̃</unclear> nan· kā rakṣā rāja parimāna Ekamāsa mam̃n· hetu yām̃ po ku śrī
            <lb n="A3"/>jaya Inravarmmadeva nan· vālasvabhāva vlo<unclear>m̃</unclear> kam̃n· pyan· thuv· hitāhitavastu si marakṣā rāja tra dunan·
            <lb n="A4"/>kā Aviḥ phala karmma Upak nyāya ṅan· rakṣā rāja trā mam̃n· yām̃ po ku śrī jaya Inravarmmadeva nan·
            <lb n="A5"/>ṅan· ya doṁ senāpatī brahmaṇa hora paṇdita kalpācāryya maddan· Antaḥpurikā yām̃ po ku śrī ha<lb n="A6" break="no"/>rivarmmadeva Avista viveka Imyaṅ· siy· yam̃ṅ· jem̃sī rakṣā rāja mam̃n· ra mvoḥ pu lyam̃ śrī yuvarāja

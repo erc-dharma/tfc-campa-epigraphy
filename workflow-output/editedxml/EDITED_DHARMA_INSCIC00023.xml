@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Bakul Rock (C. 23), 751 Śaka</title>
+            <title>Bakul rock (C. 23), 751 Śaka</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:argr">
@@ -120,7 +120,7 @@
 	<l n="a"><lb n="7"/><milestone unit="zone" n="a"/>samanta-putras sthaviraḥ</l>
 	<l n="b"><milestone unit="zone" n="b"/>buddhanirvvāṇa-saṁjñakaḥ</l>
 	<l n="c"><add place="bottom" rend="mark"><lb n="15"/>kāvyasya karaṇañ cakre</add></l>
-	<l n="d"><add place="bottom" rend="mark"><lb n="16"/>jñātaye bhūtale nr̥ṇām·<g type="ddanda">.</g></add></l>	
+	<l n="d"><add place="bottom" rend="mark"><lb n="16"/>jñātaye bhūtale nr̥ṇām·<g type="ddanda">.</g></add></l>
 </lg>
 <p xml:lang="ocm-Latn"><lb n="8"/>humā pralauṅ·<g type="ddanda">.</g> humā padaiṅ·<g type="ddanda">.</g> ney· śaka vanuḥ humā dvā nan·
 <lb n="9"/> <num value="751">751</num><g type="ddanda">.</g>
@@ -204,12 +204,12 @@ ma<choice><sic>stā</sic><corr>sta A</corr></choice>ṅke
          <div type="commentary">
  <p>The composition of this text and the execution of its <foreign xml:lang="fra">mise en pierre</foreign> are unusually sloppy. Due to scribal inadvertence, the second hemistich of stanza IV was initially skipped, and appears only in the final two lines after the Cham-language prose part that should have stood at the bottom of the text. Metrical irregularities are observed in stanzas II (esp. <foreign>pāda</foreign> a) and III (<foreign>pāda</foreign> b). The resolution of the latter possibly requires assuming an error of sandhi, while it is certain that the <foreign>visarga</foreign> in <foreign>khāryyāḥ daśa</foreign> in that same <foreign>pāda</foreign> cannot be accepted, and the same stanza also involves inconsistencies in the use of tenses (which I have smoothed over in my translation). Such errors, and unusual word order as in <foreign>manaś-śubhena</foreign> (stanza III, where expected <foreign>śubha-manasā</foreign> is avoided for metrical reasons), suggest rather strong influence on the Sanskrit composition from the author’s mother tongue, presumably Cham, as does his willingness to insert Cham words into the Sanskrit text (again, in stanza III). The fact that the text is not a royal inscription may mean the work was carried out by a relatively less qualified clerk and artisan.</p>
 <p rend="stanza" n="1">On the interpretation of this stanza, where Īśvaraloka is the posthumous name of king Satyavarman, see <bibl><ptr target="bib:Griffiths+Southworth2011_01"/><citedRange unit="page">295</citedRange></bibl>.</p>
-<p rend="stanza" n="3">Previous scholars have not recognized that <foreign>tavov</foreign> here must be the Old Cham word for <q>sugarcane</q> (<bibl><ptr target="bib:Aymonier+Cabaton1906_01"/><citedRange unit="page">179</citedRange><citedRange unit="entry"><foreign>tabău</foreign>, etc.</citedRange></bibl>). The words <foreign>humā</foreign> and <foreign>pāt pluḥ</foreign> mean, respectively, <q>field</q> and <q>forty</q> in Old Cham. 
+<p rend="stanza" n="3">Previous scholars have not recognized that <foreign>tavov</foreign> here must be the Old Cham word for <q>sugarcane</q> (<bibl><ptr target="bib:Aymonier+Cabaton1906_01"/><citedRange unit="page">179</citedRange><citedRange unit="entry"><foreign>tabău</foreign>, etc.</citedRange></bibl>). The words <foreign>humā</foreign> and <foreign>pāt pluḥ</foreign> mean, respectively, <q>field</q> and <q>forty</q> in Old Cham.
 <!-- Dhātupāṭha, PW (whence MW) records a class-IV root mas, 'to measure, mete', and derived nominal forms masa, masana, masti. MW further records a ppp masta 'measured'.
 In Böhtlingk's edition of the Aṣṭādhyāyī, in the appendix giving the Dhātupāṭha, I indeed find "masī parimāṇe (pariṇāme)" as entry 4.112. -->
-Regarding the second half of the stanza, it is likely that <foreign>ārya</foreign> is practically equivalent in meaning to <q>Buddhist</q>, while the word bhoga may express the technical meaning <q>economic resource</q>. An alternative translation could therefore be as follows: 
+Regarding the second half of the stanza, it is likely that <foreign>ārya</foreign> is practically equivalent in meaning to <q>Buddhist</q>, while the word bhoga may express the technical meaning <q>economic resource</q>. An alternative translation could therefore be as follows:
 <q>He wishes much <supplied reason="subaudible">enjoyment</supplied> in the afterlife, <supplied reason="subaudible">so</supplied> beautiful in mind he gave the Buddhist resource only to the Jina</q>.</p>
-<p n="13-14">The final sentence <foreign>Avista nan· sā pu pov· puṇya</foreign> is hard to parse. I tentatively assume that we must read <foreign>pu-pov-puṇya</foreign> as though it were a Sanskrit possessive compound, even though only the element <foreign>puṇya</foreign> is from Sanskrit and the sentence as a whole is formulated in Old Cham.</p>         
+<p n="13-14">The final sentence <foreign>Avista nan· sā pu pov· puṇya</foreign> is hard to parse. I tentatively assume that we must read <foreign>pu-pov-puṇya</foreign> as though it were a Sanskrit possessive compound, even though only the element <foreign>puṇya</foreign> is from Sanskrit and the sentence as a whole is formulated in Old Cham.</p>
 </div>
         <div type="bibliography">
            <p>The Old Cam part was edited by É. Aymonier (<bibl rend="omitname"><ptr target="bib:Aymonier1891_01"/><citedRange unit="page">25-27</citedRange><citedRange unit="item">396</citedRange></bibl>), with French word-for-word gloss; the Sanskrit part was edited by A. Bergaigne (<bibl rend="omitname"><ptr target="bib:Barth+Bergaigne1885-1893_01"/><citedRange unit="page">237-241</citedRange><citedRange unit="item">XXV (396)</citedRange></bibl>), with translation into French; textual notes were offered by L. Finot (<bibl rend="omitname"><ptr target="bib:Finot1903_05"/><citedRange unit="page">18-19</citedRange><citedRange unit="item">V</citedRange>, n. 2</bibl>). Bergaigne’s edition of the Sanskrit text was published again by R. C. Majumdar (<bibl rend="omitname"><ptr target="bib:Majumdar1927_02"/><citedRange unit="page">65-67</citedRange><citedRange unit="item">28</citedRange></bibl>), with translation into English. The two parts were first put together by K.-H. Golzio (<bibl rend="omitname"><ptr target="bib:Golzio2004_01"/><citedRange unit="page">55-56</citedRange></bibl>), with translation into English. The text is re-edited and freshly translated here by Arlo Griffiths, based on the available estampages and autopsy of the stone.</p>

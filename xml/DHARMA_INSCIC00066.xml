@@ -108,11 +108,12 @@
               <l n="c"><seg met="------+++-++-+="><gap reason="lost" quantity="15" unit="character"/></seg></l>
               <l n="d"><seg met="------+++-++-+="><gap reason="lost" quantity="15" unit="character"/></seg></l>
             </lg>
-            <lg n="3-5"><!--sapi2argr Comment puis je encoder une telle lacune ? -->
-              <lb n="A3"/>bhadreśvara<gap reason="illegible" quantity="45" unit="character" precision="low"/><lb n="A4" break="no"/>ravacanam̃ buddhi<gap reason="illegible" quantity="43" unit="character" precision="low"/>
+            <ab><!--sapi2argr Comment puis je encoder une telle lacune ? Ici, trois stances semblent être manquante. J'ai encodé selon le 2.2.2. du guide.-->
+              <lb n="A3"/>bhadreśvara<gap reason="illegible" quantity="45" unit="character" precision="low"/><lb
+              n="A4" break="no"/>ravacanam̃ buddhi<gap reason="illegible" quantity="43" unit="character" precision="low"/>
               <lb n="A5"/><gap reason="illegible" quantity="1" unit="line"/>
               <lb n="A6"/>bhr̥guh presitaś ca<g type="ddandaPlain">.</g>
-            </lg>
+            </ab>
             <lg n="6" met="sragdharā">
               <l n="a">sa śrī <unclear>bhadreśvaro nyo pratiharata Ita</unclear><seg met="+-++-++"><gap reason="lost" quantity="7" unit="character"/></seg></l>
               <l n="b"><seg met="++++-++------++-++-++"><gap reason="lost" quantity="21" unit="character"/></seg></l>
@@ -213,13 +214,15 @@
               <l n="c">Evam̃ hy urojasya viśe <seg met="-++"><gap reason="lost" quantity="3" unit="character"/></seg></l>
               <l n="d"><seg met="++-++--+-++"><gap reason="lost" quantity="11" unit="character"/></seg></l>
             </lg>
-            <lg n="23-24" met="unknown"><!--Même question que pour stances III-V, je ne sais pas comment encoder cela...-->
+            <ab><!--Même question que pour stances III-V, je ne sais pas comment encoder cela... Ici il semblerait que ça concerne les stances 23-24.-->
               <gap reason="lost" quantity="3" unit="character" precision="low"/>svāmī jānanībhūmi<lb n="A24" break="no"/>prasāda <gap reason="lost" quantity="46" unit="character" precision="low"/>
               <lb n="A25"/><gap reason="lost" quantity="46" unit="character" precision="low"/><unclear>ṇam</unclear><g type="complexFinial">.</g><!--sapi2argr symbole-->
-            </lg>
-            <lg n="25" met="unknown"><milestone type="pagelike" unit="face" n="B"/>
-            <lb n="B1"/><gap reason="lost" quantity="1" unit="line"/>
-            <lb n="B2"/><gap reason="lost" quantity="1" unit="character"/> vuddhyā<gap reason="lost" quantity="1" unit="character"/> tu sthāp<supplied reason="lost">i</supplied>tavān ta<supplied reason="lost">ṁ</supplied> harinr̥pa<unclear>t</unclear>iḥ<g type="complexFinial">.</g>
+            </ab>
+            <lg n="25" met="uncertain"><milestone type="pagelike" unit="face" n="B"/><!--sapi2argr Ici je ne suis pas non plus certaine de mon encoding.-->
+            <l n="a"><lb n="B1"/><gap reason="lost" extent="unknown" unit="character"/></l>
+              <l n="b"><gap reason="lost" extent="unknown" unit="character"/></l>
+              <l n="c"><gap reason="lost" extent="unknown" unit="character"/></l>
+            <l n="d"><lb n="B2"/><gap reason="lost" quantity="1" unit="character"/> vuddhyā<gap reason="lost" quantity="1" unit="character"/> tu sthāp<supplied reason="lost">i</supplied>tavān ta<supplied reason="lost">ṁ</supplied> harinr̥pa<unclear>t</unclear>iḥ<g type="complexFinial">.</g></l>
             </lg>
             <lg n="26" met="pr̥thvī">
               <l n="a">sate malayavāsine bhagavate ja<choice><sic>gat</sic><corr>gan</corr></choice>muktaye</l>
@@ -410,15 +413,15 @@
                  </app>
                  <app loc="B15-B16">
                      <lem>°sam̃padālaṅkr̥taḥ</lem> <!--sapi2argr Ai-je le droit de mettre le symbole ° dans l'apparatus ?-->
-                     <rdg source="bib:Finot1904_01">°sampadālaṅkr̥taḥ</rdg>
+                     <rdg source="bib:Finot1904_01">-sampadālaṅkr̥taḥ</rdg>
                  </app>
                  <app loc="B20">
                      <lem>°sam̃pad</lem>
-                     <rdg source="bib:Finot1904_01">°sampad</rdg>
+                     <rdg source="bib:Finot1904_01">-sampad</rdg>
                  </app>
                  <app loc="B20">
                      <lem>°sam̃padaś</lem>
-                     <rdg source="bib:Finot1904_01">°sampadaś</rdg>
+                     <rdg source="bib:Finot1904_01">-sampadaś</rdg>
                  </app>
                  <app loc="C3">
                      <lem>sarvvā<choice><sic>n</sic><corr>ṇ</corr></choice>i</lem>

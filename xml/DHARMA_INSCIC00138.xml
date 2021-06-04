@@ -22,7 +22,7 @@
                   <forename>Arlo</forename>
                   <surname>Griffiths</surname>
                </persName>
-               <persName ref="part:amle"><!--sapi2argr Ai-je mis le bon pseudonyme ? -->
+              <persName ref="http://viaf.org/viaf/289845900">
                   <forename>Amandine</forename>
                   <surname>Lepoutre</surname>
                </persName>
@@ -282,7 +282,7 @@
           <p n="B8">huviy·: one could possibly read huriy·.</p>
          </div>
         <div type="bibliography">
-           <p>First edited by E. Huber (<bibl rend="omitname"><ptr target="bib:Huber1911_01"/><citedRange unit="page">277-282</citedRange></bibl>). Then re-edited by R. C. Majumdar (<bibl rend="omitname"><ptr target="Majumdar1927_02"/><citedRange unit="page">105-109</citedRange></bibl>)<!--sapi2argr Je ne suis pas certaine ici de la référence. Elle me semblait être la plus probable, mais je n'ai pas pu vérifier --> and by K.-H. Golzio (<bibl rend="omitname"><ptr target="bib:Golzio2004_01"/><citedRange unit="page">89-92</citedRange></bibl>). The text is re-edited here by Arlo Griffiths from the estampage EFEO n. 155a and n. 155b, with a fresh translation.</p>
+           <p>First edited by E. Huber (<bibl rend="omitname"><ptr target="bib:Huber1911_01"/><citedRange unit="page">277-282</citedRange></bibl>). Then re-edited by R. C. Majumdar (<bibl rend="omitname"><ptr target="bib:Majumdar1927_02"/><citedRange unit="page">105-109</citedRange></bibl>)<!--sapi2argr Je ne suis pas certaine ici de la référence. Elle me semblait être la plus probable, mais je n'ai pas pu vérifier --> and by K.-H. Golzio (<bibl rend="omitname"><ptr target="bib:Golzio2004_01"/><citedRange unit="page">89-92</citedRange></bibl>). The text is re-edited here by Arlo Griffiths from the estampage EFEO n. 155a and n. 155b, with a fresh translation.</p>
         	<listBibl type="primary">
             <bibl n="H">
             <ptr target="bib:Huber1911_01"/>

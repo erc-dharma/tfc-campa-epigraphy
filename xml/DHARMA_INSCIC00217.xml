@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="fra">Stela inscription of Phươc Thiện</title>
+            <title>Stela inscription of Phươc Thiện</title>
             <respStmt>
                <resp>EpiDoc Encoding</resp>
                <persName ref="part:sapi">
@@ -54,7 +54,7 @@
          <sourceDesc>
             <biblFull>
                <titleStmt>
-                  <title xml:lang="fra">Stela inscription of Phươc Thiện</title>
+                  <title xml:lang="eng">Stela inscription of Phươc Thiện</title>
                   <editor>Arlo Griffiths</editor>
                </titleStmt>
                <editionStmt>
@@ -140,7 +140,7 @@
       </graphic>
    </facsimile>
    <text xml:space="preserve"><body><div type="edition" xml:lang="sa-Latn-x-CI">
-                <div type="textpart" xml:id="A" n="A" rend="break-verse-lines">
+                <div type="textpart" n="A" rend="break-verse-lines">
                     <head xml:lang="eng">Face A.</head>
                         <ab>oṁ</ab>
                         <!-- A: we have the convention of not counting the lines of invocations. I thought it might be useful to mark the kind of <ab> explicitly. We want this kind of <ab> at the center line. -->
@@ -172,7 +172,7 @@
                     </lg>
                 <!-- AG: a correction is made here with <reg>. Do we not want to do such corrections in apparatus? See also another <reg> below. -->
                     </div>
-                <div type="textpart" xml:id="B" n="B" rend="break-none">
+                <div type="textpart" n="B" rend="break-none">
                     <head xml:lang="eng">Face B.</head>
                      <p>
                             <lb n="1"/>anekasvaguṇabhūṣaṇabharaparimantharitaramyā 

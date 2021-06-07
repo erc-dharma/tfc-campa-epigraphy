@@ -153,7 +153,7 @@
    </facsimile>
    <text xml:space="preserve"><body><div type="edition" xml:lang="x-oldcam-Latn">
                 <div type="textpart" n="A">
-                <div type="textpart" xml:id="A1" n="A1" rend="break-verse-lines">
+                <div type="textpart" n="A1" rend="break-verse-lines">
                     <head xml:lang="eng">Face A.</head>
                         <ab>oṁ</ab>
                         <!-- A: we have the convention of not counting the lines of invocations. I thought it might be useful to mark the kind of <ab> explicitly. We want this kind of <ab> at the center line. -->
@@ -173,7 +173,7 @@
                             <l>eṣa śrīsatyavarmmā bhuvi divi vibabhau  śakravad dīptatejāḥ <g type="fleuron" subtype="tobedefined"/></l>
                         </lg>
                     </div>
-                    <div type="textpart" xml:id="A2" n="A2" rend="break-none">
+                    <div type="textpart" n="A2" rend="break-none">
                         <div type="textpart" n="A2a">
         <p><lb n="8"/> tena vijayinā <choice><reg>satyavāksvabhāvatayā</reg><orig>satyavāgsvabhāvatayā</orig></choice> <!-- Hugh: the difference between reg and orig affects just one letter right in the middle of this long compound word which, by Sanskrit standards, is still quite short. Is there any reason, from the point of view of search, to prefer putting such tags around whole 'words' (defined as united delimited by spaces, which for Sanskrit may not be a very handy definition) above putting them only around the smallest segment of letters concerned? --> satyeneva mūrttimatā śrīsatyavarmmaṇā satya<lb n="9" break="no"/>lokāt tribhuvanaikanāthena śambhunāvanitale punaravatāritena śrīvr̥ddheśvarāt sa<lb n="10" break="no"/>madhigatarājyasaṁpadā sakalasādhujanapurohitāgrāsāmātyagaṇaiḥ parivr̥tena pu<lb n="11" break="no"/>ñjitāśeṣasuragaṇair iva devendreṇa śrīśākarāje gagaṇāmvarādriyamite <lb n="12"/> vaiśākhasitapañcamakṣapāgrye śubhatithikaraṇamuhūrttanakṣatradivasalagnādiyoga<lb n="13" break="no"/>saṁpanne  yajñātiśayamaṅgalāyāṁ  bhūmau śrīmān ādideveśvaraḥ kṣitisalilāna<lb n="14" break="no"/>lānilākāśadīkṣitarajanikaradivākaramūrttis sakalasurāsurendrādigaṇanataca<lb n="15" break="no"/>raṇayugasaroruhas saha bhagavatyā śrīdurggādevyā nānāpsarogaṇārccitacaraṇā<lb n="16" break="no"/>ravindayā vibhavadāyinyā sakalajagatān tvayi bhaktimatāṁ bhaktyā sthāpitaḥ <g type="fleuron" subtype="tobedefined"/></p>   
                         </div>
@@ -184,11 +184,11 @@
             </div>
         <!-- AG: not sure how to deal with text-parts, for various different factors are involved. We must discuss live. Perhaps milestone must be used here. -->
                     </div>
-         <div type="textpart" xml:id="b" n="b" rend="break-none">
+         <div type="textpart" n="b" rend="break-none">
 <head xml:lang="eng">Face b (lateral).</head>
 <p> <lb n="1"/> nāgeśvarakṣetram· <lb n="2"/> hajaikṣetram· <lb n="3"/> pradhānakṣetram<unclear>·</unclear></p>
          </div>
-           <div type="textpart" xml:id="C" n="C">
+           <div type="textpart" n="C">
 <head xml:lang="eng">Face C.</head>         
                     <div type="textpart" n="C1" rend="break-none">
                         <p><lb n="1"/> dattaṁ tac ca ye śrāddhās santo numanyante te yathepsitasukhino bhavantu ye <lb n="2"/> ke cit punar llobhād īrṣyayā narakanirbhbhayā<supplied reason="omitted">ḥ</supplied> pāpakarmmāṇo narādhamās  tad  dhari<lb n="3" break="no"/>ṣyanti te py ubhayataḥ pitros triṅśat pūrvvais triṅśat paraiḥ kulasantānais saha rauravama<lb n="4" break="no"/>hārauravātirauravāvīcīkālasūtratr̥ṇapatāpanaśūlasandaṅśayamaparvvatavaitaraṇī<lb n="5" break="no"/>tyevamādiṣu mahānarakeṣu <!-- Hugh: the next is a case of a long compound, again only one letter affected by <choice>. Here I have just selected the word inside the compound (the same selection is made in <div type="apparatus>. But I could have tagged just the letter itself. --><choice><reg>tāḍana</reg><orig>tādana</orig></choice>cchedanabhedanalikhanaviśasanādibhir  upatāpaiḥ <lb n="6"/> paritapyamānās tadakuśalakarmmaparipakvaphalam anubhavanto yāvaj jagati sūryyacandrama<lb break="no" n="7"/>sau stas tāvad atighoreṣu nivaseyur iti <g>||</g> uktaṁ hi <g>◦</g></p>
@@ -210,7 +210,7 @@
           <div type="textpart" n="C3" rend="break-none">
               <p><lb n="12"/> śrīsvayamutpanneśvarasthāne  dvijaśālā vividhayuvatividagdharūpalāvanyalalito<lb n="13"/>paśobhitā  sakedāragomahiṣadāsadāsīkulakr̥topabhogā punar api <lb n="14"/> śrīsaṅkarṣaṇadevasthāne dvijaśālā sarvvopakaraṇasamr̥ddhā śrīsatyavarmmaṇā <lb n="15"/> rājñā kr̥tā <g>◦</g> śrīvr̥ddheśvarasya rājatakośaṁ suhemāsyaṁ rājā pratiṣṭhāpitavān· <g>||</g></p>
               </div>
-     <div type="textpart" xml:id="d" n="d" rend="break-verse-lines">
+     <div type="textpart" n="d" rend="break-verse-lines">
 <head xml:lang="eng">Face d (socle).</head>      
     <lg met="Śārdūlavikrīḍita" n="6">       
            <l>⎽ ⎽ ⎽ ⏑ ⏑ ⎽ ⏑ ⎽ ⏑ ⏑ ⎽ ⎽ ⎽ ⏑ ⎽ ⎽ ⏑ ⎽</l>

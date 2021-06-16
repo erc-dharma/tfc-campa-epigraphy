@@ -53,13 +53,13 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
-                     <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
-						<summary><p><p/></summary>
-						<handNote xml:id="Pallava00001_hand1"></handNote>
-						<handNote xml:id="Pallava00001_hand2"></handNote>
-					 -->
-                  </handDesc>
+                     <p>The palaeography of face A and B is characterised a minor difference.
+                       The name Indravarmmadeva is in face A written <foreign>Inravarmmadeva</foreign> where as a in face B, a subscribe <foreign>d</foreign> has been engraved, reading <foreign>Indravarmmadeva</foreign>.
+                     </p>
+                     <p>There are two form of independant <foreign>I</foreign> in the inscription, distinguished by a little appendice located inside the <foreign>akṣara</foreign>, or outside, in a shape of a hook extending vertically below it.
+                     The independant <foreign>Ī</foreign> also has a appendice extending from the character, but it is located above it.
+                     The character <foreign>tha</foreign> has two forms. The first one doesn't show the more usual shape of spiral of this graphic system but shares some common characteristics with <foreign>pa</foreign>, with it's right upstroke subtly curled inward. The second one is the more familiar spiral shape.</p>
+            </handDesc>
                </physDesc>
             </msDesc>
          </sourceDesc>
@@ -146,16 +146,16 @@
            n="B11" break="no"/>lam̃ trā sidaḥ di kaliyuga nim̃ kintu yaḥ mahāpuruṣa nan· kā tmum̃ rājaparibhoga ṅan· guṇa sā prakāra
            <lb n="B12"/>mam̃n· tathāpi kaliḥ kā vā puruṣa nan· mohapramadana ṅāk· lupā yogaddhyāna samādhi da<!-- lecture un peu incertaine; comprendre ce mot comme A&C p. 211 da "non"? --> dharmmapuṇya para<lb
            n="B13" break="no"/>hitāhitayogyāyogyakaraṇa mapajem̃ yaśa kīrtti ṅan· sandyāṁ kam̃ Ātmā drim̃ di loka nim̃ ṅan· paraloka
-           <lb n="B14"/>na<!-- quoi faire avec ce na? --> si yām̃ po ku śrī jaya Īndravarmmadeva kā madā sampūrṇṇa ṅan· guṇa nan· tra rumam̃ dunan· kā tmum̃ rājaparibhoga mam̃n· dunan·
+           <lb n="B14"/>na<!-- quoi faire avec ce na? --> si yām̃ po ku śrī jaya Indravarmmadeva kā madā sampūrṇṇa ṅan· guṇa nan· tra rumam̃ dunan· kā tmum̃ rājaparibhoga mam̃n· dunan·
            <lb n="B15"/>kā thum̃<!-- cf. B10 --> daḥ śarīra ṅan· paribhoga nim̃ haR̥<unclear>:m̃</unclear>ḥ Anitya mam̃n· si jem̃ dunan· kevala<!-- insérer une espace ici? -->sādhāra Utsāha di yogaddhyānasamādhi
            <lb n="B16"/>vavā dharmma sadākāla punaḥ mulam̃ trā sidaḥ nagara campa nim̃ kintu kā liṅyak· śūnyākāra nau hetu śanāpa navai ta<lb
            n="B17" break="no"/>thāpi si yām̃ po ku śrī jaya Indravarmmadeva yam̃ṅ· devatāmūrtti nan· kā pajem̃ nagara rumam̃ jumvuv· patruḥ tam̃l· rilvai kā syāṁ
-           <lb n="B18"/>samr̥ddhi samū pūrvvakāla mulam̃ tra ra vuḥ vihāra śrī Īndralokeśvara di tranūl· vijaya ra vuḥ samasta Upabhoga devatā nan· pa<lb
+           <lb n="B18"/>samr̥ddhi samū pūrvvakāla mulam̃ tra ra vuḥ vihāra śrī Indralokeśvara di tranūl· vijaya ra vuḥ samasta Upabhoga devatā nan· pa<lb
            n="B19" break="no"/>ripūrṇṇa tra ra punaḥ ya doṁ devatā vukam̃n· Avista ra vuḥ suvarṇṇakośa ṅan· rajitakośa maddan· hemamukhamaku<lb
            n="B20" break="no"/>ṭa dadam̃n· sthāna devatā dinan· tra ra vuḥ Urām̃ ṅan· lumvau kruvāv· ṅan· samasta Upakaraṇa panūjā devatā dinan· mam̃n· ya doṁ
            <lb n="B21"/>devatā dinan· kā saṁmr̥ddhi syāṁ tmum̃ panūjā cāy· dhāy· pūrvvakāla mulam̃ mam̃n· ya doṁ sarvvajana caturvvarṇṇa sidaḥ brāhmaṇa
-           <lb n="B22"/>kṣatriya vaiśya śūdra Avista ka pramuditamānasa <unclear>ra</unclear>n·<!-- On·? van·? Or·? --> di yām̃ po ku śrī jaya Īnravarmmadeva<!-- Inra-? --> nan· samū
-           <lb n="B23"/>svabhāva canrāditya <unclear>paran</unclear>·<!-- lire plutôt Anan·? --> puṇdirīkavuṅā <unclear>bhireṣa</unclear><!--note rtf : bhireṣa: read cireṣa? cireśa? --> ṅan· kumudavuṅā supara<!--note rtf : supara: read sumara? suthara?--> rim̃<g type="ddandaPlain">.</g> yām̃ po ku śrī jaya Inravarmmadeva dunan·
+           <lb n="B22"/>kṣatriya vaiśya śūdra Avista ka pramuditamānasa <unclear>ra</unclear>n·<!-- On·? van·? Or·? --> di yām̃ po ku śrī jaya Indravarmmadeva<!-- Inra-? --> nan· samū
+           <lb n="B23"/>svabhāva canrāditya <unclear>paran</unclear>·<!-- lire plutôt Anan·? --> puṇdirīkavuṅā <unclear>bhireṣa</unclear><!--note rtf : bhireṣa: read cireṣa? cireśa? --> ṅan· kumudavuṅā supara<!--note rtf : supara: read sumara? suthara?--> rim̃<g type="ddandaPlain">.</g> yām̃ po ku śrī jaya Indravarmmadeva dunan·
            <lb n="B24"/>ya I:śvaramūrtti kā thum̃ daḥ yām̃ po ku śrīśānabhadreśvara nim̃ yaḥ I:śvara sakala pratyakṣa di lo<lb
            n="B25" break="no"/>ka nim̃ mam̃n· ra paṅap· suvarṇṇakośa ṣanmukha maknā ṅan· nāgabhūṣaṇa maddan· ratnarañjita si kā nivandha di śikha<lb
            n="B26" break="no"/>ra makuṭa dinan· kintu lac· Urddhvakośa nan· madā hema vicitra si kā pajem̃ Ādhāra Urddhvamukha dvā nan· ṅan· matā sū<lb
@@ -337,9 +337,9 @@
                      <lem>madā</lem>
                      <rdg source="bib:Finot1904_05">mada</rdg>
                  </app>
-                 <app>
+                 <app loc="B1">
                    <lem>s<unclear>ā</unclear> driy·</lem>
-                   <rdg>sa driy·</rdg>
+                   <rdg source="bib:Finot1904_05">sa driy·</rdg>
                    <note>Compare the marker for <foreign>-ā</foreign> in line B6 <foreign>śānticitta</foreign>.</note>
                  </app>
                   <app loc="B3">
@@ -400,7 +400,7 @@
                  <app loc="B15">
                      <lem>haR̥<unclear>:m̃</unclear>ḥ</lem>
                      <rdg source="bib:Finot1904_05"><gap reason="illegible" quantity="2" unit="characters"/></rdg>
-                     <note>The identification of the word intended here as the one spelt <foreign>haR̥ḥ</foreign> twice in <ref target="C00017.xml">C. 17</ref> is certain, but the spelling is not entirely clear. We assume that the notation <q>Inscr. haṝḥ</q> in <bibl><ptr target="bib:Aymonier+Cabaton1906_01"/><citedRange unit="entry"><foreign>haram̃ḥ/harơḥ</foreign></citedRange></bibl> means that the authors had seen the present occurrence and interpreted the slightly unclear <foreitn>-ā</foreign> marker above <foreign>R̥</foreign> as standing in the function of a length mark, hence our representation of the marker as <foreign>:</foreign>. The presence of the <foreign>anusvāra-candra</foreign> is also somewhat uncertain.</note>
+                     <note>The identification of the word intended here as the one spelt <foreign>haR̥ḥ</foreign> twice in <ref target="C00017.xml">C. 17</ref> is certain, but the spelling is not entirely clear. We assume that the notation <q>Inscr. haṝḥ</q> in <bibl><ptr target="bib:Aymonier+Cabaton1906_01"/><citedRange unit="entry"><foreign>haram̃ḥ/harơḥ</foreign></citedRange></bibl> means that the authors had seen the present occurrence and interpreted the slightly unclear <foreign>-ā</foreign> marker above <foreign>R̥</foreign> as standing in the function of a length mark, hence our representation of the marker as <foreign>:</foreign>. The presence of the <foreign>anusvāra-candra</foreign> is also somewhat uncertain.</note>
                  </app>
                  <app loc="B16">
                      <lem>liṅyak· śūnyākāra</lem>
@@ -430,10 +430,6 @@
                  <app loc="B23">
                      <lem>canrāditya</lem>
                      <rdg source="bib:Finot1904_05">candrāditya</rdg>
-                 </app>
-                 <app loc="B23">
-                     <lem>Inra-</lem>
-                     <rdg source="bib:Finot1904_05">Indra-</rdg>
                  </app>
                  <app loc="B24">
                      <lem>Īśvara-</lem>
@@ -516,8 +512,11 @@
                </listApp>
          </div>
          <div type="translation" resp="part:argr part:sapi">
- 	<p><!--début traduction sapi -->Hail ! There is <!-- j'ai ajouté une entrée pour madā, et ai traduit en fonction de votre traduction de C. 8, dans ECIC VIII--> the Y.P.K. Śrī Jaya-Indravarman prince Vak who was the son of the Y.P.K. Śrī Harivarman prince Paṅ, for this <foreign>candyam̃</foreign> protected the kingdom/reigned during one month. Then, because this Śrī Jaya-Indravarman had the nature of a child not yet <foreign>kam̃n</foreign> used to knowing the good and the bad things for <!--j'ai ajouté un deuxième "si" au lexique--> the protection of the kingdom/to reign and <supplied reason="subaudible">because</supplied> all the <!-- traduction de dunan kā avih difficile pour moi--> consequences of <supplied reason="subaudible">his</supplied> actions were devoided of justice with <supplied reason="subaudible">the way</supplied> he reigned also, then, this Y.P.K. Śrī Jaya-Indravarman and all the <foreign>senāpatī</foreign>, brahmans, astrologists <!--hora < horāvid?-->, pandits,
-  masters of rituals, with all the women <!-- of the harem?--> of the Y.P.K. Śrī Harivarman <supplied reason="subaudible">made</supplied> the right judgment of looking for someone to become a <foreign>sī</foreign> who reigns. Then, they saw the <foreign>pu lyaṅ</foreign> Śrī Yuvarāja Mahāsenāpati, prince Paṅ<!--Là quelque chose ne va pas. Il semblerait qu'on puisse avoir un prince Thaṅ et un prince Paṅ, tous deux distincts.-->, who was the uncle <!-- Ici Finot dit que myak vient du cham moderne 'mik'= oncle. Mais dans A&C p. 389 (465 PDF), il est dit que ça veut dire tante maternelle.--> <foreign>prāṇa</foreign> of the Y.P.K. Śrī Jaya Indravarman <supplied reason="subaudible">and</supplied> who was the younger brother of this Y.P.K. Śrī Harivarmadeva. He has <!--madā ?--> full of the marks of a king conform with justice of the <foreign>pu pov tana rayā crakravartin</foreign> and this one knew the good and bad things, the <foreign>dharma</foreign>, the renunciation, the truthful speaking, the compassion for all beings, all         </p>
+ 	<p n="A1-A10"><!--début traduction sapi -->Hail ! There is <!-- j'ai ajouté une entrée pour madā, et ai traduit en fonction de votre traduction de C. 8, dans ECIC VIII--> the Y.P.K. Śrī Jaya-Indravarman prince Vak who was the son of the Y.P.K. Śrī Harivarman prince Paṅ, for this <foreign>candyam̃</foreign> protected the kingdom/reigned during one month. Then, because this Śrī Jaya-Indravarman had the nature of a child not yet <foreign>kam̃n</foreign> used to knowing the good and the bad things for <!--j'ai ajouté un deuxième "si" au lexique--> the protection of the kingdom/to reign and <supplied reason="subaudible">because</supplied> all the <!-- traduction de dunan kā avih difficile pour moi--> consequences of <supplied reason="subaudible">his</supplied> actions were devoided of justice with <supplied reason="subaudible">the way</supplied> he reigned also, then, this Y.P.K. Śrī Jaya-Indravarman and all the <foreign>senāpatī</foreign>, brahmans, astrologists <!--hora < horāvid?-->, pandits,
+  masters of rituals, with all the women <!-- of the harem?--> of the Y.P.K. Śrī Harivarman <supplied reason="subaudible">made</supplied> the right judgment of looking for someone to become a <foreign>sī</foreign> who reigns. Then, they saw the <foreign>pu lyaṅ</foreign> Śrī Yuvarāja Mahāsenāpati, prince Paṅ<!--Là quelque chose ne va pas. Il semblerait qu'on puisse avoir un prince Thaṅ et un prince Paṅ, tous deux distincts.-->, who was the uncle <!-- Ici Finot dit que myak vient du cham moderne 'mik'= oncle. Mais dans A&C p. 389 (465 PDF), il est dit que ça veut dire tante maternelle.--> <foreign>prāṇa</foreign> of the Y.P.K. Śrī Jaya Indravarman <supplied reason="subaudible">and</supplied> who was the younger brother of this Y.P.K. Śrī Harivarmadeva. He has <!--madā ?--> full of the marks of a king conform with justice of the <foreign>pu pov tana rayā crakravartin</foreign> and this one knew the good and bad things, the <foreign>dharma</foreign>, the renunciation, the truthful speaking, the compassion for all beings, all.... </p>
+
+  <p n="B1-B5">Fortune! There is <!-- j'ai ajouté une entrée pour madā, et ai traduit en fonction de votre traduction de C. 8, dans ECIC VIII--> one king <!--traduction pu pom̃ tana rayā s(ā) driy·--> namely Y.P.K. Śrī Jaya Indravarman, who is the absolute paramount sovereign. The plot/location where he was born is in the <foreign>lamvīṅ</foreign><!-- A&C f438 (pdf p. 514), lamvī = anthroponyme : vinai lamvī --> of Campapura. He is from a superior and righteous lineage on both sides<!-- Ici j'ai changé l'ordre des mots pour la traduction-->. And Y.P.K. Śrī Jaya Indravarman is endowed with the thirty-two marks, in contact<!-- maknā < knā ?. Cela fait penser à : A&C f387 (pdf p. 463) mapaknā < knā, paknā ?--> with grace, beauty, youthfulness, ability, cleverness/skilfulness, great virtues, braveness from birth, competence with all the weapons, great valour.
+  </p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->

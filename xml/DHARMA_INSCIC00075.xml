@@ -124,6 +124,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change when="2021-07-03" who="part:argr" status="draft">Resolved validation problems.</change>
          <change when="2020-09-14" who="part:axja" status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
@@ -143,14 +144,42 @@
                     <lb n="1"/> <g>|||</g> di śakarāja 913 huriy· 5 vaṅun· vulān· 4 vṛhaspativāra <unclear>ma</unclear><lb n="2" break="no"/>ghanakṣatra vṛścikalagna kāla yāṅ· po ku vijaya śrī harivarmmadeva
                     <lb n="3"/>punaḥ yāṅ· po ku śrī jaya īśānabhadreśvara karaṇa kīrtti yaśa di bhūmima<lb n="4" break="no"/>ṇḍala niy· <g>||</g> <g type="fleuron"/>
                 </ab>
-            </div><div type="apparatus"><listApp><app loc="1"><lem>913</lem><rdg source="bib:Golzio">917</rdg><rdg source="bib:Finot">713</rdg><note>The reading 7 for the units that Golzio proposes is impossible, as inspection of the estampage shows. See our discussion in <bibl><ptr target="bib:Griffiths+al2008-2009_01"/><citedRange unit="page">486</citedRange></bibl>.</note></app><app loc="1"><lem source="bib:Finot1904_06">vulān· 4</lem><rdg source="bib:Finot1904_01">vulān 8 (?)</rdg><note>Finot first read the month name as <foreign>8 (?)</foreign>. We adopt the reading that he later proposed with confidence (<bibl><ptr target="bib:Finot1904_06"/><citedRange unit="page">933</citedRange></bibl>).</note></app></listApp></div><div type="translation"><p>In the [year of the] Śaka-king 913, day 5 of the waxing [fortnight] of month 4, Thursday, lunar mansion
+            </div>
+<div type="apparatus">
+<listApp>
+<app loc="1">
+<lem>913</lem>
+<rdg source="bib:Golzio2004_01">917</rdg>
+<rdg source="bib:Finot1904_01">713</rdg>
+<note>The reading 7 for the units that Golzio proposes is impossible, as inspection of the estampage shows. See our discussion in <bibl><ptr target="bib:Griffiths+al2008-2009_01"/><citedRange unit="page">486</citedRange></bibl>.</note>
+</app><app loc="1"><lem source="bib:Finot1904_01">vulān· 4</lem>
+<rdg source="bib:Finot1904_01">vulān 8 (?)</rdg>
+<note>Finot first read the month name as <foreign>8 (?)</foreign>. We adopt the reading that he later proposed with confidence (<bibl><ptr target="bib:Finot1904_05"/><citedRange unit="page">933</citedRange></bibl>).</note></app>
+</listApp>
+</div>
+<div type="translation" resp="part:argr">
+<p>In the [year of the] Śaka-king 913, day 5 of the waxing [fortnight] of month 4, Thursday, lunar mansion
                     Magha, Scorpio in the ascendant. [This was] the time that Y.P.K. the victorious Śrī
                     Harivarmadeva re-established (the image of) Y.P.K. Śrī Jaya Īśānabhadreśvara, for the sake of
-                    fame and glory in this earthly domain.</p></div><div type="translation" xml:lang="fra"><p> En [l’année] 913 [du] roi des Śaka, jour 5 de la [quinzaine] croissante du mois 4, un jeudi, mansion lunaire de Maghā, l’ascendant en Scorpion. [Ceci fut] le temps où Y. P. K. le victorieux Śrī Harivarmadeva rétablit (l’image de) Y. P. K. Śrī Jaya Īśānabhadreśvara, en vue de la gloire et de la renommée dans ce domaine terrestre.
-                </p></div><div type="commentary"><p>On the issue of the correct reading and interpretation of the dating formula in this inscription, see <bibl><ptr target="bib:Griffiths+al2008-2009_01"/><citedRange unit="page">457</citedRange></bibl>.</p></div><!-- <div type="bibliography" subtype="secondary">
-                <listBibl>
-                    <bibl><ptr target="cic-bibl:majumdar-1927"/>: <biblScope>145</biblScope>.</bibl>               
-                </listBibl>
-            </div> 
-            --></body></text>
+                    fame and glory in this earthly domain.</p></div>
+<div type="translation" xml:lang="fra" source="bib:Griffiths+al2008-2009_01">
+<p> En [l’année] 913 [du] roi des Śaka, jour 5 de la [quinzaine] croissante du mois 4, un jeudi, mansion lunaire de Maghā, l’ascendant en Scorpion. [Ceci fut] le temps où Y. P. K. le victorieux Śrī Harivarmadeva rétablit (l’image de) Y. P. K. Śrī Jaya Īśānabhadreśvara, en vue de la gloire et de la renommée dans ce domaine terrestre.</p>
+</div>
+<div type="commentary">
+<p>On the issue of the correct reading and interpretation of the dating formula in this inscription, see <bibl><ptr target="bib:Griffiths+al2008-2009_01"/><citedRange unit="page">457</citedRange></bibl>.</p>
+</div>
+<div type="bibliography">
+<p/>
+<listBibl type="primary">
+<bibl n="LF"><ptr target="bib:Finot1904_01"/><citedRange unit="page">113-115</citedRange></bibl>
+<bibl n="KHG"><ptr target="bib:Golzio2004_01"/><citedRange unit="page">122</citedRange></bibl>
+<bibl n="CIC"><ptr target="bib:Griffiths+al2008-2009_01"/><citedRange unit="page">457</citedRange></bibl>
+</listBibl>
+<listBibl type="secondary">
+<!-- <bibl><ptr target="cic-bibl:parmentier-1909"/>: <biblScope>382</biblScope></bibl>  -->
+<bibl><ptr target="bib:Majumdar1927_02"/><citedRange unit="page">145</citedRange><citedRange unit="item">51</citedRange>
+</bibl>
+</listBibl>
+</div>
+</body></text>
 </TEI>

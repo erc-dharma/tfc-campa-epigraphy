@@ -119,7 +119,8 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change when="2020-09-14" who="part:axja" status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
+      	<change when="2021-07-03" who="part:argr" status="draft">Resolved validation problems.</change>
+              <change when="2020-09-14" who="part:axja" status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -132,6 +133,44 @@
    </facsimile>
    <text xml:space="preserve"><body><div type="edition" xml:lang="x-oldcam-Latn">
                 <ab>
-<g>||</g> yām̃ pom̃ ku śrī jayasim̃havarmmadeva pu cim̃ śrī harideva vuḥ di dharmma 1181</ab>
-            </div><div type="apparatus"><listApp><app><lem><g>||</g></lem><note>The form of the opening sign, ignored in previous publications, is uncommon, but it is found also in the nearly contemporary inscription <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00118.xml">C. 118</ref>.</note></app><app><lem>v<supplied reason="omitted">u</supplied>ḥ</lem><note>Neither Aymonier nor Finot notes that there is no <foreign>u</foreign> visible on the facsimile. Verification of the BnF estampage confirms that this element was involuntarily omitted not by the scribe but by the person who made the eye-copy.</note></app><app><lem source="bib:Finot">1181</lem><rdg source="bib:Aymonier">1191</rdg></app></listApp></div><div type="translation"><p>His majesty Śrī Jayasiṁhavarmadeva, prince Śrī Harideva, has gifted [this] for the sake of <foreign>dharma</foreign>. [Era of the Śaka king] 1181 (= 1259/60 C.E.).</p></div><div type="translation" xml:lang="fra"><p>Sa majesté Śrī Jayasiṁhavarmadeva, prince Śrī Harideva, a offert [ceci] en vue du <foreign>dharma</foreign>. [Ère du roi des Śaka] 1181 (= 1259/60 de n.è.).</p></div><div type="commentary"><p>Other interpretations of the expression <foreign>vuḥ di dharmma</foreign> are imaginable, for instance <quote>has given to the monument</quote>, with <foreign>dharma</foreign> in its concrete sense nearly equivalent to <quote>temple</quote>. But the occurrence of the expression <foreign>utsāha di dharmma ṅan śivabhakti</foreign> in <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00095.xml">C. 95</ref>, face A, l. 12, apparently meaning <quote>making efforts for the sake of <foreign>dharma</foreign> and devotion to Śiva</quote>, suggests the sense assumed here.</p></div><div type="bibliography"><p/><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><!-- <bibl><ptr target="cic-bibl:parmentier-1909"/>: <biblScope>132</biblScope></bibl>  --><bibl><ptr target="bib:Majumdar1985_01"/><citedRange unit="page">214-215</citedRange></bibl></listBibl></div></body></text>
+<lb n="1"/><g>||</g> yām̃ pom̃ ku śrī jayasim̃havarmmadeva pu cim̃ śrī harideva vuḥ di dharmma 1181</ab>
+            </div>
+<div type="apparatus">
+<listApp>
+<app loc="1">
+<lem><g>||</g></lem>
+<note>The form of the opening sign, ignored in previous publications, is uncommon, but it is found also in the nearly contemporary inscription <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00118.xml">C. 118</ref>.</note>
+</app>
+<app loc="1">
+<lem>vuḥ</lem>
+<note>Neither Aymonier nor Finot notes that there is no <foreign>u</foreign> visible on the facsimile. Verification of the BnF estampage confirms that this element was involuntarily omitted not by the scribe but by the person who made the eye-copy.</note>
+</app>
+<app loc="1">
+<lem source="bib:Finot1915_01">1181</lem>
+<rdg source="bib:Aymonier1891_01">1191</rdg>
+</app></listApp>
+</div>
+<div type="translation" resp="part:argr">
+<p>His majesty Śrī Jayasiṁhavarmadeva, prince Śrī Harideva, has gifted [this] for the sake of <foreign>dharma</foreign>. [Era of the Śaka king] 1181 (= 1259/60 C.E.).</p>
+</div>
+<div type="translation" xml:lang="fra" resp="part:argr">
+<p>Sa majesté Śrī Jayasiṁhavarmadeva, prince Śrī Harideva, a offert [ceci] en vue du <foreign>dharma</foreign>. [Ère du roi des Śaka] 1181 (= 1259/60 de n.è.).</p>
+</div>
+<div type="commentary">
+<p>Other interpretations of the expression <foreign>vuḥ di dharmma</foreign> are imaginable, for instance <quote>has given to the monument</quote>, with <foreign>dharma</foreign> in its concrete sense nearly equivalent to <quote>temple</quote>. But the occurrence of the expression <foreign>utsāha di dharmma ṅan śivabhakti</foreign> in <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00095.xml">C. 95</ref>, face A, l. 12, apparently meaning <quote>making efforts for the sake of <foreign>dharma</foreign> and devotion to Śiva</quote>, suggests the sense assumed here.</p>
+</div>
+<div type="bibliography">
+<p/>
+<listBibl type="primary">
+<bibl n="EA"><ptr target="bib:Aymonier1891_01"/><citedRange unit="page">58-59</citedRange></bibl>
+<bibl n="LF"><ptr target="bib:Finot1915_01"/><citedRange unit="page">51</citedRange><citedRange unit="note">2</citedRange></bibl>
+</listBibl>
+<listBibl type="secondary">
+<!-- <bibl><ptr target="cic-bibl:parmentier-1909"/>: <biblScope>220</biblScope></bibl>  -->
+<bibl><ptr target="bib:Majumdar1927_02"/><citedRange unit="page">214-215</citedRange>
+</bibl>
+</listBibl>
+</div>
+</body>
+</text>
 </TEI>

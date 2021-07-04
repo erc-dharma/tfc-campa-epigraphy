@@ -129,6 +129,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change when="2021-07-04" who="part:argr" status="draft">Resolved validation problems.</change>
          <change when="2020-09-14" who="part:axja" status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
@@ -159,10 +160,55 @@
       </graphic>
    </facsimile>
    <text xml:space="preserve"><body><div type="edition" xml:lang="x-oldcam-Latn">
-            <ab>
-            <g>||</g> pom̃ yām̃ pu rājabhagavanta aum̃ sakrānta urām̃ mandā vijaya vuḥ pak yām̃ pu nagara śakarāja 1179
-            </ab>
-         </div><div type="apparatus"><listApp><app><lem><g>||</g></lem><note>The form of the opening sign, ignored in previous publications, is uncommon, but it is found also in the nearly contemporary inscription <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00058.xml">C. 58</ref>.</note></app><app><lem>aum̃</lem><note>All previous publications give <foreign>oṅ</foreign>.</note></app><app><lem>sakrānta</lem><note>All previous publications give <foreign>śakrānta</foreign>.</note></app><app><lem source="bib:Finot (1915)">1179</lem><rdg source="bib:Finot (1906)">1171</rdg><rdg source="bib:Durand">1187</rdg><rdg source="bib:Schweyer">1119</rdg></app></listApp></div><div type="translation"><ab>His majesty the royal venerable, Sir Sakrānta, man of Mandā Vijaya, has gifted [this] to the Lady of the Land. [Era of the] Śaka king 1178 (= 1257/8 C.E.).</ab></div><div type="translation" xml:lang="fra"><ab>Sa majesté le vénérable royal, sieur Sakrānta, homme de Mandā Vijaya, a offert [ceci] à la Dame du Pays. [Ère du] roi des Śaka 1178 (= 1257/8 de n.è.).
-         </ab></div><div type="commentary"><p>The idea forwarded by Schweyer in <bibl><ptr target="bib:Baptiste-Zephir2005_02"/><citedRange unit="page">297</citedRange></bibl> that the text was not meant to be read by humans but only by the goddess who was recipient of the donation, and that this would explain why the text was engraved upside-down on the object which is interpreted as a bowl, seems entirely <foreign>ad hoc</foreign>.</p><p>For the opening phraseology, cf. <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00005.xml">C. 5</ref>, ll. 17-18. Might the unique expression <foreign>rājabhagavanta</foreign> be equivalent to <foreign>yuvarāja</foreign>? It seems more likely that this expression is intended as a compound, than as two separate words, as previous editions have assumed.
-               The name Sakrānta is possibly attested again, although with orthographic variants, as <foreign>sakram̃ttha</foreign> in <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00001.xml">C. 1</ref> and as <foreign>sakram̃tthi</foreign> in <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00043.xml">C. 43</ref>.</p></div><div type="bibliography"><p>An initial reading having been presented during a lecture at Paris (<bibl><ptr target="bib:Finot1906_01"/></bibl>), the text was read directly from the original by father Durand, and published again with a different reading of the date in <bibl><ptr target="bib:Parmentier1906_01"/><citedRange unit="page">291 n. 2</citedRange></bibl>, whence <bibl><ptr target="bib:Golzio2004_01"/><citedRange unit="page">188</citedRange></bibl>; the reading of the date was again emended in <bibl><ptr target="bib:Finot1915_05"/><citedRange unit="page">192</citedRange></bibl>; reading with new error for the date in <bibl><ptr target="bib:Schweyer2005_01"/><citedRange unit="page">107</citedRange></bibl> (see also the entry by the same author in <bibl><ptr target="bib:Baptiste-Zephir2005_02"/></bibl>); an emendation proposed in <bibl><ptr target="bib:Griffiths+al2008-2009_01"/><citedRange unit="page">476</citedRange></bibl></p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Parmentier1909_01"/><citedRange unit="page">132</citedRange></bibl><bibl><ptr target="bib:Majumdar1985_01"/><citedRange unit="page">214</citedRange></bibl></listBibl></div></body></text>
+            <p>
+            <lb n="1"/><g>||</g> pom̃ yām̃ pu rājabhagavanta aum̃ sakrānta urām̃ mandā vijaya vuḥ pak yām̃ pu nagara śakarāja 1179
+            </p>
+         </div>
+<div type="apparatus">
+<listApp>
+<app loc="1">
+<lem>
+<g>||</g></lem>
+<note>The form of the opening sign, ignored in previous publications, is uncommon, but it is found also in the nearly contemporary inscription <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00058.xml">C. 58</ref>.</note>
+</app>
+<app loc="1">
+<lem>aum̃</lem>
+<note>All previous publications give <foreign>oṅ</foreign>.</note>
+</app>
+<app loc="1">
+<lem>sakrānta</lem>
+<note>All previous publications give <foreign>śakrānta</foreign>.</note>
+</app>
+<app loc="1">
+<lem source="bib:Finot1915_05">1179</lem>
+<rdg source="bib:Finot1906_01">1171</rdg>
+<rdg source="bib:Parmentier1906_01">1187</rdg>
+<rdg source="bib:Schweyer2005_01">1119</rdg>
+</app>
+</listApp>
+</div>
+<div type="translation" resp="part:argr">
+<p>His majesty the royal venerable, Sir Sakrānta, man of Mandā Vijaya, has gifted [this] to the Lady of the Land. [Era of the] Śaka king 1178 (= 1257/8 C.E.).</p>
+</div>
+<div type="translation" xml:lang="fra" resp="part:argr">
+<p>Sa majesté le vénérable royal, sieur Sakrānta, homme de Mandā Vijaya, a offert [ceci] à la Dame du Pays. [Ère du] roi des Śaka 1178 (= 1257/8 de n.è.).</p>
+</div>
+<div type="commentary"><p>The idea forwarded by Schweyer in <bibl><ptr target="bib:Baptiste-Zephir2005_02"/><citedRange unit="page">297</citedRange></bibl> that the text was not meant to be read by humans but only by the goddess who was recipient of the donation, and that this would explain why the text was engraved upside-down on the object which is interpreted as a bowl, seems entirely <foreign>ad hoc</foreign>.</p><p>For the opening phraseology, cf. <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00005.xml">C. 5</ref>, ll. 17-18. Might the unique expression <foreign>rājabhagavanta</foreign> be equivalent to <foreign>yuvarāja</foreign>? It seems more likely that this expression is intended as a compound, than as two separate words, as previous editions have assumed.
+               The name Sakrānta is possibly attested again, although with orthographic variants, as <foreign>sakram̃ttha</foreign> in <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00001.xml">C. 1</ref> and as <foreign>sakram̃tthi</foreign> in <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00043.xml">C. 43</ref>.</p></div>
+<div type="bibliography">
+<p>An initial reading having been presented during a lecture at Paris (<bibl><ptr target="bib:Finot1906_01"/></bibl>), the text was read directly from the original by father Eugène-Marie Durand, whose amended was published in <bibl><ptr target="bib:Parmentier1906_01"/><citedRange unit="page">291</citedRange><citedRange unit="note">2</citedRange></bibl>, whence <bibl><ptr target="bib:Golzio2004_01"/><citedRange unit="page">188</citedRange></bibl>; the reading of the date was again amended in <bibl><ptr target="bib:Finot1915_05"/><citedRange unit="page">192</citedRange></bibl>; reading with new error for the date in <bibl><ptr target="bib:Schweyer2005_01"/><citedRange unit="page">107</citedRange></bibl> (see also the entry by the same author in <bibl><ptr target="bib:Baptiste-Zephir2005_02"/></bibl>); an emendation proposed in <bibl><ptr target="bib:Griffiths+al2008-2009_01"/><citedRange unit="page">476</citedRange></bibl></p>
+<listBibl type="primary">
+<bibl n="LF1"><ptr target="bib:Finot1906_01"/></bibl>
+<bibl n="EMD"><ptr target="bib:Parmentier1906_01"/><citedRange unit="page">291</citedRange><citedRange unit="note">2</citedRange></bibl>
+<bibl n="LF2"><ptr target="bib:Finot1915_05"/><citedRange unit="page">192</citedRange></bibl>
+<bibl n="AVS"><ptr target="bib:Schweyer2005_01"/><citedRange unit="page">107</citedRange></bibl>
+</listBibl>
+<listBibl type="secondary">
+<bibl><ptr target="bib:Parmentier1909_01"/><citedRange unit="page">132</citedRange></bibl><bibl>
+<ptr target="bib:Majumdar1927_01"/><citedRange unit="page">214</citedRange><citedRange unit="item">99</citedRange></bibl>
+<bibl><ptr target="bib:Griffiths+al2008-2009_01"/><citedRange unit="page">476</citedRange></bibl>
+</listBibl>
+</div>
+</body>
+</text>
 </TEI>

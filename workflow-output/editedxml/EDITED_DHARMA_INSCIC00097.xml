@@ -125,6 +125,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change when="2021-07-04" who="part:argr" status="draft">Resolved validation problems.</change>
          <change when="2020-09-14" who="part:axja" status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
@@ -137,10 +138,49 @@
       </graphic>
    </facsimile>
    <text xml:space="preserve"><body><div type="edition" xml:lang="sa-Latn-x-CI">
-            <lg met="Anuṣṭubh" n="0">
-               <l>sthāpito rājasiṅhena śrīmadvikrāntavarmmaṇā</l>
-               <l>vāmeśvarasya kośo yaṁ stheyād ā bhuvanasthiteḥ <g>||</g></l>
+            <lg met="anuṣṭubh" n="1">
+               <l n="a"><lb n="1"/>sthāpito rājasiṅhena</l> <l n="b">śrīmadvikrāntavarmmaṇā</l>
+               <l n="c">vāmeśvarasya kośo yaṁ</l> <l n="d">stheyād ā bhuvanasthiteḥ <g>||</g></l>
             </lg>
-            </div><div type="apparatus"><listApp><app loc="a"><lem>rāja°</lem><note>the estampage seems to show <foreign>rājā</foreign>, which would be unmetrical and very unlikely for a number of other reasons too. Rather than presuming an error, we assume that the stone has suffered slight damage here, so that the impression of an <foreign>ā</foreign>-vocalization after <foreign>j</foreign> given by the estampage is misleading.</note></app><app loc="d"><lem>stheyād</lem><rdg source="bib:Finot">stheyān</rdg><note>The form ending in <foreign>-n</foreign> supposed by Finot (and retained unquestioned by Majumdar) could be interpreted (as the comparative form of the adjective <foreign>sthiraḥ</foreign>), but would be awkward. Cf. also <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00096.xml">C. 96</ref>, st. XXX.</note></app><app loc="d"><lem>||</lem><rdg source="bib:Finot"><space/></rdg></app></listApp></div><div type="translation"><p>This sheath (<foreign>kośa</foreign>) for (the <foreign>liṅga</foreign> of) Vāmeśvara was placed by the illustrious Vikrāntavarman, lion among kings. May it remain as long as will remain the earth! 
-                </p></div><div type="translation" xml:lang="fra"><p>We cite Finot’s translation of 1904 :</p><p>Par le lion des rois Vikrāntavarman a été érigé ce kośa de Vāmeśvara, inébranlable aussi longtemps que l’existence du monde.</p></div><div type="commentary"><p>This inscription records the installation of a <foreign>liṅga</foreign>-sheath of a Śiva called Vāmeśvara. Finot and Majumdar take this name to be no more than a synonym of Śiva. But in his notes on the inscriptions of Campā, kindly put at our disposal, Alexis Sanderson has observed that it must be the name of the deity of a specific <foreign>liṅga</foreign>, surely that listed with Īśāneśvara, Śambhubhadreśvara and Prabhāseśvara in <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00081.xml">C. 81</ref>, face c, ll. 1-3 (see <bibl><ptr target="bib:Griffiths+al2012_01"/><citedRange unit="page">227-228</citedRange></bibl>).</p></div><div type="bibliography"><p/><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Parmentier1909_01"/><citedRange unit="page">419</citedRange></bibl></listBibl></div></body></text>
+ </div>
+<div type="apparatus">
+<listApp>
+<app loc="1">
+<lem>rāja°</lem>
+<note>the estampage seems to show <foreign>rājā</foreign>, which would be unmetrical and very unlikely for a number of other reasons too. Rather than presuming an error, we assume that the stone has suffered slight damage here, so that the impression of an <foreign>ā</foreign>-vocalization after <foreign>j</foreign> given by the estampage is misleading.</note>
+</app>
+<app loc="1">
+<lem>stheyād</lem>
+<rdg source="bib:Finot1904_05">stheyān</rdg>
+<note>The form ending in <foreign>-n</foreign> supposed by Finot (and retained unquestioned by Majumdar) could be interpreted (as the comparative form of the adjective <foreign>sthiraḥ</foreign>), but would be awkward. Cf. also <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00096.xml">C. 96</ref>, st. XXX.</note>
+</app>
+<app loc="1">
+<lem>||</lem>
+<rdg source="bib:Finot1904_05"><space/></rdg>
+</app>
+</listApp>
+</div>
+<div type="translation" source="bib:Goodall+Griffiths2013_01">
+<p>This sheath (<foreign>kośa</foreign>) for (the <foreign>liṅga</foreign> of) Vāmeśvara was placed by the illustrious Vikrāntavarman, lion among kings. May it remain as long as will remain the earth!</p>
+</div>
+<div type="translation" xml:lang="fra" source="bib:Finot1904_05">
+<p>Par le lion des rois Vikrāntavarman a été érigé ce kośa de Vāmeśvara, inébranlable aussi longtemps que l’existence du monde.</p>
+</div>
+<div type="commentary">
+<p>This inscription records the installation of a <foreign>liṅga</foreign>-sheath of a Śiva called Vāmeśvara. Finot and Majumdar take this name to be no more than a synonym of Śiva. But in his notes on the inscriptions of Campā, kindly put at our disposal, Alexis Sanderson has observed that it must be the name of the deity of a specific <foreign>liṅga</foreign>, surely that listed with Īśāneśvara, Śambhubhadreśvara and Prabhāseśvara in <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00081.xml">C. 81</ref>, face c, ll. 1-3 (see <bibl><ptr target="bib:Griffiths+al2012_01"/><citedRange unit="page">227-228</citedRange></bibl>).</p>
+</div>
+<div type="bibliography">
+<p/>
+<listBibl type="primary">
+<bibl n="LF"><ptr target="bib:Finot1904_05"/><citedRange unit="page">930</citedRange></bibl>
+<bibl n="G+G"><ptr target="bib:Goodall+Griffiths2013_01"/><citedRange unit="page">424-427</citedRange></bibl>
+</listBibl>
+<listBibl type="secondary">
+<bibl><ptr target="bib:Parmentier1909_01"/><citedRange unit="page">419</citedRange></bibl>
+<bibl><ptr target="bib:Majumdar1927_02"/><citedRange unit="page">36</citedRange><citedRange unit="item">19</citedRange></bibl>
+<bibl n="CIC"><ptr target="bib:Griffiths+al2008-2009_01"/><citedRange unit="page">458</citedRange></bibl>
+</listBibl>
+</div>
+</body>
+</text>
 </TEI>

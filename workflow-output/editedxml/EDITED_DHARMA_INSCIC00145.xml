@@ -129,6 +129,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change when="2021-07-04" who="part:argr" status="draft">Resolved validation problems.</change>
          <change when="2020-09-14" who="part:axja" status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
@@ -159,9 +160,52 @@
       </graphic>
    </facsimile>
    <text xml:space="preserve"><body><div type="edition" xml:lang="sa-Latn-x-CI">
-            <lg met="Anuṣṭubh" n="0">
-                <l>vanāntareśvarāyāsmai śrīmate diśakīrttaye</l>
-                <l>campāpurapatī raupyaṁ kalaśaṁ śraddhayātmanaḥ <g>||</g></l>
+            <lg met="Anuṣṭubh" n="1">
+                <l n="a"><lb n="1"/>vanāntareśvarāyāsmai</l> <l n="b">śrīmate diśakīrttaye</l>
+                <l n="c">campāpurapatī raupyaṁ</l> <l n="d">kalaśaṁ śraddhayātmanaḥ <g>||</g></l>
             </lg>
-            </div><div type="apparatus"><listApp><app loc="b"><lem>diśa°</lem><rdg source="bib:Rougier and Schweyer">divya°</rdg><note>Cf. the emendation <foreign>bhūsvātmakīrttaye</foreign>, which expresses the same meaning, proposed under <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00207.xml">C. 207</ref>. There clearly is no <foreign>akṣara vya</foreign>.</note></app><app loc="c"><lem>campāpurapatī</lem><note>The edition published <bibl><ptr target="bib:BEFEO1911_01"/><citedRange unit="page">472</citedRange></bibl> contained a typographic error <foreign>campāpūrapatī</foreign>. All other editions read this word correctly.</note></app><app loc="cd"><lem>raupyaṁ kalaśaṁ</lem><rdg source="bib:Schweyer">raupyaḥ kalaśaḥ</rdg><note>All other editions read these words correctly, with <foreign>anusvāra</foreign> rather than <foreign>visarga</foreign>.</note></app><app loc="d"><lem><g>||</g></lem><note>The punctuation sign was ignored by Rougier and Schweyer.</note></app></listApp></div><div type="translation"><p>The king of Campāpura [has given] the silver ewer (here) to this illustrious Vanāntareśvara here, for the sake of fame in the quarters of space, from his personal devotion.</p></div><div type="translation" xml:lang="fra"><p>Le roi de Campāpura [a donné] l’aiguière en argent (que voici) à cet illustre Vanāntareśvara-ci, pour la gloire dans les directions de l’espace, de par sa dévotion personnelle.</p></div><div type="commentary"><p>The name Śrī Vanāntareśvara figures elsewhere only in <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00144.xml">C. 144</ref>, but cf. the word <foreign>vanānthara</foreign> (<foreign>sic</foreign>) in <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00004.xml">C. 4</ref>, face A, l. 4.</p></div><div type="bibliography"><p/><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><bibl><ptr target="bib:Baptiste-Zephir2005_02"/></bibl></listBibl></div></body></text>
+            </div>
+<div type="apparatus">
+<listApp>
+<app loc="1">
+<lem>diśa°</lem>
+<rdg source="bib:BEFEO011_1911 bib:Schweyer1999_02">divya°</rdg>
+<note>Cf. the emendation <foreign>bhūsvātmakīrttaye</foreign>, which expresses the same meaning, proposed under <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00207.xml">C. 207</ref>. There clearly is no <foreign>akṣara</foreign> <foreign>vya</foreign>.</note>
+</app>
+<app loc="1">
+<lem>campāpurapatī</lem>
+<note>The edition published <bibl><ptr target="bib:BEFEO011_1911"/><citedRange unit="page">472</citedRange></bibl> contained a typographic error <foreign>campāpūrapatī</foreign>. All other editions read this word correctly.</note>
+</app>
+<app loc="cd">
+<lem>raupyaṁ kalaśaṁ</lem>
+<rdg source="bib:Schweyer1999_02">raupyaḥ kalaśaḥ</rdg>
+<note>All other editions read these words correctly, with <foreign>anusvāra</foreign> rather than <foreign>visarga</foreign>.</note>
+</app>
+<app loc="d">
+<lem><g>||</g></lem>
+<note>The punctuation sign was ignored by Rougier and Schweyer.</note>
+</app>
+</listApp>
+</div>
+<div type="translation" resp="part:argr">
+<p>The king of Campāpura [has given] the silver ewer (here) to this illustrious Vanāntareśvara here, for the sake of fame in the quarters of space, from his personal devotion.</p>
+</div>
+<div type="translation" xml:lang="fra" resp="part:argr">
+<p>Le roi de Campāpura [a donné] l’aiguière en argent (que voici) à cet illustre Vanāntareśvara-ci, pour la gloire dans les directions de l’espace, de par sa dévotion personnelle.</p>
+</div>
+<div type="commentary"><p>The name Śrī Vanāntareśvara figures elsewhere only in <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00144.xml">C. 144</ref>, but cf. the word <foreign>vanānthara</foreign> (<foreign>sic</foreign>) in <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00004.xml">C. 4</ref>, face A, l. 4.</p>
+</div>
+<div type="bibliography">
+<p>First reported, with a reading and translation, by V. Rougier in <bibl><ptr target="bib:BEFEO011_1911"/></bibl>.</p>
+<listBibl type="primary">
+<bibl n="VR"><ptr target="bib:BEFEO011_1911"/><citedRange unit="page">472</citedRange><citedRange unit="item">6</citedRange></bibl>
+</listBibl>
+<listBibl type="secondary">
+<bibl><ptr target="bib:Rougier1912_01"/><citedRange unit="page">212</citedRange><citedRange unit="item">3</citedRange></bibl>
+<bibl><ptr target="bib:Schweyer1999_02"/><citedRange>348</citedRange></bibl>
+<bibl><ptr target="bib:Baptiste-Zephir2005_02"/><citedRange>???</citedRange></bibl>
+<bibl n="CIC"><ptr target="bib:Griffiths+al2008-2009_01"/><citedRange unit="page">447, 475, 477</citedRange></bibl>
+</listBibl>
+</div>
+</body></text>
 </TEI>

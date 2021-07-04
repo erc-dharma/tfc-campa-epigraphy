@@ -130,6 +130,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change when="2021-07-04" who="part:argr" status="draft">Resolved validation problems.</change>
          <change when="2020-09-14" who="part:axja" status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
@@ -145,17 +146,29 @@
             <ab><lb n="1"/>
                <g type="siddham"/></ab>
             <lg met="Āryāgīti" n="1">
-               <l>śaktiḥ parasya na ripuṁ kṣapayati gamitāpi daṇḍabhedabhayena</l>
-               <l><lb n="2"/><supplied reason="lost">ya</supplied>sya tv adaṇḍabhedā sakalam arim
+               <l n="ab">śaktiḥ parasya na ripuṁ kṣapayati gamitāpi daṇḍabhedabhayena</l>
+               <l n="cd"><lb n="2"/><supplied reason="lost">ya</supplied>sya tv adaṇḍabhedā sakalam arim
                   abhīr bhinatti śaktibhṛta iva <g>||</g> </l>
             </lg>
             <lg met="Āryāgīti" n="2">
-               <l><lb n="3"/> sa śrīprakāśadharmmā nṛpatiḥ kandarppadharmmaṇo dharaṇibhujaḥ </l>
-               <l><lb n="4"/>s<supplied reason="lost">v</supplied>apitāmahīpitur idaṁ sthāpitavān
+               <l n="ab"><lb n="3"/> sa śrīprakāśadharmmā nṛpatiḥ kandarppadharmmaṇo dharaṇibhujaḥ </l>
+               <l n="cd"><lb n="4"/>s<supplied reason="lost">v</supplied>apitāmahīpitur idaṁ sthāpitavān
                   arcanāya pādukayugalam· <g>||</g></l>
             </lg>
-         </div><div type="apparatus"><listApp><app loc="IIc"><lem>s<supplied reason="lost">v</supplied>apitāmahīpitur</lem><rdg source="bib:Huber">prapitāmahīpitur</rdg><note>Although Huber (who used the same estampage as we do) marked no uncertainty of reading, no trace is visible of the subscript <foreign>r</foreign> under the consonant that he reads as <foreign>p</foreign>. This consonant must, however, quite certainly be read as <foreign>s</foreign>, for it shows the distinctive diagonal bridge between the two verticals. Although damage to the stone just below the <foreign>s</foreign> has removed every trace of a subscript consonant, the only contextually permissible reading seems to us to be <foreign>sva</foreign>°, so we have restored the now invisible subscript <foreign>v</foreign> in place of <foreign>r</foreign>.</note></app><app loc="IId"><lem>pāduka°</lem><rdg source="bib:Huber">haṭaka°</rdg></app></listApp></div><div type="translation"><p> I. The power (<foreign>śakti</foreign>) of [his] rival destroys no enemy, even when it is brought near by the fear of (political manoeuvres such as) punishment or sowing
-                 of dissension. — But the one whose dauntless [spear (<foreign>śakti</foreign>)], like that of the spear-wielder [<persName type="god">Skanda</persName> himself], destroys every enemy without its shaft ever breaking (<foreign>adaṇḍabhedā</foreign>), — But the one whose [mere] gesture of protection (<foreign>abhī</foreign>), without need of resorting to [the political manoeuvres of] punishment or the sowing of dissension, has brought low every enemy, as though he were in fact holding a spear (<foreign>śaktibhṛta iva</foreign>), — But the one who is like <persName type="god">Skanda</persName> and for whom [the power (<foreign>śakti</foreign>) of <persName type="god">Śiva</persName>, in initiation (cf. the term <foreign>śaktipāta</foreign>)], arousing no fear and resorting to neither punishment nor sowing of dissension, has broken every [internal] enemy, </p><p>II. namely the king Śrī <persName type="king">Prakāśadharman</persName>, has
+         </div>
+<div type="apparatus">
+<listApp><app loc="4"><lem>s<supplied reason="lost">v</supplied>apitāmahīpitur</lem>
+<rdg source="bib:Huber1911_01">prapitāmahīpitur</rdg>
+<note>Although Huber (who used the same estampage as we do) marked no uncertainty of reading, no trace is visible of the subscript <foreign>r</foreign> under the consonant that he reads as <foreign>p</foreign>. This consonant must, however, quite certainly be read as <foreign>s</foreign>, for it shows the distinctive diagonal bridge between the two verticals. Although damage to the stone just below the <foreign>s</foreign> has removed every trace of a subscript consonant, the only contextually permissible reading seems to us to be <foreign>sva</foreign>°, so we have restored the now invisible subscript <foreign>v</foreign> in place of <foreign>r</foreign>.</note>
+</app>
+<app loc="4">
+<lem>pāduka°</lem>
+<rdg source="bib:Huber1911_01">haṭaka°</rdg>
+</app>
+</listApp>
+</div>
+<div type="translation" source="bib:Goodall+Griffiths2013_01">
+<p> I. The power (<foreign>śakti</foreign>) of [his] rival destroys no enemy, even when it is brought near by the fear of (political manoeuvres such as) punishment or sowing of dissension. — But the one whose dauntless [spear (<foreign>śakti</foreign>)], like that of the spear-wielder [<persName type="god">Skanda</persName> himself], destroys every enemy without its shaft ever breaking (<foreign>adaṇḍabhedā</foreign>), — But the one whose [mere] gesture of protection (<foreign>abhī</foreign>), without need of resorting to [the political manoeuvres of] punishment or the sowing of dissension, has brought low every enemy, as though he were in fact holding a spear (<foreign>śaktibhṛta iva</foreign>), — But the one who is like <persName type="god">Skanda</persName> and for whom [the power (<foreign>śakti</foreign>) of <persName type="god">Śiva</persName>, in initiation (cf. the term <foreign>śaktipāta</foreign>)], arousing no fear and resorting to neither punishment nor sowing of dissension, has broken every [internal] enemy, </p><p>II. namely the king Śrī <persName type="king">Prakāśadharman</persName>, has
                installed this pair of footprints in order to praise king
                   <persName>Kandarpadharman</persName>, the father of his paternal
                great-grandmother. </p><!--AG: <p/> is not working nicely here. Other suggestions? --></div><div type="commentary"><p>We assume three levels of punning (<foreign>śleṣa</foreign>) in the first stanza. The
@@ -177,14 +190,26 @@
                   <quote rend="block"><l>āsādya <hi rend="bold">śaktiṁ</hi> vivudhopanītāṁ māheśvarīṁ jñānamayīm amoghām</l><l><hi rend="bold">kumāra</hi>bhāve vijit<hi rend="bold">āri</hi>varggo yo dīpayām āsa mahendralakṣmīm ||</l><!-- AG check that rend="bold" becomes correctly displayed --><ab>‘After attaining the Power (or: weapon) of <persName type="god">Maheśvara</persName> (Śiva) that consists in Knowledge, that is never
                failing (viz. after attaining initiation) [and that has been] transmitted by the gods, being in youth (or: as crown-prince, or: as <persName type="god">Kumāra</persName>, i.e. <persName type="god">Skanda</persName>) one whose enemies
                (or: passions) were conquered, he caused the glory of <persName type="king">Mahendravarman</persName> to shine.’</ab></quote><!-- ARLO: not sure how to encode the cited verse and its translation -->
-                Mahendra is both the name of King Rājendravarman’s father, Mahendravarman, and a name of the god Indra, whose enemies Skanda destroyed.  So there must here be a reference to Skanda getting hold of (<foreign>āsādya</foreign>) his famous weapon, called Śakti (though not always clearly a spear), and destroying Indra’s enemies (which was the reason for his birth being plotted by Indra in the first place).  Most words can be accounted for in that layer of meaning, but the words <foreign>māheśvarīṁ jñānamayīm</foreign> defy multivalent interpretation, and <foreign>vibudhopanītāṁ</foreign> suggests that he gained his famous weapon from the gods. There is almost certainly a myth that recounts such a handover, but we have not been able to find it.  What we do find is that Viśvakarman is said to have fashioned Guha’s Śakti using bits of radiance of the sun (in <ref><seg type="check">Viṣṇupurāṇa</seg> 3.2.12</ref>), 
+                Mahendra is both the name of King Rājendravarman’s father, Mahendravarman, and a name of the god Indra, whose enemies Skanda destroyed.  So there must here be a reference to Skanda getting hold of (<foreign>āsādya</foreign>) his famous weapon, called Śakti (though not always clearly a spear), and destroying Indra’s enemies (which was the reason for his birth being plotted by Indra in the first place).  Most words can be accounted for in that layer of meaning, but the words <foreign>māheśvarīṁ jñānamayīm</foreign> defy multivalent interpretation, and <foreign>vibudhopanītāṁ</foreign> suggests that he gained his famous weapon from the gods. There is almost certainly a myth that recounts such a handover, but we have not been able to find it.  What we do find is that Viśvakarman is said to have fashioned Guha’s Śakti using bits of radiance of the sun (in <title>Viṣṇupurāṇa</title>  <seg type="check">3.2.12</seg>), 
                   <!-- AG how to deal with primary sources in bibliography? -->
-                  and that certainly suggests that some god must then have handed it to him. What is plain is that in one level of meaning the verse refers to Rājendravarman, like Prakāśadharman, having received Śiva’s salvific grace (<foreign>śakti</foreign>), in other words tantric initiation. </p><p>Our new reading <foreign>s<supplied reason="lost">v</supplied>apitāmahīpitur</foreign> makes Kandarpadharman the father of Prakāśadharman’s paternal grandmother (rather than the father of his paternal great-grandmother).</p></div><!-- <div type="bibliography" subtype="secondary">
+                  and that certainly suggests that some god must then have handed it to him. What is plain is that in one level of meaning the verse refers to Rājendravarman, like Prakāśadharman, having received Śiva’s salvific grace (<foreign>śakti</foreign>), in other words tantric initiation. </p><p>Our new reading <foreign>s<supplied reason="lost">v</supplied>apitāmahīpitur</foreign> makes Kandarpadharman the father of Prakāśadharman’s paternal grandmother (rather than the father of his paternal great-grandmother).</p></div>
+<div type="bibliography">
+<p/>
+<listBibl type="primary">
+<bibl n="LF"><ptr target="bib:Huber1911_01"/><citedRange unit="page">262-264</citedRange></bibl>
+<bibl n="G+G"><ptr target="bib:Goodall+Griffiths2013_01"/><citedRange unit="page">429-434</citedRange></bibl>
+</listBibl>
+<listBibl type="secondary">
+<bibl><ptr target="bib:Finot1915_02"/><citedRange unit="page">17</citedRange></bibl>
+<bibl><ptr target="bib:Majumdar1927_02"/><citedRange unit="page">13-14</citedRange><citedRange unit="item">9</citedRange></bibl>
+<bibl n="CIC"><ptr target="bib:Griffiths+al2008-2009_01"/><citedRange unit="page">447</citedRange></bibl>
+</listBibl>
+</div>
+<!-- <div type="bibliography" subtype="secondary">
             <listBibl>
-               <bibl><ptr target="cic-bibl:finot-1915a"/>: <biblScope>17</biblScope>.</bibl>
-               <bibl><ptr target="cic-bibl:finot-1925"/>: <biblScope>308-352</biblScope>.</bibl>
+                <bibl><ptr target="cic-bibl:finot-1925"/>: <biblScope>308-352</biblScope>.</bibl>
                <bibl><ptr target="cic-bibl:goodall-2004"/></bibl>
              </listBibl>
-              </div>
-             --></body></text>
+  </div> -->
+</body></text>
 </TEI>

@@ -41,11 +41,7 @@
             <idno type="filename">DHARMA_INSCIC00019</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
-                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
-                        Licence. To view a copy of the licence, visit
-                        https://creativecommons.org/licenses/by/4.0/ or send a letter to
-                        Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-                        California, 94041, USA.</p>
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
                   <p>Copyright (c) 2019-2025 by Arlo Griffiths and Salomé Pichon.</p>
                </licence>
             </availability>
@@ -69,11 +65,7 @@
                   <availability>
                      <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Copyright (c) 2012 by Arlo Griffiths, Amandine Lepoutre &amp; William Southworth.</p>
-                        <p>This work is licensed under the Creative Commons Attribution 3.0 Unported
-                            License. To view a copy of this license, visit
-                            http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative
-                            Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041,
-                            USA.</p>
+                        <p>This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
                      </licence>
                   </availability>
                </publicationStmt>
@@ -131,6 +123,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change when="2021-07-03" who="part:argr" status="draft">Resolved validation problems.</change>
          <change when="2020-09-14" who="part:axja" status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
@@ -155,10 +148,30 @@
            <lb n="9"/> dala<unclear>ṁ</unclear> doṁ mandala śatruḥ la senāpatī pam̃r·
                     <lb break="no" n="10"/><supplied reason="lost">rauṅ</supplied> <gap reason="lost" quantity="2" unit="character"/> <orig><unclear>makiri laḥ lakī</unclear></orig> <gap reason="lost" quantity="1" unit="character"/> <orig><unclear>lāra hauc·</unclear></orig> 
                 </ab>
-            </div><div type="apparatus"><listApp><app loc="7"><lem>dhaṅā vala</lem><rdg source="bib:Bergaigne &amp; Aymonier">mahāvala</rdg><note>On the estampage, this reading seems to be more than suspicious. Moreover this compound <foreign>mahāvala</foreign> figures nowhere in the corpus, whereas the word <foreign>vala</foreign> it frequenly used by itself.</note></app><app loc="7"><lem><orig><unclear>du </unclear><add place="above"><unclear>na</unclear></add><unclear> n</unclear></orig><unclear>·</unclear></lem><note>The presence of an <foreign>akṣara</foreign> above the line can be guessed. If it is read as <foreign>na</foreign>, it should be inserted between <foreign>du</foreign> and <foreign>n·</foreign>, and we must accept that it has been sbeen engraved a little too far left. Alternatively, the reading <foreign>ma</foreign> is possible, and the sequence can then be restored as follows: <foreign>parākra <add place="above">ma</add> jun·</foreign>.</note></app><app loc="8"><lem>samū svabhāva</lem><note>The words <foreign>samū</foreign> and <foreign>svabhāva</foreign> appear twice together elsewhere namely in C. 90, face B, ll. 12 and 27.</note></app><app loc="8"><lem>vela</lem><note>Other readings are possible: <foreign>vel·</foreign> and <foreign>velaṁ</foreign>.</note></app></listApp></div><div type="translation"><p> Om! Hail! [In the year of the] Śaka king 930, day 4/5 of the waxing [fortnight] of month 10 (that is to say Mārgaśīrṣa), during the reign of Y.P.K. the victorious Śrī Harivarmadeva, my master ... It was the time when the general Pam̃ Rauṅ from Dauk Jā, (village) Manacīk ... The latter is of the same nature as Y.P.K. Viṣṇu ... horrible war in all the districts of the ennemies, the general Pam̃r Rauṅ ... </p></div><div type="translation" xml:lang="fra"><p> Om ! Salut ! [En l’année] 930 [du] roi des Śaka, jour 4/5 [de la] (quinzaine) croissante du mois 10 (c.-à-d. mārgaśīrṣa), au cours du règne de Y.P.K. le victorieux Śrī Harivarmadeva, mon maître... Ce fut le temps où le général Pam̃ Rauṅ de Dauk Jā, (village) Manacīk... Ce dernier est de la même nature que Y.P.K. Viṣṇu... guerre horrible dans tous les districts des ennemis, le général Pam̃r Rauṅ...</p></div><!-- <div type="bibliography" subtype="secondary">
+            </div><div type="apparatus">
+<listApp>
+<app loc="7">
+<lem>dhaṅā vala</lem>
+<rdg source="bib:Bergaigne1888_01">mahāvala</rdg>
+<note>Bergaigne (1888, p. 77) a lu mahāvala, et Aymonier (1891, p. 23) a apparemment
+retenu cette lecture pour les fragments de traduction qu’il donne.
+On the estampage, this reading seems to be more than suspicious. Moreover this compound <foreign>mahāvala</foreign> figures nowhere in the corpus, whereas the word <foreign>vala</foreign> it frequenly used by itself.</note></app><app loc="7"><lem><orig><unclear>du </unclear><add place="above"><unclear>na</unclear></add><unclear> n</unclear></orig><unclear>·</unclear></lem><note>The presence of an <foreign>akṣara</foreign> above the line can be guessed. If it is read as <foreign>na</foreign>, it should be inserted between <foreign>du</foreign> and <foreign>n·</foreign>, and we must accept that it has been sbeen engraved a little too far left. Alternatively, the reading <foreign>ma</foreign> is possible, and the sequence can then be restored as follows: <foreign>parākra <add place="above">ma</add> jun·</foreign>.</note></app><app loc="8"><lem>samū svabhāva</lem><note>The words <foreign>samū</foreign> and <foreign>svabhāva</foreign> appear twice together elsewhere namely in C. 90, face B, ll. 12 and 27.</note></app><app loc="8"><lem>vela</lem><note>Other readings are possible: <foreign>vel·</foreign> and <foreign>velaṁ</foreign>.</note></app></listApp></div>
+<div type="translation" resp="part:argr"><p> Om! Hail! [In the year of the] Śaka king 930, day 4/5 of the waxing [fortnight] of month 10 (that is to say Mārgaśīrṣa), during the reign of Y.P.K. the victorious Śrī Harivarmadeva, my master ... It was the time when the general Pam̃ Rauṅ from Dauk Jā, (village) Manacīk ... The latter is of the same nature as Y.P.K. Viṣṇu ... horrible war in all the districts of the ennemies, the general Pam̃r Rauṅ ... </p></div>
+<div type="translation" xml:lang="fra" source="bib:Griffiths+al2008-2009_01"><p> Om ! Salut ! [En l’année] 930 [du] roi des Śaka, jour 4/5 [de la] (quinzaine) croissante du mois 10 (c.-à-d. mārgaśīrṣa), au cours du règne de Y.P.K. le victorieux Śrī Harivarmadeva, mon maître... Ce fut le temps où le général Pam̃ Rauṅ de Dauk Jā, (village) Manacīk... Ce dernier est de la même nature que Y.P.K. Viṣṇu... guerre horrible dans tous les districts des ennemis, le général Pam̃r Rauṅ...</p></div>
+<div type="bibliography">
+<p>This inscription was edited ... The present edition and translation after <bibl><ptr target="bib:Griffiths+al2008-2009_01"/><citedRange unit="page">445-446</citedRange></bibl>.</p>
+<listBibl type="primary">
+<bibl n="CIC"><bibl><ptr target="bib:Griffiths+al2008-2009_01"/><citedRange unit="page">445-446</citedRange></bibl></bibl>
+</listBibl>
+<listBibl type="secondary">
+<bibl/>
+</listBibl>
+</div>
+<!-- <div type="bibliography" subtype="secondary">
             <listBibl>
            <bibl><ptr target="cic-bibl:finot-1915a"/>: <biblScope>2 and 8</biblScope>.</bibl>
            <bibl><ptr target="cic-bibl:parmentier-1909"/>: <biblScope>72</biblScope>.</bibl>
             </listBibl>
-            </div> --></body></text>
+            </div> -->
+</body></text>
 </TEI>

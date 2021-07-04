@@ -22,7 +22,7 @@
                   <forename>Arlo</forename>
                   <surname>Griffiths</surname>
                </persName>
-               <persName ref="part:amle"><!--sapi2argr Ai-je mis le bon pseudonyme ? -->
+               <persName ref="http://viaf.org/viaf/289845900"><!--sapi2argr Ai-je mis le bon pseudonyme ? -->
                   <forename>Amandine</forename>
                   <surname>Lepoutre</surname>
                </persName>

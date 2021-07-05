@@ -146,27 +146,27 @@
                         <!-- A: we have the convention of not counting the lines of invocations. I thought it might be useful to mark the kind of <ab> explicitly. We want this kind of <ab> at the center line. -->
                         <ab><lb n="1"/>
                             <g type="siddham"/></ab>
-                       <lg met="Anuṣṭubh" n="1">
+                       <lg met="anuṣṭubh" n="1">
                             <l>śrīvr̥ddheśvaranāthasya saśryutpanneśvarasya ca</l>
                             <l><lb n="2"/>sthāpanobhayakośasya kr̥tā śrīsatyavarmmaṇā <g>||</g></l>                       
                        </lg>
-                        <lg met="Anuṣṭubh" n="2">
+                        <lg met="anuṣṭubh" n="2">
                            <l><lb n="3"/>sā śryādidevanāthasya liṅgasaṁsthāpanākarot</l>
                            <l><lb n="4"/>kr̥tā tena <unclear>śa</unclear>raccandramayūkhavimalaṁ yaśaḥ <g>||</g></l>
                    </lg>
-                        <lg met="Indravajrā" n="3">        
+                        <lg met="indravajrā" n="3">        
                             <l><lb n="5"/>śrīsatyadeveśvaranātham eṣa</l>
                             <l>śrīsatyavarmmā śarakhādripūrṇṇe</l>
                             <l><lb n="6"/>śāke śuceś śukladaśāhayukte </l>
                             <l>śrāddhaḥ pratiṣṭhāpitavān subhaktyā <g>||</g></l>
                     </lg>
-                        <lg met="Śārdūlavikrīḍita" n="4">                       
+                        <lg met="śārdūlavikrīḍita" n="4">                       
                      <l><lb n="7"/>trailokyan tanubhis tanoti sakalaṁ sūkṣmo pi yo jo <w part="I">ṣṭabhi</w></l><lb n="8" break="no"/><l><w part="F">r</w> ggīrvvāṇāḥ parameṣṭhyajaprabhr̥tayo yan te
                             rccayanti prabhum</l>
                             <l><lb n="9"/>yaḥ krodhena tamālapatrapadabhūnetrāgnilakṣmījahā</l>
                             <l><lb n="10"/>śrīmān adbhutaceṣṭitas sa jayati śrīsatyadeveśvaraḥ <g>||</g></l>
                         </lg>
-                    <lg met="Anuṣṭubh" n="5">                       
+                    <lg met="anuṣṭubh" n="5">                       
                      <l><lb n="11"/>śrīsatyavarmmaṇo rājño bhūmau vikasitaṁ yaśaḥ</l>
                             <l><lb n="12"/>atiśete nr̥pān anyāñ jyotir indor <choice><reg>uḍūn</reg><orig>udūn</orig></choice> iva <g>||</g> </l>                        
                     </lg>

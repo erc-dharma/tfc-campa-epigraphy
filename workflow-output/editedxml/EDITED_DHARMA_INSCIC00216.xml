@@ -159,14 +159,14 @@
                         <!-- A: we have the convention of not counting the lines of invocations. I thought it might be useful to mark the kind of <ab> explicitly. We want this kind of <ab> at the center line. -->
                         <ab><lb n="1"/>
                             <g type="siddham"/>  svasti namaś śivāya śrīvr̥ddheśvarāya</ab>
-                       <lg met="Śārdūlavikrīḍita" n="1">
+                       <lg met="śārdūlavikrīḍita" n="1">
                            <l><lb n="2"/>yo lokaprabhavasthitipralayavid digbhāgaviśvaprabhur</l>
                            <l>yyo datvā ja<lb n="3" break="no"/>gatām varaṁ praṇayinām vīrarṣibhis sthāpitaḥ</l>
                            <l>bahner mmūrttimayaiś śatārddhatanubhi<lb n="3" break="no"/>r ddīptorjjitenātmanā</l>
                             <l>pāyād bhūḥ kila pāṇḍaraṅgaviṣaye  śrīmān sa vr̥ddheśvaraḥ <g type="fleuron" subtype="tobedefined"/>
                             </l>                       
                        </lg>
-                        <lg met="Sragdharā" n="2">
+                        <lg met="sragdharā" n="2">
                            <l><lb n="5"/> <w part="I">śuddhāṅśabrahmavaryyaprathitakulaśarannirmmalākāśadeśa</w></l>
                            <l><w part="F">prādurbhbhūto</w><!-- AG: spelling rbhbh may need to be encoded with <choice><reg><orig> -->  vanīndravya<lb n="6" break="no"/>pamalaśaśabhr̥c chrīkalākāntimān yaḥ</l>
                             <l>śatruddhvāntāni jitvā sukr̥takaracayais to<lb n="7" break="no"/>ṣayitvātmabhr̥tyān</l>
@@ -194,15 +194,15 @@
                         <p><lb n="1"/> dattaṁ tac ca ye śrāddhās santo numanyante te yathepsitasukhino bhavantu ye <lb n="2"/> ke cit punar llobhād īrṣyayā narakanirbhbhayā<supplied reason="omitted">ḥ</supplied> pāpakarmmāṇo narādhamās  tad  dhari<lb n="3" break="no"/>ṣyanti te py ubhayataḥ pitros triṅśat pūrvvais triṅśat paraiḥ kulasantānais saha rauravama<lb n="4" break="no"/>hārauravātirauravāvīcīkālasūtratr̥ṇapatāpanaśūlasandaṅśayamaparvvatavaitaraṇī<lb n="5" break="no"/>tyevamādiṣu mahānarakeṣu <!-- Hugh: the next is a case of a long compound, again only one letter affected by <choice>. Here I have just selected the word inside the compound (the same selection is made in <div type="apparatus>. But I could have tagged just the letter itself. --><choice><reg>tāḍana</reg><orig>tādana</orig></choice>cchedanabhedanalikhanaviśasanādibhir  upatāpaiḥ <lb n="6"/> paritapyamānās tadakuśalakarmmaparipakvaphalam anubhavanto yāvaj jagati sūryyacandrama<lb break="no" n="7"/>sau stas tāvad atighoreṣu nivaseyur iti <g>||</g> uktaṁ hi <g>◦</g></p>
 </div>
 <div type="textpart" n="C2" rend="break-verse-lines">
-     <lg met="Anuṣṭhub" n="3">        
+     <lg met="anuṣṭhub" n="3">        
            <l>satrāṇāṁ prākpravr̥ttānāṁ <lb n="8"/> bhedanaṁ yaḥ karoti ca</l>
            <l>sa pāpakr̥t pāpataraḥ pākabhedo nigadyate <g>||</g></l>
      </lg>
-    <lg met="Anuṣṭhub" n="4">        
+    <lg met="anuṣṭhub" n="4">        
            <l><lb n="9"/> pākabhedaḥ kr̥taghnaś ca bhūmiharttā ca te trayaḥ</l>
            <l><choice><reg>narakān na</reg><orig>narakāt<!-- Hugh: and here's another one. --> na</orig></choice> nivarttante <lb n="10"/> yāvat somadivākarau <g>||</g></l>
     </lg>
-    <lg met="Āryā" n="5">        
+    <lg met="āryā" n="5">        
            <l>sakr̥d api yasyāṅghrinatiś śubhāśvamedhebhya <lb n="11"/> eva sātiśayā</l>
            <l>śamayann avanataduritaṁ sa ādideveśvaro jayati <g>||</g></l>
          </lg>
@@ -212,14 +212,14 @@
               </div>
      <div type="textpart" n="d" rend="break-verse-lines">
 <head xml:lang="eng">Face d (socle).</head>      
-    <lg met="Śārdūlavikrīḍita" n="6">       
+    <lg met="śārdūlavikrīḍita" n="6">       
            <l>⎽ ⎽ ⎽ ⏑ ⏑ ⎽ ⏑ ⎽ ⏑ ⏑ ⎽ ⎽ ⎽ ⏑ ⎽ ⎽ ⏑ ⎽</l>
     <!-- AG: we will finally have to tackle how to encode such lost metrical sequences, if only to avoid having to fight with font problems as the encoding stage: the breve and macron signs are not easily available in most font. -->
     <l>⎽ ⎽ ⎽ ⏑ ⏑ ⎽ ⏑ ⎽ ⏑ ⏑ ⏑ ⎽ ⎽ ⎽ d viśī<unclear>r</unclear>ṇṇan tadā </l>
     <l>puṣyasyāmvaraṣaṇnage śakapatau citre kavau śrāddhayā</l>
            <l>kr̥ṣne  saptadine marov·giricaran tu śryādidevāya tam· <g>||</g></l>
     </lg>    
-         <lg met="Indravajrā" n="7">        
+         <lg met="indravajrā" n="7">        
                             <l>ye saṁhariṣyanty adhamāḥ kr̥taghnāḥ</l>
              <l>⎽ ⎽ ⏑ ⎽ ⎽ ⏑ ⏑ ⎽ ⏑ ⎽ ⎽</l>
              <l>⎽ ⎽ ⏑ ⎽ ⎽ <supplied reason="lost">nipata</supplied>nty avīcyāṁ </l>

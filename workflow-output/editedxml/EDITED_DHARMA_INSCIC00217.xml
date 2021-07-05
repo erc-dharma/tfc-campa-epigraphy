@@ -54,7 +54,7 @@
          <sourceDesc>
             <biblFull>
                <titleStmt>
-                  <title xml:lang="eng">Stela inscription of Phươc Thiện</title>
+                  <title>Stela inscription of Phươc Thiện</title>
                   <editor>Arlo Griffiths</editor>
                </titleStmt>
                <editionStmt>
@@ -139,7 +139,7 @@
          <desc>Photograph of EFEO estampage n. 1884.</desc>
       </graphic>
    </facsimile>
-   <text xml:space="preserve"><body><div type="edition" xml:lang="san-Latn">
+   <text xml:space="preserve"><body><div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:83213">
                 <div type="textpart" n="A" rend="break-verse-lines">
                     <head xml:lang="eng">Face A.</head>
                         <ab>oṁ</ab>

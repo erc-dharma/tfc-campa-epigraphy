@@ -92,7 +92,7 @@
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="ocm-Latn">
+         <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:00000">
            <p><milestone type="pagelike" unit="face" n="A"/>
            <lb n="A1"/><g type="ddandaOrnate"/><g type="ddandaPlain"/><g type="floretQuatrefoil"/><g type="dandaPlain"/> nagara campa niy· hetu śatrumaṇḍala kā ñu tamā ñu dauk·
            <lb n="A2"/>putau ñu tok· ya doṁ sanāṅguḥ rājaśrī ṅan· devadravya<!--note du rtf : devadravya : la pierre comme les estampages sont abîmés à la fin de ce mot. On pourrait éventuellement lire devadravyā bien qu'un a soit plus probable en fait.--> Aviḥ trā ñu pali<lb n="A3" break="no"/>ṅyak· rumaḥ yām̃ vihāra śāla kuṭtī Araṇya ṅan· grāma dadam̃n· sthāna ṅan· Aśva

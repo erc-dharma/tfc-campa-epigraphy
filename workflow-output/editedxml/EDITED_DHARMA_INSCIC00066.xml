@@ -94,7 +94,7 @@
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:00000">
             <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A01"/><g type="?"/><!--sapi2argr ici il semblerait y avoir des symboles, mais je n'arrive pas à les identifier.--> śrīlakṣmīndralokeśvarāya<supplied reason="lost">namaḥ</supplied></ab>
             <lg n="1" met="pr̥thvī">
               <l n="a"><lb n="A1"/><seg met="-+---+"><gap reason="lost" quantity="6" unit="character"/></seg> priyaṁ paradhanāni vākāṅkṣate<space/></l>

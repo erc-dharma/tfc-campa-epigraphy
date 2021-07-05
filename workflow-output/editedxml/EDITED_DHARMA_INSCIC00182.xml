@@ -139,11 +139,11 @@
    </facsimile>
    <text xml:space="preserve"><body><div type="edition" xml:lang="x-oldcam-Latn" rendition="class:83233 maturity:00000">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown"/><unclear>m·</unclear> tṛ dṛm̃ vrata tam̃l· mahāvṛddha <gap reason="lost" extent="unknown"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown"/><unclear>m·</unclear> tr̥ dr̥m̃ vrata tam̃l· mahāvr̥ddha <gap reason="lost" extent="unknown"/>
                     <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">si</supplied>daḥ yām̃ pom̃ ku śrī jaya siṅha<supplied reason="lost">varmmadeva</supplied><gap reason="lost" extent="unknown"/> 
                     <lb n="3"/><gap reason="lost" extent="unknown"/>parita<num type="chronogram" value="1">śaśadhara</num> madā <gap reason="lost" extent="unknown"/>
                 </ab>
             </div><!-- <div type="translation">
                 <ab></ab>
-                </div>  --><div type="commentary"><p>The text is too fragmentary to be translated. In line 1, it seems to speak of ’undertaking a vow until very old’ (<foreign>dṛm̃ vrata tam̃l· mahāvṛddha</foreign>). In line 3, the inscription shows the last part of a chronogram, <foreign>paritaśaśadhara</foreign>, which unfortunately only reveals the figure for the thousands (<foreign>śaśadhara</foreign>, meaning ’moon’, denotes the value 1).</p></div></body></text>
+                </div>  --><div type="commentary"><p>The text is too fragmentary to be translated. In line 1, it seems to speak of ’undertaking a vow until very old’ (<foreign>dr̥m̃ vrata tam̃l· mahāvr̥ddha</foreign>). In line 3, the inscription shows the last part of a chronogram, <foreign>paritaśaśadhara</foreign>, which unfortunately only reveals the figure for the thousands (<foreign>śaśadhara</foreign>, meaning ’moon’, denotes the value 1).</p></div></body></text>
 </TEI>

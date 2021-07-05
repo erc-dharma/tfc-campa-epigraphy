@@ -142,7 +142,7 @@
       </graphic>
    </facsimile>
    <text xml:space="preserve">
-        <body><div type="edition" xml:lang="san-Latn">
+        <body><div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:00000">
                         <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A1"/>s<supplied reason="lost">i</supplied>ddham· <g type="spiral">☉</g> nam<supplied reason="lost">o</supplied></ab> 
                   <lg met="anuṣṭubh" n="0"><!--The following is a collage of Anuṣṭubh elements, some of which attested in Indian Sanskrit literature, seemingly not all placed in the right metrical position, and with many other transgressions of the meter, most of which easily rectified. Only the syntactically necessary corrections are mentioned below. I may add here that <foreign>me</foreign> no doubt needs to be supplied before <foreign>vyapohantu</foreign> in l.~4.-->
 	<l>maheśvara<unclear>M</unclear> Umāñ ca Agn<supplied reason="lost">i</supplied>ñ ca<lb n="A2"/><unclear>bra</unclear>hmāṇaṁ viṣṇum eva ca</l>

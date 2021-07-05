@@ -94,7 +94,7 @@
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:00000">
 <div type="textpart" n="1">
 	<head xml:lang="eng">Inscription exposed</head>
               <ab><lb n="01"/>śrī</ab>

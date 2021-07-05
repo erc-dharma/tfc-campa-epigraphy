@@ -92,7 +92,7 @@
    </teiHeader>
    <text xml:space="preserve">
       <body>
-        <div type="edition" xml:lang="ocm-Latn">
+        <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:00000">
            <p>
              <lb n="1"/>svasti <g type="dotMid">.</g> niy· kanadhā kuv· pu pov· tana rayā yaṅ· ma<lb n="2" break="no"/>Anan· śrī Indravarmmadeva yaṅ· sakala-rājādhirāja di nagara
              <lb n="3"/>campa vriy· yāṅ· pov· ku śrī bhāgyakānteśvara matandāḥ sarvvākarādāna

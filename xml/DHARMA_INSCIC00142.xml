@@ -97,7 +97,7 @@
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:00000">
            <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A01"/><g type="floretQuatrefoil"/><g type="ddandaOrnate">.</g> Om̐ namaś ś<choice><unclear>i</unclear><unclear>ī</unclear></choice>vāya<g type="ddandaOrnate">.</g><g type="floretQuatrefoil"/><supplied reason="lost">svasti</supplied></ab>
            <lg n="1" met="sragdharā"><lb n="A1"/>
            <l n="a"><supplied reason="lost">nā</supplied> <unclear>nārūpā</unclear>ṇi yasyākhila-jagad-uditaiśvaryya-saṁbhāvitāni<g type="dotMid">.</g></l>

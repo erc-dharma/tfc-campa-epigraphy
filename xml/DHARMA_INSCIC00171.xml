@@ -100,7 +100,7 @@
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:00000">
 <lb n="A1"/><ab><gap reason="lost" unit="character" quantity="5" precision="low"/></ab>
 <lg n="1" met="āryā"><certainty match="../@met" locus="value"/>
 	<l n="ab"><seg met="4|4|4|4|4|4|4|2"><gap reason="lost" unit="character" quantity="30" precision="low"/></seg></l>

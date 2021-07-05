@@ -95,7 +95,7 @@
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:00000">
             <ab><milestone type="pagelike" unit="face" n="A"/><lb n="01"/><supplied reason="lost"><g type="floretComplex"/>namo lo</supplied>kanāthā<supplied reason="lost">ya</supplied><g type="floretComplex"/></ab>
             <p><lb n="A1"/>svasti<g type="ddandaPlain">.</g></p>
             <lg n="1" met="indravajrā">

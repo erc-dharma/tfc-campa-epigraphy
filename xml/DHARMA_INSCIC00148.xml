@@ -98,7 +98,7 @@
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:00000">
            <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A1"/><g type="floretComplex"/><g type="ddandaPlain">.</g> svasti<g type="ddandaPlain">.</g> Oṁ namaś śivāya<g type="ddandaPlain">.</g> siddhir astu<g type="ddandaPlain">.</g> <g type="floretComplex"/></ab>
            <lg n="1" met="śārdūlavikrīḍita">
              <l n="a"><lb n="A2"/>yo vyāpī tribhavottamo guru-yaśās sarvvaiḥ suraiḥ pūjito</l>

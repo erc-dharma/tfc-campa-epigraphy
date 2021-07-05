@@ -114,7 +114,7 @@
               <l n="a">mārair ugraiḥ parītāś ciram api manujāḥ pūrvva-karmmānuraktā</l>
               <l n="b">nistrāṇā ni<lb n="A5" break="no"/><unclear>tyaduḥkhā</unclear>ḥ parama-kaluṣitāḥ kṣutpipāsābhibhūtāḥ</l>
               <l n="c">pūrvvañ cādānadoṣāt sugata-vimukhataḥ <!--sapi2argr : Commentaire rtf: -vimukhataḥ: emend -vimukhitāḥ? --> prāpta-kāpāla-haste</l>
-              <l n="d"><lb n="A6"/><unclear>padmabh</unclear>ṛdvajrapāṇipraśamitanirayaṁ <unclear>b</unclear>uddhamārggaṁ samāpuḥ<g type="ddandaPlain">.</g></l>
+              <l n="d"><lb n="A6"/><unclear>padmabh</unclear>r̥dvajrapāṇipraśamitanirayaṁ <unclear>b</unclear>uddhamārggaṁ samāpuḥ<g type="ddandaPlain">.</g></l>
             </lg>
             <lg n="4" met="āryā">
               <l n="ab">śrī-bhadravarmma-nr̥pates tasya mato tyanta-ballabhatva<lb n="A7" break="no"/>matiḥ</l>
@@ -192,7 +192,7 @@
                        <note>His scansion is deficient by two syllables.</note>
                 </app>
                 <app loc="A6">
-                       <lem><unclear>padmabh</unclear>ṛdvajrapāṇi-</lem>
+                       <lem><unclear>padmabh</unclear>r̥dvajrapāṇi-</lem>
                        <rdg source="bib:Huber1911_01"><seg met="+++"><gap reason="lost" quantity="3" unit="character"/></seg> vajrapāṇi-</rdg>
                        <note>The restoration was proposed by Kazuo Kano.</note>
                 </app>
@@ -225,7 +225,7 @@
                   <app loc="A9">
                         <lem>tadvattr̥dhameva</lem>
                         <rdg source="bib:Huber1911_01">tadvatkr̥tam eva </rdg>
-                        <note>For Huber’s second ta, the actual reading quite clearly cannot be ta. The options seem to be dha or ca. Either way, the text is unmetrical, for a long syllable is required here. One could also read ttr̥ with subscript t instead of k. On this basis, I accept a conjecture proposed by Yuko Yokochi: tadvattr̥dhameva, substandard spelling for tadvattridhāmaiva. tadvat kūṭam? ; tadvad bhṛśam eva? ; tad vaktṛdhāmeva ; tad vaktṛṇām eva ; tadvan nṛṇām eva ; tadvan nṛpo va</note>
+                        <note>For Huber’s second ta, the actual reading quite clearly cannot be ta. The options seem to be dha or ca. Either way, the text is unmetrical, for a long syllable is required here. One could also read ttr̥ with subscript t instead of k. On this basis, I accept a conjecture proposed by Yuko Yokochi: tadvattr̥dhameva, substandard spelling for tadvattridhāmaiva. tadvat kūṭam? ; tadvad bhr̥śam eva? ; tad vaktr̥dhāmeva ; tad vaktr̥ṇām eva ; tadvan nr̥ṇām eva ; tadvan nr̥po va</note>
                   </app>
                   <app loc="A11">
                         <lem>ś<choice><sic>u</sic><corr>ū</corr></choice>nyo</lem>

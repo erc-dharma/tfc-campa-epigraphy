@@ -170,7 +170,7 @@
 <app loc="1">
 <lem>diśa°</lem>
 <rdg source="bib:BEFEO011_1911 bib:Schweyer1999_02">divya°</rdg>
-<note>Cf. the emendation <foreign>bhūsvātmakīrttaye</foreign>, which expresses the same meaning, proposed under <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00207.xml">C. 207</ref>. There clearly is no <foreign>akṣara</foreign> <foreign>vya</foreign>.</note>
+<note>Cf. the emendation <foreign>bhūsvātmakīrttaye</foreign>, which expresses the same meaning, proposed under <ref target="DHARMA_INSCIC00207.xml">C. 207</ref>. There clearly is no <foreign>akṣara</foreign> <foreign>vya</foreign>.</note>
 </app>
 <app loc="1">
 <lem>campāpurapatī</lem>
@@ -193,7 +193,7 @@
 <div type="translation" xml:lang="fra" resp="part:argr">
 <p>Le roi de Campāpura [a donné] l’aiguière en argent (que voici) à cet illustre Vanāntareśvara-ci, pour la gloire dans les directions de l’espace, de par sa dévotion personnelle.</p>
 </div>
-<div type="commentary"><p>The name Śrī Vanāntareśvara figures elsewhere only in <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00144.xml">C. 144</ref>, but cf. the word <foreign>vanānthara</foreign> (<foreign>sic</foreign>) in <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00004.xml">C. 4</ref>, face A, l. 4.</p>
+<div type="commentary"><p>The name Śrī Vanāntareśvara figures elsewhere only in <ref target="DHARMA_INSCIC00144.xml">C. 144</ref>, but cf. the word <foreign>vanānthara</foreign> (<foreign>sic</foreign>) in <ref target="DHARMA_INSCIC00004.xml">C. 4</ref>, face A, l. 4.</p>
 </div>
 <div type="bibliography">
 <p>First reported, with a reading and translation, by V. Rougier in <bibl><ptr target="bib:BEFEO011_1911"/></bibl>.</p>

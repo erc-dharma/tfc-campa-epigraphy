@@ -169,7 +169,7 @@
 <app loc="1">
 <lem>
 <g>||</g></lem>
-<note>The form of the opening sign, ignored in previous publications, is uncommon, but it is found also in the nearly contemporary inscription <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00058.xml">C. 58</ref>.</note>
+<note>The form of the opening sign, ignored in previous publications, is uncommon, but it is found also in the nearly contemporary inscription <ref target="DHARMA_INSCIC00058.xml">C. 58</ref>.</note>
 </app>
 <app loc="1">
 <lem>aum̃</lem>
@@ -193,8 +193,8 @@
 <div type="translation" xml:lang="fra" resp="part:argr">
 <p>Sa majesté le vénérable royal, sieur Sakrānta, homme de Mandā Vijaya, a offert [ceci] à la Dame du Pays. [Ère du] roi des Śaka 1178 (= 1257/8 de n.è.).</p>
 </div>
-<div type="commentary"><p>The idea forwarded by Schweyer in <bibl><ptr target="bib:Baptiste-Zephir2005_02"/><citedRange unit="page">297</citedRange></bibl> that the text was not meant to be read by humans but only by the goddess who was recipient of the donation, and that this would explain why the text was engraved upside-down on the object which is interpreted as a bowl, seems entirely <foreign>ad hoc</foreign>.</p><p>For the opening phraseology, cf. <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00005.xml">C. 5</ref>, ll. 17-18. Might the unique expression <foreign>rājabhagavanta</foreign> be equivalent to <foreign>yuvarāja</foreign>? It seems more likely that this expression is intended as a compound, than as two separate words, as previous editions have assumed.
-               The name Sakrānta is possibly attested again, although with orthographic variants, as <foreign>sakram̃ttha</foreign> in <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00001.xml">C. 1</ref> and as <foreign>sakram̃tthi</foreign> in <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00043.xml">C. 43</ref>.</p></div>
+<div type="commentary"><p>The idea forwarded by Schweyer in <bibl><ptr target="bib:Baptiste-Zephir2005_02"/><citedRange unit="page">297</citedRange></bibl> that the text was not meant to be read by humans but only by the goddess who was recipient of the donation, and that this would explain why the text was engraved upside-down on the object which is interpreted as a bowl, seems entirely <foreign>ad hoc</foreign>.</p><p>For the opening phraseology, cf. <ref target="DHARMA_INSCIC00005.xml">C. 5</ref>, ll. 17-18. Might the unique expression <foreign>rājabhagavanta</foreign> be equivalent to <foreign>yuvarāja</foreign>? It seems more likely that this expression is intended as a compound, than as two separate words, as previous editions have assumed.
+               The name Sakrānta is possibly attested again, although with orthographic variants, as <foreign>sakram̃ttha</foreign> in <ref target="DHARMA_INSCIC00001.xml">C. 1</ref> and as <foreign>sakram̃tthi</foreign> in <ref target="DHARMA_INSCIC00043.xml">C. 43</ref>.</p></div>
 <div type="bibliography">
 <p>An initial reading having been presented during a lecture at Paris (<bibl><ptr target="bib:Finot1906_01"/></bibl>), the text was read directly from the original by father Eugène-Marie Durand, whose amended was published in <bibl><ptr target="bib:Parmentier1906_01"/><citedRange unit="page">291</citedRange><citedRange unit="note">2</citedRange></bibl>, whence <bibl><ptr target="bib:Golzio2004_01"/><citedRange unit="page">188</citedRange></bibl>; the reading of the date was again amended in <bibl><ptr target="bib:Finot1915_05"/><citedRange unit="page">192</citedRange></bibl>; reading with new error for the date in <bibl><ptr target="bib:Schweyer2005_01"/><citedRange unit="page">107</citedRange></bibl> (see also the entry by the same author in <bibl><ptr target="bib:Baptiste-Zephir2005_02"/></bibl>); an emendation proposed in <bibl><ptr target="bib:Griffiths+al2008-2009_01"/><citedRange unit="page">476</citedRange></bibl></p>
 <listBibl type="primary">

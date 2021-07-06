@@ -126,6 +126,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change when="2021-07-04" who="part:argr" status="draft">Resolved validation problem.</change>
          <change when="2020-09-14" who="part:axja" status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
@@ -141,7 +142,7 @@
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown"/><unclear>m·</unclear> tr̥ dr̥m̃ vrata tam̃l· mahāvr̥ddha <gap reason="lost" extent="unknown"/>
                     <lb n="2"/><gap reason="lost" extent="unknown"/><supplied reason="lost">si</supplied>daḥ yām̃ pom̃ ku śrī jaya siṅha<supplied reason="lost">varmmadeva</supplied><gap reason="lost" extent="unknown"/> 
-                    <lb n="3"/><gap reason="lost" extent="unknown"/>parita<num type="chronogram" value="1">śaśadhara</num> madā <gap reason="lost" extent="unknown"/>
+                    <lb n="3"/><gap reason="lost" extent="unknown"/>parita śaśadhara madā <gap reason="lost" extent="unknown"/>
                 </ab>
             </div><!-- <div type="translation">
                 <ab></ab>

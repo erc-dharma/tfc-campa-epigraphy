@@ -101,7 +101,7 @@
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn"><!--daba2argr: sI suggest adding <milestone type="pagelike" unit="face" n="A"/><label xml:lang="eng">Angle Left</label>-->
+         <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:00000"><!--daba2argr: sI suggest adding <milestone type="pagelike" unit="face" n="A"/><label xml:lang="eng">Angle Left</label>-->
 <lb n="A1"/><!--daba2argr: this lb element and, if you choose to use it, the proposed milestone, should be after the opening of <ab>. Not a technical requirement, but better that way because other line beginnings and the milestone for part B are also inside a container.--><ab><gap reason="lost" unit="character" quantity="5" precision="low"/></ab>
 <lg n="1" met="āryā"><certainty match="../@met" locus="value"/>
 	<l n="ab"><seg met="4|4|4|4|4|4|4|2"><gap reason="lost" unit="character" quantity="30" precision="low"/><!--daba2argr Quantity of this lacuna should be less, 30 is the number of morae missing. I suggest 23 for this one (ca. 75% of the mora count) and 14 for the lacuna in the next hemistich. That means we expect the prose preamble to be something like 8 to 10; I suggest encoding that one as 10 with low precision.--></seg></l>

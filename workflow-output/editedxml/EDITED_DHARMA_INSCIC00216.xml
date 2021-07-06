@@ -151,7 +151,7 @@
          <desc>Photograph of EFEO estampage n. 1904.</desc>
       </graphic>
    </facsimile>
-   <text xml:space="preserve"><body><div type="edition" xml:lang="x-oldcam-Latn">
+   <text xml:space="preserve"><body><div type="edition" xml:lang="x-oldcam-Latn" rendition="class:83233 maturity:00000">
                 <div type="textpart" n="A">
                 <div type="textpart" n="A1" rend="break-verse-lines">
                     <head xml:lang="eng">Face A.</head>
@@ -159,14 +159,14 @@
                         <!-- A: we have the convention of not counting the lines of invocations. I thought it might be useful to mark the kind of <ab> explicitly. We want this kind of <ab> at the center line. -->
                         <ab><lb n="1"/>
                             <g type="siddham"/>  svasti namaś śivāya śrīvr̥ddheśvarāya</ab>
-                       <lg met="Śārdūlavikrīḍita" n="1">
+                       <lg met="śārdūlavikrīḍita" n="1">
                            <l><lb n="2"/>yo lokaprabhavasthitipralayavid digbhāgaviśvaprabhur</l>
                            <l>yyo datvā ja<lb n="3" break="no"/>gatām varaṁ praṇayinām vīrarṣibhis sthāpitaḥ</l>
                            <l>bahner mmūrttimayaiś śatārddhatanubhi<lb n="3" break="no"/>r ddīptorjjitenātmanā</l>
                             <l>pāyād bhūḥ kila pāṇḍaraṅgaviṣaye  śrīmān sa vr̥ddheśvaraḥ <g type="fleuron" subtype="tobedefined"/>
                             </l>                       
                        </lg>
-                        <lg met="Sragdharā" n="2">
+                        <lg met="sragdharā" n="2">
                            <l><lb n="5"/> <w part="I">śuddhāṅśabrahmavaryyaprathitakulaśarannirmmalākāśadeśa</w></l>
                            <l><w part="F">prādurbhbhūto</w><!-- AG: spelling rbhbh may need to be encoded with <choice><reg><orig> -->  vanīndravya<lb n="6" break="no"/>pamalaśaśabhr̥c chrīkalākāntimān yaḥ</l>
                             <l>śatruddhvāntāni jitvā sukr̥takaracayais to<lb n="7" break="no"/>ṣayitvātmabhr̥tyān</l>
@@ -194,15 +194,15 @@
                         <p><lb n="1"/> dattaṁ tac ca ye śrāddhās santo numanyante te yathepsitasukhino bhavantu ye <lb n="2"/> ke cit punar llobhād īrṣyayā narakanirbhbhayā<supplied reason="omitted">ḥ</supplied> pāpakarmmāṇo narādhamās  tad  dhari<lb n="3" break="no"/>ṣyanti te py ubhayataḥ pitros triṅśat pūrvvais triṅśat paraiḥ kulasantānais saha rauravama<lb n="4" break="no"/>hārauravātirauravāvīcīkālasūtratr̥ṇapatāpanaśūlasandaṅśayamaparvvatavaitaraṇī<lb n="5" break="no"/>tyevamādiṣu mahānarakeṣu <!-- Hugh: the next is a case of a long compound, again only one letter affected by <choice>. Here I have just selected the word inside the compound (the same selection is made in <div type="apparatus>. But I could have tagged just the letter itself. --><choice><reg>tāḍana</reg><orig>tādana</orig></choice>cchedanabhedanalikhanaviśasanādibhir  upatāpaiḥ <lb n="6"/> paritapyamānās tadakuśalakarmmaparipakvaphalam anubhavanto yāvaj jagati sūryyacandrama<lb break="no" n="7"/>sau stas tāvad atighoreṣu nivaseyur iti <g>||</g> uktaṁ hi <g>◦</g></p>
 </div>
 <div type="textpart" n="C2" rend="break-verse-lines">
-     <lg met="Anuṣṭhub" n="3">        
+     <lg met="anuṣṭhub" n="3">        
            <l>satrāṇāṁ prākpravr̥ttānāṁ <lb n="8"/> bhedanaṁ yaḥ karoti ca</l>
            <l>sa pāpakr̥t pāpataraḥ pākabhedo nigadyate <g>||</g></l>
      </lg>
-    <lg met="Anuṣṭhub" n="4">        
+    <lg met="anuṣṭhub" n="4">        
            <l><lb n="9"/> pākabhedaḥ kr̥taghnaś ca bhūmiharttā ca te trayaḥ</l>
            <l><choice><reg>narakān na</reg><orig>narakāt<!-- Hugh: and here's another one. --> na</orig></choice> nivarttante <lb n="10"/> yāvat somadivākarau <g>||</g></l>
     </lg>
-    <lg met="Āryā" n="5">        
+    <lg met="āryā" n="5">        
            <l>sakr̥d api yasyāṅghrinatiś śubhāśvamedhebhya <lb n="11"/> eva sātiśayā</l>
            <l>śamayann avanataduritaṁ sa ādideveśvaro jayati <g>||</g></l>
          </lg>
@@ -212,14 +212,14 @@
               </div>
      <div type="textpart" n="d" rend="break-verse-lines">
 <head xml:lang="eng">Face d (socle).</head>      
-    <lg met="Śārdūlavikrīḍita" n="6">       
+    <lg met="śārdūlavikrīḍita" n="6">       
            <l>⎽ ⎽ ⎽ ⏑ ⏑ ⎽ ⏑ ⎽ ⏑ ⏑ ⎽ ⎽ ⎽ ⏑ ⎽ ⎽ ⏑ ⎽</l>
     <!-- AG: we will finally have to tackle how to encode such lost metrical sequences, if only to avoid having to fight with font problems as the encoding stage: the breve and macron signs are not easily available in most font. -->
     <l>⎽ ⎽ ⎽ ⏑ ⏑ ⎽ ⏑ ⎽ ⏑ ⏑ ⏑ ⎽ ⎽ ⎽ d viśī<unclear>r</unclear>ṇṇan tadā </l>
     <l>puṣyasyāmvaraṣaṇnage śakapatau citre kavau śrāddhayā</l>
            <l>kr̥ṣne  saptadine marov·giricaran tu śryādidevāya tam· <g>||</g></l>
     </lg>    
-         <lg met="Indravajrā" n="7">        
+         <lg met="indravajrā" n="7">        
                             <l>ye saṁhariṣyanty adhamāḥ kr̥taghnāḥ</l>
              <l>⎽ ⎽ ⏑ ⎽ ⎽ ⏑ ⏑ ⎽ ⏑ ⎽ ⎽</l>
              <l>⎽ ⎽ ⏑ ⎽ ⎽ <supplied reason="lost">nipata</supplied>nty avīcyāṁ </l>
@@ -228,8 +228,8 @@
      </div>
            </div>
                 </div>
-            </div><!-- end of <div type="edition"> --><div type="apparatus"><listApp><app loc="Id"><lem>pāṇḍaraṅga</lem><note>correct <foreign>pāṇḍuraṅga°</foreign>? On this problem, see <bibl><ptr target="bib:Griffiths+Southworth2011_01"/><citedRange unit="page">285-288</citedRange></bibl>.</note></app><app loc="IIb"><lem>°prādurbhbhūto</lem><note>the spelling with <foreign>rbhbh</foreign> for expected <foreign>rbbh</foreign> is not abnormal in the epigraphy of Campā. Among many other examples cf. <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00024.xml">C. 24</ref>, face A, st. IXc, and <foreign>narakanirbhbhayāḥ</foreign> in the present text (face B, l. 2).</note></app><app loc="IIb"><lem>°śaśabhr̥c chrīkalākāntimān yaḥ</lem><note>there is another possibility for breaking the words: <foreign>°śaśabhr̥cchrīkalākāntimānyaḥ</foreign>. The same unusal shape of the ligature <foreign>cch</foreign> is seen in <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00025.xml">C. 25</ref> face B, l. 18 (<bibl><ptr target="bib:Barth+Bergaigne1885-1893_01"/></bibl>). In the word <foreign>gacchet</foreign> in face C, l. 5 of our inscription, we see the element <foreign>ch</foreign> in its normal position.</note></app><app loc="IId"><lem>bhuvi divi vibabhau</lem><note>Cf. <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00025.xml">C. 25</ref>, face A, l. 2 <foreign>ddivi bhuvi vibhavair</foreign>, a comprable stylistic figure.</note></app><!--C-->
-                       <app loc="A8"><lem>°vāgsva°</lem><note>corr. <foreign>°vāksva°</foreign>.</note></app><app loc="C5"><lem>tādana°</lem><note>read <foreign>tāḍana°</foreign>.</note></app><app loc="IVc"><lem>narakāt na</lem><note>correct <foreign>narakān na</foreign>. The same erroneous sandhi reoccurs when this same complete stanza is cited in <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00024.xml">C. 24</ref>, face B, st. III, and when this same pāda is reused in <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00025.xml">C. 25</ref>, face B, st. XIV.</note></app></listApp></div><!--   <div type="commentary">
+            </div><!-- end of <div type="edition"> --><div type="apparatus"><listApp><app loc="Id"><lem>pāṇḍaraṅga</lem><note>correct <foreign>pāṇḍuraṅga°</foreign>? On this problem, see <bibl><ptr target="bib:Griffiths+Southworth2011_01"/><citedRange unit="page">285-288</citedRange></bibl>.</note></app><app loc="IIb"><lem>°prādurbhbhūto</lem><note>the spelling with <foreign>rbhbh</foreign> for expected <foreign>rbbh</foreign> is not abnormal in the epigraphy of Campā. Among many other examples cf. <ref target="DHARMA_INSCIC00024.xml">C. 24</ref>, face A, st. IXc, and <foreign>narakanirbhbhayāḥ</foreign> in the present text (face B, l. 2).</note></app><app loc="IIb"><lem>°śaśabhr̥c chrīkalākāntimān yaḥ</lem><note>there is another possibility for breaking the words: <foreign>°śaśabhr̥cchrīkalākāntimānyaḥ</foreign>. The same unusal shape of the ligature <foreign>cch</foreign> is seen in <ref target="DHARMA_INSCIC00025.xml">C. 25</ref> face B, l. 18 (<bibl><ptr target="bib:Barth+Bergaigne1885-1893_01"/></bibl>). In the word <foreign>gacchet</foreign> in face C, l. 5 of our inscription, we see the element <foreign>ch</foreign> in its normal position.</note></app><app loc="IId"><lem>bhuvi divi vibabhau</lem><note>Cf. <ref target="DHARMA_INSCIC00025.xml">C. 25</ref>, face A, l. 2 <foreign>ddivi bhuvi vibhavair</foreign>, a comprable stylistic figure.</note></app><!--C-->
+                       <app loc="A8"><lem>°vāgsva°</lem><note>corr. <foreign>°vāksva°</foreign>.</note></app><app loc="C5"><lem>tādana°</lem><note>read <foreign>tāḍana°</foreign>.</note></app><app loc="IVc"><lem>narakāt na</lem><note>correct <foreign>narakān na</foreign>. The same erroneous sandhi reoccurs when this same complete stanza is cited in <ref target="DHARMA_INSCIC00024.xml">C. 24</ref>, face B, st. III, and when this same pāda is reused in <ref target="DHARMA_INSCIC00025.xml">C. 25</ref>, face B, st. XIV.</note></app></listApp></div><!--   <div type="commentary">
             <p>FILL ME IN</p>
             
             <p>A20: kamraiṅ: cf. C. 211 </p>

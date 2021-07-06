@@ -131,7 +131,7 @@
 			<desc>Photograph of EFEO estampage n. 2070.</desc>
 		</graphic>
 	</facsimile>
-	<text xml:space="preserve"><body><div type="edition" xml:lang="san-Latn">
+	<text xml:space="preserve"><body><div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:00000">
 <p><lb n="1"/>Om̐ tasmai bhagavate śrī ḍamareśvarāya tilvit·-kṣetraṁ vāṅ-kṣetraṁ dv<unclear>ā</unclear><gap reason="lost" extent="unknown" unit="character"/>
 <lb n="2"/>kos·-ruluṅ·-kṣetraṁ Etat sarvvaṁ draṁ-vihāra-dravyaṁ dvi-śata-mā<choice><orig>ṇ</orig><reg>n</reg></choice>aṁ pañcāśad-adhika<unclear>ṁ</unclear> śrī<gap reason="lost" extent="unknown" unit="character"/>
 <lb n="3"/>rājena pitr̥-sad-bhaktimatā dattam iti<g type="ddandaPlain">.</g> ye rakṣanti ca ta<unclear>t se</unclear><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ga</supplied><lb break="no" n="4"/>cchantu surālayam· <space/> ye nāśayan<supplied reason="lost">t</supplied>i <gap reason="lost" extent="unknown" unit="character"/></p>

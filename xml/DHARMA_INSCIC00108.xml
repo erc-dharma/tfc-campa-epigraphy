@@ -82,19 +82,19 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:00000">
            <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A01"/>Oṁ namaś śivāya</ab>
            <lg n="1" met="āryā">
              <l n="ab"><lb n="A1"/><g type="gomutraInitial"/> brahmādimunisuranutas sa śrī bhadreśvaraḥ prabhur bbhagavān·</l>
               <l n="cd">jayati <lb n="A2"/>jagadgurur ādyas tripurajayī yogibhiḥ <unclear>sā</unclear>dhyaḥ<g type="ddandaPlain">.</g></l>
            </lg>
            <lg n="2" met="āryā">
-             <l n="ab">mantrī nṛpateḥ khyāto vividhaguṇai<lb n="A3" break="no"/>r āśayeśabhaktyāśaḥ</l>
+             <l n="ab">mantrī nr̥pateḥ khyāto vividhaguṇai<lb n="A3" break="no"/>r āśayeśabhaktyāśaḥ</l>
               <l n="cd">kṣmāyāṁ vibhāti <unclear>dh</unclear>armmair ājñā ma<choice><sic>n</sic><corr>ṇ</corr></choice>icaityanāmāyam·<g type="ddandaPlain">.</g></l>
            </lg>
            <lg n="3" met="śārdūlavikrīḍita">
              <l n="a">śakā<unclear>b</unclear>de <lb n="A4"/>śaśirūpamaṅgalayute maitre ca kīṭagrahe<!--note du rtf : a. ca kīṭagrahe: dhatenagrahe Huber (“Corr. dhaṭenagrahe”). Huber’s or my typo for ghaṭenagrahe?--></l>
-             <l n="b">kumbhasthe bhṛguje jhaṣena bhujag<choice><unclear>ai</unclear><unclear>au</unclear></choice><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>e</seg> <!--rtf : bhujag(au/ai)C(e/o/au)--> <lb n="A5"/>sauravāre śubhā</l>
+             <l n="b">kumbhasthe bhr̥guje jhaṣena bhujag<choice><unclear>ai</unclear><unclear>au</unclear></choice><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>e</seg> <!--rtf : bhujag(au/ai)C(e/o/au)--> <lb n="A5"/>sauravāre śubhā</l>
              <l n="c" enjamb="yes">sthāpyā tena kumārikāsuragurau nāgendrasaur<choice><unclear>e</unclear><unclear>au</unclear></choice><!--note rtf : c. nāgendrasaur(e/au): nāgendrasaure Huber. L’élément superscrit faisant au a-t-on essayé de l’effacer? (Ajouter à apparatus si lecture -saurau est retenue)--> mahā<!--note rtf : c. mahā-: noter forme du hā, autres que celle utilisée en bas pour la même lettre.--></l>
              <l n="d">de<lb n="A6" break="no"/><unclear>vī</unclear> phālguṇanīlapañcadivase golagna Īśapriyā<g type="ddandaPlain">.</g></l>
            </lg>
@@ -115,21 +115,21 @@
              <l n="d">śāstrajño lokadharmmavit·<g type="ddandaPlain">.</g></l>
            </lg>
            <lg n="7" met="anuṣṭubh">
-             <l n="a">campeśvarā varanṛpā</l>
+             <l n="a">campeśvarā varanr̥pā</l>
              <l n="b"><unclear>Ā</unclear>candrārkkāt padāśayāḥ</l>
-             <l n="c">śṛ<lb n="A11" break="no"/><unclear>ṇu</unclear>yu<choice><sic>ḥ</sic><corr>r</corr></choice> vacanam idaṁ</l>
-             <l n="d">paramārthaṁ<!--note rtf : d. paramārthaṁ: paramārtam Huber (n. 1: “Corr. pāramārtham”). Huber oublie deux fois l’anusvāra, son application de vṛddhi dans la première syllabe n’est pas nécessaire, et sa lecture initiale de t pour th est peut-être une coquille.--> su<supplied reason="omitted">dharmikam</supplied> śrī jayaIndravarmmarājasya<g type="ddandaPlain">.</g></l>
+             <l n="c">śr̥<lb n="A11" break="no"/><unclear>ṇu</unclear>yu<choice><sic>ḥ</sic><corr>r</corr></choice> vacanam idaṁ</l>
+             <l n="d">paramārthaṁ<!--note rtf : d. paramārthaṁ: paramārtam Huber (n. 1: “Corr. pāramārtham”). Huber oublie deux fois l’anusvāra, son application de vr̥ddhi dans la première syllabe n’est pas nécessaire, et sa lecture initiale de t pour th est peut-être une coquille.--> su<supplied reason="omitted">dharmikam</supplied> śrī jayaIndravarmmarājasya<g type="ddandaPlain">.</g></l>
            </lg>
            <p>śrīmahāli<lb
-             n="A12" break="no"/>ṅgadevaṁ kecid atikṛtya narake patantu<g type="ddandaPlain">.</g> kecid valātkāreṇāsya dravyadāsa<milestone type="pagelike" unit="face" n="B"/><lb
+             n="A12" break="no"/>ṅgadevaṁ kecid atikr̥tya narake patantu<g type="ddandaPlain">.</g> kecid valātkāreṇāsya dravyadāsa<milestone type="pagelike" unit="face" n="B"/><lb
              n="B1" break="no"/>kṣetragomahiṣān hariṣyanti dahanaśikhā
              <lb n="B2"/>karāle mahāniraye patantu<g type="ddandaPlain">.</g> ye dharmmajñā nyāyena pāla
              <lb n="B3" break="no"/>yanti śaktimantam imaṁ te divi vasantu<g type="ddandaPlain">.</g>
            </p>
            <p xml:lang="ocm-Latn">yāṅ· pov· mahāliṅga yāṅ·
              <lb n="B4"/>pu pov· ku śrī jaya Indravarmma kā vriy· matandās· sarvvākarādāna matandās·
-             <lb n="B5"/>siy· vṛliy· Urāṅ· mandop· sarvvākarādāna di yāṅ· pov· mahāliṅga
-             <lb n="B6"/>mapamataḥ matandāḥ niy· matop· vriy· gṛhastha kūñ· Asov· vañak· ndo<lb
+             <lb n="B5"/>siy· vr̥liy· Urāṅ· mandop· sarvvākarādāna di yāṅ· pov· mahāliṅga
+             <lb n="B6"/>mapamataḥ matandāḥ niy· matop· vriy· gr̥hastha kūñ· Asov· vañak· ndo<lb
              n="B7" break="no"/>y· Inā Urāṅ· nan· kā ñū matai nau dauk· di yop· naraka tauṅ· yugāntaḥ pra<lb
              n="B8" break="no"/>laya<g type="dotMid">.</g> yāṅ· poṁ mahāliṅga pvauḥ tapaḥ thuv· dharmma rakṣā pasyāṁ yajamāna <unclear>ma</unclear><lb
              n="B9" break="no"/>tapaḥ thuv· dharmma rakṣā pasyāṁ tmov· svarggāpavargga<g type="dotMid">.</g> pu pov· tana <supplied reason="omitted">ra</supplied>yā sthirarājya <supplied reason="lost">hu</supplied><lb
@@ -164,7 +164,7 @@
              </lg><!-- Pour la prochaine stance dois-je créer une face F ou continuer en faisant mine qu'il s'agit des lignes 3 et 4 ?-->
              <lg n="9" met="anuṣṭubh">
                <l n="a"><lb n="E3"/>śrī mahāliṅgadevāya</l>
-               <l n="b">lokāspadakṛte bhuvi</l>
+               <l n="b">lokāspadakr̥te bhuvi</l>
                <l n="c"><lb n="E4"/>pradattas sa mahākīrtti<choice><unclear>ḥ</unclear><unclear><g type="dandaPlain">.</g></unclear></choice><!--note du rtf : Un défaut de la pierre serait mieux, mais il ya vraiment quelque chose d’inscrit.--></l>
                <l n="d">rmmuktiñ ca sasitadhvajām·<g type="ddandaPlain">.</g></l>
              </lg>
@@ -180,12 +180,12 @@
                      <rdg source="bib:Huber1911_01">dhatenagrahe</rdg>
                  </app>
                  <app loc="A4">
-                     <lem>bhṛguje jhaṣena bhujag<choice><unclear>ai</unclear><unclear>au</unclear></choice><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>e</seg></lem>
-                     <rdg source="bib:Huber1911_01">bhṛguje <seg met="-+-"><gap reason="illegible" quantity="3" unit="character"/></seg> bhujagair <seg met="+"><gap reason="illegible" quantity="1" unit="character"/></seg> sauravāre</rdg>
+                     <lem>bhr̥guje jhaṣena bhujag<choice><unclear>ai</unclear><unclear>au</unclear></choice><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>e</seg></lem>
+                     <rdg source="bib:Huber1911_01">bhr̥guje <seg met="-+-"><gap reason="illegible" quantity="3" unit="character"/></seg> bhujagair <seg met="+"><gap reason="illegible" quantity="1" unit="character"/></seg> sauravāre</rdg>
                  </app>
                  <app loc="A10">
-                     <lem>śṛ<lb n="A11" break="no"/><unclear>ṇu</unclear>yu<choice><sic>ḥ</sic><corr>r</corr></choice> vacanam</lem>
-                     <rdg source="bib:Huber1911_01">śṛ<lb n="A11" break="no"/>ṇuyuḥ vacanam</rdg>
+                     <lem>śr̥<lb n="A11" break="no"/><unclear>ṇu</unclear>yu<choice><sic>ḥ</sic><corr>r</corr></choice> vacanam</lem>
+                     <rdg source="bib:Huber1911_01">śr̥<lb n="A11" break="no"/>ṇuyuḥ vacanam</rdg>
                  </app>
                  <app loc="A11">
                      <lem>paramārthaṁ</lem>

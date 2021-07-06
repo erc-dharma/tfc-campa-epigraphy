@@ -94,7 +94,7 @@
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:00000">
            <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A01"/><supplied reason="lost">nama</supplied>ś ś<supplied reason="lost">i</supplied>vāya<g type="ddandaHooked">.</g></ab><!-- AO1, vraiment ?-->
            <lg n="1" met="indravajrā">
              <l n="a"><lb n="A1"/><seg met="++"><gap reason="lost" quantity="2" unit="character"/></seg> <supplied reason="lost">anaṅ</supplied> gatvam upāgato sau<space/></l>

@@ -95,7 +95,7 @@
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="ocm-Latn">
+         <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:00000">
            <p>
 <lb n="1"/><g type="dandaPlain"/><g type="dandaPlain"/><g type="dandaPlain"/><g type="floretQuatrefoil"/><g type="ddandaPlain"/> svasti<g type="ddandaPlain">.</g> di śakarāja <num value="1036">1036</num><g type="ddandaPlain">.</g> kāla yām̃ po ku śrī harivarmmadeva ya kumvan· yām̃ po ku śrī jaya
 Inravarmmadeva d<seg type="component" subtype="vowel"><gap reason="lost" unit="component" quantity="1"/></seg><gap reason="lost" quantity="4" unit="character"/>

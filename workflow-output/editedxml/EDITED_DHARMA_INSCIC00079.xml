@@ -137,13 +137,13 @@
          <desc>Photograph of EFEO estampage n. 2071.</desc>
       </graphic>
    </facsimile>
-   <text xml:space="preserve"><body><div type="edition" xml:lang="sa-Latn-x-CI">
+   <text xml:space="preserve"><body><div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:83213">
             <ab><lb n="1"/>
                <g type="siddham"/></ab>
             <lg met="anuṣṭubh" n="1">
                <l n="a">maheśvarasakhasyedaṁ</l>
 		<l n="b">kuverasya dhanākaraṁ</l>
-               <l n="c">prakāśadharmmanṛpatiḥ</l>
+               <l n="c">prakāśadharmmanr̥patiḥ</l>
 		<l n="d">pūjāsthānam akalpayat·</l>
             </lg>
             <lg met="anuṣṭubh" n="2">

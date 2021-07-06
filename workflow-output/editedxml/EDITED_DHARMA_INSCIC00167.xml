@@ -102,7 +102,7 @@
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:00000">
 	<ab><milestone type="pagelike" unit="face" n="A"/><lb n="A1"/>svasti <g type="danda">.</g><g type="floretQuatrefoil"/> <g type="danda">.</g></ab>
 					 <lg n="1" met="anuṣṭubh">
 					<l n="a">śrī-Indravarmmaṇo rājño</l>

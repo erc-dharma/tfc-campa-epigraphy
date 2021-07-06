@@ -158,9 +158,9 @@
          <desc>Segment (8/8) of inscription <ptr/>. Taken at the Museum of Cham Sculpture by Arlo Griffiths on .</desc>
       </graphic>
    </facsimile>
-   <text xml:space="preserve"><body><div type="edition" xml:lang="sa-Latn-x-CI">
+   <text xml:space="preserve"><body><div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:83213">
                     <ab>☉<!-- AG: or use ⦿? -->oṁ </ab>
-                   <lg met="Anuṣṭubh" n="0">
+                   <lg met="anuṣṭubh" n="0">
                       <l>jaimaniñ ca samantañ ca vaiśampāyanam eva ca <g>|</g></l>
                       <l>yatra nāmāni likhitāni na tatrāśanipātanaṁ</l></lg>
                 <ab>svāhaḥ <g type="fleuron"/></ab>

@@ -128,7 +128,7 @@
 			<desc>Photograph of EFEO estampage n. 144.</desc>
 		</graphic>
 	</facsimile>
-	<text xml:space="preserve"><body><div type="edition" xml:lang="x-oldcam-Latn">
+	<text xml:space="preserve"><body><div type="edition" xml:lang="x-oldcam-Latn" rendition="class:83233 maturity:00000">
             <ab>
             <lb n="1"/> <supplied reason="lost">introductory elements</supplied> n<unclear>ī</unclear> mūla <unclear>h</unclear>u<unclear>l</unclear>u<unclear>n·</unclear> yā<unclear>m̃</unclear> <supplied reason="lost">pom̃ ku śrī</supplied>
             <lb n="2"/> <supplied reason="lost">jaya</supplied><unclear>pa</unclear>rameśvaravarmmadeva vuḥ pak· y<supplied reason="lost">ām̃ pom̃</supplied> 
@@ -138,13 +138,13 @@
             <lb n="6"/> nai 4 drim̃ śvam̃l· mauk· ayam̃p· 3 drim̃ śvam̃l·
             <lb n="7"/> mauk· rarauṅ· 7 drim̃ śvam̃l· mauk· re 7 drim̃ ja patiḥ
             <lb n="8"/> hulun· śiliḥ ri mauk· nik· mauk· svar· ja śi
-            <lb break="no" n="9"/>rā nan· humā sā sthāna di kumvyam̃l· anan· samṛddhija
+            <lb break="no" n="9"/>rā nan· humā sā sthāna di kumvyam̃l· anan· samr̥ddhija
             <lb break="no" n="10"/>ya ranok· 400 jāk· ṅan· tandom̃ laṅguv· kvi
             <lb break="no" n="11"/>r· campa si vuḥ di hajai nan· 30 drim̃ tralāy·
             <lb n="12"/> pirak· sā vana 'nāk· 50 thil· sanrauṅ· pira
             <lb break="no" n="13"/>k· sā vana 'nāk· 36 thil· <g>|||</g> si vuḥ di y
             <lb break="no" n="14"/>ām̃  pom̃ ku śrī jaya buddheśvara humā ra
-            <lb break="no" n="15"/>nok· di samṛddhijaya kumvyam̃l· 500 jāk· ṅa
+            <lb break="no" n="15"/>nok· di samr̥ddhijaya kumvyam̃l· 500 jāk· ṅa
             <lb break="no" n="16"/>n· tandom̃ laṅguv· kvir· campa si vuḥ di hajai nan· 3
             <lb break="no" n="17"/>0 drim̃ <g>||</g> pom̃ yām̃ pu yuvarāja am̃ nandabha
             <lb break="no" n="18"/><supplied reason="lost">d</supplied><unclear>ra</unclear> urām̃ turaiy· vijaya vuḥ tralām̃ pirak·
@@ -166,7 +166,7 @@
 <app loc="3-4">
 <lem>śrī<supplied reason="lost">patī</supplied><unclear>śva</unclear>ra</lem>
 <rdg source="bib:Finot1903_04">śrī...ra</rdg>
-<note><bibl><ptr target="bib:Jacques1977-1978_01"/><citedRange unit="page">1077, note 7</citedRange></bibl> suggested that the name of the latter god, which only the final part (°<foreign>śvara</foreign>) is readable, could be Saratīśvara. This hypothesis was based on the reading of the inscription C. 3 by <bibl><ptr target="bib:Jacques1976-1977_01"/><citedRange unit="page">989</citedRange></bibl> where the same name is associated whith that of Svayamutpanna. But according to the rereading of the inscription <ref n="tfc-campa-epigraphy" target="DHARMA_INSCIC00003.xml">C. 3</ref>. 2, Śrīpatīśvara seems to be a better reading than Saratīśvara.This is the name we reuse in this inscription.</note>
+<note><bibl><ptr target="bib:Jacques1977-1978_01"/><citedRange unit="page">1077, note 7</citedRange></bibl> suggested that the name of the latter god, which only the final part (°<foreign>śvara</foreign>) is readable, could be Saratīśvara. This hypothesis was based on the reading of the inscription C. 3 by <bibl><ptr target="bib:Jacques1976-1977_01"/><citedRange unit="page">989</citedRange></bibl> where the same name is associated whith that of Svayamutpanna. But according to the rereading of the inscription <ref target="DHARMA_INSCIC00003.xml">C. 3</ref>. 2, Śrīpatīśvara seems to be a better reading than Saratīśvara.This is the name we reuse in this inscription.</note>
 </app>
 <app loc="4-5">
 <lem><supplied reason="lost">hulu</supplied>n· śiliḥ</lem><note>the restitution, already proposed by Finot, is based on l. 8. At the end of the l. 4, the reading of a part of a subscript sign, which is most likely a <foreign>u</foreign>, shows there is no <foreign>akṣara</foreign> between <foreign>lau</foreign> and <foreign>hulun</foreign>.</note>

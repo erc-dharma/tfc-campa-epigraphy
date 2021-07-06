@@ -80,7 +80,7 @@
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="ocm-Latn">
+         <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:00000">
 <p><lb n="1"/><unclear>yā</unclear>ṅ· pu poṁ vihāra <gap reason="illegible" unit="character" quantity="3"/>· siy· bhikṣukarmma|
 <lb n="2"/><unclear cert="low">ma</unclear>ḥ sa<unclear cert="low">nī</unclear>y<unclear>·</unclear> kasa<space type="descender"/>kaiḥ <gap reason="illegible" quantity="1" unit="character"/> saṁha<!-- understand saṅgha? or edit sapa, or saṁpa, or Ais· paXs· (paṅap seems impossible) --> <unclear cert="low">si</unclear><unclear>y</unclear>· vi<unclear>h</unclear><supplied reason="lost">ā</supplied>ra padh<unclear>i</unclear>luv·
 <lb n="3"/>kadā vaḥ <choice><unclear>na</unclear><unclear>ta</unclear></choice> <unclear cert="low">Ai</unclear>s· ha<choice><unclear>ṭe</unclear><unclear>U</unclear></choice> <gap reason="illegible" quantity="1" unit="character"/>· <gap reason="illegible" quantity="2" unit="character"/>· <unclear>mara</unclear> <unclear cert="low">daiva</unclear> bhi<supplied reason="lost">kṣu</supplied>karmma di vihāra</p>

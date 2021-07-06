@@ -42,10 +42,10 @@
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
-                        Licence. To view a copy of the licence, visit
-                        https://creativecommons.org/licenses/by/4.0/ or send a letter to
-                        Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-                        California, 94041, USA.</p>
+              Licence. To view a copy of the licence, visit
+              https://creativecommons.org/licenses/by/4.0/ or send a letter to
+              Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+              California, 94041, USA.</p>
                   <p>Copyright (c) 2019-2025 by Arlo Griffiths and Salomé Pichon.</p>
                </licence>
             </availability>
@@ -68,10 +68,10 @@
                      <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Copyright (c) 2014 by Arlo Griffiths.</p>
                         <p>This work is licensed under the Creative Commons Attribution 3.0 Unported
-                            License. To view a copy of this license, visit
-                            http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative
-                            Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041,
-                            USA.</p>
+                  License. To view a copy of this license, visit
+                  http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative
+                  Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041,
+                  USA.</p>
                      </licence>
                   </availability>
                </publicationStmt>
@@ -121,25 +121,57 @@
    </teiHeader>
    <facsimile>
       <graphic url="C0206_1_VKL_2009.jpg">
-         <desc>Photograph 1/4 of inscription <ptr/>. Taken by Vũ Kim Lộc, before 2009. Reproduced by permission.</desc>
+         <desc>Photograph 1/4 of inscription
+        <ptr/>. Taken by Vũ Kim Lộc, before 2009. Reproduced by permission.
+      </desc>
       </graphic>
       <graphic url="C0206_2_VKL_2009.jpg">
-         <desc>Photograph 2/4 of inscription <ptr/>. Taken by Vũ Kim Lộc, before 2009. Reproduced by permission.</desc>
+         <desc>Photograph 2/4 of inscription
+        <ptr/>. Taken by Vũ Kim Lộc, before 2009. Reproduced by permission.
+      </desc>
       </graphic>
       <graphic url="C0206_3_VKL_2009.jpg">
-         <desc>Photograph 3/4 of inscription <ptr/>. Taken by Vũ Kim Lộc, before 2009. Reproduced by permission.</desc>
+         <desc>Photograph 3/4 of inscription
+        <ptr/>. Taken by Vũ Kim Lộc, before 2009. Reproduced by permission.
+      </desc>
       </graphic>
       <graphic url="C0206_4_VKL_2009.jpg">
-         <desc>Photograph 4/4 of inscription <ptr/>. Taken by Vũ Kim Lộc, before 2009. Reproduced by permission.</desc>
+         <desc>Photograph 4/4 of inscription
+        <ptr/>. Taken by Vũ Kim Lộc, before 2009. Reproduced by permission.
+      </desc>
       </graphic>
    </facsimile>
-   <text xml:space="preserve"><body><div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:83213">
-                <ab>
-                    tam imañ ca dhūpādhāraṃ śrīrudravarmmadevo dattavān iti <g>|</g><g type="encircled-circle">⊚</g><g>|</g>
-                </ab>
-            </div><div type="apparatus"><listApp><app loc=""><lem>tam imañ ca dhūpādhāraṃ</lem><rdg source="bib:Schweyer">[ta mi ma smam] sahādhāraḥ</rdg><note>There is clearly no <hi rend="italic">visarga</hi> but rather the expected <hi rend="italic">anusvāra</hi>.</note></app><app loc=""><lem><g>|</g><g type="encircled-circle">⊚</g><g>|</g></lem><note>The punctuation is not represented by Schweyer.</note></app></listApp></div><div type="translation"><p>And Śrī Rudravarmadeva has given this censer here.</p></div><div type="translation" xml:lang="fra"><p>Et Śrī Rudravarmadeva a donné ce porte-encens-ci.</p></div><!-- <div type="bibliography" subtype="secondary">
+   <text xml:space="preserve">
+    <body>
+      <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:83213">
+        <p>
+          <lb n="1"/>tam imañ ca dhūpādhāraṃ śrīrudravarmmadevo dattavān iti <g>|</g><g type="encircled-circle">⊚</g><g>|</g>
+        </p>
+      </div>
+      <div type="apparatus">
+        <listApp>
+          <app loc="1">
+            <lem>tam imañ ca dhūpādhāraṃ</lem>
+            <rdg source="bib:Schweyer1999_02">[ta mi ma smam] sahādhāraḥ</rdg>
+            <note>There is clearly no <hi rend="italic">visarga</hi> but rather the expected <hi rend="italic">anusvāra</hi>.</note>
+          </app>
+          <app loc="1">
+            <lem><g>|</g><g type="encircled-circle">⊚</g><g>|</g></lem>
+            <note>The punctuation is not represented by Schweyer.</note>
+          </app>
+        </listApp>
+      </div>
+      <div type="translation" resp="part:argr">
+        <p>And Śrī Rudravarmadeva has given this censer here.</p>
+      </div>
+      <div type="translation" xml:lang="fra" resp="part:argr">
+        <p>Et Śrī Rudravarmadeva a donné ce porte-encens-ci.</p>
+      </div>
+      <!-- <div type="bibliography" subtype="secondary">
                 <listBibl>
                     <bibl><bibl><ptr target="cic-bibl:lxd-vkl-1996"/>: <biblScope>89</biblScope></bibl> (two photos from other angles than those shown here).</bibl>
                 </listBibl>
-            </div>  --></body></text>
+            </div>  -->
+    </body>
+  </text>
 </TEI>

@@ -102,7 +102,7 @@
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:00000">
+         <div type="edition" xml:lang="san-Latn">
 	<ab><milestone type="pagelike" unit="face" n="A"/><lb n="A1"/>svasti <g type="danda">.</g><g type="floretQuatrefoil"/> <g type="danda">.</g></ab>
 					 <lg n="1" met="anuṣṭubh">
 					<l n="a">śrī-Indravarmmaṇo rājño</l>
@@ -200,20 +200,19 @@
 				 <p rend="stanza" n="8">Alors mon seigneur le Dauphin <supplied reason="explanation">indra... yuvā = yuvarājā</supplied> de Tanreṅpurī, a donné votre entière exemption <supplied reason="subaudible" cert="low">et ?</supplied> une multitude d’ornements en forme d’une bonne réputation à cette <supplied reason="subaudible">princesse</supplied> nommée Subhadrā, dont le visage était poudré du poudre du Ketaka, dont les yeux était extraordinairement <supplied reason="explanation">sau°</supplied> larges, une faible femme, pour que <supplied reason="subaudible">leur</supplied> amour ne soit jamais détruite, tant qu’elle jouissait de la fertilité conjugale.</p>
 
 				 <p n="C3-D3">Which rice fields ? Kedvuk, Cuvair Bhoja, Lahaur <supplied reason="explanation"><q>Evening</q></supplied>, Pitau Janreh.
-				 Rice fields Puṅ Manat fish Pu, Curiḥ, Diṅin <supplied reason="explanation"><q>Cold</q></supplied>, Aṅauy, Lāc, Luvauṅ.
+				 Rice fields Puṅ Manat fish Pu, Curih, Diṅin <supplied reason="explanation"><q>Cold</q></supplied>, Aṅauy, Lāc, Luvauṅ.
 				 Kaun, marshes, plains, brush, ponds, hills, all those ricefields.
-				 The <foreign>cluṅ dhuṅ</foreign> above these forests and brushes.
+				 The <foreign>cluṅ dhuṅ</foreign> above these forests <supplied reason="subaudible">and</supplied> brushes.
 				 Bovines, buffaloes, slaves, elephants, gold, silver.
-				 Then the <foreign>Ājñā</foreign>P.K. Mahīndrādhipatiḥ offered <foreign>grāc</foreign> [and] gave them to the monastery of Śrī Mahīndralokeśvara.</p>
-				 <p n="D3-E1">The Y.P.K. then made this monastery exempt <supplied reason="explanation">from taxation</supplied> in every way (sarvataḥ), from all perspectives (? riṁ nariy nau). May no-one they steal the slaves owned by this monastery.
-Then my lord transfered [the merit ?] to his mother.
-May no-one at all destroy <foreign>dauk</foreign> the truth-water and food.
-
+				 Then <foreign>ājñā</foreign> P.K. Mahīndrādhipati offered <supplied reason="explanation"><foreign>grāc</foreign></supplied> <supplied reason="subaudible">and</supplied> gave them to the monastery of Śrī Mahīndralokeśvara.</p>
+				 <p n="D3-E1">The Y.P.P.K. then allowed this monastery to cancel <supplied reason="explanation">payment of taxes</supplied> in every way <supplied reason="explanation"><foreign>sarvataḥ</foreign></supplied>, from all perspectives <supplied reason="explanation">? <foreign>riṁ nariy nau</foreign></supplied>. May no-one steal the slaves owned by this monastery.
+         Then <foreign>ājñā</foreign> P.K. transferred <supplied reason="subaudible">the merit ?</supplied> to his mother.
+         May no-one destroy <supplied reason="explanation"><foreign>kluñ</foreign></supplied> <foreign>dauk kan</foreign> <supplied reason="explanation">?</supplied> the truth-water and food either.
 <!--début traduction sapi-->Who even protects the city of Tanrem̃<!--sapi2argr cf Tanreṅpurī, stance IV--> <foreign>Aṅgāḥ</foreign> follows, he <foreign>pandaṁ</foreign>.<!--sens possible de pandaṁ, A&C p. 266 (PDF p. 342) = offrir des provisions.--><!-- difficulté de traduire les deux man de ces passages, sans la négation.-->
 Here,<!--sapi2argr pas le même nim̃ que l.D4 car il ne peut avoir valeur de démonstratif.--> another and a cooked rice <foreign>sanraum̃</foreign><!-- une sorte de cuillère peut-être? L'ordre des mots nasim̃ sanraum̃ est inversé plus loin.-->.
 One <!--le début d'une phrase par un chiffre est étonnant. Mais plus loin, j'ai de nouveau l'impression que les chiffres sont avant les noms qu'ils désignent. De plus, le caractère n'est pas clair.--> <foreign>maruy</foreign><!--note cam lexicon : Is there any connection with ruy, mparuy in MdC?--> four five four,
 
-the luminous being <supplied reason="subaudible">that is</supplied> the noble woman of the <foreign>Ājñā</foreign>P.K. Mahīndrādhipatiḥ who then gave <foreign>kan</foreign> to the pu vinai Subhadrā, who protects this city.
+the luminous being <supplied reason="subaudible">that is</supplied> the noble woman <supplied reason="explanation"><foreign>pu vinai</foreign></supplied> of the <foreign>Ājñā</foreign>P.K. Mahīndrādhipatiḥ who then gave <foreign>kan</foreign> to the noble woman <supplied reason="explanation"><foreign>pu vinai</foreign></supplied> Subhadrā, who protects this city.
 
 <foreign>Aṅgāḥ</foreign> follows, he <foreign>pandaṁ</foreign>.<!--mêmes remarques que plus haut-->
 
@@ -221,7 +220,8 @@ One <foreign>sanraum̃</foreign> for cooked rice <!--ici sanraum̃ et nasim̃ so
 
 two <foreign>ta</foreign> detroys this, name
 
-He who breaks <supplied reason="subaudible">this</supplied> : a mutilated<!--pas sûre--> dog, a four-eyed black dog <!--encore une fois, chiffre avant ce qu'il désigne ?--> mount <supplied reason="subaudible">his</supplied> mother and father reciprocally, <supplied reason="subaudible">his</supplied> family, he will fall and reside in the Avīci that is hell until the end of the ages <!--A&C, p. 293 (PDF p. 369) : traduisent "tauṅ yugāntaḥ pralaya" par "jusqu'à la fin des siècle, jusqu'à la destruction du monde". Ainsi, tauṅ = taṁl ?--> One must not break <foreign>proṅ</foreign> the means of subsistance, in order to meet the aunt and the mother and father in heaven.</p>
+He who breaks <supplied reason="subaudible">this</supplied> : a mutilated<!--pas sûre--> dog, a four-eyed black dog <!--encore une fois, chiffre avant ce qu'il désigne ?--> mount <supplied reason="subaudible">his</supplied> mother and father reciprocally, <supplied reason="subaudible">his</supplied> family, he will fall and reside in the Avīci that is hell until the end of the ages <!--A&C, p. 293 (PDF p. 369) : traduisent "tauṅ yugāntaḥ pralaya" par "jusqu'à la fin des siècle, jusqu'à la destruction du monde". Ainsi, tauṅ = taṁl ?--> 
+He must not limit the size <supplied reason="explanation"><foreign>proṅ</foreign></supplied> of the means of subsistance, who wishes to meet his uncles and aunts and his mother and father in heaven.</p>
 				 </div>
          <div type="commentary">
           <p n="A1">bhavān·: the right half of the virāma doesn’t appear on the photograph of the estampage, but the same word can be found in stanzas V et VIII.</p>
@@ -234,7 +234,7 @@ He who breaks <supplied reason="subaudible">this</supplied> : a mutilated<!--pa
 	<!--bibliography encoded as per section §9.4 -->
 	<!-- NB: you are encouraged to experiment with encoding bibliography to the extent you have the bibliographic data available, but it is not mandatory at this stage, because our bibliographic data are normally assembled along with other metadata in spreadsheets and will be imported from there into our xml files by a semi-automated process at a later stage. -->
            <p>First inventoried by H. Parmentier (<bibl rend="omitname"><ptr target="bib:Parmentier1909_01"/><citedRange unit="page">564</citedRange></bibl>). First mentioned in the <foreign>Chronique</foreign> section of (<bibl><ptr target="bib:BEFEO019_1919"/><citedRange unit="page">103</citedRange></bibl>), then by G. Cœdès (<bibl rend="omitname"><ptr target="bib:Coedes1923_01"/><citedRange unit="page">37</citedRange></bibl>),
-					 and finally by L. Finot (<bibl rend="omitname"><ptr target="bib:Finot1925_02"/><citedRange unit="volume">1</citedRange><citedRange unit="page">234</citedRange></bibl>)<!--sapi2argr J'ai ici rajouté une entrée pour Finot-->. Later on evoked by K.-H. Golzio (<bibl rend="omitname"><ptr target="bib:Golzio2004_01"/><citedRange unit="page">115</citedRange></bibl>), and N. Chutiwongs (<bibl rend="omitname"><ptr target="bib:Chutiwongs2005_01"/><citedRange unit="page">75/78</citedRange></bibl>)<!--sapi2argr Comment signifier deux mentions sur deux pages différentes ? -->. First edited by Arlo Griffiths from EFEO estampage n. 0291.</p>
+					 and finally by L. Finot (<bibl rend="omitname"><ptr target="bib:Finot1925_02"/><citedRange unit="volume">1</citedRange><citedRange unit="page">234</citedRange></bibl>)<!--sapi2argr J'ai ici rajouté une entrée pour Finot-->. Later on evoked by K.-H. Golzio (<bibl rend="omitname"><ptr target="bib:Golzio2004_01"/><citedRange unit="page">115</citedRange></bibl>), and N. Chutiwongs (<bibl rend="omitname"><ptr target="bib:Chutiwongs2005_01"/><citedRange unit="page">75/78</citedRange></bibl>)<!--sapi2argr Comment signifier deux mentions sur deux pages différentes ? -->. First edited by Arlo Griffiths from EFEO estampage n.0291.</p>
         	<listBibl type="primary">
 						<bibl n="P">
 						<ptr target="bib:Parmentier1909_01"/>

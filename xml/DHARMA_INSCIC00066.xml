@@ -446,6 +446,13 @@
                  </app>
                </listApp>
          </div>
+         <div type="translation" resp="part:argr part:sapi">
+           <p rend="stanza" n="40">... a vihāra was established for the sake of Dharma, exempted of royal taxes, for the profit of the monks’ community.</p><!--sapi2argr Pas trop sûre de la traduction exacte de « na tv ākarādānād » comme : exempted of royal taxes. À propos de ākarādānād, voir Griffiths et al. 2012: 228 n. 101.-->
+           <p rend="stanza" n="41">By me was established in the vihara all the means of subsistence for the sake of the enjoyment of the monks’ community and for the profit of beings.</p>
+           <p rend="stanza" n="42">The vihāra is always established, not for the sake of the enjoyment of the king, nor for the continuation of taxes, <supplied reason="subaudible">but</supplied> for the sake of the enjoyment of the monks’ community.</p>
+           <p rend="stanza" n="43">The sage, brahmans, ascetics, akṣitipatijñātyā and so on, who protect in such a manner these goods of the monks, attained the unequalled city of the buddhist liberation and with vāndhavair.
+           Those who steal and destroy voluntarily will fall into the dreadful hell.</p><!--sapi2argr Encore quelques hésitations sur akṣitipatijñātyā et vāndhavair.-->
+           </div>
          <div type="translation" xml:lang="fra" source="bib:Finot1904_01">
            <p n="A01"><supplied reason="subaudible">Hommage</supplied> à Lakṣmīndra Lokeśvara !</p>
            <p rend="stanza" n="1-5">......... Bhadreśvara........ et Bhr̥gu fut envoyé.</p>

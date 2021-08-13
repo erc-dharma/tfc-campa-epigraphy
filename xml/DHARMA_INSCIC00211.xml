@@ -4,8 +4,7 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<!-- //// PLEASE DO NOT USE THIS TEMPLATE FOR YOUR ENCODING. IT IS SILL AT A PREPARATION STAGE - KEEP USING THE TEMPLATE V03 /// -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng" xml:id="ID"><!-- update the @xml:id at the base with the DHARMA ID, see FNC. -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -77,24 +76,11 @@
                <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
-         <tagsDecl partial="true">
-            <rendition xml:id="classification" scheme="other">Referential with the prefix class for script classification declared inside OpenTheso to be mapped with ARK URIs opened to the public</rendition>
-            <rendition xml:id="maturity" scheme="other">Referential with the prefix maturity for script maturity declared inside OpenTheso to be mapped with ARK URIs opened to the public</rendition>
-         </tagsDecl>
       </encodingDesc>
       <revisionDesc>
          <change who="part:sapi" when="2021-02-12" status="draft">Beggining initial encoding of the inscription</change>
       </revisionDesc>
    </teiHeader>
-   <!-- Part to be used only, if you want to declare and link some photos with your encoding -->
-   <facsimile>
-      <graphic url="filename.jpg" xml:id="photo1"/>
-      <!-- graphic should take at least an attribute @url containing either the https where the photo is stored or the filename of the file itself. An @xml:id can be declared if you want to link part of your encoding with a facsimile using the attribute @facs. -->
-      <!-- If you want to provide a description, use the following pattern
-      <graphic url="filename.jpg" xml:id="photo1">
-      <desc>Some description</desc>
-      </graphic>-->
-   </facsimile>
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">
@@ -134,8 +120,8 @@
            <l n="a"><lb n="A1"/><seg met="++-++--+-++"><gap reason="lost" quantity="11" unit="character"/></seg></l>
            <l n="b"><seg met="++-++--+-++"><gap reason="lost" quantity="11" unit="character"/></seg><lb n="A2"/></l>
            <l n="c"><seg met="++-++--+-++"><gap reason="lost" quantity="11" unit="character"/></seg></l>
-           <l n="d">jātam̃ kusumam̃ grathitam̃ karāgraiḥ</l>-->
-         </lg>
+           <l n="d">jātam̃ kusumam̃ grathitam̃ karāgraiḥ</l>         
+           </lg>
            <lg n="8" met="vaṁśastha">
              <l n="a">r<unclear>pra</unclear>p<unclear>ū</unclear>ritāś śrījayasiṅhavarmmaṇ<supplied reason="lost">ā</supplied></l>
              <l n="b"><seg met="-+-"><gap reason="lost" quantity="3" unit="character"/></seg><lb n="B4"/><seg met="++"><gap reason="lost" quantity="2" unit="character"/></seg> śayapuṇyakāṅkṣiṇām·</l>

@@ -203,32 +203,31 @@
            <listApp>
              <app loc="A3">
                <lem>niśīnd<unclear>i</unclear>isv<unclear>ās</unclear>ṛ</lem>
-               <note>One might like to read niśīndu- here, but there is definitely no u-vocalization.</note>
+               <note>One might like to read <foreign>niśīndu</foreign>- here, but there is definitely no u-vocalization.</note>
                </app>
               <app loc="A7">
                  <lem>cara<unclear>ṇa</unclear><seg met="--"><gap reason="lost" quantity="2" unit="character"/></seg>m</lem>
-                 <note>One might conjecture here caraṇatalam.</note>
+                 <note>One might conjecture here <foreign>caraṇatalam</foreign>.</note>
                 </app>
               <app loc="B3">
                    <lem><seg met="-+-++"><gap reason="lost" quantity="5" unit="character"/></seg>śaya-</lem>
-                   <note>Yuko Yokochi here conjectures: manorathā āśaya-.</note>
+                   <note>Yuko Yokochi here conjectures: <foreign>manorathā āśaya</foreign>-.</note>
                 </app>
                 <app loc="C3">
                      <lem><unclear>vā</unclear>yam<unclear>a</unclear></lem>
-                     <note>It is just conceivable that an e-vocalisation was originally written above what is here read m(a), in which case we would have me, and may speculate about a restoration like [de]vāya m[e] muktis sakalā.</note>
+                     <note>It is just conceivable that an e-vocalisation was originally written above what is here read <foreign>m(a)</foreign>, in which case we would have <foreign>me</foreign>, and may speculate about a restoration like <foreign>[de]vāya m[e] muktis sakalā</foreign>.</note>
                   </app>
                   <app loc="C4">
                        <lem>dāt</lem>
-                       <note>This is certainly the final syllable of a verb form like adāt or prādāt, as we presuppose in our translation.</note>
+                       <note>This is certainly the final syllable of a verb form like <foreign>adāt</foreign> or <foreign>prādāt</foreign>, as we presuppose in our translation.</note>
                   </app>
                   <app loc="C7">
                        <lem>ttavān</lem>
-                       <note>These are almost certainly the final syllables of a participial form like pradattavān, as we see also in l. 8. Only very vagues traces are left of most akṣaras in the remainder of this line. We guess that the language was Sanskrit. If this assumption is correct, then one may have to read avanau or atha nau, since (akan)au cannot be Sanskrit.</note>
+                       <note>These are almost certainly the final syllables of a participial form like <foreign>pradattavān</foreign>, as we see also in l. 8. Only very vagues traces are left of most akṣaras in the remainder of this line. We guess that the language was Sanskrit. If this assumption is correct, then one may have to read <foreign>avanau</foreign> or <foreign>atha nau</foreign>, since (<foreign>akan</foreign>)au cannot be Sanskrit.</note>
                   </app>
                   <app loc="C10">
                        <lem>ja<supplied reason="lost">yasiṅhavarmmadeva Avi</supplied></lem>
-                       <note>The restorations are inspired by the general contents of the inscription (Jayasiṁhavarman figures also in B, st. II and IV) and by parallels such as C. 142, face D, lines 18–19: aviḥ humā nan kā ra vuḥ di yāṅ pov ku śrīmahārudra. At the end, one will have to restore mahārudrāṇī or mahārudrādhipatiḥ.
-</note>
+                       <note>The restorations are inspired by the general contents of the inscription (Jayasiṁhavarman figures also in B, st. II and IV) and by parallels such as C. 142, face D, lines 18–19: <foreign>aviḥ humā nan kā ra vuḥ di yāṅ pov ku śrīmahārudra</foreign>. At the end, one will have to restore <foreign>mahārudrāṇī</foreign> or <foreign>mahārudrādhipatiḥ</foreign>.</note>
                   </app>
                </listApp>
          </div>

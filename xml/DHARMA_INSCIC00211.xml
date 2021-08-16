@@ -78,8 +78,8 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-        <change who="part:sapi" when="2021-02-16" status="draft">Adding translation and commentaries</change>
-         <change who="part:sapi" when="2021-02-12" status="draft">Beggining initial encoding of the inscription</change>
+        <change who="part:sapi" when="2021-08-16" status="draft">Adding translation and commentaries</change>
+         <change who="part:sapi" when="2021-08-12" status="draft">Beggining initial encoding of the inscription</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">

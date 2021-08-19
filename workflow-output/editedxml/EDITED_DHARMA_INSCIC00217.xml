@@ -147,28 +147,28 @@
                         <ab><lb n="1"/>
                             <g type="siddham"/></ab>
                        <lg met="anuṣṭubh" n="1">
-                            <l>śrīvr̥ddheśvaranāthasya saśryutpanneśvarasya ca</l>
-                            <l><lb n="2"/>sthāpanobhayakośasya kr̥tā śrīsatyavarmmaṇā <g>||</g></l>                       
+                            <l n="ab">śrīvr̥ddheśvaranāthasya saśryutpanneśvarasya ca</l>
+                            <l n="cd"><lb n="2"/>sthāpanobhayakośasya kr̥tā śrīsatyavarmmaṇā <g>||</g></l>                       
                        </lg>
                         <lg met="anuṣṭubh" n="2">
-                           <l><lb n="3"/>sā śryādidevanāthasya liṅgasaṁsthāpanākarot</l>
-                           <l><lb n="4"/>kr̥tā tena <unclear>śa</unclear>raccandramayūkhavimalaṁ yaśaḥ <g>||</g></l>
+                           <l n="ab"><lb n="3"/>sā śryādidevanāthasya liṅgasaṁsthāpanākarot</l>
+                           <l n="cd"><lb n="4"/>kr̥tā tena <unclear>śa</unclear>raccandramayūkhavimalaṁ yaśaḥ <g>||</g></l>
                    </lg>
                         <lg met="indravajrā" n="3">        
-                            <l><lb n="5"/>śrīsatyadeveśvaranātham eṣa</l>
-                            <l>śrīsatyavarmmā śarakhādripūrṇṇe</l>
-                            <l><lb n="6"/>śāke śuceś śukladaśāhayukte </l>
-                            <l>śrāddhaḥ pratiṣṭhāpitavān subhaktyā <g>||</g></l>
+                            <l n="1"><lb n="5"/>śrīsatyadeveśvaranātham eṣa</l>
+                            <l n="2">śrīsatyavarmmā śarakhādripūrṇṇe</l>
+                            <l n="3"><lb n="6"/>śāke śuceś śukladaśāhayukte </l>
+                            <l n="4">śrāddhaḥ pratiṣṭhāpitavān subhaktyā <g>||</g></l>
                     </lg>
                         <lg met="śārdūlavikrīḍita" n="4">                       
-                     <l><lb n="7"/>trailokyan tanubhis tanoti sakalaṁ sūkṣmo pi yo jo <w part="I">ṣṭabhi</w></l><lb n="8" break="no"/><l><w part="F">r</w> ggīrvvāṇāḥ parameṣṭhyajaprabhr̥tayo yan te
+                     <l n="1"><lb n="7"/>trailokyan tanubhis tanoti sakalaṁ sūkṣmo pi yo jo <w part="I">ṣṭabhi</w></l><lb n="8" break="no"/><l n="2"><w part="F">r</w> ggīrvvāṇāḥ parameṣṭhyajaprabhr̥tayo yan te
                             rccayanti prabhum</l>
-                            <l><lb n="9"/>yaḥ krodhena tamālapatrapadabhūnetrāgnilakṣmījahā</l>
-                            <l><lb n="10"/>śrīmān adbhutaceṣṭitas sa jayati śrīsatyadeveśvaraḥ <g>||</g></l>
+                            <l n="3"><lb n="9"/>yaḥ krodhena tamālapatrapadabhūnetrāgnilakṣmījahā</l>
+                            <l n="4"><lb n="10"/>śrīmān adbhutaceṣṭitas sa jayati śrīsatyadeveśvaraḥ <g>||</g></l>
                         </lg>
                     <lg met="anuṣṭubh" n="5">                       
-                     <l><lb n="11"/>śrīsatyavarmmaṇo rājño bhūmau vikasitaṁ yaśaḥ</l>
-                            <l><lb n="12"/>atiśete nr̥pān anyāñ jyotir indor <choice><reg>uḍūn</reg><orig>udūn</orig></choice> iva <g>||</g> </l>                        
+                     <l n="ab"><lb n="11"/>śrīsatyavarmmaṇo rājño bhūmau vikasitaṁ yaśaḥ</l>
+                            <l n="cd"><lb n="12"/>atiśete nr̥pān anyāñ jyotir indor <choice><reg>uḍūn</reg><orig>udūn</orig></choice> iva <g>||</g> </l>                        
                     </lg>
                 <!-- AG: a correction is made here with <reg>. Do we not want to do such corrections in apparatus? See also another <reg> below. -->
                     </div>

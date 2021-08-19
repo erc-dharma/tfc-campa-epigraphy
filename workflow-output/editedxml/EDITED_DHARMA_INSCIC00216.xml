@@ -160,17 +160,17 @@
                         <ab><lb n="1"/>
                             <g type="siddham"/>  svasti namaś śivāya śrīvr̥ddheśvarāya</ab>
                        <lg met="śārdūlavikrīḍita" n="1">
-                           <l><lb n="2"/>yo lokaprabhavasthitipralayavid digbhāgaviśvaprabhur</l>
-                           <l>yyo datvā ja<lb n="3" break="no"/>gatām varaṁ praṇayinām vīrarṣibhis sthāpitaḥ</l>
-                           <l>bahner mmūrttimayaiś śatārddhatanubhi<lb n="3" break="no"/>r ddīptorjjitenātmanā</l>
-                            <l>pāyād bhūḥ kila pāṇḍaraṅgaviṣaye  śrīmān sa vr̥ddheśvaraḥ <g type="fleuron" subtype="tobedefined"/>
+                           <l n="1"><lb n="2"/>yo lokaprabhavasthitipralayavid digbhāgaviśvaprabhur</l>
+                           <l n="2">yyo datvā ja<lb n="3" break="no"/>gatām varaṁ praṇayinām vīrarṣibhis sthāpitaḥ</l>
+                           <l n="3">bahner mmūrttimayaiś śatārddhatanubhi<lb n="3" break="no"/>r ddīptorjjitenātmanā</l>
+                            <l n="4">pāyād bhūḥ kila pāṇḍaraṅgaviṣaye  śrīmān sa vr̥ddheśvaraḥ <g type="fleuron" subtype="tobedefined"/>
                             </l>                       
                        </lg>
                         <lg met="sragdharā" n="2">
-                           <l><lb n="5"/> <w part="I">śuddhāṅśabrahmavaryyaprathitakulaśarannirmmalākāśadeśa</w></l>
-                           <l><w part="F">prādurbhbhūto</w><!-- AG: spelling rbhbh may need to be encoded with <choice><reg><orig> -->  vanīndravya<lb n="6" break="no"/>pamalaśaśabhr̥c chrīkalākāntimān yaḥ</l>
-                            <l>śatruddhvāntāni jitvā sukr̥takaracayais to<lb n="7" break="no"/>ṣayitvātmabhr̥tyān</l>
-                            <l>eṣa śrīsatyavarmmā bhuvi divi vibabhau  śakravad dīptatejāḥ <g type="fleuron" subtype="tobedefined"/></l>
+                           <l n="1"><lb n="5"/> <w part="I">śuddhāṅśabrahmavaryyaprathitakulaśarannirmmalākāśadeśa</w></l>
+                           <l n="2"><w part="F">prādurbhbhūto</w><!-- AG: spelling rbhbh may need to be encoded with <choice><reg><orig> -->  vanīndravya<lb n="6" break="no"/>pamalaśaśabhr̥c chrīkalākāntimān yaḥ</l>
+                            <l n="3">śatruddhvāntāni jitvā sukr̥takaracayais to<lb n="7" break="no"/>ṣayitvātmabhr̥tyān</l>
+                            <l n="4">eṣa śrīsatyavarmmā bhuvi divi vibabhau  śakravad dīptatejāḥ <g type="fleuron" subtype="tobedefined"/></l>
                         </lg>
                     </div>
                     <div type="textpart" n="A2" rend="break-none">
@@ -195,16 +195,16 @@
 </div>
 <div type="textpart" n="C2" rend="break-verse-lines">
      <lg met="anuṣṭhub" n="3">        
-           <l>satrāṇāṁ prākpravr̥ttānāṁ <lb n="8"/> bhedanaṁ yaḥ karoti ca</l>
-           <l>sa pāpakr̥t pāpataraḥ pākabhedo nigadyate <g>||</g></l>
+           <l n="ab">satrāṇāṁ prākpravr̥ttānāṁ <lb n="8"/> bhedanaṁ yaḥ karoti ca</l>
+           <l n="cd">sa pāpakr̥t pāpataraḥ pākabhedo nigadyate <g>||</g></l>
      </lg>
     <lg met="anuṣṭhub" n="4">        
-           <l><lb n="9"/> pākabhedaḥ kr̥taghnaś ca bhūmiharttā ca te trayaḥ</l>
-           <l><choice><reg>narakān na</reg><orig>narakāt<!-- Hugh: and here's another one. --> na</orig></choice> nivarttante <lb n="10"/> yāvat somadivākarau <g>||</g></l>
+           <l n="ab"><lb n="9"/> pākabhedaḥ kr̥taghnaś ca bhūmiharttā ca te trayaḥ</l>
+           <l n="cd"><choice><reg>narakān na</reg><orig>narakāt<!-- Hugh: and here's another one. --> na</orig></choice> nivarttante <lb n="10"/> yāvat somadivākarau <g>||</g></l>
     </lg>
     <lg met="āryā" n="5">        
-           <l>sakr̥d api yasyāṅghrinatiś śubhāśvamedhebhya <lb n="11"/> eva sātiśayā</l>
-           <l>śamayann avanataduritaṁ sa ādideveśvaro jayati <g>||</g></l>
+           <l n="ab">sakr̥d api yasyāṅghrinatiś śubhāśvamedhebhya <lb n="11"/> eva sātiśayā</l>
+           <l n="cd">śamayann avanataduritaṁ sa ādideveśvaro jayati <g>||</g></l>
          </lg>
     </div>
           <div type="textpart" n="C3" rend="break-none">
@@ -213,17 +213,17 @@
      <div type="textpart" n="d" rend="break-verse-lines">
 <head xml:lang="eng">Face d (socle).</head>      
     <lg met="śārdūlavikrīḍita" n="6">       
-           <l>⎽ ⎽ ⎽ ⏑ ⏑ ⎽ ⏑ ⎽ ⏑ ⏑ ⎽ ⎽ ⎽ ⏑ ⎽ ⎽ ⏑ ⎽</l>
+           <l n="1">⎽ ⎽ ⎽ ⏑ ⏑ ⎽ ⏑ ⎽ ⏑ ⏑ ⎽ ⎽ ⎽ ⏑ ⎽ ⎽ ⏑ ⎽</l>
     <!-- AG: we will finally have to tackle how to encode such lost metrical sequences, if only to avoid having to fight with font problems as the encoding stage: the breve and macron signs are not easily available in most font. -->
-    <l>⎽ ⎽ ⎽ ⏑ ⏑ ⎽ ⏑ ⎽ ⏑ ⏑ ⏑ ⎽ ⎽ ⎽ d viśī<unclear>r</unclear>ṇṇan tadā </l>
-    <l>puṣyasyāmvaraṣaṇnage śakapatau citre kavau śrāddhayā</l>
-           <l>kr̥ṣne  saptadine marov·giricaran tu śryādidevāya tam· <g>||</g></l>
+    <l n="2">⎽ ⎽ ⎽ ⏑ ⏑ ⎽ ⏑ ⎽ ⏑ ⏑ ⏑ ⎽ ⎽ ⎽ d viśī<unclear>r</unclear>ṇṇan tadā </l>
+    <l n="3">puṣyasyāmvaraṣaṇnage śakapatau citre kavau śrāddhayā</l>
+           <l n="4">kr̥ṣne  saptadine marov·giricaran tu śryādidevāya tam· <g>||</g></l>
     </lg>    
          <lg met="indravajrā" n="7">        
-                            <l>ye saṁhariṣyanty adhamāḥ kr̥taghnāḥ</l>
-             <l>⎽ ⎽ ⏑ ⎽ ⎽ ⏑ ⏑ ⎽ ⏑ ⎽ ⎽</l>
-             <l>⎽ ⎽ ⏑ ⎽ ⎽ <supplied reason="lost">nipata</supplied>nty avīcyāṁ </l>
-                            <l>tasmāt pitr̥bhyāṁ narakādhamāyām· <g>||</g></l>
+                            <l n="1">ye saṁhariṣyanty adhamāḥ kr̥taghnāḥ</l>
+             <l n="2">⎽ ⎽ ⏑ ⎽ ⎽ ⏑ ⏑ ⎽ ⏑ ⎽ ⎽</l>
+             <l n="3">⎽ ⎽ ⏑ ⎽ ⎽ <supplied reason="lost">nipata</supplied>nty avīcyāṁ </l>
+                            <l n="4">tasmāt pitr̥bhyāṁ narakādhamāyām· <g>||</g></l>
                     </lg>
      </div>
            </div>

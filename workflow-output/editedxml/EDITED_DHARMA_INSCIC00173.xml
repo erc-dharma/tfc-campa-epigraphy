@@ -157,24 +157,24 @@
             <ab><lb n="1"/> 
                <g type="siddham"/></ab>
             <lg met="anuṣṭubh" n="1">
-               <l> yasya śokāt samutpannaṁ ślokaṁ brahmābhipū<unclear>jati</unclear></l>
-               <l> <supplied reason="lost">vi</supplied><unclear>ṣṇoḥ</unclear> puṅsaḥ purāṇasya manu<unclear>jasyā</unclear>tmarūpiṇaḥ</l>
+               <l n="ab"> yasya śokāt samutpannaṁ ślokaṁ brahmābhipū<unclear>jati</unclear></l>
+               <l n="cd"> <supplied reason="lost">vi</supplied><unclear>ṣṇoḥ</unclear> puṅsaḥ purāṇasya manu<unclear>jasyā</unclear>tmarūpiṇaḥ</l>
             </lg>
             <lg met="anuṣṭubh" n="2">
-               <l><lb n="2"/> <supplied reason="lost">rāmasya</supplied> <unclear>ca</unclear>ritaṁ kr̥ts<supplied reason="lost">n</supplied>aṁ kr̥taṁ <unclear>yenābhisādhanaṁ</unclear></l>
-               <l> kaver ādyasya maharṣṣer vv<unclear>ā</unclear>lmīkeś cāvaner iha</l>
+               <l n="ab"><lb n="2"/> <supplied reason="lost">rāmasya</supplied> <unclear>ca</unclear>ritaṁ kr̥ts<supplied reason="lost">n</supplied>aṁ kr̥taṁ <unclear>yenābhisādhanaṁ</unclear></l>
+               <l n="cd"> kaver ādyasya maharṣṣer vv<unclear>ā</unclear>lmīkeś cāvaner iha</l>
             </lg> 
             </div>
             <div type="textpart" subtype="face" n="B">
                 <head xml:lang="eng">Face B.</head>
                <lg met="anuṣṭubh" n="3">
-                  <l><lb n="1"/> <unclear>pūjāsthānaṁ</unclear> punas tasya kr̥ta ⎼ Cy ⏓ ⏑ ⎼ ⏑ ⎼ </l>
-                  <l> prakāśadharmmanr̥patis sarvvārigaṇasūdanaḥ </l>
+                  <l n="ab"><lb n="1"/> <unclear>pūjāsthānaṁ</unclear> punas tasya kr̥ta ⎼ Cy ⏓ ⏑ ⎼ ⏑ ⎼ </l>
+                  <l n="cd"> prakāśadharmmanr̥patis sarvvārigaṇasūdanaḥ </l>
                </lg>
                <lg met="anuṣṭubh" n="4">
-                  <l><lb n="2"/>
+                  <l n="ab"><lb n="2"/>
             vidyāśaktikṣamālakṣ<unclear>m</unclear>īkīrttidhairyya<supplied reason="lost">guṇā</supplied>n<unclear>v</unclear>i<unclear>taḥ</unclear></l>
-      <l>
+      <l n="cd">
          <unclear>jaya</unclear>ty eṣa jagatkāntaś śārade ntarite <supplied reason="lost">v</supplied>i<supplied reason="lost">dhau</supplied>
          </l>
                </lg>            

@@ -11,24 +11,18 @@
 				<title>Stela from Mỹ Sơn A</title>
 				<respStmt>
 					<resp>EpiDoc Encoding</resp>
-					<persName ref="part:argr">
-						<forename>Arlo</forename>
-						<surname>Griffiths</surname>
-					</persName>
+					<persName ref="part:argr"> <forename>Arlo</forename>
+						<surname>Griffiths</surname> </persName>
 				</respStmt>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:argr">
-						<forename>Arlo</forename>
-						<surname>Griffths</surname>
+					<persName ref="part:argr"> <forename>Arlo</forename> <surname>Griffths</surname>
 					</persName>
 				</respStmt>
 				<respStmt>
 					<resp>Conversion of encoding for DHARMA</resp>
-					<persName ref="part:argr">
-						<forename>Arlo</forename>
-						<surname>Griffiths</surname>
-					</persName>
+					<persName ref="part:argr"> <forename>Arlo</forename>
+						<surname>Griffiths</surname> </persName>
 				</respStmt>
 			</titleStmt>
 			<publicationStmt>
@@ -38,8 +32,7 @@
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
-					</licence>
+						<p>Copyright (c) 2019-2025 by Arlo Griffiths.</p> </licence>
 				</availability>
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
@@ -50,8 +43,9 @@
 						<editor>Arlo Griffiths</editor>
 					</titleStmt>
 					<editionStmt>
-						<p>First digital edition made by École française d'Extrême-Orient (EFEO), realized in collaboration with the Institute for the Study of the Ancient World (ISAW) at New York University as <ref target="https://isaw.nyu.edu/publications/inscriptions/campa/index.html">The Corpus of the Inscriptions of Campā, in 2010-2012.</ref>
-						</p>
+						<p>First digital edition made by École française d'Extrême-Orient (EFEO), realized in collaboration with the Institute for the Study of the Ancient World (ISAW) at New York University as <ref
+							target="https://isaw.nyu.edu/publications/inscriptions/campa/index.html"
+							>The Corpus of the Inscriptions of Campā, in 2010-2012.</ref> </p>
 					</editionStmt>
 					<publicationStmt>
 						<authority>École française d'Extrême-Orient (EFEO)</authority>
@@ -100,21 +94,27 @@
 			<projectDesc>
 				<p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
 			</projectDesc>
-			<schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<schemaRef type="guide" key="EGDv01"
+				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
 			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
 					<p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
 				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+				<prefixDef ident="part" matchPattern="([a-z]+)"
+					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
 					<p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
 				</prefixDef>
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change when="2021-08-04" who="part:argr" status="draft">resolved validation problems; global revision still required</change>
+			<change when="2021-08-04" who="part:argr" status="draft"
+				>resolved validation problems; global revision still required</change>
 			<change when="2020-09-16" who="part:argr" status="draft">adjusted respStmt</change>
-			<change when="2020-09-16" who="part:axja" status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
-			<change when="2020-09-15" who="part:argr" status="draft">processed the Campa file (which was unfinished, text and translation being mere copy/paste from a .tex file) to remove all LaTeX tags</change>
+			<change when="2020-09-16" who="part:axja" status="draft"
+				>Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
+			<change when="2020-09-15" who="part:argr" status="draft"
+				>processed the Campa file (which was unfinished, text and translation being mere copy/paste from a .tex file) to remove all LaTeX tags</change>
 		</revisionDesc>
 	</teiHeader>
 	<facsimile>

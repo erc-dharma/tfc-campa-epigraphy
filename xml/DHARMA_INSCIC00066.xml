@@ -368,12 +368,12 @@
                 <l n="a"><lb n="D1"/><seg met="="><gap reason="lost" quantity="1" unit="character"/></seg>lāy·kṣetraṁ Asoksetraṁ</l>
                 <l n="b">gamr̥<lb n="D2" break="no"/><unclear>yā</unclear>ṅkṣetraṁ tathaiva<space/></l>
                 <l n="c">jrauṅ·Apaṅ·<lb n="D3" break="no"/>salavaṅksetraṁ<space/></l>
-                <l n="d">sadamandiṅ dhanyadvayaṁ</l>
+                <l n="d">sadamandiṅ<!--sapi2argr saṁdamandiṅ ?--> dhanyadvayaṁ</l>
               </lg>
               <lg n="50" met="anuṣṭubh">
                 <l n="a"><lb n="D4"/>damanuv·vlur·candāṅkṣetraṁ</l>
                 <l n="b">dandānkṣ<choice><sic>a</sic><corr>e</corr></choice><lb n="D5" break="no"/>traṁ vataiṅ· tathā<space/></l>
-                <l n="c">ṅauk· Amvil· cva <lb n="D6"/> patāk·kṣetraṁ<space/></l>
+                <l n="c">ṅauk· Amvil· cva<!--sapi2argr cvaḥ ?--> <lb n="D6"/> patāk·kṣetraṁ<space/></l>
                 <l n="d">raṅaul·kṣetraṁ Atau<lb n="D7" break="no"/>r· sivaḥ</l>
               </lg>
               <lg n="51" met="anuṣṭubh">
@@ -412,15 +412,15 @@
                      <rdg source="bib:Finot1904_01">dharmasya</rdg>
                  </app>
                  <app loc="B15-B16">
-                     <lem>°sam̃padālaṅkr̥taḥ</lem> <!--sapi2argr Ai-je le droit de mettre le symbole ° dans l'apparatus ?-->
+                     <lem>-sam̃padālaṅkr̥taḥ</lem> <!--sapi2argr Ai-je le droit de mettre le symbole ° dans l'apparatus ?-->
                      <rdg source="bib:Finot1904_01">-sampadālaṅkr̥taḥ</rdg>
                  </app>
                  <app loc="B20">
-                     <lem>°sam̃pad</lem>
+                     <lem>-sam̃pad</lem>
                      <rdg source="bib:Finot1904_01">-sampad</rdg>
                  </app>
                  <app loc="B20">
-                     <lem>°sam̃padaś</lem>
+                     <lem>-sam̃padaś</lem>
                      <rdg source="bib:Finot1904_01">-sampadaś</rdg>
                  </app>
                  <app loc="C3">
@@ -448,10 +448,14 @@
          </div>
          <div type="translation" resp="part:argr part:sapi">
            <p rend="stanza" n="40">... a vihāra was established for the sake of Dharma, exempted of royal taxes, for the profit of the monks’ community.</p><!--sapi2argr Pas trop sûre de la traduction exacte de « na tv ākarādānād » comme : exempted of royal taxes. À propos de ākarādānād, voir Griffiths et al. 2012: 228 n. 101.-->
-           <p rend="stanza" n="41">By me was established in the vihara all the means of subsistence for the sake of the enjoyment of the monks’ community and for the profit of beings.</p>
-           <p rend="stanza" n="42">The vihāra is always established, not for the sake of the enjoyment of the king, nor for the continuation of taxes, <supplied reason="subaudible">but</supplied> for the sake of the enjoyment of the monks’ community.</p>
-           <p rend="stanza" n="43">The sage, brahmans, ascetics, akṣitipatijñātyā and so on, who protect in such a manner these goods of the monks, attained the unequalled city of the buddhist liberation and with vāndhavair.
+           <p rend="stanza" n="41">By me was established in the <foreign>vihāra</foreign> all the means of subsistence for the sake of the enjoyment of the monks’ community and for the profit of beings.</p>
+           <p rend="stanza" n="42">The <foreign>vihāra</foreign> is always established, not for the sake of the enjoyment of the king, nor for the continuation of taxes, <supplied reason="subaudible">but</supplied> for the sake of the enjoyment of the monks’ community.</p>
+           <p rend="stanza" n="43">The sage, brahmans, ascetics, <foreign>akṣitipatijñātyā</foreign> and so on, who protect in such a manner these goods of the monks, attained the unequalled city of the buddhist liberation and with <foreign>vāndhavair</foreign>.
            Those who steal and destroy voluntarily will fall into the dreadful hell.</p><!--sapi2argr Encore quelques hésitations sur akṣitipatijñātyā et vāndhavair.-->
+           <p rend="stanza" n="49">The Lāy field<!--sapi2argr // laya: gingembre ?-->, Aso field <supplied reason="explanation">dog field?</supplied>
+             <!--sapi2argr (//asov: chien ?)-->, the Gamr̥yāṅ field. Similarly the Jrauṅ Apaṅ Salavaṅ field <supplied reason="explanation">straighten the straw <foreign>salavaṅ</foreign>?</supplied> <foreign>sadamandiṅ dhanyadvayaṁ</foreign>.</p>
+             <p rend="stanza" n="50">The Damanuv Vlur Candāṅ field<!-- sapi2argr damanuv // daman : peine, difficulté, anciennement ?-->, the Dandān field <!--sapi2argr // dandau: étang, mare ?--> au-dessus du <foreign>amvil</foreign> du district, the Patāk field<!--sapi2argr(// patak: carde ?)-->, the Raṅaul field <foreign>ataur sivaḥ</foreign>.</p>
+             <p rend="stanza" n="51">The Lvuk Tandreṁ Lvuk Kavov field <supplied reason="explanation">plantation <foreign>tandreṁ</foreign> plantation <foreign>kavov</foreign> field?</supplied> and <foreign>Avam̃</foreign>: the king gave all these fields to Lokeśa.</p>
            </div>
          <div type="translation" xml:lang="fra" source="bib:Finot1904_01">
            <p n="A01"><supplied reason="subaudible">Hommage</supplied> à Lakṣmīndra Lokeśvara !</p>
@@ -463,7 +467,7 @@
            <p rend="stanza" n="10">"Tous les dieux, d'un cœur gracieux, ont reçu une postérité..." Ayant fait cette réflexion, Śaṁbhu, avec un sourire des yeux et du visage, envoya Uroja à son tour : "Tu es fortuné, Uroja, rayonnant de gloire, un réceptacle de prospérité, poussière des pieds du Guru Śaṁbhubhadreśvara. Va sur la terre et prends la royauté."</p>
            <p rend="stanza" n="11">Celui-ci prit le pouvoir royal et en jouit. Et ce <foreign>liṅga</foreign> qui est ton œuvre, Īśa, fut érigé en ce monde et porté sur la tête de tous les rois. Uroja lui-même annonça ici sa gloire en disant : "Que ce <foreign>liṅga</foreign>, le premier de l'univers, soit un bienfait pour les hommes, lui qui brille sur les trois mondes !"</p>
            <p rend="stanza" n="12">Ce <foreign>liṅga</foreign> d'Adhīśa, que jadis Bhr̥gu reçut d'Īśa et Uroja de Bhr̥gu, conduit le monde à la délivrance en vue de laquelle il fut créé. Ce <foreign>liṅga</foreign>, toujours bienfaisant pour le monde, érigé à Campā par toi, Uraḥprabhū, puisse-t-il être pour celui-ci aussi rendu bienfaisant par les hommes de bien ! </p>
-           <p rend="stanza" n="13">Les dieux restés au ciel, le Mokṣa étant tombé de Parameśvara, n'obtenaient plus par lui <supplied reason="subaudible">la satisfaction de</supplied> leurs vœux.Maltraités par les Asuras, ils étaient désormais privés d'<supplied reason="subaudible">exploits</supplied> glorieux. Pendant ce temps les dieux rois restaient sur la terre parce que l'auguste Bhadreśvara y était. C'est pourquoi ceux-là <supplied reason="explanation">les dieux du ciel</supplied> ne prospéraient plus, tandis que les Asuras voyaient leur puissance s'accroître.</p>
+           <p rend="stanza" n="13">Les dieux restés au ciel, le Mokṣa étant tombé de Parameśvara, n'obtenaient plus par lui <supplied reason="subaudible">la satisfaction de</supplied> leurs vœux. Maltraités par les Asuras, ils étaient désormais privés d'<supplied reason="subaudible">exploits</supplied> glorieux. Pendant ce temps les dieux rois restaient sur la terre parce que l'auguste Bhadreśvara y était. C'est pourquoi ceux-là <supplied reason="explanation">les dieux du ciel</supplied> ne prospéraient plus, tandis que les Asuras voyaient leur puissance s'accroître.</p>
            <p rend="stanza" n="14">Puisse cet hymne agréable, surpassant une masse de gloire, être une fête pour les Munis, réceptacles de louanges ! Il procure la puissance aux rois. Que l'hommage de ce monde aille à Śaṁbhubhadreśvara !</p>
            <p rend="stanza" n="15">À celui qui, par son extrême puissance et par sa gloire, atteint l'universel pouvoir du roi des dieux, à celui qu'on nomme Śrī Śaṁbhubhadreśvara soit avec piété mon hymne de louange !</p>
            <p rend="stanza" n="16">Seul digne des hommages de la multitude des dieux est Śrī Śaṁbhubhadreśvara. Il protège la cité de Campā, où se manifestent toutes les bonnes lois, lui qui est l'étincelante essence du feu.</p>

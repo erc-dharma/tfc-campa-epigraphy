@@ -328,13 +328,13 @@
                      <rdg source="bib:Huber1911_01">śaśāṅk<choice><sic>a</sic><corr>o</corr></choice></rdg>
                  </app>
                  <app loc="B6">
-                     <lem>vicitrārthām irādhīśa°</lem><!-- sapi2argr: faut-il garder le °-->
-                     <rdg source="bib:Huber1911_01">vicitrārthādhirādhīśa°</rdg>
+                     <lem>vicitrārthām irādhīśa-</lem><!-- sapi2argr: faut-il garder le °-->
+                     <rdg source="bib:Huber1911_01">vicitrārthādhirādhīśa-</rdg>
                      <note>Huber emends to vicitrārthādhir adhīśa°, which does not seem to yield any sense, and ignores the pāda-boundary. Cf. C. 149, st. XII, for another attestion of the word irā ‘Earth’.</note>
                  </app>
                  <app loc="B7">
-                     <lem>mālāśirṣottama°</lem>
-                     <rdg source="bib:Huber1911_01">mālāśīrṣottama°</rdg>
+                     <lem>mālāśirṣottama-</lem>
+                     <rdg source="bib:Huber1911_01">mālāśīrṣottama-</rdg>
                  </app>
                  <app loc="B8">
                      <lem>satkhadgo</lem>
@@ -346,31 +346,35 @@
                      <note>There is no trace of any punctuation sign other than <g type="dotMid">.</g>.</note>
                  </app>
                  <app loc="B18">
-                     <lem>°khadga°</lem>
-                     <rdg source="bib:Huber1911_01">°khaḍga°</rdg>
+                     <lem>-khadga-</lem>
+                     <rdg source="bib:Huber1911_01">-khaḍga-</rdg>
                  </app>
                  <app loc="B18">
                      <lem>°bhr̥ṅgār·rajata°</lem>
-                     <rdg source="bib:Huber1911_01">°bhr̥ṅgārarajata°</rdg>
+                     <rdg source="bib:Huber1911_01">-bhr̥ṅgārarajata-</rdg>
                      <note>Huber has missed the odd insertion of an unwanted virāma sign.</note>
                  </app>
                  <app loc="B18">
-                     <lem>°katisūtra°</lem>
-                     <rdg source="bib:Huber1911_01">°kaṭisūtra°</rdg>
+                     <lem>-katisūtra-</lem>
+                     <rdg source="bib:Huber1911_01">-kaṭisūtra-</rdg>
                  </app>
                  <app loc="B19">
                      <lem>°prasādād</lem>
-                     <rdg source="bib:Huber1911_01">°prasādāt</rdg>
+                     <rdg source="bib:Huber1911_01">-prasādāt</rdg>
                  </app>
                  <app loc="C13">
-                     <lem>at<choice><sic>i</sic><corr>ī</corr></choice>ta°</lem>
-                     <rdg source="bib:Huber1911_01">atīta°</rdg>
+                     <lem>at<choice><sic>i</sic><corr>ī</corr></choice>ta-</lem>
+                     <rdg source="bib:Huber1911_01">atīta-</rdg>
                  </app>
                  <app loc="C17">
                      <lem>dakṣiṇata</lem>
                      <rdg source="bib:Huber1911_01">dakṣinata</rdg>
                  </app>
                </listApp>
+         </div>
+         <div type="translation" resp="part:argr part:sapi">
+           <p n="D16-D18">The Y.P.P.K. here will guard the pious men <supplied reason="explanation"><foreign>urāṅ viśeṣa tapaḥ</foreign></supplied> who are the people the Y.P.K. at the temple<!--sapi2argr : une nouvelle fois, on pourrait plutôt traduire yāṅ par temple que par dieu.--> who are <supplied reason="subaudible">charged of</supplied> the cult<!--sapi2argr: je me suis dit que sandhyā était certainement relié à à sandiy ou sandyām. La définition de A&C, p. 476 (pdf p. 552) ne semblait pas aller.--> from Y.P.P.K. Śrīśāna Bhadreśvara.</p>
+           <p n="D18-D26">The Y.P.P.K. here will guard the pious men <supplied reason="explanation"><foreign>urāṅ viśeṣa tapaḥ</foreign></supplied> who are the people the Y.P.K. at the temple<!--sapi2argr : une nouvelle fois, on pourrait plutôt traduire yāṅ par temple que par dieu.--> who are <supplied reason="subaudible">charged of</supplied> the cult<!--sapi2argr: je me suis dit que sandhyā était certainement relié à à sandiy ou sandyām. La définition de A&C, p. 476 (pdf p. 552) ne semblait pas aller.--> from Y.P.P.K. Śrīśāna Bhadreśvara.</p>
          </div>
          <div type="translation" xml:lang="fra" source="bib:Huber1911_01">
            <p n="A1">Adoration à Çiva ! Bonheur !</p>
@@ -402,7 +406,7 @@
            <p n="B15-B16">le temple de Çrī-Jayaguheçvara ; le temple de Viṣṇu à Viṣṇupura, tous les deux œuvres pies du roi Çrī-Jayasiṃhavarman ; le temple de Çrī-Prakāçabhadreçvara ; le temple de Çrī-Rudrakoṭīçvara ; le temple de Çrī-Bhadramalayeçvara ; le temple de Çrī-Bhadracampeçvara ; le temple de Çrī-Bhadramaṇḍaleçvara ; le temple de Çrī-Dharmeçvara et le temple de Çrī-Bhadrapureçvara, qui sont tous œuvres pies du roi Çrī-Bhadravarman.</p>
            <p n="B16-B19">Pour l'en récompenser, la faveur du roi l'a comblé de multiples distinctions, tels un palanquin, un parasol orné de plumes de paon, un fourreau d'épée en or, des aiguières et vases, un plat en argent, une ceinture, des boucles d'oreilles et des bracelets, des <foreign>cirāṇḍa</foreign>, une paire de robes, etc.</p>
            <p rend="stanza" n="26">...... sa sœur cadette est la reine Ugradevī ; toujours soucieuse d'accomplir des œuvres pieds, elle jouit d'une félicité qui a sa source dans sa conduite vertueuse.</p>
-           <p n="C7-C12">Ses <supplied reason="subaudible">trois</supplied>, d'un commun accord, avec la permission de leur mère ont élevé ici à la mémoire de leur père, dans leur terre natale, en l'année <foreign>çaka</foreign> 920 <supplied reason="explanation"><foreign>gagana-dvi-maṅgala</foreign></supplied>, au centre un Çrī-Mahārudra auquel ils ont donné les traits de leur père, l'Ājñā Sārthavāha, qui était le frère de la reine de premier rang du roi Indravarman, la nièce du roi Rudravarman.</p>
+           <p n="C7-C12">Ses <supplied reason="subaudible">trois</supplied>, d'un commun accord, avec la permission de leur mère ont élevé ici à la mémoire de leur père, dans leur terre natale, en l'année <foreign>çaka</foreign> 820 <supplied reason="explanation"><foreign>gagana-dvi-maṅgala</foreign></supplied>, au centre un Çrī-Mahārudra auquel ils ont donné les traits de leur père, l'Ājñā Sārthavāha, qui était le frère de la reine de premier rang du roi Indravarman, la nièce du roi Rudravarman.</p>
            <p n="C12-C16">Au Nord de ce temple ils élevèrent ici dans leur pays, en <foreign>çaka</foreign> 830 <supplied reason="explanation"><foreign>khavahni-tanu</foreign></supplied>, en l'honneur de leur mère, une Bhagavatī à laquelle ils donnèrent les traits de leur mère, la Pu Pov Ku Rudrapura, issue d'une famille pure depuis les siècles les plus reculés, et qui elle-même a offert en <foreign>çaka</foreign> 831 <supplied reason="explanation"><foreign>candra-agni-tanu</foreign></supplied> ces statues de Devī, de Gaṇeça et de Kumāra.</p>
            <p n="C16-C20">Enfin, le ministre Ājñā Jayendrapati a consacré au Sud <supplied reason="subaudible">du temple de Maharudra</supplied>, ici dans sa terre natale, un Çrī-Mahāçivaliṅgeçvara en <foreign>çaka</foreign> 829 <supplied reason="explanation"><foreign>nava-dvi-maṅgala</foreign></supplied>, pour le culte de Parameçvara et en vue de sa propre gloire.</p>
            <p n="D6-D14"><supplied reason="explanation">Cham</supplied>...quinzaine claire du cinquième mois... parc jusqu'à la ville... jusqu'à ce temple... une fondation religieuse complète... Que l'homme qui ravira les biens du temple tombe dans l'enfer! Que l'homme qui... <supplied reason="subaudible">les protège</supplied> aille selon son désir demeurer dans le Ciel!</p>

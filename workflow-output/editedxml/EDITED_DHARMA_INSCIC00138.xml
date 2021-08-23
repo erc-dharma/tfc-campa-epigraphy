@@ -172,7 +172,7 @@
          <p>
            mutiy· dai kṣetraṁ<g type="dotMid">.</g> kravāv· kṣetraṁ<g type="dotMid">.</g> vuyat· kṣetraṁ<g type="dotMid">.</g> glāṁ kṣetraṁ<g type="dotMid">.</g>
            <lb n="B8"/>durī kṣetraṁ<g type="dotMid">.</g> vyauv· kṣetraṁ<g type="dotMid">.</g> klov·huviy· kṣetraṁ<g type="dotMid">.</g> jrāy· kṣetraṁ<g type="dotMid">.</g> tupaṁṅ· kṣetraṁ<g type="dotMid">.</g><g type="ddandaHooked">.</g><g type="dotMid">.</g><g type="ddandaHooked">.</g>
-           <lb n="B9"/>drain· kṣetraṁ<g type="dotMid">.</g> krataṁ kṣetraṁ<g type="dotMid">.</g> jalān·ṅauk· kṣetraṁ<g type="ddandaHooked">.</g>
+           <lb n="B9"/>drain· kṣetraṁ<g type="dotMid">.</g> krat· kṣetraṁ<g type="dotMid">.</g> jalān·ṅauk· kṣetraṁ<g type="ddandaHooked">.</g>
          </p>
          </div>
          <div type="apparatus">
@@ -253,6 +253,10 @@
                         <rdg source="bib:Huber1911_01">day</rdg>
                   </app>
                </listApp>
+         </div>
+         <div type="translation" resp="part:argr part:sapi">
+           <p n="B7-B9">Mutiy Dai field <supplied reason="explanation">field-hut field?</supplied>; Kravāv field  <supplied reason="explanation">buffaloe field</supplied>; Vuyat field; Glāṁ field<!--sapi2argr // glaṁ : lancer ?-->; Durī field<!--sapi2argr (// duri : pierre précieuse ? -->; Vyauv field; Klov Huviy  <supplied reason="explanation">rattan forest field</supplied>; Jrāy field<!--sapi2argr (// jrai : figuier, Jarai ?-->; Tupaṁṅ field <supplied reason="explanation">stump field</supplied>. Drain field; Krat field <supplied reason="explanation">moral laws field?</supplied>;
+           Jalān Ṅauk <supplied reason="explanation">road above field</supplied>.</p>
          </div>
          <div type="translation" xml:lang="fra" source="bib:Huber1911_01">
            <p rend="stanza" n="1-2"><supplied reason="explanation">Invocation mutilée à Avalokiteśvara, le Miséricordieux par excellence. Tel est son pouvoir que les damnés de l’Enfer n’ont qu’à invoquer son nom pour être délivrés immédiatement.</supplied></p>

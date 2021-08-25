@@ -86,6 +86,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:sapi" when="2021-08-10" status="draft">Beggining the new translation</change>
          <change who="part:sapi" when="2021-04-19" status="draft">Adding translation and bibliography</change>
          <change who="part:sapi" when="2021-03-03" status="draft">Few corrections.</change>
          <change who="part:sapi" when="2021-03-02" status="draft">Continuing initial encoding of the inscription</change>
@@ -451,10 +452,10 @@
            <p rend="stanza" n="42">The <foreign>vihāra</foreign> is always established, not for the sake of the enjoyment of the king, nor for the continuation of taxes, <supplied reason="subaudible">but</supplied> for the sake of the enjoyment of the monks’ community.</p>
            <p rend="stanza" n="43">The sage, brahmans, ascetics, <foreign>akṣitipatijñātyā</foreign> and so on, who protect in such a manner these goods of the monks, attained the unequalled city of the buddhist liberation and with <foreign>vāndhavair</foreign>.
            Those who steal and destroy voluntarily will fall into the dreadful hell.</p><!--sapi2argr Encore quelques hésitations sur akṣitipatijñātyā et vāndhavair.-->
-           <p rend="stanza" n="49">The Lāy field<!--sapi2argr // laya: gingembre ?-->, Aso field <supplied reason="explanation">dog field?</supplied>
-             <!--sapi2argr (//asov: chien ?)-->, the Gamr̥yāṅ field. Similarly the Jrauṅ Apaṅ Salavaṅ field <supplied reason="explanation">straighten the straw <foreign>salavaṅ</foreign>?</supplied> <foreign>sadamandiṅ dhanyadvayaṁ</foreign>.</p>
-             <p rend="stanza" n="50">The Damanuv Vlur Candāṅ field<!-- sapi2argr damanuv // daman : peine, difficulté, anciennement ?-->, the Dandān field <!--sapi2argr // dandau: étang, mare ?--> au-dessus du <foreign>amvil</foreign> du district, the Patāk field<!--sapi2argr(// patak: carde ?)-->, the Raṅaul field <foreign>ataur sivaḥ</foreign>.</p>
-             <p rend="stanza" n="51">The Lvuk Tandreṁ Lvuk Kavov field <supplied reason="explanation">plantation <foreign>tandreṁ</foreign> plantation <foreign>kavov</foreign> field?</supplied> and <foreign>Avam̃</foreign>: the king gave all these fields to Lokeśa.</p>
+           <p rend="stanza" n="49">Lāy field<!--sapi2argr // laya: gingembre ?-->, Aso field <supplied reason="explanation">dog field?</supplied>
+             <!--sapi2argr (//asov: chien ?)-->, Gamr̥yāṅ field. Similarly, Jrauṅ Apaṅ Salavaṅ field <supplied reason="explanation">straighten the straw <foreign>salavaṅ</foreign>?</supplied> <foreign>sadamandiṅ dhanyadvayaṁ</foreign>.</p>
+             <p rend="stanza" n="50">Damanuv Vlur Candāṅ field<!-- sapi2argr damanuv // daman : peine, difficulté, anciennement ?-->, Dandān field<!--sapi2argr // dandau: étang, mare ?--> au-dessus du <foreign>amvil</foreign> du district, Patāk field<!--sapi2argr(// patak: carde ?)-->, Raṅaul field <foreign>ataur sivaḥ</foreign>.</p>
+             <p rend="stanza" n="51">Lvuk Tandreṁ Lvuk Kavov field <supplied reason="explanation">plantation <foreign>tandreṁ</foreign> plantation <foreign>kavov</foreign> field?</supplied> and <foreign>Avam̃</foreign>: the king gave all these fields to Lokeśa.</p>
            </div>
          <div type="translation" xml:lang="fra" source="bib:Finot1904_01">
            <p n="A01"><supplied reason="subaudible">Hommage</supplied> à Lakṣmīndra Lokeśvara !</p>

@@ -99,7 +99,7 @@
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:00000">
-           <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A01"/><g type="floretQuatrefoil"/><g type="ddandaOrnate">.</g> Om̐ namaś ś<choice><unclear>i</unclear><unclear>ī</unclear></choice>vāya<g type="ddandaOrnate">.</g><g type="floretQuatrefoil"/><supplied reason="lost">svasti</supplied></ab>
+           <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A01"/><g type="floretQuatrefoil"/><g type="ddandaOrnate"/> Om̐ namaś ś<choice><unclear>i</unclear><unclear>ī</unclear></choice>vāya<g type="ddandaOrnate"/><g type="floretQuatrefoil"/><supplied reason="lost">svasti</supplied></ab>
            <lg n="1" met="sragdharā"><lb n="A1"/>
            <l n="a"><supplied reason="lost">nā</supplied> <unclear>nārūpā</unclear>ṇi yasyākhila-jagad-uditaiśvaryya-saṁbhāvitāni<g type="dotMid">.</g></l>
            <l n="b">ksipta-kṣoṇī-durātma-prabhr̥ti-bhayata<unclear>māṁ-sīddha-tejāṁsi nitya</unclear><lb n="A2" break="no"/><unclear>m</unclear><choice><unclear>·</unclear><unclear><g type="dotMid">.</g></unclear></choice></l>
@@ -351,7 +351,7 @@
                      <rdg source="bib:Huber1911_01">-khaḍga-</rdg>
                  </app>
                  <app loc="B18">
-                     <lem>°bhr̥ṅgār·rajata°</lem>
+                     <lem>-bhr̥ṅgār·rajata-</lem>
                      <rdg source="bib:Huber1911_01">-bhr̥ṅgārarajata-</rdg>
                      <note>Huber has missed the odd insertion of an unwanted virāma sign.</note>
                  </app>
@@ -376,7 +376,8 @@
          <div type="translation" resp="part:argr part:sapi">
            <p n="D16-D18">The Y.P.P.K. here will guard the pious men <supplied reason="explanation"><foreign>urāṅ viśeṣa tapaḥ</foreign></supplied> who are the people the Y.P.K. at the temple<!--sapi2argr : une nouvelle fois, on pourrait plutôt traduire yāṅ par temple que par dieu.--> who are <supplied reason="subaudible">charged of</supplied> the cult<!--sapi2argr: je me suis dit que sandhyā était certainement relié à à sandiy ou sandyām. La définition de A&C, p. 476 (pdf p. 552) ne semblait pas aller.--> at Y.P.P.K. Śrīśāna Bhadreśvara.</p>
            <p n="D18-D22">But the family of the women who worship the Y.P.K. here and<!--sapi2argr traduction de kā ?--> the people worshiping the Y.P.K. here, in accordance with this <foreign>dharma</foreign> where reside the virtue of women, in accordance with the <foreign>kaṁn</foreign> of the pious men<!--sapi2argr Urāṅ· tapaḥ viśeṣa : ordre des mots inversé par rapport à D16--> that are <foreign>luniy napāy</foreign> due to being <foreign>sunan</foreign> the pious men <foreign>tan</foreign> there are:</p>
-           <p n="D23-D26">Vandrauv fields<!--sapi2argr Ou lire candrauv ?--> from <foreign>tugau</foreign> up to the top of the water <foreign>draṁ</foreign>. All these fields he then gives at Y.P.K. Śrīmahārudra with this water <foreign>draṁ</foreign> and this water, these earth, forest, brush<!--sapi2argr ou : cette forêt Tanaḥ Glai--> all go precisely <foreign>vlim̃</foreign>, and the object two <foreign>curav</foreign> in silver, vase in silver.</p>
+           <p n="D23-D26">Vandrauv fields<!--sapi2argr Ou lire candrauv ?--> from <foreign>tugau</foreign> up to the top of the water <foreign>draṁ</foreign>. All these fields he then gives at Y.P.K. Śrīmahārudra with this water <foreign>draṁ</foreign> and this water, these earth, forest, brush<!--sapi2argr ou : cette forêt Tanaḥ Glai--> all go precisely <foreign>vlim̃</foreign>, and the object two silver <foreign>curav</foreign>, one silver vase.</p>
+           <p n="B20-B21">One silver tray, one copper?, three copper <foreign>tralāy</foreign> all these objets and <foreign>vlim̃</foreign> precisely<!--sapi2argr Inversion de <foreign>vlim̃</foreign> et kintu par rapport à L. D26--> the Y.P.P.K. Śrī Jayasimhavarman who...</p>
          </div>
          <div type="translation" xml:lang="fra" source="bib:Huber1911_01">
            <p n="A1">Adoration à Çiva ! Bonheur !</p>
@@ -437,16 +438,26 @@
               <p n="D23-D26">The last four lines, of which the final two were left untransliterated by Huber, constitute an addition, continued at the bottom of B.</p>
          </div>
         <div type="bibliography">
-	<!--bibliography encoded as per section §9.4 -->
-	<!-- NB: you are encouraged to experiment with encoding bibliography to the extent you have the bibliographic data available, but it is not mandatory at this stage, because our bibliographic data are normally assembled along with other metadata in spreadsheets and will be imported from there into our xml files by a semi-automated process at a later stage. -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
-        	<listBibl type="primary">
-				<bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+          <p>First edited with translation into French by E. Huber (<bibl rend="omitname"><ptr target="bib:Huber1911_01"/><citedRange unit="page">285-298</citedRange></bibl>). The inscription is re-edited here by Arlo Griffiths and Salomé Pichon based on autopsy and the EFEO estampages n. 157.</p>
+          <listBibl type="primary">
+            <bibl n="H">
+            <ptr target="bib:Huber1911_01"/>
+            <citedRange unit="page">285-298</citedRange>
+            </bibl>
 			</listBibl>
            <listBibl type="secondary">
-              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+             <bibl>
+               <ptr target="bib:Majumdar1927_01"/>
+               <citedRange unit="part">3</citedRange>
+               <citedRange unit="page">111-121</citedRange>
+               <citedRange unit="item">39</citedRange>
+             </bibl>
+             <bibl>
+             <ptr target="bib:Golzio2004_01"/>
+             <citedRange unit="page">97-106</citedRange>
+             </bibl>
            </listBibl>
         </div>
-      </body>
+      </body><!--sapi2argr Je ne comprends pas l'erreur qu'on m'affiche ici.-->
   </text>
 </TEI>

@@ -86,7 +86,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-        <change who="part:sapi" when="2021-08-10" status="draft">Beggining the new translation</change>
+         <change who="part:sapi" when="2021-08-10" status="draft">Beggining the new translation</change>
          <change who="part:sapi" when="2021-04-19" status="draft">Adding translation and bibliography</change>
          <change who="part:sapi" when="2021-03-03" status="draft">Few corrections.</change>
          <change who="part:sapi" when="2021-03-02" status="draft">Continuing initial encoding of the inscription</change>
@@ -96,45 +96,47 @@
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:00000">
-            <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A01"/><g type="?"/><!--sapi2argr ici il semblerait y avoir des symboles, mais je n'arrive pas à les identifier.--> śrīlakṣmīndralokeśvarāya<supplied reason="lost">namaḥ</supplied></ab>
+          <ab><milestone type="pagelike" unit="face" n="A"/>
+            <lb n="A01"/><g type="indistinct"/> śrīlakṣmīndralokeśvarāya <supplied reason="lost">namaḥ</supplied>
+          </ab>
             <lg n="1" met="pr̥thvī">
-              <l n="a"><lb n="A1"/><seg met="-+---+"><gap reason="lost" quantity="6" unit="character"/></seg> priyaṁ paradhanāni vākāṅkṣate<space/></l>
-              <l n="b">svayañ ca yadi jīvitam̃ na khalu hiṅsi<seg met="++"><gap reason="illegible" quantity="2" unit="character"/> dharaḥ<space/></seg></l>
-              <l n="c"><seg met="-+---+-+---+-++="><gap reason="lost" quantity="16" unit="character"/></seg></l>
-              <l n="d"><seg met="-+---+-+---+-++="><gap reason="lost" quantity="16" unit="character"/></seg></l>
+              <l n="a"><lb n="A1"/><seg met="-+---+"><gap reason="lost" quantity="6" unit="character"/></seg> priyam̐ paradhanāni vākāṅkṣate<space/></l>
+              <l n="b">svayañ ca yadi jīvitam̐ na khalu hiṅsi<seg met="++"><gap reason="illegible" quantity="2" unit="character"/> dharaḥ<space/></seg></l>
+              <l n="c"><seg met="-+---+-+---+-++-="><gap reason="lost" quantity="17" unit="character"/></seg></l>
+              <l n="d"><seg met="-+---+-+---+-++-="><gap reason="lost" quantity="17" unit="character"/></seg></l>
             </lg>
             <lg n="2" met="mālinī">
-              <l n="a"><lb n="A2"/>nutam <!--sapi2argr Ici, Finot inscrit "n [n]utam", mais je ne vois pas le deuxième "n".--> api sura<unclear>var</unclear>ṇnair yyakṣagandharrvadaityair<space/></l>
-              <l n="b"><seg met="------+++-++-+="><gap reason="lost" quantity="15" unit="character"/></seg></l><!-- Compléter cette stance-->
-              <l n="c"><seg met="------+++-++-+="><gap reason="lost" quantity="15" unit="character"/></seg></l>
+              <l n="a"><lb n="A2"/>nutam api sura-<unclear>var</unclear>ṇnair yyakṣa-gandharvva-daityair<space/></l>
+              <l n="b">ddivi <seg met="----+++-++-+="><gap reason="illegible" quantity="13" unit="character"/></seg></l>
+              <l n="c"><seg met="------++"><gap reason="illegible" quantity="8" unit="character"/></seg><seg met="+-++-+="><gap reason="lost" quantity="7" unit="character"/></seg></l>
               <l n="d"><seg met="------+++-++-+="><gap reason="lost" quantity="15" unit="character"/></seg></l>
             </lg>
-            <ab><!--sapi2argr Comment puis je encoder une telle lacune ? Ici, trois stances semblent être manquante. J'ai encodé selon le 2.2.2. du guide.-->
-              <lb n="A3"/>bhadreśvara<gap reason="illegible" quantity="45" unit="character" precision="low"/><lb
-              n="A4" break="no"/>ravacanam̃ buddhi<gap reason="illegible" quantity="43" unit="character" precision="low"/>
+            <ab><!-- probably 2 stanzas, one mid-length and one long (e.g. mālinī + sragdharā) -->
+              <gap reason="lost" quantity="8" unit="character" precision="low"/>
+              <lb n="A3"/>bhadreśvara<gap reason="illegible" quantity="45" unit="character" precision="low"/>
+              <lb n="A4" break="no"/>ravacanam̐ buddhi<gap reason="illegible" quantity="43" unit="character" precision="low"/>
               <lb n="A5"/><gap reason="illegible" quantity="1" unit="line"/>
-              <lb n="A6"/>bhr̥guh presitaś ca<g type="ddandaPlain">.</g>
             </ab>
-            <lg n="6" met="sragdharā">
-              <l n="a">sa śrī <unclear>bhadreśvaro nyo pratiharata Ita</unclear><seg met="+-++-++"><gap reason="lost" quantity="7" unit="character"/></seg></l>
-              <l n="b"><seg met="++++-++------++-++-++"><gap reason="lost" quantity="21" unit="character"/></seg></l>
-              <l n="c"><seg met="++++-++------++-++-++"><gap reason="lost" quantity="21" unit="character"/></seg></l>
-              <l n="d"><lb n="A7" break="no"/>nnityañ jānāti śambhuḥ katham api manasā tām̃ viśeṣān tvayā bhoḥ</l>
-            </lg>
-            <lg n="7" met="sragdharā"><!--sapi2argr Ici c'est censé être un sragdhāra, mais il manque la place pour les pada c et d-->
-              <l n="a"><seg met="++++-++------+"><gap reason="lost" quantity="14" unit="character"/></seg></l>
-              <l n="b">chrīmadbhadreśvarasye<seg met="------++-++-++"><gap reason="lost" quantity="14" unit="character"/></seg></l>
-              <l n="c"><seg met="++++-++------++-++-++"><gap reason="lost" quantity="21" unit="character"/></seg></l>
-              <l n="d"><seg met="++++-++------++-++-++"><gap reason="lost" quantity="21" unit="character"/></seg></l>
+            <lg n="6" met="sragdharā"><!-- from here on, probably reduce all stanza numbers by 1 -->
+              <l n="a"><seg met="++++-++------++-++-++"><gap reason="lost" quantity="21" unit="character"/></seg></l>
+              <l n="b"><seg met="++++-++------++"><gap reason="illegible" quantity="15" unit="character"/></seg><lb n="A6"/>bhr̥guḥ preṣitaś ca</l>
+              <l n="c">sa śrī <unclear>bhadreśvaro 'nyo pratiharata Ita</unclear><seg met="+-++-++"><gap reason="lost" quantity="7" unit="character"/></seg></l>
+              <l n="d"><seg met="++++-++------++-++-++"><gap reason="illegible" quantity="21" unit="character"/></seg></l>
+              </lg>
+            <lg n="7" met="sragdharā">
+              <l n="a"><seg met="++++-++------++-++-++"><gap reason="illegible" quantity="21" unit="character"/></seg></l>
+              <l n="b"><lb n="A7" break="no"/>nnityañ jānāti śambhuḥ katham api manasā tām̐ viśeṣān tvayā bhoḥ</l>
+              <l n="c"><seg met="++++-++----"><gap reason="illegible" quantity="11" unit="character"/></seg>kuśalam̐ sthāpitam̐ cittam etac</l>
+              <l n="d">chrīmadbhadreśvarasye<seg met="------++-++-++"><gap reason="illegible" quantity="14" unit="character"/></seg></l>
             </lg>
             <lg n="8" met="śārdūlavikrīḍita">
-              <l n="a"><lb n="A8"/>svarggasthānaviviktabuddhinicayās svarggasthitā ye surā</l>
-              <l n="b">mokṣe pādayuge <unclear>ca yā</unclear>nti śaraṇam̃ <unclear>sātmai</unclear>r ya<unclear>thā bha</unclear>ktibhiḥ</l>
-              <l n="c">E<unclear>va</unclear>n te <unclear>bhuvi sa</unclear>m̃sthi<unclear>tā</unclear>ḥ suragaṇāḥ kṣmendrā<seg met="-++-+"><gap reason="lost" quantity="5" unit="character"/></seg></l>
-              <l n="d"><lb n="A9"/>śrī bhadreśvarapādayor avanatāś śrīmanta <unclear>Evan tathā</unclear></l>
+              <l n="a"><lb n="A8"/>svargga-sthāna-vivikta-buddhi-nicayās svargga-sthitā ye surā</l>
+              <l n="b">mokṣe pāda-yuge <unclear>ca yā</unclear>nti śaraṇam̐ <unclear>sātmai</unclear>r yya<unclear>thā bha</unclear>ktibhiḥ</l>
+              <l n="c">E<unclear>va</unclear>n te <unclear>bhuvi sa</unclear>m̐sthi<unclear>tā</unclear>ḥ sura-gaṇāḥ kṣmendrā<seg met="-++-+"><gap reason="lost" quantity="5" unit="character"/></seg></l>
+              <l n="d"><lb n="A9"/>śrī bhadreśvara-pādayor avanatāś śrīmanta Evan tathā</l>
             </lg>
             <lg n="9" met="sragdharā">
-              <l n="a"><unclear>sarvve devendra</unclear><seg met="++"><gap reason="lost" quantity="2" unit="character"/></seg> svaviṣayaniratās te durā<unclear>ptādh</unclear>ilokam̃</l>
+              <l n="a"><unclear>sarvve devendra</unclear><seg met="++"><gap reason="lost" quantity="2" unit="character"/></seg> svaviṣayaniratās te durā<unclear>ptādh</unclear>ilokam̐</l>
               <l n="b"><seg met="++++-++"><gap reason="lost" quantity="7" unit="character"/></seg> pravaram anupamam̃ te vilabdhvā<seg met="-++"><gap reason="lost" quantity="3" unit="character"/></seg></l>
               <l n="c"><lb n="A10"/>santāna<unclear>ṁ</unclear> prāpnuvanti sva<unclear>yam iva sahas</unclear>ā svam̃ punar yānti lokam̃</l>
               <l n="d"><unclear>śambhur jjānāti cai</unclear>vam̃ prahasi<unclear>tam̃</unclear> mahorojam̃ <unclear>E</unclear>vam̃ vravīti <!--sapi2argr Ici, je n'ai pas mis le double danda que je ne vois pas sur l'estampage.--></l>
@@ -392,9 +394,13 @@
               </div>
          <div type="apparatus">
                <listApp>
-                 <app loc="A1"><!--sapi2argr Dois-je noter cette modification? Je n'ai pas fait les autres car il me semblait que non-->
-                     <lem>jīvitam̃</lem>
-                     <rdg source="bib:Finot1904_01">jīvitaṁ</rdg>
+                 <app loc="A2">
+                     <lem>nutam</lem>
+                     <rdg source="bib:Finot1904_01">n <supplied reason="undefined">n</supplied>utam</rdg>
+                 </app>
+                 <app loc="A8">
+                     <lem>yya<unclear>thā</unclear></lem>
+                     <rdg source="bib:Finot1904_01">yathā</rdg>
                  </app>
                  <app loc="A20">
                      <lem>khyātayaśāś</lem>

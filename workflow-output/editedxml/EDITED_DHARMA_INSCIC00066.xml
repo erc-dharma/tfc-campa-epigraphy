@@ -115,7 +115,7 @@
               <gap reason="lost" quantity="8" unit="character" precision="low"/>
               <lb n="A3"/>bhadreśvara<gap reason="illegible" quantity="45" unit="character" precision="low"/>
               <lb n="A4" break="no"/>ravacanam̐ buddhi<gap reason="illegible" quantity="43" unit="character" precision="low"/>
-              <lb n="A5"/><gap reason="illegible" quantity="1" unit="line"/>
+              <lb n="A5"/><gap reason="illegible" quantity="50" unit="character" precision="low"/>
             </ab>
             <lg n="6" met="sragdharā"><!-- from here on, probably reduce all stanza numbers by 1 -->
               <l n="a"><seg met="++++-++------++-++-++"><gap reason="lost" quantity="21" unit="character"/></seg></l>

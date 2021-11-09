@@ -86,6 +86,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:argr" when="2021-11-09" status="draft">Inserted hyphenation and avagrahas</change>
          <change who="part:sapi" when="2021-08-10" status="draft">Beggining the new translation</change>
          <change who="part:sapi" when="2021-04-19" status="draft">Adding translation and bibliography</change>
          <change who="part:sapi" when="2021-03-03" status="draft">Few corrections.</change>
@@ -296,71 +297,74 @@
                 <l n="a">maryādābhedināpi śruti-vacana-pad<choice><sic>o</sic><corr>ā</corr></choice> tena duḥkhārtta-cittā<g type="dotMid">.</g></l>
                 <l n="b">nātyājy aspaṣṭa<lb n="B14" break="no"/>-netrāś śaraṇam upagatāś śatravo 'pi priyās syuḥ</l>
                 <l n="c" enjamb="yes">lokeśas sthāpito 'pīśvara-guṇa-nipu<choice><sic>n</sic><corr>ṇ</corr></choice>o vismayo nāpy akāryy a</l>
-                <l n="d">-trāsevīhājñayānāvinami<lb n="B15" break="no"/>ta-matinā duṣṭa-vākyañ ca dharmme <g type="complexFinial">.</g></l>
+                <l n="d">trāsevīhājñayānāvinami<lb n="B15" break="no"/>ta-matinā duṣṭa-vākyañ ca dharmme <g type="complexFinial">.</g></l>
                 <!--
                   lokeśas sthāpito 'pi (corr. lokeśe sthāpite 'pi?) īśvara-guṇa-nipuṇo vismayo nāpy akāryy atra asevi iha ājñayā na a-vinamita-matinā duṣṭa-vākyañ ca dharmme
                 -->
               <!-- REPRENDRE ICI LA LECTURE -->
               </lg>
               <lg n="37" met="śārdūlavikrīḍita">
-                <l n="a" enjamb="yes">loke so py asamo narendrayaśasā tvaṁ jñāna-buddhi-dyuti</l>
-                <l n="b">-prakhyāti-śrutinītikīrttigatibhiś śrīsam̃padāla<lb n="B16" break="no"/>ṅkr̥taḥ<g type="dotMid">.</g></l>
-                <l n="c">saumyāṅgāravr̥haspatīndudinakr̥tkāvyārkajaiḥ pālitaś</l>
-                <l n="d">śrīmāñ chrījaya Indravarmmavidito dedīpyate prajñayā<g type="complexFinial">.</g></l>
+                <l n="a" enjamb="yes">loke so 'py asamo narendra-yaśasā tvaṁ jñāna-buddhi-dyuti</l>
+                <l n="b">-prakhyāti-śruti-nīti-kīrtti-gatibhiś śrī-sam̃padāla<lb n="B16" break="no"/>ṅkr̥taḥ<g type="dotMid">.</g></l>
+                <l n="c">saumyāṅgāra-vr̥haspatīndu-dinakr̥t-kāvyārkajaiḥ pālitaś</l>
+                <l n="d">śrīmāñ chrī-jaya-Indravarmma-vidito dedīpyate prajñayā<g type="complexFinial">.</g></l>
               </lg>
               <lg n="38" met="āryā">
-                <l n="ab">Iyam asya lakṣa<lb n="B17" break="no"/>ṇaśrīr aṅgam̃ sarvvañ ca saṅgam ārūḍhā</l>
-                <l n="cd">varddhayati bhāvi bhūmau rājyatvam avāryyavīryyatvam·<g type="complexFinial">.</g></l>
+                <l n="ab">Iyam asya lakṣa<lb n="B17" break="no"/>ṇa-śrīr aṅgam̃ sarvvañ ca saṅgamārūḍhā</l>
+                <l n="cd">varddhayati bhāvi bhūmau rājyatvam avāryya-vīryyatvam·<g type="complexFinial">.</g></l>
               </lg>
               <lg n="39" met="sragdharā">
-                <l n="a">dīpte śrī śākarāje muni-nava-giribhis toyadhr̥tsū<lb n="B18" break="no"/>ryyaputre</l>
-                <l n="b">śr̥ṅgīn<choice><sic>a</sic><corr>e</corr></choice> dvandvajīvodayabhr̥gujayute kāvyavāre jabhūje</l>
-                <l n="c">kaulīrendau ca puṣye śucisitadivase pañcame śrīvivr̥ddhe</l>
+                <l n="a">dīpte śrī-śāka-rāje muni-nava-giribhis toyadhr̥t-sū<lb n="B18" break="no"/>ryyaputre</l>
+                <l n="b">śr̥ṅgīn<choice><sic>a</sic><corr>e</corr></choice> dvandva-jīvodaya-bhr̥guja-yute kāvyavāre 'jabhūje</l>
+                <l n="c">kaulīrendau ca puṣye śuci-sita-divase pañcame śrī-vivr̥ddhe</l>
                 <l n="d">sa śrīmān indravarmmā sva<lb n="B19" break="no"/>bhayadam adhikam̃ svājñayātisṭhipad yaḥ<g type="complexFinial">.</g></l>
+                <!-- argr: svājñayātiṣṭhipad? -->
               </lg>
-              <p>Atha sa Eva narapatiś śrī jayaIndravarmmā mahārājādhirājo nekapūrvvajanmāntaratapaḥphala<lb n="B20" break="no"/>viśeṣāt samadhigatacampādhirājo daivaprasādayogāt sakaladiṅmaṇḍalākāśavyāpyanekabuddhiprakarṣasam̃pad atulakīrttiḥ kīrttisam̃padaś śrīsamudayā<lb n="B21" break="no"/>bhivarddhitacittapras<unclear>āda</unclear>nayanavadanaś śrī maheśvaralokasan<unclear>t</unclear>ānajādi<unclear>p</unclear>rabhava<unclear>te</unclear><gap reason="lost" quantity="9" unit="character" precision="low"/>iśrava śrī la<unclear>kṣ</unclear>mīndrabh<unclear>ūm</unclear>ī<unclear>śvara</unclear>grāmasvāmibhūtas sakalabhuva<lb n="B22" break="no"/>naguruvareṣṭo bhavad iti<g type="complexFinial">.</g> punar api tathaiva ṣaṣ<gap reason="lost" quantity="1" unit="character"/><unclear>ṇa</unclear><gap reason="lost" quantity="21" unit="character" precision="low"/><gap reason="illegible" quantity="8" unit="character" precision="low"/> śrī avaloki<lb n="B23" break="no"/>teśva<unclear>ra</unclear><gap reason="lost" quantity="2" unit="character"/> <supplied reason="lost">śr</supplied>ī <supplied reason="lost">I</supplied>nd<supplied reason="lost">dra</supplied>varmma<supplied reason="lost">d</supplied>e<supplied reason="lost">va</supplied><gap reason="lost" quantity="44" unit="character" precision="low"/> nidhir adhi
+              <p>Atha sa Eva narapatiś śrī-jaya-Indravarmmā mahārājādhirājo 'neka-pūrvva-janmāntara-tapaḥ-phala<lb n="B20" break="no"/>-viśeṣāt samadhigata-campādhirājo daiva-prasāda-yogāt sakala-diṅ-maṇḍalākāśa-vyāpy-aneka-buddhi-prakarṣa-sam̃pad atula-kīrttiḥ kīrtti-sam̃padaś śrī-samudayā<lb n="B21" break="no"/>bhivarddhita-citta-pras<unclear>āda</unclear>-nayana-vadanaś śrī-maheśvara-loka-san<unclear>t</unclear>āna-jādi-<unclear>p</unclear>rabhava<unclear>te</unclear><gap reason="lost" quantity="9" unit="character" precision="low"/>iśrava śrī la<unclear>kṣ</unclear>mīndrabh<unclear>ūm</unclear>ī<unclear>śvara</unclear>grāmasvāmi-bhūtas
+              sakala-bhuva<lb n="B22" break="no"/>na-guru-vareṣṭo 'bhavad iti<g type="complexFinial">.</g> punar api tathaiva ṣaṣ<gap reason="lost" quantity="1" unit="character"/><unclear>ṇa</unclear><gap reason="lost" quantity="21" unit="character" precision="low"/><gap reason="illegible" quantity="8" unit="character" precision="low"/>
+              śrī avaloki<lb n="B23" break="no"/>teśva<unclear>ra</unclear><gap reason="lost" quantity="2" unit="character"/> <supplied reason="lost">śr</supplied>ī-<supplied reason="lost">I</supplied>nd<supplied reason="lost">dra</supplied>varmma<supplied reason="lost">d</supplied>e<supplied reason="lost">va</supplied><gap reason="lost" quantity="44" unit="character" precision="low"/> nidhir adhi
               <lb n="B24"/><gap reason="lost" quantity="1" unit="line"/>
-              <lb n="B25"/>dhvadvayam̃ <unclear>s</unclear>u<unclear>varṇṇa</unclear><gap reason="lost" quantity="52" unit="character" precision="low"/>
+              <lb n="B25"/>dhva-dvayam̃ <unclear>s</unclear>u<unclear>varṇṇa</unclear><gap reason="lost" quantity="52" unit="character" precision="low"/>
               </p>
               <lg n="40" met="anuṣṭubh"><milestone type="pagelike" unit="face" n="C"/>
                 <l n="a"><lb n="C1"/><seg met="====-"><gap reason="lost" quantity="5" unit="character"/></seg><unclear>dha</unclear>rmmārthaṁ</l>
                 <l n="b">vihāras sthāpito<lb n="C2"/><seg met="-="><gap reason="lost" quantity="2" unit="character"/></seg></l>
                 <l n="c"><unclear>rā</unclear>jño na tv ākarādānād</l>
-                <l n="d">bhikṣusaṅgha<lb n="C3" break="no"/><supplied reason="lost">prayo</supplied>janam·<g type="ddandaHooked">.</g></l>
+                <l n="d">bhikṣu-saṅgha<lb n="C3" break="no"/>-<supplied reason="lost">prayo</supplied>janam·<g type="ddandaHooked">.</g></l>
               </lg>
               <lg n="41" met="anuṣṭubh">
                 <l n="a">paribhogāni sarvvā<choice><sic>n</sic><corr>ṇ</corr></choice>i<space/></l>
                 <l n="b">vi<lb n="C4" break="no"/>hāre sthāpitāni me<space/></l>
-                <l n="c">bhikṣusaṅghopa<lb n="C5" break="no"/>bhogārthaṁ<space/></l>
+                <l n="c">bhikṣu-saṅghopa<lb n="C5" break="no"/>bhogārthaṁ<space/></l>
                 <l n="d">satvānāñ ca prayojanam·</l>
               </lg>
               <lg n="42" met="anuṣṭubh">
                 <l n="a"><lb n="C6"/>na rājñaḥ paribhogārtho<space/></l>
-                <l n="b">nākarādānasanta<lb n="C7" break="no"/>tiḥ<space/></l>
-                <l n="c">bhikṣusaṅghopabhogārtho<space/></l>
+                <l n="b">nākarādāna-santa<lb n="C7" break="no"/>tiḥ<space/></l>
+                <l n="c">bhikṣu-saṅghopabhogārtho<space/></l>
                 <l n="d">vihā<lb n="C8" break="no"/>ras sthāpitas sadā<g type="ddandaPlain">.</g><g type="dandaHooked">.</g></l>
               </lg>
               <lg n="43" met="śārdūlavikrīḍita">
                 <l n="a">bhiksūṇāñ ca dhanā<lb n="C9" break="no"/>ni tāni sakalāny evañ ca ra<unclear>kṣ</unclear>anti ye</l>
-                <l n="b"><lb n="C10"/>vidvadbrāhmaṇatāpasakṣitipatijñātyā<lb n="C11" break="no"/>dayo bhuktaye</l>
-                <l n="c">bauddhaṁ mokṣap<choice><sic>a</sic><corr>u</corr></choice>raṁ sa<lb n="C12" break="no"/>mīyur asamaṁ sarvve ca te vāndhavair </l>
-                <l n="d">yye <lb n="C13"/> gr̥h<choice><sic>n</sic><corr>ṇ</corr></choice>anti ca nāśayanti narakaṁ raudraṁ patantu <lb n="C14"/> svayam·<g type="dandaHooked">.</g></l>
+                <l n="b"><lb n="C10"/>vidvad-brāhmaṇa-tāpasa-kṣitipati-jñātyā<lb n="C11" break="no"/>dayo bhuktaye</l>
+                <l n="c">bauddhaṁ mokṣa-p<choice><sic>a</sic><corr>u</corr></choice>raṁ sa<lb n="C12" break="no"/>mīyur asamaṁ sarvve ca te vāndhavair</l>
+                <l n="d">yye <lb n="C13"/> gr̥h<choice><sic>n</sic><corr>ṇ</corr></choice>anti ca nāśayanti narakaṁ raudraṁ patantu <lb n="C14"/>svayam·<g type="dandaHooked">.</g></l>
               </lg>
               <lg n="44" met="anuṣṭubh">
                 <l n="a">śrutvā jānanti paśyanti</l>
-                <l n="b">taddravya<lb n="C15" break="no"/>ñ ca haranti ye<space/></l>
+                <l n="b">tad-dravya<lb n="C15" break="no"/>ñ ca haranti ye<space/></l>
                 <l n="c">nivedayanti rājñe na<space/></l>
                 <l n="d">sa<lb n="C16" break="no"/>rvve te narakaṁ yayuḥ<g type="complexFinial">.</g></l>
               </lg>
               <lg n="45" met="anuṣṭubh">
                 <l n="a">nivedayanti <lb n="C17"/> rājñe ca<space/></l>
-                <l n="b">sarvve te ca punaḥpunaḥ<space/></l>
+                <l n="b">sarvve te ca punaḥ punaḥ<space/></l>
                 <l n="c">vā<lb n="C18" break="no"/>ndhavais saha pitrā vā<space/></l>
                 <l n="d">narakaṁ vai pa<lb n="C19" break="no"/>tantu na<g type="complexFinial">.</g></l>
               </lg>
               <lg n="46" met="upajāti of triṣṭubh">
-                <l n="a">haranti sarvvā<choice><sic>n</sic><corr>ṇ</corr></choice>i dhanāni <lb n="C20"/> tāni<space/></l>
-                <l n="b">ye kṣatriyā vātha nr̥pā <lb n="C21"/> dvijā vā<space/></l>
+                <l n="a">haranti sarvvā<choice><sic>n</sic><corr>ṇ</corr></choice>i dhanāni <lb n="C20"/>tāni<space/></l>
+                <l n="b">ye kṣatriyā vātha nr̥pā <lb n="C21"/>dvijā vā<space/></l>
                 <l n="c">sarvve ca te nārakam e<lb n="C22" break="no"/>va duḥkhaṁ<space/></l>
                 <l n="d">mātrā ca pitrā ca pata<lb n="C23" break="no"/>ntu nityam·<g type="complexFinial">.</g></l>
               </lg>
@@ -368,36 +372,37 @@
                 <l n="a">rakṣanti <choice><sic>te</sic><corr>ye</corr></choice> tāni dha<lb n="C24" break="no"/>nāni sarvve<space/></l>
                 <l n="b">saṅghopabhogā<lb n="C25" break="no"/>ya mamāpi vācā<space/></l>
                 <l n="c">kṣetraṁ suva<lb n="C26" break="no"/>rṇṇaṁ rajatañ ca kaṅsaṁ<space/></l>
-                <l n="d">dāsādibhi<lb n="C27" break="no"/>r buddhapadaṁ samīyuḥ<g type="complexFinial">.</g></l>
+                <l n="d">dāsādibhi<lb n="C27" break="no"/>r buddha-padaṁ samīyuḥ<g type="complexFinial">.</g></l>
               </lg>
               <lg n="48" met="indravajrā">
-                <l n="a">tyaktvā <lb n="C28"/> vaco me ca haranti ke cit<space/></l>
-                <l n="b"><unclear>n</unclear>r̥p<supplied reason="lost">ā</supplied><lb n="C29" break="no"/>dayo vipradhaneśvarāś ca<space/></l>
-                <l n="c">Aṣṭ<unclear>au</unclear> <lb n="C30"/> samīyur nnarakān samastān<space/></l>
-                <l n="d">pitrā <lb n="C31"/> ca mātrā ca sabandhuvarggaiḥ<g type="complexFinial">.</g></l>
+                <l n="a">tyaktvā <lb n="C28"/>vaco me ca haranti ke cit<space/></l>
+                <l n="b"><unclear>n</unclear>r̥p<supplied reason="lost">ā</supplied><lb n="C29" break="no"/>dayo vipra-dhaneśvarāś ca<space/></l>
+                <l n="c">Aṣṭ<unclear>au</unclear> <lb n="C30"/>samīyur nnarakān samastān<space/></l>
+                <l n="d">pitrā <lb n="C31"/> ca mātrā ca sabandhu-varggaiḥ<g type="complexFinial">.</g></l>
               </lg>
               <lg n="49" met="anuṣṭubh"><milestone type="pagelike" unit="face" n="D"/>
-                <l n="a"><lb n="D1"/><seg met="="><gap reason="lost" quantity="1" unit="character"/></seg>lāy·kṣetraṁ Asoksetraṁ</l>
-                <l n="b">gamr̥<lb n="D2" break="no"/><unclear>yā</unclear>ṅkṣetraṁ tathaiva<space/></l>
-                <l n="c">jrauṅ·Apaṅ·<lb n="D3" break="no"/>salavaṅksetraṁ<space/></l>
-                <l n="d">sadamandiṅ<!--sapi2argr saṁdamandiṅ ?--> dhanyadvayaṁ</l>
+                <l n="a"><lb n="D1"/><seg met="="><gap reason="lost" quantity="1" unit="character"/></seg>lāy·-kṣetraṁ Aso-ksetraṁ</l>
+                <l n="b">gamr̥<lb n="D2" break="no"/><unclear>yā</unclear>ṅ-kṣetraṁ tathaiva<space/></l>
+                <l n="c">jrauṅ·-Apaṅ·<lb n="D3" break="no"/>-salavaṅ-ksetraṁ<space/></l>
+                <l n="d">sadamandiṅ<!--sapi2argr saṁdamandiṅ ?--> dhanya-dvayaṁ</l>
               </lg>
               <lg n="50" met="anuṣṭubh">
-                <l n="a"><lb n="D4"/>damanuv·vlur·candāṅkṣetraṁ</l>
-                <l n="b">dandānkṣ<choice><sic>a</sic><corr>e</corr></choice><lb n="D5" break="no"/>traṁ vataiṅ· tathā<space/></l>
-                <l n="c">ṅauk· Amvil· cva<!--sapi2argr cvaḥ ?--> <lb n="D6"/> patāk·kṣetraṁ<space/></l>
-                <l n="d">raṅaul·kṣetraṁ Atau<lb n="D7" break="no"/>r· sivaḥ</l>
+                <l n="a"><lb n="D4"/>damanuv·-vlur·-candāṅ-kṣetraṁ</l>
+                <l n="b">dandān-kṣ<choice><sic>a</sic><corr>e</corr></choice><lb n="D5" break="no"/>traṁ vataiṅ· tathā<space/></l>
+                <!-- argr2sapi: dandāṅ? -->
+                <l n="c">ṅauk·-Amvil·-cva<!--sapi2argr cvaḥ ?--><lb n="D6" break="no"/>-patāk·-kṣetraṁ<space/></l>
+                <l n="d">raṅaul·-kṣetraṁ Atau<lb n="D7" break="no"/>r· sivaḥ</l>
               </lg>
               <lg n="51" met="anuṣṭubh">
-                <l n="a">lvuk·tandreṁlvukkavov·kṣetraṁ</l>
+                <l n="a">lvuk·-tandreṁ-lvuk-kavov·-kṣetraṁ</l><!-- argr: can we read karvov? -->
                 <l n="b"><lb n="D8"/>vamanauṅ· ca Avam̃ tathā<space/></l>
                 <l n="c">kṣetrā<lb n="D9" break="no"/>ṇy etāni sarvvāṇi</l>
                 <l n="d">lokeśāya nr̥po dadat·<g type="complexFinial">.</g></l>
               </lg>
-              <p>Api ca yaś śrī I<lb n="D11" break="no"/>ndravarmmā kṣetrāni sadhanyāni dāsīdā<lb n="D12" break="no"/>sān sarajatasuvarṇṇakaṅsaloha<lb n="D13" break="no"/>tāmrādīni dravyāṇi śrī lakṣmīndralo<lb n="D14" break="no"/>keśvarāya bhikṣusaṅghaparibhogā<lb n="D15" break="no"/>ya dharmmasantatiparipūraṇārthāya da<lb n="D16" break="no"/>ttavān iti<g type="dashTriple">.</g><!--sapi2argr Ici j'ai inventé un symbole à partir de la taxonomie mais je ne suis pas sûre--> ye rājānaḥ kṣatriy<supplied reason="lost">ā vā</supplied>
+              <p>Api ca yaś śrī-I<lb n="D11" break="no"/>ndravarmmā kṣetrāni sadhanyāni dāsī-dā<lb n="D12" break="no"/>sān sarajata-suvarṇṇa-kaṅsa-loha<lb n="D13" break="no"/>-tāmrādīni dravyāṇi śrī-lakṣmīndralo<lb n="D14" break="no"/>keśvarāya bhikṣu-saṅgha-paribhogā<lb n="D15" break="no"/>ya dharmma-santati-paripūraṇārthāya da<lb n="D16" break="no"/>ttavān iti<g type="dashTriple">.</g><!--sapi2argr Ici j'ai inventé un symbole à partir de la taxonomie mais je ne suis pas sûre--> ye rājānaḥ kṣatriy<supplied reason="lost">ā vā</supplied>
                 <lb n="D17"/>brāhmaṇā vāmātyā vā <gap reason="lost" quantity="2" unit="character"/>
                 <lb n="D18"/>vā va<choice><sic>n</sic><corr>ṇ</corr></choice>ijo vā haranti nāśayant<unclear>i</unclear> <gap reason="lost" quantity="1" unit="character"/>
-                <lb n="D19"/>ḍhayanti vā te sarvve mahārauravaṁ ga<lb n="D20" break="no"/>cchantu<g type="complexFinial">.</g> punar api te rakṣanti pari<lb n="D21" break="no"/>pālayanti Āviṣkurvvanti sarvve sva<lb n="D22" break="no"/>rggapuraṁ mokṣapurañ ca yatheṣṭaṁ
+                <lb n="D19"/>ḍhayanti vā te sarvve mahārauravaṁ ga<lb n="D20" break="no"/>cchantu<g type="complexFinial">.</g> punar api te rakṣanti pari<lb n="D21" break="no"/>pālayanti Āviṣkurvvanti sarvve sva<lb n="D22" break="no"/>rgga-puraṁ mokṣa-purañ ca yatheṣṭaṁ
                 <lb n="D23"/>gacchantu bhavantas sarvve<g type="complexFinial">.</g><g type="complexFinial">.</g>
               </p>
               </div>
@@ -411,16 +416,25 @@
                      <lem>yya<unclear>thā</unclear></lem>
                      <rdg source="bib:Finot1904_01">yathā</rdg>
                  </app>
+                 <app loc="A13">
+                   <lem>-pad<choice><sic>o</sic><corr>ā</corr></choice> tena</lem>
+                   <note>Emendation proposed to us by Yuko Yokochi.</note>
+                   <!--
+  a. śrutivacanapado tena: correct śrutivacanapadā tena (proposed by Yuko Yokochi).
+	c. °nipuno: understand °nipuṇo (Finot).
+	d. °nāvi: perhaps emend °nāmi (proposed by Diwakar Acharya).
+	The multiple emendations proposed by Majumdar, p. 80 (note) are unnecessary. -->
+                 </app>
                  <app loc="A20">
-                     <lem>khyātayaśāś</lem>
-                     <rdg source="bib:Finot1904_01">khyātayaśāḥ</rdg>
+                     <lem>khyāta-yaśāś</lem>
+                     <rdg source="bib:Finot1904_01">khyāta-yaśāḥ</rdg>
                  </app>
                  <app loc="A21">
-                     <lem>śrī Indravarmmaviditas</lem>
+                     <lem>śrī-Indravarmmaviditas</lem>
                      <rdg source="bib:Finot1904_01">śrīndravarmmaviditas</rdg>
                  </app>
                  <app loc="B3">
-                     <lem>rājasanmānāt</lem>
+                     <lem>rāja-sanmānāt</lem>
                      <rdg source="bib:Finot1904_01">rājasantānāt</rdg>
                  </app>
                  <app loc="B3">
@@ -463,6 +477,9 @@
                </listApp>
          </div>
          <div type="translation" resp="part:argr part:sapi">
+           <p rend="stanza" n="37">‘By him, who followed the path of the Vedic instructions—although he transgressed the boundaries [of morality]? no, he always observed the boundaries [of morality] (maryādā-abhedinā) (or: he breached the boundaries [of enemy territory])—the characteristic of thinking of those whose minds are afflicted with sufferings (duḥkha-ārta-cit-tā) was never abandoned. People of dim vision (or: with unreliable leaders) seeking refuge were dear [to him], even if they were enemies. The Lokeśa was made here [by him] to be established (i.e. fixed in one place)—although he (the Lokeśa) was complete with supernatural abilities (such as moving at will)? no, he was complete with lordly virtues (such as compassion)—but not (nāpi) to be free of provoking astonishment (avismaya).
+	[reading anāmi and duṣṭa°:] [Lokeśa] was served here [by him]. Being a man of humble thoughts, with his (royal) ordinance he made people of spoiled words (= speakers of non-Sanskritic languages), too (ca), inclined to Dharma.’
+	[reading anāvi and aduṣṭa°:] [Lokeśa] was served here at his command and praised by [him] of humble thoughts; and also the unspoiled teaching on Dharma (i.e. the Buddha’s teaching) [was served and praised by him].’</p>
            <p rend="stanza" n="40">... a vihāra was established for the sake of Dharma, exempted of royal taxes, for the profit of the monks’ community.</p><!--sapi2argr Pas trop sûre de la traduction exacte de « na tv ākarādānād » comme : exempted of royal taxes. À propos de ākarādānād, voir Griffiths et al. 2012: 228 n. 101.-->
            <p rend="stanza" n="41">By me was established in the <foreign>vihāra</foreign> all the means of subsistence for the sake of the enjoyment of the monks’ community and for the profit of beings.</p>
            <p rend="stanza" n="42">The <foreign>vihāra</foreign> is always established, not for the sake of the enjoyment of the king, nor for the continuation of taxes, <supplied reason="subaudible">but</supplied> for the sake of the enjoyment of the monks’ community.</p>

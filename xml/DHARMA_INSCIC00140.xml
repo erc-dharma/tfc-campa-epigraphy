@@ -77,6 +77,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+          <change who="part:sapi" when="2021-11-15" status="draft">Beggining the translation of the inscription</change>
           <change who="part:sapi" when="2021-11-03" status="draft">Initial encoding of the inscription</change>
         </revisionDesc>
     </teiHeader>
@@ -84,7 +85,7 @@
       <body>
          <div type="edition" xml:lang="ocm-Latn">
            <p><milestone type="pagelike" unit="face" n="A"/><!--sapi2argr Inversion des faces entre le rtf et les estampages n0262. -->
-           <lb n="A1"/><g type="ddandaPlain"/><g type="ddandaPlain"/> <num value="897">897</num><!--sapi2argr ou ne pourrions nous pas reconnaître un 10 plutôt, à la place du 8? --> niy· snaḥ Urāṅ· ya grāc· humā di velā nan· pu lyaṅ· śrī jayasiṅhavarṇma ṅan· pul<choice><unclear>ñ</unclear><unclear>ṇ</unclear></choice>i kumāramātya kluñ·
+           <lb n="A1"/><g type="ddandaPlain"/><g type="ddandaPlain"/> <num value="897">897</num><!--sapi2argr ou ne pourrions nous pas reconnaître un 10 plutôt, à la place du 8? --> niy· snaḥ Urāṅ· ya grāc· humā di velā nan· pu lyaṅ· śrī jayasiṅhavarṇma ṅan· pul<choice><unclear>k</unclear><unclear>ṇ</unclear></choice>i kumāramātya kluñ·
            <lb n="A2"/>nagar· ṅan· pom̃ <unclear>ku</unclear> <unclear>klu</unclear>ñ· kunurun· ṅan· satyādhipatiḥ ṅan· pom̃ saṅgr<unclear>ā</unclear>macar· ṅan· sabhādharmmādhikār· ṅan· pom̃· jayavikraṁ ṅan· pom̃ yudhādhikā<lb
            n="A3" break="no"/>r· ṅan· pom̃ ku nyāyādhipatiḥ ṅan· raṁgyāv·<!--sapi2argr rtf : gyov·/ugyāv·/ragyāv·/raṁgyāv·--> hrey·<!--sapi2argr rtf : ṇrey·/hrey·/sroy·--> Atāl· ṅan· Atuk· Anāk· pom̃ kluñ· jrāy· ṅan· pvaḥ dat·<g type="ddandaPlain">.</g> niy· humā
            <lb n="A4"/>di luvu vihār· <choice><unclear>k</unclear><unclear>bh</unclear><unclear>dh</unclear></choice>auy· ñū tanaṅg<choice><unclear>ai</unclear><unclear>o</unclear></choice>ḥ tupen· pandān· nau tam̃l· ṅauk· vihār· rumaṅ· ṅauk· vihār· nau tūy· jalān· rayā la<unclear>pāṁ</unclear>nuc· jalān· ra<lb
@@ -147,8 +148,11 @@
                   </app>
                </listApp>
          </div>
-         <!--<div type="translation">
-       </div>-->
+        <div type="translation" resp="part:sapi">
+          <p n="A1-A3">In this <supplied reason="subaudible">year</supplied> 897 <foreign>snaḥ</foreign>: the man who offers fields at that time, the <foreign>pu lyaṅ</foreign> Śrī Jayasiṅhavarma, along with<!--Ou plutôt traduire "to" ? Il offre les terres à toutes personnes ?--> Pulki Kumāramātya <foreign>kluñ</foreign> <supplied reason="explanation">chief</supplied> of the city, <foreign>pom̃ ku kluñ</foreign> Kunurun, Satyādhipatiḥ, <foreign>pom̃</foreign> Saṅgrāmacar, Sabhādharmmādhikār, <foreign>pom̃</foreign> Jayavikraṁ, <foreign>pom̃</foreign> Yudhādhikār, <foreign>pom̃ ku</foreign> Nyāyādhipatiḥ, Raṁgyāv Hrey Atāl, Atuk Anāk <foreign>pom̃ kluñ</foreign> Jrāy and <foreign>pvaḥ</foreign> <supplied reason="explanation">novice</supplied> Dat.</p>
+          <p n="A3-A">These are the sowing fields ot the </p>
+
+       </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
          </div>

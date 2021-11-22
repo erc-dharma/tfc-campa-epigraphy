@@ -124,7 +124,7 @@ rizières, ainsi que tous les ustensiles pour le culte des dieux et le service d
          <div type="commentary">
          </div>
         <div type="bibliography">
-           <p>First edited by G. Cœdès (<bibl rend="omitname"><ptr target="bib:Coedes1912_01"/><citedRange unit="page">15-17</citedRange></bibl>). Then mentioned by L. Finot (<bibl rend="omitname"><ptr target="bib:Finot1915_03"/><citedRange unit="page">41</citedRange></bibl>) and R. C. Majumdar (<bibl rend="omitname"><ptr target="bib:Majumdar1927_01"/><citedRange unit="page">154</citedRange></bibl>).
+           <p>First edited by G. Cœdès (<bibl rend="omitname"><ptr target="bib:Coedes1912_01"/><citedRange unit="page">15-17</citedRange></bibl>). Then mentioned by L. Finot (<bibl rend="omitname"><ptr target="bib:Finot1915_02"/><citedRange unit="page">41</citedRange></bibl>) and R. C. Majumdar (<bibl rend="omitname"><ptr target="bib:Majumdar1927_01"/><citedRange unit="page">154</citedRange></bibl>).
            Cœdès' edition was later re-published by K.-H. Golzio (<bibl rend="omitname"><ptr target="bib:Golzio2004_01"/><citedRange unit="page">131</citedRange></bibl>). The text is re-edited here by Arlo Griffiths from the estampage EFEO 781, with a fresh translation.
          </p>
          <listBibl type="primary">
@@ -135,7 +135,7 @@ rizières, ainsi que tous les ustensiles pour le culte des dieux et le service d
 			</listBibl>
            <listBibl type="secondary">
               <bibl>
-                <ptr target="bib:Finot1915_03"/>
+                <ptr target="bib:Finot1915_02"/>
                 <citedRange unit="page">41</citedRange>
               </bibl>
               <bibl>

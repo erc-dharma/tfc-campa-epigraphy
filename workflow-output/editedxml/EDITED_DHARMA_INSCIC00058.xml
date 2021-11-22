@@ -146,7 +146,7 @@
 <note>Neither Aymonier nor Finot notes that there is no <foreign>u</foreign> visible on the facsimile. Verification of the BnF estampage confirms that this element was involuntarily omitted not by the scribe but by the person who made the eye-copy.</note>
 </app>
 <app loc="1">
-<lem source="bib:Finot1915_01">1181</lem>
+<lem source="bib:Finot1915_02">1181</lem>
 <rdg source="bib:Aymonier1891_01">1191</rdg>
 </app></listApp>
 </div>
@@ -163,7 +163,7 @@
 <p/>
 <listBibl type="primary">
 <bibl n="EA"><ptr target="bib:Aymonier1891_01"/><citedRange unit="page">58-59</citedRange></bibl>
-<bibl n="LF"><ptr target="bib:Finot1915_01"/><citedRange unit="page">51</citedRange><citedRange unit="note">2</citedRange></bibl>
+<bibl n="LF"><ptr target="bib:Finot1915_02"/><citedRange unit="page">51</citedRange><citedRange unit="note">2</citedRange></bibl>
 </listBibl>
 <listBibl type="secondary">
 <!-- <bibl><ptr target="cic-bibl:parmentier-1909"/>: <biblScope>220</biblScope></bibl>  -->

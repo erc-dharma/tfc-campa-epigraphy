@@ -187,17 +187,17 @@
               <l n="a">virājito deva-gaṇair anekaiś</l>
               <l n="b">śrī śambhubhadreśvara Eva pūjyaḥ</l>
               <l n="c">campā-purīm̐ darśita-sarvva-dharmmām</l>
-              <l n="d">apālayat pāvana-sāra-bhūtaḥ<g type="complexFinial">.</g><!--sapi2argr symbole--></l>
+              <l n="d">apālayat pāvana-sāra-bhūtaḥ<g type="complexFinial">.</g></l>
             </lg>
             <lg n="17" met="indravajrā">
               <l n="a">ye te ’pi copāda<lb n="A19" break="no"/>dire ’tha rājyam̐</l>
               <l n="b">campā-pure santati-rājya-sāre</l>
               <l n="c">śrīmaty urojasya suśāsanāc ca</l>
-              <l n="d">bhadreśvare te prathitāḥ pr̥thivyām·<g type="complexFinial">.</g><!--sapi2argr symbole--></l>
+              <l n="d">bhadreśvare te prathitāḥ pr̥thivyām·<g type="complexFinial">.</g></l>
             </lg>
             <lg n="18" met="āryā">
               <l n="ab">parameśvara-santānāj jāta Urojo dharāpati<lb n="A20" break="no"/>r yyaś ca</l>
-              <l n="cd">tasmāj jātaś śrīmāñ chrī-matimān dharmmarājeti<g type="complexFinial">.</g><!--sapi2argr symbole--></l>
+              <l n="cd">tasmāj jātaś śrīmāñ chrī-matimān dharmmarājeti<g type="complexFinial">.</g></l>
             </lg>
             <lg n="19" met="āryā">
               <l n="ab">tasmāj jajñe rājā śrīdhiś śrī-rudravarmma-nāmā yaḥ</l>
@@ -215,7 +215,7 @@
               <l n="a">tapaḥ-<unclear>pha</unclear>la-viśeṣāc ca</l>
               <l n="b">puṇya-buddhi-parākramāt·</l>
               <l n="c"><seg met="==="><gap reason="lost" quantity="3" unit="character"/></seg>mo nr̥paḥ prāpto</l>
-              <l n="d">na pitur na pitāmahāt·<g type="complexFinial">.</g><!--sapi2argr symbole--></l>
+              <l n="d">na pitur na pitāmahāt·<g type="complexFinial">.</g></l>
             </lg>
             <lg n="22" met="indravajrā">
               <l n="a">sam̐prāptavān rājyam i<lb n="A23" break="no"/>dan narendro</l>
@@ -223,20 +223,21 @@
               <l n="c">Evam̐ hy urojasya viśe<seg met="-++"><gap reason="lost" quantity="3" unit="character"/></seg></l>
               <l n="d"><seg met="++-++--+-++"><gap reason="lost" quantity="11" unit="character"/></seg></l>
             </lg>
-            <ab><!--Même question que pour stances III-V, je ne sais pas comment encoder cela... Ici il semblerait que ça concerne les stances 23-24.-->
-              <gap reason="lost" quantity="3" unit="character" precision="low"/>svāmī jānanībhūmi<lb n="A24" break="no"/>prasāda <gap reason="lost" quantity="46" unit="character" precision="low"/>
-              <lb n="A25"/><gap reason="lost" quantity="46" unit="character" precision="low"/><unclear>ṇam</unclear><g type="complexFinial">.</g><!--sapi2argr symbole-->
-            </ab>
-            <lg n="25" met="uncertain"><milestone type="pagelike" unit="face" n="B"/><!--sapi2argr Ici je ne suis pas non plus certaine de mon encoding.-->
-            <l n="a"><lb n="B1"/><gap reason="lost" extent="unknown" unit="character"/></l>
-              <l n="b"><gap reason="lost" extent="unknown" unit="character"/></l>
-              <l n="c"><gap reason="lost" extent="unknown" unit="character"/></l>
-            <l n="d"><lb n="B2"/><gap reason="lost" quantity="1" unit="character"/> vuddhyā<gap reason="lost" quantity="1" unit="character"/> tu sthāp<supplied reason="lost">i</supplied>tavān ta<supplied reason="lost">ṁ</supplied> harinr̥pa<unclear>t</unclear>iḥ<g type="complexFinial">.</g></l>
-            </lg>
+            <p><!-- Il s'agit ici assez clairement de prose. The passages in C. 142 ans C. 149 where the compound jananībhūmi occurs are both in prose. -->
+              <gap reason="lost" quantity="3" unit="character" precision="low"/>svāmī<space/> jananī-bhūmi<lb n="A24" break="no"/>-<unclear>prapann</unclear>e
+              <gap reason="illegible" quantity="11" unit="character" precision="low"/>
+              <gap reason="lost" quantity="27" unit="character" precision="low"/>n<unclear>amra</unclear>s<unclear>ya</unclear>
+              <lb n="A25"/><gap reason="lost" quantity="46" unit="character" precision="low"/><unclear>ṇa</unclear>m·<unclear><g type="complexFinial">.</g></unclear>
+              </p>
+            <p><milestone type="pagelike" unit="face" n="B"/>
+            <lb n="B1"/><gap reason="lost" unit="character" quantity="5" precision="low"/><gap reason="illegible" unit="character" quantity="13"/><gap reason="lost" unit="character" quantity="9" precision="low"/>
+            <lb n="B2"/><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>ma<unclear>m</unclear> vuddhy<unclear>ā</unclear><gap reason="lost" quantity="1" unit="character"/> tu sthāp<supplied reason="lost">i</supplied>tavān
+            ta<supplied reason="lost">m̐</supplied> harinr̥pa<unclear>t</unclear>iḥ<g type="complexFinial">.</g>
+            </p>
             <lg n="26" met="pr̥thvī">
-              <l n="a">sate malaya-vāsine bhagavate ja<choice><sic>gat</sic><corr>gan</corr></choice>-muktaye</l>
+              <l n="a">sate malaya-vāsine bhagavate jaga<choice><orig>t</orig><reg>n</reg></choice>-muktaye<space/></l>
               <l n="b">nr̥ṇāñ ca <seg met="--+-+---+-++-+"><gap reason="lost" quantity="14" unit="character"/></seg></l>
-              <l n="c"><seg met="-+-+"><gap reason="lost" quantity="4" unit="character"/></seg><lb n="B3" break="no"/>ta-kośa-rūpam adhikam̐ suvarṇṇānanam̐ </l>
+              <l n="c"><seg met="-+-+"><gap reason="lost" quantity="4" unit="character"/></seg><lb n="B3" break="no"/>ta-kośa-rūpam adhikam̐ suvarṇṇānanam̐</l>
               <l n="d">pratiṣṭhitam aram̐ nr̥pena kr̥tinā ca tasmai punaḥ<g type="complexFinial">.</g></l>
             </lg>
               <lg n="27" met="anuṣṭubh">
@@ -279,7 +280,7 @@
                 <l n="a">Aty<lb n="B10" break="no"/>anta-janma-pariśuddha-viśiṣṭa-citto</l>
                 <l n="b">rājā mahājana-varair anugamyamānaḥ</l>
                 <l n="c">campā-purīm abhimatām akhilañ ca pātun</l>
-                <l n="d">tvām̐ rakṣatu tv iha tam eva ciram̐ sadā śrīḥ<g type="ddandaPlain">.</g></l>
+                <l n="d">tvām̐ rakṣatu tv iha tam eva ciram̐ sadā śrīḥ<g type="ddandaPlain">.</g><g type="complexFinial"/></l>
               </lg>
               <lg n="34" met="śārdūlavikrīḍita">
                 <l n="a"><lb n="B11"/>yāvad dharmma-nayena rakṣati divam̐ devendra Iṣṭyājñayā</l>
@@ -433,6 +434,27 @@
                      <lem>śrī-Indravarmmaviditas</lem>
                      <rdg source="bib:Finot1904_01">śrīndravarmmaviditas</rdg>
                  </app>
+                 <app loc="A23">
+                     <lem>jananī</lem>
+                     <rdg source="bib:Finot1904_01">jānanī</rdg>
+                 </app>
+                 <app loc="A24">
+                     <lem>-<unclear>prapann</unclear>e</lem>
+                     <rdg source="bib:Finot1904_01">-prasāda</rdg>
+                 </app>
+                 <app loc="A24">
+                     <lem>n<unclear>amra</unclear>s<unclear>ya</unclear></lem>
+                     <rdg source="bib:Finot1904_01"><gap reason="undefined"/></rdg>
+                     <note>Finot ignores the <foreign>akṣara</foreign>s that remain visible on the inked estampage at the end of A24.</note>
+                 </app>
+                 <app loc="B2">
+                     <lem><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>ma<unclear>m</unclear> vuddhy<unclear>ā</unclear></lem>
+                     <rdg source="bib:Finot1904_01"><gap reason="undefined"/> vuddhyā</rdg>
+                 </app>
+                 <app loc="B2">
+                     <lem>jaga<choice><orig>t</orig><reg>n</reg></choice>-muktaye</lem>
+                     <rdg source="bib:Finot1904_01"><gap reason="undefined"/>jagat-muktaye</rdg>
+                 </app>
                  <app loc="B3">
                      <lem>rāja-sanmānāt</lem>
                      <rdg source="bib:Finot1904_01">rājasantānāt</rdg>
@@ -540,6 +562,7 @@
            <p n="D10-D23">Et encore : le roi Indravarman a donné ces champs avec leurs récoltes, les esclaves des deux sexes, l’argent, l’or, le laiton, le cuivre et autres richesses, à Śrī Lakṣmīndralokeśvara, pour l’usage de la communauté des religieux, pour l’achèvement de la propagation du Dharma. Ceux qui, - rois, <foreign>kṣatriyas</foreign>.. brahmanes, ministres..... marchands, - enlèveront, détruiront ou.... <supplied reason="subaudible">ces biens</supplied>, qu’ils aillent tous au Mahāraurava ; ceux qui au contraire les garderont, les protégeront, révèleront <supplied reason="subaudible">ceux qui les auront enlevés</supplied>, qu’ils aillent tous, suivant leur désir, à la Cité du Ciel et à la Cité de la Délivrance !</p>
          </div>
          <div type="commentary">
+           <p n="A23-B2">Finot interpreted the last line of face A and the first few lines of face B as missing stanzas. The passages in C. 142 ans C. 149 where the compound jananībhūmi occurs are both in prose.</p>
            <p n="B14">XXXVI d. °nāvi: perhaps emend °nāmi (proposed by Diwakar Acharya). The multiple emendations proposed by Majumdar, p. 80 (note) are unnecessary.</p>
            <p n="B18">XXXIX b. śr̥ṅgīna: “Le texte porte bien śr̥ṅgīṇa (sic! AG), mais il faut, selon toute apparence, corriger śr̥ṅgīne, chaque signe du zodiaque mentionné donnant lieu à un composé à part." (Finot)</p>
            <p n="C1-C2">XL a. One expects something like buddhasaṅghasudharmmārthaṁ. b.“Le dernier mot était sans doute mayā." (Finot) c. na tv ākarādānād: or understand natvā-akarādānād?</p>

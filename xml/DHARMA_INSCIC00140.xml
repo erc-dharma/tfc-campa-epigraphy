@@ -51,7 +51,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <p>Relever tous les ai</p>
                             <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
@@ -85,10 +85,14 @@
       <body>
          <div type="edition" xml:lang="ocm-Latn">
            <p><milestone type="pagelike" unit="face" n="A"/><!--sapi2argr Inversion des faces entre le rtf et les estampages n0262. -->
-           <lb n="A1"/><g type="ddandaPlain"/><g type="ddandaPlain"/> <num value="897">897</num><!--sapi2argr ou ne pourrions nous pas reconnaître un 10 plutôt, à la place du 8? --> niy· snaḥ Urāṅ· ya grāc· humā di velā nan· pu lyaṅ· śrī jayasiṅhavarṇma ṅan· pul<choice><unclear>k</unclear><unclear>ṇ</unclear></choice>i kumāramātya kluñ·
-           <lb n="A2"/>nagar· ṅan· pom̃ <unclear>ku</unclear> <unclear>klu</unclear>ñ· kunurun· ṅan· satyādhipatiḥ ṅan· pom̃ saṅgr<unclear>ā</unclear>macar· ṅan· sabhādharmmādhikār· ṅan· pom̃· jayavikraṁ ṅan· pom̃ yudhādhikā<lb
-           n="A3" break="no"/>r· ṅan· pom̃ ku nyāyādhipatiḥ ṅan· raṁgyāv·<!--sapi2argr rtf : gyov·/ugyāv·/ragyāv·/raṁgyāv·--> hrey·<!--sapi2argr rtf : ṇrey·/hrey·/sroy·--> Atāl· ṅan· Atuk· Anāk· pom̃ kluñ· jrāy· ṅan· pvaḥ dat·<g type="ddandaPlain">.</g> niy· humā
-           <lb n="A4"/>di luvu vihār· <choice><unclear>k</unclear><unclear>bh</unclear><unclear>dh</unclear></choice>auy· ñū tanaṅg<choice><unclear>ai</unclear><unclear>o</unclear></choice>ḥ tupen· pandān· nau tam̃l· ṅauk· vihār· rumaṅ· ṅauk· vihār· nau tūy· jalān· rayā la<unclear>pāṁ</unclear>nuc· jalān· ra<lb
+           <lb n="A1"/><g type="ddandaPlain"/><g type="ddandaPlain"/> <num value="897">897</num> niy· snaḥ Urāṅ· ya grāc· humā di velā nan· pu lyaṅ· śrī jayasiṅhavar<choice><sic>ṇ</sic><corr>m</corr></choice>ma ṅan· pu lki kumāramātya kluñ·
+           <lb n="A2"/>nagar· ṅan· pom̃ <unclear>ku</unclear> <unclear>klu</unclear>ñ· kunurun· ṅan· satyādhipatiḥ ṅan· pom̃ saṅgr<unclear>ā</unclear>macar· ṅan· sabhādharmmādhikār· ṅan· pom̃ jayavikraṁ ṅan· pom̃ yudhādhikā<lb
+           n="A3" break="no"/>r· ṅan· pom̃ ku nyāyādhipatiḥ ṅan· raṁgyāv·<!--
+           sapi2argr rtf : gyov·/ugyāv·/ragyāv·/raṁgyāv·
+           argr: could we have here the same toponym as in vyauv-kṣetram in C. 138?
+         -->
+           hrey·<!--sapi2argr rtf : ṇrey·/hrey·/sroy·--> Atāl· ṅan· Atuk· Anāk· pom̃ kluñ· jrāy· ṅan· pvaḥ dat·<g type="ddandaPlain">.</g> niy· humā
+           <lb n="A4"/>di luvu vihār· <unclear>g</unclear>auy· ñū tanaṅg<choice><unclear>ai</unclear><unclear>o</unclear></choice>ḥ tupen· pandān· nau tam̃l· ṅauk· vihār· rumaṅ· ṅauk· vihār· nau tūy· jalān· rayā la<unclear>pāṁ</unclear>nuc· jalān· ra<lb
            n="A5" break="no"/>yā nau tam̃l· luvu ṅauk· lām̃ nau rumaṅ· nan· lac· tam̃l· krauṅ· luvu vihār· raḥ krauṅ· nan· <unclear>rai</unclear><!--sapi2argr Ou lire reva/vera ?--> sīr· tam̃l· tupen· pandān· mulaṅ·<g type="dandaPlain">.</g> di dalaṁ manāṅ·
            <lb n="A6"/>na<choice><unclear>ṅ</unclear><unclear>c</unclear></choice>· Upā humā vukaṁn· kachuta trā ganan· humā nan· humā yām̃ po ku śrī hrinaṇḍaliṅgeśvara man· humā ya kā jem̃ <unclear>dha</unclear>natam· <num value="3">3</num>
            <lb n="A7"/><num value="93">93</num> galauk· kā p<unclear>ā</unclear>jāk· Asiy· ñū sā rutuḥ limā pluḥ sā jāk tandoṅ· daniḥ lauṅ· nan· <unclear>s</unclear>ip· <num value="390">390</num> galauk· Asiy· ñū sā rutuḥ
@@ -96,8 +100,8 @@
            <lb n="A9"/>vardeveśvara<!--sapi2argr correction de varadeveśvara, initialement inscrit dans le rtf. --> jāṅ· tam̃l· ka<unclear>ra</unclear>jac· lac· kā jalān· rayā dar· nau maAndap· dak<unclear>s</unclear>iṇa tam̃l· sā Ār· ṅan· humā śihvan· mavera tūy· nan·
            <lb n="A10"/>maAndap· paścima <unclear>rai</unclear> sīr· tam̃l· tupen· tāc· mulaṅ· di dalaṁ manāṅ· Upak· humā vukaṁn· kachu<unclear>ta</unclear> trā humā nan· humā yām̃
            <lb n="A11"/>po ku śrī hrinaṇḍaliṅgeśvara man· humā Anataṁm· <num value="69">69</num> galauk· kā pajāk· Aṣiy· ñū <num value="25">25</num>k· <num value="9">9</num>v· tandoṅ· daniḥ sauṅ· nan· <num value="1">1</num>
-           <lb n="A12"/><num value="8">8</num><!--sapi2argr ou 10 ?--> gaṁlauk· Asiy· ñū <num value="25">25</num>k· tandoṅ·<g type="dandaPlain">.</g><g type="circleTarget">.</g><g type="dandaPlain">.</g></p>
-           <p>di śakarāja <num value="899">899</num><!--sapi2argr ou 1099? --> huriy· <num value="11">11</num> vaṅun· vulān· <num value="9">9</num> śukravār· nan· kāla po ku klu<lb
+           <lb n="A12"/><num value="8">8</num> gaṁlauk· Asiy· ñū <num value="25">25</num>k· tandoṅ·<g type="dandaPlain">.</g><g type="circleTarget">.</g><g type="dandaPlain">.</g></p>
+           <p>di śakarāja <num value="899">899</num> huriy· <num value="11">11</num> vaṅun· vulān· <num value="9">9</num> śukravār· nan· kāla po ku klu<lb
            n="A13" break="no"/>ñ· paniliḥ yaṁṅ· vā surak· rūpa śrī<unclear>pā</unclear>da parameśvara pu pov· kuv· tam̃l· Ājñā lyam̃ po ku Ulīk· mahārāja pāndar· grāc· hu<lb
            n="A14" break="no"/>mā di nagar· Ulīk· humā <choice><unclear>ca</unclear><unclear>va</unclear></choice>rāv· ṅan· humā paliy· A<unclear>nai</unclear>ḥ<!-- sapi2argr ou Araneḥ/Arenaḥ ? --> ṅan· humā vatek· ṅan· humā dauk· śirā ṅan· humā janam̃ḥ Avista hu<lb
            n="A15" break="no"/>mā dinan· śrīpāda parameśvara pu pov· kuv· yaṁṅ· karunāprasāda vriy· kaṁn· Ājñā lyam̃ po ku śrīmahāsāmanta di Atāla vuḥ di yām̃
@@ -107,20 +111,20 @@
            n="A19" break="no"/>hrinaṇḍaliṅgeśvara di dandrāḥ campa yaṁṅ· grāc· humā di vela nan· sabhā po ku dharmmā<unclear>dh</unclear>ikār· Avoṁv· po ku śoddhipa<choice><unclear>vi</unclear><unclear>tiḥ</unclear></choice>kra<lb
            n="A20" break="no"/>māddhipatiḥ paliy· Anaiḥ po ku nyāyyādhipatigrārmmā campa drām̃ pov· mahāk· Ulīk· slāy· hi<unclear>ran</unclear>· di paliy· Anaiḥ drām̃
            <lb n="A21"/>pov· kār· gaṁp· nan· manūhar· di sāṅgapūra campa yapam̃ṅ· śam̃ka nan· candrakumār· mandā manicīk· mahāk· jiṅyar· namvīya kā Avi<lb
-           n="A22" break="no"/>sta Urāṅ· nan· madā nau di vela gandrāc· humā nan· rīy·<g type="ddandaPlain">.</g> humā di palim̃ A<unclear>nai</unclear>ḥ gauy· humā nan· rumaṅ· tana dnaiḥ tuṁlikūk·
-           <lb n="A23"/>sān· vinai kavveg· ṅan· dauk· <choice><unclear>lā</unclear><unclear>sā</unclear></choice>m̃ nan· nau sā Ār· ṅan· humā pu<choice><unclear>ṇa</unclear><unclear>I</unclear></choice>cov· pr<unclear>ā</unclear>dauṅ· <unclear>maran</unclear>dāp· pūrvva nau tam̃l· h<unclear>u</unclear>mmā pāndā<lb
+           n="A22" break="no"/>sta Urāṅ· nan· madā nau di vela gandrāc· humā nan· rīy·<g type="ddandaPlain">.</g> humā di palim̃ A<unclear>nai</unclear>ḥ gauy· humā nan· rumaṅ· tanaṅg<choice><unclear>ai</unclear><unclear>o</unclear></choice>ḥ tuṁ likūk·
+           <lb n="A23"/>sāṅ· vinai kavveg· ṅan· dauk· <choice><unclear>lā</unclear><unclear>sā</unclear></choice>m̃ nan· nau sā Ār· ṅan· humā pu<choice><unclear>ṇa</unclear><unclear>I</unclear></choice>cov· pr<unclear>ā</unclear>dauṅ· <unclear>maran</unclear>dāp· pūrvva nau tam̃l· h<unclear>u</unclear>mmā pāndā<lb
            n="A24" break="no"/>r· rumaṅ· pu·<!-- sapi2argr Ici je lis difficilement pu, et me demande pourquoi il serait surmonté d'un virāma ? -->nauṁ tam̃l· klauv· Am̃tac· dar· maAndap· daksiṇa<!--sapi2argr en A9, on lisait daksina. Corriger ?--> tam̃l· vavaḥ dvāṅ· rumaṅ· nan· nau tam̃l· sā Ār· ṅan· humā yām̃
            <lb n="A25"/>po ku mandarakānteśvara nau maAndap· paścima tam̃l· dandauv· tunuṅ· <unclear>rai</unclear> sīr· tam̃l· tuṁlikūk· sāṅ· mulaṅ· di dalaṁ manāṅ·</p>
            <p><milestone type="pagelike" unit="face" n="B"/>
            <lb n="B1"/>yāṅ· hrinaṇḍaliṅgaśvara vriy· kam̃n·<!--sapi2argr Ici il y avait inscrit kaṁr· en rouge dans le rtf.--> mātavrakiya jamāra
-           <lb n="B2"/>Upak· humā vukam̃n· kachutra ganan· trā humā nan· humā yām̃ po ku hrinaṇḍaliṅgeśvara man· ya kā<unclear>rak</unclear>· humā
+           <lb n="B2"/>Upak· humā vukam̃n· kachutra<!--face A c'est kachuta--> ganan· trā humā nan· humā yām̃ po ku hrinaṇḍaliṅgeśvara man· ya kā<unclear>rak</unclear>· humā
            <lb n="B3"/><unclear>m</unclear>anatam· <unclear>p</unclear>anadam̃n·<!-- sapi2argr ici il y avait inscrit padadaṁn· dans le rtf. --> nariy· glai klauv· <unclear>k</unclear>rok· varo nau<unclear>g</unclear>em̃ <num value="90">90</num> galauk· kā pajāk· Asiy· ñū <num value="92">92</num>k tandoṅ· daniḥ soṅ· nan· di varatak·
            <lb n="B4"/><num value="3">3</num> galauk· Asiy· ñū <num value="5">5</num>k tandoṅ·<g type="ddandaPlain">.</g><g type="dotMid">.</g><g type="ddandaPlain">.</g></p>
            <p>niy· humā di <unclear>dh</unclear>auk· dhi<unclear>rā</unclear> gauy· ñū rumaṅ· Andap· sām̃ kula pu nau sā Ār· ṅan· humā kula
            <lb n="B5"/>pu jāṅ· tam̃l· gaḥ glai purvva dar· glai nan· nau jāṅ· tam̃l· Ajvañ· pandān· sā Ār· ṅan· humā kluñ· <unclear>ro</unclear>vaur· lac· tam̃l· kauṅ· gauk· <unclear>g</unclear>i<unclear>l</unclear>aḥ krauṅ· nan·
-           <lb n="B6"/>rai sīr· tam̃l· nairitī <unclear>pa</unclear>kyaṅ· pagār· kula pu mulaṅ· di dalaṁ manāṁṅ· nan· Upak· humā vukaṁn· kachutra trā humā nan· humā yāṅ· po ku hri<lb
+           <lb n="B6"/>rai sīr· tam̃l· nairitī <unclear>pa</unclear>kyaṅ· pagār· kula pu mulaṅ· di dalaṁ manāṁṅ· nan· Upak· humā vukaṁn· kachutra<!--kachuta ?--> trā humā nan· humā yāṅ· po ku hri<lb
            n="B7" break="no"/>naṇḍaliṅgeśvara maṁn· humā ya kā jeṅ· Anataṁm· panadaṁn· nariy· trok· va<unclear>ro</unclear>k· jeṅ· <num value="86">86</num><!-- Ou 106? --> galauk· kā pajāk· Asiy· ñū <num value="36">36</num>k· <num value="9">9</num>v· tandoṅ·
-           <lb n="B8"/><unclear>da</unclear>niḥ sauṅ· nan· <num value="38">38</num><!-- sapi2argr Ici semble être la preuve que ce symbole est un 8, et non un 10. Je laisse les précédentes remarques, mais c'est très intéressant.--> galauk· Asiy· ñū <num value="22">22</num>k· tandoṅ·<g type="ddandaPlain">.</g><g type="dotMid">.</g><g type="ddandaPlain">.</g> niy· humā janam̃ḥ gauy· ñū rumaṅ· sā Ār· nan· humā yāṅ· bharuv· maAndap· purvva <unclear>nau</unclear>
+           <lb n="B8"/><unclear>da</unclear>niḥ sauṅ· nan· <num value="38">38</num><!-- sapi2argr Ici semble être la preuve que ce symbole est un 8, et non un 10.--> galauk· Asiy· ñū <num value="22">22</num>k· tandoṅ·<g type="ddandaPlain">.</g><g type="dotMid">.</g><g type="ddandaPlain">.</g> niy· humā janam̃ḥ gauy· ñū rumaṅ· sā Ār· nan· humā yāṅ· bharuv· maAndap· purvva <unclear>nau</unclear>
            <lb n="B9"/>tam̃l· sā Ār· ṅan· humā pu mahāniyama dar· maAndap· daksiṇa<!-- sapi2argr à nouveau, ambiguïté sur le s souscrit. --> nau tam̃l· dandauv· vihār· rumaṅ· nan· maAndap· paścima nau sīr· tam̃l· <unclear>hasā</unclear>r· ṅan· hu<lb
            n="B10" break="no"/>mā yāṅ· bharuv· mulaṅ· di dalaṁ manāṅ· nan· Upak· humā vukaṁn· kachutra trā humā nan· humā yāṅ· po ku hrinaṇḍaliṅgeśvara maṁṅ·
            <lb n="B11"/>humā ya kā jeṅ· Anataṁm· panadaṁn· nariy· trok· va<unclear>ro</unclear>k· jeṅ· <num value="2">2</num> galauk· kā pajāk· Asiy· ñū <num value="20">20</num> k· tandoṅ·<g type="ddandaPlain">.</g><g type="dotMid">.</g><g type="ddandaPlain">.</g></p>
@@ -149,14 +153,32 @@
                </listApp>
          </div>
         <div type="translation" resp="part:sapi">
-          <p n="A1-A3">In this <supplied reason="subaudible">year</supplied> 897 <foreign>snaḥ</foreign>: the man who offered fields at that time, the <foreign>pu lyaṅ</foreign> Śrī Jayasiṅhavarma, along with<!--Ou plutôt traduire "to" ? Il offre les terres à toutes les autres personnes ?--> Pulki Kumāramātya <foreign>kluñ</foreign> <supplied reason="explanation">chief</supplied> of the city, <foreign>pom̃ ku kluñ</foreign> Kunurun, Satyādhipatiḥ, <foreign>pom̃</foreign> Saṅgrāmacar, Sabhādharmmādhikār, <foreign>pom̃</foreign> Jayavikraṁ, <foreign>pom̃</foreign> Yudhādhikār, <foreign>pom̃ ku</foreign> Nyāyādhipatiḥ, Raṁgyāv Hrey Atāl, Atuk Anāk <foreign>pom̃ kluñ</foreign> Jrāy and <foreign>pvaḥ</foreign> <supplied reason="explanation">novice</supplied> Dat.</p>
-          <p n="A3-A5">These are the sowing fields of the Luvu <foreign>vihāra bhauy</foreign> its <foreign>tanaṅg(ai/o)ḥ</foreign><!--sapi2argr Au vu de ce qui est dit après, pourrait-il s'agir d'une indication telle que "commencer à", "point de départ"?--> Tupen Pandān<!-- sapi2argr dans C. 106, tupen est un toponyme).  Pandān ressemble également à un nom, et de manière intéressante, c'est un anthroponyme très répandu au Cambodge pour les gho et les tai.--> go until above the <foreign>vihāra</foreign>. From above the <foreign>vihāra</foreign>, follow the great road Lapāṁnuc. <supplied reason="subaudible">From</supplied> the great road go until the <foreign>luvu</foreign> above <foreign>lām̃</foreign>, go from the <foreign>lac</foreign> (hole ?)<!--sapi2argr lac = to fall? Ou alors il s'agit d'un nom. --> until the river of the Luvu <foreign>vihāra</foreign>.
+          <p n="A1-A3"><supplied reason="subaudible">Śaka year</supplied> 897. This is the <foreign>snaḥ</foreign> of the men who offered fields at that time:
+          <list>
+            <item>the prince <supplied reason="explanation"><foreign>pu lyaṅ</foreign></supplied> Śrī Jayasiṅhavarman,</item>
+            <item>with prince <supplied reason="explanation"><foreign>pu lki</foreign></supplied> Kumāramātya, chief <supplied reason="explanation"><foreign>kluñ</foreign></supplied> of the city,</item>
+           <item>with my lord chief <supplied reason="explanation"><foreign>pov ku kluñ</foreign></supplied> Kunurun,</item>
+           <item>with Satyādhipati,</item>
+           <item>with lord <supplied reason="explanation"><foreign>pov</foreign></supplied> Saṅgrāmacara,</item>
+           <item>with Sabhādharmmādhikāra,</item>
+           <item>with lord <supplied reason="explanation"><foreign>pov</foreign></supplied> Jayavikrama,</item>
+           <item>with lord <supplied reason="explanation"><foreign>pov</foreign></supplied> Yudhādhikāra,</item>
+           <item>with my lord <supplied reason="explanation"><foreign>pov ku</foreign></supplied> Nyāyādhipati,</item>
+           <item>with Raṁgyāv Hrey Atāl,</item>
+           <item>with Atuk, child of lord chief <supplied reason="explanation"><foreign>pov kluñ</foreign></supplied> Jrāy,</item>
+           <item>with Pvah Dat.</item>
+         </list></p>
+          <p n="A3-A5">These are the fields of the Luvu <foreign>vihāra</foreign> its <foreign>gauy</foreign> <foreign>tanaṅg(ai/o)ḥ</foreign><!--sapi2argr Au vu de ce qui est dit après, pourrait-il s'agir d'une indication telle que "commencer à", "point de départ"?--> Tupen Pandān<!-- sapi2argr dans C. 106, tupen est un toponyme.--> go until above the <foreign>vihāra</foreign>. From above the <foreign>vihāra</foreign>, follow the great road Lapāṁnuc. <supplied reason="subaudible">From</supplied> the great road go until the <foreign>luvu</foreign> above <foreign>lām̃</foreign>. Go from the <foreign>lac</foreign> (hole ?)<!--sapi2argr lac = to fall? Ou alors il s'agit d'un nom. --> until the river of the Luvu <foreign>vihāra</foreign>.
           Go along the river of that same closeby<!--sapi2argr sir dans A&C p. 484 (560 PDF) = proche, contigu, près de--> until Tupen Pandān again.</p>
-          <p n="A5-A">In<!-- sapi2argr di dalaṁ = from + in se rencontre également dans C. 139 et semble avoir été traduit par "in".--> that Upā field other Kachuta, and the Ganan field that   </p>
+          <p n="A5-A">In<!-- sapi2argr di dalaṁ = from + in se rencontre également dans C. 139 et semble avoir été traduit par "in".--> that Upā field Vukan Kachuta, and the Ganan field that </p>
 
        </div>
          <div type="commentary">
-            <!--commentary encoded as per section §9.3 -->
+            <p n="A1-A3">In my translation, I normalise words and titles of Sanskrit's origin according to Sanskrit spelling. Many cases involved spelling without final -a of Sanskrit words that end with this letter. In some instances, one notes that the engraver himself was inconsistent, notably in the toponyms
+               - Atāl, also spelled Atāla
+               - kachuta, also spelled kachutra
+
+             </p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
@@ -179,6 +201,10 @@
                <ptr target="bib:Golzio2004_01"/>
                <citedRange unit="page">149</citedRange>
              </bibl>
+             <!--<bibl>
+             ajouter article Amandine Leputre, Arlo Griffiths ECIC VII (ou VIII où la date est corrigée, et ajouter un apparat critique)<ptr target="bib:Golzio2004_01"/>
+             <citedRange unit="page">149</citedRange>
+           </bibl>-->
              </listBibl>
         </div>
       </body>

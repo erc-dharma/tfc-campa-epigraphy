@@ -144,12 +144,11 @@
            </p>
          </div>
          <div type="apparatus">
-           <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
-               <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="line">
-                     <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:AuthorYear_01"></rdg>
-                  </app>
+               <listApp>
+                 <app loc="A12">
+                    <lem><num value="899">899</num></lem>
+                    <rdg source="bib:Huber1911_02"><num value="1033">1033</num></rdg>
+                 </app>
                </listApp>
          </div>
         <div type="translation" resp="part:sapi">
@@ -168,8 +167,8 @@
            <item>with Atuk, child of lord chief <supplied reason="explanation"><foreign>pov kluñ</foreign></supplied> Jrāy,</item>
            <item>with Pvah Dat.</item>
          </list></p>
-          <p n="A3-A5">These are the fields of the Luvu <foreign>vihāra</foreign> its <foreign>gauy</foreign> <foreign>tanaṅg(ai/o)ḥ</foreign><!--sapi2argr Au vu de ce qui est dit après, pourrait-il s'agir d'une indication telle que "commencer à", "point de départ"?--> Tupen Pandān<!-- sapi2argr dans C. 106, tupen est un toponyme.--> go until above the <foreign>vihāra</foreign>. From above the <foreign>vihāra</foreign>, follow the great road Lapāṁnuc. <supplied reason="subaudible">From</supplied> the great road go until the <foreign>luvu</foreign> above <foreign>lām̃</foreign>. Go from the <foreign>lac</foreign> (hole ?)<!--sapi2argr lac = to fall? Ou alors il s'agit d'un nom. --> until the river of the Luvu <foreign>vihāra</foreign>.
-          Go along the river of that same closeby<!--sapi2argr sir dans A&C p. 484 (560 PDF) = proche, contigu, près de--> until Tupen Pandān again.</p>
+          <p n="A3-A5">These are the fields of the Luvu <foreign>vihāra</foreign> its <foreign>gauy</foreign> <foreign>tanaṅg(ai/o)ḥ</foreign><!--sapi2argr Au vu de ce qui est dit après, pourrait-il s'agir d'une indication telle que "commencer à", "point de départ"?--> Tupen Pandān<!-- sapi2argr dans C. 106, tupen est un toponyme.--> it goes until above the <foreign>vihāra</foreign>. From above the <foreign>vihāra</foreign>, it follows the great road Lapāṁnuc. <supplied reason="subaudible">From</supplied> the great road it goes until the <foreign>luvu</foreign> above <foreign>lām̃</foreign>. It goes from the <foreign>lac</foreign> (hole ?)<!--sapi2argr lac = to fall? Ou alors il s'agit d'un nom. --> until the river of the Luvu <foreign>vihāra</foreign>.
+          It goes along the river of that same closeby<!--sapi2argr sir dans A&C p. 484 (560 PDF) = proche, contigu, près de--> until Tupen Pandān again.</p>
           <p n="A5-A">In<!-- sapi2argr di dalaṁ = from + in se rencontre également dans C. 139 et semble avoir été traduit par "in".--> that Upā field Vukan Kachuta, and the Ganan field that </p>
 
        </div>
@@ -201,10 +200,10 @@
                <ptr target="bib:Golzio2004_01"/>
                <citedRange unit="page">149</citedRange>
              </bibl>
-             <!--<bibl>
-             ajouter article Amandine Leputre, Arlo Griffiths ECIC VII (ou VIII où la date est corrigée, et ajouter un apparat critique)<ptr target="bib:Golzio2004_01"/>
-             <citedRange unit="page">149</citedRange>
-           </bibl>-->
+             <bibl>
+             <ptr target="bib:Griffiths+Lepoutre2016_01"/>
+             <citedRange unit="page">258, 277-278</citedRange> <!--sapi2argr Comment inscrire plusieurs pages qui ne sont pas en continu ?-->
+           </bibl>
              </listBibl>
         </div>
       </body>

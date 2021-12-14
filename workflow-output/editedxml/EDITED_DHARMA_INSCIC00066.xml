@@ -585,6 +585,14 @@
 			</listBibl>
            <listBibl type="secondary">
              <bibl>
+             <ptr target="bib:Aymonier1896_02"/>
+             <citedRange unit="page">147-148</citedRange>
+             </bibl>
+             <bibl>
+             <ptr target="bib:Parmentier1909_01"/>
+             <citedRange unit="page">484-485</citedRange>
+             </bibl>
+             <bibl>
                <ptr target="bib:Majumdar1927_01"/>
                <citedRange unit="part">3</citedRange>
                <citedRange unit="page">74-88</citedRange>

@@ -274,7 +274,7 @@
                 <l n="d">kva cid abhayada-vimvas satva-mokṣād vabhūva<g type="complexFinial">.</g></l>
               </lg>
               <lg n="32" met="śārdūlavikrīḍita">
-                <l n="a">duḥkhenābhihatā narāś ca narake kecit tathā nārakā</l>
+                <l n="a">duḥkhenābhihatā narāś ca narake ke cit tathā nārakā</l>
                 <l n="b">rātrau <lb n="B9"/>vā ca divā tadā ca satatam̐ kāṅkṣanti te darśanam·</l>
                 <l n="c">tarṣābhiś ca narā divākara-hatā grīṣme jalam̐ śītalam̐</l>
                 <l n="d">ye te draṣṭum aneka-duḥkha-vihatā vecchanti bhūmau yathā<g type="complexFinial">.</g></l>
@@ -328,18 +328,24 @@
                 <l n="d">sa śrīmān indravarmmā sva<lb n="B19" break="no"/>bhayadam adhikam̐ svājñayātisṭhipad yaḥ<g type="complexFinial">.</g></l>
                 <!-- argr2sapi: j'ignore si Finot lisait vraiment sṭh, ou si absence de point sous s est involontaire, mais il me semble que nous puissions lire simplement svājñayātiṣṭhipad ici -->
               </lg>
-              <!-- 2021-12-19 argr has reached here -->
-              <p>Atha sa Eva narapatiś śrī-jaya-Indravarmmā mahārājādhirājo 'neka-pūrvva-janmāntara-tapaḥ-phala<lb n="B20" break="no"/>-viśeṣāt samadhigata-campādhirājo daiva-prasāda-yogāt sakala-diṅ-maṇḍalākāśa-vyāpy-aneka-buddhi-prakarṣa-sam̐pad atula-kīrttiḥ kīrtti-sam̐padaś śrī-samudayā<lb n="B21" break="no"/>bhivarddhita-citta-pras<unclear>āda</unclear>-nayana-vadanaś śrī-maheśvara-loka-san<unclear>t</unclear>āna-jādi-<unclear>p</unclear>rabhava<unclear>te</unclear><gap reason="lost" quantity="9" unit="character" precision="low"/>iśrava śrī la<unclear>kṣ</unclear>mīndrabh<unclear>ūm</unclear>ī<unclear>śvara</unclear>grāmasvāmi-bhūtas
-              sakala-bhuva<lb n="B22" break="no"/>na-guru-vareṣṭo 'bhavad iti<g type="complexFinial">.</g> punar api tathaiva ṣaṣ<gap reason="lost" quantity="1" unit="character"/><unclear>ṇa</unclear><gap reason="lost" quantity="21" unit="character" precision="low"/><gap reason="illegible" quantity="8" unit="character" precision="low"/>
-              śrī avaloki<lb n="B23" break="no"/>teśva<unclear>ra</unclear><gap reason="lost" quantity="2" unit="character"/> <supplied reason="lost">śr</supplied>ī-<supplied reason="lost">I</supplied>nd<supplied reason="lost">dra</supplied>varmma<supplied reason="lost">d</supplied>e<supplied reason="lost">va</supplied><gap reason="lost" quantity="44" unit="character" precision="low"/> nidhir adhi
+              <p>Atha<!-- argr2sapi: avons-nous des th à comparer? j'avoue que je lirais facilement Ata --> sa Eva narapatiś śrī-jaya-Indravarmmā mahārājādhirājo 'neka-pūrvva-janmāntara-tapaḥ-phala<lb n="B20" break="no"/>-viśeṣāt samadhigata-campādhirājo<!-- argr2sapi: faut-il comprendre -campādhirājyo, donc supply y? -->
+              daiva-prasāda-yogāt sakala-diṅ-maṇḍalākāśa-vyāpy-aneka-buddhi-prakarṣa-sam̐pad atula-kīrttiḥ
+              kīrtti-sam̐padaś śrī-samudayā<lb n="B21" break="no"/>bhivarddhita-citta-pras<unclear>āda</unclear>-nayana-vadanaś śrī-maheśvara-loka-san<unclear>t</unclear>āna<!-- argr2sapi: sanmāna? mais santāna semble mieux faire sens... -->-jādi-<unclear>p</unclear>rabhava<unclear>te</unclear><!-- argr2sapi: sur l'estampage BnF, je lis plutôt ś śrī au lieu de te, après quoi peut-être candra ou bhadra pour les deux premiers aksara du gap --><gap reason="lost" quantity="9" unit="character" precision="low"/>iśrava<!-- argr2sapi: je pense que nous avons -viśr<supplied reason="lost">u</supplied>taś śrī-, --> śrī-la<unclear>kṣ</unclear><!-- argr2sapi: je metrais le k dehors et le m dedans le <unclear>-->mīndrabh<unclear>ūm</unclear>ī<unclear>śvara</unclear>grāmasvāmi-bhūtas
+              sakala-bhuva<lb n="B22" break="no"/>na-guru-vareṣṭo 'bhavad iti<g type="complexFinial">.</g>
+<!-- 2021-12-20 argr has reached here -->
+              punar api tathaiva <!-- argr2sapi: l'encodage qui suit n'est pas satisfaisant, car l'aṣara devant de gap n'est pas complet — il en manque au moins une voyelle, voire consonne souscrite plus voyelle; et je ne vois pas du tout le ṇa qui suivrait; dans le contexte d'Avalokiteśvara, dont le mantra est le ṣaḍakṣara « oṁ maṇi padme hūṁ », on pourrait ici songer à reconstruire ṣaḍakṣara, mais aucune certitude... -->ṣaṣ<gap reason="lost" quantity="1" unit="character"/><unclear>ṇa</unclear><gap reason="lost" quantity="21" unit="character" precision="low"/><gap reason="illegible" quantity="8" unit="character" precision="low"/><!-- argr2sapi: le 5e des 8 est presque certainement ji, le 8e porte presque certainement la voyelle -i -->
+              śrī-<!-- argr2sapi: mettre Avaloki avec majuscule -->avaloki<lb n="B23" break="no"/>teśva<unclear>ra</unclear><gap reason="lost" quantity="2" unit="character"/><!-- argr2sapi: il me semble fort probable que la stèle avait -teśvaram imam̐ et je préconise de modifier l'encodage en fonction --> <supplied reason="lost">śr</supplied>ī-<supplied reason="lost">I<!-- argr2sapi: cet akṣara étant partiellement conservé, il ne faut pas mettre supplied reason="lost" mais unclear; pour l'aṣara qui suit, supprimer de d dans dra, car nous avons déjà nd juste avant --></supplied>nd<supplied reason="lost">dra</supplied>varmma<supplied reason="lost">d</supplied>e<supplied reason="lost">va</supplied><gap reason="lost" quantity="44" unit="character" precision="low"/>nidhir adhi
               <lb n="B24"/><gap reason="lost" quantity="1" unit="line"/>
               <lb n="B25"/>dhva-dvayam̐ <unclear>s</unclear>u<unclear>varṇṇa</unclear><gap reason="lost" quantity="52" unit="character" precision="low"/>
               </p>
               <lg n="40" met="anuṣṭubh"><milestone type="pagelike" unit="face" n="C"/>
+              <!-- argr2sapi: sauf si le EGD préconise autre chose, je mettrais des petites lettres c et d pour les faces latérales, dans les <milestone type="pagelike" unit="face"/> ainsi que dans tous les <lb> -->
                 <l n="a"><lb n="C1"/><seg met="====-"><gap reason="lost" quantity="5" unit="character"/></seg><unclear>dha</unclear>rmmārthaṁ</l>
+                <!-- argr2sapi: à partir d'ici, le lapicide cesse d'exmployer m̐ et met des simples ṁ — remarque à reporter dans handNote -->
                 <l n="b">vihāras sthāpito<lb n="C2"/><seg met="-="><gap reason="lost" quantity="2" unit="character"/></seg></l>
                 <l n="c"><unclear>rā</unclear>jño na tv ākarādānād</l>
                 <l n="d">bhikṣu-saṅgha<lb n="C3" break="no"/>-<supplied reason="lost">prayo</supplied>janam·<g type="ddandaHooked">.</g></l>
+                <!-- argr2sapi: c'est un simple ddanda pour moi, revérifier tous les cas de ddandaHooked -->
               </lg>
               <lg n="41" met="anuṣṭubh">
                 <l n="a">paribhogāni sarvvā<choice><sic>n</sic><corr>ṇ</corr></choice>i<space/></l>
@@ -352,12 +358,14 @@
                 <l n="b">nākarādāna-santa<lb n="C7" break="no"/>tiḥ<space/></l>
                 <l n="c">bhikṣu-saṅghopabhogārtho<space/></l>
                 <l n="d">vihā<lb n="C8" break="no"/>ras sthāpitas sadā<g type="ddandaPlain">.</g><g type="dandaHooked">.</g></l>
+                <!-- argr2sapi: c'est danda + simple ddanda pour moi -->
               </lg>
               <lg n="43" met="śārdūlavikrīḍita">
                 <l n="a">bhiksūṇāñ ca dhanā<lb n="C9" break="no"/>ni tāni sakalāny evañ ca ra<unclear>kṣ</unclear>anti ye</l>
                 <l n="b"><lb n="C10"/>vidvad-brāhmaṇa-tāpasa-kṣitipati-jñātyā<lb n="C11" break="no"/>dayo bhuktaye</l>
-                <l n="c">bauddhaṁ mokṣa-p<choice><sic>a</sic><corr>u</corr></choice>raṁ sa<lb n="C12" break="no"/>mīyur asamaṁ sarvve ca te vāndhavair</l>
+                <l n="c">bauddhaṁ mokṣa-p<choice><sic>a</sic><corr>u</corr></choice>raṁ<!-- argr2sapi: en fait il me semble maintenant évident qu'il faille lire mokṣapadaṁ (cf. buddha-padaṁ en st. XLVII), sans besoin de correction; ajouter entrée apparat si Finot et Majumdar avaient autre chose; par acquis de conscience, mentionner que mokṣapuraṁ figure en effet dans d22 --> sa<lb n="C12" break="no"/>mīyur asamaṁ sarvve ca te vāndhavair</l>
                 <l n="d">yye <lb n="C13"/> gr̥h<choice><sic>n</sic><corr>ṇ</corr></choice>anti ca nāśayanti narakaṁ raudraṁ patantu <lb n="C14"/>svayam·<g type="dandaHooked">.</g></l>
+                <!-- argr2sapi: c'est simplement ddanda pour moi -->
               </lg>
               <lg n="44" met="anuṣṭubh">
                 <l n="a">śrutvā jānanti paśyanti</l>
@@ -366,19 +374,20 @@
                 <l n="d">sa<lb n="C16" break="no"/>rvve te narakaṁ yayuḥ<g type="complexFinial">.</g></l>
               </lg>
               <lg n="45" met="anuṣṭubh">
-                <l n="a">nivedayanti <lb n="C17"/> rājñe ca<space/></l>
+                <l n="a">nivedayanti <lb n="C17"/>rājñe ca<space/></l>
                 <l n="b">sarvve te ca punaḥ punaḥ<space/></l>
                 <l n="c">vā<lb n="C18" break="no"/>ndhavais saha pitrā vā<space/></l>
                 <l n="d">narakaṁ vai pa<lb n="C19" break="no"/>tantu na<g type="complexFinial">.</g></l>
               </lg>
-              <lg n="46" met="upajāti of triṣṭubh">
+              <lg n="46" met="upajāti of triṣṭubh"><!-- argr2sapi: cette valeur de @met n'est pas admise dans EGD, App. B. Il faut mettre simplement "upajāti". Il faut bien que tu t'assures toujours, en encodant, le la conformité des valeurs de @met -->
                 <l n="a">haranti sarvvā<choice><sic>n</sic><corr>ṇ</corr></choice>i dhanāni <lb n="C20"/>tāni<space/></l>
                 <l n="b">ye kṣatriyā vātha nr̥pā <lb n="C21"/>dvijā vā<space/></l>
+                <!-- argr2sapi: on pourrait lire ḥ ou dotMid en fin de <l>, mais on n'en veut pas, donc ignorons -->
                 <l n="c">sarvve ca te nārakam e<lb n="C22" break="no"/>va duḥkhaṁ<space/></l>
                 <l n="d">mātrā ca pitrā ca pata<lb n="C23" break="no"/>ntu nityam·<g type="complexFinial">.</g></l>
               </lg>
               <lg n="47" met="indravajrā">
-                <l n="a">rakṣanti <choice><sic>te</sic><corr>ye</corr></choice> tāni dha<lb n="C24" break="no"/>nāni sarvve<space/></l>
+                <l n="a">rakṣanti <choice><sic>te</sic><corr>ye</corr></choice><!-- argr2sapi: appliquer le <choice> à la seule lettre t/y --> tāni dha<lb n="C24" break="no"/>nāni sarvve<space/></l>
                 <l n="b">saṅghopabhogā<lb n="C25" break="no"/>ya mamāpi vācā<space/></l>
                 <l n="c">kṣetraṁ suva<lb n="C26" break="no"/>rṇṇaṁ rajatañ ca kaṅsaṁ<space/></l>
                 <l n="d">dāsādibhi<lb n="C27" break="no"/>r buddha-padaṁ samīyuḥ<g type="complexFinial">.</g></l>
@@ -386,33 +395,48 @@
               <lg n="48" met="indravajrā">
                 <l n="a">tyaktvā <lb n="C28"/>vaco me ca haranti ke cit<space/></l>
                 <l n="b"><unclear>n</unclear>r̥p<supplied reason="lost">ā</supplied><lb n="C29" break="no"/>dayo vipra-dhaneśvarāś ca<space/></l>
+                <!-- argr2sapi: le début de la <l> me semble suffisamment clair, donc je mettrais nr̥p<supplied reason="lost">ā</supplied>; la ligature tnr̥ à la transition des deux <l> étant très insolite (car normalement t devant n doit devenir n), il me semble qu'une entrée apparat avec <lem><l>ke cit</l><l>nr̥p<supplied reason="lost">ā</supplied></supplied><lb n="C29" break="no"/>dayo</lem> et <note>The stone shows the <foreign>akṣara</foreign> <foreign>tnr̥</foreign> at the <foreign>pāda</foreign> boundary.</note> est à sa place.
+Voir le projet de note sous <p n="C28"...
+              -->
                 <l n="c">Aṣṭ<unclear>au</unclear> <lb n="C30"/>samīyur nnarakān samastān<space/></l>
-                <l n="d">pitrā <lb n="C31"/> ca mātrā ca sabandhu-varggaiḥ<g type="complexFinial">.</g></l>
+                <l n="d">pitrā <lb n="C31"/>ca mātrā ca sabandhu-varggaiḥ<g type="complexFinial">.</g></l>
               </lg>
               <lg n="49" met="anuṣṭubh"><milestone type="pagelike" unit="face" n="D"/>
                 <l n="a"><lb n="D1"/><seg met="="><gap reason="lost" quantity="1" unit="character"/></seg>lāy·-kṣetraṁ Aso-ksetraṁ</l>
                 <l n="b">gamr̥<lb n="D2" break="no"/><unclear>yā</unclear>ṅ-kṣetraṁ tathaiva<space/></l>
                 <l n="c">jrauṅ·-Apaṅ·<lb n="D3" break="no"/>-salavaṅ-ksetraṁ<space/></l>
-                <l n="d">sadamandiṅ<!--sapi2argr saṁdamandiṅ ?--> dhanya-dvayaṁ</l>
+                <l n="d">sadamandiṅ<!--
+                  sapi2argr saṁdamandiṅ ?
+                  argr2sapi possible, mais il ya pas mal de "faux" anusvāras sur faces d et d, donc tout dépend de si nous pouvons trouver un sens pour le toponyme plutôt dans l'une ou dans l'autre hypothèse de lecture. 3e et 4e options: saṁ Umandiṅ, saUmandiṅ.
+                --> dhanya-dvayaṁ</l>
               </lg>
               <lg n="50" met="anuṣṭubh">
                 <l n="a"><lb n="D4"/>damanuv·-vlur·-candāṅ-kṣetraṁ</l>
                 <l n="b">dandān-kṣ<choice><sic>a</sic><corr>e</corr></choice><lb n="D5" break="no"/>traṁ vataiṅ· tathā<space/></l>
-                <!-- argr2sapi: dandāṅ? -->
-                <l n="c">ṅauk·-Amvil·-cva<!--sapi2argr cvaḥ ?--><lb n="D6" break="no"/>-patāk·-kṣetraṁ<space/></l>
+                <l n="c">ṅauk·-Amvil·-cva<!--
+                    sapi2argr cvaḥ ?
+                    argr2sapi oui c'est possible, et peut-être même probable, car cvaḥ se trouve souvent dans la délimitation des terres; donc si un mot cva n'existe pas...
+                  --><lb n="D6" break="no"/>-patāk·-kṣetraṁ<space/></l>
                 <l n="d">raṅaul·-kṣetraṁ Atau<lb n="D7" break="no"/>r· sivaḥ</l>
               </lg>
               <lg n="51" met="anuṣṭubh">
-                <l n="a">lvuk·-tandreṁ-lvuk-kavov·-kṣetraṁ</l><!-- argr: can we read karvov? -->
+                <l n="a">lvuk·-tandreṁ<!-- argr2sapi: tandrīṁ? -->-lvuk-kavov·-kṣetraṁ</l><!-- argr2sapi: maybe possible and better to read karvov·? at least the fact that we expect an r and that this might be a way to get it should be mentioned in an apparatus note -->
                 <l n="b"><lb n="D8"/>vamanauṅ· ca Avam̃ tathā<space/></l>
+                <!-- argr2sapi: add to handNote that m̃ is used in this part of the text.  -->
                 <l n="c">kṣetrā<lb n="D9" break="no"/>ṇy etāni sarvvāṇi</l>
-                <l n="d">lokeśāya nr̥po dadat·<g type="complexFinial">.</g></l>
+                <l n="d">lokeśāya nr̥po 'dadat·<g type="complexFinial">.</g></l>
               </lg>
-              <p>Api ca yaś śrī-I<lb n="D11" break="no"/>ndravarmmā kṣetrāni sadhanyāni dāsī-dā<lb n="D12" break="no"/>sān sarajata-suvarṇṇa-kaṅsa-loha<lb n="D13" break="no"/>-tāmrādīni dravyāṇi śrī-lakṣmīndralo<lb n="D14" break="no"/>keśvarāya bhikṣu-saṅgha-paribhogā<lb n="D15" break="no"/>ya dharmma-santati-paripūraṇārthāya da<lb n="D16" break="no"/>ttavān iti<g type="dashTriple">.</g><!--sapi2argr Ici j'ai inventé un symbole à partir de la taxonomie mais je ne suis pas sûre--> ye rājānaḥ kṣatriy<supplied reason="lost">ā vā</supplied>
+              <p>Api ca yaś śrī-I<lb n="D11" break="no"/>ndravarmmā kṣetrāni sadhanyāni dāsī-dā<lb n="D12" break="no"/>sān sarajata-suvarṇṇa-kaṅsa-loha<lb n="D13" break="no"/>-tāmrādīni dravyāṇi śrī-lakṣmīndralo<lb n="D14" break="no"/>keśvarāya bhikṣu-saṅgha-paribhogā<lb n="D15" break="no"/>ya dharmma-santati-paripūraṇārthāya da<lb n="D16" break="no"/>ttavān
+              iti<g type="dashTriple">.</g><!--
+                sapi2argr Ici j'ai inventé un symbole à partir de la taxonomie mais je ne suis pas sûre
+                argr2sapi en effet le symbole semble différent de ce que nous avons vu jusqu'ici. il faudra envoyer une clipping et la proposition dashTriple à Daniel
+              --> ye rājānaḥ kṣatriy<supplied reason="lost">ā vā</supplied>
                 <lb n="D17"/>brāhmaṇā vāmātyā vā <gap reason="lost" quantity="2" unit="character"/>
+                <!-- argr2sapi: le -ā de la fin de vāmātyā n'est pas clair pour moi; mettre dans <unclear>? -->
                 <lb n="D18"/>vā va<choice><sic>n</sic><corr>ṇ</corr></choice>ijo vā haranti nāśayant<unclear>i</unclear> <gap reason="lost" quantity="1" unit="character"/>
-                <lb n="D19"/>ḍhayanti vā te sarvve mahārauravaṁ ga<lb n="D20" break="no"/>cchantu<g type="complexFinial">.</g> punar api te rakṣanti pari<lb n="D21" break="no"/>pālayanti Āviṣkurvvanti sarvve sva<lb n="D22" break="no"/>rgga-puraṁ mokṣa-purañ ca yatheṣṭaṁ
+                <lb n="D19"/>ḍhayanti<!-- argr2sapi: voir le projet de note dans Commentary. Autre possibilité: restituer draḍhayanti et traduire "arrêter". --> vā te sarvve mahārauravaṁ ga<lb n="D20" break="no"/>cchantu<g type="complexFinial">.</g> punar api te rakṣanti pari<lb n="D21" break="no"/>pālayanti Āviṣkurvvanti sarvve sva<lb n="D22" break="no"/>rgga-puraṁ mokṣa-purañ ca yatheṣṭaṁ
                 <lb n="D23"/>gacchantu bhavantas sarvve<g type="complexFinial">.</g><g type="complexFinial">.</g>
+                <!-- argr2sapi: ici peut-être opter pour <g type="complexFinial"/> donc comme synbole et pas comme ponctuation? -->
               </p>
               </div>
          <div type="apparatus">

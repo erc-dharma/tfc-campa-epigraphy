@@ -98,39 +98,45 @@
          <lb n="A1"/><g type="ddandaHooked">.</g> svasti<g type="dotMid"/></ab>
            <lg n="1" met="anuṣṭubh">
              <l n="a">trailokye jayati śreṣṭhas</l>
-             <l n="b">sa śrī-jayaguheśvaraḥ</l>
+             <l n="b">sa śrī-jaya-guheśvaraḥ</l>
              <l n="c">devāsura-muni-saṅghair</l>
              <l n="d">nnatā<lb n="A2" break="no"/>ṅghri-dvitayāmvujaḥ<g type="ddandaHooked">.</g></l>
            </lg>
            <lg n="2" met="mandākrānta">
              <l n="a">bhuktvā rājyaṁ bhuvi ca mahatā yena cihnena viṣṇoḥ</l>
-             <l n="b">saṁh<choice><sic>a</sic><corr>ā</corr></choice>ryyātaḥ kali-viṣa-taruṁ rāja-<lb n="A3" break="no"/>lakṣmī-viruddham·</l>
+             <l n="b">saṁh<choice><sic>a</sic><corr>ā</corr></choice>ryyātaḥ kali-viṣa-taruṁ rāja<lb n="A3" break="no"/>-lakṣmī-viruddham·</l>
              <l n="c">nānādāno vividha-vibhavaḥ kīrtti-kalpa-drumo yas</l>
-             <l n="d">taddhe-māḍhyas suraja-tamayo bhūtale sthāpitaś ca<g type="ddandaHooked">.</g></l>
+             <l n="d">tad-dhemāḍhyas surajatamayo bhūtale sthāpitaś ca<g type="ddandaHooked">.</g></l>
            </lg>
+           <!--sapi2argr Vérifier. Dans la stance II, il écrit le ḍh. Comparer la paléographie.
+            IId -dhemāḍhyas
+            IIIc gā<choice><sic>dh</sic><corr>ḍh</corr></choice>a-
+          -->
            <lg n="3" met="śārdūlavikrīḍita"><lb n="A4"/>
              <l n="a">tasya śrī-jayasiṅhavarmma-nr̥pater yyo daṇḍa-vāso bhaṭo</l>
-             <l n="b">dharmmiṣṭhaḥ pati-bhakti-tat-paramanāḥ kīrttyāspadaḥ sampadaḥ</l>
-             <l n="c">khyāto <lb n="A5"/> gādha-viśāla-buddhi-jaladhir llabdhvāśayāśāpado</l>
-             <l n="d">yaḥ prītir jjagatāṁ mahāmaṇir iva sthānaṁ sthiraṁ rakṣati<g type="ddandaHooked">.</g></l>
+             <l n="b">dharmmiṣṭhaḥ pati-bhakti-tatpara-manāḥ kīrtty-āspadaḥ sampadaḥ</l>
+             <l n="c">khyāto <lb n="A5"/>gā<choice><sic>dh</sic><corr>ḍh</corr></choice>a-viśāla-buddhi-jaladhir llabdhvāśayāśāpado</l>
+             <l n="d">yaḥ prītir jjagatāṁ mahā-maṇir iva sthānaṁ sthiraṁ rakṣati<g type="ddandaHooked">.</g></l>
            </lg>
            <lg n="4" met="puṣpitāgrā">
-             <l n="a">kr̥tama<lb n="A6" break="no"/>tir adhiko narendra-bhā<unclear>g</unclear>ye</l>
-             <l n="b"><unclear>sa</unclear>mahimā su-guṇa-kriyāvidagdhaḥ</l>
-             <l n="c">mukha-vijita-<choice><sic>bhar</sic><corr>rav</corr></choice>ir bibhartti lakṣmīṁ</l>
-             <l n="d">niśi sakalān nabhavird<!--sapi2argr Devrais-je corriger en nabhavid ?--> divā mukhena<g type="ddandaHooked">.</g></l>
+             <l n="a">kr̥ta-ma<lb n="A6" break="no"/>tir adhiko narendra-bhā<unclear>g</unclear>ye</l>
+             <l n="b"><unclear>sa</unclear>-mahimā su-guṇa-kriyā-vidagdhaḥ</l>
+             <l n="c">mukha-vijita-<choice><sic>bhar</sic><corr>rav</corr></choice>ir<!-- argr2sapi: please check again, almost unimagimable that ravir would be miswritten as bharir, while v/bh and r/v are similar in Cham script --> bibhartti lakṣmīṁ</l>
+             <l n="d">niśi sakalān nabhavird<!--sapi2argr Devrais-je corriger en nabhavid
+                please check the reading — if you are sure it is right, then yes, it must be corrected; but Finot had nabhavid
+               ?--> divā mukhena<g type="ddandaHooked">.</g></l>
            </lg>
            <lg n="5" met="śārdūlavikrīḍita"><lb n="A7"/>
-           <l n="a">lebhe śrī-jayaIndravarmma-nr̥pater nnāmāni yas trīṇi san</l>
-           <l n="b">rājye ceśvara-kalpanāmabhr̥d atas saṁstūyamāno <lb n="A8"/> dhiyā</l>
-           <l n="c">vidvadbhiś śiva-kalpa-saṁjñaka-dharo ratna-prabhādīpitaś</l>
-           <l n="d">śrī-kalpāhvayabhr̥t payonidhir iva śrīmat-kalālaṅkr̥taḥ<g type="ddandaHooked">.</g></l>
+           <l n="a">lebhe śrī-jaya-Indravarmma-nr̥pater nnāmāni yas trīṇi san</l>
+           <l n="b">rājye ceśvara-kalpa-nāma-bhr̥d atas saṁstūyamāno <lb n="A8"/>dhiyā</l>
+           <l n="c">vidvadbhiś śiva-kalpa-saṁjñaka-dharo ratna-prabhā-dīpitaś</l>
+           <l n="d">śrī-kalpāhvaya-bhr̥t payo-nidhir iva śrīmat-kalālaṅkr̥taḥ<g type="ddandaHooked">.</g></l>
          </lg>
          <lg n="6" met="upajāti"><lb n="A9"/>
-           <l n="a">śrīrudramaddhyeśvaram adbhutāṅgaṁ</l>
-           <l n="b">sa dharmmakāṅkṣī śivatatvasevī</l>
-           <l n="c">tadbhaktaye śrījayasiṅhavarmma-</l>
-           <l n="d">prasādataḥ sthāpita<lb n="A10" break="no"/>vān dharitryām·<g type="ddandaHooked">.</g><g type="floretComplex"/><g type="dotMid"/></l>
+           <l n="a">śrī-rudramaddhyeśvaram adbhutāṅgaṁ</l>
+           <l n="b">sa dharmma-kāṅkṣī śiva-tatva-sevī</l>
+           <l n="c" enjamb="yes">tad-bhaktaye śrī-jayasiṅhavarmma</l>
+           <l n="d">-prasādataḥ sthāpita<lb n="A10" break="no"/>vān dharitryām·<g type="ddandaHooked">.</g><g type="floretComplex"/><g type="dotMid"/></l>
          </lg>
          <p xml:lang="ocm-Latn">yāṅ· pov· ku siniy· ranakṣā yāṅ guru pu pov· ku di yāñ·<g type="dotMid"/> taṁl· thun· pāt· slauv· vrāḥ
          <lb n="A11"/>sā vlaḥ kaIn· kaṁn· yāṅ· guru pu pov· ku man· jmāy· top· Urāṅ· yāṅ· niy· vāra yo tavun· driy·<g type="dotMid"/><g type="floretComplex"/><g type="ddandaHooked">.</g>
@@ -144,24 +150,24 @@
          <lb n="B5"/>Añjām· ya Oḥ jeñ· vela Aṅgap· samū nan· lagaiḥ di pa<subst><del rend="corrected">nu</del><add place="overstrike">na</add></subst>kai<!--sapi2argr Comment encoder cette correction de nu en na ?--> tra di sanupaḥ deḥ tra<g type="dotMid"/><g type="floretComplex"/><g type="ddandaHooked">.</g>
          </p>
          <p xml:lang="san-Latn">śrīvr̥ddheśvare
-         <lb n="B6"/>pūrvvaṁ prapitā-mahena sthāpite para-cakra-bhinne yaṁ śrī-śivaliṅgeśaṁ yo muniś śivācāryya-nāmadheyaḥ
+         <lb n="B6"/>pūrvvaṁ prapitāmahena sthāpite para-cakra-bhinne yaṁ śrī-śivaliṅgeśaṁ yo muniś śivācāryya-nāmadheyaḥ
          <lb n="B7"/>punaḥ sthāpitavān iti<g type="ddandaHooked">.</g>
         </p>
         <lg n="7" met="indravajrā">
-          <l n="a">śaivakriyāvit sukr̥ta-prasakto</l>
+          <l n="a">śaiva-kriyā-vit sukr̥ta-prasakto</l>
           <l n="b">devārccana-jñāna-samartha-buddhiḥ</l>
           <l n="c">pitror gguṇān bhā<lb n="B8" break="no"/>ratarān sa citte</l>
           <l n="d">sañcintya puṇyaṁ sa karotu kīrttyai<g type="ddandaHooked">.</g></l>
         </lg>
         <lg n="8" met="anuṣṭubh">
-          <l n="a">śāke khadvyaṣṭabhir yyukte</l>
-          <l n="b">pañcāhe śucya<lb n="B9" break="no"/>pāṇḍare</l>
+          <l n="a">śāke kha-dvy-aṣṭabhir yyukte</l>
+          <l n="b">pañcāhe śucy-a<lb n="B9" break="no"/>pāṇḍare</l>
           <l n="c">sthāpitaś śivaliṅgeśaḥ</l>
           <l n="d">śivācāryyeṇa dhīmatā<g type="ddandaHooked">.</g></l>
         </lg>
         <lg n="9" met="indravajrā"><!-- sapi2argr Ici il n'y avait pas d'indication de mètre -->
           <l n="a">śrī-rudramaddhyeśvara Iddha-siddhiḥ</l>
-          <l n="b">siddheśvaraś śrī-śi<lb n="B10" break="no"/>valiṅgadevaḥ</l>
+          <l n="b">siddheśvaraś śrī-śi<lb n="B10" break="no"/>valiṅga-devaḥ</l>
           <l n="c">tābhyāṁ nr̥paś śrī-jayasiṅhavarmmā</l>
           <l n="d">prādāt sa muktiṁ kr̥payā samastām·<g type="ddandaHooked">.</g></l>
         </lg>
@@ -292,7 +298,7 @@
          </div>
            <div type="translation" xml:lang="fra" source="bib:Finot1904_01">
              <p rend="stanza" n="1">Dans les trois mondes triomphe le suprême Śrī Jaya Guheśvara, aux pieds de qui se prosternent en foule les <foreign>Devas</foreign>, les <foreign>Asuras</foreign> et les <foreign>Munis</foreign> !</p>
-             <p rend="stanza" n="2">Par celui qui régna avec grand étendard de Viṣṇu et coupa l'arbre empoisonné de Kali funeste à la fortune des rois, par le roi Śrī Jaya Siṅhavarman fut élevé sur la terre, tel qu'un généreux et riche arbre <foreign>Kalpa</foreign> de gloire composé d'or et d'argent,</p>
+             <p rend="stanza" n="2">Par celui qui régna avec le grand étendard de Viṣṇu et coupa l'arbre empoisonné de Kali funeste à la fortune des rois, par le roi Śrī Jaya Siṅhavarman fut élevé sur la terre, tel qu'un généreux et riche arbre <foreign>Kalpa</foreign> de gloire composé d'or et d'argent,</p>
              <p rend="stanza" n="3">un homme qui était capitaine de ses gardes, vertueux, uniquement dévoué à son maître, asile de la gloire et du bonheur, renommé comme un profond et vaste océan d'intelligence, suivant les traces des espérances de son âme ; qui, chéri des hommes comme une noble pierre précieuse, garde une place inébranlable ;</p>
              <p rend="stanza" n="4">résolu, supérieur à la condition royale, plein de noblesse, habile aux œuvres méritoires ; dont le visage est supérieur au soleil, puisque ce visage céleste porte jour et nuit Lakṣmī tout entière.</p>
              <p rend="stanza" n="5">Il reçut du roi Śrī Jaya Indravarman trois noms : il se nomma Īśvarakalpa loué spirituellement par les savants ; il s'appela Śivakalpa, illuminé de l'éclat des gemmes ; il porta le nom de Śrīkalpa, tel qu'un océan orné de talents magnifiques.</p>

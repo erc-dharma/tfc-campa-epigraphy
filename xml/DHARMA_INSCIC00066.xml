@@ -355,7 +355,7 @@
               </lg>
               <lg n="42" met="anuṣṭubh">
                 <l n="a"><lb n="c6"/>na rājñaḥ paribhogārtho<space/></l>
-                <l n="b">nākarādāna-santa<lb n="c7" break="no"/>tiḥ<space/></l>
+                <l n="b">'nākarādāna-santa<lb n="c7" break="no"/>tiḥ<space/></l>
                 <l n="c">bhikṣu-saṅghopabhogārtho<space/></l>
                 <l n="d">vihā<lb n="c8" break="no"/>ras sthāpitas sadā<g type="ddandaPlain">.</g><g type="dandaPlain">.</g></l>
                 <!-- argr2sapi: c'est danda + simple ddanda pour moi -->
@@ -364,8 +364,7 @@
                 <l n="a">bhiksūṇāñ ca dhanā<lb n="c9" break="no"/>ni tāni sakalāny evañ ca ra<unclear>kṣ</unclear>anti ye</l>
                 <l n="b"><lb n="c10"/>vidvad-brāhmaṇa-tāpasa-kṣitipati-jñātyā<lb n="c11" break="no"/>dayo bhuktaye</l>
                 <l n="c">bauddhaṁ mokṣa-padaṁ<!-- argr2sapi: en fait il me semble maintenant évident qu'il faille lire mokṣapadaṁ (cf. buddha-padaṁ en st. XLVII), sans besoin de correction; ajouter entrée apparat si Finot et Majumdar avaient autre chose; par acquis de conscience, mentionner que mokṣapuraṁ figure en effet dans d22 --> sa<lb n="c12" break="no"/>mīyur asamaṁ sarvve ca te vāndhavair</l>
-                <l n="d">yye <lb n="c13"/> gr̥h<choice><sic>n</sic><corr>ṇ</corr></choice>anti ca nāśayanti narakaṁ raudraṁ patantu <lb n="c14"/>svayam·<g type="dandaPlain">.</g></l>
-                <!-- argr2sapi: c'est simplement ddanda pour moi -->
+                <l n="d">yye <lb n="c13"/> gr̥h<choice><sic>n</sic><corr>ṇ</corr></choice>anti ca nāśayanti narakaṁ raudraṁ patantu <lb n="c14"/>svayam·<g type="ddandaPlain">.</g></l>
               </lg>
               <lg n="44" met="anuṣṭubh">
                 <l n="a">śrutvā jānanti paśyanti</l>

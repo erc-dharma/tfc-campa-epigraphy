@@ -96,7 +96,7 @@
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:00000">
-            <ab><milestone type="pagelike" unit="face" n="A"/><lb n="01"/><supplied reason="lost"><g type="floretComplex"/>namo lo</supplied>kanāthā<supplied reason="lost">ya</supplied><g type="floretComplex"/></ab>
+            <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A01"/><supplied reason="lost"><g type="floretComplex"/>namo lo</supplied>kanāthā<supplied reason="lost">ya</supplied><g type="floretComplex"/></ab>
             <p><lb n="A1"/>svasti<g type="ddandaPlain">.</g></p>
             <lg n="1" met="indravajrā">
               <l n="a">yena <seg met="-++--+-"><gap reason="lost" quantity="7" unit="character"/></seg><!--sapi2argr ici ai-je bien encodé la lacune de vers ? -->mūrttir</l>
@@ -149,8 +149,8 @@
               <l n="d"><lb n="A13"/><g type="floretQuatrefoil"/><space/><g type="floretQuatrefoil"/><space/>mahāś<choice><sic>u</sic><corr>ū</corr></choice>nyo babhūva ha<g type="ddandaHooked">.</g><space/><g type="floretQuatrefoil"/><space/><g type="floretQuatrefoil"/></l>
             </lg>
             <lg n="10" met="anuṣṭhubh"><milestone type="pagelike" unit="face" n="B"/>
-              <l n="a" enjamb="yes"><lb n="B1"/>cakradhātur asau ś<unclear>ū</unclear>nyā<g type="dotMid">.</g></l>
-              <l n="b">tīto v<unclear>ai</unclear><!--sapi2argr Ici le ai est plus supplied ou corrigé que unclear non ?-->rocanājñayā<g type="dotMid">.</g></l>
+              <l n="a" enjamb="yes"><lb n="B1"/>cakradhātur asau śunyā<!-- sapi2argr à la place de  ś<unclear>ū</unclear>nyā.--><g type="dotMid">.</g></l>
+              <l n="b">tīto v<unclear>ai</unclear><!--sapi2argr Ici le ai est plus supplied ou corrigé que unclear non ? Sur la pierre, je lis 've'.-->rocanājñayā<g type="dotMid">.</g></l>
               <l n="c" enjamb="yes">vajrasutvasya hetuḥ syā<g type="dotMid">.</g></l>
               <l n="d">t tr̥tīyo <lb n="B2"/> bhūj jinālayaḥ<g type="ddandaHooked">.</g></l>
           </lg>
@@ -171,7 +171,7 @@
          </lg>
          <p>
            mutiy· dai kṣetraṁ<g type="dotMid">.</g> kravāv· kṣetraṁ<g type="dotMid">.</g> vuyat· kṣetraṁ<g type="dotMid">.</g> glāṁ kṣetraṁ<g type="dotMid">.</g>
-           <lb n="B8"/>durī kṣetraṁ<g type="dotMid">.</g> vyauv· kṣetraṁ<g type="dotMid">.</g> klov·huviy· kṣetraṁ<g type="dotMid">.</g> jrāy· kṣetraṁ<g type="dotMid">.</g> tupaṁṅ· kṣetraṁ<g type="dotMid">.</g><g type="ddandaHooked">.</g><g type="dotMid">.</g><g type="ddandaHooked">.</g>
+           <lb n="B8"/>durī<!-- dunī? --> kṣetraṁ<g type="dotMid">.</g> vyauv· kṣetraṁ<g type="dotMid">.</g> klov·huviy· kṣetraṁ<g type="dotMid">.</g> jrāy· kṣetraṁ<g type="dotMid">.</g> tupaṁṅ· kṣetraṁ<g type="dotMid">.</g><g type="ddandaHooked">.</g><g type="dotMid">.</g><g type="ddandaHooked">.</g>
            <lb n="B9"/>drain· kṣetraṁ<g type="dotMid">.</g> krat· kṣetraṁ<g type="dotMid">.</g> jalān·ṅauk· kṣetraṁ<g type="ddandaHooked">.</g>
          </p>
          </div>

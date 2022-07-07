@@ -97,23 +97,23 @@
       <body>
          <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:00000">
             <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A01"/><supplied reason="lost"><g type="floretComplex"/>namo lo</supplied>kanāthā<supplied reason="lost">ya</supplied><g type="floretComplex"/></ab>
-            <p><lb n="A1"/>svasti<g type="ddandaPlain">.</g></p>
+          <p><lb n="A1"/>svasti<g type="ddandaPlain">.</g></p><!-- MAIL A DANIEL POUR CE CAS DE SVASTI A INCORPORER DANS AB. -->
             <lg n="1" met="indravajrā">
               <l n="a">yena <seg met="-++--+-"><gap reason="lost" quantity="7" unit="character"/></seg><!--sapi2argr ici ai-je bien encodé la lacune de vers ? -->mūrttir</l>
               <l n="b">vyaktaika <seg met="++--+-+="><gap reason="lost" quantity="8" unit="character"/></seg></l>
               <l n="c"><seg met="++--++"><gap reason="lost" quantity="6" unit="character"/></seg> śura <seg met="+-"><gap reason="lost" quantity="2" unit="character"/></seg> bhaugrais</l><!--sapi2argr Commentaire rtf : śuretipautrais? -->
-              <l n="d">tasmai namaḥ <lb n="A2"/> kāruṇi-kāya nityam·<g type="ddandaPlain">.</g></l>
+              <l n="d">tasmai namaḥ <lb n="A2"/> kāruṇikāya nityam·<g type="ddandaPlain">.</g></l>
             </lg>
             <lg n="2" met="sragdharā">
               <l n="a"><seg met="++++-++------++-++-++"><gap reason="lost" quantity="21" unit="character"/></seg></l>
               <l n="b"><seg met="++++-++--"><gap reason="lost" quantity="9" unit="character"/></seg>pyamātra vālabhito <lb n="A3"/> rakaivākrandamānā</l>
               <l n="c"><seg met="++++"><gap reason="lost" quantity="4" unit="character"/></seg> parāvā <seg met="--"><gap reason="lost" quantity="2" unit="character"/></seg> vigatasukhā lohadaṇḍābhighātāḥ</l>
-              <l n="d">smr̥tvā lokeśvaran tvāṁ pra<unclear>ma</unclear><lb n="A4" break="no"/><unclear>thita</unclear>duritaṁ kevalaṁ mokṣam āpuḥ<g type="ddandaPlain">.</g><space/></l>
+              <l n="d">smr̥tvā lokeśvaran tvāṁ pra<unclear>ma</unclear><lb n="A4" break="no"/><unclear>thita</unclear>duritaṁ kevalaṁ mokṣam āpuḥ<g type="ddandaPlain">.</g><space/><!-- CONTACTE DANIEL POUR LES ESPACES. --></l>
             </lg>
             <lg n="3" met="sragdharā">
               <l n="a">mārair ugraiḥ parītāś ciram api manujāḥ pūrvva-karmmānuraktā</l>
               <l n="b">nistrāṇā ni<lb n="A5" break="no"/><unclear>tyaduḥkhā</unclear>ḥ parama-kaluṣitāḥ kṣutpipāsābhibhūtāḥ</l>
-              <l n="c">pūrvvañ cādānadoṣāt sugata-vimukhataḥ <!--sapi2argr : Commentaire rtf: -vimukhataḥ: emend -vimukhitāḥ? --> prāpta-kāpāla-haste</l>
+              <l n="c">pūrvvañ cādānadoṣāt sugata-vimukhataḥ<!--sapi2argr : Commentaire rtf: -vimukhataḥ: emend -vimukhitāḥ? --> prāpta-kāpāla-haste</l>
               <l n="d"><lb n="A6"/><unclear>padmabh</unclear>r̥dvajrapāṇipraśamitanirayaṁ <unclear>b</unclear>uddhamārggaṁ samāpuḥ<g type="ddandaPlain">.</g></l>
             </lg>
             <lg n="4" met="āryā">
@@ -177,11 +177,11 @@
          </div>
          <div type="apparatus">
                <listApp>
-                 <app loc="A3-A4"><!--sapi2argr : Ici l'apparatus chevauche 2 lignes. Ai je bien fait de supprimer le lb et rectifier le unclear ? -->
+                 <app loc="A3">
                      <lem>lokeśvaran tvāṁ pra<unclear>mathita</unclear>duritaṁ kevalaṁ mokṣam</lem>
                      <rdg source="bib:Huber1911_01">lokeśvara <gap reason="lost" quantity="8" unit="character"/> kevalamokṣam</rdg>
                 </app>
-                <app loc="A4-A5"><!--sapi2argr : même question ? -->
+                <app loc="A4">
                      <lem>nistrāṇā ni<unclear>tyaduḥkhā</unclear>ḥ parama° <!--sapi2argr : Puis-je utiliser ce symbole ° ?--></lem>
                      <rdg source="bib:Huber1911_01">nistrāṇā <seg met="+-+"><gap reason="lost" quantity="3" unit="character"/></seg> parama°</rdg>
                       <note>The stone is quite worn here, but the proposed restitution seems to agree unproblematically with whatever traces remain visible.</note>

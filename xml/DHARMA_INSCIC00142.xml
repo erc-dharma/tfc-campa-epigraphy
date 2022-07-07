@@ -100,7 +100,7 @@
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:00000">
-           <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A01"/><g type="floretQuatrefoil"/><g type="ddandaOrnate"/> Om̐ namaś śivāya<!-- sapi2argr au lieu ś(i/ī)vāya --><g type="ddandaOrnate"/><g type="floretQuatrefoil"/><supplied reason="lost">svasti</supplied></ab>
+           <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A01"/><g type="floretQuatrefoil"/><g type="ddandaOrnate"/> Om̐ namaś śivāya<g type="ddandaOrnate"/><g type="floretQuatrefoil"/><supplied reason="lost">svasti</supplied></ab>
            <lg n="1" met="sragdharā"><lb n="A1"/>
            <l n="a"><supplied reason="lost">nā</supplied> <unclear>nārūpā</unclear>ṇi yasyākhila-jagad-uditaiśvaryya-saṁbhāvitāni<g type="dotMid">.</g></l>
            <l n="b">ksipta-kṣoṇī-durātma-prabhr̥ti-bhayata<unclear>māṁ-sīddha-tejāṁsi nitya</unclear><lb n="A2" break="no"/><unclear>m</unclear><choice><unclear>·</unclear><unclear><g type="dotMid">.</g></unclear></choice></l>
@@ -120,9 +120,9 @@
              <l n="d">dadatā hetunā vinā<g type="ddandaHooked">.</g></l>
            </lg>
            <lg n="4" met="vasantatilaka">
-             <l n="a" enjamb="yes">Ākāśa-maṇḍalam atītya mahīm aneka<g type="dotMid">.</g></l><!--sapi2argr j'ai ajouté enjamb="yes" ici?-->
+             <l n="a" enjamb="yes">Ākāśa-maṇḍalam atītya mahīm aneka<g type="dotMid">.</g></l>
              <l n="b">bhūtādhikāra-parivārita-maṇḍalā<unclear>bha</unclear>ḥ<!-- sapi2argr sur la pierre, cela ressemble beaucoup à 'va' --><g type="dotMid">.</g></l>
-             <l n="c" enjamb="yes">yalliṅgam indudina<lb n="A5" break="no"/>kr̥dgrahasevitābha<g type="dotMid">.</g></l><!--sapi2argr ici aussi pour l'enjamb -->
+             <l n="c" enjamb="yes">yal-liṅgam indu-dina<lb n="A5" break="no"/>kr̥d-graha-sevitābha<g type="dotMid">.</g></l>
              <l n="d">datta-kramāgata-sukhodayam atra pāyāt·<g type="ddandaHooked">.</g></l>
            </lg>
            <lg n="5" met="vasantatilaka">
@@ -144,9 +144,9 @@
              <l n="d">śaktaṁ na yasya yadaniṣṭavara-prasādāt·<g type="ddandaHooked">.</g></l>
            </lg>
            <lg n="8" met="śārdūlavikrīḍita">
-             <l n="a">yo vijñāya murāripadma-varajāvajñānadoṣodgati<!-- sapi2argr °jñāna°: °jñānaṁ (sapi). Pour l'instant je ne touche à rien à cause de la métrique. -->
+             <l n="a">yo vijñāya murāripadma-varajāva-jñāna-doṣodgati<!-- sapi2argr °jñāna°: °jñānaṁ (sapi). Pour l'instant je ne touche à rien à cause de la métrique. SOIT CORRIGER, SOIT IL N'Y EST PAS.-->
              <g type="dotMid">.</g></l>
-             <l n="b">prāle<lb n="A10" break="no"/>yaglapitānanāmvujanibhau provāca vāṇīm imām·<g type="dotMid">.</g></l>
+             <l n="b">prāle<lb n="A10" break="no"/>yaglapitānanāmvuja-nibhau provāca vāṇīm imām·<g type="dotMid">.</g></l>
              <l n="c">he govinda-sarojajau kim aparaṁ sāddhvā yuvābhyāṁ manā<g type="dotMid">.</g>g</l>
              <l n="d">ya<choice><sic>d</sic><corr>n</corr></choice>mūlāgra<lb n="A11"/>bubhutsayā mama natiḥ kr̥tyā mudā nānyathā<g type="ddandaHooked">.</g></l>
            </lg>
@@ -183,7 +183,7 @@
            <lg n="14" met="anuṣṭubh">
              <l n="a">sa śrīśāneśvaro yatra<g type="dotMid">.</g></l>
              <l n="b">jātipuṣ<choice><unclear>ṭ</unclear><unclear>p</unclear></choice>abhuvi śriyā<g type="dotMid">.</g></l>
-             <l n="c">sukhāsīno<!--sapi2argr sukhāsīṁno. Pour l'instant je ne touche à rien.--> namaskāra<g type="dotMid">.</g></l>
+             <l n="c">sukhāsīno<!--sapi2argr sukhāsīṁno. Pour l'instant je ne touche à rien. CORRIGER OU IL n'y est pas.--> namaskāra<g type="dotMid">.</g></l>
              <l n="d">dhanān naḥ pā<lb n="A17"/><g type="floretQuatrefoil"/><g type="ddandaOrnate">.</g> tu sādhvasāt·<g type="ddandaOrnate">.</g><g type="floretQuatrefoil"/></l><!--sapi2argr les deux signes encadrant les ddanda ne sont pas vraiment des floretQuatrefoil. Il s'agit plutôt de motifs décoratifs végétaux disposés de manière symétrique, rétrécissant à mesure qu'ils s'écartent vers le bord. -->
            </lg>
            <lg n="15" met="pr̥thvī"><milestone type="pagelike" unit="face" n="B"/>
@@ -193,8 +193,8 @@
               <l n="d">purāṇa-bhr̥gu-śāsanena kila rakṣitā yena <seg met="+"><gap reason="lost" quantity="1" unit="character"/></seg><supplied reason="lost"><g type="ddandaHooked">.</g></supplied></l>
             </lg>
             <lg n="16" met="āryā">
-              <l n="ab"><lb n="B3"/>śrī-bhadravarmma-nr̥patir bbhr̥gu-vara-va<unclear>ṁ</unclear>śāmvarā-mala-śaśāṅkaḥ<!-- sapi2argr À la place de <choice><sic>a</sic><corr>aḥ</corr></choice>. En réalité, le visarga est inscrit à l'intérieur du 'ṅ'.--><g type="dotMid">.</g></l>
-              <l n="cd">lokāśayakumudāni svākarakiraṇaiḥ prabodhayati<g type="ddandaHooked">.</g></l>
+              <l n="ab"><lb n="B3"/>śrī-bhadravarmma-nr̥patir bbhr̥gu-vara-va<unclear>ṁ</unclear>śāmvarā-mala-śaśāṅkaḥ<g type="dotMid">.</g></l>
+              <l n="cd">lokāśaya-kumudāni svākara-kiraṇaiḥ prabodhayati<g type="ddandaHooked">.</g></l>
             </lg>
             <lg n="17" met="sragdharā">
               <l n="a">tuṅgatvaṅgatturaṅga<lb n="B4"/>tvaritakharakhuroddhr̥ta-dhūli-pradhūmre<g type="dotMid">.</g></l>
@@ -203,7 +203,7 @@
               <l n="d">campā-rājādhirājaḥ sa jayati mahasājau yathā pāṇḍusūnuḥ<g type="ddandaHooked">.</g></l>
             </lg>
             <lg n="18" met="anuṣṭubh">
-              <l n="a">nyāyena<!-- sapi2argr À la place de <choice><unclear>n</unclear><unclear>t</unclear></choice>--> ma<lb n="B6" break="no"/>hatā tena<g type="dotMid">.</g></l>
+              <l n="a">nyāyena ma<lb n="B6" break="no"/>hatā tena<g type="dotMid">.</g></l>
               <l n="b">janitā dharmma-paddhatiḥ<unclear><g type="dotMid">.</g></unclear></l>
               <l n="c">tayā śreyas tu janitaṁ rājño</l>
               <l n="d">vīvr̥dhad aiśvaram·<g type="ddandaHooked">.</g></l>
@@ -222,12 +222,12 @@
             </lg>
             <lg n="21" met="anuṣṭubh">
               <l n="a">Ity etāni ca yasyaiva</l>
-              <l n="b">rājājñāsuprayatnataḥ<g type="dotMid">.</g></l>
-              <l n="c">dūrllabhānīha<!-- sapi2argr dūrllabhānīhaṁ. Il y a un anusvara net sur la pierre.-->loke nyai<g type="dotMid">.</g></l>
-              <l n="d">r api prādān mahīpatiḥ<g type="ddandaHooked">.</g></l>
+              <l n="b">rājājñā-suprayatnataḥ<g type="dotMid">.</g></l>
+              <l n="c">dūrllabhānīha<!-- sapi2argr dūrllabhānīhaṁ. Il y a un anusvara net sur la pierre.-->loke 'nyai<g type="dotMid">.</g>r</l>
+              <l n="d">api prādān mahīpatiḥ<g type="ddandaHooked">.</g></l>
             </lg>
             <p>
-              <lb n="B10"/>yas tu daulikām adhivasan rājaparata Ucchritamāyūracchattrapriyāyāśeṣavādyais saha valair asyāś cāvatarati punar idaṁ śre<lb n="B11" break="no"/>yaḥ<g type="ddandaHooked">.</g>
+              <lb n="B10"/>yas tu daulikām adhivasan rāja-parata Ucchrita-māyūra-cchattra-priyāyāśeṣa-vādyais saha valair asyāś cāvatarati punar idaṁ śre<lb n="B11" break="no"/>yaḥ<g type="ddandaHooked">.</g>
             </p>
             <lg n="22" met="upajāti">
               <l n="a">nāgendram āruhya valair asaṁkhyaiḥ</l>

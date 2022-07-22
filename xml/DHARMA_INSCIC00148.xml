@@ -108,14 +108,14 @@
            </lg>
            <lg n="2" met="indravajrā">
              <l n="a" enjamb="yes">śrīśānadevasya harasya tasyai</l>
-             <l n="b">vāṅghri-dvayāmbho-ruha-reṇubhir yyā<unclear><g type="dandaPlain">.</g></unclear></l>
+             <l n="b">vāṅghri-dvayāmbho-ruha-reṇubhir yyā<g type="dandaPlain">.</g></l>
              <l n="c"><lb n="A5"/>campā-purī saṁpad-anūna-śobhā</l>
              <l n="d">sad-bhoga-bhārāḍhyatarā samr̥ddhā<g type="ddandaPlain">.</g></l>
            </lg>
            <lg n="3" met="śārdūlavikrīḍita">
-             <l n="a">tasyāṁ śrī-jaya-Indravarmma-nr̥patiḥ saṁp<unclear>ā</unclear>dita-śrīḥ <lb n="A6"/>satā<unclear>ṁ</unclear></l>
+             <l n="a">tasyāṁ śrī-jaya-Indravarmma-nr̥patiḥ saṁpādita-śrīḥ <lb n="A6"/>satāṁ</l>
              <l n="b">senābhiḥ sakalābhir indur iva vā tārābhir āsevitaḥ</l>
-             <l n="c">dīptājñā-parirakṣitākhila-jagad yaḥ puṇya-<unclear>ka</unclear>rmmodayaḥ</l><!-- varmmodayaḥ? dharmmodayaḥ? -->
+             <l n="c">dīptājñā-parirakṣitākhila-jagad yaḥ puṇya-<unclear>ka</unclear>rmmodayaḥ</l><!-- varmmodayaḥ? dharmmodayaḥ? Dur à dire sur la pierre-->
              <l n="d"><lb n="A7"/>kāntyāloka-mano-vibodhana-karaś śaktyā prajā rakṣatu<g type="ddandaPlain">.</g></l>
            </lg>
            <lg n="4" met="sragdharā">
@@ -126,50 +126,67 @@
            </lg>
            <!-- sapi and argr have read down to here on 2021-03-03 -->
            <lg n="5" met="śārdūlavikrīḍita">
-             <l n="a"><lb n="A10"/>po 'ya<unclear>ṁ</unclear> pov ku danāy pināṅ pr̥thu-janaḥ śaiva-kriyā-jñānavid</l>
+             <l n="a"><lb n="A10"/>po 'yaṁ pov ku danāy pināṅ pr̥thu-janaḥ śaiva-kriyā-jñānavid</l>
              <l n="b">yoga-dhyāna-samādhi-kr̥c chiva-padecchā <lb n="A11"/>yo nijātma-śriyaḥ<g type="dandaPlain">.</g></l>
-             <l n="c">smr̥tvāmbhaḥ-plavamāna-phena-sadr̥śa<unclear>ṁ</unclear> kāya<unclear>ṁ</unclear> tv anitya<unclear>ṁ</unclear> mahat</l>
+             <l n="c">smr̥tvāmbhaḥ-plavamāna-phena-sadr̥śaṁ kāyaṁ tv anityaṁ mahat</l>
              <l n="d">tat puṇya<unclear>ṁ</unclear> bha<lb n="A12" break="no"/>va-sāgarāt sma kurute pitror mmuce svātmanaḥ<g type="ddandaPlain">.</g></l>
            </lg>
-           <p>śrī-Amarendra-pureśvarasya dhanāni kṣetra<lb n="A13" break="no"/>-go-dāsa-dāsī-mahiṣādīni dhānya-taṇḍula-vasana-rajata-kanaka-ka<unclear>ṁ</unclear>sa-loha-<choice><sic>trā</sic><corr>tā</corr></choice><lb n="A14" break="no"/>mrādīni ca ye ke pāpa-puruṣā haranti balatayā tr̥ṣṇatayā vā<!--sapi2argr Inverser les faces b et C en B et c et mettre un commentaire pour montrer la différence avec Huber ? (si oui, ne pas oublier de changer le rtf)-->
+           <p>śrī-Amarendra-pureśvarasya dhanāni kṣetra<lb
+             n="A13" break="no"/>-go-dāsa-dāsī-mahiṣādīni dhānya-taṇḍula-vasana-rajata-kanaka-kaṁsa-loha-<choice><sic>trā</sic><corr>tā</corr></choice><lb
+             n="A14" break="no"/>mrādīni ca ye ke pāpa-puruṣā haranti balatayā tr̥ṣṇatayā vā<!--sapi2argr Inverser les faces b et C en B et c et mettre un commentaire pour montrer la différence avec Huber ? (si oui, ne pas oublier de changer le rtf)-->
            <milestone type="pagelike" unit="face" n="b"/>
-           <lb n="b1"/>kalkanatayā vātibhīma-ma<lb n="b2" break="no"/>hā-narake ghoratara-hutā<lb n="b3" break="no"/>śana-śikhā-karāle patantu te
-             <lb n="b4"/>pitr̥-vandhu-pakṣair mmātr̥-vandhu-pakṣai<lb n="b5" break="no"/>ḥ punā rakṣanti na haranti vā ye
-             <lb n="b6"/>ke sādhu-puruṣā dharmma-kāṅkṣi<lb n="b7" break="no"/>ṇaḥ prāpnuvantu te nityaṁ svargga<lb n="b8" break="no"/>-phalam iti<g type="ddandaPlain">.</g>
+           <lb n="b1"/>kalkanatayā vātibhīma-ma<lb
+           n="b2" break="no"/>hā-narake ghoratara-hutā<lb
+           n="b3" break="no"/>śana-śikhā-karāle patantu te
+             <lb n="b4"/>pitr̥-vandhu-pakṣair mmātr̥-vandhu-pakṣai<lb
+             n="b5" break="no"/>ḥ punā rakṣanti na haranti vā ye
+             <lb n="b6"/>ke sādhu-puruṣā dharmma-kāṅkṣi<lb
+             n="b7" break="no"/>ṇaḥ prāpnuvantu te nityaṁ svargga<lb
+             n="b8" break="no"/>-phalam iti<g type="ddandaPlain">.</g>
            </p>
            <p xml:lang="ocm-Latn">siy· Urāṅ· yaṅ·
-             <lb n="b9"/>mavac· tuy· śanāpa niy· Asu<lb n="b10" break="no"/>v· hitaṁ Asuv· putiḥ Asuv· miraḥ
+             <lb n="b9"/>mavac· tuy· śanāpa niy· Asu<lb
+             n="b10" break="no"/>v· hitaṁ Asuv· putiḥ Asuv· miraḥ
              <lb n="b11"/>Asuv· pāk· matā Avista ya nan·
              <lb n="b12"/>Āśraya Inā Urāṅ· nan·<g type="ddandaPlain">.</g>
            </p>
            <p xml:lang="ocm-Latn">niy·
-             <lb n="b13"/>śakarāja-kāla vuḥ yāṅ·<!--ou yāp ?--> triḥ
+             <lb n="b13"/>śakarāja-kāla vuḥ yāṅ· triḥ
              <lb n="b14"/>catvāra Aṣṭa<g type="ddandaPlain">.</g><g type="floretComplex"/>
           </p>
 <!--The way a space is left open between sa and vi in the third line proves that lines 1-3 were written after the rest of the face. -->
-    <p xml:lang="ocm-Latn"><milestone type="pagelike" unit="face" n="b"/><lb n="b1bis"/>humā vūnūk· klar· tipā<lb n="b2bis" break="no"/>r· kūṅ· dada<!-- or dadaṁ? --> tala Ajau<unclear>ñ·</unclear>
-    <lb n="b3bis"/>vavūy<unclear>·</unclear> ṅan<unclear>·</unclear> glai A<space type="ascender" quantity="2" unit="character"/>viḥ <unclear>nau</unclear>
+    <p xml:lang="ocm-Latn"><milestone type="pagelike" unit="face" n="b"/><lb n="b1bis"/>humā vūnūk· klan· tipā<lb n="b2bis" break="no"/>r· kūṅ· dada<!-- or dadaṁ? --> tala Ajau<unclear>ñ·</unclear>
+    <lb n="b3bis"/>vavūy· ṅan<unclear>·</unclear> glai A<space type="ascender" quantity="2" unit="character"/>viḥ nau
   </p>
            <p xml:lang="ocm-Latn">
              <!-- sapi and argr have read down to here on 2021-03-1O -->
              <milestone type="pagelike" unit="face" n="C"/>
              <lb n="C1"/><gap reason="illegible" quantity="17" unit="character" precision="low"/>pra<unclear>māna</unclear> humā niy·
-             <lb n="C2"/><gap reason="illegible" quantity="17" unit="character" precision="low"/>kravāv· tuy· cikir· huriy·
-             <lb n="C3"/><gap reason="illegible" quantity="16" unit="character" precision="low"/><unclear>ḥ</unclear> puĀk· vandaḥ neḥ nariy· na<lb n="C4" break="no"/><gap reason="illegible" quantity="15" unit="character" precision="low"/>nan· tr<unclear>ā</unclear> tuy· krauṅ· nan· <unclear>nau</unclear> kaṁ<!-- see d6–7, so restore n· at beginning of line C5; for the unusual shape of -au, see d9 -->
-             <lb n="C5"/><gap reason="illegible" quantity="15" unit="character" precision="low"/>nan· tr<unclear>ā</unclear> tuy· krauṅ· bhauk· ma<lb n="C6" break="no"/><gap reason="illegible" quantity="14" unit="character" precision="low"/><unclear>po</unclear>v ku <unclear>danā</unclear>y· pināṅ· mavuḥ yāṅ· suvā<lb n="C7" break="no"/><supplied reason="lost">k·</supplied><!-- ou yāṅ pu ...? --><gap reason="illegible" quantity="16" unit="character" precision="low"/>driy· yāṅ· pov· ku śrī bhadrava<lb n="C8" break="no"/><gap reason="illegible" quantity="21" unit="character" precision="low"/><unclear>yāṅ</unclear>·  pov· ku
-             <lb n="C9"/><gap reason="illegible" quantity="22" unit="character" precision="low"/> kintu humā
+             <lb n="C2"/><gap reason="illegible" quantity="17" unit="character" precision="low"/><unclear>vaḥ</unclear> kruvāv·<!-- sapi2argr au lieu de kravāv· --> tuy· cikir· huriy·
+             <lb n="C3"/><gap reason="illegible" quantity="16" unit="character" precision="low"/><unclear>cvaḥ</unclear><!-- sapi2argr dvaḥ? pvaḥ? --> puĀk· vandaḥ neḥ nariy· na<lb
+             n="C4" break="no"/><gap reason="illegible" quantity="13" unit="character" precision="low"/><unclear>vik·</unclear><!-- sapi2argr ou cik·? --> nan· tr<unclear>ā</unclear> tuy· krauṅ· nan· nau<!--for the unusual shape of -au, see d9 --> kaṁ
+             <lb n="C5"/><supplied reason="lost">n·</supplied><gap reason="illegible" quantity="14" unit="character" precision="low"/>nan· tr<unclear>ā</unclear> tuy· krauṅ· bhauk· ma<lb
+             n="C6" break="no"/><gap reason="illegible" quantity="14" unit="character" precision="low"/><unclear>po</unclear>v ku <unclear>danā</unclear>y· pināṅ· mavuḥ yāṅ· suvā<lb
+             n="C7" break="no"/><supplied reason="lost">k·</supplied><!-- ou yāṅ pu ...? --><gap reason="illegible" quantity="16" unit="character" precision="low"/>driy· yāṅ· pov· ku śrī bhadrava<lb
+             n="C8" break="no"/><supplied reason="lost" cert="low">rmman</supplied><!-- sapi2argr ou rmmadeva?  --><gap reason="illegible" quantity="19" unit="character" precision="low"/><supplied reason="lost" cert="low">h</supplied>u<supplied reason="lost" cert="low">mā</supplied> <unclear>niy· di yāṅ</unclear>·<!-- humā niy· di: ajout. --> pov· ku
+             <lb n="C9"/><gap reason="illegible" quantity="22" unit="character" precision="low"/><unclear>nāk·</unclear><!-- ajout --> kintu humā
              <lb n="C10"/><gap reason="illegible" quantity="21" unit="character" precision="low"/><unclear>ma</unclear>vuḥ di
-             <lb n="C11"/><gap reason="illegible" quantity="19" unit="character" precision="low"/><unclear>yā</unclear>ṅ· pov ku siniy· ku
-             <lb n="C12"/><gap reason="illegible" quantity="19" unit="character" precision="low"/>y· pasrauṅ· samū
-             <lb n="C13"/><gap reason="illegible" quantity="18" unit="character" precision="low"/><unclear>punya</unclear> niy· <unclear>pa</unclear>liṅai<unclear>t</unclear>· <gap reason="illegible" quantity="2" unit="character"/>
+             <lb n="C11"/><gap reason="illegible" quantity="10" unit="character" precision="low"/> <unclear>h</unclear>u<unclear>mā</unclear> di <unclear>t</unclear>u<seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>au</seg> <gap reason="illegible" quantity="1" unit="character" precision="low"/><unclear>yā</unclear>ṅ· pov ku siniy· ku
+             <lb n="C12"/><gap reason="illegible" quantity="10" unit="character" precision="low"/><unclear>yaṅ rakṣā punya ni</unclear>y· pasrauṅ· samū
+             <lb n="C13"/><gap reason="illegible" quantity="18" unit="character" precision="low"/><unclear>yi</unclear><gap reason="illegible" quantity="1" unit="character" precision="low"/>· <unclear>rakṣā punya</unclear> niy· <unclear>pa</unclear>liṅai<unclear>t</unclear>· <gap reason="illegible" quantity="2" unit="character"/>
              <lb n="C14"/><gap reason="illegible" quantity="21" unit="character"/><supplied reason="lost">Udakā</supplied>
-             <milestone type="pagelike" unit="face" n="d" break="no"/><lb n="d1" break="no"/>nna niy· kā liṅait· Oḥ pathuv·
-             <lb n="d2"/>Urāṅ· rayā Oḥ suvāk· di pu po<lb n="d3" break="no"/>v· tana rayā Urāṅ· nan· tmuv· Avīcīna<lb n="d4" break="no"/>raka samū ṅan· Urāṅ· yaṅ· paliṅait·
+             <milestone type="pagelike" unit="face" n="d" break="no"/><lb
+             n="d1" break="no"/>nna niy· kā liṅait· Oḥ pathuv·
+             <lb n="d2"/>Urāṅ· rayā Oḥ suvāk· di pu po<lb
+             n="d3" break="no"/>v· tana rayā Urāṅ· nan· tmuv· Avīcīna<lb
+             n="d4" break="no"/>raka samū ṅan· Urāṅ· yaṅ· paliṅait·
              <lb n="d5"/>Udakānna niy· maṁn· kintu Urāṅ yāṅ·
-             <lb n="d6"/>pov· ku siniy· <unclear>Oḥ</unclear> jeṅ· <unclear>pa</unclear>tok· nau kaṁ<lb n="d7" break="no"/>n· kanumvrap·<!-- maybe read kanumvrak·, or un any case assume connection with kumvrak in  C.82 and C.94 --> Athavā kaṁn· sev· Anaiḥ
-             <lb n="d8"/>Urāṅ· Athavā kaṁn· ganuhā Urāṅ· Atha<lb n="d9" break="no"/>vā nau tamr̥yāla niv· di kāryya Urāṅ·<!-- the sequence tamr̥yāla niv· is also found in C106 — how to break the words? -->
+             <lb n="d6"/>pov· ku siniy· Oḥ jeṅ· <unclear>pa</unclear>tok· nau kaṁ<lb
+             n="d7" break="no"/>n· kanumvrap·<!-- maybe read kanumvrak·, or un any case assume connection with kumvrak in  C.82 and C.94. sapi2argr On the stone I reap -p. --> Athavā kaṁn· sev· Anaiḥ
+             <lb n="d8"/>Urāṅ· Athavā kaṁn· ganuhā Urāṅ· Atha<lb
+             n="d9" break="no"/>vā nau tamr̥yāla niv· di kāryya Urāṅ·<!-- the sequence tamr̥yāla niv· is also found in C106 — how to break the words? -->
              <lb n="d10"/>Athavā tok· Ana tauṅ·<!-- Annatauṅ in C106--> nau riyo pasa
-             <lb n="d11"/>kāra<!-- read pasabhāra? --> Oḥ jeṅ· sarv<unclear>v</unclear>ā<unclear>ka</unclear>rādāna Oḥ jeṅ·
+             <lb n="d11"/>kāra<!-- read pasabhāra? sapi2argr c'est fort probable --> Oḥ jeṅ· sarv<unclear>v</unclear>ā<unclear>ka</unclear>rādāna Oḥ jeṅ·
              <lb n="d12"/><gap reason="lost" quantity="1" unit="line"/>
            </p>
          </div>

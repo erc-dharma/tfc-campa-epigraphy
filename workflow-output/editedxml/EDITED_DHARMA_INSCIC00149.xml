@@ -86,6 +86,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:sapi" when="2021-08-17" status="draft">reading on stone</change>
          <change who="part:sapi" when="2021-05-07" status="draft">Adding argr translation</change>
          <change who="part:sapi" when="2021-04-20" status="draft">Adding translation and bibliography</change>
          <change who="part:sapi" when="2021-03-30" status="draft">Initial encoding of the inscription</change>
@@ -104,15 +105,15 @@
          </lg>
          <ab>Api ca<g type="ddandaPlain">.</g></ab>
          <lg n="2" met="śārdūlavikrīḍita">
-           <l n="a">yena śrīpatitulyavikramavatā niśśaṅkayā <unclear>ra</unclear>kṣatā<g type="dotMid">.</g></l>
+           <l n="a">yena śrīpatitulyavikramavatā niśśaṅkayā rakṣatā<g type="dotMid">.</g></l>
            <l n="b">campābhūmim akhaṇḍitasvatarasāṁ lakṣmī<lb n="A3" break="no"/>m ivācañcalām·<g type="dotMid">.</g></l>
-           <l n="c">dattā dattamanorathā vahuvidhā sampat prajābhyas sadā</l>
+           <l n="c">dattā dattamanorathā vahuvidhā sampat prajābhyas sadā<unclear><g type="dotMid">.</g></unclear></l>
            <l n="d">śrīmacchrījayasiṁhavarmmanr̥patis sa <lb n="A4"/>khyāyate bhūtale<g type="ddandaPlain">.</g></l>
          </lg>
          <lg n="3" met="śikhariṇī">
            <l n="a">satī nāmnā yā śrītribhuvanamahādevy anupamā<unclear><g type="dotMid">.</g></unclear></l>
            <l n="b">nr̥pastrīṇāṁ tasyāvanipabhavaneṣv agrama<lb n="A5" break="no"/>hiṣī<g type="dotMid">.</g></l>
-           <l n="c">pradhānā sarvvāsāṁ sucaritaratā<unclear>p</unclear>atyasahitā<unclear><g type="dotMid">.</g></unclear></l>
+           <l n="c">pradhānā sarvvāsāṁ sucaritaratā<unclear>p</unclear>atyasahitā<unclear><!-- sapi2argr Je lis °ratāpatyasahitā sur la pierre--><g type="dotMid">.</g></unclear></l>
            <l n="d">vibhāti prāyeṇa svapatibhavane śrīr iva rucā<g type="ddandaPlain">.</g></l>
          </lg>
          <lg n="4" met="gīti">
@@ -134,7 +135,7 @@
               <l n="d">bhavad atyantabhaktitaḥ<g type="ddandaPlain">.</g></l>
             </lg>
             <p>yaś śrī
-              <lb n="A10" break="no"/>jayasiṁhavarmmanr̥pater ativallabho nāyako yam abhimatasaṁpad asti<g type="dotMid">.</g> tadā yaḥ pov· kluñ· piliḥ rāja
+              <lb n="A10" break="no"/>jayasiṁhavarmmanr̥pater<!--sapi2argr sim̃ṁha? The absence of anusvāra candra in the inscription, however, makes me think of an accidental mark to be ignored.--> ativallabho nāyako yam abhimatasaṁpad asti<g type="dotMid">.</g> tadā yaḥ pov· kluñ· piliḥ rāja
               <lb n="A11" break="no"/>dvāranāmābhūt·<g type="dotMid">.</g> kintu<g type="dotMid">.</g>
             </p>
             <lg n="8" met="anuṣṭubh">
@@ -146,19 +147,19 @@
             <p>Ato vibhavasaṁpadam adhigatavān iti<g type="ddandaPlain">.</g></p>
             <lg n="9" met="śārdūlavikrīḍita">
               <l n="a">paścāc chrījayaśaktivarmmanr̥pater iddhājñayā rakṣataś</l>
-              <l n="b">śrīmacchrī<lb n="A13" break="no"/>jayasiṁhavarmmavasudhāpālātmajasya kṣitim·<unclear><g type="dotMid">.</g></unclear></l>
+              <l n="b">śrīmacchrī<lb n="A13" break="no"/>jayasiṁhavarmmavasudhāpālātmajasya kṣitim·<g type="dotMid">.</g></l>
               <l n="c">rājye śrīmati sarvvasaṁpadudayair āpūrite sarvva<unclear>to</unclear></l>
-              <l n="d"><unclear>ya</unclear><milestone type="pagelike" unit="face" n="B" break="no"/><lb n="B1"/><seg met="++--+-+---+"><gap reason="illegible" quantity="11" unit="character"/></seg> yadvat prabhūto bhavat·<g type="ddandaPlain">.</g></l>
+              <l n="d">ya <milestone type="pagelike" unit="face" n="B" break="no"/><lb n="B1"/><seg met="++--+-+---+"><gap reason="illegible" quantity="11" unit="character"/></seg> yadvat prabhūto bhavat·<g type="ddandaPlain">.</g></l>
             </lg>
             <ab>Api ca<g type="dotMid">.</g></ab>
             <lg n="10" met="sragdharā">
               <l n="a">śrīmacchrībhadravarmmāvanibhuja iha dikpra <seg met="-+"><gap reason="illegible" quantity="2" unit="character"/></seg> <unclear>st</unclear>ā <lb n="B2"/><seg met="-++"><gap reason="illegible" quantity="3" unit="character"/></seg></l>
               <l n="b"><unclear>pratyaṅgānye</unclear><seg met="-++--"><gap reason="illegible" quantity="5" unit="character"/></seg> kalimaṇa <seg met="++-++-++"><gap reason="illegible" quantity="8" unit="character"/></seg></l>
-              <l n="c"><seg met="+"><gap reason="illegible" quantity="1" unit="character"/></seg> hr̥tyājāv arīnāṁ <seg met="+------++-"><gap reason="illegible" quantity="10" unit="character"/></seg> <unclear>vīry</unclear>ya<lb n="B3" break="no"/>prakāraṁ</l>
+              <l n="c"><seg met="+"><gap reason="illegible" quantity="1" unit="character"/></seg> hr̥tyājāv arīnāṁ<!--sapi2argr je lis arīṇā(ṁ śrī)--> <seg met="+------++-"><gap reason="illegible" quantity="10" unit="character"/></seg> <unclear>v</unclear>īryya<lb n="B3" break="no"/>prakāraṁ</l>
               <l n="d">dikṣv ākarṇya dviṣas te pulakitabapuṣo tijvaraṁ yanti sarvve<g type="ddandaPlain">.</g></l>
             </lg>
               <p><unclear>tatra tas</unclear>ya pov· kluñ· sudaṇḍa<supplied reason="lost">vā</supplied><unclear>sa</unclear>
-              <lb n="B4" break="no"/>nāmadheyas samabhūt·<g type="dotMid">.</g> tadāpi<g type="dotMid">.</g></p>
+              <lb n="B4" break="no"/>nāmadheyas<!-- sapi2argr Un signe ressemblant à un anusvāra semble gravé au dessus nā, ou bien un trait vertical sur la gauche du character qui remonterait jusqu'à surmonter le caractère.--> samabhūt·<g type="dotMid">.</g> tadāpi<g type="dotMid">.</g></p>
             <lg n="11" met="anuṣṭubh">
               <l n="a">yavadvīpapuraṁ bhūyaḥ</l>
               <l n="b">kṣitipānujñayānayā <unclear><g type="dotMid">.</g></unclear></l>
@@ -170,8 +171,8 @@
             <lg n="12" met="śārdūlavikrīḍita">
               <l n="a" enjamb="yes">yasyerām avataḥ punaḥ sthirata(mā)ṁ śrībhadravarmmāhvaya</l>
               <l n="b">kṣoṇīpālasuta<lb n="B7" break="no"/>sya durjjayajayaśrīvistarasyākhilām·<g type="dotMid">.</g></l>
-              <l n="c">kīrttir vvibhramatīva dikṣu vita<unclear>tā</unclear> nirggantum asmāt paraṁ<g type="dotMid">.</g></l>
-              <l n="d">pū<unclear>ṣ</unclear>atpradhanāya <lb n="B8"/>sarvvadig iyaṁ hāsaṅkarety avravīt·<g type="ddandaPlain">.</g></l>
+              <l n="c">kīrttir vvibhramatīva<!-- sapi2argr sur la pierre, j'aurais plutôt tendance à lire un 'ca' à la place du 'va', comme Huber, mais le caractère est endommagé.--> dikṣu vita<unclear>tā</unclear> nirggantum asmāt paraṁ<g type="dotMid">.</g></l>
+              <l n="d">pū<unclear>ṣ</unclear>atpradhanāya<!-- sapi2argr je lis pūṁ(ṣ)at° ou pūṁ(y)at°.--> <lb n="B8"/>sarvvadig iyaṁ hāsaṅkarety avravīt·<g type="ddandaPlain">.</g></l>
             </lg>
             <lg n="13" met="indravajrā">
               <l n="a">śrī Indravarmmāṇam adhīśvaraṁ taṁ</l>
@@ -184,7 +185,7 @@
             </p>
             <lg n="14" met="upajāti">
               <l n="a">gu<unclear>ṇāṅga</unclear>karmmopacitātmabhāvaḥ</l>
-              <l n="b">kṣitīśanī<lb n="B11" break="no"/>tipratibaddhabuddhiḥ<unclear><g type="dotMid">.</g></unclear></l>
+              <l n="b">kṣitīśanī<lb n="B11" break="no"/>tipratibaddhabuddhiḥ<g type="dotMid">.</g></l>
               <l n="c">Iṣṭesv aniṣṭeṣu narādhipasya</l>
               <l n="d">kiñcit pra<unclear>netuṁ</unclear><!-- note rtf : Or pramātuṁ?--> khalu yaḥ samartthaḥ<g type="ddandaPlain">.</g></l>
             </lg>
@@ -197,7 +198,7 @@
               <l n="d"><seg met="-+---+-+---+-++-+"><gap reason="illegible" quantity="17" unit="character"/></seg></l>
             </lg>
             <p><milestone type="pagelike" unit="face" n="C"/>
-            <lb n="C1"/>yenāyam agrajo <gap reason="illegible" quantity="1" unit="character"/>i<gap reason="illegible" quantity="2" unit="character"/>ām evam akathayat·<g type="dotMid">.</g> kumuvel· bhūmikṣetrāṇi rājaprasādād adhigatā<lb n="C2" break="no"/>ny abhūvan·<g type="dotMid">.</g> cikirgrām<unclear>o cā</unclear><!--sapi2argr Ici, à la place de 'me cā' comme c'était proposé sur le rtf, je lis plutôt mo cā, comme Huber apparemment. Note du rtf : °grām(e cā)tma°: °grāmo vātma° Huber. The stone is heavily weathered here and would allow both readings, but the reading we prefer agrees better with what follows (l. 10).-->tmajananīnivāsabhūmi<gap reason="illegible" quantity="2" unit="character"/> sthānayoḥ devaḥ pratiṣṭhāpayitavya I<lb n="C3" break="no"/>ti<g type="dotMid">.</g> kutaḥ<g type="ddandaPlain">.</g>
+            <lb n="C1"/>yenāyam agrajo <gap reason="illegible" quantity="1" unit="character"/>i<gap reason="illegible" quantity="2" unit="character"/>ām evam akathayat·<g type="dotMid">.</g> kumuvel· bhūmikṣetrāṇi rājaprasādād adhigatā<lb n="C2" break="no"/>ny abhūvan·<g type="dotMid">.</g> cikirgrām<unclear>o cā</unclear><!--sapi2argr Ici, à la place de 'me cā' comme c'était proposé sur le rtf, je lis plutôt mo cā, comme Huber apparemment. Note du rtf : °grām(e cā)tma°: °grāmo vātma° Huber. The stone is heavily weathered here and would allow both readings, but the reading we prefer agrees better with what follows (l. 10).-->tmajananīnivāsabhūmi<!-- sapi2argr: sur la pierre, je distingue une consonne souscrite en-dessous du "ja", telle que "jna". Pour des raisons sémantiques, peut-être vaut-il mieux considérer cela comme une erreur du graveur? --><gap reason="illegible" quantity="2" unit="character"/> sthānayoḥ devaḥ pratiṣṭhāpayitavya I<lb n="C3" break="no"/>ti<g type="dotMid">.</g> kutaḥ<g type="ddandaPlain">.</g>
           </p>
           <lg n="16" met="vaṁśastha">
             <l n="a">vibhūtir eṣā vipulāpy apārtthikā<g type="dotMid">.</g></l>
@@ -213,7 +214,7 @@
           </lg>
           <p>sa Eva paramakuśalapuṇyasaṁbhārabhārāva
             <lb n="C6" break="no"/>rjjitahr̥dayo mvaradahanamaṅgalopagate śakarāje mithunādityaketvindutanaye mr̥gendra
-            <lb n="C7" break="no"/>lagne mr̥garājākhaṇḍatuṣārāṁśau kanyābhūtanaye makararāhau meṣasuragururavije magharkṣe
+            <lb n="C7" break="no"/>lagne mr̥garājākhaṇḍatuṣārāṁśau kanyābhūtanaye makararāhau<!-- sapi2argr sur la pierre, je lis matara° --> meṣasuragururavije magharkṣe
             <lb n="C8"/>somavāre j<choice><sic>e</sic><corr>ye</corr></choice>ṣṭhasitapañcāhe devaliṅgeśvaram atiṣṭhipat svāgrajena saha kīrttaya
             <lb n="C9"/>Iti<g type="ddandaPlain">.</g>
           </p>
@@ -231,9 +232,9 @@
           </lg>
           <p xml:lang="ocm-Latn"><milestone type="pagelike" unit="face" n="D"/>
             <lb n="D1"/>niy· doṁ humā yāṁṅ·<!--sapi2argr Ici au lieu de yān, je lis yāṁṅ. Ne pas oublier de rectifier l'apparatus si non.--> pov· ku devaliṅgeśvara di kumuvvel·<g type="dotMid">.</g> humā bhauk· puĀk·<!--sapi2argr Voir note dans apparatus à ce sujet.--> tluv· pluḥ tijuḥ galauk·<g type="dotMid">.</g> A<lb n="D2" break="no"/>siy· ñū sa pluḥ jāk·<g type="dotMid">.</g> nariy· sāṅ· Urāṅ· pagār· pināṅ· tūy· Andap· sdāṅ· nau pataṁl· dandau viśeṣa<g type="circleLarge">.</g><!--sapi2argr Ou un autre caractère non lisible ?--> sumrāṅ·
-            <lb n="D3"/>dakṣiṇa naṁ pluḥ galauk<g type="dotMid">.</g> Asiy· ñū tluv· pluḥ jāk·<g type="dotMid">.</g> nariy· sim· pataṁl· dvā sumrāṅ· dandau viśeṣa pataṁl· hu<lb n="D4" break="no"/>mā krain· ṅan· humā talavvār· tluv· rtuḥ sā pluḥ galauk·<g type="dandaPlain">.</g> Asiy· ñū dalapan· pluḥ jāk·<g type="dotMid">.</g> niy· humā daniḥ trā
+            <lb n="D3"/>dakṣiṇa naṁ pluḥ galauk<g type="dotMid">.</g> Asiy· ñū tluv· pluḥ jāk·<g type="dotMid">.</g> nariy· sim· pataṁl· dvā sumrāṅ· dandau viśeṣa pataṁl· hu<lb n="D4" break="no"/>mā krain· ṅan· humā talavvār· tluv· rtuḥ sā pluḥ galauk·<g type="dotMid">.</g> Asiy· ñū dalapan· pluḥ jāk·<g type="dotMid">.</g> niy· humā daniḥ trā
             <lb n="D5"/>nariy· sim· pataṁl· sāṅ· pov· Acov· vuṅā<g type="dotMid">.</g> tijuḥ pluḥ tluv· galauk·<g type="dotMid">.</g> nariy· dandau viśeṣa pataṁl· rumaḥ yāṅ· sā
-            <lb n="D6"/>rtuḥ naṁ pluḥ dvā galauk·<g type="dotMid">.</g> humā vrajaṁṅ· Aviḥ lagaiḥ di yāṅ·<g type="dotMid">.</g> nariy· likuk· dlai rumaḥ yāṅ· pataṁl· dlai vandāṅ· ru<lb n="D7" break="no"/>maṅ· dlai vandāṅ· pataṁl· dlai pa<unclear>dan</unclear>·<!-- note du rtf : padan·: it seems difficult to read both panan· and padaṅ· (= pa-daṅ). I assume Old Cam padan, if read correctly, is equivalent to Modern Cam panan.--> nariy· Ajauñ· dlai nan· nau bhauk· huriy· tamā Aviḥ nau<g type="dotMid">.</g> nariy· dlai Ajau<lb n="D8" break="no"/>ñ· curaiḥ pataṁl· Ajauñ· dlai dandau rivuv·<g type="dotMid">.</g> dlai pulāv· dandau rivuv·<g type="dotMid">.</g> tum· jalān· virān· niy· dandau trā<g type="dotMid">.</g> dandau
+            <lb n="D6"/>rtuḥ naṁ pluḥ dvā galauk·<g type="dotMid">.</g> humā vrajaṁṅ· Aviḥ lagaiḥ di yāṅ·<g type="dotMid">.</g> nariy· likuk·<!-- sapi2argr ou likut? --> dlai rumaḥ yāṅ· pataṁl· dlai vandāṅ· ru<lb n="D7" break="no"/>maṅ· dlai vandāṅ· pataṁl· dlai pa<unclear>dan</unclear>·<!-- note du rtf : padan·: it seems difficult to read both panan· and padaṅ· (= pa-daṅ). I assume Old Cam padan, if read correctly, is equivalent to Modern Cam panan.--> nariy· Ajauñ· dlai nan· nau bhauk· huriy· tamā Aviḥ nau<g type="dotMid">.</g> nariy· dlai Ajau<lb n="D8" break="no"/>ñ· curaiḥ pataṁl· Ajauñ· dlai dandau rivuv·<g type="dotMid">.</g> dlai pulāv· dandau rivuv·<g type="dotMid">.</g> tum· jalān· virān· niy· dandau trā<g type="dotMid">.</g> dandau
             <lb n="D9"/>rivuv·<g type="dotMid">.</g> dandau rusā<g type="dotMid">.</g> dandau tlan·<g type="dotMid">.</g> dandau Ajauñ· curaiḥ<g type="dotMid">.</g> dandau krain·<g type="dotMid">.</g> dandau Akyak·<g type="dotMid">.</g> dandau kmaṁn·<g type="dotMid">.</g> dandau kuñit·<g type="dotMid">.</g>
             <lb n="D10"/>dandau viśeṣa<g type="dotMid">.</g> tum· nariy· danau<!-- note du rtf : 10. danau: emend dandau?--> rivuv· pataṁl· stap· Uttara hajai yāṅ· pov· ku trivikramapura<g type="dotMid">.</g> rumaṅ· da<lb n="D11" break="no"/>kṣiṇa hajai yāṅ· pov· ku trivikramapura pataṁl· stap· har· tanipār· Urāṅ· cvaḥ nan· ṅan· tum· nan· A<lb n="D12" break="no"/>vista lagaiḥ di yāṅ· pov· ku siniy·<g type="dotMid">.</g><g type="floretComplex"/>
           </p>

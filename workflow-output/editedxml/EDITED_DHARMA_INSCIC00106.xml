@@ -67,7 +67,7 @@
       </fileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
          <schemaRef type="guide"
                     key="EGDv01"
@@ -87,6 +87,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:sapi" when="2021-08-17" status="draft">reading on stone</change>
          <change who="part:sapi" when="2020-11-23">few corrections</change>
          <change who="part:sapi" when="2020-11-09">started initial encoding of the inscription</change>
       </revisionDesc>
@@ -121,10 +122,8 @@
            <lg n="4" met="puṣpitāgrā">
              <l n="a">kr̥ta-ma<lb n="A6" break="no"/>tir adhiko narendra-bhā<unclear>g</unclear>ye</l>
              <l n="b"><unclear>sa</unclear>-mahimā su-guṇa-kriyā-vidagdhaḥ</l>
-             <l n="c">mukha-vijita-<choice><sic>bhar</sic><corr>rav</corr></choice>ir<!-- argr2sapi: please check again, almost unimagimable that ravir would be miswritten as bharir, while v/bh and r/v are similar in Cham script --> bibhartti lakṣmīṁ</l>
-             <l n="d">niśi sakalān nabhavird<!--sapi2argr Devrais-je corriger en nabhavid
-                please check the reading — if you are sure it is right, then yes, it must be corrected; but Finot had nabhavid
-               ?--> divā mukhena<g type="ddandaHooked">.</g></l>
+             <l n="c">mukha-vijita-<choice><sic>bhar</sic><corr>rav</corr></choice>ir<!-- argr2sapi: please check again, almost unimagimable that ravir would be miswritten as bharir, while v/bh and r/v are similar in Cham script --><!-- sapi2argr My correction comes from a comment on the rtf; °bharir: °varir Finot. Corr. °ravir (as already proposed by Finot, although based on the wrong reading °varir). After cheking the stone, I also read °varir on the stone. --> bibhartti lakṣmīṁ</l>
+             <l n="d">niśi sakalān nabhavird divā mukhena<g type="ddandaHooked">.</g></l>
            </lg>
            <lg n="5" met="śārdūlavikrīḍita"><lb n="A7"/>
            <l n="a">lebhe śrī-jaya-Indravarmma-nr̥pater nnāmāni yas trīṇi san</l>
@@ -144,7 +143,7 @@
          <lb n="A13"/>pāt· driy·<g type="dotMid"/> siy· vr̥liy· Urāṅ· yaṁṅ· marakṣā sarvvadravya yāṅ· pu pov· ku śrīrudramaddhyeśvara tra
          <lb n="A14"/>yāṅ· pov· ku śrīśivaliṅgeśvara tra<g type="dotMid"/> hulun· lamvov· kravāv· humā māḥ pirak· pasrauṅ· ya nan· Avi
          <lb n="A15"/>sta karaṇa panūjā yāṅ· pu pov· ku tra Udakāna tra<g type="dotMid"/> Ur<choice><sic>ā</sic><corr>āṅ·</corr></choice> nan nau svargga maddan· Inā Amā Aviskāla<g type="floretComplex"/>
-         <milestone type="pagelike" unit="face" n="B"/><lb n="B1"/>ya siy· vr̥liy· Urāṅ· nan trā ya maAmrait· ya mapaka ro driy· top· dravya
+         <milestone type="pagelike" unit="face" n="B"/><lb n="B1"/>ya siy· vr̥liy· Urāṅ· nan trā ya maAmrait·<!-- sapi2argr sur la pierre, la voyelle -ai peut aussi être lue -e.  --> ya mapaka ro driy· top· dravya
          <lb n="B2"/>nan· Avista Urāṅ· nan· lac· di mahāraurava Anan naraka<g type="dotMid"/>ya doṁ javālamvījut· Asov· vañāk· ñū
          <lb n="B3"/>ṇḍauy· Inā Urāṅ· nan·<g type="ddandaHooked">.</g> Ājñā yāṅ· pu pov· ku śrījayasiṅhavarmmadeva<g type="dotMid"/> vriy· yāṅ· pov· ku si<lb n="B4" break="no"/>niy· mataṇḍāḥ Avis· pat· • Oḥ jeṅ· si kluñ· Oḥ jeṅ· si top· Anna tauṅ· tamr̥yāla niv· di kāra Urāṅ·
          <lb n="B5"/>Añjām· ya Oḥ jeñ· vela Aṅgap· samū nan· lagaiḥ di pa<subst><del rend="corrected">nu</del><add place="overstrike">na</add></subst>kai<!--sapi2argr Comment encoder cette correction de nu en na ?--> tra di sanupaḥ deḥ tra<g type="dotMid"/><g type="floretComplex"/><g type="ddandaHooked">.</g>
@@ -171,13 +170,13 @@
           <l n="c">tābhyāṁ nr̥paś śrī-jayasiṅhavarmmā</l>
           <l n="d">prādāt sa muktiṁ kr̥payā samastām·<g type="ddandaHooked">.</g></l>
         </lg>
-        <p xml:lang="ocm-Latn">humā nvaus·
+        <p xml:lang="ocm-Latn">humā nvaus·<!-- sapi2argr sur la pierre, ça ressemble à cvaus·. -->
           <lb n="B11"/>timuḥ Ājñā yāṅ· pu pov· ku śrījayasiṅhavarmmadeva<g type="dotMid"/>ra vriy· vuḥ di yāṅ· pov· ku siniy· rumaṅ·
           <lb n="B12"/>humā ṅauk· rayā taṁl· vavaḥ krauṅ· nayauna riy· vavaḥ krauṅ· taṁl· smrāṅ· dakṣina yāṅ·<g type="dotMid"/><g type="ddandaHooked">.</g>
           <lb n="B13"/>niy· mūla humā<g type="dotMid">.</g> humā <unclear>rayā</unclear> 1<g type="danda">.</g> Amvil· 2<g type="danda">.</g> ratvauk· 6<g type="danda">.</g> dandau kumvuṅ·<g type="danda">.</g> humā kumvuṅ· 1<g type="danda">.</g> ṅauk· sāṅ· 1<g type="danda">.</g> humā mvaṅ· 2<g type="danda">.</g>
           <lb n="B14"/>ṅauk· sāṅ· yvan· 2<g type="danda">.</g> pitau cumlaṅ· 1<g type="danda">.</g> Ajauñ· 1<g type="danda">.</g> humā cvaḥ 5<g type="danda">.</g> laṅā 1<g type="danda">.</g> humā camvāṅ· 3<g type="danda">.</g> sagor· 1<g type="danda">.</g>
           <lb n="B15"/>vvac· 1<g type="danda">.</g> taliṅi 1<g type="danda">.</g> humā Ikū Asov· 1<g type="danda">.</g> humā proṅ· 1<g type="danda">.</g> ndoṅ· 1<g type="danda">.</g> knām· 2<g type="danda">.</g> kandep· 1<g type="danda">.</g> srumai 1<g type="danda">.</g>
-          <lb n="B16"/>pagārasramvat·<g type="danda">.</g> humā kahas· 1<g type="danda">.</g> humā mvaṅ· 5<g type="danda">.</g> nagaren· 9<g type="danda">.</g> humā ticain· 1<g type="danda">.</g> vvil· 1<g type="danda">.</g> ralāṅ· 3<g type="danda">.</g> laṅā 1<g type="danda">.</g>
+          <lb n="B16"/>pagārasramvat·<!-- sapi2argr On pourrait aussi lire sagārasramvat·. --><g type="danda">.</g> humā kahas· 1<g type="danda">.</g> humā mvaṅ· 5<g type="danda">.</g> nagaren· 9<g type="danda">.</g> humā ticain· 1<g type="danda">.</g> vvil· 1<g type="danda">.</g> ralāṅ· 3<g type="danda">.</g> laṅā 1<g type="danda">.</g>
           <lb n="B17"/>kara mās· 3<g type="danda">.</g> ṅauk· rayā 1<g type="danda">.</g>vo 2<g type="danda">.</g> humā tupen· 1<g type="danda">.</g>likūk· 1<g type="danda">.</g> humā En· 3<g type="danda">.</g>harā 1<g type="danda">.</g> kara kaṁp· 3<g type="danda">.</g>
           <lb n="B18"/>ratvauk· 3<g type="danda">.</g> Alauṅ· 1<g type="danda">.</g> ṅauk· sāṅ· 1<g type="danda">.</g> humā vvār· 1<g type="danda">.</g> humā Agrās· 1<g type="danda">.</g> humā dandrāḥ 1<g type="danda">.</g> yok· nan· 1<g type="danda">.</g>
           <milestone type="pagelike" unit="face" n="C"/><lb n="C1"/><g type="ddandaHooked">.</g><g type="ddandaHooked">.</g> Urāṅ· ya rakṣā puṇya niy· <unclear>yā</unclear> jeṅ·

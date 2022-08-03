@@ -86,10 +86,11 @@
          <div type="edition" xml:lang="ocm-Latn">
            <p><milestone type="pagelike" unit="face" n="A"/><!--sapi2argr Inversion des faces entre le rtf et les estampages n0262. -->
            <lb n="A1"/><g type="ddandaPlain"/><g type="ddandaPlain"/> <num value="897">897</num> niy· snaḥ Urāṅ· ya grāc· humā di velā nan· pu lyaṅ· śrī jayasiṅhavar<choice><sic>ṇ</sic><corr>m</corr></choice>ma ṅan· pu lki kumāramātya kluñ·
-           <lb n="A2"/>nagar· ṅan· pom̃ <unclear>ku</unclear> <unclear>klu</unclear>ñ· kunurun· ṅan· satyādhipatiḥ ṅan· pom̃ saṅgr<unclear>ā</unclear>macar· ṅan· sabhādharmmādhikār· ṅan· pom̃ jayavikraṁ ṅan· pom̃ yudhādhikā<lb
+           <lb n="A2"/>nagar· ṅan· pom̃ ku kluñ· kunurun· ṅan· satyām̐ dhipatiḥ<!-- sapi2argr à la place de satyādhipatiḥ --> ṅan· pom̃ saṅgr<unclear>ā</unclear>macar· ṅan· sabhādharmmādhikār· ṅan· pom̃ jayavikraṁ ṅan· pom̃ yudhādhikā<lb
            n="A3" break="no"/>r· ṅan· pom̃ ku nyāyādhipatiḥ ṅan· raṁgyāv·<!--
            sapi2argr rtf : gyov·/ugyāv·/ragyāv·/raṁgyāv·
            argr: could we have here the same toponym as in vyauv-kṣetram in C. 138?
+           sapi2 argr: on the stone I read ragyāv·
          -->
            hrey·<!--sapi2argr rtf : ṇrey·/hrey·/sroy·--> Atāl· ṅan· Atuk· Anāk· pom̃ kluñ· jrāy· ṅan· pvaḥ dat·<g type="ddandaPlain">.</g> niy· humā
            <lb n="A4"/>di luvu vihār· <unclear>g</unclear>auy· ñū tanaṅgoḥ tupen· pandān· nau tam̃l· ṅauk· vihār· rumaṅ· ṅauk· vihār· nau tūy· jalān· rayā la panuc· jalān· ra<lb
@@ -97,54 +98,54 @@
            <lb n="A6"/><unclear>nan</unclear>· Upa<supplied reason="omitted">k·</supplied> humā vukaṁn· kachut<supplied reason="omitted">r</supplied>a trā ganan· humā nan· humā yām̃ po ku śrī hrinaṇḍaliṅgeśvara man· humā ya kā jem̃ <unclear>A</unclear>natam· <num value="393">3<lb
            n="A7" break="no"/>93</num> galauk· kā pajāk·
            Asiy· ñū <num value="151">sā rutuḥ limā pluḥ sā</num> jāk tandoṅ·
-           daniḥ sauṅ· nan· ri<unclear>y</unclear>· <num value="390">390</num> galauk·
+           daniḥ sauṅ· nan· riy· <num value="390">390</num> galauk·
            Asiy· ñū <num value="186">sā rutuḥ
            <lb n="A8"/>86</num> <abbr>k</abbr> tandoṅ·<g type="ddandaPlain">.</g><g type="ddandaPlain">.</g>
            niy· humā vvair· di tanaḥ kandaic· gauy· ñū rumaṅ· tanaṅgoḥ tupen· tāc· maAndap· pūrvva nau sā Ār· ṅan· humā yām̃
-           <lb n="A9"/>vardeveśvara jāṅ· tam̃l· kaj<unclear>e</unclear>c· lac· kā jalān· rayā dar· nau maAndap· dak<unclear>s</unclear>iṇa tam̃l· sā Ār· ṅan· humā śihvan· mavera tūy· nan·
-           <lb n="A10"/>maAndap· paścima <unclear>rai</unclear> sīr· tam̃l· tupen· tāc· mulaṅ· di dalaṁ manāṅ· Upak· humā vukaṁn· kachu<unclear>ta</unclear> trā humā nan· humā yām̃
+           <lb n="A9"/>vardeveśvara jāṅ· tam̃l· kaj<unclear>e</unclear>c· lac· knā<!-- sapi2argr instead of kā --> jalān· rayā dar· nau maAndap· dak<unclear>s</unclear>iṇa tam̃l· sā Ār· ṅan· humā śihvan· mavera tūy· nan·
+           <lb n="A10"/>maAndap· paścima rai sīr· tam̃l· tupen· tāc· mulaṅ· di dalaṁ manāṅ· Upak· humā vukaṁn· kachuta trā humā nan· humā yām̃
            <lb n="A11"/>po ku śrī hrinaṇḍaliṅgeśvara man· humā Anataṁm· <num value="69">69</num> galauk· kā pajāk· Asiy· ñū <num value="25">25</num> <abbr>k·</abbr> <num value="9">9</num> <abbr>v·</abbr> tandoṅ· daniḥ sauṅ· nan· <num value="18">1<lb
            n="A12" break="no"/>8</num> galauk·<!-- apperent anusvāra on ga is ignored as accidental scratch--> Asiy· ñū <num value="25">25</num> <abbr>k·</abbr> tandoṅ·<g type="dandaPlain"/><g type="circleTarget"/><g type="dandaPlain"/></p>
            <p>di śakarāja <num value="899">899</num> huriy· <num value="11">11</num> vaṅun· vulān· <num value="9">9</num> śukravār· nan· kāla po ku klu<lb
-           n="A13" break="no"/>ñ· paniliḥ yaṁṅ· vā surak· rūpa śrī<unclear>pā</unclear>da parameśvara pu pov· kuv· tam̃l· Ājñā lyam̃ po ku Ulīk· mahārāja pāndar· grāc· hu<lb
-           n="A14" break="no"/>mā di nagar· Ulīk· humā <choice><unclear>ca</unclear><unclear>va</unclear></choice>rāv· ṅan· humā paliy· A<unclear>nai</unclear>ḥ<!-- sapi2argr ou Araneḥ/Arenaḥ ? --> ṅan· humā vatek· ṅan· humā dauk· śirā ṅan· humā janam̃ḥ Avista hu<lb
+           n="A13" break="no"/>ñ· paniliḥ yaṁṅ· vā surak· rūpa śrīpāda parameśvara pu pov· kuv· tam̃l· Ājñā lyam̃ po ku Ulīk· mahārāja pāndar· grāc· hu<lb
+           n="A14" break="no"/>mā di nagar· Ulīk· humā varāv· ṅan· humā paliy· Anaiḥ<!-- sapi2argr ou Araneḥ/Arenaḥ ? --> ṅan· humā vatek· ṅan· humā dauk· śirā ṅan· humā janam̃ḥ Avista hu<lb
            n="A15" break="no"/>mā dinan· śrīpāda parameśvara pu pov· kuv· yaṁṅ· karunāprasāda vriy· kaṁn· Ājñā lyam̃ po ku śrīmahāsāmanta di Atāla vuḥ di yām̃
-           <lb n="A16"/>Ājñā lyam̃ po ku <unclear>ba</unclear>līk·<!-- sapi2argr ou Ulīk ? --> mahārāja kā grāc· humā dinan· kā jem̃ humā yām̃ po ku śrī hrinaṇḍaliṅgeśvara <unclear>d</unclear>iga śri yām̃ campa<g type="dandaPlain">.</g>
-           <lb n="A17"/>niy· snaḥ Urāṅ· rayā ṅan· Urāṅ A<unclear>nai</unclear>ḥ yaṁṅ· nau di vela gandrāc· humā dinan· di vela nan· Ājñā lyam̃ po ku Ulīk· mahārāja
-           <lb n="A18"/>A<unclear>g</unclear>yam̃ yaṁṅ· kluñ· nagar· di vela nan· po ku kluñ· paniliḥ di vūy· vv<unclear>ai</unclear>r· makrauy· di vela nan· pvaḥ canhi yām̃ yām̃ po ku śrī<lb
-           n="A19" break="no"/>hrinaṇḍaliṅgeśvara di dandrāḥ campa yaṁṅ· grāc· humā di vela nan· sabhā po ku dharmmā<unclear>dh</unclear>ikār· Avoṁv· po ku śoddhipa<choice><unclear>vi</unclear><unclear>tiḥ</unclear></choice>kra<lb
+           <lb n="A16"/>Ājñā lyam̃ po ku Ulīk·<!-- sapi2argr ou balīk ? --> mahārāja kā grāc· humā dinan· kā jem̃ humā yām̃ po ku śrī hrinaṇḍaliṅgeśvara diga śri<!-- mri? --> yām̃ campa<g type="dandaPlain">.</g>
+           <lb n="A17"/>niy· snaḥ Urāṅ· rayā ṅan· Urāṅ Anaiḥ yaṁṅ· nau di vela gandrāc· humā dinan· di vela nan· Ājñā lyam̃ po ku Ulīk· mahārāja
+           <lb n="A18"/>Ajyam̃<!-- sapi2argr instead of A(g)yam̃ --> yaṁṅ· kluñ· nagar· di vela nan· po ku kluñ· paniliḥ di vūy· vvair· makrauy· di vela nan· pvaḥ canhi yām̃ yām̃ po ku śrī<lb
+           n="A19" break="no"/>hrinaṇḍaliṅgeśvara di dandrāḥ campa yaṁṅ· grāc· humā di vela nan· sabhā po ku dharmmādikār·<!-- sapi2argr instead of °(dh)ikār· --> Avauv·<!-- sapi2argr instead of Avoṁv· --> po ku śoddhipavikra<!-- sapi2argr °pavi° instead of °pa(vi/dhi)° --><lb
            n="A20" break="no"/>māddhipatiḥ paliy· Anaiḥ po ku nyāyyādhipatigrārmmā campa drām̃ pov· mahāk· Ulīk· slāy· hi<unclear>ran</unclear>· di paliy· Anaiḥ drām̃
            <lb n="A21"/>pov· kār· gaṁp· nan· manūhar· di sāṅgapūra campa yapam̃ṅ· śam̃ka nan· candrakumār· mandā manicīk· mahāk· jiṅyar· namvīya kā Avi<lb
-           n="A22" break="no"/>sta Urāṅ· nan· madā nau di vela gandrāc· humā nan· rīy·<g type="ddandaPlain">.</g> humā di palim̃ A<unclear>nai</unclear>ḥ gauy· humā nan· rumaṅ· tanaṅgoḥ tuṁ likūk·
-           <lb n="A23"/>sāṅ· vinai kavveg· ṅan· dauk· <choice><unclear>lā</unclear><unclear>sā</unclear></choice>m̃ nan· nau sā Ār· ṅan· humā pu<choice><unclear>ṇa</unclear><unclear>I</unclear></choice>cov· pr<unclear>ā</unclear>dauṅ· <unclear>maran</unclear>dāp· pūrvva nau tam̃l· h<unclear>u</unclear>mmā pāndā<lb
-           n="A24" break="no"/>r· rumaṅ· pu·<!-- sapi2argr Ici je lis difficilement pu, et me demande pourquoi il serait surmonté d'un virāma ? -->nauṁ tam̃l· klauv· Am̃tac· dar· maAndap· daksiṇa<!--sapi2argr en A9, on lisait daksina. Corriger ?--> tam̃l· vavaḥ dvāṅ· rumaṅ· nan· nau tam̃l· sā Ār· ṅan· humā yām̃
-           <lb n="A25"/>po ku mandarakānteśvara nau maAndap· paścima tam̃l· dandauv· tunuṅ· <unclear>rai</unclear> sīr· tam̃l· tuṁlikūk· sāṅ· mulaṅ· di dalaṁ manāṅ·</p>
+           n="A22" break="no"/>sta Urāṅ· nan· madā nau di vela gandrāc· humā nan· rīy·<g type="ddandaPlain">.</g> humā di palim̃ Anaiḥ gauy· humā nan· rumaṅ· tanaṅgoḥ tuṁ likūk·
+           <lb n="A23"/>sāṅ· vinai kavveg·<!-- sapi2argr or karavvaś? kavveś? --> ṅan· dauk· lām̃ nan· nau sā Ār· ṅan· humā pu<choice><unclear>ṇa</unclear><unclear>I</unclear></choice>cov· pr<unclear>ā</unclear>dauṅ· maAndāp·<!-- sapi2argr instead of (maran)dāp --> pūrvva nau tam̃l· humā<!-- sapi2argr instead of h(u)mmā --> pāndā<lb
+           n="A24" break="no"/>r· rumaṅ· nan·<!-- sapi2argr instead of pu --> nau<!-- sapi2argr instead of nauṁ --> tam̃l· klauv· Atac·<!-- sapi2argr instead of Am̃tac· --> dar· maAndap· daksiṇa<!--sapi2argr en A9, on lisait daksina. Corriger ?--> tam̃l· vavaḥ dvāṅ· rumaṅ· nan· nau tam̃l· sā Ār· ṅan· humā yām̃
+           <lb n="A25"/>po ku mandarakānteśvara nau maAndap· paścima tam̃l· dandauv· tunuṅ· rai sīr· tam̃l· tuṁlikūk· sāṅ· mulaṅ· di dalaṁ manāṅ·</p>
            <p><milestone type="pagelike" unit="face" n="B"/>
            <lb n="B1"/>yāṅ· hrinaṇḍaliṅgaśvara vriy· kam̃n·<!--sapi2argr Ici il y avait inscrit kaṁr· en rouge dans le rtf.--> mātavrakiya jamāra
-           <lb n="B2"/>Upak· humā vukam̃n· kachutra<!--face A c'est kachuta--> ganan· trā humā nan· humā yām̃ po ku hrinaṇḍaliṅgeśvara man· ya kā<unclear>rak</unclear>· humā
-           <lb n="B3"/><unclear>m</unclear>anatam· <unclear>p</unclear>anadam̃n·<!-- sapi2argr ici il y avait inscrit padadaṁn· dans le rtf. --> nariy· glai klauv· <unclear>k</unclear>rok· varo nau<unclear>g</unclear>em̃ <num value="90">90</num> galauk· kā pajāk· Asiy· ñū <num value="92">92</num> <abbr>k</abbr> tandoṅ· daniḥ soṅ· nan· di varatak·
+           <lb n="B2"/>Upak· humā vukam̃n· kachutra<!--face A c'est kachuta--> ganan· trā humā nan· humā yām̃ po ku hrinaṇḍaliṅgeśvara man· ya kā<unclear>raj</unclear>·<!-- sapi2argr instead of kā(rak). Or read kānaj? --> humā
+           <lb n="B3"/><unclear>m</unclear>anatam·<!-- sapi2argr or janatam·? --> panadam̃n·<!-- sapi2argr ici il y avait inscrit padadaṁn· dans le rtf. --> nariy· glai klauv· trok·<!-- sapi2argr instead of (k)rok· --> varo nau jem̃<!-- sapi2argr instead of gem̃ --> <num value="90">90</num> galauk· kā pajāk· Asiy· ñū <num value="92">92</num> <abbr>k</abbr> tandoṅ· daniḥ soṅ· nan· di varatak·
            <lb n="B4"/><num value="3">3</num> galauk· Asiy· ñū <num value="5">5</num> <abbr>k</abbr> tandoṅ·<g type="ddandaPlain">.</g><g type="dotMid">.</g><g type="ddandaPlain">.</g></p>
-           <p>niy· humā di <unclear>dh</unclear>auk· dhi<unclear>rā</unclear> gauy· ñū rumaṅ· Andap· sām̃ kula pu nau sā Ār· ṅan· humā kula
-           <lb n="B5"/>pu jāṅ· tam̃l· gaḥ glai purvva dar· glai nan· nau jāṅ· tam̃l· Ajvañ· pandān· sā Ār· ṅan· humā kluñ· <unclear>ro</unclear>vaur· lac· tam̃l· kauṅ· gauk· <unclear>g</unclear>i<unclear>l</unclear>aḥ krauṅ· nan·
+           <p>niy· humā di <unclear>g</unclear>auk·<!-- sapi2argr instead of (dh)auk --> dhi<unclear>rā</unclear> gauy· ñū rumaṅ· Andap· sām̃ kula pu nau sā Ār· ṅan· humā kula
+           <lb n="B5"/>pu jāṅ· tam̃l· gaḥ glai purvva dar· glai nan· nau jāṅ· tam̃l· Ajvañ· pandān· sā Ār· ṅan· humā kluñ· <unclear>ro</unclear>vaur·<!-- sapi2argr or more so romaur· --> lac· tam̃l· kauṅ· gauk· <unclear>g</unclear>i<unclear>l</unclear>aḥ<!-- sapi2argr I really don't read gilaḥ on the stone. More so : girāṅ(i) or śirāṅ(i) --> krauṅ· nan·
            <lb n="B6"/>rai sīr· tam̃l· nairitī <unclear>pa</unclear>kyaṅ· pagār· kula pu mulaṅ· di dalaṁ manāṁṅ· nan· Upak· humā vukaṁn· kachutra<!--kachuta ?--> trā humā nan· humā yāṅ· po ku hri<lb
-           n="B7" break="no"/>naṇḍaliṅgeśvara maṁn· humā ya kā jeṅ· Anataṁm· panadaṁn· nariy· trok· va<unclear>ro</unclear>k· jeṅ· <num value="86">86</num><!-- Ou 106? --> galauk· kā pajāk· Asiy· ñū <num value="36">36</num> <abbr>k·</abbr> <num value="9">9</num> <abbr>v·</abbr> tandoṅ·
-           <lb n="B8"/><unclear>da</unclear>niḥ sauṅ· nan· <num value="38">38</num><!-- sapi2argr Ici semble être la preuve que ce symbole est un 8, et non un 10.--> galauk· Asiy· ñū <num value="22">22</num> <abbr>k·</abbr> tandoṅ·<g type="ddandaPlain">.</g><g type="dotMid">.</g><g type="ddandaPlain">.</g> niy· humā janam̃ḥ gauy· ñū rumaṅ· sā Ār· nan· humā yāṅ· bharuv· maAndap· purvva <unclear>nau</unclear>
-           <lb n="B9"/>tam̃l· sā Ār· ṅan· humā pu mahāniyama dar· maAndap· daksiṇa<!-- sapi2argr à nouveau, ambiguïté sur le s souscrit. --> nau tam̃l· dandauv· vihār· rumaṅ· nan· maAndap· paścima nau sīr· tam̃l· <unclear>hasā</unclear>r· ṅan· hu<lb
+           n="B7" break="no"/>naṇḍaliṅgeśvara maṁn· humā ya kā jeṅ· Anataṁm· panadaṁn· nariy· trok· varok· jeṅ· <num value="86">86</num> galauk· kā pajāk· Asiy· ñū <num value="36">36</num> <abbr>k·</abbr> <num value="9">9</num> <abbr>v·</abbr> tandoṅ·
+           <lb n="B8"/><unclear>da</unclear>niḥ<!-- sapi2argr it would indeed seems that there is a sign of the left of the da, looking like a vowel -e --> sauṅ· nan· <num value="38">38</num><!-- sapi2argr Ici semble être la preuve que ce symbole est un 8, et non un 10.--> galauk· Asiy· ñū <num value="22">22</num> <abbr>k·</abbr> tandoṅ·<!-- taṁndoṅ? --><g type="ddandaPlain">.</g><g type="dotMid">.</g><g type="ddandaPlain">.</g> niy· humā janam̃ḥ gauy· ñū rumaṅ· sā Ār· nan· humā yāṅ· bharuv· maAndap· purvva nau
+           <lb n="B9"/>tam̃l· sā Ār· ṅan· humā pu mahāniyama dar· maAndap· daksiṇa<!-- sapi2argr à nouveau, ambiguïté sur le s souscrit. --> nau tam̃l· dandauv· vihār· rumaṅ· nan· maAndap· paścima nau sīr· tam̃l· <unclear>hasā</unclear>r·<!-- sapi2argr or hajār? --> ṅan· hu<lb
            n="B10" break="no"/>mā yāṅ· bharuv· mulaṅ· di dalaṁ manāṅ· nan· Upak· humā vukaṁn· kachutra trā humā nan· humā yāṅ· po ku hrinaṇḍaliṅgeśvara maṁṅ·
            <lb n="B11"/>humā ya kā jeṅ· Anataṁm· panadaṁn· nariy· trok· va<unclear>ro</unclear>k· jeṅ· <num value="2">2</num> galauk· kā pajāk· Asiy· ñū <num value="20">20</num> <abbr>k·</abbr> tandoṅ·<g type="ddandaPlain">.</g><g type="dotMid">.</g><g type="ddandaPlain">.</g></p>
            <p>
-           <lb n="B12"/><g type="ddandaPlain">.</g> niy· <unclear>g</unclear>vauy· humā varāv· rumaṅ· Ajvañ· varāv· nau tūy· tū varāv· maAndap· Utara nau mak dānvil· varāv· dar· nau pūrvva tam̃l· tuṁtanular· tamā
+           <lb n="B12"/><g type="ddandaPlain">.</g> niy· gvauy· humā varāv· rumaṅ· Ajvañ· varāv· nau tūy· tū varāv· maAndap· Utara nau mak dānvil·<!-- sapi2argr ou mak dānvil·, ou makdaḥ nvil· --> varāv· dar· nau pūrvva tam̃l· tuṁtanular· tamā
            <lb n="B13"/>nau tūy· tū nan· maAndap· nau daksaṇa<!-- sapi2argr Ici je n'ai pas corrigé car j'ignore s'il ne faudrait pas aussi corriger tous les autres. --> tam̃l· sā Ār· ṅan· humā sev· Ulīk· rai sīr· tam̃l· Ajvañ· varāv· mulaṅ· dalaṁ manāṅ· nan· <unclear>U</unclear><lb
            n="B14" break="no"/>pa<supplied reason="omitted">k·</supplied> humā vukaṁn· kachutra ganan· trā ya nan· humā yām̃ po ku hrinaṇḍaliṅgeśva<supplied reason="omitted">ra</supplied> man·<!-- sapi2argr Ici je corrige le °liṅgeśvara dar· du rtf.  --> ya kā jem̃ humā Anatam̃m· panadaṁn· nariy· tro<lb
-           n="B15" break="no"/>k· vadok· <num value="9">9</num> galauk· Asiy· ñū <num value="15">15</num> <abbr>k·</abbr> tandoṅ· humā nan· ra vriy· gam̃n· nonāmev· laman· dharī</p>
+           n="B15" break="no"/>k· vadok· <num value="9">9</num> galauk· Asiy· ñū <num value="15">15</num> <abbr>k·</abbr> tandoṅ· humā nan· ra vriy· gam̃n· nonāmev·<!-- sapi2argr ou nonāpov --> laman· dharī</p>
            <p>
-           <lb n="B16"/>niy· humā di lavveṅ· pa<unclear>nath</unclear>un· grāc· virelāvradāy· vavaḥ tum· sā Ār· ṅan· humā yāṅ· bharuv· maAndap· nau Uttara tam̃l· Ār· hu<lb
+           <lb n="B16"/>niy· humā di lavveṅ· pa<unclear>nath</unclear>un·<!-- pachun? --> grāc· virelāvradāy· vavaḥ tum· sā Ār· ṅan· humā yāṅ· bharuv· maAndap· nau Uttara tam̃l· Ār· hu<lb
            n="B17" break="no"/>mā yām̃ pu Inā mandar· kānteśa pim· ga nan· maAndap· nau purvva lac· tam̃l· tum̃m· cakīr· sim· ga car· maAndap· nau daksiṇa lav· tam̃l· krauṅ·
-           <lb n="B18"/>maAndap· nau paścima rai sīr· tam̃l· vra<unclear>ṅā</unclear>y· mulaṅ· Utpa humā vukaṁn· di dalaṁ vvān· nan· trā humā nan· humā yāṅ· hri<lb
-           n="B19" break="no"/>ṇandaliṅgeśvara mam̃n· nan· siy· snaḥ ya marai ni gandrāc· humā di vel· nan· Ājñā pov ku rājendramantri ṅan· śīli Ulīk· tuluke
-           <lb n="B20"/>nan· sabhādharmmadikāra tu<unclear>l</unclear>ā ṅan· sabhā paliy· Anaiḥ ṅan· nyāyāddhipatiḥ grāmācaṁ ṅan· śoddhavikraṁ jiṅyar· nan· sabhā rāja nagar·
-           <lb n="B21"/>cvaḥ ṅan· sabhā cvaḥ bharuv· caṁ ṅan· kurun· yām̃ po pu Inā mandar· kānteśvar· slāy·<!-- sapi2argr rtf : (plā/slā/hla) --> caṁ ṅan· gam̃p· puṁ I<unclear>gg</unclear>a<unclear>bhara</unclear>l· vireja ṅan· likhita Ulīk·
-           <lb n="B22"/><unclear>na</unclear>n· pvaḥ mvok· nī saravvaṅ·<unclear>p</unclear>inan·<!-- sapi correction de saravvaṅy·inan--> di paliy· Anaiḥ humā ya kā jeṅ· Anatam̃m· <num value="25">25</num> <abbr>k·</abbr> tandoṅ· yatok· varok· <num value="5">5</num> <abbr>k·</abbr> tandoṅ· trā<g type="ddandaPlain">.</g><g type="dotMid">.</g><g type="ddandaPlain">.</g>
+           <lb n="B18"/>maAndap· nau paścima rai sīr· tam̃l· vradāy·<!-- sapi2argr instead of vraṅāy --> mulaṅ· Utpa humā vukaṁn· di dalaṁ vvān· nan· trā humā nan· humā yāṅ· hri<lb
+           n="B19" break="no"/>ṇandaliṅgeśvara mam̃n· nan· siy· snaḥ ya marai ni gandrāc· humā di vel· nan· Ājñā pov ku rājendramantri ṅan· śīliḥ<!-- sapi2argr instead of śīli --> Ulīk· tuluke
+           <lb n="B20"/>nan· sabhādharmmadikāra tu<unclear>h</unclear>ā<!-- sapi2argr instead of tulā --> ṅan· sabhā paliy· Anaiḥ ṅan· nyāyāddhipatiḥ grāmācaṁ ṅan· śoddhavikraṁ jiṅyar· nan· sabhā rāja nagar·
+           <lb n="B21"/>cvaḥ ṅan· sabhā cvaḥ bharuv· caṁ ṅan· kurun· yām̃ po pu Inā mandar· kānteśvar· slāy·<!-- sapi2argr rtf : (plā/slā/hla) --> caṁ ṅan· gam̃p· puṁ I<unclear>śś</unclear>a<unclear>bhara</unclear>l·<!-- sapi2argr instead of I(gg)a(bhara)l· --> vireja ṅan· likhita Ulīk·
+           <lb n="B22"/>nan· pvaḥ mvok· nī saravvaṅ·<unclear>p</unclear>inan·<!-- sapi correction de saravvaṅy·inan--> di paliy· Anaiḥ humā ya kā jeṅ· Anatam̃m· <num value="25">25</num> <abbr>k·</abbr> tandoṅ· yatok· varok· <num value="5">5</num> <abbr>k·</abbr> tandoṅ· trā<g type="ddandaPlain">.</g><g type="dotMid">.</g><g type="ddandaPlain">.</g>
            </p>
          </div>
          <div type="apparatus">

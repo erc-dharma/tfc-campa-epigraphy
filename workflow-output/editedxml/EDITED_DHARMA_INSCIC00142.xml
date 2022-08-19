@@ -271,7 +271,7 @@
             <p xml:lang="san-Latn">tais tatsahodarair eka<lb n="C8" break="no"/>matibhir mmātr<choice><sic>a</sic><corr>ā</corr></choice>nujñayā śrīmahārudradevaḥ pratiṣṭhāpito
               <lb n="C9"/>maddhyataḥ gagaṇadvimaṅgalaśake pitur ājñā sārthavāhanā<lb n="C10" break="no"/>mnaḥ śrī Indravarmmanr̥patimahādevyā śrīrudravarmmabhūpabhrā<lb n="C11" break="no"/>trīyayāsya sahodarasya pratirūpataḥ pitari tadbhaktyai sva<lb n="C12" break="no"/>jananībhūmau<g type="ddandaHooked">.</g> Atha<!-- sapi2argr sur la pierre je lis Aṁtha.--> tenottarata Iyaṁ bhagavatī prati<lb n="C13" break="no"/>ṣṭhāpitā khavahnitanuśake mātur at<choice><sic>i</sic><corr>ī</corr></choice>takalpasantānaku<lb n="C14" break="no"/>lodbhavāyāḥ pu pov· ku rudrapurasaṁjñikāyā devīgaṇa<lb n="C15" break="no"/>patikumārān imān devān pratiṣṭhāpayantyāś candrāgnitanu<lb n="C16" break="no"/>śake pratirūpato mātari tadbhaktaye svabhūmau<g type="ddandaHooked">.</g> Api<lb n="C17" break="no"/>cāmātya Ājñā jayendrapatināmeti dakṣiṇata I<lb n="C18" break="no"/>maṁ śrīmahāśivaliṅgeśvaradevam asthāpayan navadvimaṅga<lb n="C19" break="no"/>laśake parameśvarapūjārtham iha jananībhūmau svakī<lb n="C20" break="no"/>rttaye veti<g type="ddandaHooked">.</g>
             </p>
-            <p xml:lang="ocm-Latn"><milestone type="pagelike" unit="face" n="D"/><gap reason="lost" quantity="2" unit="line" precision="low"/>
+            <p xml:lang="ocm-Latn"><milestone type="pagelike" unit="face" n="D"/><gap reason="lost" quantity="5" unit="line" precision="low"/>
             <lb n="D6"/><gap reason="lost" extent="unknown" unit="character"/>vaṅun· vulān· limā <unclear>nā ru</unclear><gap reason="lost" extent="unknown" unit="character"/> <!--sapi2argr C'est moi ai ajouté nā ru mais je ne suis pas sûre du tout -->
             <lb n="D7"/><gap reason="lost" extent="unknown" unit="character"/>Udyāna nau nagara li<gap reason="lost" extent="unknown" unit="character"/>
             <lb n="D8"/><gap reason="illegible" quantity="8" unit="character" precision="low"/>vriy· muñī krauṅ· <gap reason="lost" extent="unknown" unit="character"/>
@@ -317,16 +317,16 @@
                      <rdg source="bib:Huber1911_01"><seg met="+--"><gap reason="lost" quantity="3" unit="character"/></seg></rdg>
                  </app>
                  <app loc="B2">
-                     <lem>st<unclear>i</unclear></lem>
+                     <lem>sti</lem>
                      <rdg source="bib:Huber1911_01">sta</rdg>
                  </app>
-                 <app loc="B2-B3">
+                 <app loc="B2">
                      <lem>yena <seg met="+"><gap reason="lost" quantity="1" unit="character"/></seg> <supplied reason="lost"><g type="ddandaHooked">.</g></supplied></lem>
                      <rdg source="bib:Huber1911_01"><seg met="+-"><gap reason="lost" quantity="2" unit="character"/></seg><lb n="3"/><seg met="+"><gap reason="lost" quantity="1" unit="character"/></seg><supplied reason="lost"><g type="ddandaHooked">.</g></supplied></rdg>
                      <note>The end of this pāda certainly fell at the end of l. 2, not at the beginning of l. 3 as Huber thought.</note>
                  </app>
                  <app loc="B3">
-                     <lem>śaśāṅk<choice><sic>a</sic><corr>aḥ</corr></choice></lem>
+                     <lem>śaśāṅkaḥ</lem>
                      <rdg source="bib:Huber1911_01">śaśāṅk<choice><sic>a</sic><corr>o</corr></choice></rdg>
                  </app>
                  <app loc="B6">
@@ -335,7 +335,7 @@
                      <note>Huber emends to vicitrārthādhir adhīśa°, which does not seem to yield any sense, and ignores the pāda-boundary. Cf. C. 149, st. XII, for another attestion of the word irā ‘Earth’.</note>
                  </app>
                  <app loc="B7">
-                     <lem>mālāśirṣottama-</lem>
+                     <lem>mālāś<choice><sic>i</sic><corr>ī</corr></choice>rṣottama-</lem>
                      <rdg source="bib:Huber1911_01">mālāśīrṣottama-</rdg>
                  </app>
                  <app loc="B8">
@@ -343,7 +343,7 @@
                      <rdg source="bib:Huber1911_01">satkhaḍgo</rdg>
                  </app>
                  <app loc="B14">
-                     <lem>niśśeṣārthaṁ matīhayā</lem>
+                     <lem>niśśeṣārthaṁ matīhayā<g type="dotMid">.</g></lem>
                      <rdg source="bib:Huber1911_01">niśśeṣārthaṁ atīhayā<g type="ddandaHooked">.</g></rdg>
                      <note>There is no trace of any punctuation sign other than <g type="dotMid">.</g>.</note>
                  </app>

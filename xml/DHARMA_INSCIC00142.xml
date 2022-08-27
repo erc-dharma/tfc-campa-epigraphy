@@ -101,133 +101,133 @@
       <body>
          <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:00000">
            <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A01"/><g type="floretQuatrefoil"/><g type="ddandaOrnate"/> Om̐ namaś śivāya<g type="ddandaOrnate"/><g type="floretQuatrefoil"/><supplied reason="lost">svasti</supplied></ab>
-           <lg n="1" met="sragdharā"><lb n="A1"/>
+           <lg n="1" met="sragdharā"><lb n="A2"/>
            <l n="a"><supplied reason="lost">nā</supplied> <unclear>nārūpā</unclear>ṇi yasyākhila-jagad-uditaiśvaryya-saṁbhāvitāni<g type="dotMid">.</g></l>
-           <l n="b">ksipta-kṣoṇī-durātma-prabhr̥ti-bhayata<unclear>māṁ-sīddha-tejāṁsi nitya</unclear><lb n="A2" break="no"/><unclear>m</unclear><choice><unclear>·</unclear><unclear><g type="dotMid">.</g></unclear></choice></l>
+           <l n="b">ksipta-kṣoṇī-durātma-prabhr̥ti-bhayata<unclear>māṁ-sīddha-tejāṁsi nitya</unclear><lb n="A3" break="no"/><unclear>m</unclear><choice><unclear>·</unclear><unclear><g type="dotMid">.</g></unclear></choice></l>
            <l n="c">pūrvvā-prakhyāta-yogānavasita-mahimā-liṅgitāṅgaiḥ prakāmaṁ<g type="dotMid">.</g></l>
-           <l n="d">namyastutyāni santu tribhuvana-vasatāṁ bho hi liṅgāni bhūtyai<g type="ddandaHooked">.</g></l>
+           <l n="d">namyastutyāni santu tribhuvana-vasatāṁ bho hi liṅgāni bhūtyai<g type="ddandaPlain">.</g></l>
            </lg>
            <lg n="2" met="anuṣṭubh">
-             <l n="a">Anādimaddhya<lb n="A3"/>nidhanaṁ<g type="dotMid">.</g></l>
+             <l n="a">Anādimaddhya<lb n="A4"/>nidhanaṁ<g type="dotMid">.</g></l>
              <l n="b">liṅgaṁ yasya purātanam·<g type="dotMid">.</g></l>
              <l n="c">sarvva-loka-praśānty āsī<unclear><g type="dotMid">.</g></unclear></l>
-             <l n="d">ccarācaranam-askr̥tam·<g type="ddandaHooked">.</g></l>
+             <l n="d">ccarācaranam-askr̥tam·<g type="ddandaPlain">.</g></l>
            </lg>
            <lg n="3" met="anuṣṭubh">
              <l n="a">yalliṅgena jitaṁ śaśva<unclear><g type="dotMid">.</g></unclear></l>
              <l n="b">d bhāvānāṁ hitadhāriṇā<g type="dotMid">.</g></l>
-             <l n="c">sādhakānā<lb n="A4" break="no"/>ñ ca mokṣatvaṁ<g type="dotMid">.</g></l>
-             <l n="d">dadatā hetunā vinā<g type="ddandaHooked">.</g></l>
+             <l n="c">sādhakānā<lb n="A5" break="no"/>ñ ca mokṣatvaṁ<g type="dotMid">.</g></l>
+             <l n="d">dadatā hetunā vinā<g type="ddandaPlain">.</g></l>
            </lg>
            <lg n="4" met="vasantatilaka">
              <l n="a" enjamb="yes">Ākāśa-maṇḍalam atītya mahīm aneka<g type="dotMid">.</g></l>
              <l n="b">bhūtādhikāra-parivārita-maṇḍalā<unclear>bha</unclear>ḥ<!-- sapi2argr sur la pierre, cela ressemble beaucoup à 'va' --><g type="dotMid">.</g></l>
-             <l n="c" enjamb="yes">yal-liṅgam indu-dina<lb n="A5" break="no"/>kr̥d-graha-sevitābha<g type="dotMid">.</g></l>
-             <l n="d">datta-kramāgata-sukhodayam atra pāyāt·<g type="ddandaHooked">.</g></l>
+             <l n="c" enjamb="yes">yal-liṅgam indu-dina<lb n="A6" break="no"/>kr̥d-graha-sevitābha<g type="dotMid">.</g></l>
+             <l n="d">datta-kramāgata-sukhodayam atra pāyāt·<g type="ddandaPlain">.</g></l>
            </lg>
            <lg n="5" met="vasantatilaka">
              <l n="a">liṅgāni yasya sakr̥d apy uta ye namanti<g type="dotMid">.</g></l>
-             <l n="b">kāmān yathā hr̥daya<lb n="A6"/>vīpsupadāl labhante<g type="dotMid">.</g></l>
+             <l n="b">kāmān yathā hr̥daya<lb n="A7"/>vīpsupadāl labhante<g type="dotMid">.</g></l>
              <l n="c">te sarvva-sādha-kaviśeṣa-gaṇastutāś ca<g type="dotMid">.</g></l>
              <l n="d">devālaye pi suravat suramānanīyāḥ<g type="ddandaHooked">.</g></l>
            </lg>
            <lg n="6" met="vasantatilaka">
-             <l n="a">liṅgāvasānam atigāḍhata<lb n="A7" break="no"/>man tv adhastā<g type="dotMid">.</g>d</l>
+             <l n="a">liṅgāvasānam atigāḍhata<lb n="A8" break="no"/>man tv adhastā<g type="dotMid">.</g>d</l>
              <l n="b">vārāharūpavahatā hariṇāpi jaitram·</l>
              <l n="c">vīryyeṇa sādhayitum uttama-yogavettrā<g type="dotMid">.</g></l>
-             <l n="d">śaktan na yasya yadaniṣṭa<lb n="A8" break="no"/>vara-prasādāt·<g type="ddandaHooked">.</g></l>
+             <l n="d">śaktan na yasya yadaniṣṭa<lb n="A9" break="no"/>vara-prasādāt·<g type="ddandaPlain">.</g></l>
            </lg>
            <lg n="7" met="vasantatilaka">
              <l n="a">liṅgāvasānam anabhijñatayopariṣṭā<g type="dotMid">.</g>d</l>
              <l n="b">mānorjjitena sarasī-ruha-yoninādaḥ<g type="dotMid">.</g></l>
-             <l n="c">svadhyāna-vīryya-rucire<lb n="A9" break="no"/>ṇa tathāpi vettuṁ<g type="dotMid">.</g></l>
-             <l n="d">śaktaṁ na yasya yadaniṣṭavara-prasādāt·<g type="ddandaHooked">.</g></l>
+             <l n="c">svadhyāna-vīryya-rucire<lb n="A10" break="no"/>ṇa tathāpi vettuṁ<g type="dotMid">.</g></l>
+             <l n="d">śaktaṁ na yasya yadaniṣṭavara-prasādāt·<g type="ddandaPlain">.</g></l>
            </lg>
            <lg n="8" met="śārdūlavikrīḍita">
              <l n="a">yo vijñāya murāripadma-varajāva-jñāna-doṣodgati<!-- sapi2argr °jñāna°: °jñānaṁ (sapi). Pour l'instant je ne touche à rien à cause de la métrique. SOIT CORRIGER, SOIT IL N'Y EST PAS.-->
              <g type="dotMid">.</g></l>
-             <l n="b">prāle<lb n="A10" break="no"/>yaglapitānanāmvuja-nibhau provāca vāṇīm imām·<g type="dotMid">.</g></l>
+             <l n="b">prāle<lb n="A11" break="no"/>yaglapitānanāmvuja-nibhau provāca vāṇīm imām·<g type="dotMid">.</g></l>
              <l n="c">he govinda-sarojajau kim aparaṁ sāddhvā yuvābhyāṁ manā<g type="dotMid">.</g>g</l>
-             <l n="d">ya<choice><sic>d</sic><corr>n</corr></choice>mūlāgra<lb n="A11"/>bubhutsayā mama natiḥ kr̥tyā mudā nānyathā<g type="ddandaHooked">.</g></l>
+             <l n="d">ya<choice><sic>d</sic><corr>n</corr></choice>mūlāgra<lb n="A12"/>bubhutsayā mama natiḥ kr̥tyā mudā nānyathā<g type="ddandaPlain">.</g></l>
            </lg>
            <lg n="9" met="anuṣṭubh">
              <l n="a">Iti yasya vacaḥ ślāghyaṁ<g type="dotMid">.</g></l>
              <l n="b">śrutavantau ca sādārau<g type="dotMid">.</g></l>
              <l n="c">murāripadmayonī tau<g type="dotMid">.</g></l>
-             <l n="d"><lb n="A12"/>nematur yyam anuttaram·<g type="ddandaHooked">.</g></l>
+             <l n="d"><lb n="A13"/>nematur yyam anuttaram·<g type="ddandaPlain">.</g></l>
            </lg>
            <lg n="10" met="anuṣṭubh">
              <l n="a">Āhatur ggāñcayatsūryya<g type="dotMid">.</g></l>
              <l n="b">prabodhitamukhāmvujau<g type="dotMid">.</g></l>
              <l n="c">tau mahān devadevas tvaṁ<g type="dotMid">.</g></l>
-             <l n="d">kuryyā yad varam ā<lb n="A13" break="no"/>vayoḥ<g type="ddandaHooked">.</g></l>
+             <l n="d">kuryyā yad varam ā<lb n="A14" break="no"/>vayoḥ<g type="ddandaPlain">.</g></l>
            </lg>
            <lg n="11" met="anuṣṭubh">
              <l n="a">Iti yo darśayan maddhyaṁ<g type="dotMid">.</g></l>
              <l n="b">liṅgād nirggatam ānanam·<g type="dotMid">.</g></l>
              <l n="c">netratrayāgnicandrārkka<g type="dotMid">.</g></l>
-             <l n="d">prabhābhāsitam āsthitaḥ<g type="ddandaHooked">.</g></l>
+             <l n="d">prabhābhāsitam āsthitaḥ<g type="ddandaPlain">.</g></l>
            </lg>
            <lg n="12" met="anuṣṭubh">
-             <l n="a">tataś ca dakṣi<lb n="A14" break="no"/>ṇe vrahmā<g type="dotMid">.</g></l>
+             <l n="a">tataś ca dakṣi<lb n="A15" break="no"/>ṇe vrahmā<g type="dotMid">.</g></l>
              <l n="b">saṁsthito vāmato hariḥ<g type="dotMid">.</g></l>
              <l n="c">Ity ekatvam imau yena<g type="dotMid">.</g></l>
-             <l n="d">labhete yadanujñayā<g type="ddandaHooked">.</g></l>
+             <l n="d">labhete yadanujñayā<g type="ddandaPlain">.</g></l>
            </lg>
            <lg n="13" met="pr̥thvī">
-             <l n="a">sa Eva bhagavānt surāsuragurus ta<lb n="A15" break="no"/>dacchadmahā<g type="dotMid">.</g></l>
+             <l n="a">sa Eva bhagavānt surāsuragurus ta<lb n="A16" break="no"/>dacchadmahā<g type="dotMid">.</g></l>
              <l n="b">maheśvara Itas tataḥ praṇatapādapadmadvayaḥ<g type="dotMid">.</g></l>
              <l n="c">dvayena rahito mahīdharasutādvayo yo jito<g type="dotMid">.</g></l>
-             <l n="d">jitottaraguṇā<lb n="A16" break="no"/>spado bhavad ago nude stāc ciram·<g type="ddandaHooked">.</g></l>
+             <l n="d">jitottaraguṇā<lb n="A17" break="no"/>spado bhavad ago nude stāc ciram·<g type="ddandaPlain">.</g></l>
            </lg>
            <lg n="14" met="anuṣṭubh">
              <l n="a">sa śrīśāneśvaro yatra<g type="dotMid">.</g></l>
              <l n="b">jātipuṣ<choice><unclear>ṭ</unclear><unclear>p</unclear></choice>abhuvi śriyā<g type="dotMid">.</g></l>
              <l n="c">sukhāsīno<!--sapi2argr sukhāsīṁno. Pour l'instant je ne touche à rien. CORRIGER OU IL n'y est pas.--> namaskāra<g type="dotMid">.</g></l>
-             <l n="d">dhanān naḥ pā<lb n="A17"/><g type="floretQuatrefoil"/><g type="ddandaOrnate">.</g> tu sādhvasāt·<g type="ddandaOrnate">.</g><g type="floretQuatrefoil"/></l><!--sapi2argr les deux signes encadrant les ddanda ne sont pas vraiment des floretQuatrefoil. Il s'agit plutôt de motifs décoratifs végétaux disposés de manière symétrique, rétrécissant à mesure qu'ils s'écartent vers le bord. -->
+             <l n="d">dhanān naḥ pā<lb n="A18"/><g type="floretQuatrefoil"/><g type="ddandaOrnate">.</g> tu sādhvasāt·<g type="ddandaOrnate">.</g><g type="floretQuatrefoil"/></l><!--sapi2argr les deux signes encadrant les ddanda ne sont pas vraiment des floretQuatrefoil. Il s'agit plutôt de motifs décoratifs végétaux disposés de manière symétrique, rétrécissant à mesure qu'ils s'écartent vers le bord. -->
            </lg>
            <lg n="15" met="pr̥thvī"><milestone type="pagelike" unit="face" n="B"/>
               <l n="a"><lb n="B1"/><seg met="-+---+-"><gap reason="lost" quantity="7" unit="character"/></seg><!--sapi2argr Ici c'est la première fois que j'encode une lacune de vers, et je ne suis pas sûre de l'avoir fait correctement.--><unclear>m</unclear>ā kali-kalaṅka-kālojjhitā<g type="dotMid">.</g></l>
               <l n="b">mahā-jana-gaṇa-pra<seg met="+-"><gap reason="lost" quantity="2" unit="character"/></seg><lb n="B2"/><seg met="--+"><gap reason="lost" quantity="3" unit="character"/></seg> sti campāhvayā<g type="dotMid">.</g><!-- sapi2argr Ici le terme n'existe pas dans la taxonomy mais il s'agit d'un dotHigh --></l>
               <l n="c">vibhūti-paribhoga-sampad-ucitā su-tejasvinā<g type="dotMid">.</g></l>
-              <l n="d">purāṇa-bhr̥gu-śāsanena kila rakṣitā yena <seg met="+"><gap reason="lost" quantity="1" unit="character"/></seg><supplied reason="lost"><g type="ddandaHooked">.</g></supplied></l>
+              <l n="d">purāṇa-bhr̥gu-śāsanena kila rakṣitā yena <seg met="+"><gap reason="lost" quantity="1" unit="character"/></seg><supplied reason="lost"><g type="ddandaPlain">.</g></supplied></l>
             </lg>
             <lg n="16" met="āryā">
               <l n="ab"><lb n="B3"/>śrī-bhadravarmma-nr̥patir bbhr̥gu-vara-va<unclear>ṁ</unclear>śāmvarā-mala-śaśāṅkaḥ<g type="dotMid">.</g></l>
-              <l n="cd">lokāśaya-kumudāni svākara-kiraṇaiḥ prabodhayati<g type="ddandaHooked">.</g></l>
+              <l n="cd">lokāśaya-kumudāni svākara-kiraṇaiḥ prabodhayati<g type="ddandaPlain">.</g></l>
             </lg>
             <lg n="17" met="sragdharā">
               <l n="a">tuṅgatvaṅgatturaṅga<lb n="B4"/>tvaritakharakhuroddhr̥ta-dhūli-pradhūmre<g type="dotMid">.</g></l>
               <l n="b">nānānārācadhārāruṇarudhirakaṇāśoka-puṣpāṅkitāgre<g type="dotMid">.</g></l>
               <l n="c">garjjadrājadgajendradhva<lb n="B5"/>nipatapaṭahonnāditāśāntarāle<g type="dotMid">.</g></l>
-              <l n="d">campā-rājādhirājaḥ sa jayati mahasājau yathā pāṇḍusūnuḥ<g type="ddandaHooked">.</g></l>
+              <l n="d">campā-rājādhirājaḥ sa jayati mahasājau yathā pāṇḍusūnuḥ<g type="ddandaPlain">.</g></l>
             </lg>
             <lg n="18" met="anuṣṭubh">
               <l n="a">nyāyena ma<lb n="B6" break="no"/>hatā tena<g type="dotMid">.</g></l>
               <l n="b">janitā dharmma-paddhatiḥ<unclear><g type="dotMid">.</g></unclear></l>
               <l n="c">tayā śreyas tu janitaṁ rājño</l>
-              <l n="d">vīvr̥dhad aiśvaram·<g type="ddandaHooked">.</g></l>
+              <l n="d">vīvr̥dhad aiśvaram·<g type="ddandaPlain">.</g></l>
             </lg>
             <lg n="19" met="anuṣṭubh">
               <l n="a">śrī-sampadaṁ vicitrārthām</l><!--sapi2argr on the stone i read, °ārthādhi but I understand the logic. Difference between ‘ma’ and ‘dha’: very similar characters but the ‘body’ of the ‘ma’ is opened on the right, and the body of the ‘dha’ is opened in the middle. Cf. comparison with °mahāsām, on the same line. -->
               <l n="b">irādhīśa-prasādataḥ<g type="dotMid">.</g></l>
               <l n="c">Amā<lb n="B7" break="no"/>tyo vāpa yaś cājñā</l>
-              <l n="d">mahāsāmantasaṁjñakaḥ<g type="dandaHooked">.</g></l>
+              <l n="d">mahāsāmantasaṁjñakaḥ<g type="dandaPlain">.</g></l>
             </lg>
             <lg n="20" met="sragdharā">
               <l n="a">mālāś<choice><sic>i</sic><corr>ī</corr></choice>rṣottamaśrīr vvaratilakaruciḥ karṇṇabhūṣā samastā<g type="dotMid">.</g></l>
               <l n="b">śreṣṭhaḥ karṇṇāvataṅso<lb n="B8"/> pi yugalavasanaṁ rugmakāñcīguṇaśrīḥ</l>
               <l n="c">satkhadgo rugmakośo pi ca rajatanibhaṁ bhājanaṁ vā cirāṇḍaṁ<g type="dotMid">.</g></l>
-              <l n="d">māyūracchattrabhr̥ṅgārakalaśanica<lb n="B9" break="no"/>yo daulikā raupya-daṇḍā<g type="dotMid">.</g><g type="ddandaHooked">.</g></l>
+              <l n="d">māyūracchattrabhr̥ṅgārakalaśanica<lb n="B9" break="no"/>yo daulikā raupya-daṇḍā<g type="dotMid">.</g><g type="ddandaPlain">.</g></l>
             </lg>
             <lg n="21" met="anuṣṭubh">
               <l n="a">Ity etāni ca yasyaiva</l>
               <l n="b">rājājñā-suprayatnataḥ<g type="dotMid">.</g></l>
               <l n="c">dūrllabhānīha<!-- sapi2argr dūrllabhānīhaṁ. Il y a un anusvara net sur la pierre.-->loke 'nyai<g type="dotMid">.</g>r</l>
-              <l n="d">api prādān mahīpatiḥ<g type="ddandaHooked">.</g></l>
+              <l n="d">api prādān mahīpatiḥ<g type="ddandaPlain">.</g></l>
             </lg>
             <p>
-              <lb n="B10"/>yas tu daulikām adhivasan rāja-parata Ucchrita-māyūra-cchattra-priyāyāśeṣa-vādyais saha valair asyāś cāvatarati punar idaṁ śre<lb n="B11" break="no"/>yaḥ<g type="ddandaHooked">.</g>
+              <lb n="B10"/>yas tu daulikām adhivasan rāja-parata Ucchrita-māyūra-cchattra-priyāyāśeṣa-vādyais saha valair asyāś cāvatarati punar idaṁ śre<lb n="B11" break="no"/>yaḥ<g type="ddandaPlain">.</g>
             </p>
             <lg n="22" met="upajāti">
               <l n="a">nāgendram āruhya valair asaṁkhyaiḥ</l>
@@ -237,13 +237,13 @@
             </lg>
             <lg n="23" met="āryā">
               <l n="ab"><lb n="B12"/>bhrātā yasyāsty ājñā narendra-nr̥pa-vitra-saṁjñako mātyaḥ</l>
-              <l n="cd">kalpa-kriyā-vidhi-jñaḥ<g type="dotMid">.</g> parameśvara-dharmma-sarvva-tantra-jñaḥ<g type="ddandaHooked">.</g></l>
+              <l n="cd">kalpa-kriyā-vidhi-jñaḥ<g type="dotMid">.</g> parameśvara-dharmma-sarvva-tantra-jñaḥ<g type="ddandaPlain">.</g></l>
             </lg>
             <lg n="24" met="vasantatilakā">
               <l n="a">yasyānuja<lb n="B13" break="no"/>s sakala-śāstra-samartha-buddhir</l>
               <l n="b">buddhiśriyā bhuvi samo ṅgirasābhigītaḥ</l>
               <l n="c">Ājñā jayendra-pati-saṁ-jñaka Uttamātmā<g type="dotMid">.</g></l>
-              <l n="d">mātyaḥ pavi<lb n="B14" break="no"/>trakuśalena pavitritāṅgaḥ<g type="ddandaHooked">.</g></l>
+              <l n="d">mātyaḥ pavi<lb n="B14" break="no"/>trakuśalena pavitritāṅgaḥ<g type="ddandaPlain">.</g></l>
             </lg>
             <lg n="25" met="anuṣṭubh">
               <l n="a">sarvva-deśāntarāyāta</l>
@@ -252,7 +252,7 @@
               <l n="d">niśśeṣārthaṁ matīhayā<g type="dotMid">.</g></l>
             </lg>
             <p>
-              <lb n="B15"/>śrījayasiṁhavarmmadevasya puṇyaḥ śrījayaguheśvaro devo viṣṇuś ca viṣṇupure<g type="dotMid">.</g><g type="dandaHooked">.</g> śrī-bhadravarmma-devasya punyaḥ śrī-prakāśa-bhadre<lb n="B16" break="no"/>śvaraḥ śrī-rudrakoṭīśvaraś ca śrī-bhadramalayeśvaraś ca śrī-bhadracampeśvaraś ca śrī-bhadramaṇḍaleśvaraś ca<g type="dotMid">.</g> śrī-dharmmeśvaraś ca<g type="dotMid">.</g> śrī-bhadrapureśvaraś ca<g type="dotMid">.</g> te<lb n="B17" break="no"/>ṣu praśastāni śilālekhā-kṣarālaṅkr̥tāny akarod ājñā jayendrapati-nāmāmātyo nekaparibhogadaulikāmā<lb n="B18" break="no"/>yūrakanakanivaddhakhadga-kośa-kalaśabhr̥ṅgār·rajatabhājanakatisūtra-kuṇḍala-kuṇḍala-gaṇa-cirāṇḍayugalavasanādīni prāptavān rā<lb n="B19" break="no"/>japrasādād iti<g type="ddandaHooked">.</g>
+              <lb n="B15"/>śrījayasiṁhavarmmadevasya puṇyaḥ śrījayaguheśvaro devo viṣṇuś ca viṣṇupure<g type="dotMid">.</g><g type="dandaPlain">.</g> śrī-bhadravarmma-devasya punyaḥ śrī-prakāśa-bhadre<lb n="B16" break="no"/>śvaraḥ śrī-rudrakoṭīśvaraś ca śrī-bhadramalayeśvaraś ca śrī-bhadracampeśvaraś ca śrī-bhadramaṇḍaleśvaraś ca<g type="dotMid">.</g> śrī-dharmmeśvaraś ca<g type="dotMid">.</g> śrī-bhadrapureśvaraś ca<g type="dotMid">.</g> te<lb n="B17" break="no"/>ṣu praśastāni śilālekhā-kṣarālaṅkr̥tāny akarod ājñā jayendrapati-nāmāmātyo nekaparibhogadaulikāmā<lb n="B18" break="no"/>yūrakanakanivaddhakhadga-kośa-kalaśabhr̥ṅgār·rajatabhājanakatisūtra-kuṇḍala-kuṇḍala-gaṇa-cirāṇḍayugalavasanādīni prāptavān rā<lb n="B19" break="no"/>japrasādād iti<g type="ddandaPlain">.</g>
             </p>
             <p xml:lang="ocm-Latn">
               <lb n="B20"/>sā suvauk· pirak· sā ta <gap reason="lost" quantity="1" unit="character"/>n· laṅgov· sā tralāy· laṅgov· tluv· Avista dravya nan· ṅan· vlim̃ kintu yām̃ pu pov ku śrījayasim̃havarmmade<lb n="B21" break="no"/>va yam̃ṅ· <unclear>katu</unclear><gap reason="lost" quantity="1" unit="character"/>· <gap reason="lost" quantity="3" unit="character"/>n·
@@ -266,14 +266,14 @@
               <l n="a"><seg met="==="><gap reason="lost" extent="unknown" unit="character"/></seg><lb n="C6"/>nujā yasya<g type="dotMid">.</g></l>
               <l n="b">sādhuvr̥ttyāśritāśayā<g type="dotMid">.</g></l>
               <l n="c">Ugradevī satī nāmnā<g type="dotMid">.</g></l>
-              <l n="d"><lb n="C7"/>khyāyate puṇyakāṁkṣinī<g type="ddandaHooked">.</g></l>
+              <l n="d"><lb n="C7"/>khyāyate puṇyakāṁkṣinī<g type="ddandaPlain">.</g></l>
             </lg>
             <p xml:lang="san-Latn">tais tatsahodarair eka<lb
               n="C8" break="no"/>matibhir mmātr<choice><sic>a</sic><corr>ā</corr></choice>nujñayā śrīmahārudradevaḥ pratiṣṭhāpito
               <lb n="C9"/>maddhyataḥ gagaṇadvimaṅgalaśake pitur ājñā sārthavāhanā<lb
               n="C10" break="no"/>mnaḥ śrī Indravarmmanr̥patimahādevyā śrīrudravarmmabhūpabhrā<lb
               n="C11" break="no"/>trīyayāsya sahodarasya pratirūpataḥ pitari tadbhaktyai sva<lb
-              n="C12" break="no"/>jananībhūmau<g type="ddandaHooked">.</g> Atha<!-- sapi2argr sur la pierre je lis Aṁtha.--> tenottarata Iyaṁ bhagavatī prati<lb
+              n="C12" break="no"/>jananībhūmau<g type="ddandaPlain">.</g> Atha<!-- sapi2argr sur la pierre je lis Aṁtha.--> tenottarata Iyaṁ bhagavatī prati<lb
               n="C13" break="no"/>ṣṭhāpitā khavahnitanuśake mātur at<choice><sic>i</sic><corr>ī</corr></choice>takalpasantānaku<lb
               n="C14" break="no"/>lodbhavāyāḥ pu pov· ku rudrapurasaṁjñikāyā devīgaṇa<lb
               n="C15" break="no"/>patikumārān imān devān pratiṣṭhāpayantyāś candrāgnitanu<lb
@@ -281,7 +281,7 @@
               n="C17" break="no"/>cāmātya Ājñā jayendrapatināmeti dakṣiṇata I<lb
               n="C18" break="no"/>maṁ śrīmahāśivaliṅgeśvaradevam asthāpayan navadvimaṅga<lb
               n="C19" break="no"/>laśake parameśvarapūjārtham iha jananībhūmau svakī<lb
-              n="C20" break="no"/>rttaye veti<g type="ddandaHooked">.</g>
+              n="C20" break="no"/>rttaye veti<g type="ddandaPlain">.</g>
             </p>
             <p xml:lang="ocm-Latn"><milestone type="pagelike" unit="face" n="D"/><gap reason="lost" quantity="5" unit="line" precision="low"/>
             <lb n="D6"/><gap reason="lost" extent="unknown" unit="character"/>vaṅun· vulān· limā <unclear>nā ru</unclear><gap reason="lost" extent="unknown" unit="character"/> <!--sapi2argr C'est moi ai ajouté nā ru mais je ne suis pas sûre du tout -->
@@ -297,7 +297,7 @@
             <l n="a"><unclear>AI</unclear>ndavī yā kalā yāvad</l>
             <l n="b">yāvat sū<lb n="D15" break="no"/>ryyakarāvalī<g type="dotMid">.</g></l>
             <l n="c">dīpamānāsti rodasyo<g type="dotMid">.</g></l>
-            <l n="d">r asmiṁs tāvad sumukti<lb n="D16" break="no"/>kā<g type="ddandaHooked">.</g></l>
+            <l n="d">r asmiṁs tāvad sumukti<lb n="D16" break="no"/>kā<g type="ddandaPlain">.</g></l>
           </lg>
             <p xml:lang="ocm-Latn">yāṅ· pu pov· ku siniy· ranakṣā Urāṅ· viśeṣa tapaḥ
               <lb n="D17"/>maAnan· driy· yāṅ· pov· ku di yāṅ· yaṁṅ· sandhyā di yā<lb

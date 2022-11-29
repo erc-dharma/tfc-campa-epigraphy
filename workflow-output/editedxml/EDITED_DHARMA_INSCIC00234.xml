@@ -11,6 +11,12 @@
             <title>Slab found submerged in a branch of the Hương river (C. 234), ca. 7th century CE</title>
             <respStmt>
                <resp>EpiDoc Encoding</resp>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
                <resp>intellectual authorship of edition</resp>
                <persName ref="part:argr">
                   <forename>Arlo</forename>

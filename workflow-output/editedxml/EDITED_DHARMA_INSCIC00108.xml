@@ -92,46 +92,47 @@
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:00000">
-           <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A01"/>Oṁ namaś śivāya</ab>
+           <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A01"/>Om̐ namaś śivāya</ab>
            <lg n="1" met="āryā">
-             <l n="ab"><lb n="A1"/><g type="gomutraInitial"/> brahmādimunisuranutas sa śrī bhadreśvaraḥ prabhur bbhagavān·</l>
-              <l n="cd">jayati <lb n="A2"/>jagadgurur ādyas tripurajayī yogibhiḥ <unclear>sā</unclear>dhyaḥ<g type="ddandaPlain">.</g></l>
+             <l n="ab"><lb n="A1"/><g type="gomutraInitial"/> brahmādi-muni-sura-nutas sa śrī bhadreśvaraḥ prabhur bbhagavān·</l>
+              <l n="cd">jayati <lb n="A2"/>jagad-gurur ādyas tripura-jayī yogibhiḥ <unclear>sā</unclear>dhyaḥ<g type="ddandaPlain">.</g></l>
            </lg>
            <lg n="2" met="āryā">
-             <l n="ab">mantrī nr̥pateḥ khyāto vividhaguṇai<lb n="A3" break="no"/>r āśayeśabhaktyāśaḥ</l>
-              <l n="cd">kṣmāyāṁ vibhāti <unclear>dh</unclear>armmair ājñā ma<choice><sic>n</sic><corr>ṇ</corr></choice>icaityanāmāyam·<g type="ddandaPlain">.</g></l>
+             <l n="ab">mantrī nr̥pateḥ khyāto vividha-guṇai<lb n="A3" break="no"/>r āśayeśa-bhaktyāśaḥ</l>
+              <l n="cd">kṣmāyāṁ vibhāti <unclear>dh</unclear>armmair ājñā ma<choice><sic>n</sic><corr>ṇ</corr></choice>i-caitya-nāmāyam·<g type="ddandaPlain">.</g></l>
            </lg>
            <lg n="3" met="śārdūlavikrīḍita">
-             <l n="a">śakā<unclear>b</unclear>de <lb n="A4"/>śaśirūpamaṅgalayute maitre ca kīṭagrahe<!--note du rtf : a. ca kīṭagrahe: dhatenagrahe Huber (“Corr. dhaṭenagrahe”). Huber’s or my typo for ghaṭenagrahe?--></l>
-             <l n="b">kumbhasthe bhr̥guje jhaṣena bhujag<choice><unclear>ai</unclear><unclear>au</unclear></choice><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>e</seg> <!--rtf : bhujag(au/ai)C(e/o/au)--> <lb n="A5"/>sauravāre śubhā</l>
-             <l n="c" enjamb="yes">sthāpyā tena kumārikāsuragurau nāgendrasaur<choice><unclear>e</unclear><unclear>au</unclear></choice><!--note rtf : c. nāgendrasaur(e/au): nāgendrasaure Huber. L’élément superscrit faisant au a-t-on essayé de l’effacer? (Ajouter à apparatus si lecture -saurau est retenue)--> mahā<!--note rtf : c. mahā-: noter forme du hā, autres que celle utilisée en bas pour la même lettre.--></l>
-             <l n="d">de<lb n="A6" break="no"/><unclear>vī</unclear> phālguṇanīlapañcadivase golagna Īśapriyā<g type="ddandaPlain">.</g></l>
+             <l n="a">śakā<unclear>b</unclear>de <lb n="A4"/>śaśi-rūpa-maṅgala-yute maitre ca kīṭa-grahe</l>
+             <l n="b">kumbha-sthe bhr̥guje jhaṣena bhujag<choice><unclear>ai</unclear><unclear>au</unclear></choice><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>e</seg><!--rtf : bhujag(au/ai)C(e/o/au)--> <lb n="A5"/>saura-vāre śubhā</l>
+             <l n="c" enjamb="yes">sthāpyā tena kumārikāsuragurau nāgendra-saur<choice><unclear>e</unclear><unclear>au</unclear></choice>
+             <!--note rtf : c. nāgendrasaur(e/au): nāgendrasaure Huber. L’élément superscrit faisant au a-t-on essayé de l’effacer? (Ajouter à apparatus si lecture -saurau est retenue)--> mahā</l><!--note rtf : c. mahā-: noter forme du hā, autres que celle utilisée en bas pour la même lettre.-->
+             <l n="d">de<lb n="A6" break="no"/><unclear>vī</unclear> phālguṇa-nīla-pañca-divase go-lagna Īśa-priyā<g type="ddandaPlain">.</g></l>
            </lg>
            <lg n="4" met="anuṣṭubh">
-             <l n="a">śrīmahāliṅgadevo yaṁ</l>
-             <l n="b">sthāpitas tena tatpituḥ</l>
+             <l n="a">śrī-mahāliṅga-devo ’yaṁ</l>
+             <l n="b">sthāpitas tena tat-pituḥ</l>
              <l n="c">sthāpitā ca mahādevī</l>
              <l n="d">śrīmatī māt<choice><sic>u</sic><corr>a</corr></choice>ri priyā<g type="ddandaPlain">.</g></l>
            </lg>
            <lg n="5" met="āryā">
-             <l n="ab">tasye<lb n="A8" break="no"/>śvaradevākhyo nujaḥ svakīrttyai pitur ddharāyāñ ca</l>
-              <l n="cd">yena sthāpyaḥ sumudā śrīśvarade<lb n="A9" break="no"/>vādidevo yam·<g type="ddandaPlain">.</g></l>
+             <l n="ab">tasye<lb n="A8" break="no"/>śvara-devākhyo ’nujaḥ sva-kīrttyai pitur ddharāyāñ ca</l>
+              <l n="cd">yena sthāpyaḥ su-mudā śrīśvarade<lb n="A9" break="no"/>vādi-devo ’yam·<g type="ddandaPlain">.</g></l>
            </lg>
            <lg n="6" met="anuṣṭubh">
-             <l n="a">śrīmahāliṅgadevāya</l>
-             <l n="b">prādāt kṣetraṁ sadāsakam·</l>
-             <l n="c">śrījayaIndrava<lb n="A10" break="no"/><unclear>rmme</unclear>daṁ</l>
-             <l n="d">śāstrajño lokadharmmavit·<g type="ddandaPlain">.</g></l>
+             <l n="a">śrī-mahāliṅga-devāya</l>
+             <l n="b">prādāt kṣetraṁ sa-dāsakam·</l>
+             <l n="c">śrī-jaya-Indrava<lb n="A10" break="no"/><unclear>rmme</unclear>daṁ</l>
+             <l n="d">śāstra-jño loka-dharmma-vit·<g type="ddandaPlain">.</g></l>
            </lg>
            <lg n="7" met="anuṣṭubh">
-             <l n="a">campeśvarā varanr̥pā</l>
-             <l n="b"><unclear>Ā</unclear>candrārkkāt padāśayāḥ</l>
+             <l n="a">campeśvarā vara-nr̥pā</l>
+             <l n="b"><unclear>Ā</unclear>-candrārkkāt padāśayāḥ</l>
              <l n="c">śr̥<lb n="A11" break="no"/><unclear>ṇu</unclear>yu<choice><sic>ḥ</sic><corr>r</corr></choice> vacanam idaṁ</l>
-             <l n="d">paramārthaṁ<!--note rtf : d. paramārthaṁ: paramārtam Huber (n. 1: “Corr. pāramārtham”). Huber oublie deux fois l’anusvāra, son application de vr̥ddhi dans la première syllabe n’est pas nécessaire, et sa lecture initiale de t pour th est peut-être une coquille.--> su<supplied reason="omitted">dharmikam</supplied> śrī jayaIndravarmmarājasya<g type="ddandaPlain">.</g></l>
-           </lg>
-           <p>śrīmahāli<lb n="A12" break="no"/>ṅgadevaṁ kecid atikr̥tya narake patantu<g type="ddandaPlain">.</g> kecid valātkāreṇāsya dravyadāsa<milestone type="pagelike" unit="face" n="B"/><lb n="B1" break="no"/>kṣetragomahiṣān hariṣyanti dahanaśikhā
-             <lb n="B2"/>karāle mahāniraye patantu<g type="ddandaPlain">.</g> ye dharmmajñā nyāyena pāla
-             <lb n="B3" break="no"/>yanti śaktimantam imaṁ te divi vasantu<g type="ddandaPlain">.</g>
+             <l n="d">paramārthaṁ su<supplied reason="omitted">dharmikaṁ</supplied> śrī-jaya-Indravarmma-rājasya<g type="ddandaPlain">.</g></l>
+                       </lg>
+                       <!-- why not sudhārmikaṁ? what does Majumdar supply? -->
+           <p>śrī-mahāli<lb n="A12" break="no"/>ṅga-devaṁ ke cid atikr̥tya narake patantu<g type="ddandaPlain">.</g> ke cid valātkāreṇāsya dravya-dāsa<milestone type="pagelike" unit="face" n="B"/><lb n="B1" break="no"/>-kṣetra-go-mahiṣān hariṣyanti dahana-śikhā
+             <lb n="B2"/>karāle mahāniraye patantu<g type="ddandaPlain">.</g> ye dharmma-jñā nyāyena pāla<lb n="B3" break="no"/>yanti śaktimantam imaṁ te divi vasantu<g type="ddandaPlain">.</g>
            </p>
            <p xml:lang="ocm-Latn">yāṅ· pov· mahāliṅga yāṅ·
              <lb n="B4"/>pu pov· ku śrī jaya Indravarmma kā vriy· matandās· sarvvākarādāna matandās·
@@ -176,19 +177,24 @@
                  </app>
                  <app loc="A4">
                      <lem>ca kīṭagrahe</lem>
-                     <rdg source="bib:Huber1911_01">dhatenagrahe</rdg>
+                     <rdg source="bib:Huber1911_01">dha<choice><sic>t</sic><corr>ṭ</corr></choice>enagrahe</rdg>
+                     <!--note AG dans le rtf : a. ca kīṭagrahe: dhatenagrahe Huber (“Corr. dhaṭenagrahe”). Huber’s or my typo for ghaṭenagrahe?
+                      après vérification, il ne semble nulle part être question de ghaṭenagrahe (ghaṭa-ina-grahe)-->
                  </app>
                  <app loc="A4">
-                     <lem>bhr̥guje jhaṣena bhujag<choice><unclear>ai</unclear><unclear>au</unclear></choice><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>e</seg></lem>
-                     <rdg source="bib:Huber1911_01">bhr̥guje <seg met="-+-"><gap reason="illegible" quantity="3" unit="character"/></seg> bhujagair <seg met="+"><gap reason="illegible" quantity="1" unit="character"/></seg> sauravāre</rdg>
+                     <lem>jhaṣena bhujag<choice><unclear>ai</unclear><unclear>au</unclear></choice><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>e</seg></lem>
+                     <rdg source="bib:Huber1911_01"><seg met="-+-"><gap reason="illegible" quantity="3" unit="character"/></seg> bhujagair <seg met="+"><gap reason="illegible" quantity="1" unit="character"/></seg> sauravāre</rdg>
                  </app>
                  <app loc="A10">
                      <lem>śr̥<lb n="A11" break="no"/><unclear>ṇu</unclear>yu<choice><sic>ḥ</sic><corr>r</corr></choice> vacanam</lem>
                      <rdg source="bib:Huber1911_01">śr̥<lb n="A11" break="no"/>ṇuyuḥ vacanam</rdg>
                  </app>
-                 <app loc="A11">
+                 <app loc="A11"><!-- argr2sapi: maybe just hide this entry -->
                      <lem>paramārthaṁ</lem>
-                     <rdg source="bib:Huber1911_01">paramārtam</rdg>
+                     <rdg source="bib:Huber1911_01">p<choice><sic>a</sic><corr>ā</corr></choice>ramār<choice><sic>t</sic><corr>th</corr></choice>am</rdg>
+                     <note>Huber omits the diacritic dot on <foreign>m</foreign> both in his edition and his footnote proposing correction of <foreign>paramārtam</foreign> (<foreign>sic</foreign>) to <foreign>pāramārtham</foreign>.</note>
+                     <!--note rtf : d. paramārthaṁ: paramārtam Huber (n. 1: “Corr. pāramārtham”). Huber oublie deux fois l’anusvāra,
+                     son application de vr̥ddhi dans la première syllabe n’est pas nécessaire, et sa lecture initiale de t pour th est peut-être une coquille.-->
                  </app>
                  <app loc="B6">
                      <lem>kūñ</lem>
@@ -241,10 +247,10 @@
                </listApp>
          </div>
          <div type="translation" resp="part:argr part:sapi">
- 	<!--translation encoded as per EGD §9.2 -->
+ 	         <p n="B3-B">Le saint Mahāliṅga du Y.P.K. Śrī jaya Indravarmma autorise l’extemption des impôts, l’exemption de ceux qui </p>
          </div>
          <div type="commentary">
-            <!--commentary encoded as per section §9.3 -->
+           <p n="B6-B7">Asov· vañak· ndoy· Inā Urāṅ· nan·. A similar phrase can be found in the inscription C. 106, l. B2-B3: Asov· vañāk· ñū ṇḍauy· Inā Urāṅ· nan·</p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->

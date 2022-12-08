@@ -138,7 +138,7 @@
              <lb n="B4"/>pu pov· ku śrī jaya Indravarmma kā vriy· matandās· sarvvākarādāna matandās·
              <lb n="B5"/>siy· vr̥liy· Urāṅ· mandop· sarvvākarādāna di yāṅ· pov· mahāliṅga
              <lb n="B6"/>mapamataḥ matandāḥ niy· matop· vriy· gr̥hastha kūñ· Asov· vañak· ndo<lb n="B7" break="no"/>y· Inā Urāṅ· nan· kā ñū matai nau dauk· di yop· naraka tauṅ· yugāntaḥ pra<lb n="B8" break="no"/>laya<g type="dotMid">.</g> yāṅ· poṁ mahāliṅga pvauḥ tapaḥ thuv· dharmma rakṣā pasyāṁ yajamāna <unclear>ma</unclear><lb n="B9" break="no"/>tapaḥ thuv· dharmma rakṣā pasyāṁ tmov· svarggāpavargga<g type="dotMid">.</g> pu pov· tana <supplied reason="omitted">ra</supplied>yā sthirarājya <supplied reason="lost">hu</supplied><lb n="B10" break="no"/>mā masin· dvā jāk· humā krauc· dvā jāk· humā <unclear>kaṁ</unclear>k· sā jāk· humā <gap reason="illegible" quantity="2" unit="character"/>
-             <lb n="B11"/>dvā jāk· humā Udaya sā jāk· humā dhvac· sā jāk humā cak· s<supplied reason="lost">ā jā</supplied><lb n="B12" break="no"/>k· humā tūpen· sā jāk· humā haluv· ravāṅ· sā jāk· humā <gap reason="illegible" quantity="3" unit="character"/><!--sapi2argr : Cette ligne vérifiée sur l'estampage de Huber, BEFEO XI p. 272. Note du rtf : La pierre est encastrée. On ne peut pas voir les signes souscrits de la l. 12.--><milestone type="pagelike" unit="face" n="C"/>
+             <lb n="B11"/>dvā jāk· humā <placeName type="cultivation" subtype="field" key="Udaya">Udaya</placeName> sā jāk· humā dhvac· sā jāk humā cak· s<supplied reason="lost">ā jā</supplied><lb n="B12" break="no"/>k· humā tūpen· sā jāk· humā haluv· ravāṅ· sā jāk· humā <gap reason="illegible" quantity="3" unit="character"/><!--sapi2argr : Cette ligne vérifiée sur l'estampage de Huber, BEFEO XI p. 272. Note du rtf : La pierre est encastrée. On ne peut pas voir les signes souscrits de la l. 12.--><milestone type="pagelike" unit="face" n="C"/>
              <lb n="C1"/>humā gaḥ pagār·
              <lb n="C2"/>sā jāk· nariy· gaḥ
              <lb n="C3"/><unclear>ṅ</unclear>auk· sāṅ· tal· gaḥ
@@ -247,7 +247,24 @@
                </listApp>
          </div>
          <div type="translation" resp="part:argr part:sapi">
- 	         <p n="B3-B">Le saint Mahāliṅga du Y.P.K. Śrī jaya Indravarmma autorise l’extemption des impôts, l’exemption de ceux qui </p>
+ 	         <p n="B3-B8">Le Y.P. Mahāliṅga du Y.P.K. Śrī Jaya Indravarmma autorise<!-- Ou alors : [Pour le] Y.P. Mahāliṅga, Y.P.K. Śrī Jaya Indravarmma autorise... La question est, qui autorise? Le roi ou le dieu?--> l’exemption des impôts. <supplied reason="subaudible">Au sujet de</supplied> l’exemption, quinconque <!-- vr̥liy: Cf A&C, p. 456: "quiconque" (Huber) = lĕi et halĕi. Dans C. 106, Finot 1904 traduit siy· vr̥liy· Urāṅ· yaṁṅ· par : "Les hommes des temples"--> <foreign>mandop</foreign> <!-- Huber: “si un homme détruit les biens du dieu Mahāliṅga”. Cf également Griffiths et al. 2012, p. 275 n. 149 : inscription C. 227 ndop·, this is the only occurrence of this word in the entire corpus, and the word is not recorded in the available Cam dictionaries. We only find the form mandop, probably derived from base ndop by prefix ma-, in C. 108 B, l. 5: vr̥liy urāṅ mandop sarvvākarādāna du yāṅ pov mahāliṅga. Huber (1911: 276) translated this “si un homme détruit les biens du dieu Mahāliṅga”. If this translation is correct, then mandop would mean ‘destroy’ and the base ndop would be a synonym of the word top that is repeatedly used in this inscription. But Huber gives no arguments and his proposal seems to us rather unlikely to be correct (among other reasons because sarvvākarādāna can hardly mean ‘goods’)--> <!-- sur A&C, p. 217 et 229, dơp = se cacher, caché, dissimulé, couvert fuir OU inonder, déborder, couvrir, dépasser. -->
+           les impôts au Y.P. Mahāliṅga, <supplied reason="subaudible">et</supplied> brise cette exemption ou bafoue l’autorisation du <foreign>gr̥hastha</foreign>, qu’une multitude de chiens montent la mère de cet homme et qu’à sa mort il aille résider dans les ténèbres de l’enfer jusqu’à la fin de l’éon, la destruction.</p>
+           <p n="B8-B9">Le Y.P. Mahāliṅga qui se livre <supplied reason="explanation"><foreign>pvauh</foreign></supplied><!-- sapi2argr pourrait-il y avoir un lien avec A&C f291, pvah : novice, retraitant du malais puasa (skt upavasa), jeûne. Un lien qui ne retrouve apparemment pas dans les occurences du termes pvah, qui lui serait un élément de nom propre (cf cam lexicon). --> aux ascèses, connaît le <foreign>dharma</foreign>, protège <supplied reason="subaudible">et</supplied> restaure; les sacrificateurs qui se livrent aux ascèses, connaissent le <foreign>dharma</foreign>, protègent <supplied reason="subaudible">et</supplied> restaurent, jouiront<!-- sapi2argr une association explicite entre tmuv et tmov est présente dans A&C, f200.  --> du paradis et de la délivrance.
+           </p>
+           <p n="B9-">Le seigneur <supplied reason="explanation">pu pov tana rayā</supplied> à Sthirarājya: <list>
+           <item>le champ Masin: deux <foreign>jāk</foreign></item>
+           <item>le champ Krauc: deux  <foreign>jāk</foreign></item>
+           <item>le champ Kaṁk: un <foreign>jāk</foreign></item>
+           <item>le champ <gap reason="illegible" quantity="2" unit="character"/>: deux <foreign>jāk</foreign></item>
+           <item>le champ Udaya: 1 <foreign>jāk</foreign></item>
+           <item>le champ Dhvac: 1 <foreign>jāk</foreign></item>
+           <item>le champ Cak: 1 <foreign>jāk</foreign></item>
+           <item>le champ Tūpen: 1 <foreign>jāk</foreign></item>
+           <item>le champ Haluv Ravāṅ: 1 <foreign>jāk</foreign></item>
+           <item>le champ <gap reason="illegible" quantity="3" unit="character"/></item>
+           <item>le champ Gaḥ Pagār: 1 <foreign>jāk</foreign>; depuis le dessus de la maison</item>
+        </list>
+           </p>
          </div>
          <div type="commentary">
            <p n="B6-B7">Asov· vañak· ndoy· Inā Urāṅ· nan·. A similar phrase can be found in the inscription C. 106, l. B2-B3: Asov· vañāk· ñū ṇḍauy· Inā Urāṅ· nan·</p>

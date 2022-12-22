@@ -302,13 +302,14 @@
                   argr2sapi
                    - we have to ponder the various emendations proposed by Majumdar on p. 80 in footnote
                    - did Daniel Balogh send us an email commenting on this stanza?
+	    - enjambment between pādas c and d treated as per EGD v2 (gdoc draft) §2.3.6
                    - lokeśas sthāpito 'pi (corr. lokeśe sthāpite 'pi?) īśvara-guṇa-nipuṇo vismayo nāpy akāryy
                       atra asevi iha ājñayā na a-vinamita-matinā duṣṭa-vākyañ ca dharmme
                 -->
                 <l n="a">maryādābhedināpi śruti-vacana-pad<choice><sic>o</sic><corr>ā</corr></choice> tena duḥkhārtta-cittā</l>
                 <l n="b">nātyājy aspaṣṭa<lb n="B14" break="no"/>-netrāś śaraṇam upagatāś śatravo ’pi priyās syuḥ</l>
-                <l n="c" enjamb="yes">lokeśas sthāpito ’pīśvara-guṇa-nipu<choice><sic>n</sic><corr>ṇ</corr></choice>o vismayo nāpy akāryy a</l>
-                <l n="d">trāsevīhājñayānāvinami<lb n="B15" break="no"/>ta-matinā duṣṭa-vākyañ ca dharmme <g type="circleConcentricOval">.</g></l>
+                <l n="c" enjamb="yes">lokeśas sthāpito ’pīśvara-guṇa-nipu<choice><sic>n</sic><corr>ṇ</corr></choice>o vismayo nāpy akāryy atr</l>
+                <l n="d">āsevīhājñayānāvinami<lb n="B15" break="no"/>ta-matinā duṣṭa-vākyañ ca dharmme <g type="circleConcentricOval">.</g></l>
               </lg>
               <lg n="37" met="śārdūlavikrīḍita">
                 <l n="a" enjamb="yes">loke so ’py asamo narendra-yaśasā tvam̐<!-- argr2sapi: tvam̐ ? --> jñāna-buddhi-dyuti</l>

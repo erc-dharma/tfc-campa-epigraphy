@@ -90,6 +90,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+        <change who="part:sapi" when="2023-01-13" status="draft">Addition of placeName tagging</change>
          <change who="part:sapi" when="2021-01-14">started initial encoding of the inscription</change>
       </revisionDesc>
    </teiHeader>
@@ -128,13 +129,13 @@
             </lg>
             <lg n="6" met="indravajrā">
               <l n="a" enjamb="yes">lokapra <seg met="++"><gap reason="lost" quantity="2" unit="character"/></seg> ntrayaśoṁśuśuddha</l>
-              <l n="b">campādhipas sa<lb n="A9" break="no"/>rvvasukhapradātā<g type="dotMid">.</g></l>
+              <l n="b"><placeName type="region" subtype="country" key="Pramuditalokeśvara">campā</placeName>dhipas sa<lb n="A9" break="no"/>rvvasukhapradātā<g type="dotMid">.</g></l>
               <l n="c">śrī-Indravarmmā sa surendravarmmā<!--sapi2argr commentaire rtf: or read sasurendravarmmā?--></l>
               <l n="d">tadvattr̥dhameva cakāra tasmin·<g type="ddandaHooked">.</g></l>
             </lg>
             <lg n="7" met="āryā">
               <l n="ab">karuṇāmr̥tarasa<lb n="A10" break="no"/>rasikaḥ kevalam eva prajāhitāspadakr̥t·<g type="dotMid">.</g></l>
-              <l n="cd">yo muktiṁ sa ca nikhilāṁ pramuditalokeśvarā<lb n="A11" break="no"/>yādāt·<g type="ddandaHooked">.</g></l>
+              <l n="cd">yo muktiṁ sa ca nikhilāṁ <placeName type="builtPlace" subtype="monastery" key="Pramuditalokeśvara">pramuditalokeśvarā</placeName><lb n="A11" break="no"/>yādāt·<g type="ddandaHooked">.</g></l>
             </lg>
             <lg n="8" met="anuṣṭubh">
               <l n="a">vajradhātur asau pūrvvaṁ</l>
@@ -160,7 +161,7 @@
             <l n="c" enjamb="yes">pūrvveṇa nāgapuṣpākhye<g type="dotMid">.</g></l>
             <l n="d">nātma<lb n="B3" break="no"/>vaṁśena bhikṣuṇā<g type="dotMid">.</g><g type="ddandaHooked">.</g></l>
           </lg>
-          <p>Asmai śrīpramuditalokeśvaravihārāya tatpuṇyāya yat sarvvam idaṁ
+          <p>Asmai śrī<placeName type="builtPlace" subtype="monastery" key="Pramuditalokeśvara">pramuditalokeśvara</placeName>vihārāya tatpuṇyāya yat sarvvam idaṁ
           <lb n="B4"/>kṣetraṁ śrībhadravarmmadevas tadanujñayā dattavān·<g type="dotMid">.</g> punar api sa śrī Indravarmmadevaḥ sakalarājādhi<lb n="B5" break="no"/>rājaḥ tadanugrahasadbhāvāt· tad eva niyukta<choice><sic>m</sic><corr>vān</corr></choice>m·<g type="ddandaHooked">.</g>
         </p>
          <lg n="12" met="upajāti of triṣṭubh">
@@ -170,9 +171,9 @@
            <l n="d">śrīlokanātha<lb n="B7" break="no"/>s tu sa jīvavāre<g type="ddandaHooked">.</g><g type="dotMid">.</g><g type="ddandaHooked">.</g></l>
          </lg>
          <p>
-           mutiy· dai kṣetraṁ<g type="dotMid">.</g> kravāv· kṣetraṁ<g type="dotMid">.</g> vuyat· kṣetraṁ<g type="dotMid">.</g> glāṁ kṣetraṁ<g type="dotMid">.</g>
-           <lb n="B8"/>durī<!-- dunī? --> kṣetraṁ<g type="dotMid">.</g> vyauv· kṣetraṁ<g type="dotMid">.</g> klov·huviy· kṣetraṁ<g type="dotMid">.</g> jrāy· kṣetraṁ<g type="dotMid">.</g> tupaṁṅ· kṣetraṁ<g type="dotMid">.</g><g type="ddandaHooked">.</g><g type="dotMid">.</g><g type="ddandaHooked">.</g>
-           <lb n="B9"/>drain· kṣetraṁ<g type="dotMid">.</g> krat· kṣetraṁ<g type="dotMid">.</g> jalān·ṅauk· kṣetraṁ<g type="ddandaHooked">.</g>
+           <placeName type="cultivation" subtype="field" key="Mutiy Dai">mutiy· dai</placeName> kṣetraṁ<g type="dotMid">.</g> <placeName type="cultivation" subtype="field" key="Kravāv">kravāv·</placeName> kṣetraṁ<g type="dotMid">.</g> <placeName type="cultivation" subtype="field" key="Vuyat">vuyat·</placeName> kṣetraṁ<g type="dotMid">.</g> <placeName type="cultivation" subtype="field" key="Glāṁ">glāṁ</placeName> kṣetraṁ<g type="dotMid">.</g>
+           <lb n="B8"/><placeName type="cultivation" subtype="field" key="Durī">durī</placeName><!-- dunī? --> kṣetraṁ<g type="dotMid">.</g> <placeName type="cultivation" subtype="field" key="Vyauv">vyauv·</placeName> kṣetraṁ<g type="dotMid">.</g> <placeName type="cultivation" subtype="field" key="Klov Huviy">klov·huviy·</placeName> kṣetraṁ<g type="dotMid">.</g> <placeName type="cultivation" subtype="field" key="Jrāy">jrāy·</placeName> kṣetraṁ<g type="dotMid">.</g> <placeName type="cultivation" subtype="field" key="Tupaṁṅ">tupaṁṅ·</placeName> kṣetraṁ<g type="dotMid">.</g><g type="ddandaHooked">.</g><g type="dotMid">.</g><g type="ddandaHooked">.</g>
+           <lb n="B9"/><placeName type="cultivation" subtype="field" key="Drain">drain·</placeName> kṣetraṁ<g type="dotMid">.</g> <placeName type="cultivation" subtype="field" key="Krat">krat·</placeName> kṣetraṁ<g type="dotMid">.</g> <placeName type="cultivation" subtype="field" key="Jalān Ṅauk">jalān·ṅauk·</placeName> kṣetraṁ<g type="ddandaHooked">.</g>
          </p>
          </div>
          <div type="apparatus">

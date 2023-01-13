@@ -132,7 +132,7 @@
            <l n="d">śrī-kalpāhvaya-bhr̥t payo-nidhir iva śrīmat-kalālaṅkr̥taḥ<g type="ddandaHooked">.</g></l>
          </lg>
          <lg n="6" met="upajāti"><lb n="A9"/>
-           <l n="a">śrī-rudramaddhyeśvaram adbhutāṅgaṁ</l>
+           <l n="a">śrī-rudramaddhyeśvaram<!--sapi encoder en place? --> adbhutāṅgaṁ</l>
            <l n="b">sa dharmma-kāṅkṣī śiva-tatva-sevī</l>
            <l n="c" enjamb="yes">tad-bhaktaye śrī-jayasiṅhavarmma</l>
            <l n="d">-prasādataḥ sthāpita<lb n="A10" break="no"/>vān dharitryām·<g type="ddandaHooked">.</g><g type="floretComplex"/><g type="dotMid"/></l>
@@ -172,7 +172,7 @@
         </lg>
         <p xml:lang="ocm-Latn">humā nvaus·<!-- sapi2argr sur la pierre, ça ressemble à cvaus·. -->
           <lb n="B11"/>timuḥ Ājñā yāṅ· pu pov· ku śrījayasiṅhavarmmadeva<g type="dotMid"/>ra vriy· vuḥ di yāṅ· pov· ku siniy· rumaṅ·
-          <lb n="B12"/>humā ṅauk· rayā taṁl· vavaḥ krauṅ· nayauna riy· vavaḥ krauṅ· taṁl· smrāṅ· dakṣina yāṅ·<g type="dotMid"/><g type="ddandaHooked">.</g>
+          <lb n="B12"/><seg type="desc">humā ṅauk· rayā taṁl· vavaḥ krauṅ· nayauna riy· vavaḥ krauṅ· taṁl· smrāṅ· dakṣina yāṅ·<g type="dotMid"/><g type="ddandaHooked">.</g></seg>
           <lb n="B13"/>niy· mūla humā<g type="dotMid">.</g> humā <unclear>rayā</unclear> 1<g type="danda">.</g> Amvil· 2<g type="danda">.</g> ratvauk· 6<g type="danda">.</g> dandau kumvuṅ·<g type="danda">.</g> humā kumvuṅ· 1<g type="danda">.</g> ṅauk· sāṅ· 1<g type="danda">.</g> humā mvaṅ· 2<g type="danda">.</g>
           <lb n="B14"/>ṅauk· sāṅ· yvan· 2<g type="danda">.</g> pitau cumlaṅ· 1<g type="danda">.</g> Ajauñ· 1<g type="danda">.</g> humā cvaḥ 5<g type="danda">.</g> laṅā 1<g type="danda">.</g> humā camvāṅ· 3<g type="danda">.</g> sagor· 1<g type="danda">.</g>
           <lb n="B15"/>vvac· 1<g type="danda">.</g> taliṅi 1<g type="danda">.</g> humā Ikū Asov· 1<g type="danda">.</g> humā proṅ· 1<g type="danda">.</g> ndoṅ· 1<g type="danda">.</g> knām· 2<g type="danda">.</g> kandep· 1<g type="danda">.</g> srumai 1<g type="danda">.</g>

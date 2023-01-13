@@ -86,6 +86,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:sapi" when="2023-01-13" status="draft">Addition of placeName tagging</change>
          <change who="part:sapi" when="2022-07-31" status="draft">Reading on stone</change>
          <change who="part:sapi" when="2021-08-16" status="draft">Adding translation and commentaries</change>
          <change who="part:sapi" when="2021-08-12" status="draft">Beggining initial encoding of the inscription</change>
@@ -162,7 +163,7 @@
              <l n="cd">pitror guṇam abhivettum̐ pañcābhūvan saho<lb n="B12"/>darās tv adarāḥ<g type="ddandaPlain">.</g></l>
            </lg>
            <lg n="13" met="gīti">
-             <l n="ab">śrī-rudrapurī dadhatīva bhāti kailā<unclear>sa</unclear>dhurddhurañ jayatām·</l>
+             <l n="ab">śrī-<placeName type="settlement" subtype="town" key="Rudrapurī">rudrapurī</placeName> dadhatīva bhāti kailā<unclear>sa</unclear>dhurddhurañ jayatām·</l>
              <l n="cd">śrīrudravasatir a<lb n="B13"/>syām asmadvihitā<unclear>t</unclear>isādhu rañjayatām<g type="ddandaPlain">.</g></l>
            </lg>
            <lg n="14" met="sragdharā">

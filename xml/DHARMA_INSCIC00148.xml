@@ -161,11 +161,11 @@
            <p xml:lang="ocm-Latn">
              <!-- sapi and argr have read down to here on 2021-03-1O -->
              <milestone type="pagelike" unit="face" n="C"/>
-             <lb n="C1"/><gap reason="illegible" quantity="17" unit="character" precision="low"/>pra<unclear>māna</unclear> humā niy·
-             <lb n="C2"/><gap reason="illegible" quantity="17" unit="character" precision="low"/><unclear>vaḥ</unclear> kruvāv·<!-- sapi2argr au lieu de kravāv· --> tuy· cikir· huriy·
+             <lb n="C1"/><gap reason="illegible" quantity="17" unit="character" precision="low"/><seg type="desc">pra<unclear>māna</unclear> humā niy·
+             <lb n="C2"/><gap reason="illegible" quantity="17" unit="character" precision="low"/><unclear>vaḥ</unclear> kruvāv·<!-- sapi2argr au lieu de kravāv· --> tuy· <placeName type="settlement" subtype="village" key="Cikir Huriy">cikir· huriy·</placeName><!-- or undetermined -->
              <lb n="C3"/><gap reason="illegible" quantity="16" unit="character" precision="low"/><unclear>cvaḥ</unclear><!-- sapi2argr dvaḥ? pvaḥ? --> puĀk· vandaḥ neḥ nariy· na<lb
              n="C4" break="no"/><gap reason="illegible" quantity="13" unit="character" precision="low"/><unclear>vik·</unclear><!-- sapi2argr ou cik·? --> nan· tr<unclear>ā</unclear> tuy· krauṅ· nan· nau<!--for the unusual shape of -au, see d9 --> kaṁ
-             <lb n="C5"/><supplied reason="lost">n·</supplied><gap reason="illegible" quantity="14" unit="character" precision="low"/>nan· tr<unclear>ā</unclear> tuy· krauṅ· bhauk· ma<lb
+             <lb n="C5"/><supplied reason="lost">n·</supplied><gap reason="illegible" quantity="14" unit="character" precision="low"/>nan· tr<unclear>ā</unclear> tuy· krauṅ· <placeName type="hydrographic" subtype="river" key="Bhauk">bhauk·</placeName> ma</seg><lb
              n="C6" break="no"/><gap reason="illegible" quantity="14" unit="character" precision="low"/><unclear>po</unclear>v ku <unclear>danā</unclear>y· pināṅ· mavuḥ yāṅ· suvā<lb
              n="C7" break="no"/><supplied reason="lost">k·</supplied><!-- ou yāṅ pu ...? --><gap reason="illegible" quantity="16" unit="character" precision="low"/>driy· yāṅ· pov· ku śrī bhadrava<lb
              n="C8" break="no"/><supplied reason="lost" cert="low">rmman</supplied><!-- sapi2argr ou rmmadeva?  --><gap reason="illegible" quantity="19" unit="character" precision="low"/><supplied reason="lost" cert="low">h</supplied>u<supplied reason="lost" cert="low">mā</supplied> <unclear>niy· di yāṅ</unclear>·<!-- humā niy· di: ajout. --> pov· ku

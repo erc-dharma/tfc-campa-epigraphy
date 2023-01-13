@@ -81,6 +81,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+        <change who="part:sapi" when="2023-01-13" status="draft">Addition of placeName tagging</change>
          <change who="part:argr" when="2021-11-09" status="draft">Inserted hyphenation and avagrahas</change>
          <change who="part:sapi" when="2021-08-10" status="draft">Beggining the new translation</change>
          <change who="part:sapi" when="2021-04-19" status="draft">Adding translation and bibliography</change>
@@ -157,7 +158,7 @@
             <lg n="12" met="śārdūlavikrīḍita">
               <l n="a">mokṣe liṅgam udīritan tad adhiśasyeśāt purā <lb n="A14"/>yad bhr̥gus</l>
               <l n="b">tasmāc caivam uroja Eva tad idam̐ lebhe jagan nīyate</l>
-              <l n="c">campāyām̐ satatañ jagad-dhita-karam̐ liṅgam̐ pratiṣṭhāpitan</l>
+              <l n="c"><placeName type="region" subtype="country" key="Campā">campāyām̐</placeName> satatañ jagad-dhita-karam̐ liṅgam̐ pratiṣṭhāpitan</l>
               <l n="d">tenoraḫ-prabhunā tvayā hita-kr̥ta<unclear>m a</unclear>syāpy eva sadbhir bhbhavet·</l>
             </lg>
             <lg n="13" met="śārdūlavikrīḍita">
@@ -402,25 +403,25 @@ Voir le projet de note sous <p n="C28"...
                 <l n="d">pitrā <lb n="c31"/>ca mātrā ca sabandhu-varggaiḥ<g type="circleConcentricOval">.</g></l>
               </lg>
               <lg n="49" met="anuṣṭubh"><milestone type="pagelike" unit="face" n="d"/>
-                <l n="a"><lb n="d1"/><seg met="="><gap reason="lost" quantity="1" unit="character"/></seg>lāy·-kṣetraṁ Aso-ksetraṁ</l>
-                <l n="b">gamr̥<lb n="d2" break="no"/><unclear>yā</unclear>ṅ-kṣetraṁ tathaiva<space/></l>
-                <l n="c">jrauṅ·-Apaṅ·<lb n="d3" break="no"/>-salavaṅ-ksetraṁ<space/></l>
+                <l n="a"><lb n="d1"/><seg met="="><gap reason="lost" quantity="1" unit="character"/></seg><placeName type="cultivation" subtype="field" key="Lāy">lāy·</placeName>-kṣetraṁ <placeName type="cultivation" subtype="field" key="Aso">Aso</placeName>-ksetraṁ</l>
+                <l n="b"><placeName type="cultivation" subtype="field" key="Gamr̥yāṅ">gamr̥<lb n="d2" break="no"/><unclear>yā</unclear>ṅ</placeName>-kṣetraṁ tathaiva<space/></l>
+                <l n="c"><placeName type="cultivation" subtype="field" key="Jrauṅ Apaṅ Salavaṅ">jrauṅ·-Apaṅ·<lb n="d3" break="no"/>-salavaṅ</placeName>-ksetraṁ<space/></l>
                 <l n="d">sadamandiṅ<!--
                   sapi2argr saṁdamandiṅ ?
                   argr2sapi possible, mais il ya pas mal de "faux" anusvāras sur faces d et d, donc tout dépend de si nous pouvons trouver un sens pour le toponyme plutôt dans l'une ou dans l'autre hypothèse de lecture. 3e et 4e options: saṁ Umandiṅ, saUmandiṅ.
                 --> dhanya-dvayaṁ</l>
               </lg>
               <lg n="50" met="anuṣṭubh">
-                <l n="a"><lb n="d4"/>damanuv·-vlur·-candāṅ-kṣetraṁ</l>
-                <l n="b">dandān-kṣ<choice><sic>a</sic><corr>e</corr></choice><lb n="d5" break="no"/>traṁ vataiṅ· tathā<space/></l>
+                <l n="a"><lb n="d4"/><placeName type="cultivation" subtype="field" key="Damanuv Vlur Candāṅ">damanuv·-vlur·-candāṅ</placeName>-kṣetraṁ</l>
+                <l n="b"><placeName type="cultivation" subtype="field" key="Dandān">dandān</placeName>-kṣ<choice><sic>a</sic><corr>e</corr></choice><lb n="d5" break="no"/>traṁ vataiṅ· tathā<space/></l>
                 <l n="c">ṅauk·-Amvil·-cva<unclear>ḥ</unclear><!--
                     sapi2argr cvaḥ ?
                     argr2sapi oui c'est possible, et peut-être même probable, car cvaḥ se trouve souvent dans la délimitation des terres; donc si un mot cva n'existe pas...
-                  --><lb n="d6" break="no"/>-patāk·-kṣetraṁ<space/></l>
-                <l n="d">raṅaul·-kṣetraṁ Atau<lb n="d7" break="no"/>r· sivaḥ</l>
+                  --><lb n="d6" break="no"/>-<placeName type="cultivation" subtype="field" key="Patāk">patāk·</placeName>-kṣetraṁ<space/></l>
+                <l n="d"><placeName type="cultivation" subtype="field" key="Raṅaul">raṅaul·</placeName>-kṣetraṁ Atau<lb n="d7" break="no"/>r· sivaḥ</l>
               </lg>
               <lg n="51" met="anuṣṭubh">
-                <l n="a">lvuk·-tandreṁ<!-- argr2sapi: tandrīṁ? -->-lvuk-kavov·-kṣetraṁ</l><!-- argr2sapi: maybe possible and better to read karvov·? at least the fact that we expect an r and that this might be a way to get it should be mentioned in an apparatus note -->
+                <l n="a"><placeName type="cultivation" subtype="field" key="Lvuk Tandreṁ Lvuk Kavov">lvuk·-tandreṁ<!-- argr2sapi: tandrīṁ? -->-lvuk-kavov·</placeName>-kṣetraṁ</l><!-- argr2sapi: maybe possible and better to read karvov·? at least the fact that we expect an r and that this might be a way to get it should be mentioned in an apparatus note -->
                 <l n="b"><lb n="d8"/>vamanauṅ· ca Avam̃ tathā<space/></l>
                 <!-- argr2sapi: add to handNote that m̃ is used in this part of the text.  -->
                 <l n="c">kṣetrā<lb n="d9" break="no"/>ṇy etāni sarvvāṇi</l>

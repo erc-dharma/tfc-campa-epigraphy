@@ -90,7 +90,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:sapi" when="2023-01-13" status="draft">Addition of placeName and seg tagging</change>
+         <change who="part:sapi" when="2023-01-16" status="draft">Addition of placeName and seg tagging</change>
          <change who="part:sapi" when="2021-08-17" status="draft">reading on stone</change>
          <change who="part:sapi" when="2021-08-25" status="draft">beggining the translation</change>
          <change who="part:sapi" when="2021-02-12" status="draft">few corrections</change>

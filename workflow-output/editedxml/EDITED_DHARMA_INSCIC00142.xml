@@ -90,6 +90,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:sapi" when="2023-01-13" status="draft">Addition of placeName and seg tagging</change>
          <change who="part:sapi" when="2021-08-17" status="draft">reading on stone</change>
          <change who="part:sapi" when="2021-08-25" status="draft">beggining the translation</change>
          <change who="part:sapi" when="2021-02-12" status="draft">few corrections</change>
@@ -252,7 +253,7 @@
               <l n="d">niśśeṣārthaṁ matīhayā<g type="dotMid">.</g></l>
             </lg>
             <p>
-              <lb n="B15"/>śrījayasiṁhavarmmadevasya puṇyaḥ śrī<placeName type="builtPlace" subtype="temple" key="Jayaguheśvara">jayaguheśvaro</placeName> devo viṣṇuś ca <placeName type="settlement" subtype="town" key="Viṣṇupura">viṣṇupure</placeName><g type="dotMid">.</g><g type="dandaPlain">.</g> śrī-bhadravarmma-devasya punyaḥ śrī-prakāśa-bhadre<lb n="B16" break="no"/>śvaraḥ śrī-rudrakoṭīśvaraś ca śrī-bhadramalayeśvaraś ca śrī-bhadracampeśvaraś ca śrī-bhadramaṇḍaleśvaraś ca<g type="dotMid">.</g> śrī-dharmmeśvaraś ca<g type="dotMid">.</g> śrī-bhadrapureśvaraś ca<g type="dotMid">.</g> te<lb n="B17" break="no"/>ṣu praśastāni śilālekhā-kṣarālaṅkr̥tāny akarod ājñā jayendrapati-nāmāmātyo nekaparibhogadaulikāmā<lb n="B18" break="no"/>yūrakanakanivaddhakhadga-kośa-kalaśabhr̥ṅgār·rajatabhājanakatisūtra-kuṇḍala-kuṇḍala-gaṇa-cirāṇḍayugalavasanādīni prāptavān rā<lb n="B19" break="no"/>japrasādād iti<g type="ddandaPlain">.</g>
+              <lb n="B15"/>śrījayasiṁhavarmmadevasya puṇyaḥ śrī<placeName type="builtPlace" subtype="temple" key="Jayaguheśvara">jayaguheśvaro</placeName> devo viṣṇuś ca <placeName type="settlement" subtype="town" key="Viṣṇupura">viṣṇupure</placeName><g type="dotMid">.</g><g type="dandaPlain">.</g> śrī-bhadravarmma-devasya punyaḥ śrī-<placeName type="builtPlace" subtype="temple" key="Prakāśabhadreśvara">prakāśa-bhadre<lb n="B16" break="no"/>śvaraḥ</placeName> śrī-<placeName type="builtPlace" subtype="temple" key="Rudrakoṭīśvara">rudrakoṭīśvaraś</placeName> ca śrī-<placeName type="builtPlace" subtype="temple" key="Bhadramalayeśvara">bhadramalayeśvaraś</placeName> ca śrī-<placeName type="builtPlace" subtype="temple" key="Bhadracampeśvara">bhadracampeśvaraś</placeName> ca śrī-<placeName type="builtPlace" subtype="temple" key="Bhadramaṇḍaleśvara">bhadramaṇḍaleśvaraś</placeName> ca<g type="dotMid">.</g> śrī-<placeName type="builtPlace" subtype="temple" key="Dharmeśvara">dharmmeśvaraś</placeName> ca<g type="dotMid">.</g> śrī-<placeName type="builtPlace" subtype="temple" key="Bhadrapureśvara">bhadrapureśvaraś</placeName> ca<g type="dotMid">.</g> te<lb n="B17" break="no"/>ṣu praśastāni śilālekhā-kṣarālaṅkr̥tāny akarod ājñā jayendrapati-nāmāmātyo nekaparibhogadaulikāmā<lb n="B18" break="no"/>yūrakanakanivaddhakhadga-kośa-kalaśabhr̥ṅgār·rajatabhājanakatisūtra-kuṇḍala-kuṇḍala-gaṇa-cirāṇḍayugalavasanādīni prāptavān rā<lb n="B19" break="no"/>japrasādād iti<g type="ddandaPlain">.</g>
             </p>
             <p xml:lang="ocm-Latn">
               <lb n="B20"/>sā suvauk· pirak· sā ta <gap reason="lost" quantity="1" unit="character"/>n· laṅgov· sā tralāy· laṅgov· tluv· Avista dravya nan· ṅan· vlim̃ kintu yām̃ pu pov ku śrījayasim̃havarmmade<lb n="B21" break="no"/>va yam̃ṅ· <unclear>katu</unclear><gap reason="lost" quantity="1" unit="character"/>· <gap reason="lost" quantity="3" unit="character"/>n·
@@ -291,7 +292,7 @@
               <lb n="D20"/>ku siniy· paknā dharmma niy· siy· srauṅ· punya va<!-- sapi2argr à la place de  <choice><unclear>u</unclear><unclear>va</unclear></choice>--> kamiy·
               <lb n="D21"/>paknā kaṁn· Urāṅ· tapaḥ viśeṣa sidaḥ luniy· napāy·
               <lb n="D22"/>hetu jeṅ· daḥ sunan· Urāṅ· tapaḥ viśeṣa nan· tan madā<g type="crossPlus">.</g>
-              <lb n="D23"/>humā vandrauv· nariy· tu<unclear>ṁ</unclear> <choice><unclear>g</unclear><unclear>th</unclear><unclear>bh</unclear></choice>au nau patam̃l· huluv· AIr· draṁ A
+              <lb n="D23"/>humā <placeName type="cultivation" subtype="field" key="Vandrauv">vandrauv·</placeName> <seg type="desc">nariy· tu<unclear>ṁ</unclear> <choice><unclear>g</unclear><unclear>th</unclear><unclear>bh</unclear></choice>au nau patam̃l· huluv· AIr· draṁ</seg> A
               <lb n="D24"/>viḥ humā nan· kā ra vuḥ di yāṅ· pov· ku śrīmahārudra
               <lb n="D25"/>ṅan· AIr· draṁ niy· ṅan· cal· nim̃ tanaḥ glai klauv· nim̃ Aviḥ
               <lb n="D26"/>nau kintu vlim̃ ṅan· dravya curav· pirak· dvā kalaśa pirak·

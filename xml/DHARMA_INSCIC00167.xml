@@ -89,9 +89,10 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:argr part:sapi" when="2020-12-09" status="draft">continuing translation of old Cam part</change>
-         <change who="part:argr part:sapi" when="2020-12-02" status="draft">continuing translation of old Cam part</change>
-         <change who="part:argr part:sapi" when="2020-11-25" status="draft">started translation of old Cam part</change>
+         <change who="part:sapi" when="2023-01-16" status="draft">Addition of placeName tagging</change>
+         <change who="part:argr part:sapi" when="2020-12-09" status="draft">Continuing translation of old Cam part</change>
+         <change who="part:argr part:sapi" when="2020-12-02" status="draft">Continuing translation of old Cam part</change>
+         <change who="part:argr part:sapi" when="2020-11-25" status="draft">Started translation of old Cam part</change>
          <change who="part:argr part:sapi" when="2020-11-18" status="draft">Multiple small edits</change>
          <change who="part:argr" when="2020-11-04" status="draft">Resolved validation problems; multiple small edits</change>
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
@@ -130,7 +131,7 @@
 	<l n="a">śākābde rasa-loka-maṅgala-yute jīve tula-sthe bhr̥<lb n="B2" break="no"/>gau<g type="danda">.</g></l>
 	<l n="b">me<choice><sic>ś</sic><corr>ṣ</corr></choice>a-sthe 'pi ca bauddh<choice><sic>am</sic><corr>a</corr></choice> eva ca bhavān m<choice><sic>ā</sic><corr>a</corr></choice>hīndralokeśvara<choice><sic>m·</sic><corr>ḥ</corr></choice><g type="danda">.</g></l>
 	<l n="c">candre kany<choice><sic>a</sic><corr>ā</corr></choice>-gate ca yo nava-niśānt<choice><unclear>ā</unclear><unclear>a</unclear></choice>ṁ sthāpitaḥ kīrttaye<g type="danda">.</g></l>
-	<l n="d">me<choice><sic>śen</sic><corr>ṣeṇ</corr></choice>āpi mahī<lb n="B3" break="no"/>ndrapūraṇa-pure vaiśākha-śuklasya saḥ<g type="danda">.</g><g type="ddanda">.</g></l>
+	<l n="d">me<choice><sic>śen</sic><corr>ṣeṇ</corr></choice>āpi <placeName type="settlement" subtype="town" key="Mahīndrapūraṇapura">mahī<lb n="B3" break="no"/>ndrapūraṇa-pure</placeName> vaiśākha-śuklasya saḥ<g type="danda">.</g><g type="ddanda">.</g></l>
 </lg>
 <lg n="6" met="anuṣṭubh">
 	<l n="a">puṇyaṁ śubham upanītaṁ<g type="danda">.</g></l>
@@ -144,22 +145,22 @@
 </lg>
 <lg n="8" met="śārdūlavikrīḍita">
 	<l n="a">tāṁ muktiṁ sakalāṁ tatas tava subha<lb n="C2" break="no"/>drā-saṁjñakāyāy adā<g type="danda">.</g>t</l>
-	<l n="b">sat-kīrtty-ābharaṇaugham eva ca bhavām̐s tanreṅ-purīndro yuvā<g type="danda">.</g></l>
+	<l n="b">sat-kīrtty-ābharaṇaugham eva ca bhavām̐s <placeName type="settlement" subtype="town" key="Tanreṅpurī">tanreṅ-purīndro</placeName> yuvā<g type="danda">.</g></l>
 	<l n="c">tasyai ketaka-reṇu-reṇu-vadanāyai prīty-anāśāya yaḥ<g type="danda">.</g></l>
 	<l n="d">sau<lb n="C3" break="no"/><supplied reason="lost">bhā</supplied>gye sati <unclear>s</unclear>au-viśāla-nayanāyai cāvalāyai sadā<g type="danda">.</g><g type="floretQuatrefoil"/> <g type="danda">.</g></l>
 </lg>
 <p xml:lang="ocm-Latn">humā hali<g type="danda">.</g>
-	kedvuk·<g type="danda">.</g>
-	cuvair· bhoja<!-- or moja? dhoja? --><g type="danda">.</g>
-	lahaur·<g type="danda">.</g>
-	pitau janreḥ<g type="danda">.</g>
-	humā <unclear>p</unclear>uṅ· manat·
-<milestone type="pagelike" unit="face" n="D"/><lb n="D1"/>Ikān· <unclear>p</unclear>u<g type="danda">.</g>
-	curiḥ<g type="danda">.</g>
-	diṅin·<g type="danda">.</g>
-	Aṅau<unclear>y</unclear>·<g type="danda">.</g>
-	<unclear>lā</unclear>c·<g type="danda">.</g>
-	luvauṅ·<g type="danda">.</g>
+	<placeName type="cultivation" subtype="field" key="Kedvuk">kedvuk·</placeName><g type="danda">.</g>
+	<placeName type="cultivation" subtype="field" key="Cuvair Bhoja">cuvair· bhoja</placeName><!-- or moja? dhoja? --><g type="danda">.</g>
+	<placeName type="cultivation" subtype="field" key="Lahaur">lahaur·</placeName><g type="danda">.</g>
+	<placeName type="cultivation" subtype="field" key="Pitau Janreḥ">pitau janreḥ</placeName><g type="danda">.</g>
+	humā <placeName type="cultivation" subtype="field" key="Puṅ Manat Ikān Pu"><unclear>p</unclear>uṅ· manat·
+<milestone type="pagelike" unit="face" n="D"/><lb n="D1"/>Ikān· <unclear>p</unclear>u</placeName><g type="danda">.</g>
+	<placeName type="cultivation" subtype="field" key="Curiḥ">curiḥ</placeName><g type="danda">.</g>
+	<placeName type="cultivation" subtype="field" key="Diṅin">diṅin·</placeName><g type="danda">.</g>
+	<placeName type="cultivation" subtype="field" key="Aṅauy">Aṅau<unclear>y</unclear>·</placeName><g type="danda">.</g>
+	<placeName type="cultivation" subtype="field" key="Lāc"><unclear>lā</unclear>c·</placeName><g type="danda">.</g>
+	<placeName type="cultivation" subtype="field" key="Luvauṅ">luvauṅ·</placeName><g type="danda">.</g>
 	kaun· vauk· ndāk· <unclear>k</unclear>laur·<!-- as in pirak kā in next line, we seem to have here a sloppy k -->
 	dandau vukī Avista humā nan·<g type="dotMid">.</g>
 <lb n="D2"/>cluṅ· dhuṅ· ṅauk· dlai klov· nan·<unclear><g type="danda">.</g></unclear>

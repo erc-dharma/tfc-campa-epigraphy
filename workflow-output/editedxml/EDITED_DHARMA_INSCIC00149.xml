@@ -2,8 +2,8 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -325,7 +325,7 @@
                  </app>
                  <app loc="C1">
                      <lem>yenāyam agrajo <gap reason="illegible" quantity="1" unit="character"/>i<gap reason="illegible" quantity="2" unit="character"/>ām evam</lem>
-                     <rdg source="bib:Huber1911_01">yo’yam agraja<gap reason="illegible" quantity="5" unit="character"/> evam</rdg>
+                     <rdg source="bib:Huber1911_01">yo ’yam agraja<gap reason="illegible" quantity="5" unit="character"/> evam</rdg>
                      <note>Perhaps restore nijakathām, although the shape of the ā-vocalisation rather makes one suspect its supporting consonant to be ṅ, j, ñ or ṭ.</note>
                  </app>
                  <app loc="C2">
@@ -368,12 +368,12 @@
                  <app loc="C11">
                      <lem>puĀk·</lem>
                      <rdg source="bib:Huber1911_01">purāk·</rdg>
-                     <note>Huber admitted that the reading was uncertain. The combination pu Āk also occurs in C. 148, l. C. 3. Another combination, pu AUk·, occurs in C. 30B1, l. 4-5 (should it be corrected in pu Āk?)</note>
+                     <note>Huber admitted that the reading was uncertain. The combination pu Āk also occurs in C. 148, l. C. 3. Another combination, pu AUk·, occurs in C. 30B1, l. 4-5 (should it be corrected in pu Āk?)</note>
                  </app>
                  <app loc="D7">
                      <lem>bhauk·</lem>
                      <rdg source="bib:Huber1911_01">gauk·</rdg>
-                     <note>Cf. l. 1.</note>
+                     <note>Cf. l. 1.</note>
                  </app>
                  <app loc="D9">
                      <lem>kuñit·</lem>
@@ -453,7 +453,7 @@
             <p n="B9-B10">Huber identifies this passages as an Āryā stanza (nr. XIV), but this cannot be correct. We believe the passage is prose.</p>
          </div>
         <div type="bibliography">
-          <p>First edited with translation into French by E. Huber (<bibl rend="omitname"><ptr target="bib:Huber1911_01"/><citedRange unit="page">299-311</citedRange></bibl>). The inscription is re-edited here by Arlo Griffiths based on autopsy and the EFEO estampages n. 156.</p>
+          <p>First edited with translation into French by E. Huber (<bibl rend="omitname"><ptr target="bib:Huber1911_01"/><citedRange unit="page">299-311</citedRange></bibl>). The inscription is re-edited here by Arlo Griffiths based on autopsy and the EFEO estampages n. 156.</p>
           <listBibl type="primary">
             <bibl n="H">
             <ptr target="bib:Huber1911_01"/>

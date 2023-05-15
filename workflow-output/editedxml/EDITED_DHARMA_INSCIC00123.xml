@@ -2,8 +2,8 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -156,7 +156,7 @@
             <lb n="3"/> ku śrī jaya siṅhavarmmadeva rai mak· panrām̃ tmum̃ di śaka 1179 <g>|</g> tam̃l· punaḥ rājābhiṣeka jem̃ pu pom̃ tana
             <lb n="4"/> rayā inravarmma rai mak· panrām̃ tmum̃ di śaka 1188 kṣama karuṇā śānti pasraum̃ jīva pak· rajan· sarvvadaṇda
             </ab>
-         </div><div type="apparatus"><listApp><app loc="4"><lem>pasraum̃</lem><rdg source="bib:Aymonier1891_01">papraum̃</rdg><note>Aymonier’s reading is inferred from his translation. The estampage favors reading <foreign>sr</foreign> rather than <foreign>pr</foreign>, and a form derived from the base <foreign>sraum̃</foreign> (<bibl><ptr target="bib:Aymonier+Cabaton1906_01"/><citedRange unit="page">497</citedRange></bibl>: <quote><foreign>vivre, demeurer, sauver</foreign></quote>) seems to fit better in the context (since <foreign>jīva</foreign> means ’life, spirit’ in Sanskrit).</note></app><!-- A: how/where to encode this note? The point is that the resp denotes not an actual edition, but an inference from a published translation.
+         </div><div type="apparatus"><listApp><app loc="4"><lem>pasraum̃</lem><rdg source="bib:Aymonier1891_01">papraum̃</rdg><note>Aymonier’s reading is inferred from his translation. The estampage favors reading <foreign>sr</foreign> rather than <foreign>pr</foreign>, and a form derived from the base <foreign>sraum̃</foreign> (<bibl><ptr target="bib:Aymonier+Cabaton1906_01"/><citedRange unit="page">497</citedRange></bibl>: <quote><foreign>vivre, demeurer, sauver</foreign></quote>) seems to fit better in the context (since <foreign>jīva</foreign> means ’life, spirit’ in Sanskrit).</note></app><!-- A: how/where to encode this note? The point is that the resp denotes not an actual edition, but an inference from a published translation.
                   CHECK http://www.tei-c.org/release/doc/tei-p5-doc/en/html/TC.html#TCTR
                --></listApp></div><!--   <div type="commentary">
             <p>FILL ME IN</p>

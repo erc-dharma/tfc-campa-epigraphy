@@ -2,8 +2,8 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -126,13 +126,13 @@
            <lb n="B10"/>tra dunan· thum̃<!-- assez difficile de reconnaître un th ici, on dirait plutôt m, mais voir le th assez semblable dans B12 tathāpi, et le cas de thum̃ dans B15 --> ṣāḍgunyābhiprāya tra dunan· kā tatap· tūm̃ manumārgga ya sapluḥ dalapan· prakāra tra mū<lb n="B11" break="no"/>lam̃ trā sidaḥ di kaliyuga nim̃ kintu yaḥ mahāpuruṣa nan· kā tmum̃ rājaparibhoga ṅan· guṇa sā prakāra
            <lb n="B12"/>mam̃n· tathāpi kaliḥ kā vā puruṣa nan· mohapramadana ṅāk· lupā yogaddhyāna samādhi da<!-- lecture un peu incertaine; comprendre ce mot comme A&C p. 211 da "non"? --> dharmmapuṇya para<lb n="B13" break="no"/>hitāhitayogyāyogyakaraṇa mapajem̃ yaśa kīrtti ṅan· sandyāṁ kam̃ Ātmā drim̃ di loka nim̃ ṅan· paraloka
            <lb n="B14"/>na<!-- quoi faire avec ce na? --> si yām̃ po ku śrī jaya Indravarmmadeva kā madā sampūrṇṇa ṅan· guṇa nan· tra rumam̃ dunan· kā tmum̃ rājaparibhoga mam̃n· dunan·
-           <lb n="B15"/>kā thum̃<!-- cf. B10 --> daḥ śarīra ṅan· paribhoga nim̃ haR̥<unclear>: m̃</unclear>ḥ Anitya mam̃n· si jem̃ dunan· kevala<!-- insérer une espace ici? -->sādhāra Utsāha di yogaddhyānasamādhi
+           <lb n="B15"/>kā thum̃<!-- cf. B10 --> daḥ śarīra ṅan· paribhoga nim̃ haR̥<unclear>:m̃</unclear>ḥ Anitya mam̃n· si jem̃ dunan· kevala<!-- insérer une espace ici? -->sādhāra Utsāha di yogaddhyānasamādhi
            <lb n="B16"/>vavā dharmma sadākāla punaḥ mulam̃ trā sidaḥ nagara campa nim̃ kintu kā liṅyak· śūnyākāra nau hetu śanāpa navai ta<lb n="B17" break="no"/>thāpi si yām̃ po ku śrī jaya Indravarmmadeva yam̃ṅ· devatāmūrtti nan· kā pajem̃ nagara rumam̃ jumvuv· patruḥ tam̃l· rilvai kā syāṁ
            <lb n="B18"/>samr̥ddhi samū pūrvvakāla mulam̃ tra ra vuḥ vihāra śrī Indralokeśvara di tranūl· vijaya ra vuḥ samasta Upabhoga devatā nan· pa<lb n="B19" break="no"/>ripūrṇṇa tra ra punaḥ ya doṁ devatā vukam̃n· Avista ra vuḥ suvarṇṇakośa ṅan· rajitakośa maddan· hemamukhamaku<lb n="B20" break="no"/>ṭa dadam̃n· sthāna devatā dinan· tra ra vuḥ Urām̃ ṅan· lumvau kruvāv· ṅan· samasta Upakaraṇa panūjā devatā dinan· mam̃n· ya doṁ
            <lb n="B21"/>devatā dinan· kā saṁmr̥ddhi syāṁ tmum̃ panūjā cāy· dhāy· pūrvvakāla mulam̃ mam̃n· ya doṁ sarvvajana caturvvarṇṇa sidaḥ brāhmaṇa
            <lb n="B22"/>kṣatriya vaiśya śūdra Avista ka pramuditamānasa <unclear>ra</unclear>n·<!-- On·? van·? Or·? --> di yām̃ po ku śrī jaya Indravarmmadeva<!-- Inra-? --> nan· samū
            <lb n="B23"/>svabhāva canrāditya <unclear>paran</unclear>·<!-- lire plutôt Anan·? --> puṇdirīkavuṅā <unclear>bhireṣa</unclear><!--note rtf : bhireṣa: read cireṣa? cireśa? --> ṅan· kumudavuṅā supara<!--note rtf : supara: read sumara? suthara?--> rim̃<g type="ddandaPlain">.</g> yām̃ po ku śrī jaya Indravarmmadeva dunan·
-           <lb n="B24"/>ya I: śvaramūrtti kā thum̃ daḥ yām̃ po ku śrīśānabhadreśvara nim̃ yaḥ I: śvara sakala pratyakṣa di lo<lb n="B25" break="no"/>ka nim̃ mam̃n· ra paṅap· suvarṇṇakośa ṣanmukha maknā ṅan· nāgabhūṣaṇa maddan· ratnarañjita si kā nivandha di śikha<lb n="B26" break="no"/>ra makuṭa dinan· kintu lac· Urddhvakośa nan· madā hema vicitra si kā pajem̃ Ādhāra Urddhvamukha dvā nan· ṅan· matā sū<lb n="B27" break="no"/>ryyakānti sā khanda si kā Ikak· di hulum̃ makuṭa nan· mukha sumvrām̃ pūrvva madā matā māṇikya sā si Ikak·
+           <lb n="B24"/>ya I:śvaramūrtti kā thum̃ daḥ yām̃ po ku śrīśānabhadreśvara nim̃ yaḥ I:śvara sakala pratyakṣa di lo<lb n="B25" break="no"/>ka nim̃ mam̃n· ra paṅap· suvarṇṇakośa ṣanmukha maknā ṅan· nāgabhūṣaṇa maddan· ratnarañjita si kā nivandha di śikha<lb n="B26" break="no"/>ra makuṭa dinan· kintu lac· Urddhvakośa nan· madā hema vicitra si kā pajem̃ Ādhāra Urddhvamukha dvā nan· ṅan· matā sū<lb n="B27" break="no"/>ryyakānti sā khanda si kā Ikak· di hulum̃ makuṭa nan· mukha sumvrām̃ pūrvva madā matā māṇikya sā si Ikak·
            <lb n="B28"/>di hulum̃ <choice><sic>mku</sic><corr>maku</corr></choice>ṭa nan· ṅan nāgarājabhūṣaṇa dakṣiṇottarapūrvvamukha nan· ṅan matā nīla pāk· si Ikak· di matā nāgarā<lb n="B29" break="no"/>ja nan· di hulum̃ makuṭa sumvrām̃ dakṣiṇa nan· matā māṇikya sā si Ikak· ganan· di hulum̃ makuṭa sumvrāṅ· pa<lb n="B30" break="no"/>ścima matā puṣparāga sā si Ikak· ganan· di hulum̃ makuṭa sumvrām̃ Uttara matā Uttaratna<!-- il faut supléer en qqch: Uttararatna? Uttamaratna? --> sā si Ikak· ga<lb n="B31" break="no"/>nan· pīṇa<!-- the same word figures in C. 82, l. 7! --> vana qnāk· kośa māḥ nan·<g type="dandaPlain">.</g> <num value="314">314</num> thil· <num value="8">8</num> draṁ<g type="dandaPlain">.</g> vana qnāk· māḥ ṣanmukha nan· ṅan· maku<lb n="B32" break="no"/>ṭa dinan· maddan nāgarāja dvā nan· ṅan· Ādhāra Urdhvamukha nan· rim̃<g type="dandaPlain">.</g> 136 thil·<g type="dandaPlain">.</g> Avi<add place="below">ḥ</add> jem̃<g type="dandaPlain">.</g> <num value="450">450</num> thim̃ <num value="8">8</num> draṁ
            śakarāja <num value="1010">1010</num>
            <!-- sapi and argr have checked down to here on 2021-06-09 -->
@@ -163,7 +163,7 @@
                  <app loc="A2">
                      <lem>tham̃ṅ·</lem>
                      <rdg source="bib:Finot1904_05">thāṅ·</rdg>
-                     <note>Probably read pam̃ṅ·. Cf. l. 7 below, C. 90, B l. 2 and C. 208. The akṣara th has quite a different shape in this inscription.</note>
+                     <note>Probably read pam̃ṅ·. Cf. l. 7 below, C. 90, B l. 2 and C. 208. The akṣara th has quite a different shape in this inscription.</note>
                  </app>
                  <app loc="A2">
                      <lem>kā rakṣā</lem>
@@ -268,7 +268,7 @@
                  <app loc="A16">
                      <lem>samvandha sā Artha</lem>
                      <rdg source="bib:Finot1904_05">samvandhaṇa Artha</rdg>
-                     <note>Cf. <foreign>Ekārtha</foreign> in line A12.</note>
+                     <note>Cf. <foreign>Ekārtha</foreign> in line A12.</note>
                  </app>
                  <app loc="A18">
                      <lem>lagaiḥ</lem>
@@ -364,7 +364,7 @@
                      <rdg source="bib:Finot1904_05">rumaṅ</rdg>
                  </app>
                  <app loc="B15">
-                     <lem>haR̥<unclear>: m̃</unclear>ḥ</lem>
+                     <lem>haR̥<unclear>:m̃</unclear>ḥ</lem>
                      <rdg source="bib:Finot1904_05"><gap reason="illegible" quantity="2" unit="character"/></rdg>
                      <note>The identification of the word intended here as the one spelt <foreign>haR̥ḥ</foreign> twice in <ref target="C00017.xml">C. 17</ref> is certain, but the spelling is not entirely clear. We assume that the notation <q>Inscr. haṝḥ</q> in <bibl><ptr target="bib:Aymonier+Cabaton1906_01"/><citedRange unit="entry"><foreign>haram̃ḥ/harơḥ</foreign></citedRange></bibl> means that the authors had seen the present occurrence and interpreted the slightly unclear <foreign>-ā</foreign> marker above <foreign>R̥</foreign> as standing in the function of a length mark, hence our representation of the marker as <foreign>:</foreign>. The presence of the <foreign>anusvāra-candra</foreign> is also somewhat uncertain.</note>
                  </app>
@@ -499,7 +499,7 @@
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-          <p>First edited with translation into French by L. Finot (<bibl rend="omitname"><ptr target="bib:Finot1904_05"/><citedRange unit="page">946-951</citedRange><citedRange unit="item">16</citedRange></bibl>). The inscription is re-edited here by Arlo Griffiths and Salomé Pichon based on autopsy and the EFEO estampage n. 333.</p>
+          <p>First edited with translation into French by L. Finot (<bibl rend="omitname"><ptr target="bib:Finot1904_05"/><citedRange unit="page">946-951</citedRange><citedRange unit="item">16</citedRange></bibl>). The inscription is re-edited here by Arlo Griffiths and Salomé Pichon based on autopsy and the EFEO estampage n. 333.</p>
          <listBibl type="primary">
            <bibl n="F">
            <ptr target="bib:Finot1904_05"/>

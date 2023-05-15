@@ -2,8 +2,8 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -204,7 +204,7 @@
             In fact the inscription is very well preserved.</note> About half of the text was edited, without translation, in <bibl>
             <ptr target="bib:Schweyer2008_01"/>
             <citedRange unit="page">227</citedRange>
-          </bibl>. This first complete reading of the inscription was done from photographs provided by the Museum of Fine Art and the EFEO estampage.<note>This estampage has been reproduced as fig. 8 (p. 43) in <bibl>
+          </bibl>. This first complete reading of the inscription was done from photographs provided by the Museum of Fine Art and the EFEO estampage.<note>This estampage has been reproduced as fig. 8 (p. 43) in <bibl>
               <ptr target="bib:Schweyer2005_03"/>
             </bibl>.</note>
         </p>

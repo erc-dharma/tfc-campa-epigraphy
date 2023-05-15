@@ -2,8 +2,8 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -163,7 +163,7 @@
 <app loc="1">
 <lem>n<unclear>ī</unclear> mūla <unclear>h</unclear>u<unclear>l</unclear>u <unclear>n·</unclear></lem>
 <rdg source="bib:Finot1903_04">...n mūla...</rdg>
-<note>The author adds a footnote indicating that <quote>il y avait deux <foreign>u</foreign> dans le mot qui suivait <foreign>mūla</foreign>: pb. <foreign>hulun</foreign></quote></note>
+<note>The author adds a footnote indicating that <quote>il y avait deux <foreign>u</foreign> dans le mot qui suivait <foreign>mūla</foreign> : pb. <foreign>hulun</foreign></quote></note>
 </app>
 <app loc="1-2">
 <lem>yām̃ <supplied reason="lost">pom̃ ku śrī jaya</supplied><unclear>pa</unclear>rameśvaravarmmadeva</lem>

@@ -2,8 +2,8 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -152,15 +152,15 @@
 <p>bhadreśvara-svāmi-pādānudhyātena c<supplied reason="lost">āsm</supplied>āka<supplied reason="lost">ṁ</supplied> mahārā<supplied reason="lost">jñā</supplied>
 <lb n="A5"/><supplied reason="lost">bha</supplied>dravarmmaṇā manuṣyam adhruvaṁ jñā<unclear>tvā</unclear> bhadreśvarāya Akṣayī nīvī dattā yathā pū<unclear>rvva</unclear><supplied reason="lost">taḥ</supplied>
 <lb n="A6"/><unclear>su</unclear>laha-parvvata dakṣiṇena mahā-parvvata paścimena kucoka-parvvata Uttareṇa ma<supplied reason="lost">hānadī</supplied>
-<lb n="A7"/><unclear>pa</unclear>rimāṇābbhyantarā sa-kuṭumbi-janā bhūmi<supplied reason="omitted">r</supplied> dattā; janapada-maryyādā ṣa<unclear>ḍ</unclear><!-- or read d? -->bhāge p<unclear>i</unclear> <gap reason="lost" quantity="3" unit="character" precision="low"/><!-- supply bhadreśvara? -->
+<lb n="A7"/><unclear>pa</unclear>rimāṇābbhyantarā sa-kuṭumbi-janā bhūmi<supplied reason="omitted">r</supplied> dattā ; janapada-maryyādā ṣa<unclear>ḍ</unclear><!-- or read d? -->bhāge p<unclear>i</unclear> <gap reason="lost" quantity="3" unit="character" precision="low"/><!-- supply bhadreśvara? -->
 <lb n="A8" break="no"/>svāminā daśa-bhāgenānugr̥hītā devasya dey<choice><orig>a</orig><reg>ā</reg></choice> Iti tad eva yathābhilikhitam akurvva<supplied reason="lost">to</supplied>
-<lb n="A9"/><unclear>de</unclear>vasya; janma-prabhr̥ti dharmma-prasavo yaḥ; tat-phalam bhadravarmmaṇaḥ; yadi kaś cid <choice><sic>a</sic><corr>ā</corr></choice>kramya hara<unclear>ti</unclear>
-<lb n="A10"/><unclear>vi</unclear>nāśayati vā; mukta-doṣā<supplied reason="omitted">ḥ</supplied> kuṭumbinaḥ; tasyoparī adharmma<supplied reason="omitted">ḥ</supplied> syāT;  cāturvvaidyaṁ rājā<unclear>naṁ</unclear>
-<lb n="A11"/>rājamātram <choice><sic>b</sic><corr>v</corr></choice>ā saha kuṭumbibhiḥ; vijñāpayāmi mamānukampārtthaṁ yan mayā dattaṁ mā vināśaya<choice><sic><unclear>tha</unclear></sic><corr>ta</corr></choice>
+<lb n="A9"/><unclear>de</unclear>vasya ; janma-prabhr̥ti dharmma-prasavo yaḥ ; tat-phalam bhadravarmmaṇaḥ ; yadi kaś cid <choice><sic>a</sic><corr>ā</corr></choice>kramya hara<unclear>ti</unclear>
+<lb n="A10"/><unclear>vi</unclear>nāśayati vā ; mukta-doṣā<supplied reason="omitted">ḥ</supplied> kuṭumbinaḥ ; tasyoparī adharmma<supplied reason="omitted">ḥ</supplied> syāT ;  cāturvvaidyaṁ rājā<unclear>naṁ</unclear>
+<lb n="A11"/>rājamātram <choice><sic>b</sic><corr>v</corr></choice>ā saha kuṭumbibhiḥ ; vijñāpayāmi mamānukampārtthaṁ yan mayā dattaṁ mā vināśaya<choice><sic><unclear>tha</unclear></sic><corr>ta</corr></choice>
 <milestone type="pagelike" unit="face" n="B"/>
 <lb n="B1"/>yadi vināśayatha janmani janmani vo yat sukr̥taṁ tan mama syāT
-<lb n="B2"/>yac ca mama duṣk<choice><orig>ri</orig><reg>r̥</reg></choice>taṁ tad yuṣmākaṁ<!-- yuṣm(ā)kaṁ Finot. The -ā seems visible on the estampage. --> syā<unclear>T</unclear>; Atha samyak paripālayatha tad yuṣm<choice><sic>a</sic><corr>ā</corr></choice>kam <choice><sic>a</sic><corr>e</corr></choice>va
-<lb n="B3"/>dharmma<supplied reason="omitted">ḥ</supplied> syād iti; bhūyo vijñā<supplied reason="omitted">pa</supplied>yāmi<!-- supply tam here? I had a note to vijñāpayāmi: " It is also necessary to restore <foreign>yam</foreign> after this verb form." But I don't understand now why I wanted yam and not tam. -->; ya Iha prabhavati; Ete deva-m<supplied reason="lost">u</supplied><unclear>ṣṭ</unclear>i-kārakāḥ <supplied reason="lost">te</supplied><lb n="B4" break="no"/><supplied reason="lost">ṣā</supplied>ṅ karmma na kārayitavyaṁ; syāc cora-bhaya<unclear>ṁ</unclear> skandhāvāra-<choice><sic>tva</sic><corr>du</corr></choice>ritaṁ vā rāja-kula-kāryyam anuṣṭheya<supplied reason="lost">M</supplied> <gap reason="lost" quantity="2" unit="character"/>
+<lb n="B2"/>yac ca mama duṣk<choice><orig>ri</orig><reg>r̥</reg></choice>taṁ tad yuṣmākaṁ<!-- yuṣm(ā)kaṁ Finot. The -ā seems visible on the estampage. --> syā<unclear>T</unclear> ; Atha samyak paripālayatha tad yuṣm<choice><sic>a</sic><corr>ā</corr></choice>kam <choice><sic>a</sic><corr>e</corr></choice>va
+<lb n="B3"/>dharmma<supplied reason="omitted">ḥ</supplied> syād iti ; bhūyo vijñā<supplied reason="omitted">pa</supplied>yāmi<!-- supply tam here? I had a note to vijñāpayāmi: " It is also necessary to restore <foreign>yam</foreign> after this verb form." But I don't understand now why I wanted yam and not tam. -->; ya Iha prabhavati; Ete deva-m<supplied reason="lost">u</supplied><unclear>ṣṭ</unclear>i-kārakāḥ <supplied reason="lost">te</supplied><lb n="B4" break="no"/><supplied reason="lost">ṣā</supplied>ṅ karmma na kārayitavyaṁ; syāc cora-bhaya<unclear>ṁ</unclear> skandhāvāra-<choice><sic>tva</sic><corr>du</corr></choice>ritaṁ vā rāja-kula-kāryyam anuṣṭheya<supplied reason="lost">M</supplied> <gap reason="lost" quantity="2" unit="character"/>
 <lb n="B5"/><unclear>macaguro</unclear> ’smākaṁ rājānaM; yat kiñ cit puṣpa-phalaṅ gr̥hyaṁ pādeṣu p<choice><sic>a</sic><corr>ā</corr></choice>ditavyam iti
 <lb n="B6"/>me mahila-putra-nat<unclear>r</unclear>̥ka-pana<unclear>tr̥</unclear>ka-jāmāduko vā vijñāpayāmi; ya<choice><sic>ṁ</sic><corr>n</corr></choice> mayā kr̥ta<lb n="B7" break="no"/><supplied reason="lost">m a</supplied>nupālaye<unclear>ta</unclear> vaḥ; Iha paratra ca; ma<unclear>ma ka</unclear>rmma-<unclear>pha</unclear>laṁ bhaviṣyati; tubh<unclear>y</unclear>aṁ prabhāva<lb n="B8" break="no"/><gap reason="lost" quantity="16" unit="character" precision="low"/>
 Ahannisvāret<unclear>o</unclear>; dharmmo bhaviṣyati
@@ -174,7 +174,7 @@ Ahannisvāret<unclear>o</unclear>; dharmmo bhaviṣyati
 							<note>sign in the form of a <hi rend="italic">triśūla</hi>.</note>
 						</app>
 							<app loc="A1">
-								<lem><g type="spiral">☉</g> svasti</lem><note>Finot omits the spiral-shaped fleuron and inserts after <foreign>svasti</foreign> the sign <g>||</g> which is not actually there.</note></app><app loc="I"><lem>s<unclear>a</unclear>sureśamukhyā</lem><note>the reading with short <foreign>a</foreign> in <foreign>sa</foreign> is uncertain. Judging only by the estampage, one might be inclined to read <foreign>sā</foreign>, but this would be unmetrical. See the note to our translation.</note>
+								<lem><g type="spiral">☉</g> svasti</lem><note>Finot omits the spiral-shaped fleuron and inserts after <foreign>svasti</foreign> the sign <g>||</g> which is not actually there.</note></app><app loc="I"><lem>s<unclear>a</unclear>sureśamukhyā</lem><note>the reading with short <foreign>a</foreign> in <foreign>sa</foreign> is uncertain. Judging only by the estampage, one might be inclined to read <foreign>sā</foreign>, but this would be unmetrical. See the note to our translation.</note>
 							</app>
 								<app loc="A1">
 									<lem>maheśvara<unclear>M</unclear></lem>
@@ -308,7 +308,7 @@ Ahannisvāret<unclear>o</unclear>; dharmmo bhaviṣyati
 														</app>
 														<app loc="B7">
 													    <lem><supplied reason="lost">m a</supplied>nupālaye<unclear>ta</unclear> vaḥ; Iha paratra ca</lem>
-															<rdg source="bib:Finot1902_02"><unclear>kuśalāyatanāḥ; vahularatnaca</unclear></rdg>
+															<rdg source="bib:Finot1902_02"><unclear>kuśalāyatanāḥ ; vahularatnaca</unclear></rdg>
 															<note>Understand <foreign>anupālyeta</foreign>?</note></app>
 <app loc="B7">
 <lem/>

@@ -2,8 +2,8 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -120,7 +120,7 @@
 	<l n="d"><seg met="++-+---+--+-+="><gap reason="lost" unit="character" quantity="14"/></seg></l>
 </lg>
 <lg n="3" met="anuṣṭubh">
-	<l n="a"><supplied reason="lost">bhā</supplied>ṇḍāgārādhikāro’yaṁ<space/></l>
+	<l n="a"><supplied reason="lost">bhā</supplied>ṇḍāgārādhikāro ’yaṁ<space/></l>
 	<l n="b">tasya bhr̥tyaḥ prasā<lb n="A3" break="no"/><seg met="+="><gap reason="lost" unit="character" quantity="2"/></seg></l>
 	<l n="c"><seg met="====-++="><gap reason="lost" unit="character" quantity="8"/></seg></l>
 	<l n="d"><seg met="====-+-="><gap reason="lost" unit="character" quantity="8"/></seg></l>
@@ -189,7 +189,7 @@
             <p>Finot &amp; Goloubew observe that <q xml:lang="fra">Le texte subsistant ne doit guère représenter que le quart de l’inscription totale</q> and that <q>Il paraît être rédigé en çlokas</q> (<bibl rend="omitname"><ptr target="bib:Finot+Goloubew1925_01"/><citedRange unit="page">472</citedRange></bibl>). The second claim is not confirmed by the more precise metrical analysis presented here. Our reconstruction of the lost text is based on the assumption that the text would have been more or less symmetrically distributed over the two sides of a pedestal, the conduit for libation fluids marking the transition from the first part (A) to the second (B). Part A of the text would have begun on either near the middle of the vertical face straight across the pedestal from the conduit, or in the far left corner viewed from the conduit; part B would have ended on back at the same point on the vertical face across the conduit, or in the far right corner. One line of text would, in each part, have extended over about 65 akṣaras. ]</p>
          </div>
         <div type="bibliography">
-           <p>First edited by Finot &amp; Goloubew (<bibl rend="omitname"><ptr target="bib:Finot+Goloubew1925_01"/></bibl>). Re-edited and here by Dániel Balogh &amp; Arlo Griffiths from the estampages EFEO n. 507 and photographs of the stone.</p>
+           <p>First edited by Finot &amp; Goloubew (<bibl rend="omitname"><ptr target="bib:Finot+Goloubew1925_01"/></bibl>). Re-edited and here by Dániel Balogh &amp; Arlo Griffiths from the estampages EFEO n. 507 and photographs of the stone.</p>
         	<listBibl type="primary">
 	<bibl n="FG"><ptr target="bib:Finot+Goloubew1925_01"/><citedRange unit="page">472-474</citedRange></bibl>
 	</listBibl>

@@ -2,8 +2,8 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -503,7 +503,7 @@ Voir le projet de note sous <p n="C28"...
                  </app>
                  <app loc="B14">
                      <lem>-nāvi</lem>
-                     <note>Perhaps emend °nāmi (proposed by Diwakar Acharya). The multiple emendations proposed by Majumdar, p. 80 (note) are unnecessary.</note>
+                     <note>Perhaps emend °nāmi (proposed by Diwakar Acharya). The multiple emendations proposed by Majumdar, p. 80 (note) are unnecessary.</note>
                  </app>
                  <app loc="B15">
                      <lem>-sam̐padālaṅkr̥taḥ</lem>
@@ -511,7 +511,7 @@ Voir le projet de note sous <p n="C28"...
                  </app>
                  <app loc="B18">
                      <lem>śr̥ṅgīn<choice><sic>a</sic><corr>e</corr></choice></lem>
-                     <note>“Le texte porte bien śr̥ṅgīṇa (sic! AG), mais il faut, selon toute apparence, corriger śr̥ṅgīne, chaque signe du zodiaque mentionné donnant lieu à un composé à part." (Finot)</note>
+                     <note>"Le texte porte bien śr̥ṅgīṇa (sic! AG), mais il faut, selon toute apparence, corriger śr̥ṅgīne, chaque signe du zodiaque mentionné donnant lieu à un composé à part." (Finot)</note>
                  </app>
                  <app loc="B20">
                      <lem>-sam̐pad</lem>
@@ -657,7 +657,7 @@ Voir le projet de note sous <p n="C28"...
            <p n="d23">bhavantas: Finot doesn’t seem to have translated this word, the meaning of which is indeed not very clear. Compare to the use of bhavān in C. 167?</p>
          </div>
         <div type="bibliography">
-           <p>First edited with translation into French by L. Finot (<bibl rend="omitname"><ptr target="bib:Finot1904_01"/><citedRange unit="page">84-99</citedRange></bibl>). The inscription is re-edited here by Arlo Griffiths and Salomé Pichon based on autopsy and the EFEO estampages n. 264, n. 2116 and n. 2121.</p>
+           <p>First edited with translation into French by L. Finot (<bibl rend="omitname"><ptr target="bib:Finot1904_01"/><citedRange unit="page">84-99</citedRange></bibl>). The inscription is re-edited here by Arlo Griffiths and Salomé Pichon based on autopsy and the EFEO estampages n. 264, n. 2116 and n. 2121.</p>
         	<listBibl type="primary">
             <bibl n="F">
             <ptr target="bib:Finot1904_01"/>

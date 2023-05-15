@@ -2,8 +2,8 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -125,7 +125,8 @@ rizières, ainsi que tous les ustensiles pour le culte des dieux et le service d
          </div>
         <div type="bibliography">
            <p>First edited by G. Cœdès (<bibl rend="omitname"><ptr target="bib:Coedes1912_01"/><citedRange unit="page">15-17</citedRange></bibl>). Then mentioned by L. Finot (<bibl rend="omitname"><ptr target="bib:Finot1915_02"/><citedRange unit="page">41</citedRange></bibl>) and R. C. Majumdar (<bibl rend="omitname"><ptr target="bib:Majumdar1927_01"/><citedRange unit="page">154</citedRange></bibl>).
-           Cœdès’ edition was later re-published by K.-H. Golzio (<bibl rend="omitname"><ptr target="bib:Golzio2004_01"/><citedRange unit="page">131</citedRange></bibl>). The text is re-edited here by Arlo Griffiths from the estampage EFEO 781, with a fresh translation.          </p>
+           Cœdès’ edition was later re-published by K.-H. Golzio (<bibl rend="omitname"><ptr target="bib:Golzio2004_01"/><citedRange unit="page">131</citedRange></bibl>). The text is re-edited here by Arlo Griffiths from the estampage EFEO 781, with a fresh translation.
+         </p>
          <listBibl type="primary">
            <bibl n="GC">
            <ptr target="bib:Coedes1912_01"/>

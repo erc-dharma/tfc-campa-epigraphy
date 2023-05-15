@@ -2,8 +2,8 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -220,33 +220,33 @@
                 </p></div><div type="translation" xml:lang="fra"><div type="textpart"><p>I. L’installation d’un étui pour les deux, Śrī Vr̥ddheśvaranātha et Śrī
                         Utpanneśvara, a été exécutée par Śrī Satyavarman.<note>Suivant la correction
                             proposée dans <bibl><ptr target="bib:Griffiths+al2008-2009_01"/><citedRange unit="page">298</citedRange></bibl>.
-                            Notre traduction de 2007 était: “L’installation de Śrī Vr̥ddheśvaranātha
+                            Notre traduction de 2007 était : « L’installation de Śrī Vr̥ddheśvaranātha
                             avec Śrī Utpanneśvara, [et] d’un étui pour chacun d’eux, a été exécutée
-                            par Śrī Satyavarman."</note></p><p>II. Cette installation du linga du Dieu Primordial (Siva), exécutée par lui
+                            par Śrī Satyavarman. »</note></p><p>II. Cette installation du linga du Dieu Primordial (Siva), exécutée par lui
                         (Satyavarman), a produit une gloire immaculée comme les rayons de la lune en
                         automne.</p><p>III. Ce pieux Śrī Satyavarman a établi, avec une grande dévotion, Śrī
                         Satyadeveśvaranātha en [l’an] évolu (<foreign>pūrṇa</foreign>) śaka 705 (5 [flèches], 0
                         [éther], 7 [monts]), le dixième jour [de la quinzaine] claire
                         (<foreign>śukladaśāhayukte</foreign>) [du mois] de Suci.</p><p>IV. Le Non-né (Siva), qui étend l’intégralité du triple monde avec ses huit
-                        corps, bien qu’il soit subtil; le maître (<foreign>prabhu</foreign>) à qui ces dieux
+                        corps, bien qu’il soit subtil ; le maître (<foreign>prabhu</foreign>) à qui ces dieux
                         (<foreign>gīrvāṇaḥ</foreign>) — à commencer par le Suprême (Viṣṇu) et le Non-né (Brahmā) —
-                        rendent hommage; lui qui, en fureur, a tué le fils de Lakṣmī (c.-à-d. Kāma)
+                        rendent hommage ; lui qui, en fureur, a tué le fils de Lakṣmī (c.-à-d. Kāma)
                         par le feu de son oeil qui se trouve à l’endroit du tilaka
-                        (<foreign>tamālapatra-pada-bhū</foreign>); ce fortuné Śrī Satyadevesvara, à la geste
+                        (<foreign>tamālapatra-pada-bhū</foreign>) ; ce fortuné Śrī Satyadevesvara, à la geste
                         merveilleuse, est victorieux.</p><p>V. La gloire du roi Śrī Satyavarman, épanouie sur la terre, dépasse [celle
                         des] autres rois, comme la lumière de la lune [celle des] étoiles.</p></div><div type="textpart"><p>Tel le Nuage (c.-à-d. Indra), ses beaux membres sont rendus très lents par le
-                        poids des ornements que sont ses multiples vertus; tel le Seigneur des
+                        poids des ornements que sont ses multiples vertus ; tel le Seigneur des
                         Trois Mondes (c.-à-d. Viṣṇu en tant que Trivikrama), il a soumis le monde
-                        entier par sa valeur (<foreign>vikrama</foreign>); tel Celui dont le Siège est un lotus
+                        entier par sa valeur (<foreign>vikrama</foreign>) ; tel Celui dont le Siège est un lotus
                         (c.-à-d. Brahmā), il a des poids-lotus devant lesquels tous les rois se
-                        prosternent; il est le bienfaiteur du monde entier; il a exterminé
+                        prosternent ; il est le bienfaiteur du monde entier ; il a exterminé
                         radicalement (<foreign>samutkhāta</foreign>), avec les mille bras que sont les flammes
                         (<foreign>hutavaha-śikhā</foreign>) des grands sacrifices (qu’il faisait exécuter), les ennemis
-                        (<foreign>ahita-jana</foreign>) au coeur mauvais (<foreign>duḥsvānta</foreign>); il gratifie la terre, demeure de
+                        (<foreign>ahita-jana</foreign>) au coeur mauvais (<foreign>duḥsvānta</foreign>) ; il gratifie la terre, demeure de
                         la plénitude [qui est le résultat] des moeurs du pays, [la terre] dont les
                         défauts se sont enfuis (quand il les menaçait), qui a pour ceinture les
-                        vagues de l’océan, qui est gouvernée par un bon roi; il accorde à ceux qui
-                        se prosternent [devant lui] la plénitude des fruits de leur dévotion; [ce]
+                        vagues de l’océan, qui est gouvernée par un bon roi ; il accorde à ceux qui
+                        se prosternent [devant lui] la plénitude des fruits de leur dévotion ; [ce]
                         Śrī Satyavarman a également (tu) réinstallé, avec la Dame qui demeure à
                         Kuṭhāra, le Seigneur Śrī Mukhaliṅga qui était le pilier de base lors du
                         début [de la construction] de la Ville des Trois Mondes, qui fait la

@@ -2,8 +2,8 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -146,7 +146,7 @@
 		<rdg source="bib:Cabaton1904_01">ṣaṣṭārthānalaḥ</rdg>
 		<!--<rdg source="bib:Aymonier1891_01">aṣṭārdhānalaḥ</rdg>-->
 		<!--<rdg source="bib:Finot">aṣṭārdhanalaḥ</rdg>-->
-	<note>Aymonier’s proposal to read <foreign>aṣṭārdhānalaḥ</foreign> was mentioned in an authorial addition to <bibl><ptr target="bib:Cabaton1904_01"/><citedRange unit="page">690</citedRange></bibl>, while Finot took the editorial liberty of inserting his own reading <foreign>aṣṭārdhanalaḥ</foreign>, with which we concur, in n. 5 on that same page. Although we do not see a long <foreign>ā</foreign>-vocalization on the <foreign>rdh</foreign>, we agree with Finot and Aymonier that it is necessary to understand <foreign>aṣṭārdha-analaḥ</foreign>.</note>
+	<note>Aymonier’s proposal to read <foreign>aṣṭārdhānalaḥ</foreign> was mentioned in an authorial addition to <bibl><ptr target="bib:Cabaton1904_01"/><citedRange unit="page">690</citedRange></bibl>, while Finot took the editorial liberty of inserting his own reading <foreign>aṣṭārdhanalaḥ</foreign>, with which we concur, in n. 5 on that same page. Although we do not see a long <foreign>ā</foreign>-vocalization on the <foreign>rdh</foreign>, we agree with Finot and Aymonier that it is necessary to understand <foreign>aṣṭārdha-analaḥ</foreign>.</note>
 	</app>
 	<app loc="6">
 	<lem>ṇrapaḥ</lem>
@@ -156,7 +156,7 @@
 	<app loc="6">
 		<lem>sakram̃tta</lem>
 		<rdg source="bib:Cabaton1904_01">pakram̃ttha (?)</rdg>
-		<note>Cf. <ref target="DHARMA_INSCIC00043.xml">C. 43</ref>, face A, l. 9 and c, l. 15 and 21; <ref target="DHARMA_INSCIC00118.xml">C. 118</ref>.
+		<note>Cf. <ref target="DHARMA_INSCIC00043.xml">C. 43</ref>, face A, l. 9 and c, l. 15 and 21; <ref target="DHARMA_INSCIC00118.xml">C. 118</ref>.
 		</note>
 	</app>
 	<app loc="6-7">

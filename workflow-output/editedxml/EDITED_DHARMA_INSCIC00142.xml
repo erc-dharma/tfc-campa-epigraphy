@@ -2,8 +2,8 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -333,7 +333,7 @@
                  <app loc="B6">
                      <lem>vicitrārthām irādhīśa-</lem><!-- sapi2argr: faut-il garder le °-->
                      <rdg source="bib:Huber1911_01">vicitrārthādhirādhīśa-</rdg>
-                     <note>Huber emends to vicitrārthādhir adhīśa°, which does not seem to yield any sense, and ignores the pāda-boundary. Cf. C. 149, st. XII, for another attestion of the word irā ‘Earth’.</note>
+                     <note>Huber emends to vicitrārthādhir adhīśa°, which does not seem to yield any sense, and ignores the pāda-boundary. Cf. C. 149, st. XII, for another attestion of the word irā ‘Earth’.</note>
                  </app>
                  <app loc="B7">
                      <lem>mālāś<choice><sic>i</sic><corr>ī</corr></choice>rṣottama-</lem>
@@ -440,7 +440,7 @@
               <p n="D23-D26">The last four lines, of which the final two were left untransliterated by Huber, constitute an addition, continued at the bottom of B.</p>
          </div>
         <div type="bibliography">
-          <p>First edited with translation into French by E. Huber (<bibl rend="omitname"><ptr target="bib:Huber1911_01"/><citedRange unit="page">285-298</citedRange></bibl>). The inscription is re-edited here by Arlo Griffiths and Salomé Pichon based on autopsy and the EFEO estampages n. 157.</p>
+          <p>First edited with translation into French by E. Huber (<bibl rend="omitname"><ptr target="bib:Huber1911_01"/><citedRange unit="page">285-298</citedRange></bibl>). The inscription is re-edited here by Arlo Griffiths and Salomé Pichon based on autopsy and the EFEO estampages n. 157.</p>
           <listBibl type="primary">
             <bibl n="H">
             <ptr target="bib:Huber1911_01"/>

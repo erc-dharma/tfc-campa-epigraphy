@@ -2,8 +2,8 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -150,7 +150,7 @@
              </app>
              <app loc="A5">
                  <lem><supplied reason="lost">n</supplied><unclear>ī</unclear></lem>
-                 <note>Conjectural restitution. The word Aviḥ is very often followed by nī.</note>
+                 <note>Conjectural restitution. The word Aviḥ is very often followed by nī.</note>
              </app>
              <app loc="A7">
                  <lem>bhanḍāra</lem>
@@ -162,11 +162,11 @@
              </app>
              <app loc="A9">
                  <lem><unclear>Ana</unclear>tauṅ·</lem>
-                 <note>Cf. face B, l. 14.</note>
+                 <note>Cf. face B, l. 14.</note>
              </app>
              <app loc="A9">
                  <lem>hajai <unclear>s</unclear>von·</lem>
-                 <note>Cf. <ref target="DHARMA_INSCIC00064.xml">C. 64</ref> and <ref target="DHARMA_INSCIC00095.xml">C. 95</ref>.</note>
+                 <note>Cf. <ref target="DHARMA_INSCIC00064.xml">C. 64</ref> and <ref target="DHARMA_INSCIC00095.xml">C. 95</ref>.</note>
              </app>
              <app loc="A12">
                  <lem>devatāmurtti</lem>
@@ -255,7 +255,7 @@
              </app>
              <app loc="B3">
                  <lem>mahāsenāpatī</lem>
-                 <note>The ā of <foreign>mahā</foreign> isn’t the usual vertical stroke placed after the consonant, but it is written above the h, in a spiral shape. Later addition to the engraving of the text? Not a single case, cf. Svayamutpanna inscriptions.</note>
+                 <note>The ā of <foreign>mahā</foreign> isn’t the usual vertical stroke placed after the consonant, but it is written above the h, in a spiral shape. Later addition to the engraving of the text ? Not a single case, cf. Svayamutpanna inscriptions.</note>
              </app>
              <app loc="B3">
                  <lem>sahodara</lem>
@@ -275,7 +275,7 @@
              </app>
              <app loc="B8">
                  <lem>sthāna</lem>
-                 <note>Cf. l.1 of this same face, <foreign>utkr̥ṣṭa</foreign>, where a r̥ was also read. The subscrit th of this inscription can be read on this face, in l. 10, but as well l. 11 where it is identifical. The reading of the <foreign>akṣara</foreign> na in sthāna is not clear, I read ḥ.</note>
+                 <note>Cf. l.1 of this same face, <foreign>utkr̥ṣṭa</foreign>, where a r̥ was also read. The subscrit th of this inscription can be read on this face, in l. 10, but as well l. 11 where it is identifical. The reading of the <foreign>akṣara</foreign> na in sthāna is not clear, I read ḥ.</note>
              </app>
              <app loc="B8">
                  <lem>liṅyak·</lem>
@@ -285,7 +285,7 @@
              <app loc="B9">
                  <lem>hetap·</lem>
                  <rdg source="bib:Finot1904_05">rahatap·</rdg>
-                 <note>One could read <foreign>hetap</foreign>; <foreign>potap</foreign>; <foreign>rapatap</foreign> or <foreign>rahatap</foreign>.</note>
+                 <note>One could read <foreign>hetap</foreign> ; <foreign>potap</foreign> ; <foreign>rapatap</foreign> or <foreign>rahatap</foreign>.</note>
              </app>
              <app loc="B9">
                  <lem>prasā<unclear>ra</unclear></lem>
@@ -294,7 +294,7 @@
              <app loc="B10">
                  <lem>kalañca</lem>
                  <rdg source="bib:Finot1904_05">kalasthā</rdg>
-                 <note>Cf. <foreign>kalañ</foreign> in C. 122. The shape of the subscrit consonant is clearly different from that of <foreign>sthāna</foreign>, in l. 11.</note>
+                 <note>Cf. <foreign>kalañ</foreign> in C. 122. The shape of the subscrit consonant is clearly different from that of <foreign>sthāna</foreign>, in l. 11.</note>
              </app>
              <app loc="B11">
                  <lem>sthāna</lem>
@@ -330,7 +330,7 @@
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-          <p>First edited with translation into French by L. Finot (<bibl rend="omitname"><ptr target="bib:Finot1904_05"/><citedRange unit="page">941-943</citedRange><citedRange unit="item">14</citedRange></bibl>). The inscription is re-edited here by Arlo Griffiths based on autopsy and the EFEO estampage n. 137.</p>
+          <p>First edited with translation into French by L. Finot (<bibl rend="omitname"><ptr target="bib:Finot1904_05"/><citedRange unit="page">941-943</citedRange><citedRange unit="item">14</citedRange></bibl>). The inscription is re-edited here by Arlo Griffiths based on autopsy and the EFEO estampage n. 137.</p>
           <listBibl type="primary">
         <bibl n="F"><ptr target="bib:Finot1904_05"/>
         <citedRange unit="page">941-943

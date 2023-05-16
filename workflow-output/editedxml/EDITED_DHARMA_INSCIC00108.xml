@@ -86,6 +86,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:sapi" when="2023-05-16" status="draft">Adding a new translation in French</change>
          <change who="part:sapi" when="2021-06-10" status="draft">Initial encoding of the inscription</change>
       </revisionDesc>
    </teiHeader>
@@ -251,7 +252,7 @@
            les impôts au Y.P. Mahāliṅga, <supplied reason="subaudible">et</supplied> brise cette exemption ou bafoue l’autorisation du <foreign>gr̥hastha</foreign>, qu’une multitude de chiens montent la mère de cet homme et qu’à sa mort il aille résider dans les ténèbres de l’enfer jusqu’à la fin de l’éon, la destruction.</p>
            <p n="B8-B9">Le Y.P. Mahāliṅga qui se livre <supplied reason="explanation"><foreign>pvauh</foreign></supplied><!-- sapi2argr pourrait-il y avoir un lien avec A&C f291, pvah : novice, retraitant du malais puasa (skt upavasa), jeûne. Un lien qui ne se retrouve apparemment pas dans les occurences du termes pvah, car il s'agirait plutôt d'un élément de nom propre (cf cam lexicon). --> aux ascèses, connaît le <foreign>dharma</foreign>, protège <supplied reason="subaudible">et</supplied> restaure; les sacrificateurs qui se livrent aux ascèses, connaissent le <foreign>dharma</foreign>, protègent <supplied reason="subaudible">et</supplied> restaurent, jouiront<!-- sapi2argr une association explicite entre tmuv et tmov est présente dans A&C, f200.  --> du paradis et de la délivrance.
            </p>
-           <p n="B9-">Le seigneur <supplied reason="explanation">pu pov tana rayā</supplied> à Sthirarājya: <list>
+           <p n="B9-C10">Le seigneur <supplied reason="explanation">pu pov tana rayā</supplied> à Sthirarājya: <list>
            <item>le champ Masin: deux <foreign>jāk</foreign></item>
            <item>le champ Krauc: deux  <foreign>jāk</foreign></item>
            <item>le champ Kaṁk: un <foreign>jāk</foreign></item>
@@ -264,7 +265,13 @@
            <item>le champ <gap reason="illegible" quantity="3" unit="character"/></item>
            <item>le champ Gaḥ Pagār: un <foreign>jāk</foreign>; depuis le côté en amont de la maison jusqu’au côté du</item>
            <item>champ Tuṁ: un <foreign>jāk</foreign></item>
+           <item>les champs Tuṁ et Dandauv: cinquante <foreign>jāk</foreign> en amont de la maison et</item>
+           <item>le champ <gap reason="illegible" quantity="1" unit="character"/>diḥ: vingt-huit <foreign>jāk</foreign></item>
+           <item>le champ Tūpaṅ: quatre <foreign>jāk</foreign></item>
+           <item>le champ Kayauv: six <foreign>jāk</foreign> <gap reason="illegible" quantity="6" unit="character"/></item>
         </list>
+           </p>
+           <p n="D1-D7"><!-- LA FACE D EST A REVOIR -->Et tous font cent vingt et un <foreign>jāk</foreign>. Ici le <foreign>devadvāra</foreign> atteint Va<gap reason="illegible" quantity="1" unit="character"/> du <foreign>pov</foreign> nouveau<!-- sapi2argr ? vruv pourrait avoir un lien avec baruv: neuf, nouveau, récent ; non, non pas ; alors (au début des phrases); gaḥ barūv : au delà (A&C, p. 328). -->, le champ et tout ce que roi <supplied reason="explanation"><foreign>yāṅ pov ku</foreign></supplied> Śrī Jaya Indravarman offre au dieu <supplied reason="explanation"><foreign>yāṁ pu pov</foreign></supplied>.
            </p>
          </div>
          <div type="commentary">

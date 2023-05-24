@@ -22,6 +22,10 @@
                   <forename>Arlo</forename>
                   <surname>Griffiths</surname>
                </persName>
+               <persName ref="part:sapi">
+                  <forename>Salomé</forename>
+                  <surname>Pichon</surname>
+               </persName>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -295,6 +299,9 @@
            </app>
                </listApp>
          </div>
+         <div type="translation" resp="part:argr part:sapi">
+           <p n="B10-C12">h</p>
+           </div>
            <div type="translation" xml:lang="fra" source="bib:Finot1904_01">
              <p rend="stanza" n="1">Dans les trois mondes triomphe le suprême Śrī Jaya Guheśvara, aux pieds de qui se prosternent en foule les <foreign>Devas</foreign>, les <foreign>Asuras</foreign> et les <foreign>Munis</foreign> !</p>
              <p rend="stanza" n="2">Par celui qui régna avec le grand étendard de Viṣṇu et coupa l'arbre empoisonné de Kali funeste à la fortune des rois, par le roi Śrī Jaya Siṅhavarman fut élevé sur la terre, tel qu'un généreux et riche arbre <foreign>Kalpa</foreign> de gloire composé d'or et d'argent,</p>

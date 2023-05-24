@@ -22,6 +22,10 @@
                       <forename>Arlo</forename>
                       <surname>Griffiths</surname>
                    </persName>
+                   <persName ref="part:sapi">
+                      <forename>Salomé</forename>
+                      <surname>Pichon</surname>
+                   </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -273,11 +277,12 @@
            <item>le champ Kayauv : six <foreign>jāk</foreign> <gap reason="illegible" quantity="6" unit="character"/></item>
         </list>
            </p>
-           <p n="D1-D7"><!-- LA FACE D EST A REVOIR -->Et tous font cent vingt et un <foreign>jāk</foreign>. Ici le <foreign>devadvāra</foreign> atteint Va<gap reason="illegible" quantity="1" unit="character"/> du <foreign>pov</foreign> nouveau<!-- sapi2argr ? vruv pourrait avoir un lien avec baruv: neuf, nouveau, récent ; non, non pas ; alors (au début des phrases); gaḥ barūv : au delà (A&C, p. 328). -->, le champ et tout ce que roi <supplied reason="explanation"><foreign>yāṅ pov ku</foreign></supplied> Śrī Jaya Indravarman offre au dieu <supplied reason="explanation"><foreign>yāṁ pu pov</foreign></supplied>.
+           <p n="D1-D7"><!-- LA FACE D EST A REVOIR -->Et tous font cent-vingt-et-un <foreign>jāk</foreign>. Ici le <foreign>devadvāra</foreign> atteint Va<gap reason="illegible" quantity="1" unit="character"/> du <foreign>pov</foreign> nouveau<!-- sapi2argr ? vruv pourrait avoir un lien avec baruv: neuf, nouveau, récent ; non, non pas ; alors (au début des phrases); gaḥ barūv : au delà (A&C, p. 328). -->, le champ et tout ce que le roi <supplied reason="explanation"><foreign>yāṅ pov ku</foreign></supplied> Śrī Jaya Indravarman offre au dieu <supplied reason="explanation"><foreign>yāṁ pu pov</foreign></supplied>.
            </p>
          </div>
          <div type="commentary">
-           <p n="B6-B7">Asov· vañak· ndoy· Inā Urāṅ· nan·. A similar phrase can be found in the inscription C. 106, l. B2-B3: Asov· vañāk· ñū ṇḍauy· Inā Urāṅ· nan·</p>
+           <p n="B6-B7"><foreign>Asov· vañak· ndoy· Inā Urāṅ· nan·</foreign>. A similar phrase can be found in the inscription <ref target="DHARMA_INSCIK00106.xml">C. 106</ref>, l. B2-B3: <foreign>Asov· vañāk· ñū ṇḍauy· Inā Urāṅ· nan·</foreign></p>
+           <p n="B6-B7">Does <foreign>kūñ</foreign> and <foreign>kā ñū</foreign> are equivalents? This is the most likely interpretation for now.</p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->

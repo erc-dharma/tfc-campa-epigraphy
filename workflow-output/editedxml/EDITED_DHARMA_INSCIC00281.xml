@@ -57,7 +57,7 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                     <p>Elegantly slanting script typical of the inscriptions of Vikrāntavarman-Prakāśadharman.</p>
                      <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
@@ -108,12 +108,12 @@
          <div type="apparatus">
            <listApp>
           <app loc="1">
-              <lem>śrī-śarvvānyām</lem>
-              <note>cf. śrī śarvvāṇyāṁ in C. 96 (st. XXIII).</note>
+              <lem>śrī-śarvvānyā</lem>
+              <note>Cf. <foreign>śrī śarvvāṇyāṁ</foreign> in <ref target="DHARMA_INSCIC00096.xml">C. 96</ref> (st. XXIII).</note>
           </app>
           <app loc="1">
               <lem>ā bhuvas sthiteḥ</lem>
-              <note>We find <foreign>stheyād ā bhuvanasthiter</foreign> in C. 96 (st. XXX) and <foreign>stheyād ā bhuvanasthiteḥ</foreign> in C. 97, but the present expression is known from K. 1352 (st. IV).</note>
+              <note>We find <foreign>stheyād ā bhuvanasthiter</foreign> in <ref target="DHARMA_INSCIC00096.xml">C. 96</ref> (st. XXX) and <foreign>stheyād ā bhuvanasthiteḥ</foreign> in <ref target="DHARMA_INSCIC00097.xml">C. 97</ref>, but the present expression is known from <ref target="DHARMA_INSCIK01352.xml">K. 1352</ref> (st. IV).</note>
           </app>
                </listApp>
          </div>
@@ -126,12 +126,12 @@
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
            <p>Unpublished inscription freshly edited by Arlo Griffiths and Salomé Pichon, with an english translation.</p>
-        	<listBibl type="primary">
-				<bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
-			</listBibl>
-           <listBibl type="secondary">
-              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
-           </listBibl>
+        	<!--<listBibl type="primary">
+				<bibl n="siglum"/>
+			</listBibl>-->
+          <!--<listBibl type="secondary">
+              <bibl/>
+           </listBibl>-->
         </div>
       </body>
   </text>

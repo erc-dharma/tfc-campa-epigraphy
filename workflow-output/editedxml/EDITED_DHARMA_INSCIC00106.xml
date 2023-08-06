@@ -91,7 +91,8 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:sapi" when="2021-08-17" status="draft">reading on stone</change>
+         <change who="part:sapi" when="2023-08-06" status="draft">beggining of new translation</change>
+         <change who="part:sapi" when="2022-08-17" status="draft">reading on stone</change>
          <change who="part:sapi" when="2020-11-23">few corrections</change>
          <change who="part:sapi" when="2020-11-09">started initial encoding of the inscription</change>
       </revisionDesc>
@@ -300,7 +301,82 @@
                </listApp>
          </div>
          <div type="translation" resp="part:argr part:sapi">
-           <p n="B10-C12">h</p>
+           <p n="B10-B11">Les champs <foreign>nvaus</foreign><supplied reason="explanation"><foreign>cvaus</foreign>?</supplied> poussent par ordre du <foreign>yāṅ pu pov ku</foreign> Śrī Jaya Siṅhavarmadeva.</p>
+           <p n="B11-B12">Il offre au <foreign>yāṅ pov ku</foreign> ici, depuis le champ Ṅauk Rayā jusqu’à l’embouchure de la rivière Nayauna aussi<!-- vérifier le sens de 'riy' avec la grammaire de Moussay, p. 267 -->. L’embouchure de la rivière jusqu’au <foreign>smrāṅ</foreign> au sud du dieu.</p>
+           <p n="B13-">Ici, le total des champs:  <!-- hypothèse : le 'humā' est mis devant un toponyme. Quand il s'agit d'éléments de description tels que "au-dessus de la maison", le 'humā' est sous-entendu. Difficile de confirmer l'hypothèse car certains mots sont pour l'instant intraduisibles.-->
+          <!--Hypothèse n°2 : toute cette liste ne comprend que des champs, même si tous ne sont pas désignés ainsi. Ce qui renforce cette hypothèse = la formule d'introduction "niy· mūla humā". -->
+           <list><item>1 champ Rayā</item>
+           <item>2 <supplied reason="subaudible">champs</supplied> Amvil<!-- // Nom khmer ?--></item>
+           <item>6 <supplied reason="subaudible">champs</supplied> Ratvauk</item>
+           <item>étang Kumvuṅ</item>
+           <item>1 champ Kumvuṅ</item>
+           <item>1 <supplied reason="subaudible">champ</supplied> au-dessus de la maison</item>
+           <item>2 champs Mvaṅ</item>
+           <item>2 <supplied reason="subaudible">champs</supplied> au-dessus de la maison des Annamites <supplied reason="explanation"><foreign>yvan</foreign></supplied></item>
+           <item>1 confluent Cumlaṅ</item>
+           <item>1 <supplied reason="subaudible">champ</supplied> Ajauñ</item>
+           <item>5 champs Cvaḥ</item>
+           <item>1 <supplied reason="subaudible">champ</supplied> Laṅā<!--A&C, p. 430 laṅan, laṅar = charrue--></item>
+           <item>1 champ Camvāṅ<!--vérifier A&C --></item>
+           <item>1 <supplied reason="subaudible">champ</supplied> Sagor<!-- A&C, p. 470 sagar = tambour, caisse --></item>
+           <item>1 <supplied reason="subaudible">champ</supplied> Vvac<!--vérifier A&C --></item>
+           <item>1 <supplied reason="subaudible">champ</supplied> Taliṅi</item>
+           <item>1 champ Ikū Asov</item>
+           <item>1 champ Proṅ</item>
+           <item>1 <supplied reason="subaudible">champ</supplied> Ndoṅ<!--vérifier A&C --></item>
+           <item>2 <supplied reason="subaudible">champs</supplied> Knām<!--vérifier A&C --></item>
+           <item>1 <supplied reason="subaudible">champ</supplied> Kandep<!--vérifier A&C --></item>
+           <item>1 <supplied reason="subaudible">champ</supplied> Srumai</item>
+           <item><foreign>pagārasramvat</foreign></item>
+           <item>1 champ Kahas</item>
+           <item>5 champs Mvaṅ</item>
+           <item>9 <supplied reason="subaudible">champs</supplied> Nagaren<!--vérifier A&C --></item>
+           <item>1 champ Ticain</item>
+           <item>1 <supplied reason="subaudible">champ</supplied> Vvil</item>
+           <item>3 <supplied reason="subaudible">champs</supplied> Ralāṅ<supplied reason="explanation">chaume, herbe de montagne</supplied></item>
+           <item>1 <supplied reason="subaudible">champ</supplied> Laṅā<!--A&C, p. 430 laṅan, laṅar = charrue--></item>
+           <item>3 <supplied reason="subaudible">champs</supplied> Kara Mās <supplied reason="explanation">poignés d’or?</supplied></item>
+           <item>1 <supplied reason="subaudible">champ</supplied> Ṅauk Rayā</item>
+           <item>2 <supplied reason="subaudible">champs </supplied> Vo</item>
+           <item>1 champ Tupen</item>
+           <item>1 <supplied reason="subaudible">champ</supplied> Likūk <supplied reason="explanation">derrière</supplied></item>
+           <item>3 champs En</item>
+           <item>1 <supplied reason="subaudible">champ</supplied> Harā</item>
+           <item>3 <supplied reason="subaudible">champs</supplied> Kara Kaṁp</item>
+           <item>3 Ratvauk</item>
+           <item>1 Alauṅ <supplied reason="explanation">plaine</supplied></item>
+           <item>1 <supplied reason="subaudible">champ</supplied> au-dessus de la maison</item>
+           <item>1 champ Vvār</item>
+           <item>1 champ Agrās</item>
+           <item>1 champ Dandrāḥ</item>
+           <item>1 <supplied reason="subaudible">champ</supplied> Yok Nan <supplied reason="explanation">en-dessous de ça</supplied>.</item>
+            </list></p>
+            <p n="C1-C3">Les hommes qui protègent cet oeuvre méritoire,...</p>
+            <p n="C3-C4">...</p>
+            <p n="C5-C12"><list>
+            <item>1 champ Arām <supplied reason="explanation">tertre</supplied></item>
+            <item>1 <supplied reason="subaudible">champ</supplied> Sipāy</item>
+            <item>1 <supplied reason="subaudible">champ</supplied> Cluṅ</item>
+            <item>1 <supplied reason="subaudible">champ</supplied> Ricaṁm</item>
+            <item>1 champ Vavaḥ Krauṅ <supplied reason="explanation">embouchure de rivière</supplied></item>
+            <item>5 <supplied reason="subaudible">champs</supplied> Avaṁk</item>
+            <item>2 <supplied reason="subaudible">champ</supplied> Vunuk</item>
+            <item>1 <supplied reason="subaudible">champ</supplied> Vvil</item>
+            <item>1 <supplied reason="subaudible">champ</supplied> Ñjun</item>
+            <item>2 <supplied reason="subaudible">champs</supplied> Vvaik</item>
+            <item>3 <supplied reason="subaudible">champs</supplied> Klvā</item>
+            <item>1 <supplied reason="subaudible">champ</supplied> Cumlaṅ</item>
+            <item>3 <supplied reason="subaudible">champs</supplied> Alauṅ <supplied reason="explanation">plaines</supplied></item>
+            <item>1 <supplied reason="subaudible">champ</supplied> Kuñīk <supplied reason="explanation">curcuma</supplied></item>
+            <item>1 <supplied reason="subaudible">champ</supplied> Kalicya</item>
+            <item>1 <supplied reason="subaudible">champ</supplied> Savauṅ</item>
+            <item>2 pieces of land <supplied reason="explanation"><foreign>alauk</foreign>, hapax dans le corpus, existe en cam moderne.</supplied></item>
+            <item>1 champ Parā</item>
+            <item>1 <supplied reason="subaudible">champ</supplied> Pandak</item>
+            <item>1 <supplied reason="subaudible">champ</supplied> Knām</item>
+            <item>2 <supplied reason="subaudible">champs</supplied> au-dessus de la maison</item>
+            <item>1 champ Kravāv <supplied reason="explanation">buffle</supplied></item>
+            </list></p>
            </div>
            <div type="translation" xml:lang="fra" source="bib:Finot1904_01">
              <p rend="stanza" n="1">Dans les trois mondes triomphe le suprême Śrī Jaya Guheśvara, aux pieds de qui se prosternent en foule les <foreign>Devas</foreign>, les <foreign>Asuras</foreign> et les <foreign>Munis</foreign> !</p>

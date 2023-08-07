@@ -301,7 +301,7 @@
                </listApp>
          </div>
          <div type="translation" resp="part:argr part:sapi">
-           <p n="A14-A15">Serviteurs, bœufs, buffles, champs, or, argent, pasrauṅ, tous <supplied reason="subaudible">ces biens</supplied> pour le culte du dieu <supplied reason="explanation">yāṅ· pu pov· ku</supplied> ainsi que de l’eau et de la nourriture.</p>
+           <p n="A14-A15">Serviteurs, bœufs, buffles, champs, or, argent, <foreign>pasrauṅ</foreign>, tous <supplied reason="subaudible">ces biens</supplied> pour le culte du dieu <supplied reason="explanation">yāṅ pu pov ku</supplied> ainsi que de l’eau et de la nourriture.</p>
            <p n="B10-B11">Les champs <foreign>nvaus</foreign><supplied reason="explanation"><foreign>cvaus</foreign>?</supplied> poussent par ordre du <foreign>yāṅ pu pov ku</foreign> Śrī Jaya Siṅhavarmadeva.</p>
            <p n="B11-B12">Il offre au <foreign>yāṅ pov ku</foreign> ici, depuis le champ Ṅauk Rayā jusqu’à l’embouchure de la rivière Nayauna aussi<!-- vérifier le sens de 'riy' avec la grammaire de Moussay, p. 267 -->. L’embouchure de la rivière jusqu’au <foreign>smrāṅ</foreign> au sud du dieu.</p>
            <p n="B13-">Ici, le total des champs:  <!-- hypothèse : le 'humā' est mis devant un toponyme. Quand il s'agit d'éléments de description tels que "au-dessus de la maison", le 'humā' est sous-entendu. Difficile de confirmer l'hypothèse car certains mots sont pour l'instant intraduisibles.-->
@@ -311,10 +311,10 @@
            <item>6 <supplied reason="subaudible">champs</supplied> Ratvauk</item>
            <item>étang Kumvuṅ</item>
            <item>1 champ Kumvuṅ</item>
-           <item>1 <supplied reason="subaudible">champ</supplied> au-dessus de la maison</item>
+           <item>1 <supplied reason="subaudible">champ</supplied> Ṅauk Saṅ <supplied reason="explanation">au-dessus de la maison</supplied></item>
            <item>2 champs Mvaṅ</item>
-           <item>2 <supplied reason="subaudible">champs</supplied> au-dessus de la maison des Annamites <supplied reason="explanation"><foreign>yvan</foreign></supplied></item>
-           <item>1 confluent Cumlaṅ</item>
+           <item>2 <supplied reason="subaudible">champs</supplied> Ṅauk Saṅ Yvan <supplied reason="explanation">au-dessus de la maison des Annamites</supplied></item>
+           <item>1 <supplied reason="subaudible">champ</supplied> Pitau Cumlaṅ <supplied reason="explanation">confluent Cumlaṅ</supplied></item>
            <item>1 <supplied reason="subaudible">champ</supplied> Ajauñ</item>
            <item>5 champs Cvaḥ</item>
            <item>1 <supplied reason="subaudible">champ</supplied> Laṅā<!--A&C, p. 430 laṅan, laṅar = charrue--></item>
@@ -334,7 +334,7 @@
            <item>9 <supplied reason="subaudible">champs</supplied> Nagaren<!--vérifier A&C --></item>
            <item>1 champ Ticain</item>
            <item>1 <supplied reason="subaudible">champ</supplied> Vvil</item>
-           <item>3 <supplied reason="subaudible">champs</supplied> Ralāṅ<supplied reason="explanation">chaume, herbe de montagne</supplied></item>
+           <item>3 <supplied reason="subaudible">champs</supplied> Ralāṅ <supplied reason="explanation">chaume, herbe de montagne</supplied></item>
            <item>1 <supplied reason="subaudible">champ</supplied> Laṅā<!--A&C, p. 430 laṅan, laṅar = charrue--></item>
            <item>3 <supplied reason="subaudible">champs</supplied> Kara Mās <supplied reason="explanation">poignés d’or?</supplied></item>
            <item>1 <supplied reason="subaudible">champ</supplied> Ṅauk Rayā</item>
@@ -344,9 +344,9 @@
            <item>3 champs En</item>
            <item>1 <supplied reason="subaudible">champ</supplied> Harā</item>
            <item>3 <supplied reason="subaudible">champs</supplied> Kara Kaṁp</item>
-           <item>3 Ratvauk</item>
-           <item>1 Alauṅ <supplied reason="explanation">plaine</supplied></item>
-           <item>1 <supplied reason="subaudible">champ</supplied> au-dessus de la maison</item>
+           <item>3 <supplied reason="subaudible">champs</supplied> Ratvauk</item>
+           <item>1 <supplied reason="subaudible">champ</supplied> Alauṅ <supplied reason="explanation">plaine</supplied></item>
+           <item>1 <supplied reason="subaudible">champ</supplied> Ṅauk Saṅ <supplied reason="explanation">au-dessus de la maison</supplied></item>
            <item>1 champ Vvār</item>
            <item>1 champ Agrās</item>
            <item>1 champ Dandrāḥ</item>
@@ -375,7 +375,7 @@
             <item>1 champ Parā</item>
             <item>1 <supplied reason="subaudible">champ</supplied> Pandak</item>
             <item>1 <supplied reason="subaudible">champ</supplied> Knām</item>
-            <item>2 <supplied reason="subaudible">champs</supplied> au-dessus de la maison</item>
+            <item>2 <supplied reason="subaudible">champs</supplied> Ṅauk Saṅ <supplied reason="explanation">au-dessus de la maison</supplied></item>
             <item>1 champ Kravāv <supplied reason="explanation">buffle</supplied></item>
             </list></p>
            </div>

@@ -148,7 +148,7 @@
              <lb n="b14"/>catvāra Aṣṭa<g type="ddandaPlain">.</g><g type="floretComplex"/>
           </p>
 <!--The way a space is left open between sa and vi in the third line proves that lines 1-3 were written after the rest of the face. -->
-    <p xml:lang="ocm-Latn"><milestone type="pagelike" unit="face" n="b"/><lb n="b1bis"/>humā vūnūk· klan· tipā<lb n="b2bis" break="no"/>r· kūṅ· dada<!-- or dadaṁ? --> tala Ajau<unclear>ñ·</unclear>
+    <p xml:lang="ocm-Latn"><milestone type="pagelike" unit="face" n="b"/><lb n="b1bis"/>humā vūnūk· <unclear>klan·</unclear> tipā<lb n="b2bis" break="no"/>r· kūṅ· dada<!-- or dadaṁ? --> tala Ajau<unclear>ñ·</unclear>
     <lb n="b3bis"/>vavūy· ṅan<unclear>·</unclear> glai A<space type="ascender" quantity="2" unit="character"/>viḥ nau
   </p>
            <p xml:lang="ocm-Latn">
@@ -156,7 +156,7 @@
              <milestone type="pagelike" unit="face" n="C"/>
              <lb n="C1"/><gap reason="illegible" quantity="17" unit="character" precision="low"/><seg type="desc">pra<unclear>māna</unclear> humā niy·
              <lb n="C2"/><gap reason="illegible" quantity="17" unit="character" precision="low"/><unclear>vaḥ</unclear> kruvāv·<!-- sapi2argr au lieu de kravāv· --> tuy· <placeName type="settlement" subtype="village" key="Cikir Huriy">cikir· huriy·</placeName><!-- or undetermined -->
-             <lb n="C3"/><gap reason="illegible" quantity="16" unit="character" precision="low"/><unclear>cvaḥ</unclear><!-- sapi2argr dvaḥ? pvaḥ? --> puĀk· vandaḥ neḥ nariy· na<lb n="C4" break="no"/><gap reason="illegible" quantity="13" unit="character" precision="low"/><unclear>vik·</unclear><!-- sapi2argr ou cik·? --> nan· tr<unclear>ā</unclear> tuy· krauṅ· nan· nau<!--for the unusual shape of -au, see d9 --> kaṁ
+             <lb n="C3"/><gap reason="illegible" quantity="16" unit="character" precision="low"/><unclear>cvaḥ</unclear><!-- sapi2argr dvaḥ? pvaḥ? --> puĀk· vandaḥ neḥ nariy· na<lb n="C4" break="no"/><gap reason="illegible" quantity="13" unit="character" precision="low"/><unclear>cik·</unclear> nan· tr<unclear>ā</unclear> tuy· krauṅ· nan· nau<!--for the unusual shape of -au, see d9 --> kaṁ
              <lb n="C5"/><supplied reason="lost">n·</supplied><gap reason="illegible" quantity="14" unit="character" precision="low"/>nan· tr<unclear>ā</unclear> tuy· krauṅ· <placeName type="hydrographic" subtype="river" key="Bhauk">bhauk·</placeName> ma</seg><lb n="C6" break="no"/><gap reason="illegible" quantity="14" unit="character" precision="low"/><unclear>po</unclear>v ku <unclear>danā</unclear>y· pināṅ· mavuḥ yāṅ· suvā<lb n="C7" break="no"/><supplied reason="lost">k·</supplied><!-- ou yāṅ pu ...? --><gap reason="illegible" quantity="16" unit="character" precision="low"/>driy· yāṅ· pov· ku śrī bhadrava<lb n="C8" break="no"/><supplied reason="lost" cert="low">rmman</supplied><!-- sapi2argr ou rmmadeva?  --><gap reason="illegible" quantity="19" unit="character" precision="low"/><supplied reason="lost" cert="low">h</supplied>u<supplied reason="lost" cert="low">mā</supplied> <unclear>niy· di yāṅ</unclear>·<!-- humā niy· di: ajout. --> pov· ku
              <lb n="C9"/><gap reason="illegible" quantity="22" unit="character" precision="low"/><unclear>nāk·</unclear><!-- ajout --> kintu humā
              <lb n="C10"/><gap reason="illegible" quantity="21" unit="character" precision="low"/><unclear>ma</unclear>vuḥ di
@@ -241,7 +241,7 @@
          <div type="translation" resp="part:sapi part:argr">
            <p n="b8-b12">People who speak (?) in accordance with this curse, the black dog, the white dog, the red dog <supplied reason="subaudible">and</supplied> the four-eyed dog turn to their mothers.</p>
           <p n="b12-b14">This is the date in the Śaka era of the god’s donation: three, four, eight <supplied reason="explanation">i.e., 843</supplied>.</p>
-          <p n="C1-C13"> ... the extent of this field ... buffaloes along Cikir Huriy ... this part measures <supplied reason="explanation"><foreign>puāk</foreign></supplied> from ... plots, and follows that river to ... and also follows the Bhauk river ... The P.K. Danāy Pināṅ<!-- son nom est présent dans la partie sanskrite--> allowed the uprooted <supplied reason="explanation"><foreign>suvāk</foreign></supplied> god<!-- "offers the god uprooted" or "allows the god to be uprooted"?--> to ... individuals. Y.P.K. Śrī Bhadravarma... this field to the Y.P.K. ... but the field... offer to... the field to... the Y.P.K. here ... rejuvenate like... this meritorious work, ... remove ...
+          <p n="C1-C13"> ... the extent of this field ... buffaloes along Cikir Huriy ... this part measures <supplied reason="explanation"><foreign>puāk</foreign></supplied> from ... and follows that river to ... and also follows the Bhauk river ... The P.K. Danāy Pināṅ<!-- son nom est présent dans la partie sanskrite--> allowed the uprooted <supplied reason="explanation"><foreign>suvāk</foreign></supplied> god<!-- "offers the god uprooted" or "allows the god to be uprooted"?--> to ... individuals. Y.P.K. Śrī Bhadravarma... this field to the Y.P.K. ... but the field... offer to... the field to... the Y.P.K. here ... rejuvenate like... this meritorious work, ... remove ...
           <!-- Vraiment lire punya ? Ou kunya ? -->
           </p>
            <p n="C14-d12">
@@ -256,7 +256,7 @@
           riyo<!--sapi2argr riyo C. 30A1--> pasakāra<!--sapi2argr read pasabhāra? au lieu de pasa kāra, on pourrait lire pa Akāra. Ou pu Āk ? (peu probable).-->
           Nor <supplied reason="subaudible">take</supplied> the total tax exemption.           Nor <supplied reason="subaudible">take</supplied>...
           </p>
-           <p n="b1bis-b3bis"> The <foreign>vūnūk</foreign><!--sapi2argr ou lire vūnūṅ ?--> field, the forest beyond all the <foreign>tala Ajauñ vavūy</foreign>, and all the outward forests.<!--Mots douteux : Vūnūk ; klar ; tala ; vavūy--></p>
+           <p n="b1bis-b3bis">The field Vūnūk Klan<!--sapi2argr ou lire vūnūṅ ?--> <supplied reason="explanation"><foreign>vūnūk</foreign> python</supplied>, the forest beyond all the <foreign>tala Ajauñ vavūy</foreign>, and all the outward forests.<!--Mots douteux : Vūnūk ; klar ; tala ; vavūy--></p>
          </div>
          <div type="translation" xml:lang="fra" source="bib:Huber1911_01">
  	         <p n="A1">Bonheur ! Adoration à Śiva ! Succès !</p>

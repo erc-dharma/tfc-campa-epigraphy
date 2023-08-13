@@ -124,10 +124,10 @@
              <milestone type="pagelike" unit="face" n="c"/>
              <lb n="c1"/>ya dā<unclear>laṁ</unclear> vāṅ· <unclear>cāṅ·</unclear>rā<unclear>g</unclear>· <unclear>U</unclear>m<unclear>v</unclear>ām·
              <lb n="c2"/>phuṅ· Āgama rai tatap· humā ni<unclear>y·</unclear>
-             <lb n="c3"/>yāṅ· pu pov<unclear>·</unclear> ku śri parmma ciy·<g type="dandaPlain">.</g>
+             <lb n="c3"/>yāṅ· pu pov<unclear>·</unclear> ku śri dharmma ciy·<g type="dandaPlain">.</g>
              <lb n="c4"/>loka pandar· pov· sañ·cov· Idair·
              <lb n="c5"/>yadā Adiy· yāṅ· pu pov· ku para<lb n="c6" break="no"/>meśvaraloka yaṅ· marai tatap·
-             <lb n="c7"/>humā niy· kā tal· humā ni<lb n="c8" break="no"/>y<unclear>·</unclear> pov· sañcov· Idair· pandar· hu<lb n="c9" break="no"/>mā jatuhā<unclear>vā</unclear> tal· <unclear>r</unclear>umaḥ ta<unclear>k·</unclear><!-- sapi2argr taka? -->
+             <lb n="c7"/>humā niy· kā taṁl· humā ni<lb n="c8" break="no"/>y<unclear>·</unclear> pov· sañcov· Idair· pandar· hu<lb n="c9" break="no"/>mā jatuhā<unclear>vā</unclear> tal· <unclear>r</unclear>umaḥ ta<unclear>k·</unclear><!-- sapi2argr taka? -->
              <lb n="c10"/>madā humā vihāra humā yāṅ· vukaṁ
              <lb n="c11"/>di laṁ vvāṅ· niy· trā hai <unclear>rān</unclear>a<!-- trā hora A- ou trā hai rana? haimaga? cf. c.20 --> A<lb n="c12" break="no"/>vista rauṅ· nan· da<gap reason="illegible" quantity="2" unit="character"/> pat·<!-- pata? -->
              <lb n="c13"/>humā vukan· tā<!-- sapi2argr ou kā? --> ṅan· bharuv· po<lb n="c14" break="no"/>v· sañcov· Idair· Atat· hu<lb n="c15" break="no"/>mā niy· vriy· kan· vihāra ni<lb n="c16" break="no"/>y· niy· <unclear>me</unclear>ṅ· makrauy· ma<lb n="c17" break="no"/><gap reason="illegible" quantity="2" unit="character"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>ā</seg>c· trā pov· kū gāṁ limān<unclear>·</unclear>
@@ -155,7 +155,42 @@
          <div type="translation" resp="part:sapi">
            <p n="B4-B12">Voici <gap reason="illegible"/> réside à Valaṁ <gap reason="illegible"/> <foreign>bhāvray</foreign>, la vina de ce Ratna-Lokeśvara <gap reason="illegible"/> les trois royaumes <foreign>sev</foreign> Kusarvva Dhiku. Celui qui <gap reason="illegible"/> prince Dhamrait, la rizière à Pā<seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>ī</seg> <gap reason="illegible"/>.</p>
            <p n="B13-B14"><gap reason="illegible"/> Ce <gap reason="illegible"/> réside à Nara Khyanan Dhamvu <supplied reason="explanation">toponyme très hypothétique</supplied>. Que personne ne vole les hommes du seigneur Kain <gap reason="illegible"/>.</p>
-           <p n="c1-">Celui qui</p>
+           <p n="c1-">Celui qui ......
+              phuṅ:
+              āgama: doctrine
+              (ma)rai: semer? déployer?
+              tatap: installer
+              humā: rizière
+              niy: cette
+              YPPK śri dharmma
+              ciy: prince
+              loka: monde
+              pandar: faire? rendre semblable à?
+              pov Sañcov Idair: maître Sañcov Idair
+              yadā: quand?
+              adiy: frère cadet
+              Y.P.P.K. Parameśvaraloka
+              yaṅ: Celui qui
+              marai tatap·: installe
+              humā niy: cette rizière
+              kā: pour / ensuite
+              taṁl: jusqu’à
+              humā niy: cette rizière
+              pov Sañcov Idair: maître Sañcov Idair
+              pandar: faire? rendre semblable à?
+              humā jatuhāvā
+              tal·: jusqu’à
+              rumaḥ: la maison, le palais, le temple
+              tak
+              madā: il y a
+              humā vihāra: les rizières du vihāra
+              humā yāṅ vukaṁ: les autre rizières du dieu
+              di: à
+
+
+
+
+             est installé cette rizière du Y.P.P.K. Śri Dharmma.</p>
          </div>
          <div type="commentary">
           <p>The spelling of the inscription is very hazarduous. Cf. line c1 <foreign>dā(laṁ) vāṅ·</foreign>, line c11 <foreign>di laṁ vvāṅ·</foreign> and line c21 <foreign>di dalaṁ vvāṅ·</foreign>. Also cf. line c4 <foreign>sañ·cov·</foreign>, line c14 <foreign>sañcov·</foreign>. </p>

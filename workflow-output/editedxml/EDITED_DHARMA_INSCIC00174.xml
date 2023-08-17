@@ -61,7 +61,7 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p>Archaic notation of final consonants with subscript/reduced-size consonsant.</p>
+                     <p>Archaic notation of subscript/reduced-size final consonsants.</p>
                      <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
@@ -127,7 +127,7 @@
                </listApp>
          </div>
 		<div type="translation" resp="part:argr">
-		<p n="1-3">Success! This is the divine serpent of the king. People who are gentle to Him,  <supplied reason="explanation"><foreign>ko</foreign></supplied>, <foreign>kurun</foreign> they <supplied reason="explanation"><foreign>ko</foreign></supplied> shall not fall from heaven. People who insult Him, <foreign>kurun</foreign> a thousand years they suffer from fever in hell with their seven generations of descendants.</p>
+		<p n="1-3">Success! This is the divine serpent of the king. People who are gentle to Him  <supplied reason="explanation"><foreign>ko</foreign></supplied>, <foreign>kurun</foreign> they <supplied reason="explanation"><foreign>ko</foreign></supplied> shall not fall from heaven. People who insult Him, <foreign>kurun</foreign> a thousand years they suffer from fever in hell with their seven generations of descendants.</p>
 		</div>
 <div type="translation" source="bib:Marrison1975_01">
 	 <p n="1-3">Fortune! This is the divine serpent of the king. Whoever respects him, for him jewels fall from heaven. Whoever insults him, he will remain for a thousand years in hell, with seven generations of his.</p>
@@ -146,7 +146,7 @@
 		</bibl>
 		</listBibl>
            <listBibl type="secondary">
-              <bibl><ptr target="bib:Marrison1975_01"/></bibl>
+              <bibl><ptr target="bib:Marrison1975_01"/><citedRange unit="page">53-54</citedRange></bibl>
            </listBibl>
         </div>
       </body>

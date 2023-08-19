@@ -182,15 +182,14 @@
 	<lb n="E5"/>gaṁp· gotra ñū lac· dauk· di Avīcī Annan· naraka taṁl· yuga Antaḥ pralaya<g type="danda">.</g> siy· ya Oḥ pama<lb n="E6" break="no"/>taḥ proṅ· bhogopabhoga si matmuv· va drim̃ tra Inā Amā drim̃ di svargga<g type="ddanda">.</g><g type="floretQuatrefoil"/> <g type="ddanda">.</g>
 </p>
          </div>
-         <div type="apparatus"/>
-           <!--<!-\-apparatus encoded as per EGD §9.1, basic elements for apparatus below-\->
-               <listApp><!-\- one <app> for each apparatus entry -\->
-                  <app loc="line"><!-\- update the value of @loc.-\->
-                     <lem><!-\- fill in a lemma here -\-></lem>
-                     <rdg source="bib:AuthorYear_01"><!-\- update the @source value, fill in variant reading here -\-></rdg>
-                  </app>
+         <div type="apparatus">
+               <listApp>
+               <app loc="C3">
+                  <lem>haliṁ</lem>
+                  <rdg source="Griffiths+al2021-2022_01">hali</rdg>
+               </app>
                </listApp>
-         </div>-->
+         </div>
 <div type="translation" resp="part:argr part:sapi">
 <p n="1">Hail!</p>
 <p rend="stanza" n="1">Milord <supplied reason="explanation">bhavān</supplied><note>The solecistic uninflected use of <foreign>bhavān</foreign> in the Sanskrit portion seems to be an attempt at rendering the titulature <foreign>ājñā pov ku mahīndrādhipati</foreign> observed in the Cam portion.</note> Mahīndrādhipati praises, with devotion, the excellent, divine lotus-feet of the illustrious King Śrī Indravarman.</p>
@@ -271,7 +270,10 @@ and finally by L. Finot (<bibl rend="omitname"><ptr target="bib:Finot1925_02"/><
 						<citedRange unit="volume">1</citedRange>
 						<citedRange unit="page">234</citedRange>
 						</bibl>
-
+            <bibl n="GPS">
+						<ptr target="bib:Griffiths+al2021-2022_01"/>
+						<citedRange unit="page">306-310</citedRange>
+						</bibl>
 			</listBibl>
            <listBibl type="secondary">
 	<bibl>

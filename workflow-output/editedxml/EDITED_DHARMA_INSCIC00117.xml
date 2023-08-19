@@ -134,7 +134,7 @@
             </bibl> showing the inscription.</desc>
       </graphic>
    </facsimile>
-   <text xml:space="preserve"><body><div type="edition" xml:lang="x-oldcam-Latn" rendition="class:83233 maturity:00000"> 
+   <text xml:space="preserve"><body><div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:00000"> 
                  <ab>pu vyā</ab>
             </div><div type="translation"><p>Her majesty the queen
                 </p></div><div type="translation" xml:lang="fra"><p>Sa majesté la reine</p></div><div type="bibliography"><p>Read and interpreted in <bibl><ptr target="bib:Finot1904_04"/><citedRange unit="page">679</citedRange></bibl>, whence the present edition.</p><listBibl type="primary"><bibl/></listBibl><listBibl type="secondary"><!-- <bibl><ptr target="cic-bibl:finot-1903"/>: <biblScope>635</biblScope>.</bibl>  --><bibl><ptr target="bib:Parmentier1909_01"/><citedRange unit="page">556</citedRange></bibl></listBibl></div></body></text>

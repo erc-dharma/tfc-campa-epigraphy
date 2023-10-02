@@ -462,15 +462,15 @@
             <ptr target="bib:Huber1911_01"/>
             <citedRange unit="page">299-311</citedRange>
             </bibl>
-			</listBibl>
-           <listBibl type="secondary">
-             <bibl>
+            <bibl n="M">
                <ptr target="bib:Majumdar1927_01"/>
                <citedRange unit="part">3</citedRange>
                <citedRange unit="page">129-137</citedRange>
                <citedRange unit="item">43</citedRange>
              </bibl>
-             <bibl>
+			</listBibl>
+           <listBibl type="secondary">
+                          <bibl>
              <ptr target="bib:Golzio2004_01"/>
              <citedRange unit="page">106-114</citedRange>
              </bibl>

@@ -22,7 +22,7 @@
                       <forename>Arlo</forename>
                       <surname>Griffiths</surname>
                    </persName>
-                   <persName ref="part:sapi">
+                   <persName ref= "part:sapi">
                       <forename>Salomé</forename>
                       <surname>Pichon</surname>
                    </persName>
@@ -108,7 +108,7 @@
              <l n="a">śrī-mahāliṅga-devo 'yaṁ</l>
              <l n="b">sthāpitas tena tat-pituḥ</l>
              <l n="c">sthāpitā ca mahādevī</l>
-             <l n="d">śrīmatī māt<choice><sic>u</sic><corr>a</corr></choice>ri priyā<g type="ddandaPlain">.</g></l>
+             <l n="d">śrīmatī māturi priyā<g type="ddandaPlain">.</g></l>
            </lg>
            <lg n="5" met="āryā">
              <l n="ab">tasye<lb n="A8" break="no"/>śvara-devākhyo 'nujaḥ sva-kīrttyai pitur ddharāyāñ ca</l>
@@ -191,6 +191,10 @@
                  <app loc="A4">
                      <lem>jhaṣena bhujag<choice><unclear>ai</unclear><unclear>au</unclear></choice><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>e</seg></lem>
                      <rdg source="bib:Huber1911_01"><seg met="-+-"><gap reason="illegible" quantity="3" unit="character"/></seg> bhujagair <seg met="+"><gap reason="illegible" quantity="1" unit="character"/></seg> sauravāre</rdg>
+                 </app>
+                 <app loc="A7">
+                     <lem>māturi</lem>
+                     <rdg source="bib:Huber1911_01">māt<choice><sic>u</sic><corr>a</corr></choice>ri</rdg>
                  </app>
                  <app loc="A10">
                      <lem>śr̥<lb n="A11" break="no"/><unclear>ṇu</unclear>yu<choice><sic>ḥ</sic><corr>r</corr></choice> vacanam</lem>

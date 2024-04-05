@@ -142,7 +142,7 @@
              n="B9" break="no"/>tapaḥ thuv· dharmma rakṣā pasyāṁ tmov· svarggāpavargga<g type="dotMid">.</g> pu pov· tana <supplied reason="omitted">ra</supplied>yā sthirarājya <supplied reason="lost">hu</supplied><lb
              n="B10" break="no"/>mā masin· dvā jāk· humā krauc· dvā jāk· humā <unclear>kaṁ</unclear>k· sā jāk· humā <gap reason="illegible" quantity="2" unit="character"/>
              <lb n="B11"/>dvā jāk· humā <placeName type="cultivation" subtype="field" key="Udaya">Udaya</placeName> <measure type="unitCapacity" quantity="1" commodity="paddy">sā jāk·</measure> humā vvac· sā jāk· humā caṁk· s<supplied reason="lost">ā jā</supplied><lb
-             n="B12" break="no"/>k· humā tūpen· sā jāk· humā haluv· ravāṅ· sā jāk· humā <gap reason="illegible" quantity="3" unit="character"/><!--sapi2argr : Cette ligne vérifiée sur l'estampage de Huber, BEFEO XI p. 272. Note du rtf : La pierre est encastrée. On ne peut pas voir les signes souscrits de la l. 12.--><milestone type="pagelike" unit="face" n="C"/>
+             n="B12" break="no"/>k· humā tūpen· sā jāk· humā huluv· ravāṅ· sā jāk· humā <gap reason="illegible" quantity="2" unit="character"/><!--sapi2argr : Cette ligne vérifiée sur l'estampage de Huber, BEFEO XI p. 272. Note du rtf : La pierre est encastrée. On ne peut pas voir certains signes souscrits de la l. 12.--><milestone type="pagelike" unit="face" n="C"/>
              <lb n="C1"/>humā gaḥ pagār·
              <lb n="C2"/>sā jāk· nariy· gaḥ
              <lb n="C3"/><unclear>ṅ</unclear>auk· sāṅ· tal· gaḥ
@@ -236,6 +236,10 @@
                      <lem>tūpen·</lem>
                      <rdg source="bib:Huber1911_01">tupen·</rdg>
                  </app>
+                 <app loc="B12">
+                     <lem>huluv·</lem>
+                     <rdg source="bib:Huber1911_01">haluv·</rdg>
+                 </app>
                  <app loc="C9">
                      <lem>tūpaṅ·</lem>
                      <rdg source="bib:Huber1911_01">tupaṅ·</rdg>
@@ -280,7 +284,7 @@
            <item>la rizière Vvac : un <foreign>jāk</foreign></item>
            <item>la rizière Caṁk : un <foreign>jāk</foreign></item>
            <item>la rizière Tūpen : un <foreign>jāk</foreign></item>
-           <item>la rizière Haluv Ravāṅ : un <foreign>jāk</foreign></item>
+           <item>la rizière Huluv Ravāṅ : un <foreign>jāk</foreign></item>
            <item>la rizière <gap reason="illegible" quantity="3" unit="character"/></item>
            <item>la rizière Gaḥ Pagār : un <foreign>jāk</foreign> ; depuis le côté en amont de la maison jusqu'au côté du</item>
            <item>rizière Tuṁ : onze <foreign>jāk</foreign></item>

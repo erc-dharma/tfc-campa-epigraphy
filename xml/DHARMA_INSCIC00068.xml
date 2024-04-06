@@ -77,7 +77,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:argr" when="2024-04-06">started encoding the inscriptions</change>
+            <change who="part:argr" when="2024-04-06">encoded the inscription</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">

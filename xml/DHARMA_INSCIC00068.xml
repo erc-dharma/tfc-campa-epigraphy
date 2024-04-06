@@ -101,18 +101,19 @@
 	<p n="2">Upper sesame field.</p>
          </div>
 	<div type="translation" xml:lang="fra" source="bib:Finot1904_01">
- 	<p>Tout le champ Kála, le champ de sésame Ṅauk.</p>
+ 	<p>Tout le champ Kāla, le champ de sésame Ṅauk.</p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>Pulished with eye-copy by Finot <bibl rend="omitname"><ptr target="bib:Finot1904_01"/></bibl>, whence translated into English by <bibl rend="omitname"><ptr target="bib:Golzio2004_01"/></bibl>. Re-redited here by Arlo Griffithd based on EFEO estampage 281 by Arlo Griffiths.</p><!-- first read 25/11/2011, revised 06/04/2024. -->
+           <p>Pulished with eye-copy by Finot <bibl rend="omitname"><ptr target="bib:Finot1904_01"/></bibl>, whence translated into English by <bibl rend="omitname"><ptr target="bib:Golzio2004_01"/></bibl>. Re-redited here by Arlo Griffiths based on EFEO estampage 281.</p><!-- first read 25/11/2011, revised 06/04/2024. -->
         	<listBibl type="primary">
 	<bibl n="F"><ptr target="bib:Finot1904_01"/><citedRange unit="page">112-113</citedRange><citedRange unit="item">IV</citedRange></bibl><!--  [EEPC, pp. 70-71] -->
 			</listBibl>
            <listBibl type="secondary">
+	<bibl><ptr target="bib:Parmentier1903_01"/><citedRange unit="page">85</citedRange></bibl>
               <bibl><ptr target="bib:Parmentier1909_01"/><citedRange unit="page">450</citedRange></bibl>
 	<bibl><ptr target="bib:Golzio2004_01"/><citedRange unit="page">143</citedRange></bibl>           
 </listBibl>

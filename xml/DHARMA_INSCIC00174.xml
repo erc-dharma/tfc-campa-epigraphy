@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Rock of Đông Yên Châu (C. 174)</title>
+            <title>Rock of Đông Yên Châu (C. 174), 5th century</title>
             <respStmt>
                <resp>EpiDoc Encoding</resp>
                <persName ref="part:sapi">
@@ -97,12 +97,13 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-          <change who="part:argr" when="2023-08-15">Small corrections plus addition of Marrison bibl. and transl.</change>
-         <change who="part:argr part:sapi" when="2020-11-04">Resolved conflicts</change>
-         <change who="part:argr part:sapi" when="2020-11-04">Finalized encoding of the inscription</change>
-         <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
-         <change who="part:argr part:sapi" when="2020-10-21">First revisions of the file</change>
-         <change who="part:sapi" when="2020-10-20">Initial encoding of the file</change>
+         <change who="part:argr" when="2024-04-07">added date estimate to the title</change>
+         <change who="part:argr" when="2023-08-15">small corrections plus addition of Marrison bibl. and transl.</change>
+         <change who="part:argr part:sapi" when="2020-11-04">resolved conflicts</change>
+         <change who="part:argr part:sapi" when="2020-11-04">finalized encoding of the inscription</change>
+         <change who="part:axja" when="2020-11-03" status="draft">updating toward the encoding template v03</change>
+         <change who="part:argr part:sapi" when="2020-10-21">first revisions of the file</change>
+         <change who="part:sapi" when="2020-10-20">initial encoding of the file</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">

@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>The back of a Viṣṇu Statue at Biên Hòa</title>
+				<title>The back of a Viṣṇu Statue at Biên Hòa (C. 1), 1343 Śaka</title>
 				<respStmt>
 					<resp>EpiDoc Encoding</resp>
 					<persName ref="part:sapi">
@@ -105,8 +105,9 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change when="2021-07-03" who="part:argr" status="draft">Resolved validation problems.</change>
-			<change when="2020-09-14" who="part:axja" status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
+		<change when="2024-04-07" who="part:argr" status="draft">corrected encoding of g</change>
+		<change when="2021-07-03" who="part:argr" status="draft">Resolved validation problems.</change>
+		<change when="2020-09-14" who="part:axja" status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
 		</revisionDesc>
 	</teiHeader>
 	<facsimile>
@@ -115,18 +116,17 @@
 		</graphic>
 	</facsimile>
 	<text xml:space="preserve"><body><div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:00000">
-            <ab>
-            <lb n="1"/> <g>|</g><g type="quatrefoil"/><g>|</g> svasti <g>|</g> pu pom̃ ku nan· sūnnu
-<lb n="2"/> yām̃ pom̃ ku śrī jaya siṅhavarmmadeva
-<lb n="3"/> urām̃ ṅauk· glauṅ· vijaya paripāla rāṣtra sim̃ tmum̃
-<lb n="4"/> jaya di nagara yvan· ma°udyāṇna gulāc· tok· nagara
-<lb n="5"/> braḥ kānda nī yuddha aneka sim̃ tmum̃ gulāc· jem̃ nagara ca<lb break="no" n="6"/>mpa di śaka loka aṣṭārdhanalaḥ ṇrapaḥ sakram̃tta <choice><reg>tribhuvanākrānta</reg><orig>tri<lb break="no" n="7"/>bhavanākrānta</orig></choice>
-      <!-- AG: note the encoding of the correction of tribhavanaakraanta to tribhuvanaakraanta -->
-               nī ṅan· <seg type="check">ri</seg><!-- had been read: ra--> jitta sa trā si sim̃ tmum̃ jaya di kvīra
+<p><lb n="1"/><g type="danda"/><g type="quatrefoil"/><g type="danda"/> svasti<g type="danda"/> pu pom̃ ku nan· sūnnu
+<lb n="2"/>yām̃ pom̃ ku śrī jaya siṅhavarmmadeva
+<lb n="3"/>urām̃ ṅauk· glauṅ· vijaya paripāla rāṣtra sim̃ tmum̃
+<lb n="4"/>jaya di nagara yvan· ma°udyāṇna gulāc· tok· nagara
+<lb n="5"/>braḥ kānda nī yuddha aneka sim̃ tmum̃ gulāc· jem̃ nagara ca<lb break="no" 
+n="6"/>mpa di śaka loka aṣṭārdhanalaḥ ṇrapaḥ sakram̃tta tri<lb break="no" 
+n="7"/>bh<choice><sic>a</sic><corr>u</corr></choice>vanākrānta nī ṅan· <seg type="check">ri</seg><!-- had been read: ra--> jitta sa trā si sim̃ tmum̃ jaya di kvīra
                <!-- read jittasatrā = jitaśatru? -->
-<lb n="8"/> tmum̃ vuḥ bhogopabhoga yathādeva liṅga vukam̃n· rim̃ sim̃ jmai tmum̃
-<lb n="9"/> jem̃ nagara kvīra jem̃ nagara campa sadākāla <g>|</g>
-            </ab>
+<lb n="8"/>tmum̃ vuḥ bhogopabhoga yathādeva liṅga vukam̃n· rim̃ sim̃ jmai tmum̃
+<lb n="9"/>jem̃ nagara kvīra jem̃ nagara campa sadākāla<g type="danda"/>
+ </p>
          </div><div type="apparatus">
 <listApp> <!--Variants merely due to difference of transliteration conventions are not recorded.-->
                <app loc="3">

@@ -140,7 +140,7 @@ n="7"/>bh<choice><sic>a</sic><corr>u</corr></choice>vanākrānta nī ṅan· ri 
 	<rdg source="bib:Cabaton1904_01">-ṣaṣṭārthānalaḥ-</rdg>
 	<!--<rdg source="bib:Aymonier1891_01">aṣṭārdhānalaḥ</rdg>-->
 	<!--<rdg source="bib:Finot">aṣṭārdhanalaḥ</rdg>-->
-	<note>Aymonier's proposal to read <foreign>aṣṭārdhānalaḥ</foreign> was mentioned in an authorial addition to <bibl><ptr target="bib:Cabaton1904_01"/><citedRange unit="page">690</citedRange></bibl>, while Finot took the editorial liberty of inserting his own reading <foreign>aṣṭārdhanalaḥ</foreign> in n. 5 on that same page. Although we do not see an <foreign>ā</foreign> marker on the <foreign>rdh</foreign>, we agree with Finot and Aymonier that it is necessary to understand <foreign>aṣṭārdha-analaḥ</foreign>.</note>
+	<note>Aymonier's proposal to read <foreign>aṣṭārdhānalaḥ</foreign> was mentioned in an authorial addition to <bibl><ptr target="bib:Cabaton1904_01"/><citedRange unit="page">690</citedRange></bibl>, while Finot took the editorial liberty of inserting his own reading <foreign>aṣṭārdhanalaḥ</foreign> in n. 5 on that same page. Although I do not see an <foreign>ā</foreign> marker on the <foreign>rdh</foreign>, I agree with Finot and Aymonier that it is necessary to understand <foreign>aṣṭārdha-analaḥ</foreign>.</note>
 	</app>
 	<app loc="6">
 	<lem source="bib:Griffiths2019_01">-ṇrapaḥ</lem>
@@ -188,8 +188,8 @@ n="7"/>bh<choice><sic>a</sic><corr>u</corr></choice>vanākrānta nī ṅan· ri 
 <div type="bibliography">
 <p>Partly deciphered on the basis of unsatisfactory documents by Aymonier (<bibl rend="omitname"><ptr target="bib:Aymonier1891_01"/><citedRange unit="page">84-85</citedRange></bibl>),<note>Aymonier observed: <q>Le document doit être assez net, mais nous ne le connaissons que par des photographies de copies faites à la main, procédés dont l'exactitude laise trop à désirer</q>.</note> with French translation of the translated parts. Completely edited for the first time by Cabaton (<bibl rend="omitname"><ptr target="bib:Cabaton1904_01"/></bibl>). Barring a small number of new insights, the present edition reproduces that published in <bibl><ptr target="bib:Griffiths2019_01"/></bibl> based on the EFEO estampages.</p>
                <listBibl type="primary">
-	    <bibl n="E"><ptr target="bib:Aymonier1891_01"/><citedRange unit="page">84-85</citedRange></bibl>
-                  <bibl n="A"><ptr target="bib:Cabaton1904_01"/></bibl>
+	    <bibl n="A"><ptr target="bib:Aymonier1891_01"/><citedRange unit="page">84-85</citedRange></bibl>
+                  <bibl n="C"><ptr target="bib:Cabaton1904_01"/></bibl>
                   <bibl n="G"><ptr target="bib:Griffiths2019_01"/><citedRange unit="page">200-201</citedRange><citedRange unit="figure">4</citedRange></bibl>
                </listBibl>
                <listBibl type="secondary">

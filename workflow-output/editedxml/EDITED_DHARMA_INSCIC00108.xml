@@ -143,7 +143,7 @@
              <lb n="B4"/>pu pov· ku śrī jaya Indravarmma kā vriy· matandās· sarvvākarādāna matandās·
              <lb n="B5"/>siy· vr̥liy· Urāṅ· mandop· sarvvākarādāna di yāṅ· pov· mahāliṅga
              <lb n="B6"/>mapamataḥ matandāḥ niy· matop· vriy· gr̥hastha kūñ· Asov· vañak· ndo<lb n="B7" break="no"/>y· Inā Urāṅ· nan· kā ñū matai nau dauk· di yop· naraka tauṅ· yugāntaḥ pra<lb n="B8" break="no"/>laya<g type="dotMid">.</g> yāṅ· poṁ mahāliṅga pvauḥ tapaḥ thuv· dharmma rakṣā pasyāṁ yajamāna <unclear>ma</unclear><lb n="B9" break="no"/>tapaḥ thuv· dharmma rakṣā pasyāṁ tmov· svarggāpavargga<g type="dotMid">.</g> pu pov· tana <supplied reason="omitted">ra</supplied>yā sthirarājya <supplied reason="lost">hu</supplied><lb n="B10" break="no"/>mā masin· dvā jāk· humā krauc· dvā jāk· humā <unclear>kaṁ</unclear>k· sā jāk· humā <gap reason="illegible" quantity="2" unit="character"/>
-             <lb n="B11"/>dvā jāk· humā <placeName type="cultivation" subtype="field" key="Udaya">Udaya</placeName> <measure type="unitCapacity" quantity="1" commodity="paddy">sā jāk·</measure> humā dhvac· sā jāk· humā cak· s<supplied reason="lost">ā jā</supplied><lb n="B12" break="no"/>k· humā tūpen· sā jāk· humā haluv· ravāṅ· sā jāk· humā <gap reason="illegible" quantity="3" unit="character"/><!--sapi2argr : Cette ligne vérifiée sur l'estampage de Huber, BEFEO XI p. 272. Note du rtf : La pierre est encastrée. On ne peut pas voir les signes souscrits de la l. 12.--><milestone type="pagelike" unit="face" n="C"/>
+             <lb n="B11"/>dvā jāk· humā <placeName type="cultivation" subtype="field" key="Udaya">Udaya</placeName> <measure type="unitCapacity" quantity="1" commodity="paddy">sā jāk·</measure> humā vvac· sā jāk· humā caṁk· s<supplied reason="lost">ā jā</supplied><lb n="B12" break="no"/>k· humā tūpen· sā jāk· humā huluv· ravāṅ· sā jāk· humā <gap reason="illegible" quantity="2" unit="character"/><!--sapi2argr : Cette ligne vérifiée sur l'estampage de Huber, BEFEO XI p. 272. Note du rtf : La pierre est encastrée. On ne peut pas voir certains signes souscrits de la l. 12.--><milestone type="pagelike" unit="face" n="C"/>
              <lb n="C1"/>humā gaḥ pagār·
              <lb n="C2"/>sā jāk· nariy· gaḥ
              <lb n="C3"/><unclear>ṅ</unclear>auk· sāṅ· tal· gaḥ
@@ -221,20 +221,33 @@
                      <lem>pu pov· tana <supplied reason="omitted">ra</supplied>yā sthirarājya <supplied reason="lost">hu</supplied></lem>
                      <rdg source="bib:Huber1911_01">pu pov· tana yā sthira<gap reason="illegible" quantity="2" unit="character"/> <supplied reason="lost">hu</supplied></rdg>
                  </app>
+                 <app loc="B11">
+                     <lem>vvac·</lem>
+                     <rdg source="bib:Huber1911_01">dhvac·</rdg>
+                     <note>It could be a -dh, but most likely it is a -v, just like in <ref target="DHARMA_INSCIC00108.xml">C. 108</ref></note>
+                 </app>
+                 <app loc="B11">
+                     <lem>caṁk·</lem>
+                     <rdg source="bib:Huber1911_01">cak·</rdg>
+                 </app>
                  <app loc="B12">
-                     <lem>tūpen</lem>
-                     <rdg source="bib:Huber1911_01">tupen</rdg>
+                     <lem>tūpen·</lem>
+                     <rdg source="bib:Huber1911_01">tupen·</rdg>
+                 </app>
+                 <app loc="B12">
+                     <lem>huluv·</lem>
+                     <rdg source="bib:Huber1911_01">haluv·</rdg>
                  </app>
                  <app loc="C9">
-                     <lem>tūpaṅ</lem>
-                     <rdg source="bib:Huber1911_01">tupaṅ</rdg>
+                     <lem>tūpaṅ·</lem>
+                     <rdg source="bib:Huber1911_01">tupaṅ·</rdg>
                  </app>
                  <app loc="C10">
-                     <lem>kayauv</lem>
-                     <rdg source="bib:Huber1911_01">kayov</rdg>
+                     <lem>kayauv·</lem>
+                     <rdg source="bib:Huber1911_01">kayov·</rdg>
                  </app>
                  <app loc="D2">
-                     <lem>niy</lem>
+                     <lem>niy·</lem>
                      <rdg source="bib:Huber1911_01">nariy</rdg>
                  </app>
                  <app loc="D7">
@@ -266,10 +279,10 @@
            <item>la rizière Kaṁk: un <foreign>jāk</foreign></item>
            <item>la rizière <gap reason="illegible" quantity="2" unit="character"/>: deux <foreign>jāk</foreign></item>
            <item>la rizière Udaya: un <foreign>jāk</foreign></item>
-           <item>la rizière Dhvac: un <foreign>jāk</foreign></item>
-           <item>la rizière Cak: un <foreign>jāk</foreign></item>
+           <item>la rizière Vvac: un <foreign>jāk</foreign></item>
+           <item>la rizière Caṁk: un <foreign>jāk</foreign></item>
            <item>la rizière Tūpen: un <foreign>jāk</foreign></item>
-           <item>la rizière Haluv Ravāṅ: un <foreign>jāk</foreign></item>
+           <item>la rizière Huluv Ravāṅ: un <foreign>jāk</foreign></item>
            <item>la rizière <gap reason="illegible" quantity="3" unit="character"/></item>
            <item>la rizière Gaḥ Pagār: un <foreign>jāk</foreign>; depuis le côté en amont de la maison jusqu’au côté du</item>
            <item>rizière Tuṁ: onze <foreign>jāk</foreign></item>

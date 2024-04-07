@@ -200,9 +200,9 @@
 	   <bibl><ptr target="bib:Finot1901_01"/><citedRange unit="page">18</citedRange><citedRange unit="figure">4</citedRange></bibl><!-- AG: keep in list, even though Finot 1901 is already mentioned above, for this is an occasion to mention the fig. 4. -->
 	<bibl><ptr target="bib:Finot1915_01"/><citedRange unit="page">14</citedRange></bibl>
 	<bibl><ptr target="bib:Parmentier1909_01"/><citedRange unit="page">553-555</citedRange><citedRange unit="figure">127</citedRange></bibl>
-	<bibl n="RCM"><ptr target="bib:Majumdar1927_02"/><citedRange unit="page">224</citedRange></bibl>
+	<bibl><ptr target="bib:Majumdar1927_02"/><citedRange unit="page">224</citedRange></bibl>
 	<bibl><ptr target="bib:Boisselier1963_01"/><citedRange unit="page">365</citedRange><citedRange unit="figure">235</citedRange></bibl>
-	<bibl n="KHG"><ptr target="bib:Golzio2004_01"/><citedRange unit="page">199-200</citedRange></bibl>
+	<bibl><ptr target="bib:Golzio2004_01"/><citedRange unit="page">199-200</citedRange></bibl>
 </listBibl>
 </div>
 </body>

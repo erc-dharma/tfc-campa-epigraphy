@@ -175,6 +175,7 @@
            </p>
          </div>
          <div type="apparatus">
+           <listApp>
            <app loc="A4">
                <lem source="bib:Majumdar1927_01">nr̥̄ṇāṁ</lem>
                <rdg source="bib:Huber1911_02">nr̥̄ṇām</rdg>
@@ -237,6 +238,7 @@
              <lem>yāṅ·</lem>
              <rdg source="bib:Huber1911_02">yāp·</rdg>
            </app>
+           </listApp>
          </div>
          <div type="translation" resp="part:sapi part:argr">
            <p n="b8-b12">People who dismantle <supplied reason="subaudible">this inscription</supplied>, in accordance with this curse, the black dog, the white dog, the red dog <supplied reason="subaudible">and</supplied> the four-eyed dog turn to their mothers.</p>
@@ -282,14 +284,14 @@
             <ptr target="bib:Huber1911_02"/>
             <citedRange unit="page">15-22</citedRange>
             </bibl>
+            <bibl n="M">
+              <ptr target="bib:Majumdar1927_01"/>
+              <citedRange unit="part">3</citedRange>
+              <citedRange unit="page">139-143</citedRange>
+              <citedRange unit="item">46</citedRange>
+            </bibl>
 			</listBibl>
            <listBibl type="secondary">
-             <bibl>
-               <ptr target="bib:Majumdar1927_01"/>
-               <citedRange unit="part">3</citedRange>
-               <citedRange unit="page">139-143</citedRange>
-               <citedRange unit="item">46</citedRange>
-             </bibl>
              <bibl>
              <ptr target="bib:Golzio2004_01"/>
              <citedRange unit="page">117-119</citedRange>

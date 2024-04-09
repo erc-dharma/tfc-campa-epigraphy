@@ -11,9 +11,9 @@
             <title>The back of a Viṣṇu Statue at Biên Hòa (C. 1), 1343 Śaka</title>
             <respStmt>
                <resp>EpiDoc Encoding</resp>
-               <persName ref="part:sapi">
-                  <forename>Salomé</forename>
-                  <surname>Pichon</surname>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
                </persName>
             </respStmt>
             <respStmt>
@@ -22,16 +22,12 @@
                   <forename>Arlo</forename>
                   <surname>Griffths</surname>
                </persName>
-               <persName ref="part:sapi">
-                  <forename>Salomé</forename>
-                  <surname>Pichon</surname>
-               </persName>
             </respStmt>
             <respStmt>
                <resp>Conversion of encoding for DHARMA</resp>
-               <persName ref="part:sapi">
-                  <forename>Salomé</forename>
-                  <surname>Pichon</surname>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
                </persName>
             </respStmt>
          </titleStmt>
@@ -42,7 +38,7 @@
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licensed under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Arlo Griffiths and Salomé Pichon.</p>
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -111,6 +107,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change when="2024-04-07" who="part:argr" status="draft">corrected respStmt</change>
          <change when="2024-04-07" who="part:argr" status="draft">corrected encoding of g, updated the whole encoding with DHARMA norms and results published in Griffiths 2019</change>
          <change when="2021-07-03" who="part:argr" status="draft">Resolved validation problems.</change>
          <change when="2020-09-14" who="part:axja" status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>

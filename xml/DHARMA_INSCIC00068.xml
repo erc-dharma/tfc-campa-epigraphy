@@ -85,14 +85,14 @@
       <body>
          <div type="edition" xml:lang="san-Latn">
 <p>
-<lb n="1"/>sarvvā<choice><unclear>k</unclear><unclear>ch</unclear></choice>ālakṣetraṁ
+<lb n="1"/>sarvvā<unclear>k</unclear>āla-kṣetraṁ
 <lb n="2"/>ṅauk·-laṅā-kṣetraṁ 
 </p>
          </div>
          <div type="apparatus">
                <listApp>
                   <app loc="1">
-                     <lem>sarvvākāla-</lem>
+                     <lem>sarvvā<unclear>k</unclear>āla--</lem>
                      <rdg source="bib:Finot1904_01">sarvvaṁ kāla-</rdg>
 <note>It is true that an <foreign>anusvāra</foreign> seems to be present on <foreign>rvvā</foreign> but no meaning is transparent in case we assume a declined form <foreign>sarvvāṁ</foreign> (accusative singular feminine) before <foreign>kālakṣetraṁ</foreign>. An alternative would be to assume that the rather clear <foreign>ā</foreign> marker is an error and then we arrive back at Finot's reading <foreign>sarvvaṁ</foreign>.</note>
 <!-- <note>Is the intended word <foreign>sarvvākāla</foreign>-</note>-->

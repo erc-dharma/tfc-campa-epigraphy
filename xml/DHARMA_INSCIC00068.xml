@@ -93,13 +93,13 @@
                   <app loc="1">
                      <lem>sarvvākāla-</lem>
                      <rdg source="bib:Finot1904_01">sarvvaṁ kāla-</rdg>
-<note>It is true that an <foreign>anusvāra</foreign> seems to be present on <foreign>rvvā</foreign> but no meaning is transparent is we assume a declined Sanskrit form <foreign>sarvvāṁ</foreign> (accusative singular feminine) before <foreign>kālakṣetraṁ</foreign>, unless we assume that the rather clear <foreign>ā</foreign> marker is an error.</note>
+<note>It is true that an <foreign>anusvāra</foreign> seems to be present on <foreign>rvvā</foreign> but no meaning is transparent in case we assume a declined Sanskrit form <foreign>sarvvāṁ</foreign> (accusative singular feminine) before <foreign>kālakṣetraṁ</foreign>, unless we assume that the rather clear <foreign>ā</foreign> marker is an error to arrive back as <foreign>sarvvaṁ</foreign>.</note>
 <!-- <note>Is the intended word <foreign>sarvvākāla</foreign>-</note>-->
                   </app>
                </listApp>
          </div>
          <div type="translation" resp="part:argr">
- 	<p n="1">Field for everything unseasonable <supplied reason="explanation"><foreign>sarva-akāla</foreign></supplied>.</p>
+ 	<p n="1">Field for everything unseasonable <supplied reason="explanation">? <foreign>sarva-akāla</foreign></supplied>.</p>
 	<p n="2">Upper sesame field.</p>
          </div>
 	<div type="translation" xml:lang="fra" source="bib:Finot1904_01">

@@ -77,15 +77,16 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+        	<change who="part:argr" when="2024-04-09">revised the encoding</change>
             <change who="part:argr" when="2024-04-06">encoded the inscription</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="ocm-Latn">
+         <div type="edition" xml:lang="san-Latn">
 <p>
 <lb n="1"/>sarvvā<choice><unclear>k</unclear><unclear>ch</unclear></choice>ālakṣetraṁ
-<lb n="2"/>ṅauk· laṅā kṣetraṁ 
+<lb n="2"/>ṅauk·-laṅā-kṣetraṁ 
 </p>
          </div>
          <div type="apparatus">
@@ -93,7 +94,7 @@
                   <app loc="1">
                      <lem>sarvvākāla-</lem>
                      <rdg source="bib:Finot1904_01">sarvvaṁ kāla-</rdg>
-<note>It is true that an <foreign>anusvāra</foreign> seems to be present on <foreign>rvvā</foreign> but no meaning is transparent in case we assume a declined Sanskrit form <foreign>sarvvāṁ</foreign> (accusative singular feminine) before <foreign>kālakṣetraṁ</foreign>, unless we assume that the rather clear <foreign>ā</foreign> marker is an error to arrive back as <foreign>sarvvaṁ</foreign>.</note>
+<note>It is true that an <foreign>anusvāra</foreign> seems to be present on <foreign>rvvā</foreign> but no meaning is transparent in case we assume a declined form <foreign>sarvvāṁ</foreign> (accusative singular feminine) before <foreign>kālakṣetraṁ</foreign>. An alternative would be to assume that the rather clear <foreign>ā</foreign> marker is an error and then we arrive back at Finot's reading <foreign>sarvvaṁ</foreign>.</note>
 <!-- <note>Is the intended word <foreign>sarvvākāla</foreign>-</note>-->
                   </app>
                </listApp>
@@ -106,11 +107,11 @@
  	<p>Tout le champ Kāla, le champ de sésame Ṅauk.</p>
          </div>
          <div type="commentary">
-            <p>In view of the problem of reading exposed in the apparatus, the interpretation of the meaning of the first line is very tentative. Even the identification of the language as Old Cham would have to be reconsidered if a reading like Finot's were given preference.</p>
+            <p>Similar lists of names of fields formulated in Sanskrit but incorporating Old Cham elements are found, i.a., in <ref target="DHARMA_INSCIC00216.xml">C. 216</ref>, face b. In view of the uncertainties of reading exposed in the apparatus, the interpretation of the meaning of the first line is very tentative.</p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>Pulished with eye-copy by Finot (<bibl rend="omitname"><ptr target="bib:Finot1904_01"/></bibl>), whence translated into English by Golzio (<bibl rend="omitname"><ptr target="bib:Golzio2004_01"/></bibl>). Re-redited here by Arlo Griffiths based on EFEO estampage 281.</p><!-- first read 25/11/2011, revised 06/04/2024 and 09/04/2024. -->
+           <p>Published with eye-copy by Finot (<bibl rend="omitname"><ptr target="bib:Finot1904_01"/></bibl>), whence translated into English by Golzio (<bibl rend="omitname"><ptr target="bib:Golzio2004_01"/></bibl>). Re-redited here by Arlo Griffiths based on EFEO estampage 281.</p><!-- first read 25/11/2011, revised 06/04/2024 and 09/04/2024. -->
         	<listBibl type="primary">
 	<bibl n="F"><ptr target="bib:Finot1904_01"/><citedRange unit="page">112-113</citedRange><citedRange unit="item">IV</citedRange></bibl><!--  [EEPC, pp. 70-71] -->
 			</listBibl>

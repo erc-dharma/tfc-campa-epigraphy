@@ -22,9 +22,9 @@
                   <forename>Arlo</forename>
                   <surname>Griffiths</surname>
                </persName>
-               <persName ref="http://viaf.org/viaf/289845900"><!--sapi2argr Ai-je mis le bon pseudonyme ? -->
-                  <forename>Amandine</forename>
-                  <surname>Lepoutre</surname>
+               <persName ref="part:sapi">
+                  <forename>Salomé</forename>
+                  <surname>Pichon</surname>
                </persName>
             </respStmt>
          </titleStmt>
@@ -145,7 +145,9 @@
              <l n="d">śaktaṁ na yasya yadaniṣṭavara-prasādāt·<g type="ddandaPlain">.</g></l>
            </lg>
            <lg n="8" met="śārdūlavikrīḍita">
-             <l n="a">yo vijñāya murāripadma-varajāva-jñāna-doṣodgati<!-- sapi2argr °jñāna°: °jñānaṁ (sapi). Pour l'instant je ne touche à rien à cause de la métrique. SOIT CORRIGER, SOIT IL N'Y EST PAS.-->
+             <l n="a">yo vijñāya murāripadma-varajāva-jñāna-doṣodgati<!-- sapi2argr °jñāna°: °jñānaṁ (sapi). Pour l'instant je ne touche à rien à cause de la métrique. SOIT CORRIGER, SOIT IL N'Y EST PAS.
+argr2sapi: tu lis souvent des anusvāra dont on ne veut pas. je serais très hésitant sur l'idée de les lire puis traiter de <surplus> dans tout les cas où tu en lis.
+-->
              <g type="dotMid">.</g></l>
              <l n="b">prāle<lb n="A11" break="no"/>yaglapitānanāmvuja-nibhau provāca vāṇīm imām·<g type="dotMid">.</g></l>
              <l n="c">he govinda-sarojajau kim aparaṁ sāddhvā yuvābhyāṁ manā<g type="dotMid">.</g>g</l>
@@ -184,12 +186,20 @@
            <lg n="14" met="anuṣṭubh">
              <l n="a">sa śrīśāneśvaro yatra<g type="dotMid">.</g></l>
              <l n="b">jātipuṣ<choice><unclear>ṭ</unclear><unclear>p</unclear></choice>abhuvi śriyā<g type="dotMid">.</g></l>
-             <l n="c">sukhāsīno<!--sapi2argr sukhāsīṁno. Pour l'instant je ne touche à rien. CORRIGER OU IL n'y est pas.--> namaskāra<g type="dotMid">.</g></l>
-             <l n="d">dhanān naḥ pā<lb n="A18"/><g type="floretQuatrefoil"/><g type="ddandaOrnate">.</g> tu sādhvasāt·<g type="ddandaOrnate">.</g><g type="floretQuatrefoil"/></l><!--sapi2argr les deux signes encadrant les ddanda ne sont pas vraiment des floretQuatrefoil. Il s'agit plutôt de motifs décoratifs végétaux disposés de manière symétrique, rétrécissant à mesure qu'ils s'écartent vers le bord. -->
+             <l n="c">sukhāsīno<!--sapi2argr sukhāsīṁno. Pour l'instant je ne touche à rien. CORRIGER OU IL n'y est pas.
+argr2sapi: on ne s'attend pas à un anusvāra donc mieux de ne pas le mettre si c'est possible qu'il s'agit d'une imperfection de la pierre
+--> namaskāra<g type="dotMid">.</g></l>
+             <l n="d">dhanān naḥ pā<lb n="A18"/><g type="floretQuatrefoil"/><g type="ddandaOrnate">.</g> tu sādhvasāt·<g type="ddandaOrnate">.</g><g type="floretQuatrefoil"/></l><!--sapi2argr les deux signes encadrant les ddanda ne sont pas vraiment des floretQuatrefoil. Il s'agit plutôt de motifs décoratifs végétaux disposés de manière symétrique, rétrécissant à mesure qu'ils s'écartent vers le bord. 
+argr2sapi: pas une bonne idée de mettre floretQuatrefoil si ce n'est pas réellement un exemple de ça. Pourquoi ne pas contacter Daniel Balogh et lui propose un ajout au Symbol Taxonomy?
+-->
            </lg>
            <lg n="15" met="pr̥thvī"><milestone type="pagelike" unit="face" n="B"/>
-              <l n="a"><lb n="B1"/><seg met="-+---+-"><gap reason="lost" quantity="7" unit="character"/></seg><!--sapi2argr Ici c'est la première fois que j'encode une lacune de vers, et je ne suis pas sûre de l'avoir fait correctement.--><unclear>m</unclear>ā kali-kalaṅka-kālojjhitā<g type="dotMid">.</g></l>
-              <l n="b">mahā-jana-gaṇa-pra<seg met="+-"><gap reason="lost" quantity="2" unit="character"/></seg><lb n="B2"/><seg met="--+"><gap reason="lost" quantity="3" unit="character"/></seg> sti campāhvayā<g type="dotMid">.</g><!-- sapi2argr Ici le terme n'existe pas dans la taxonomy mais il s'agit d'un dotHigh --></l>
+              <l n="a"><lb n="B1"/><seg met="-+---+-"><gap reason="lost" quantity="7" unit="character"/></seg><!--sapi2argr Ici c'est la première fois que j'encode une lacune de vers, et je ne suis pas sûre de l'avoir fait correctement.
+argr2sapi: merci de consulter Daniel si tu en as toujours besoin
+--><unclear>m</unclear>ā kali-kalaṅka-kālojjhitā<g type="dotMid">.</g></l>
+              <l n="b">mahā-jana-gaṇa-pra<seg met="+-"><gap reason="lost" quantity="2" unit="character"/></seg><lb n="B2"/><seg met="--+"><gap reason="lost" quantity="3" unit="character"/></seg> sti campāhvayā<g type="dotMid">.</g><!-- sapi2argr Ici le terme n'existe pas dans la taxonomy mais il s'agit d'un dotHigh 
+argr2sapi: regarder à nouveau dans symbol taxonomy; s;il n'y est toujours pas, alors propose un ajout
+--></l>
               <l n="c">vibhūti-paribhoga-sampad-ucitā su-tejasvinā<g type="dotMid">.</g></l>
               <l n="d">purāṇa-bhr̥gu-śāsanena kila rakṣitā yena <seg met="+"><gap reason="lost" quantity="1" unit="character"/></seg><supplied reason="lost"><g type="ddandaPlain">.</g></supplied></l>
             </lg>
@@ -210,7 +220,9 @@
               <l n="d">vīvr̥dhad aiśvaram·<g type="ddandaPlain">.</g></l>
             </lg>
             <lg n="19" met="anuṣṭubh">
-              <l n="a">śrī-sampadaṁ vicitrārthām</l><!--sapi2argr on the stone i read, °ārthādhi but I understand the logic. Difference between ‘ma’ and ‘dha’: very similar characters but the ‘body’ of the ‘ma’ is opened on the right, and the body of the ‘dha’ is opened in the middle. Cf. comparison with °mahāsām, on the same line. -->
+              <l n="a">śrī-sampadaṁ vicitrārthām</l><!--sapi2argr on the stone i read, °ārthādhi but I understand the logic. Difference between ‘ma’ and ‘dha’: very similar characters but the ‘body’ of the ‘ma’ is opened on the right, and the body of the ‘dha’ is opened in the middle. Cf. comparison with °mahāsām, on the same line. 
+argr2sapi: vicitrārthādh irādhīśa- would be impossible in Sanskrit so your impression that you saw dh must have been wrong
+-->
               <l n="b">irādhīśa-prasādataḥ<g type="dotMid">.</g></l>
               <l n="c">Amā<lb n="B7" break="no"/>tyo vāpa yaś cājñā</l>
               <l n="d">mahāsāmantasaṁjñakaḥ<g type="dandaPlain">.</g></l>
@@ -224,7 +236,9 @@
             <lg n="21" met="anuṣṭubh">
               <l n="a">Ity etāni ca yasyaiva</l>
               <l n="b">rājājñā-suprayatnataḥ<g type="dotMid">.</g></l>
-              <l n="c">dūrllabhānīha<!-- sapi2argr dūrllabhānīhaṁ. Il y a un anusvara net sur la pierre.-->loke ’nyai<g type="dotMid">.</g>r</l>
+              <l n="c">dūrllabhānīha<!-- sapi2argr dūrllabhānīhaṁ. Il y a un anusvara net sur la pierre.
+argr2sapi mais on ne peut pas en avoir ici; fort probable qu'il s'agisse d'une irrégularité de la pierre
+-->loke ’nyai<g type="dotMid">.</g>r</l>
               <l n="d">api prādān mahīpatiḥ<g type="ddandaPlain">.</g></l>
             </lg>
             <p>
@@ -260,16 +274,18 @@
               <milestone type="pagelike" unit="face" n="C"/>
               <gap reason="lost" quantity="3" unit="line" precision="low"/>
             </p>
-            <p xml:lang="san-Latn"> <!--sapi2argr : Comment encoder la présence sur deux lignes d'une lacune de stance ?-->
+            <p xml:lang="san-Latn"> <!--sapi2argr : Comment encoder la présence sur deux lignes d'une lacune de stance ?
+argr2sapi: pose la question à Daniel
+-->
               <gap reason="lost" quantity="2" unit="line" precision="low"/>
             </p>
-            <lg n="26" met="anuṣṭubh"><!--sapi2argr Ai-je bien fait de numéroter la stance ainsi ? -->
+            <lg n="26" met="anuṣṭubh">
               <l n="a"><seg met="==="><gap reason="lost" extent="unknown" unit="character"/></seg><lb n="C6"/>nujā yasya<g type="dotMid">.</g></l>
               <l n="b">sādhuvr̥ttyāśritāśayā<g type="dotMid">.</g></l>
               <l n="c">Ugradevī satī nāmnā<g type="dotMid">.</g></l>
               <l n="d"><lb n="C7"/>khyāyate puṇyakāṁkṣinī<g type="ddandaPlain">.</g></l>
             </lg>
-            <p xml:lang="san-Latn">tais tatsahodarair eka<lb n="C8" break="no"/>matibhir mmātr<choice><sic>a</sic><corr>ā</corr></choice>nujñayā śrīmahārudradevaḥ pratiṣṭhāpito
+            <p>tais tatsahodarair eka<lb n="C8" break="no"/>matibhir mmātr<choice><sic>a</sic><corr>ā</corr></choice>nujñayā śrīmahārudradevaḥ pratiṣṭhāpito
               <lb n="C9"/>maddhyataḥ gagaṇadvimaṅgalaśake pitur ājñā sārthavāhanā<lb n="C10" break="no"/>mnaḥ śrī Indravarmmanr̥patimahādevyā śrīrudravarmmabhūpabhrā<lb n="C11" break="no"/>trīyayāsya sahodarasya pratirūpataḥ pitari tadbhaktyai sva<lb n="C12" break="no"/>jananībhūmau<g type="ddandaPlain">.</g> Atha<!-- sapi2argr sur la pierre je lis Aṁtha.--> tenottarata Iyaṁ bhagavatī prati<lb n="C13" break="no"/>ṣṭhāpitā khavahnitanuśake mātur at<choice><sic>i</sic><corr>ī</corr></choice>takalpasantānaku<lb n="C14" break="no"/>lodbhavāyāḥ pu pov· ku rudrapurasaṁjñikāyā devīgaṇa<lb n="C15" break="no"/>patikumārān imān devān pratiṣṭhāpayantyāś candrāgnitanu<lb n="C16" break="no"/>śake pratirūpato mātari tadbhaktaye svabhūmau<g type="ddandaHooked">.</g> Api<lb n="C17" break="no"/>cāmātya Ājñā jayendrapatināmeti dakṣiṇata I<lb n="C18" break="no"/>maṁ śrīmahāśivaliṅgeśvaradevam asthāpayan navadvimaṅga<lb n="C19" break="no"/>laśake parameśvarapūjārtham iha jananībhūmau svakī<lb n="C20" break="no"/>rttaye veti<g type="ddandaPlain">.</g>
             </p>
             <p xml:lang="ocm-Latn"><milestone type="pagelike" unit="face" n="D"/><gap reason="lost" quantity="5" unit="line" precision="low"/>
@@ -279,17 +295,21 @@
             <lb n="D9"/><gap reason="lost" extent="unknown" unit="character"/>Andap· yāṅ· pov· ku si<unclear>niy·</unclear><gap reason="lost" extent="unknown" unit="character"/>
             <lb n="D10"/><supplied reason="lost">yāṅ·</supplied> pov· ku <unclear>siniy·</unclear> matandāḥ pakar· sarvvākarādāna sarvva pat·
             <lb n="D11"/>matandāḥ ya siy· urāṅ· nāma pamataḥ matandāḥ niy· Urāṅ· nan· la<lb n="D12" break="no"/>c· di naraka<g type="dotMid">.</g> ya siy· Urāṅ· nāma tan·<!-- sapi2argr ou ta(ṁ)n·? --> pamataḥ matandāḥ niy·
-            <lb n="D13"/>Urāṅ· nan· nau dauk· di svargga yathā Iṣṭa driy·<g type="dotMid">.</g> rājā<lb n="D14" break="no"/>jñā na laṅghanīyā bhavadbhiḥ<g type="dotMid">.</g>
+            <lb n="D13"/>Urāṅ· nan· nau dauk· di svargga yathā-Iṣṭa driy·<g type="dotMid">.</g></p> 
+
+<p>rājā<lb n="D14" break="no"/>jñā na laṅghanīyā bhavadbhiḥ<g type="dotMid">.</g>
           </p>
-          <lg n="27" met="anuṣṭubh"> <!--sapi2argr : Où indiquer le <xml:lang="san-Latn"> ?--><!--sapi2argr Ai-je bien fait de numéroter la stance ainsi ? -->
+          <lg n="27" met="anuṣṭubh">
             <l n="a"><unclear>AI</unclear>ndavī yā kalā yāvad</l>
             <l n="b">yāvat sū<lb n="D15" break="no"/>ryyakarāvalī<g type="dotMid">.</g></l>
             <l n="c">dīpamānāsti rodasyo<g type="dotMid">.</g></l>
             <l n="d">r asmiṁs tāvad sumukti<lb n="D16" break="no"/>kā<g type="ddandaPlain">.</g></l>
           </lg>
             <p xml:lang="ocm-Latn">yāṅ· pu pov· ku siniy· ranakṣā Urāṅ· viśeṣa tapaḥ
-              <lb n="D17"/>maAnan· driy· yāṅ· pov· ku di yāṅ· yaṁṅ· sandhyā di yā<lb n="D18" break="no"/>ṅ· pu pov· ku śrīśānabhadreśvara<g type="dotMid">.</g><!-- sapi2argr Pas de terme dans la taxonomy mais on voit trois points verticaux. --> kintu gaṁp· kamiy· yaṅ· yaja<!-- sapi2argr Could we read yajā ? --><lb n="D19" break="no"/>māna yāṅ· pov· ku siniy· kā driy· yajamāna yāṅ· pov·
-              <lb n="D20"/>ku siniy· paknā dharmma niy· siy· srauṅ· punya va<!-- sapi2argr à la place de  <choice><unclear>u</unclear><unclear>va</unclear></choice>--> kamiy·
+              <lb n="D17"/>maAnan· driy· yāṅ· pov· ku di yāṅ· yaṁṅ· sandhyā di yā<lb n="D18" break="no"/>ṅ· pu pov· ku śrīśānabhadreśvara<g type="dotMid">.</g><!-- sapi2argr Pas de terme dans la taxonomy mais on voit trois points verticaux. argr2sapi: alors il faut utiliser le mode "suggestion" en proopose un ajout au fichier Symbol Taxonomy en collant un peit extrait d'image --> kintu gaṁp· kamiy· yaṅ· yaja<!-- sapi2argr Could we read yajā ? argr2sapi: on le souhaite pas... --><lb n="D19" break="no"/>māna yāṅ· pov· ku siniy· kā driy· yajamāna yāṅ· pov·
+              <lb n="D20"/>ku siniy· paknā dharmma niy· siy· srauṅ· punya va<!-- sapi2argr à la place de  <choice><unclear>u</unclear><unclear>va</unclear></choice>
+argr2sapi: faut-il apporter une variante à l'apparat critique? Huber comment avait-il lu?
+--> kamiy·
               <lb n="D21"/>paknā kaṁn· Urāṅ· tapaḥ viśeṣa sidaḥ luniy· napāy·
               <lb n="D22"/>hetu jeṅ· daḥ sunan· Urāṅ· tapaḥ viśeṣa nan· tan madā<g type="crossPlus">.</g>
               <lb n="D23"/>humā <placeName type="cultivation" subtype="field" key="Vandrauv">vandrauv·</placeName> <seg type="desc">nariy· tu<unclear>ṁ</unclear> <choice><unclear>g</unclear><unclear>th</unclear><unclear>bh</unclear></choice>au nau patam̃l· huluv· AIr· draṁ</seg> A
@@ -310,7 +330,8 @@
                  </app>
                  <app loc="A16">
                      <lem>nude stāc</lem>
-                     <rdg source="bib:Huber1911_01">’nudostāc</rdg><!--sapi2argr ' ou q ?-->
+                     <rdg source="bib:Huber1911_01">’nudostāc</rdg><!--sapi2argr ' ou q ? 
+argr2sapi: le q n'a lieu d'être que quand il ya une voyelle initiale A utilisé comme consonne. Rien à voir avec ce que nous avons ici. En revanche, tu peux mettre <supplied reason="subaudible">’</supplied> dans l'édition et donc également dans le <lem> -->
                      <note>with note “Corr. dosthāc”. There is clearly no do but de, there is no elision to be marked with an apostrophe, and no correction is necessary for the akṣara stā.</note>
                  </app>
                  <app loc="B1">

@@ -90,7 +90,7 @@ n="A5" break="no"/>ka dram̃ Inravarma paṇḍap· dadam̃n· bhaṇḍ<unclear
 <lb n="A6"/>samram̃ddhipurī di thun· <unclear>bhyā</unclear>graṇakṣatra padam̃ṅ· maṇḍī vaṅan· paṅap·
 <lb n="A7"/>sām̃ surak· dadam̃n· Adhvā pavam̃k· vanam̃k· kraum̃ hayāvv· pajem̃ rājadhā<lb 
 n="A8" break="no"/>ṇnī madā ka tmum̃ kirenra vap· viṅṣa kāla di hayāvv· Amil· 
-<milestone type="pagelike" unit="face" n="A"/><label>Back</label>
+<milestone type="pagelike" unit="face" n="B"/><label>Back</label>
 <lb n="B1"/><gap reason="lost" quantity="3" unit="character"/>k· <unclear>pa</unclear>dadam̃n· d<unclear>i</unclear>k· varna trā madā ka tmum̃ dhaval<unclear>a</unclear>
 <lb n="B2"/><gap reason="lost" quantity="2" unit="character"/>ra nī putta di vavaḥ Air· laṅuv· tam̃l· Aṣta triṅṣa
 <lb n="B3"/><unclear>sām̃</unclear> surak· śilālikhitta ṇī di rājadhvanna nī <num value="1360">1360</num><g type="ddanda">.</g>
@@ -100,10 +100,8 @@ n="A8" break="no"/>ṇnī madā ka tmum̃ kirenra vap· viṅṣa kāla di hayā
                <listApp>
                   <app loc="A2">
                      <lem>vr̥ṣuvam̃ṅṣa <unclear>pu po</unclear>m̃<lb n="A3"/>k<unclear>u</unclear></lem>
-<note>Ou faut-il lire vr̥ ṣuvam̃ṅṣa (pu po)m̃ kā ? Il est concevable que le
-lapicide ait gravé kāu, c’est-à-dire la consonne k avec deux marques vocaliques (ā et u), et qu’il
-faille lire tant une syllabe ku qu’une syllabe kā. On trouve en effet la séquence pu pom̃ ku kā dans
-les inscriptions contemporaines C. 43, C. 57 et C. 214.</note>
+<note>Or should we read <foreign>vr̥ṣuvam̃ṅṣa <unclear>pu po</unclear>m̃ kā</foreign>? It's conceivable that the <foreign>kāu</foreign> was engraved, i.e., the consonant <foreign>k</foreign> with two vowel markers (<foreign>ā</foreign> and <foreign>u</foreign>), and that both a syllable <foreign>ku</foreign> and a syllable <foreign>kā</foreign> should be read. Indeed, the sequence <foreign>pu pom̃ ku kā</foreign> is found in contemporary inscriptions <ref target="DHARMA_INSCIC00043.xml">C. 43</ref>, <ref target="DHARMA_INSCIC00057.xml">C. 57</ref> and <ref target="DHARMA_INSCIC00214.xml">C. 214</ref>.<!--Ou faut-il lire vr̥ṣuvam̃ṅṣa (pu po)m̃ kā ? Il est concevable que le lapicide ait gravé kāu, c’est-à-dire la consonne k avec deux marques vocaliques (ā et u), et qu’il faille lire tant une syllabe ku qu’une syllabe kā. On trouve en effet la séquence pu pom̃ ku kā dans
+les inscriptions contemporaines C. 43, C. 57 et C. 214-->.</note>
                   </app>
 <app loc="A3"><lem>du<sic>ṅ</sic>an·</lem><note>il faut probablement corriger dunan·, comme dans de nombreuses autres inscriptions
 (par ex. C. 3.2, l. 1 et C. 43, A l. 3).</note></app>
@@ -159,7 +157,7 @@ Il arriva qu’il rencontrât les Montagnards  un total (vap)  de vingt fois à 
 	<bibl n="BEFEO"/><bibl><ptr target="bib:Griffiths2020_04"/></bibl>
 	</listBibl>
            <listBibl type="secondary">
-              <bibl><ptr target="bib:TranKyPhuong+al2015_01"/><citedRange unit="page">439, 467</citedRange><citedRange unit="figure">36.21 and 36.22</citedRange><!--L’inscription est mentionnée dans Trần Kỳ Phương, Thonglith Luongkhote &amp; Phon Kaseka 2015,
+              <bibl><ptr target="bib:TranKyPhuong+al2015_01"/><citedRange unit="page">439, 467</citedRange><citedRange unit="figure">36.21, 36.22</citedRange><!--L’inscription est mentionnée dans Trần Kỳ Phương, Thonglith Luongkhote &amp; Phon Kaseka 2015,
 p. 439 (avec les illustrations 36.21 et 36.22 à la page 467).--></bibl>
            </listBibl>
         </div>

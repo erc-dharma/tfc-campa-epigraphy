@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tư Lương stele (C. 237), 1360 Śaka</title>
+            <respStmt>
+               <resp>EpiDoc Encoding</resp>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Jakarta</pubPlace>
+            <idno type="filename">DHARMA_INSCIC00237</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+            <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+                  <!-- don't modify this -->
+               </msIdentifier>
+               <msContents><!-- describe the intellectual content of an inscription -->
+                  <summary><!-- //// NOT MANDATORY  ////--></summary>
+                  <!-- offers the possibility to give a summary of the inscription's content -->
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p>The lettering is characteristic of the fifteenth century CE.<!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                     <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <!-- UPDATE the link once the release is made official -->
+         <listPrefixDef>
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="part:argr" when="2024-04-13">encoded the inscription</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:00000">
+<p><milestone type="pagelike" unit="face" n="A"/><label>Front</label><!-- §5.4. --><lb n="A1"/>svasti madā paramarājādh<unclear>i</unclear>rāja Ā<lb n="A2" break="no"/>tmaja di yām̃ pom̃ k<unclear>u</unclear> jayasiṅhavarma vr̥ṣuvam̃ṅṣa <unclear>pu po</unclear>m̃
+<lb n="A3"/>k<unclear>u</unclear> pura rājagrāmma ṅauk· glaum̃ vijaya du<sic>ṅ</sic>an· dram̃ rāja yvan· kvīra ma<lb n="A4" break="no"/>rai tupak· ṣuḥ khin· rajan· yuddha trā tam̃l· dvau triṅṣa Abhiśe<lb n="A5" break="no"/>ka dram̃ Inravarma paṇḍap· dadam̃n· bhaṇḍ<unclear>ā</unclear>ra patryak· lyam̃ kanāya pajem̃
+<lb n="A6"/>samram̃ddhipurī di thun· <unclear>bhyā</unclear>graṇakṣatra padam̃ṅ· maṇḍī vaṅan· paṅap·
+<lb n="A7"/>sām̃ surak· dadam̃n· Adhvā pavam̃k· vanam̃k· kraum̃ hayāvv· pajem̃ rājadhā<lb n="A8" break="no"/>ṇnī madā ka tmum̃ kirenra vap· viṅṣa kāla di hayāvv· Amil· 
+<milestone type="pagelike" unit="face" n="A"/><label>Back</label>
+<lb n="B1"/><gap reason="lost" quantity="3" unit="character"/>k· <unclear>pa</unclear>dadam̃n· d<unclear>i</unclear>k· varna trā madā ka tmum̃ dhaval<unclear>a</unclear>
+<lb n="B2"/><gap reason="lost" quantity="2" unit="character"/>ra nī putta di vavaḥ Air· laṅuv· tam̃l· Aṣta triṅṣa
+<lb n="B3"/><unclear>sām̃</unclear> surak· śilālikhitta ṇī di rājadhvanna nī <num value="1360">1360</num><g type="ddanda">.</g>
+</p>
+         </div>
+         <div type="apparatus">
+               <listApp>
+                  <app loc="A2">
+                     <lem>vr̥ṣuvam̃ṅṣa <unclear>pu po</unclear>m̃<lb n="A3"/>k<unclear>u</unclear></lem>
+<note>Ou faut-il lire vr̥ ṣuvam̃ṅṣa (pu po)m̃ kā ? Il est concevable que le
+lapicide ait gravé kāu, c’est-à-dire la consonne k avec deux marques vocaliques (ā et u), et qu’il
+faille lire tant une syllabe ku qu’une syllabe kā. On trouve en effet la séquence pu pom̃ ku kā dans
+les inscriptions contemporaines C. 43, C. 57 et C. 214.</note>
+                  </app>
+<app loc="A3"><lem>du<sic>ṅ</sic>an·</lem><note>il faut probablement corriger dunan·, comme dans de nombreuses autres inscriptions
+(par ex. C. 3.2, l. 1 et C. 43, A l. 3).</note></app>
+<app loc="A4"><lem>ṣuḥ</lem><note>comprendre mr̥ suḥ. L’expression marai mr̥ suḥ/mrasuḥ est courante dans le corpus ; ici,
+le mot tupak y est inséré.</note></app>
+<app loc="A6"><lem><unclear>bhyā</unclear>graṇakṣatra</lem><note>comprendre vyāghranakṣatra. Voir infra, n. 22 et, sur la variation
+v ~ bh, infra n. 43.</note></app>
+<app loc="A6"><lem>vaṅan·</lem><note> faut-il corriger vaṅun· et prendre le sens « puits » de la première entrée baṅun dans
+A&amp;C, p. 318 ?</note></app>
+<app loc="A7"><lem>rājadhā<lb n="A8" break="no"/>ṇnī</lem><note>en fonction du choix d’interprétation fait pour rājadhvanna nī (B, l. 3 — voir n. 17 infra), il est éventuellement concevable de comprendre ici la même chose. Mais le mot rājadhānī,
+lui, est attesté ailleurs dans le corpus (C. 25, A l. 17 et C. 64, l. 3), et une correction en rājādhva
+nī semble ici donc moins probable.</note></app>
+<app loc="A8"><lem>Amil·</lem><note>faut-il voir ici un verbe qui aurait le sens du malais ambil « prendre » ? Voir Griffiths
+et al. 2012, p. 258, n. 125, concernant une autre occurrence possible de ce verbe (la syllabe mvil
+après une lacune dans C. 184). Sur la variation mv ~ m, voir infra, n. 43.</note></app>
+<app loc="B1"><lem><unclear>pa</unclear>dadam̃n· d<unclear>i</unclear>k·</lem><note>voir C. 4, A l. 4 dadam̃n· varṇna et C. 214, l. 3 dadam̃n· varṇna. La leçon pa n’est pas assurée, mais la forme padadaṁn figure dans une inscription du xe siècle
+(C. 140, B l. 3). En ce qui concerne dak, il pourrait s’agir du même mot que celui enregistré par
+A&amp;C, p. 213, avec les sens « ranger, arranger, placer, etc. … ». Ma lecture à même la pierre n’a pas
+permis de confirmer l’impression que donne l’estampage, à savoir que nous devrions plutôt lire dik.
+Si toutefois cette impression devait être correcte, ce qui est fortement suggéré par le fait que l’on lit
+les mots dadam̃n· diśa dans C. 56, C l. 3 (infra), il s’agira d’un emprunt au sanskrit diś « direction »,
+quoique le mot n’ait pas encore été lu dans une autre inscription du Campā.</note></app>
+<app loc="B1"><lem>madā ka tmum̃</lem><note>on trouve madā tmum̃ dans C. 30, A1, l. 7 ; kā tmum̃ dans C. 30, A2, l. 7 et
+C. 89, B l. 11 et 14. ALSO IN LINE A8.</note></app>
+<app loc="B1"><lem>dhaval<unclear>a</unclear><lb n="B2"/><gap reason="lost" quantity="2" unit="character"/>ra</lem><note>une restitution hypothétique, fondée sur le parallélisme avec C. 56, A l. 9-10, infra, Un·karśa-dhavala-gajā (expression que nous comprenons comme équivalent de utkarṣa-dhavala-gajādi en sanskrit classique) serait dhavala-gaja-vara « éminent éléphant blanc ».</note></app>
+<app loc="B2"><lem>di vavaḥ Air· laṅuv·</lem><note>il serait possible de lire Uvaḥ. Mais voir infra, C. 56, B l. 1-3 di vabaḥ
+(c)rauḥ laṅuvv· avec les notes 30 et 36.</note></app>
+<app loc="B3"><lem>rājadhvanna nī</lem><note>rājadhvanna nī : plusieurs options se présentent pour comprendre cette séquence, que l’on
+est tenté, au sein même de cette inscription, de comparer avec les mots Adhvā et rājadhāṇnī dans A, l. 7-8, tandis que des comparaisons plus lointaines sont également envisageables, comme rājamāna « dignité royale » (expression qui semble figurer dans l’inscription inédite C. 225, l. 9)
+ou bien rājadharmma (C. 42, l. 13). Les interprétations qui nous paraissent les moins improbables
+sont soit une déformation de rājādhvā nī (« cette route royale »), soit une déformation de rājadhānī
+nī (« cette capitale »). C’est provisoirement la première que nous retenons.</note></app>
+               </listApp>
+         </div>
+<div type="translation" resp="part:argr">
+ <p>
+</p>
+         </div>
+         <div type="translation" xml:lang="fra" source="bib:Griffiths2020_04">
+ <p>Salut ! Il y eut un suzerain suprême des rois, fils de sa Majesté (yāṅ poṅ ku) Jayasiṅhavarman de la lignée de Vr̥ṣu, mon seigneur (pu poṅ ku) de la cité de la résidence royale (rājagrāma) Ṅauk Glauṅ Vijaya. (Lorsque) celui-ci (dunan) prit la royauté, les Viets (yvan) et les Khmers (kvīra) attaquèrent ouvertement (tupak), souhaitant (khin) faire la guerre. 
+Et en (l’année) trente-deux, il reçut la consécration, prenant (le nom d’) Indravarman, attribua divers domaines (bhaṇḍāra), par sa grâce (kanāya)  eut un prince couronné (pa-tryak), fonda (le temple appelé) Samr̥ddhipurī. 
+En l’année du Tigre (vyāghra-nakṣatra)  il fonda le Maṇḍī Vaṅan, construisit des maisons de lettres  [sur] diverses routes, construisit un barrage sur la rivière Hayāv, fonda la capitale.
+Il arriva qu’il rencontrât les Montagnards  un total (vap)  de vingt fois à Hayāv … il mit à nouveau les divers rangs (de la société) en ordre. Il arriva qu’il obtînt cet [excellent éléphant] blanc. Il se lava (putta)  à l’embouchure de l’Air Laṅuv. Dans (l’année) trente-huit [fut construite] la maison de lettres de cette inscription sur pierre sur la route royale. [Ce fut en l’année Śaka] 1360.
+</p>
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+        <div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+           <p>First published, with a translation into French, in <bibl><ptr target="bib:Griffiths2020_04"/></bibl> on the basis of direct inspection of the stone as well as photographs and estampages. The present edition and translations reproduce those of the mentioned publication with only very minor differences.</p>
+        	<listBibl type="primary">
+	<bibl n="BEFEO"/><bibl><ptr target="bib:Griffiths2020_04"/></bibl>
+	</listBibl>
+           <listBibl type="secondary">
+              <bibl><ptr target="bib:TranKyPhuong+al2015_01"/><citedRange unit="page">439, 467</citedRange><citedRange unit="figure">36.21 and 36.22</citedRange><!--L’inscription est mentionnée dans Trần Kỳ Phương, Thonglith Luongkhote &amp; Phon Kaseka 2015,
+p. 439 (avec les illustrations 36.21 et 36.22 à la page 467).--></bibl>
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>

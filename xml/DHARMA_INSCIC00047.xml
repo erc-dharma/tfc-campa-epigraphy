@@ -99,13 +99,11 @@ n="6"/>vasthāṇna di bhūm<choice><sic>a</sic><corr>i</corr></choice> yām̃ <
 -->
 <lb n="7"/>pom̃ ku śrī vr̥ṣuviṣn<supplied reason="lost">ujātti</supplied> <unclear>vī</unclear>rabhadra<lb 
 n="8" break="no"/>varmmadeva Ātmaja nan<supplied reason="lost">·</supplied> dra<supplied reason="lost">m̃</supplied>ṅ<supplied reason="lost">·</supplied> rāja he<lb 
-n="9" break="no"/>ttu pītā mātā mvāttuleya A<!--	hettu pīta mātā mvāttuleya : corr. hetu pitā mātā mātuleya Finot.--><lb 
+n="9" break="no"/>ttu pītā mātā mvāttuleya A<lb 
 n="10" break="no"/>nniḥ praveśa di bhūmmi nī si Upak· su<lb 
 n="11" break="no"/>kha kā tok· humā si rājapītā
-<!--	sukha : suṇa Finot. Noter que, comme dans l'inscription C. 43, le ṇ est suivi d'un n souscrit. Cf. l. 5, 6 et 18. Il est impossible de lire suṇa.
-	rājapītā: rājapita Finot.-->
-<lb n="12"/>pu-pom̃ ku parok· di luvūk· myau <g type="danda">.</g> <num value="500">50<!--	myau : kyau Finot.-->
-<lb n="13" break="no"/>0</num> vijaiḥ ṅan tandom̃ rayā <g type="danda">.</g> śvam̃n· pirak· sa
+<lb n="12"/>pu-pom̃ ku parok· di luvūk· myau <g type="danda">.</g> <num value="500">50<lb 
+n="13" break="no"/>0</num> vijaiḥ ṅan tandom̃ rayā <g type="danda">.</g> śvam̃n· pirak· sa
 <!--	vijaiḥ: vījaiḥ Finot.
 	sa: l’akṣara est écrit sur les lignes 13 et 14. 
 	śvam̃n: Faire le rapprochement avec les inscriptions C. 5 et C.6 ? On lit śvam̃l dans ces deux inscriptions qui n'est pas en objet de culte.
@@ -130,13 +128,31 @@ n="18" break="no"/>liḥ yauṁ śaśāṇna bhūmmi nī <g type="danda">.</g> d
                      <rdg source="bib:Finot1915_01"><gap reason="lost" unit="character" quantity="3"/> klauṅ·</rdg>
 <!--	[vavaḥ] (kr)auṅ·: … klaun AVS-->
 <!-- placement de l’élément suscrit formant au-dessus de la consonne suivante (à cause du descendant de la ligne supérieure). -->                  </app>
+<app loc="8">
+<lem source="bib:Finot1915_01">he<lb n="9" break="no"/>ttu pītā mātā mvāttuleya</lem>
+<note>Finot indicated that the normal spelling of these words is <foreign>hetu pitā mātā mātuleya</foreign>.</note>
+</app>
+<app loc="10">
+	<lem>su<lb n="11" break="no"/>kha</lem>
+	<rdg source="bib:Finot1915_01">suṇa</rdg>
+<!--Noter que, comme dans l'inscription C. 43, le ṇ est suivi d'un n souscrit. Cf. l. 5, 6 et 18. Il est impossible de lire suṇa.-->
+</app>
+<!--	11 rājapītā: rājapita Finot.-->
+<app loc="12">
+<lem>myau</lem>
+<rdg source="bib:Finot1915_01">kyau</rdg>
+</app>
 <app loc="13">
 <lem>sa<lb n="14"/>vauḥ</lem>
-<note>Actually the character <foreign>sa</foreign> is split into two haves by the line break.</note></app>
+<note>Actually the character <foreign>sa</foreign> is split into two haves by the line break.</note>
+</app>
                </listApp>
          </div>
          <div type="translation" resp="part:argr">
  	<!--translation encoded as per EGD §9.2 -->
+         </div>
+ <div type="translation" source="bib:Finot1915_01" xml:lang="fra">
+ 	<p>« Bonheur ! Il y eut un [prince duj Br̥ṣuvaṅsa, savoir, S. M. Śrī Jaya Siṅhavarmmadeva Śrī Harijâtti Vīrasiṅha Campapūra, qui régna douze ans complets. [Alors] son âme partit pour le séjour de Śiva, dans la terre de Yāṅ <gap reason="ellipsis"/> S. M. Śrī Vr̥ṣu Viṣṇujātti Vīra Bhadravarmmadeva, son fils, régna. Comme ses père, mère et cousins s'étaient établis dans cette contrée qu'ils avaient reçue en concession à l'état inculte, il prit les champs que son royal père avait fait défricher à Luvūk (?), [consistant en] 500 vijaiḥ de bois avec le <foreign>tandoṅ</foreign> (?) public ; un <foreign>śvān</foreign> d'argent, d'un <foreign>vauḥ</foreign> 15 <foreign>thil</foreign> ; une aiguière d'argent, de 5 <foreign>thil</foreign> ; un flacon d'argent d'un <foreign>thil</foreign> ; une boîte d'argent<gap reason="ellipsis"/> d'un <foreign>thil</foreign> ; un éléphant, deux esclaves : tout cela [comme] offrande pour être distribuée<gap reason="ellipsis"/>  śaśāṇṇa (?) de cette terre. En śaka 1323.</p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
@@ -145,15 +161,17 @@ n="18" break="no"/>liḥ yauṁ śaśāṇna bhūmmi nī <g type="danda">.</g> d
 	<!--bibliography encoded as per section §9.4 -->
            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
 <!-- 
-Editions: Louis Finot, Notes d'épigraphie XIV: Les inscriptions du Musée de Hanoi: B 2. Champa 23: Inscription de la porte royale de Binh-dinh, BEFEO XV (1915), p. 12-14 [EEPC, pp. 178-180]; Majumdar, pp. 222-223, No. 117; Golzio, pp. 198, AVS, 2006, p. 226.
+Editions: Louis Finot, Notes d'épigraphie XIV: Les inscriptions du Musée de Hanoi: B 2. Champa 23: Inscription de la porte royale de Binh-dinh, BEFEO XV (1915), p. 12-14 [EEPC, pp. 178-180]; 
 
 Le texte ici constitué se base sur inspection de la pierre et de l’estampage par AG le 17-9-2009 + Amandine Lepoutre 2011.
  -->
         	<listBibl type="primary">
-		<bibl n="F"><ptr target="bib:Finot1915_01"/><citedRange unit="page">12-14</citedRange><citedRange unit="item">B 2. 23</citedRange></bibl>
+	<bibl n="LF"><ptr target="bib:Finot1915_01"/><citedRange unit="page">12-14</citedRange><citedRange unit="item">B 2. 23</citedRange></bibl>
 	</listBibl>
            <listBibl type="secondary">
-              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+	<bibl><ptr target="bib:Majumdar1927_02"/><citedRange unit="page">222-223</citedRange><citedRange unit="item">117</citedRange></bibl>
+	<bibl><ptr target="bib:Golzio2004_01"/><citedRange unit="page">198</citedRange></bibl>
+              <bibl><ptr target="bib:Schweyer2008_01" /><citedRange unit="page">225-226</citedRange></bibl>
            </listBibl>
         </div>
       </body>

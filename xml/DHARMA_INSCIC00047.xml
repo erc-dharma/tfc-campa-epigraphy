@@ -105,21 +105,22 @@ n="11" break="no"/>kha kā tok· humā si rājapītā
 <!--	sukha : suṇa Finot. Noter que, comme dans l'inscription C. 43, le ṇ est suivi d'un n souscrit. Cf. l. 5, 6 et 18. Il est impossible de lire suṇa.
 	rājapītā: rājapita Finot.-->
 <lb n="12"/>pu-pom̃ ku parok· di luvūk· myau <g type="danda">.</g> <num value="500">50<!--	myau : kyau Finot.-->
-<lb n="13" break="no"/>0</num> vijaiḥ ṅan tandom̃ rayā <g type="danda">.</g> śvam̃n· pirak s-
+<lb n="13" break="no"/>0</num> vijaiḥ ṅan tandom̃ rayā <g type="danda">.</g> śvam̃n· pirak· sa
 <!--	vijaiḥ: vījaiḥ Finot.
 	sa: l’akṣara est écrit sur les lignes 13 et 14. 
 	śvam̃n: Faire le rapprochement avec les inscriptions C. 5 et C.6 ? On lit śvam̃l dans ces deux inscriptions qui n'est pas en objet de culte.
 -->
-<lb n="14"/>a vauḥ 15 thil· kamandalū pirak· sā 5
+<lb n="14"/>vauḥ <num value="15">15</num> thil· kamandalū pirak· sā <num value="5">5</num>
 <!-- what was meant by line break here? -->
 <!--	 thil· : thil | Finot.-->
-<lb n="15"/>thil· | kalauk· pirak· sa thil· | klau<lb 
-n="16" break="no"/>ṅ· pirak· thila śa sa thil· | hastiḥ sa
+<lb n="15"/>thil· <g type="danda">.</g> kalauk· pirak· sa thil· <g type="danda">.</g> klau<lb 
+n="16" break="no"/>ṅ· pirak· thila śa sa thil· <g type="danda">.</g> hastiḥ sa
 <!--	pirak· thila śa sa thil· | : pirak vireśa sa thil | Finot. -->
-<lb n="17"/>drim̃ | hulun· dvā drim̃ aviḥ nī lumvaḥ śī<lb 
-n="18" break="no"/>liḥ yauṃ śaśāṇna bhūmmi nī | di śaka 
-<!--	śaśāṇna : śaśāṇṇa Finot.-->
-<lb n="19"/>nī 1323 <g type="danda"/>
+<lb n="17"/>drim̃ <g type="danda">.</g> hulun· dvā drim̃ Aviḥ nī lumvaḥ śi<lb 
+n="18" break="no"/>liḥ yauṁ śaśāṇna bhūmmi nī <g type="danda">.</g> di śaka 
+<!--	śīliḥ Finot???
+	śaśāṇna : śaśāṇṇa Finot.-->
+<lb n="19"/>nī 1323 <g type="danda">.</g>
 </p>
          </div>
          <div type="apparatus">
@@ -129,6 +130,9 @@ n="18" break="no"/>liḥ yauṃ śaśāṇna bhūmmi nī | di śaka
                      <rdg source="bib:Finot1915_01"><gap reason="lost" unit="character" quantity="3"/> klauṅ·</rdg>
 <!--	[vavaḥ] (kr)auṅ·: … klaun AVS-->
 <!-- placement de l’élément suscrit formant au-dessus de la consonne suivante (à cause du descendant de la ligne supérieure). -->                  </app>
+<app loc="13">
+<lem>sa<lb n="14"/>vauḥ</lem>
+<note>Actually the character <foreign>sa</foreign> is split into two haves by the line break.</note></app>
                </listApp>
          </div>
          <div type="translation" resp="part:argr">

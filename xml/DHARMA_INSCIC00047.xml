@@ -101,7 +101,7 @@ n="6" break="no"/>vasthāṇna di bhūm<choice><sic>a</sic><corr>i</corr></choic
 <lb n="7"/>pom̃ ku śrī vr̥ṣuviṣn<supplied reason="lost">ujātti</supplied> <unclear>vī</unclear>rabhadra<lb 
 n="8" break="no"/>varmmadeva Ātmaja nan<supplied reason="lost">·</supplied> dra<supplied reason="lost">m̃</supplied>ṅ<supplied reason="lost">·</supplied> rāja he<lb 
 n="9" break="no"/>ttu pītā mātā mvāttuleya A<lb 
-n="10" break="no"/>nniḥ praveśa di bhūmmi nī si Upak· su<lb 
+n="10" break="no"/>gniḥ-praveśa di bhūmmi nī si Upak· su<lb 
 n="11" break="no"/>kha kā tok· humā si rājapītā
 <lb n="12"/>pu-pom̃ ku parok· di luvūk· myau <g type="danda">.</g> <num value="500">50<lb 
 n="13" break="no"/>0</num> vijaiḥ ṅan tandom̃ rayā <g type="danda">.</g> śvam̃n· pirak· sa
@@ -126,6 +126,10 @@ n="18" break="no"/>liḥ yauṁ śaśāṇna bhūmmi nī <g type="danda">.</g> d
 <app loc="8">
 <lem source="bib:Finot1915_01">he<lb n="9" break="no"/>ttu pītā mātā mvāttuleya</lem>
 <note>Finot indicated that the normal spelling of these words is <foreign>hetu pitā mātā mātuleya</foreign>.</note>
+</app>
+<app loc="9">
+<lem>A<lb n="10" break="no"/>gniḥ-praveśa</lem>
+<rdg source="bib:Finot1915_01">A<lb n="10" break="no"/>nniḥ praveśa</rdg>
 </app>
 <app loc="10">
 	<lem>su<lb n="11" break="no"/>kha</lem>
@@ -160,29 +164,13 @@ n="18" break="no"/>liḥ yauṁ śaśāṇna bhūmmi nī <g type="danda">.</g> d
                </listApp>
          </div>
          <div type="translation" resp="part:argr">
-Hail! Here too was <supplied reason="subaudible">the prince</supplied> of the Br̥ṣu lineage, namely Y.P.K. Śrī Jaya Siṅhavarmadeva, Śrī Harijāti, heroic lion of the Campa City. After my lord had borne the kingship a full twelve years, he died and when to Śiva's abode.	
+<p>Hail! Here too was <supplied reason="subaudible">the prince</supplied> of the Br̥ṣu lineage, namely Y.P.K. Śrī Jaya Siṅhavarmadeva, Śrī Harijāti, heroic lion of the Campa City. After my lord had borne the kingship a full twelve years, he died and when to Śiva's abode in the land of the deity of the river mouth. Y.P.K. Śrī Vr̥ṣu-Viṣṇujāti Vīrbhadravarmadeva, the son, assumed the kingship.</p>
+<p>Because his father, mother, maternal uncle's children had entered the fire on this land.  </p>
+         	
 <!-- 3. Vīrasiṅha qu'on retrouve dans C. 43, l.6
 
-(5) pūrṇna dvādaśa varśa kā jīvaṅgatta nau śi-
-	12 années. (L’/son) âme étant partie 
-	varśa : var.sa ?
-	kaa : avoir, pouvoir
+cf. amnā in C. 13 and C. 90 (2x)
 
-(6) (pour) le séjour de śiva en terre du Yā~m à l’embouchure du fleuve,
-	yā~m = YPK śrī Jaya Siṅhavarman
-	vava.h, p. 455 (531 pdf) « bouche, voir vaba.h, paba.h » + renvoi p. 332 (408 pdf) = bouche, confluent ; forme la plus ancienne (vava.h - vabu.h - paba.h, la forme actuelle) + l’exemple : ta~ml vavu.h ravau:n « atteindre les bouches du canal »
-
-(7) YPK śrī Vṛṣuvisnujātti Vīrabhadra-
-D’après l’inscription C. 43, A, l. 2 (n. 510) : Vṛṣuvisnujātti, cité par Finot. Mais l’estampage n. 510 n’est pas très lisible.
-
-(8) varmmadeva, ce/son fils régna.
-	AG : nan pourrait fonctionner comme un article définit. Ici, on aurait donc 'le fils' = 'son fils'.
-
-(9) Parce que le père la mère et les cousins 
-
-(10) anniḥ s’étaient installés sur cette terre pour upak la prospérité
-anni.h : cf. cam moderne ? ani.h : « place, demeure, lieu, endroit » (choisit par Finot) = s’étaient établis ? voir dans Moussay.  
-La lecture est clairement anni.h. AG propose de lire anne.h
 upak : aussi utilisé dans C. 13 ; C. 30 A1 ; C. 89 ; C. 94 ; C. 95 ; C. 119 et C. 211. Aucune traduction n’est clairement proposée (EEPC : lexique fin de l’ouvrage : sans). Finot le rapproche du cam moderne upak > apa.h « louer, prendre à bail » mais ça ne fonctionne pas pour les autres occurrences : 
 C. 13 B, l. 3 : lu upat par Finot : suhetu yaa~m po ku parameśvara-varmmadeva apramadaa upat ralo y[au] dri~m ma~mn si je:n ra vaa vala marai karei bharuv... 
 C. 30 A1, l. 9 : po po~m tana rayaa di nan upak kalin [paa] putau ya nauk di nagara panraa"n nan...

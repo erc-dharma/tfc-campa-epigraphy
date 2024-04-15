@@ -82,7 +82,7 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:00000">
 <p><lb n="1"/><gap reason="lost" quantity="2" unit="character"/><choice><unclear>dha</unclear><unclear>va</unclear></choice><supplied reason="lost">r</supplied>mmaṇ<unclear>ā</unclear> śr<supplied reason="lost">ī</supplied> kanda<supplied reason="lost">r</supplied>ppa-pureśvarāya tr<supplied reason="lost">i</supplied>bhuvan<unclear>ai</unclear>ka-gu<add place="below">ra</add>ve <gap reason="illegible" quantity="1" unit="character"/>CrV<gap reason="illegible" quantity="1" unit="character"/>
 <lb n="2"/><gap reason="lost" quantity="2" unit="character"/><choice><unclear>ya</unclear><unclear>ye</unclear></choice> yad dattaṁ tad ihatyā vā d<unclear>ū</unclear>retyā vā ye 'nyathībhāvam āpāda<lb break="no" 
 n="3"/><supplied reason="lost">yiṣ</supplied><unclear>ya</unclear>nti te sapitr̥-<unclear>vā</unclear><supplied reason="lost">ndhav</supplied> <gap reason="lost" quantity="6" unit="character"/> C<unclear>s</unclear>arvvathā @

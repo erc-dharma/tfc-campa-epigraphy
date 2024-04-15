@@ -22,6 +22,10 @@
             			<forename>Arlo</forename>
             			<surname>Griffiths</surname>
             		</persName>
+            		<persName ref="http://viaf.org/viaf/289845900">
+            			<forename>Amandine</forename>
+            			<surname>Lepoutre</surname>
+            		</persName>
             	</respStmt>
             </titleStmt>
             <publicationStmt>
@@ -85,16 +89,13 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">
-<p>
-<lb n="1"/>svasti <g type="danda"/> nī trā madā br̥ṣu<lb 
+<p><lb n="1"/>svasti <g type="danda"/> nī trā madā br̥ṣu<lb 
 n="2" break="no"/>vaṅṣa sidaḥ yām̃ pom̃ ku śrī jayasi<lb 
 n="3" break="no"/>ṅhavarmmadeva śrī harijātti vīrasi<lb 
 n="4"/>ṅha campapūra pu-pom̃ ku dram̃ṅ· rāja pari<lb 
 n="5" break="no"/>pūrṇna dvādaśa varśa kā jīvaṅgatta nau śi<lb 
 n="6"/>vasthāṇna di bhūm<choice><sic>a</sic><corr>i</corr></choice> yām̃ <unclear>vavaḥ</unclear> <unclear>kr</unclear>auṅ· yām̃ 
-<!--	°pūrṇna : °pūrnna AVS
-	On retrouve la suite ṇn que l'on observe aussi dans C. 43. Cf. aussi l. 6, 11 et 18.
-
+<!--	On retrouve la suite ṇn que l'on observe aussi dans C. 43. Cf. aussi l. 6, 11 et 18.
 	°sthāṇna di bhūma : °sthāṇṇa di bhūma + corr. °sthāna di bhūmi Finot ; °sthānna AVS
 -->
 <lb n="7"/>pom̃ ku śrī vr̥ṣuviṣn<supplied reason="lost">ujātti</supplied> <unclear>vī</unclear>rabhadra<lb 
@@ -104,29 +105,23 @@ n="10" break="no"/>nniḥ praveśa di bhūmmi nī si Upak· su<lb
 n="11" break="no"/>kha kā tok· humā si rājapītā
 <lb n="12"/>pu-pom̃ ku parok· di luvūk· myau <g type="danda">.</g> <num value="500">50<lb 
 n="13" break="no"/>0</num> vijaiḥ ṅan tandom̃ rayā <g type="danda">.</g> śvam̃n· pirak· sa
-<!--	vijaiḥ: vījaiḥ Finot.
-	sa: l’akṣara est écrit sur les lignes 13 et 14. 
+<!--	sa: l’akṣara est écrit sur les lignes 13 et 14. 
 	śvam̃n: Faire le rapprochement avec les inscriptions C. 5 et C.6 ? On lit śvam̃l dans ces deux inscriptions qui n'est pas en objet de culte.
 -->
 <lb n="14"/>vauḥ <num value="15">15</num> thil· kamandalū pirak· sā <num value="5">5</num>
-<!-- what was meant by line break here? -->
-<!--	 thil· : thil | Finot.-->
 <lb n="15"/>thil· <g type="danda">.</g> kalauk· pirak· sa thil· <g type="danda">.</g> klau<lb 
 n="16" break="no"/>ṅ· pirak· thila śa sa thil· <g type="danda">.</g> hastiḥ sa
 <!--	pirak· thila śa sa thil· | : pirak vireśa sa thil | Finot. -->
 <lb n="17"/>drim̃ <g type="danda">.</g> hulun· dvā drim̃ Aviḥ nī lumvaḥ śi<lb 
 n="18" break="no"/>liḥ yauṁ śaśāṇna bhūmmi nī <g type="danda">.</g> di śaka 
-<!--	śīliḥ Finot???
-	śaśāṇna : śaśāṇṇa Finot.-->
-<lb n="19"/>nī 1323 <g type="danda">.</g>
-</p>
+<!-- śaśāṇna : śaśāṇṇa Finot.-->
+<lb n="19"/>nī 1323 <g type="danda">.</g></p>
          </div>
          <div type="apparatus">
                <listApp>
                   <app loc="6">
                      <lem><unclear>vavaḥ</unclear> <unclear>kr</unclear>auṅ·</lem>
                      <rdg source="bib:Finot1915_01"><gap reason="lost" unit="character" quantity="3"/> klauṅ·</rdg>
-<!--	[vavaḥ] (kr)auṅ·: … klaun AVS-->
 <!-- placement de l’élément suscrit formant au-dessus de la consonne suivante (à cause du descendant de la ligne supérieure). -->                  </app>
 <app loc="8">
 <lem source="bib:Finot1915_01">he<lb n="9" break="no"/>ttu pītā mātā mvāttuleya</lem>
@@ -137,19 +132,108 @@ n="18" break="no"/>liḥ yauṁ śaśāṇna bhūmmi nī <g type="danda">.</g> d
 	<rdg source="bib:Finot1915_01">suṇa</rdg>
 <!--Noter que, comme dans l'inscription C. 43, le ṇ est suivi d'un n souscrit. Cf. l. 5, 6 et 18. Il est impossible de lire suṇa.-->
 </app>
-<!--	11 rājapītā: rājapita Finot.-->
+<app loc="11">
+<lem>rājapītā</lem>
+<rdg source="bib:Finot1915_01">rājapita</rdg>
+</app>
 <app loc="12">
 <lem>myau</lem>
 <rdg source="bib:Finot1915_01">kyau</rdg>
 </app>
 <app loc="13">
+<lem>vijaiḥ</lem>
+<rdg source="bib:Finot1915_01">vījaiḥ</rdg>
+</app>
+<app loc="13">
 <lem>sa<lb n="14"/>vauḥ</lem>
 <note>Actually the character <foreign>sa</foreign> is split into two haves by the line break.</note>
+</app>
+<app loc="14">
+<lem>thil· kamandalū</lem>
+<rdg source="bib:Finot1915_01">thil· | kamandalū</rdg>
+<note>The <foreign>virāma</foreign> here takes the form of a vertical bar but there is not an additional punctuation bar.</note>
+</app>
+<app loc="17">
+<lem>śi<lb n="18" break="no"/>liḥ</lem>
+<rdg source="bib:Finot1915_01">śī<lb n="18" break="no"/>liḥ</rdg>
 </app>
                </listApp>
          </div>
          <div type="translation" resp="part:argr">
- 	<!--translation encoded as per EGD §9.2 -->
+ 	<!--Salut ! En outre, il (en) existait (de) la (2) lignée des Bṛṣu, à savoir Y.P.K. Śrī Jaya Si(3)ṅhavarman, Śrī Harijātti (4) (Vīrasiṅha Campapūra/homme fort du Campa) . P.P.K. régna pleinement
+	Vīrasiṅha qu'on retrouve dans C. 43, l.6
+
+(5) pūrṇna dvādaśa varśa kā jīvaṅgatta nau śi-
+	12 années. (L’/son) âme étant partie 
+	varśa : var.sa ?
+	kaa : avoir, pouvoir
+
+(6) (pour) le séjour de śiva en terre du Yā~m à l’embouchure du fleuve,
+	yā~m = YPK śrī Jaya Siṅhavarman
+	vava.h, p. 455 (531 pdf) « bouche, voir vaba.h, paba.h » + renvoi p. 332 (408 pdf) = bouche, confluent ; forme la plus ancienne (vava.h - vabu.h - paba.h, la forme actuelle) + l’exemple : ta~ml vavu.h ravau:n « atteindre les bouches du canal »
+
+(7) YPK śrī Vṛṣuvisnujātti Vīrabhadra-
+D’après l’inscription C. 43, A, l. 2 (n. 510) : Vṛṣuvisnujātti, cité par Finot. Mais l’estampage n. 510 n’est pas très lisible.
+
+(8) varmmadeva, ce/son fils régna.
+	AG : nan pourrait fonctionner comme un article définit. Ici, on aurait donc 'le fils' = 'son fils'.
+
+(9) Parce que le père la mère et les cousins 
+
+(10) anniḥ s’étaient installés sur cette terre pour upak la prospérité
+anni.h : cf. cam moderne ? ani.h : « place, demeure, lieu, endroit » (choisit par Finot) = s’étaient établis ? voir dans Moussay.  
+La lecture est clairement anni.h. AG propose de lire anne.h
+upak : aussi utilisé dans C. 13 ; C. 30 A1 ; C. 89 ; C. 94 ; C. 95 ; C. 119 et C. 211. Aucune traduction n’est clairement proposée (EEPC : lexique fin de l’ouvrage : sans). Finot le rapproche du cam moderne upak > apa.h « louer, prendre à bail » mais ça ne fonctionne pas pour les autres occurrences : 
+C. 13 B, l. 3 : lu upat par Finot : suhetu yaa~m po ku parameśvara-varmmadeva apramadaa upat ralo y[au] dri~m ma~mn si je:n ra vaa vala marai karei bharuv... 
+C. 30 A1, l. 9 : po po~m tana rayaa di nan upak kalin [paa] putau ya nauk di nagara panraa"n nan...
+C. 89 A, l. 4 : kaa avi.h pala karmma upak nyaaya :nan raksaa raaja traa ma~mn yaa~m ...
+C. 94 A, l. 11 : kaa śunya nau upak tmuv panuujaa samuulumiik nei...
+B, l. 16 : vantara si upak ra a:ngap dhiluv
+C. 95, A, l. 18 : ma~m upak voy udyoga mvo.h sakala ra pratyak.sa...
+C. 119, B, l. 2 : mak tmuv avista upak ka kla.h sa dri~m e.h ( ?) nan di... 
+C. 211 B, l.6-7 : yogadhyaanasamaadhi upak_ vela u(raa/daa)(p)_
+C, l. 2 : sadaakaala upak_ vela
+si : signe du futur ; pour, que lequel
+Cf. Chronique note de bas de page 79 : Il nous paraît probable que pak est ici une aphérèse de la négation upak (cf. ÉÉPC, index des mots chams, p. XXV), ce que supposait déjà tacitement Aymonier (1891, p. 58 n. 1).
+
+(11) avoir seulement les rizières si de [son] père.
+kaa : pouvoir, être, avoir Ou particule qui paraît svt au début des phrases. Qque chose = "alors". L'origine doit être kā comme prépo, "vers, à".
+AG : particule qui est svt en debut de phrase. Qque chose comme 'alors'. Origine = kaa = preposition ?
+p 62 de la grammaire : ka ou kaa = d abord, au prealable, un peu, provisoirement
+p 63 de la grammaire : ka ou kaa = sert a relier 2 phrases.
+tok : en cam moderne : particule limitative : seulement, que, ne que, mais, pour, pour que, afin que ; attendant que, dans le but de recevoir (dignité, invitation), prendre, recevoir en charge, écouter...
+AG : si = que, qui. Trouve que, souvent, on peut traduire les phrases avec si … verbe = passif. La personne qui suit = agent. Donc "les rizières défrichées par le père du roi a L.M."
+
+(12) PPK fit défricher [celles] à Luvuuk Myau : 50
+kyau : lu par Finot (qui traduit par « bois » mais le mot n’est pas répertorié dans le dico et le mot moderne qui signifie bois (kayau) est relevé dans le dico sous la forme ancienne kayu~m (p. 63 [121 pdf])) D’après la pierre, je vois plus un m qu’1 k. 
+
+(13) 0 vijai.h avec tando~m rayā. śva~mn d’argent
+tando~m : p. 175 [233 pdf] suivi de languv = esclaves (Finot, BEFEO III, p. 647) employé seul, probablement des servi glebae (note 7, p. 647) = [EEPC, p. 32]
+dans la traduction de Finot 1915 p. 13 : tando:n (?) public
+ śva~mn: cf. les autres inscriptions.
+
+(14) 	vauḥ 15 thil ; une (cruche/aiguière) d’argent 5
+vau.h : n’est pas répertorié dans ce cas. On pourrait faire un rapprochement avec va.h/vana aak qui est souvent employé lorsqu’on précise le poids des objets offerts. Or c’est le seul cas où vau.h précède un poids (sa driy sa vau.h di dad~an tu vu.h pour C. 119 et C. 120 ;  ja (mu)la"n_ a(v)is_(3) saa vau.h kananaay_ pour C. 199). Vau.h n’existe plus en cam moderne. On trouve bau.h, un classificateur qu’on utilise pour les objets de forme ronde. Finot semble le considérer comme le nom d’un nouvel objet, distinct du śva~mn.
+kamandaluu : Finot traduit « aiguière » > skt. kama.n.dalu ? kamandha ?
+
+(15)	thil. Kalauk en argent thil. 
+Kalauk : non relevé ds le dico et seule mention dans le corpus. Sans doute un autre instrument du culte. Finot traduit par « flacon ».
+Le lapicide a omis le poids du kalauk. Finot lit le sa de pirak sa comme un saa « un flacon d’argent d’1 thil ». 
+
+(16) 	Une klau:n en argent thilaśa 1 thil. Un éléphant,
+le klau:n est une petite boîte « tournée, ciselée ou guillochée. (...) On renferme dans cette urne 3 fragments des os frontaux (dits « os nobles ») et parfois des os des pieds et des mains après la crémation (en tt 9 fragments) ; elle est ensuite enchâssée dans une boîte en argent (kl. pariak), mise elle-même dans une autre faite d’un alliage de bronze et d’or (kl. gatsuan), et enfin dans une quatrième cassette de cuivre (kl. haban). La série des klau:n est renfermée dans un vase de terre, couvert avec une brique, et inhumée dans l’enclos funéraire de la famille et surmonté d’une pierre tombale (kut). » p. 88 [146 pdf]. L’utilisation particulière de cette boîte demande peut-être à ce que l’on conserve son nom cam ? 
+thila śa : faute pour klauṅ pirak sa sa thil |
+
+(17) 2 (esclaves/serviteurs) tout ceci des offrandes échangées
+lumva.h: pas de définition dans le dico. Finot [EEPC, p. 179n n°2] lumva.h = luma.h « offrande »
+śiili.h: cité dans le dictionnaire, sans traduction mais avec un renvoi à Finot [EEPC p. 179, n°2] śii : signe du futur ; li.h : partager. Mot que l’on retrouve dans C. 5 (l. 5 : halun śiili.h ri ci et l.8 : halun śiili.h ri mauk) où il n’est pas traduit, et dans C. 213 (l. 22 : vu.h di yaa~m nii "sili.h mauk_ aavi.h kragya"n_ kaa X). 
+
+(18) yau.m śaśāṇna cette terre. En cette année
+yau.m : environ, à peu près (p. 400 [476 pdf]). En cam moderne, yau.m signifie également «  presque, quelque, peut-être ; comme, tel que, ainsi que ; penser, s’imaginer, présumer, conjecturer ; apprécier, évaluer, estimer, croire, juger bon ; honorer, respecter, vénérer ; valeur (en argent), prix ; coûteux, cher, précieux ; estime, satisfaction, contentement ; rare, singulier, extraordinaire, étrange, bizarre, original ; rareté, chose ou objet rare ». 
+śaśāṇṇa: Finot corrige: śriiśāṇṇa « au temple de śiva » . ok, mais plutôt śāsana = "ordre, fondation royale".
+
+
+•	1323.  -->
          </div>
  <div type="translation" source="bib:Finot1915_01" xml:lang="fra">
  	<p>« Bonheur ! Il y eut un [prince duj Br̥ṣuvaṅsa, savoir, S. M. Śrī Jaya Siṅhavarmmadeva Śrī Harijâtti Vīrasiṅha Campapūra, qui régna douze ans complets. [Alors] son âme partit pour le séjour de Śiva, dans la terre de Yāṅ <gap reason="ellipsis"/> S. M. Śrī Vr̥ṣu Viṣṇujātti Vīra Bhadravarmmadeva, son fils, régna. Comme ses père, mère et cousins s'étaient établis dans cette contrée qu'ils avaient reçue en concession à l'état inculte, il prit les champs que son royal père avait fait défricher à Luvūk (?), [consistant en] 500 vijaiḥ de bois avec le <foreign>tandoṅ</foreign> (?) public ; un <foreign>śvān</foreign> d'argent, d'un <foreign>vauḥ</foreign> 15 <foreign>thil</foreign> ; une aiguière d'argent, de 5 <foreign>thil</foreign> ; un flacon d'argent d'un <foreign>thil</foreign> ; une boîte d'argent<gap reason="ellipsis"/> d'un <foreign>thil</foreign> ; un éléphant, deux esclaves : tout cela [comme] offrande pour être distribuée<gap reason="ellipsis"/>  śaśāṇṇa (?) de cette terre. En śaka 1323.</p>

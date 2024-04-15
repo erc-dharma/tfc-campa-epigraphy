@@ -92,9 +92,9 @@
 <p><lb n="1"/>svasti <g type="danda"/> nī trā madā br̥ṣu<lb 
 n="2" break="no"/>vaṅṣa sidaḥ yām̃ pom̃ ku śrī jayasi<lb 
 n="3" break="no"/>ṅhavarmmadeva śrī harijātti vīrasi<lb 
-n="4"/>ṅha campapūra pu-pom̃ ku dram̃ṅ· rāja pari<lb 
+n="4" break="no"/>ṅha campapūra pu-pom̃ ku dram̃ṅ· rāja pari<lb 
 n="5" break="no"/>pūrṇna dvādaśa varśa kā jīvaṅgatta nau śi<lb 
-n="6"/>vasthāṇna di bhūm<choice><sic>a</sic><corr>i</corr></choice> yām̃ <unclear>vavaḥ</unclear> <unclear>kr</unclear>auṅ· yām̃ 
+n="6" break="no"/>vasthāṇna di bhūm<choice><sic>a</sic><corr>i</corr></choice> yām̃ <unclear>vavaḥ</unclear> <unclear>kr</unclear>auṅ· yām̃ 
 <!--	On retrouve la suite ṇn que l'on observe aussi dans C. 43. Cf. aussi l. 6, 11 et 18.
 	°sthāṇna di bhūma : °sthāṇṇa di bhūma + corr. °sthāna di bhūmi Finot ; °sthānna AVS
 -->
@@ -146,7 +146,7 @@ n="18" break="no"/>liḥ yauṁ śaśāṇna bhūmmi nī <g type="danda">.</g> d
 </app>
 <app loc="13">
 <lem>sa<lb n="14"/>vauḥ</lem>
-<note>Actually the character <foreign>sa</foreign> is split into two haves by the line break.</note>
+<note>Actually the character <foreign>sa</foreign> is split into two halves by the line break.</note>
 </app>
 <app loc="14">
 <lem>thil· kamandalū</lem>
@@ -160,8 +160,8 @@ n="18" break="no"/>liḥ yauṁ śaśāṇna bhūmmi nī <g type="danda">.</g> d
                </listApp>
          </div>
          <div type="translation" resp="part:argr">
- 	<!--Salut ! En outre, il (en) existait (de) la (2) lignée des Bṛṣu, à savoir Y.P.K. Śrī Jaya Si(3)ṅhavarman, Śrī Harijātti (4) (Vīrasiṅha Campapūra/homme fort du Campa) . P.P.K. régna pleinement
-	Vīrasiṅha qu'on retrouve dans C. 43, l.6
+Hail! Here too was <supplied reason="subaudible">the prince</supplied> of the Br̥ṣu lineage, namely Y.P.K. Śrī Jaya Siṅhavarmadeva, Śrī Harijāti, heroic lion of the Campa City. After my lord had borne the kingship a full twelve years, he died and when to Śiva's abode.	
+<!-- 3. Vīrasiṅha qu'on retrouve dans C. 43, l.6
 
 (5) pūrṇna dvādaśa varśa kā jīvaṅgatta nau śi-
 	12 années. (L’/son) âme étant partie 
@@ -236,7 +236,7 @@ yau.m : environ, à peu près (p. 400 [476 pdf]). En cam moderne, yau.m signifie
 •	1323.  -->
          </div>
  <div type="translation" source="bib:Finot1915_01" xml:lang="fra">
- 	<p>« Bonheur ! Il y eut un [prince duj Br̥ṣuvaṅsa, savoir, S. M. Śrī Jaya Siṅhavarmmadeva Śrī Harijâtti Vīrasiṅha Campapūra, qui régna douze ans complets. [Alors] son âme partit pour le séjour de Śiva, dans la terre de Yāṅ <gap reason="ellipsis"/> S. M. Śrī Vr̥ṣu Viṣṇujātti Vīra Bhadravarmmadeva, son fils, régna. Comme ses père, mère et cousins s'étaient établis dans cette contrée qu'ils avaient reçue en concession à l'état inculte, il prit les champs que son royal père avait fait défricher à Luvūk (?), [consistant en] 500 vijaiḥ de bois avec le <foreign>tandoṅ</foreign> (?) public ; un <foreign>śvān</foreign> d'argent, d'un <foreign>vauḥ</foreign> 15 <foreign>thil</foreign> ; une aiguière d'argent, de 5 <foreign>thil</foreign> ; un flacon d'argent d'un <foreign>thil</foreign> ; une boîte d'argent<gap reason="ellipsis"/> d'un <foreign>thil</foreign> ; un éléphant, deux esclaves : tout cela [comme] offrande pour être distribuée<gap reason="ellipsis"/>  śaśāṇṇa (?) de cette terre. En śaka 1323.</p>
+ 	<p>« Bonheur ! Il y eut un [prince du] Br̥ṣuvaṅsa, savoir, S. M. Śrī Jaya Siṅhavarmmadeva Śrī Harijâtti Vīrasiṅha Campapūra, qui régna douze ans complets. [Alors] son âme partit pour le séjour de Śiva, dans la terre de Yāṅ <gap reason="ellipsis"/> S. M. Śrī Vr̥ṣu Viṣṇujātti Vīra Bhadravarmmadeva, son fils, régna. Comme ses père, mère et cousins s'étaient établis dans cette contrée qu'ils avaient reçue en concession à l'état inculte, il prit les champs que son royal père avait fait défricher à Luvūk (?), [consistant en] 500 vijaiḥ de bois avec le <foreign>tandoṅ</foreign> (?) public ; un <foreign>śvān</foreign> d'argent, d'un <foreign>vauḥ</foreign> 15 <foreign>thil</foreign> ; une aiguière d'argent, de 5 <foreign>thil</foreign> ; un flacon d'argent d'un <foreign>thil</foreign> ; une boîte d'argent<gap reason="ellipsis"/> d'un <foreign>thil</foreign> ; un éléphant, deux esclaves : tout cela [comme] offrande pour être distribuée<gap reason="ellipsis"/>  śaśāṇṇa (?) de cette terre. En śaka 1323.</p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->

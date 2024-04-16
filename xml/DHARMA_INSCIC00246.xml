@@ -91,10 +91,9 @@
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
                <listApp><!-- one <app> for each apparatus entry -->
                   <app loc="1">
-                     <lem><unclear>va</unclear>rṣārāmāśrite</lem>
-                     <note>This reading is unmetrical and very uncertain also for other reasons. The second akṣara looks more like rtha or rthā; the first would seem to bear a repha or vocalization (ā or ī).</note>
-<!-- b. °[va]rṣārāmāśrite°: this reading is unmetrical and very uncertain also for other reasons. The second akṣara looks more like rtha or rthā; the first would seem to bear a repha or vocalization (ā or ī).
-	śakatīrthārāmāśrite? -->
+                     <lem>-<unclear>va</unclear>r<unclear>ṣ</unclear>ārāmāśrite</lem>
+                     <note>This reading is unmetrical and very uncertain also for other reasons. The second <foreign>akṣara</foreign> looks more like <foreign>rtha</foreign> or <foreign>rthā</foreign>; the first would seem to bear a <foreign>repha</foreign> or vowel marker (<foreign>ā</foreign> or <foreign>ī</foreign>).</note>
+<!-- śakatīrthārāmāśrite? -->
                   </app>
                </listApp>
          </div>

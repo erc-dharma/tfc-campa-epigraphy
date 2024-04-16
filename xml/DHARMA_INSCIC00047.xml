@@ -182,9 +182,8 @@ tok : en cam moderne : particule limitative : seulement, que, ne que, mais, p
  <div type="translation" source="bib:Finot1915_01" xml:lang="fra">
  	<p>Bonheur ! Il y eut un [prince du] Br̥ṣuvaṅsa, savoir, S. M. Śrī Jaya Siṅhavarmmadeva Śrī Harijâtti Vīrasiṅha Campapūra, qui régna douze ans complets. [Alors] son âme partit pour le séjour de Śiva, dans la terre de Yāṅ <gap reason="ellipsis"/> S. M. Śrī Vr̥ṣu Viṣṇujātti Vīra Bhadravarmmadeva, son fils, régna. Comme ses père, mère et cousins s'étaient établis dans cette contrée qu'ils avaient reçue en concession à l'état inculte, il prit les champs que son royal père avait fait défricher à Luvūk (?), [consistant en] 500 vijaiḥ de bois avec le <foreign>tandoṅ</foreign> (?) public ; un <foreign>śvān</foreign> d'argent, d'un <foreign>vauḥ</foreign> 15 <foreign>thil</foreign> ; une aiguière d'argent, de 5 <foreign>thil</foreign> ; un flacon d'argent d'un <foreign>thil</foreign> ; une boîte d'argent<gap reason="ellipsis"/> d'un <foreign>thil</foreign> ; un éléphant, deux esclaves : tout cela [comme] offrande pour être distribuée<gap reason="ellipsis"/>  śaśāṇṇa (?) de cette terre. En śaka 1323.</p>
          </div>
-         <div type="commentary">
+         <div type="commentary"/>
             <!--commentary encoded as per section §9.3 -->
-         </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
            <p>First edited with translation into French by Louis Finot (<bibl rend="omitname"><ptr target="bib:Finot1915_01"/></bibl>); re-edited by Arlo Griffiths based on direct inspection of the stone, as well as estampages and orthophotos from a photogrammetric model.</p>

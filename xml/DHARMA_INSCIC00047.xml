@@ -79,6 +79,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+        	<change who="part:argr" when="2024-04-16">finished encoding the inscription</change>
         	<change who="part:argr" when="2024-04-14">started encoding the inscription</change>
         </revisionDesc>
     </teiHeader>
@@ -95,12 +96,12 @@ n="6" break="no"/>vasthāṇna di bhūm<choice><sic>a</sic><corr>i</corr></choic
 	°sthāṇna di bhūma : °sthāṇṇa di bhūma + corr. °sthāna di bhūmi Finot ; °sthānna AVS
 -->
 <lb n="7"/>pom̃ ku śrī vr̥ṣuviṣn<supplied reason="lost">ujātti</supplied> <unclear>vī</unclear>rabhadra<lb 
-n="8" break="no"/>varmmadeva Ātmaja nan<supplied reason="lost">·</supplied> dra<supplied reason="lost">m̃</supplied>ṅ<supplied reason="lost">·</supplied> rāja he<lb 
+n="8" break="no"/>varmmadeva Ātmaja nan<supplied reason="lost">·</supplied> dra<supplied reason="lost">m̃</supplied>ṅ<supplied reason="lost">·</supplied> rāja</p> <p>he<lb 
 n="9" break="no"/>ttu pītā mātā mvāttuleya A<lb 
 n="10" break="no"/>gniḥ-praveśa di bhūmmi nī si Upak· su<lb 
 n="11" break="no"/>kha kā tok· humā si rājapītā
 <lb n="12"/>pu-pom̃ ku parok· di luvūk· myau <g type="danda">.</g> <num value="500">50<lb 
-n="13" break="no"/>0</num> vijaiḥ ṅan tandom̃ rayā <g type="danda">.</g> śvam̃n· pirak· sa
+n="13" break="no"/>0</num> vijaiḥ ṅan tandom̃ rayā <g type="danda">.</g></p> <p>śvam̃n· pirak· sa
 <!--	sa: l’akṣara est écrit sur les lignes 13 et 14. 
 	śvam̃n: Faire le rapprochement avec les inscriptions C. 5 et C.6 ? On lit śvam̃l dans ces deux inscriptions qui n'est pas en objet de culte.
 -->
@@ -118,10 +119,10 @@ n="18" break="no"/>liḥ yauṁ śaśāṇna bhūmmi nī <g type="danda">.</g> d
                      <lem><unclear>vavaḥ</unclear> <unclear>kr</unclear>auṅ·</lem>
                      <rdg source="bib:Finot1915_01"><gap reason="lost" unit="character" quantity="3"/> klauṅ·</rdg>
 <!-- placement de l’élément suscrit formant au-dessus de la consonne suivante (à cause du descendant de la ligne supérieure). -->                  </app>
-<app loc="8">
+<!--<app loc="8">
 <lem source="bib:Finot1915_01">he<lb n="9" break="no"/>ttu pītā mātā mvāttuleya</lem>
 <note>Finot indicated that the normal spelling of these words is <foreign>hetu pitā mātā mātuleya</foreign>.</note>
-</app>
+</app>-->
 <app loc="9">
 <lem>A<lb n="10" break="no"/>gniḥ-praveśa</lem>
 <rdg source="bib:Finot1915_01">A<lb n="10" break="no"/>nniḥ praveśa</rdg>
@@ -165,7 +166,7 @@ n="18" break="no"/>liḥ yauṁ śaśāṇna bhūmmi nī <g type="danda">.</g> d
          <div type="translation" resp="part:argr">
 <p n="1-8">Hail! Here too was <supplied reason="subaudible">the prince</supplied> of the Br̥ṣu lineage, namely Y.P.K. Śrī Jaya Siṅhavarmadeva, Śrī Harijāti, heroic lion of the Campa City. After my lord had borne the kingship a full twelve years, he died and when to Śiva's abode in the land of the deity of the river mouth. Y.P.K. Śrī Vr̥ṣu-Viṣṇujāti Vīrabhadravarmadeva, the son, assumed the kingship.</p>
 
-<p n="8-13">Because his father, mother, maternal uncle's children had entered the fire on <supplied reason="subaudible">it, he wanted to get back</supplied> this land that was devoid of benefit <supplied reason="explanation"><foreign>sukha</foreign></supplied> after pawning <supplied reason="explanation"><foreign>tauk</foreign></supplied> the fields that the king's father, my lord, cleared at Luvūk Myau <supplied reason="subaudible">measuring</supplied> 500 <foreign>vijaih</foreign> with the great <foreign>tandoṅ</foreign>.</p>
+<p n="8-13">Because his father, mother, maternal uncle's children had entered the fire on <supplied reason="subaudible">it, he wanted to get back</supplied> this land that was devoid of benefit <supplied reason="explanation"><foreign>sukha</foreign></supplied> after pawning <supplied reason="explanation">? <foreign>tok</foreign></supplied> the fields that the king's father, my lord, cleared at Luvūk Myau <supplied reason="subaudible">measuring</supplied> 500 <foreign>vijaih</foreign> with the great <foreign>tandoṅ</foreign>.</p>
 
 <p n="13-19">One silver ornament of 15 tael; one silver ewer of 5 tael; <supplied reason="subaudible">one</supplied> silver bottle of one tael; <supplied reason="subaudible">one</supplied> silver box of one tael; one elephant; two slaves: all these gifts were the exchange value of this <foreign>śāsana</foreign> land, in this <supplied reason="subaudible">year of the</supplied> Śaka <supplied reason="subaudible">king</supplied> 1323.</p>
 <!-- 3. Vīrasiṅha qu'on retrouve dans C. 43, l.6

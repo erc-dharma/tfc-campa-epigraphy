@@ -80,11 +80,11 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
-<ab><lb n="1"/>svasti</ab>
+         <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:00000">
+<ab><lb n="1"/><unclear>s</unclear>vasti</ab>
 <lg n="1" met="anuṣṭubh">
-<l n="a">kṣoṇī-bahni-rasāṅkite</l> <l n="b">śa<unclear>ka</unclear>-<unclear>va</unclear>rṣārāmāśrite <g type="ddanda">.</g></l>
-<l n="c">trige <lb n="2"/>phālguṇyasya site</l> <l n="d">sa śu<add place="below">kra</add>divase <supplied reason="subaudible">'</supplied>tha</l>
+<l n="a">kṣoṇī-bahni-rasāṅkite</l> <l n="b" real="--++++-+">śa<unclear>ka</unclear>-<unclear>va</unclear>r<unclear>ṣ</unclear>ārāmāśrite <g type="dandaHooked">.</g></l>
+<l n="c">trige <lb n="2"/>phālguṇyasya site</l> <l n="d">sa śu<add place="below">kra</add>divase <supplied reason="subaudible">'</supplied><unclear reason="eccentric_ductus">tha</unclear></l>
 </lg>
          </div>
          <div type="apparatus">

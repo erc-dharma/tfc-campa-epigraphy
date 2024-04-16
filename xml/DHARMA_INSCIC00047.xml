@@ -22,10 +22,6 @@
             			<forename>Arlo</forename>
             			<surname>Griffiths</surname>
             		</persName>
-            		<persName ref="http://viaf.org/viaf/289845900">
-            			<forename>Amandine</forename>
-            			<surname>Lepoutre</surname>
-            		</persName>
             	</respStmt>
             </titleStmt>
             <publicationStmt>
@@ -110,12 +106,11 @@ n="13" break="no"/>0</num> vijaiḥ ṅan tandom̃ rayā <g type="danda">.</g> �
 -->
 <lb n="14"/>vauḥ <num value="15">15</num> thil· kamandalū pirak· sā <num value="5">5</num>
 <lb n="15"/>thil· <g type="danda">.</g> kalauk· pirak· sa thil· <g type="danda">.</g> klau<lb 
-n="16" break="no"/>ṅ· pirak· thila śa sa thil· <g type="danda">.</g> hastiḥ sa
-<!--	pirak· thila śa sa thil· | : pirak vireśa sa thil | Finot. -->
+n="16" break="no"/>ṅ· pirak· <surplus>thilaśa</surplus> sa thil· <g type="danda">.</g> hastiḥ sa
 <lb n="17"/>drim̃ <g type="danda">.</g> hulun· dvā drim̃ Aviḥ nī lumvaḥ śi<lb 
 n="18" break="no"/>liḥ yauṁ śaśāṇna bhūmmi nī <g type="danda">.</g> di śaka 
 <!-- śaśāṇna : śaśāṇṇa Finot.-->
-<lb n="19"/>nī 1323 <g type="danda">.</g></p>
+<lb n="19"/>nī <num value="1323">1323</num> <g type="danda">.</g></p>
          </div>
          <div type="apparatus">
                <listApp>
@@ -157,6 +152,10 @@ n="18" break="no"/>liḥ yauṁ śaśāṇna bhūmmi nī <g type="danda">.</g> d
 <rdg source="bib:Finot1915_01">thil· | kamandalū</rdg>
 <note>The <foreign>virāma</foreign> here takes the form of a vertical bar but there is not an additional punctuation bar.</note>
 </app>
+<app loc="16">
+<lem><surplus>thilaśa</surplus></lem>
+<rdg source="bib:Finot1915_01">thireśa</rdg>
+</app>
 <app loc="17">
 <lem>śi<lb n="18" break="no"/>liḥ</lem>
 <rdg source="bib:Finot1915_01">śī<lb n="18" break="no"/>liḥ</rdg>
@@ -164,78 +163,33 @@ n="18" break="no"/>liḥ yauṁ śaśāṇna bhūmmi nī <g type="danda">.</g> d
                </listApp>
          </div>
          <div type="translation" resp="part:argr">
-<p>Hail! Here too was <supplied reason="subaudible">the prince</supplied> of the Br̥ṣu lineage, namely Y.P.K. Śrī Jaya Siṅhavarmadeva, Śrī Harijāti, heroic lion of the Campa City. After my lord had borne the kingship a full twelve years, he died and when to Śiva's abode in the land of the deity of the river mouth. Y.P.K. Śrī Vr̥ṣu-Viṣṇujāti Vīrbhadravarmadeva, the son, assumed the kingship.</p>
-<p>Because his father, mother, maternal uncle's children had entered the fire on this land that was devoid of happiness after <foreign>tok</foreign> the fields that the king's father, my lord, cleared at Luvūk Myau <supplied reason="subaudible">measuring</supplied> 500 <foreign>vijaih</foreign> with the great <foreign>tandoṅ</foreign>.</p>
-         	
+<p n="1-8">Hail! Here too was <supplied reason="subaudible">the prince</supplied> of the Br̥ṣu lineage, namely Y.P.K. Śrī Jaya Siṅhavarmadeva, Śrī Harijāti, heroic lion of the Campa City. After my lord had borne the kingship a full twelve years, he died and when to Śiva's abode in the land of the deity of the river mouth. Y.P.K. Śrī Vr̥ṣu-Viṣṇujāti Vīrabhadravarmadeva, the son, assumed the kingship.</p>
+
+<p n="8-13">Because his father, mother, maternal uncle's children had entered the fire on <supplied reason="subaudible">it, he wanted to get back</supplied> this land that was devoid of benefit <supplied reason="explanation"><foreign>sukha</foreign></supplied> after pawning <supplied reason="explanation"><foreign>tauk</foreign></supplied> the fields that the king's father, my lord, cleared at Luvūk Myau <supplied reason="subaudible">measuring</supplied> 500 <foreign>vijaih</foreign> with the great <foreign>tandoṅ</foreign>.</p>
+
+<p n="13-19">One silver ornament of 15 tael; one silver ewer of 5 tael; <supplied reason="subaudible">one</supplied> silver bottle of one tael; <supplied reason="subaudible">one</supplied> silver box of one tael; one elephant; two slaves: all these gifts were the exchange value of this <foreign>śāsana</foreign> land, in this <supplied reason="subaudible">year of the</supplied> Śaka <supplied reason="subaudible">king</supplied> 1323.</p>
 <!-- 3. Vīrasiṅha qu'on retrouve dans C. 43, l.6
 
 cf. amnā in C. 13 and C. 90 (2x)
 
-upak : aussi utilisé dans C. 13 ; C. 30 A1 ; C. 89 ; C. 94 ; C. 95 ; C. 119 et C. 211. Aucune traduction n’est clairement proposée (EEPC : lexique fin de l’ouvrage : sans). Finot le rapproche du cam moderne upak > apa.h « louer, prendre à bail » mais ça ne fonctionne pas pour les autres occurrences : 
-C. 13 B, l. 3 : lu upat par Finot : suhetu yaa~m po ku parameśvara-varmmadeva apramadaa upat ralo y[au] dri~m ma~mn si je:n ra vaa vala marai karei bharuv... 
-C. 30 A1, l. 9 : po po~m tana rayaa di nan upak kalin [paa] putau ya nauk di nagara panraa"n nan...
-C. 89 A, l. 4 : kaa avi.h pala karmma upak nyaaya :nan raksaa raaja traa ma~mn yaa~m ...
-C. 94 A, l. 11 : kaa śunya nau upak tmuv panuujaa samuulumiik nei...
-B, l. 16 : vantara si upak ra a:ngap dhiluv
-C. 95, A, l. 18 : ma~m upak voy udyoga mvo.h sakala ra pratyak.sa...
-C. 119, B, l. 2 : mak tmuv avista upak ka kla.h sa dri~m e.h ( ?) nan di... 
-C. 211 B, l.6-7 : yogadhyaanasamaadhi upak_ vela u(raa/daa)(p)_
-C, l. 2 : sadaakaala upak_ vela
-si : signe du futur ; pour, que lequel
-Cf. Chronique note de bas de page 79 : Il nous paraît probable que pak est ici une aphérèse de la négation upak (cf. ÉÉPC, index des mots chams, p. XXV), ce que supposait déjà tacitement Aymonier (1891, p. 58 n. 1).
-
 (11) avoir seulement les rizières si de [son] père.
-kaa : pouvoir, être, avoir Ou particule qui paraît svt au début des phrases. Qque chose = "alors". L'origine doit être kā comme prépo, "vers, à".
-AG : particule qui est svt en debut de phrase. Qque chose comme 'alors'. Origine = kaa = preposition ?
-p 62 de la grammaire : ka ou kaa = d abord, au prealable, un peu, provisoirement
-p 63 de la grammaire : ka ou kaa = sert a relier 2 phrases.
 tok : en cam moderne : particule limitative : seulement, que, ne que, mais, pour, pour que, afin que ; attendant que, dans le but de recevoir (dignité, invitation), prendre, recevoir en charge, écouter...
-AG : si = que, qui. Trouve que, souvent, on peut traduire les phrases avec si … verbe = passif. La personne qui suit = agent. Donc "les rizières défrichées par le père du roi a L.M."
 
-(12) PPK fit défricher [celles] à Luvuuk Myau : 50
-kyau : lu par Finot (qui traduit par « bois » mais le mot n’est pas répertorié dans le dico et le mot moderne qui signifie bois (kayau) est relevé dans le dico sous la forme ancienne kayu~m (p. 63 [121 pdf])) D’après la pierre, je vois plus un m qu’1 k. 
-
-(13) 0 vijai.h avec tando~m rayā. śva~mn d’argent
-tando~m : p. 175 [233 pdf] suivi de languv = esclaves (Finot, BEFEO III, p. 647) employé seul, probablement des servi glebae (note 7, p. 647) = [EEPC, p. 32]
-dans la traduction de Finot 1915 p. 13 : tando:n (?) public
- śva~mn: cf. les autres inscriptions.
-
-(14) 	vauḥ 15 thil ; une (cruche/aiguière) d’argent 5
-vau.h : n’est pas répertorié dans ce cas. On pourrait faire un rapprochement avec va.h/vana aak qui est souvent employé lorsqu’on précise le poids des objets offerts. Or c’est le seul cas où vau.h précède un poids (sa driy sa vau.h di dad~an tu vu.h pour C. 119 et C. 120 ;  ja (mu)la"n_ a(v)is_(3) saa vau.h kananaay_ pour C. 199). Vau.h n’existe plus en cam moderne. On trouve bau.h, un classificateur qu’on utilise pour les objets de forme ronde. Finot semble le considérer comme le nom d’un nouvel objet, distinct du śva~mn.
-kamandaluu : Finot traduit « aiguière » > skt. kama.n.dalu ? kamandha ?
-
-(15)	thil. Kalauk en argent thil. 
-Kalauk : non relevé ds le dico et seule mention dans le corpus. Sans doute un autre instrument du culte. Finot traduit par « flacon ».
-Le lapicide a omis le poids du kalauk. Finot lit le sa de pirak sa comme un saa « un flacon d’argent d’1 thil ». 
-
-(16) 	Une klau:n en argent thilaśa 1 thil. Un éléphant,
-le klau:n est une petite boîte « tournée, ciselée ou guillochée. (...) On renferme dans cette urne 3 fragments des os frontaux (dits « os nobles ») et parfois des os des pieds et des mains après la crémation (en tt 9 fragments) ; elle est ensuite enchâssée dans une boîte en argent (kl. pariak), mise elle-même dans une autre faite d’un alliage de bronze et d’or (kl. gatsuan), et enfin dans une quatrième cassette de cuivre (kl. haban). La série des klau:n est renfermée dans un vase de terre, couvert avec une brique, et inhumée dans l’enclos funéraire de la famille et surmonté d’une pierre tombale (kut). » p. 88 [146 pdf]. L’utilisation particulière de cette boîte demande peut-être à ce que l’on conserve son nom cam ? 
-thila śa : faute pour klauṅ pirak sa sa thil |
-
-(17) 2 (esclaves/serviteurs) tout ceci des offrandes échangées
-lumva.h: pas de définition dans le dico. Finot [EEPC, p. 179n n°2] lumva.h = luma.h « offrande »
-śiili.h: cité dans le dictionnaire, sans traduction mais avec un renvoi à Finot [EEPC p. 179, n°2] śii : signe du futur ; li.h : partager. Mot que l’on retrouve dans C. 5 (l. 5 : halun śiili.h ri ci et l.8 : halun śiili.h ri mauk) où il n’est pas traduit, et dans C. 213 (l. 22 : vu.h di yaa~m nii "sili.h mauk_ aavi.h kragya"n_ kaa X). 
-
-(18) yau.m śaśāṇna cette terre. En cette année
-yau.m : environ, à peu près (p. 400 [476 pdf]). En cam moderne, yau.m signifie également «  presque, quelque, peut-être ; comme, tel que, ainsi que ; penser, s’imaginer, présumer, conjecturer ; apprécier, évaluer, estimer, croire, juger bon ; honorer, respecter, vénérer ; valeur (en argent), prix ; coûteux, cher, précieux ; estime, satisfaction, contentement ; rare, singulier, extraordinaire, étrange, bizarre, original ; rareté, chose ou objet rare ». 
-śaśāṇṇa: Finot corrige: śriiśāṇṇa « au temple de śiva » . ok, mais plutôt śāsana = "ordre, fondation royale".
-
-
-•	1323.  -->
+(16) le klauṅ est une petite boîte « tournée, ciselée ou guillochée. (...) On renferme dans cette urne 3 fragments des os frontaux (dits « os nobles ») et parfois des os des pieds et des mains après la crémation (en tt 9 fragments) ; elle est ensuite enchâssée dans une boîte en argent (kl. pariak), mise elle-même dans une autre faite d’un alliage de bronze et d’or (kl. gatsuan), et enfin dans une quatrième cassette de cuivre (kl. haban). La série des klauṅ est renfermée dans un vase de terre, couvert avec une brique, et inhumée dans l’enclos funéraire de la famille et surmonté d’une pierre tombale (kut). » p. 88 [146 pdf]. 
+  -->
          </div>
  <div type="translation" source="bib:Finot1915_01" xml:lang="fra">
- 	<p>« Bonheur ! Il y eut un [prince du] Br̥ṣuvaṅsa, savoir, S. M. Śrī Jaya Siṅhavarmmadeva Śrī Harijâtti Vīrasiṅha Campapūra, qui régna douze ans complets. [Alors] son âme partit pour le séjour de Śiva, dans la terre de Yāṅ <gap reason="ellipsis"/> S. M. Śrī Vr̥ṣu Viṣṇujātti Vīra Bhadravarmmadeva, son fils, régna. Comme ses père, mère et cousins s'étaient établis dans cette contrée qu'ils avaient reçue en concession à l'état inculte, il prit les champs que son royal père avait fait défricher à Luvūk (?), [consistant en] 500 vijaiḥ de bois avec le <foreign>tandoṅ</foreign> (?) public ; un <foreign>śvān</foreign> d'argent, d'un <foreign>vauḥ</foreign> 15 <foreign>thil</foreign> ; une aiguière d'argent, de 5 <foreign>thil</foreign> ; un flacon d'argent d'un <foreign>thil</foreign> ; une boîte d'argent<gap reason="ellipsis"/> d'un <foreign>thil</foreign> ; un éléphant, deux esclaves : tout cela [comme] offrande pour être distribuée<gap reason="ellipsis"/>  śaśāṇṇa (?) de cette terre. En śaka 1323.</p>
+ 	<p>Bonheur ! Il y eut un [prince du] Br̥ṣuvaṅsa, savoir, S. M. Śrī Jaya Siṅhavarmmadeva Śrī Harijâtti Vīrasiṅha Campapūra, qui régna douze ans complets. [Alors] son âme partit pour le séjour de Śiva, dans la terre de Yāṅ <gap reason="ellipsis"/> S. M. Śrī Vr̥ṣu Viṣṇujātti Vīra Bhadravarmmadeva, son fils, régna. Comme ses père, mère et cousins s'étaient établis dans cette contrée qu'ils avaient reçue en concession à l'état inculte, il prit les champs que son royal père avait fait défricher à Luvūk (?), [consistant en] 500 vijaiḥ de bois avec le <foreign>tandoṅ</foreign> (?) public ; un <foreign>śvān</foreign> d'argent, d'un <foreign>vauḥ</foreign> 15 <foreign>thil</foreign> ; une aiguière d'argent, de 5 <foreign>thil</foreign> ; un flacon d'argent d'un <foreign>thil</foreign> ; une boîte d'argent<gap reason="ellipsis"/> d'un <foreign>thil</foreign> ; un éléphant, deux esclaves : tout cela [comme] offrande pour être distribuée<gap reason="ellipsis"/>  śaśāṇṇa (?) de cette terre. En śaka 1323.</p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <p>First edited with translation into French by Louis Finot (<bibl rend="omitname"><ptr target="bib:Finot1915_01"/></bibl>); re-edited by Arlo Griffiths based on direct inspection of the stone, as well as estampages and orthophotos from a photogrammetric model.</p>
 <!-- 
 Editions: Louis Finot, Notes d'épigraphie XIV: Les inscriptions du Musée de Hanoi: B 2. Champa 23: Inscription de la porte royale de Binh-dinh, BEFEO XV (1915), p. 12-14 [EEPC, pp. 178-180]; 
-
-Le texte ici constitué se base sur inspection de la pierre et de l’estampage par AG le 17-9-2009 + Amandine Lepoutre 2011.
+Le texte ici constitué se base sur inspection de la pierre et de l’estampage par AG le 17-9-2009, puis à nouveau en avril 2024. AG a utilisé la relecture et les notes d'Amandine Lepoutre 2011.
  -->
         	<listBibl type="primary">
 	<bibl n="LF"><ptr target="bib:Finot1915_01"/><citedRange unit="page">12-14</citedRange><citedRange unit="item">B 2. 23</citedRange></bibl>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Yang Kur stela (C. 20), 1200 Śaka</title>
+            	<respStmt>
+            		<resp>EpiDoc Encoding</resp>
+            		<persName ref="part:argr">
+            			<forename>Arlo</forename><surname>Griffiths</surname>
+            		</persName>
+            	</respStmt>
+            	<respStmt>
+            		<resp>intellectual authorship of edition</resp>
+            		<persName ref="part:argr">
+            			<forename>Arlo</forename>
+            			<surname>Griffiths</surname>
+            		</persName>
+            	</respStmt>
+            </titleStmt>
+        	<publicationStmt>
+        		<authority>DHARMA</authority>
+        		<pubPlace>Jakarta</pubPlace>
+        		<idno type="filename">DHARMA_INSCIC00020</idno>
+        		<availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                    	<p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                        	<p>The lettering is characteristic of the late thirteenth century CE. A second hand is perhaps discernible starting on line B4.<!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+        	<change who="part:argr" when="2024-04-18">started encoding the inscription</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:00000">
+<p><milestone type="pagelike" unit="face" n="A"/><label>Front</label><!-- §5.4. --><lb n="A1"/><g type="ddanda"/> svasti <g type="floretQuatrefoil"/> Om̐ namaś śivāya <g type="danda">.</g> śakarāja <num value="1200">1200</num>
+<lb n="A2"/><g type="ddanda"/>di rāja pu-po<unclear>m̃</unclear><!--Le m̃ de po(m̃) doit être mêlé au Om̐ de la ligne précédente. La forme de ce premier m̃ se rapproche du m̃ qu’on voit plus loin à la l. 2.--> tana rayā Indravarmma pu-pom̃ ku ma<lb 
+n="A3" break="no"/>dā divyadevī pu-po(m̃) tana rayā nan· sā sidaḥ yām̃ pu rāja⌈- 
+<!--
+En lisant pu-po(m̃) ici, on considère le signe souscrit de la ligne 2 comme appartenant à la ligne 3. Si c’est bien cela, la forme du m̃ (plus semblable à la partie sup. de la voyelle au) est à noter. Serait le seul cas sur cette face ? Mais que faire du u sous le p de pom̃ ?
+	sā sidaḥ : cf. C. 92, B1 madā pu põ tana rayā sā sidaḥ yāṅ põ ku śrī sūryyavarmmadeva pu ciy.
+Currently, only part of the rā remains at the end of the line, the whole of ja and the -e marker having been lost subsequently to the creation of EFEO est. n. 141.-->
+<lb n="A4"/>pautra pu-nai sūryyalakṣmī Urām̃ catim̃ pāṇḍurāṅgeśa Udbhava di para-
+<!--	catim̃ : AC-SA face p. 120 lit urām̃ catim̃.
+	pāṇḍurāṅgeśa : pāṇḍuraṅgeśa Bergaigne.
+	Udbhava: -->
+<lb n="A5"/>ma dvā Amvryak· vijaiya dunan· saundaryya rūpa dunan· thum̃ samastaśāstrāga-
+<!--	vijaiya pour vijaya ?
+	lecture AC, p.76 et 313 PDF : amvryak vijaya dunan saudaryya (beauté) rūpa dunan, (thiu/thau) samastra (tous) sāstragana (traités) dunan. Sans traduction.-->
+<lb n="A6"/>ma dunan· dvaḥ karuṇā pu-pom̃ ta[[na]] rayā Indravarmma pu-pom̃ ku nan· dunan· kā sthāpa-
+<lb n="A7"/>nā pa yām̃ di bhūmi vijaya ka mātāpitā Ātmaja dunan· thu[[m̃]] samastabhogo-
+<!--	pa yām̃] corr. pu yām̃ (déjà noté dans AC, 282 PDF)
+on lit dans AC, p. 282 PDF : dunan kā sthāpanā (ru)pa kamā ka pi kā ātmaja dunan thau samasta bhogopabhoga dunan marai pu (?) cai di pura krauṅ vuk ka põ. Une partie de cette lecture peut correspondre à ce passage du texte mais yām̃ di bhūmivijaya ici me semble être la bonne lecture. 
+ka mātāpitā] kamā ka pi kā AC.
+-->
+<lb n="A8"/>pabhoga dunan· marai vuḥ cai di pura kraum̃ vauk· ka pom̃ Ajñā ya śi Ai tuhā
+<!--	dunan· marai vuḥ cai di pura kraum̃ : basé sur la lecture d'AC : dunan marai pu cai di pura krauṅ but I read vuḥ cai instead of pu cai. Cf. perhaps C. 120 B4, and vuḥ caittra in C. 43?
+	vauk· : AC read vuk·, probaly a simple copyiong error for vauk·.
+ 	ka põ ajñā ya çi ai tuhā (AC, p. 282 PDF; 538 PDF); ai (p. 37; 95 PDF).-->
+<lb n="A9"/>dunan· ya klan· nagara krauṅ· vauk· | jam̃ḥ nan· dunan· marai sthāpanā kīrtti· nim̃ ka pom̃
+<!--	dunan ya klan· nagara krauṅ· vauk·] dunan ya klũ nagara krauṅ vok (vauk) (AC, p. 282 PDF), but ya klan nagara kroṅ vuk (AC, f86, p. 144 PDF).
+	p. 282 PDF : jaḥ nan dunan marai sthāpanā kirtti nei ka poṅ mahendravarmma ya si ai dunan-->
+<lb n="A10"/> māhendravarmma ya śi Ai dunan· sa trā ya sakala senāpatī pāṇḍurā-
+<!--	mahendravarmma ya si ai dunan (AC, p. 282 pdf)
+	sa trā ya sakala senāpatī pāndurāṅgeśa nī mulaṅ di janœḥ dunan rajan samasta (p. 202 PDF)-->
+<lb n="A11"/>ṅgeśa nī mulam̃ di janam̃ḥ dunan· rajan· samasta dharmma ka santāna dunan· vri(m̃) dāna tūm̃ yathā-
+<!--	p. 313 AC: nī mulaṅ du janœḥ dunan rajan samasta dharma la santāna dunan vri (vrei) dāna-->
+<lb n="A12"/>śakti || nim̃ trā hetu pu-nai harijeṣṭha rājaputrī dunan· si kā svargga nau
+<!--	dunan· si kā svargga nau] dunan si kā svargga nau dunan kā sa avan samū (?) dunan dhavek (dhavaik) jīva nau (AC p. 543 PDF)-->
+<lb n="A13"/>dunan· kā saqvan· samū dunan· macaik· jīva nau bharuv· dunan· clam̃ṅ·
+<!--	or mavaik?
+	bharuv dunan· thlam̃ṅ sīdaḥ śarīra ṅan· bhoga dī loka nī : lecture AC p. 269 du pdf. -->
+<lb n="A14"/>sīdaḥ śarīra ṅan· bhoga dī loka nī matake Anitya mam̃n· dunan· truḥ
+	<!--matake Anitya mam̃n· dunan· truḥ] AC p. 447 du pdf.-->
+<lb n="A15"/>samastabhoga dunan· dvaḥ karuṇā pu pom̃ tana rayā Indravarmma 
+<!--	samasta bhoga dunan· dvaḥ karuṇā pu pom̃ t. r. : cf. AC p. 282 PDF.-->
+<lb n="A16"/>pu-pom̃ ku dunan· nau rajan· tanapaḥ ka Anāk· dunan· tam̃l·
+<!--	dunan nau rajan tanapaḥka (=pak ?) anāk p. 481 PDF / dunan nau rajan tanapaḥka (=pak) anāk dunan tœl p. 231 PDF-->
+<milestone type="pagelike" unit="face" n="B"/><label>Back</label>
+<lb n="B1"/> (tana)hapa parvvata dunan· paslyam̃ pañce-
+<lb n="B2"/>ndriya sidaḥ k(ā)ma-krodha-lobha-moha-mada-
+<lb n="B3"/> mātsaryya t(ū)y· dunan· strīratnaviśeṣa di loka nī
+<!--[a different hand begins]-->
+<lb n="B4"/> śakarāja 1200, {1} pu lyam̃ surendra Āya dunan· (ta)paḥ {3}
+<lb n="B5"/> {3} dunan· ma {17}
+<lb n="B6"/> {8} nī varunī Ātmaja 20 thun· jana ||
+<lb n="B7"/>halaḥ jata paṣara... 1200
+</p>
+         </div>
+         <div type="apparatus">
+           <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
+               <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="line"><!-- update the value of @loc.-->
+                     <lem><!-- fill in a lemma here --></lem>
+                     <rdg source="bib:Bergaigne1888_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                  </app>
+               </listApp>
+         </div>
+         <div type="translation" resp="part:argr">
+ 	<!--translation encoded as per EGD §9.2 -->
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+<p>Bergaigne distinguished four hands: <q>Quatre écritures différentes, quoique du même temps.</q></p>
+         </div>
+        <div type="bibliography">
+           <p>Sanskrit words transcribed by Abel Bergaigne. Integrally edited here for the first time by Arlo Griffiths, using EFEIO estampages (127, n. 141) and orthophotos from a photogtammetric model.</p>
+        	<listBibl type="primary">
+<bibl n="B"><ptr target="bib:Bergaigne1888_01"/><citedRange unit="page">97-98</citedRange><citedRange unit="figure">389</citedRange></bibl>
+        	</listBibl>
+               <listBibl type="secondary">
+<bibl><ptr target="bib:Aymonier1891_01"/><citedRange unit="page">59-60</citedRange><citedRange unit="figure">389</citedRange></bibl>
+	<bibl><ptr target="bib:Finot1903_04"/><citedRange unit="page">635</citedRange></bibl>
+<!--	<bibl><ptr target="bib:Parmentier1909_01"/><citedRange unit="page">...</citedRange><citedRange unit="figure">...</citedRange></bibl> -->
+	<bibl><ptr target="bib:Majumdar1927_02"/><citedRange unit="page">218</citedRange></bibl>
+	<bibl><ptr target="bib:Golzio2004_01"/><citedRange unit="page">193</citedRange></bibl>
+</listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>

@@ -113,10 +113,9 @@ n="A19" break="no"/>rṇna pakā vrīm̃ maṇtrī karāvv· ya doṁ bhaṇḍ�
 <lb n="A20"/>mahnā kirendra di <unclear>ma</unclear>ddhamagr̥āma pu-pom̃ ku maUdyānna
 <lb n="A21"/>tuṅgo marai kā jak· di<!-- 2024: jakadri? --> śrī gajarāja gvac· mahnā
 <lb n="A22"/>kirendra lo kāla gvac· di ṅauk· vanam̃k· <unclear>sā</unclear>
-@@@@
 <milestone type="pagelike" unit="face" n="B"/><label>Back</label>
-<lb n="B1"/>(k)[i]rāteśvara pu-pom̃ ku ṅan· devandasamatiḥ ya rakṣā rāja pu
-<lb n="B2"/>pom̃ ku di vaṇna dadam̃n· kāla sim̃ tmam̃ klāḥ di pāppa ṅan· ya<lb 
+<lb n="B1"/><unclear>ki</unclear>rāteśvara pu-pom̃ ku ṅan· devandasamatiḥ<!-- 2024: devānandasaṁmati? --> ya rakṣā rāja pu<lb 
+n="B2" break="no"/>-pom̃ ku di vaṇna dadam̃n· kāla sim̃ tmum̃ klāḥ di pāppa ṅan· ya<lb 
 n="B3" break="no"/>śa di loka ṅan· paraloka dudim̃ pu-pom̃ ku kamvac· tuvam̃ śāla pa<lb 
 n="B4" break="no"/>vvak· Anvak· vr(i)m̃ nāma tuvam̃ ṇrapā paṅap· A(dh)vā ni klum̃ jalā<lb break="no" 
 n="B5"/>ṇ nī samū ṅan· nagara Alā rim̃ mak· bhaṇḍāra vanaḥ nī kraum̃ (t)ralāy·
@@ -176,9 +175,10 @@ n="d9" break="no"/>ṇḍāra vr̥im̃ dauk· pamvr̥m̃m̃ caitr̥a nī
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
                <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="line"><!-- update the value of @loc.-->
-                     <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:Griffiths+al2012_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                  <app loc="B2">
+                     <lem>tmum̃</lem>
+                     <rdg source="bib:Griffiths+al2012_01">tmam̃</rdg>
+<note>We noted (<bibl rend="omitname"><ptr target="bib:Griffiths+al2012_01"/><citedRange unit="page">210</citedRange></bibl>) that <foreign>tmam̃</foreign> had to be corrected to <foreign>tmum̃</foreign> but now we think the <foreign>u</foreign> marker is actually visible on the estampages.</note>
                   </app>
                </listApp>
          </div>

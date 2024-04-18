@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Drang Lai stela (C. 43), ... Śaka</title>
+                <title>Drang Lai stela (C. 43), 1357 Śaka</title>
             	<respStmt>
             		<resp>EpiDoc Encoding</resp>
             		<persName ref="part:argr">
@@ -51,9 +51,9 @@
                         <idno/><!-- don't modify this -->
                     </msIdentifier>
                     <msContents><!-- describe the intellectual content of an inscription -->
-                    	<summary><p>In 1337 Śaka (1415 AD), after the death of king Jayasiṁhavarman, his son Vīrabhadravarman, who was until then Lord of Ṅauk Glauṅ Vijaya, came to the throne of the kingdom. After many battles, which the Vietnamese king waged against Campā, king Vīrabhadravarman attacked Đại Việt, at an uncertain date. He captured a Vietnamese princess, slaves, animals and many riches of the Vietnamese king before heading back to Vijayāpurī, his favourite seat of government.</p>
+                    	<summary><p>In 1337 Śaka (1415 CE), after the death of king Jayasiṁhavarman, his son Vīrabhadravarman, who was until then Lord of Ṅauk Glauṅ Vijaya, came to the throne of the kingdom. After many battles, which the Vietnamese king waged against Campā, king Vīrabhadravarman attacked Đại Việt, at an uncertain date. He captured a Vietnamese princess, slaves, animals and many riches of the Vietnamese king before heading back to Vijayāpurī, his favourite seat of government.</p>
                     		<p>Close political ties between the lowlands and highlands led to the integration of the ‘Great king of the Montagnards’ within a territory called Madhyamagrāma, and the vassalage of Śrī Gajarāja (‘King of the Elephants’). In this way, the protection of god Kirāṭeśvara was assured for the forested domains of the Cam king. Vīrabhadravarman, for his part, offered the highlands region some forms of infrastructure, such as a well and roads.</p>
-                    		<p>In 1357 Śaka (1435 AD), he founded an image of the god Kirāṭeśvara. The latter was endowed by him with servants, wealth in gold, silver, lands and men. The ‘Great king of the Montagnards’ who was reigning undertook water works and promoted rice-growing in the same region, also offering men and women who had been previously captured. And so a holy place, named Bhagit, was established.</p>
+                    		<p>In 1357 Śaka (1435 CE), he founded an image of the god Kirāṭeśvara. The latter was endowed by him with servants, wealth in gold, silver, lands and men. The ‘Great king of the Montagnards’ who was reigning undertook water works and promoted rice-growing in the same region, also offering men and women who had been previously captured. And so a holy place, named Bhagit, was established.</p>
                     	</summary>
                     </msContents>
                     <physDesc>
@@ -190,15 +190,20 @@ n="d9" break="no"/>ṇḍāra vr̥im̃ dauk· pamvr̥m̃m̃ caitr̥a nī
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography -->
-This inscription long remains unpublished, except for the first 4/5 lines read (partly) by Finot and Schweyer. It was first mentioned in BEFEO 1 (1901), p. 413 and 2 (1902), p. 227; presence at “Cheo Reo” described by Parmentier (1902: 282); proper provenance ascertained by Prosper Odend’hal in 1903 (see Finot 1904b: 535); stela described by Parmentier (1909: 562–563); briefly referred to, with citation of its first 4 lines by Finot (1915: 13–14); mentioned by Majumdar (1927: 223, no. 119); arrival at Museum reported in BEFEO 27 (1927), p. 460; Finot’s excerpt cited by Golzio (2004: 199); first five lines read and translated by Schweyer (2008a: 226). Available reproductions: EFEO estampages 267, n. 510, n. 2122–2125.
+           <p>This inscription long remains unpublished, except for the first 4/5 lines read (partly) by Louis Finot and Anne-Valérie Schweyer. It was first mentioned in BEFEO 1 (1901), p. 413 and 2 (1902), p. 227; presence at “Cheo Reo” described by Parmentier (1902: 282); proper provenance ascertained by Prosper Odend’hal in 1903 (see Finot 1904b: 535); stela described by Parmentier (1909: 562–563); briefly referred to, with citation of its first 4 lines by Finot (1915: 13–14); mentioned by Majumdar (1927: 223, no. 119); arrival at Museum reported in BEFEO 27 (1927), p. 460; Finot’s excerpt cited by Golzio (2004: 199); first five lines read and translated by Schweyer (2008a: 226). Available reproductions: EFEO estampages 267, n. 510, n. 2122–2125.
 </p>
         	<listBibl type="primary">
 	<bibl n="G&amp;L"><ptr target="bib:Griffiths+al2012_01"/><citedRange unit="page">205-218</citedRange></bibl>
 	</listBibl>
            <listBibl type="secondary">
-              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
-           </listBibl>
+<bibl><ptr target="bib:Finot1904_06"/><citedRange unit="page">535</citedRange></bibl>
+	<bibl><ptr target="bib:Parmentier1909_01" /><citedRange unit="page">562-563</citedRange></bibl>
+<bibl><ptr target="bib:Finot1915_01"/><citedRange unit="page">13-14</citedRange></bibl>
+<bibl><ptr target="bib:Majumdar1927_02"/><citedRange unit="page">223</citedRange><citedRange unit="item">119</citedRange></bibl>
+	<bibl><ptr target="bib:Golzio2004_01"/><citedRange unit="page">199</citedRange></bibl>
+              <bibl n="S"><ptr target="bib:Schweyer2008_01" /><citedRange unit="page">226</citedRange>
+          </bibl>
+        </listBibl>
         </div>
       </body>
   </text>

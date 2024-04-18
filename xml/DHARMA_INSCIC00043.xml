@@ -117,14 +117,15 @@ n="A19" break="no"/>rṇna pakā vrīm̃ maṇtrī karāvv· ya doṁ bhaṇḍ�
 <lb n="B1"/><unclear>ki</unclear>rāteśvara pu-pom̃ ku ṅan· devandasamatiḥ<!-- 2024: devānandasaṁmati? --> ya rakṣā rāja pu<lb 
 n="B2" break="no"/>-pom̃ ku di vaṇna dadam̃n· kāla sim̃ tmum̃ klāḥ di pāppa ṅan· ya<lb 
 n="B3" break="no"/>śa di loka ṅan· paraloka dudim̃ pu-pom̃ ku kamvac· tuvam̃ śāla pa<lb 
-n="B4" break="no"/>vvak· Anvak· vr(i)m̃ nāma tuvam̃ ṇrapā paṅap· A(dh)vā ni klum̃ jalā<lb break="no" 
-n="B5"/>ṇ nī samū ṅan· nagara Alā rim̃ mak· bhaṇḍāra vanaḥ nī kraum̃ (t)ralāy·
-<lb n="B6"/>m(ā)ḥ khin· makanā ya gaḥ kvīra trā marai makanā ya doṁ bha-
-<lb n="B7"/>ṇḍāra vukam̃n· rim̃ kāla sthāppa cai(t)tra ṇī di śakarāja ṇrapaḥ<lb break="no" 
-n="B8"/>-(lok)a-śaraḥ-bhūdharaḥ vuḥ bhoga pamram̃m̃ di cai(t)tra kirāteśvara pu
-<lb n="B9"/>(po)m̃ ku <g type="ddanda">.</g></p> <p>nī doṁ dr̥vya lumvaḥ di yām̃ kralauk· māḥ vanna qnā<lb break="no" 
-n="B10"/>[k·] (2) thil· klauṅ· māḥ 1 thil· śvam̃n· pirak· 18 thil· tra<lb 
-n="B11" break="no"/>[lā]y· pirak· 13 thil· dyam̃p· pirak· 8 thil· bhriṅgāra
+n="B4" break="no"/>vvak· Anvak· vr<unclear>i</unclear>m̃ nāma tuvam̃ ṇrapā paṅap· A<unclear>dh</unclear>vā ni klum̃ jalā<lb break="no" 
+n="B5"/>ṇ nī samū ṅan· nagara Alā rim̃ mak· bhaṇḍāra vanaḥ nī kraum̃ pralāy·
+<lb n="B6"/>ṣ<unclear>u</unclear>ḥ khin· makanāya gaḥ kvīra trā marai makanāya doṁ bha<lb break="no" 
+n="B7"/>ṇḍāra vukam̃n· rim̃ kāla sthāppa cai<unclear>t</unclear>tra ṇī di śakarāja ṇrapaḥ<lb break="no" 
+n="B8"/>-l<unclear>oka</unclear>-śaraḥ-bhūdharaḥ vuḥ bhoga pamram̃m̃ di cai<unclear>t</unclear>tra kirāteśvara pu
+<lb n="B9"/><unclear>po</unclear>m̃ ku <g type="ddanda">.</g></p> <p>nī doṁ dr̥vya lumvaḥ di yām̃ kralauk· māḥ vanna qnā<lb break="no" 
+n="B10"/><supplied reason="lost">k·</supplied> <num value="2"><unclear>2</unclear></num> thil· klauṅ· māḥ <num value="1">1</num> thil· śvam̃n· pirak· <num value="18">18</num> thil· tra<lb 
+n="B11" break="no"/><supplied reason="lost">lā</supplied>y· pirak· <num value="13">13</num> thil· dyam̃p· pirak· <num value="8">8</num> thil· bhriṅgāra
+@@@@
 <lb n="B12"/>[pi](ra)k· 20 thil· kalaśa pirak· 3 thil· Uk· pira<lb 
 n="B13" break="no"/>[k·] (2) thil· suvauk· pirak· 4 vauḥ 4 thil· (c)ān· dhūp pirak·
 <lb n="B14"/>[#] (vau)ḥ 2 thil· li 8 graṁ klaum̃ pirak· sa vauḥ 1 thil· kralau<lb 
@@ -180,6 +181,15 @@ n="d9" break="no"/>ṇḍāra vr̥im̃ dauk· pamvr̥m̃m̃ caitr̥a nī
                      <rdg source="bib:Griffiths+al2012_01">tmam̃</rdg>
 <note>We noted (<bibl rend="omitname"><ptr target="bib:Griffiths+al2012_01"/><citedRange unit="page">210</citedRange></bibl>) that <foreign>tmam̃</foreign> had to be corrected to <foreign>tmum̃</foreign> but now we think the <foreign>u</foreign> marker is actually visible on the estampages.</note>
                   </app>
+<app loc="B5">
+<lem>pralāy·</lem>
+<rdg source="bib:Griffiths+al2012_01"><unclear>t</unclear>ralāy·</rdg>
+</app>
+<app loc="B6">
+	<lem>ṣ<unclear>u</unclear>ḥ khin·</lem>
+	<rdg source="bib:Griffiths+al2012_01">m<unclear>ā</unclear>ḥ khin·</rdg>
+<note>The parallel passage in <ref target="DHARMA_INSCIC00237.xml">C. 237</ref> (A4) that has become available since our 2012 publication now helps to determine the reading intended here.</note>
+</app>
                </listApp>
          </div>
          <div type="translation" resp="part:argr">

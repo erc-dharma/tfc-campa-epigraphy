@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+            	<title>Rock wall at Chợ Dinh (C. 41), 5th century CE</title>
+            	<respStmt>
+            		<resp>EpiDoc Encoding</resp>
+            		<persName ref="part:argr">
+            			<forename>Arlo</forename><surname>Griffiths</surname>
+            		</persName>
+            	</respStmt>
+            	<respStmt>
+            		<resp>intellectual authorship of edition</resp>
+            		<persName ref="part:argr">
+            			<forename>Arlo</forename>
+            			<surname>Griffiths</surname>
+            		</persName>
+            	</respStmt>
+            </titleStmt>
+        	<publicationStmt>
+        		<authority>DHARMA</authority>
+        		<pubPlace>Jakarta</pubPlace>
+        		<idno type="filename">DHARMA_INSCIC00041</idno>
+        		<availability>
+        			<licence target="https://creativecommons.org/licenses/by/4.0/">
+        				<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+        					Licence. To view a copy of the licence, visit
+        					https://creativecommons.org/licenses/by/4.0/ or send a letter to
+        					Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+        					California, 94041, USA.</p>
+        				<p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
+        			</licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                    	<summary><!-- //// NOT MANDATORY  ////--></summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                        	<p>The lettering is characteristic of the fifth century CE.<!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+        	<change who="part:argr" when="2024-04-19">encoded the inscription</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:00000">
+<p><milestone type="pagelike" unit="zone" n="A"/><label>Main</label><!-- §5.4. --><lb n="A1"/>namo devāya <space/> bhadreśvarasvāmi-pāda-prasadāT <space/> Agnaye tvā juṣṭaṁ kariṣyāmi 
+<lb n="A2"/>dharmma-mahārāja-śrībhadravarmmaṇo yāvac candrādityau tāvat putra-pautram bhokṣyati
+<lb n="A3"/>pr̥thiv<choice><sic>i</sic><corr>ī</corr></choice>-prasādāt k<choice><sic>ā</sic><corr>a</corr></choice>rmma-siddhir astu <g type="spiral"/></p>
+<ab><milestone type="pagelike" unit="zone" n="B"/><label>Secondary</label><!-- §5.4. --><lb n="B1"/><seg rend="check">śivo dāso baddhyate</seg></ab>
+         </div>
+         <div type="apparatus">
+               <listApp>
+                  <app loc="A2">
+                     <lem>bhokṣyati</lem>
+                     <rdg source="bib:Bergaigne1893_01">mokṣyati</rdg>
+                  </app>
+<app loc="B1">
+<lem>śivo dāso baddhyate</lem>
+<note>Bergaigne suggests as alternative: <foreign>śivo dāso vaddhyo yaḥ</foreign>.</note>
+</app>
+<!-- 	2. -pautram bhokṣyati] -pautram mokṣyati ISCC.
+	3. pr̥thivi-] norm. pr̥thivī- (Bergaigne).
+	3. kārmma-] norm. karmma- (Bergaigne).</p> -->
+               </listApp>
+         </div>
+<div type="translation" resp="part:argr">
+ <p n="A">Homage to God! By the grace of the feet of the Bhadreśvarasvāmin I shall make you agreeable to Fire. As Iong as the Sun and the Moon exist, so long will the sons and grandsons of Dharma-Mahārāja Śrī Bhadravarman rule. By the grace of the earth, may the work be successful.</p>
+<p n="B">???</p>
+</div>
+         <div type="translation" source="bib:Majumdar1927_02">
+ <p n="A">Reverence to God! By the favour of the feet of the Bhadreśvarasvāmin I shall make thee agreeable to Fire (<hi rend="italic">i.e.</hi>, sacrifice thee). So Iong as the Sun and the Moon endure, he (Agni) will save the sons and grandsons of Dharma-Mahārāja Śrī Bhadravarman. May the work (sacrifice) be successful through the grace of the earth</p>
+<p n="B">Śiva, the slave is bound (to the post).</p>
+         </div>
+<div type="translation" xml:lang="fra" source="bib:Bergaigne1893_01">
+ 	<p n="A">1. Hommage au Dieu ! Par la faveur des Pieds du Seigneur Bhadreśvara, — je te rendrai agréable à Agni. 2. Tant que dureront le Soleil et la Lune, il sauvera les fils et les petits-fils du Grand roi de la Loi, Śrī-Bhadravarman. 3. Que par la faveur de la Terre, le sacrifice réussisse !</p>
+<p n="B">Le Dāsa propitiatoire est attaché au poteau.</p>
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+        <div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+        	<listBibl type="primary">
+				<bibl n="B"><ptr target="bib:Bergaigne1893_01"/><citedRange unit="page">199</citedRange><citedRange unit="item">XXI</citedRange></bibl>
+			</listBibl>
+           <listBibl type="secondary">
+              <bibl><ptr target="bib:Bergaigne1888_01"/><citedRange unit="page">5, 43, 75</citedRange></bibl>
+	<bibl><ptr target="bib:Aymonier1892_01"/><citedRange unit="page">370</citedRange></bibl>
+	<bibl><ptr target="bib:Finot1902_02"/><citedRange unit="page">185-186</citedRange></bibl>
+	<bibl><ptr target="bib:Parmentier1909_01"/><citedRange unit="page">140</citedRange></bibl>
+	<bibl><ptr target="bib:Majumdar1927_02"/><citedRange unit="page">3-4</citedRange><citedRange unit="item">2-3</citedRange></bibl>
+	<bibl><ptr target="bib:Boisselier1963_01"/><citedRange unit="page">365</citedRange><citedRange unit="figure">235</citedRange></bibl>
+	<bibl><ptr target="bib:Golzio2004_01"/><citedRange unit="page">6</citedRange></bibl>
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>

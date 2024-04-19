@@ -128,8 +128,7 @@
 	<bibl><ptr target="bib:Aymonier1892_01"/><citedRange unit="page">370</citedRange></bibl>
 	<bibl><ptr target="bib:Finot1902_02"/><citedRange unit="page">185-186</citedRange></bibl>
 	<bibl><ptr target="bib:Parmentier1909_01"/><citedRange unit="page">140</citedRange></bibl>
-	<bibl><ptr target="bib:Majumdar1927_02"/><citedRange unit="page">3-4</citedRange><citedRange unit="item">2-3</citedRange></bibl>
-	<bibl><ptr target="bib:Boisselier1963_01"/><citedRange unit="page">365</citedRange><citedRange unit="figure">235</citedRange></bibl>
+	<bibl><ptr target="bib:Majumdar1927_02"/><citedRange unit="page">3-4</citedRange><citedRange unit="item">2–3</citedRange></bibl>
 	<bibl><ptr target="bib:Golzio2004_01"/><citedRange unit="page">6</citedRange></bibl>
            </listBibl>
         </div>

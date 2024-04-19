@@ -76,16 +76,16 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-        	<change who="part:argr" when="2024-04-19">encoded the inscription</change>
+        	<change who="part:argr" when="2024-04-19">started encoding the inscription</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:00000">
-<p><milestone type="pagelike" unit="zone" n="A"/><label>Main</label><!-- §5.4. --><lb n="A1"/>namo devāya <space/> bhadreśvarasvāmi-pāda-prasadāT <space/> Agnaye tvā juṣṭaṁ kariṣyāmi 
+<p><milestone type="pagelike" unit="zone" n="A"/><label>Main</label><lb n="A1"/>namo devāya <space/> bhadreśvarasvāmi-pāda-prasādāT <space/> Agnaye tvā juṣṭaṁ kariṣyāmi 
 <lb n="A2"/>dharmma-mahārāja-śrī-bhadravarmmaṇo yāvac candrādityau tāvat putra-pautram bhokṣyati
 <lb n="A3"/>pr̥thiv<choice><sic>i</sic><corr>ī</corr></choice>-prasādāt k<choice><sic>ā</sic><corr>a</corr></choice>rmma-siddhir astu <g type="spiral"/></p>
-<ab><milestone type="pagelike" unit="zone" n="B"/><label>Secondary</label><!-- §5.4. --><lb n="B1"/><seg rend="check">śivo dāso baddhyate</seg></ab>
+<ab><milestone type="pagelike" unit="zone" n="B"/><label>Secondary</label><lb n="B1"/><seg rend="check">śivo dāso baddhyate</seg></ab>
          </div>
          <div type="apparatus">
                <listApp>
@@ -103,11 +103,11 @@
                </listApp>
          </div>
 <div type="translation" resp="part:argr">
- <p n="A">Homage to the God! By the grace of the feet of Bhadreśvarasvāmin, I shall make you agreeable to Fire. As Iong as the Sun and the Moon exist, so long will ruler the sons and grandsons of the righteous <foreign>mahārāja</foreign> Śrī Bhadravarman. By the grace of the earth, may the work be successful.</p>
+ <p n="A">Homage to the God! By the grace of the feet of Bhadreśvarasvāmin, I shall make you agreeable to Fire. As long as the Sun and the Moon exist, so long will ruler the sons and grandsons of the righteous <foreign>mahārāja</foreign> Śrī Bhadravarman. By the grace of the earth, may the work be successful.</p>
 <p n="B">???</p>
 </div>
          <div type="translation" source="bib:Majumdar1927_02">
- <p n="A">Reverence to God! By the favour of the feet of the Bhadreśvarasvāmin I shall make thee agreeable to Fire (<hi rend="italic">i.e.</hi>, sacrifice thee). So Iong as the Sun and the Moon endure, he (Agni) will save the sons and grandsons of Dharma-Mahārāja Śrī Bhadravarman. May the work (sacrifice) be successful through the grace of the earth</p>
+ <p n="A">Reverence to God! By the favour of the feet of the Bhadreśvarasvāmin I shall make thee agreeable to Fire (<hi rend="italic">i.e.</hi>, sacrifice thee). So long as the Sun and the Moon endure, he (Agni) will save the sons and grandsons of Dharma-Mahārāja Śrī Bhadravarman. May the work (sacrifice) be successful through the grace of the earth</p>
 <p n="B">Śiva, the slave is bound (to the post).</p>
          </div>
 <div type="translation" xml:lang="fra" source="bib:Bergaigne1893_01">
@@ -116,10 +116,9 @@
          </div>
          <div type="commentary"/>
           <div type="bibliography">
-	<!--bibliography encoded as per section §9.4 -->
            <p>STILL TO BE WRITTEN</p>
         	<listBibl type="primary">
-				<bibl n="B"><ptr target="bib:Bergaigne1893_01"/><citedRange unit="page">199</citedRange><citedRange unit="item">XXI</citedRange></bibl>
+<bibl n="B"><ptr target="bib:Bergaigne1893_01"/><citedRange unit="page">199</citedRange><citedRange unit="item">XXI</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
               <bibl><ptr target="bib:Bergaigne1888_01"/><citedRange unit="page">5, 43, 75</citedRange></bibl>

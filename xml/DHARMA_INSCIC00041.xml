@@ -119,7 +119,7 @@
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <p>STILL TO BE WRITTEN</p>
         	<listBibl type="primary">
 				<bibl n="B"><ptr target="bib:Bergaigne1893_01"/><citedRange unit="page">199</citedRange><citedRange unit="item">XXI</citedRange></bibl>
 			</listBibl>

@@ -76,6 +76,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+        	<change who="part:argr" when="2024-04-21">revisions based on comments part:dogo</change>
         	<change who="part:argr" when="2024-04-19">started encoding the inscription</change>
         </revisionDesc>
     </teiHeader>
@@ -99,7 +100,7 @@
 </app>
 <app loc="B1">
 <lem>śivo dāso baddhyate</lem>
-<note>Bergaigne suggests as only possible alternative reading: <foreign>śivo dāso vaddhyo yaḥ</foreign>. In his footnote, Barth expressed a preference for reading <foreign>baddhyeta</foreign> and suggested that the first word could, perhaps, be read <foreign>śaivo</foreign>.</note>
+<note>Bergaigne suggests as only possible alternative reading: <foreign>śivo dāso vaddhyo yaḥ</foreign>. In his footnote, Barth expresses a preference for reading <foreign>baddhyeta</foreign> and suggests that the first word could, perhaps, be read <foreign>śaivo</foreign>.</note>
 </app>
 <!-- 	2. -pautram bhokṣyati] -pautram mokṣyati ISCC.
 	3. pr̥thivi-] norm. pr̥thivī- (Bergaigne).
@@ -119,7 +120,7 @@
 <p n="B">Le Dāsa propitiatoire est attaché au poteau.</p>
          </div>
          <div type="commentary">
-<p>The second person addressed here was perhaps a deity. Cf. use of <foreign>tvayi</foreign> in C. 216.</p>
+<p>The allusion to Agni, god of fire, is probably connected with the fact that the rock wall bearing the inscription faces southeast, the direction associated with this god. The second person addressed here was perhaps another deity: compare the use of <foreign>tvayi</foreign> in <ref target="DHARMA_INSCIC00216.xml">C. 216</ref>.</p>
 <!-- Dominic Goodall, email 2024-04-20:
 Given your astute correction to bhokṣyati (which looks certain), I suspect that the third line actually began with pṛthivīṁ prasādāt, but it is impossible to tell from the contemporary photograph.  The old plate is much more legible, but ambiguous to me on this point.  
 I would render “…so long will the sons and grandsons of the righteous mahārāja Śrī Bhadravarman enjoy (bhokṣyati) the earth (pṛthivī(ṁ)). By the grace [of Śiva Bhadreśvara], may [this] ritual be successful. The servant, who is favourable, is bound [to the sacrificial post].”

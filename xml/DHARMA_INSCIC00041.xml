@@ -84,7 +84,7 @@
          <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:00000">
 <p><milestone type="pagelike" unit="zone" n="A"/><label>Main</label><lb n="A1"/>namo devāya <space/> bhadreśvarasvāmi-pāda-prasādāT <space/> Agnaye tvā juṣṭaṁ kariṣyāmi 
 <lb n="A2"/>dharmma-mahārāja-śrī-bhadravarmmaṇo yāvac candrādityau tāvat putra-pautram bhokṣyati
-<lb n="A3"/>pr̥thiv<choice><sic>i</sic><corr>ī</corr></choice>-prasādāt k<choice><sic>ā</sic><corr>a</corr></choice>rmma-siddhir astu <g type="spiralR"/></p>
+<lb n="A3"/>pr̥thiv<unclear>ī</unclear><supplied reason="omitted">ṁ</supplied> prasādāt k<choice><sic>ā</sic><corr>a</corr></choice>rmma-siddhir astu <g type="spiralR"/></p>
 <ab><milestone type="pagelike" unit="zone" n="B"/><label>Secondary</label><lb n="B1"/><seg rend="check">śivo dāso baddhyate</seg></ab>
          </div>
          <div type="apparatus">
@@ -93,9 +93,13 @@
                      <lem>bhokṣyati</lem>
                      <rdg source="bib:Bergaigne1893_01">mokṣyati</rdg>
                   </app>
+<app loc="A3">
+<lem>pr̥thiv<unclear>ī</unclear><supplied reason="omitted">ṁ</supplied> prasādāt</lem>
+<rdg source="bib:Bergaigne1893_01">pr̥thiv<choice><sic>i</sic><corr>ī</corr></choice>-prasādāt</rdg>
+</app>
 <app loc="B1">
 <lem>śivo dāso baddhyate</lem>
-<note>Bergaigne suggests as alternative: <foreign>śivo dāso vaddhyo yaḥ</foreign>.</note>
+<note>Bergaigne suggests as only possible alternative reading: <foreign>śivo dāso vaddhyo yaḥ</foreign>. In his footnote, Barth expressed a preference for reading <foreign>baddhyeta</foreign> and suggested that the first word could, perhaps, be read <foreign>śaivo</foreign>.</note>
 </app>
 <!-- 	2. -pautram bhokṣyati] -pautram mokṣyati ISCC.
 	3. pr̥thivi-] norm. pr̥thivī- (Bergaigne).
@@ -103,8 +107,8 @@
                </listApp>
          </div>
 <div type="translation" resp="part:argr">
- <p n="A">Homage to the God! By the grace of the feet of Bhadreśvarasvāmin, I shall make you agreeable to Fire. As long as the Sun and the Moon exist, so long will ruler the sons and grandsons of the righteous <foreign>mahārāja</foreign> Śrī Bhadravarman. By the grace of the earth, may the work be successful.</p>
-<p n="B">???</p>
+ <p n="A">Homage to the God! By the grace of the feet of Bhadreśvarasvāmin, I shall make you agreeable to Fire. As long as the Sun and the Moon exist, so long will the sons and grandsons of the righteous <foreign>mahārāja</foreign> Śrī Bhadravarman enjoy <supplied reason="explanation"><foreign>bhokṣyati</foreign></supplied> the earth. By the grace <supplied reason="subaudible">of Śiva Bhadreśvara</supplied>, may <supplied reason="subaudible">this</supplied> ritual be successful.</p>
+<p n="B">The servant, who is favorable, is bound.</p>
 </div>
          <div type="translation" source="bib:Majumdar1927_02">
  <p n="A">Reverence to God! By the favour of the feet of the Bhadreśvarasvāmin I shall make thee agreeable to Fire (<hi rend="italic">i.e.</hi>, sacrifice thee). So long as the Sun and the Moon endure, he (Agni) will save the sons and grandsons of Dharma-Mahārāja Śrī Bhadravarman. May the work (sacrifice) be successful through the grace of the earth</p>
@@ -116,14 +120,13 @@
          </div>
          <div type="commentary">
 <p>The second person addressed here was perhaps a deity. Cf. use of <foreign>tvayi</foreign> in C. 216.</p>
-
 <!-- Dominic Goodall, email 2024-04-20:
 Given your astute correction to bhokṣyati (which looks certain), I suspect that the third line actually began with pṛthivīṁ prasādāt, but it is impossible to tell from the contemporary photograph.  The old plate is much more legible, but ambiguous to me on this point.  
 I would render “…so long will the sons and grandsons of the righteous mahārāja Śrī Bhadravarman enjoy (bhokṣyati) the earth (pṛthivī(ṁ)). By the grace [of Śiva Bhadreśvara], may [this] ritual be successful. The servant, who is favourable, is bound [to the sacrificial post].”
 Of course one could imagine other interpretations of the final remark. Here's a wild one. We know of early scriptural tags to the effect that “Sadāśiva is the first of the bound souls” (paśur ādyaḥ sadāśivaḥ, pp. 117 and 264–265 of our Paramokṣanirāsakārikāvṛtti book), and “Compassion and Occlusion are the two bonds tying Sadāśiva” (anugrahatirobhāvau dvau pāśau sadāśive, Niśvāsa Nayasūtra 1.83cd), which seem to mean that Śiva's obligation to create and maintain the world for the benefit of other souls is a sort of bondage. On that analogy, we could imagine that this inscription refers to the god Śiva being “bound” to this spot as a “servant”, so that he must remain in the liṅga for the benefit of devotees.
  --></div>
           <div type="bibliography">
-           <p>STILL TO BE WRITTEN</p>
+           <p>First edited by Abel Bergaigne (<bibl rend="omitname"><ptr target="bib:Bergaigne1893_01"/></bibl>), along with facsimiles of the estampages collected by Étienne Aymonier. Re-edited here by Arlo Griffiths based on the same facsimiles.</p>
 <!-- 
 Estampage EFEO: nil.
 Estampage BnF: 415 (54) et 415bis (54)

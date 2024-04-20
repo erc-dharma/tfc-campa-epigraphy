@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-            	<title>Rock wall at Chợ Dinh (C. 41), 5th century CE</title>
+            	<title>Cliff face at Chợ Dinh (C. 41), 5th century CE</title>
             	<respStmt>
             		<resp>EpiDoc Encoding</resp>
             		<persName ref="part:argr">
@@ -84,7 +84,7 @@
          <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:00000">
 <p><milestone type="pagelike" unit="zone" n="A"/><label>Main</label><lb n="A1"/>namo devāya <space/> bhadreśvarasvāmi-pāda-prasādāT <space/> Agnaye tvā juṣṭaṁ kariṣyāmi 
 <lb n="A2"/>dharmma-mahārāja-śrī-bhadravarmmaṇo yāvac candrādityau tāvat putra-pautram bhokṣyati
-<lb n="A3"/>pr̥thiv<choice><sic>i</sic><corr>ī</corr></choice>-prasādāt k<choice><sic>ā</sic><corr>a</corr></choice>rmma-siddhir astu <g type="spiral"/></p>
+<lb n="A3"/>pr̥thiv<choice><sic>i</sic><corr>ī</corr></choice>-prasādāt k<choice><sic>ā</sic><corr>a</corr></choice>rmma-siddhir astu <g type="spiralR"/></p>
 <ab><milestone type="pagelike" unit="zone" n="B"/><label>Secondary</label><lb n="B1"/><seg rend="check">śivo dāso baddhyate</seg></ab>
          </div>
          <div type="apparatus">
@@ -114,11 +114,23 @@
  	<p n="A">1. Hommage au Dieu ! Par la faveur des Pieds du Seigneur Bhadreśvara, — je te rendrai agréable à Agni. 2. Tant que dureront le Soleil et la Lune, il sauvera les fils et les petits-fils du Grand roi de la Loi, Śrī-Bhadravarman. 3. Que par la faveur de la Terre, le sacrifice réussisse !</p>
 <p n="B">Le Dāsa propitiatoire est attaché au poteau.</p>
          </div>
-         <div type="commentary"/>
+         <div type="commentary">
+<p>The second person addressed here was perhaps a deity. Cf. use of <foreign>tvayi</foreign> in C. 216.</p>
+
+<!-- Dominic Goodall, email 2024-04-20:
+Given your astute correction to bhokṣyati (which looks certain), I suspect that the third line actually began with pṛthivīṁ prasādāt, but it is impossible to tell from the contemporary photograph.  The old plate is much more legible, but ambiguous to me on this point.  
+I would render “…so long will the sons and grandsons of the righteous mahārāja Śrī Bhadravarman enjoy (bhokṣyati) the earth (pṛthivī(ṁ)). By the grace [of Śiva Bhadreśvara], may [this] ritual be successful. The servant, who is favourable, is bound [to the sacrificial post].”
+Of course one could imagine other interpretations of the final remark. Here's a wild one. We know of early scriptural tags to the effect that “Sadāśiva is the first of the bound souls” (paśur ādyaḥ sadāśivaḥ, pp. 117 and 264–265 of our Paramokṣanirāsakārikāvṛtti book), and “Compassion and Occlusion are the two bonds tying Sadāśiva” (anugrahatirobhāvau dvau pāśau sadāśive, Niśvāsa Nayasūtra 1.83cd), which seem to mean that Śiva's obligation to create and maintain the world for the benefit of other souls is a sort of bondage. On that analogy, we could imagine that this inscription refers to the god Śiva being “bound” to this spot as a “servant”, so that he must remain in the liṅga for the benefit of devotees.
+ --></div>
           <div type="bibliography">
            <p>STILL TO BE WRITTEN</p>
+<!-- 
+Estampage EFEO: nil.
+Estampage BnF: 415 (54) et 415bis (54)
+Photos: Tran Ky Phoung and Federico Barocco.
+ -->
         	<listBibl type="primary">
-<bibl n="B"><ptr target="bib:Bergaigne1893_01"/><citedRange unit="page">199</citedRange><citedRange unit="item">XXI</citedRange></bibl>
+<bibl n="B"><ptr target="bib:Bergaigne1893_01"/><citedRange unit="page">19-26 [199-206]</citedRange><citedRange unit="item">XXI</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
               <bibl><ptr target="bib:Bergaigne1888_01"/><citedRange unit="page">5, 43, 75</citedRange></bibl>

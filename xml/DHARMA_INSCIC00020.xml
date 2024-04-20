@@ -88,20 +88,22 @@
          <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:00000">
 <ab xml:lang="san-Latn"><milestone type="pagelike" unit="face" n="A"/><label>Front</label><!-- §5.4. --><lb n="A1"/><g type="ddanda"/> svasti <g type="floretQuatrefoil"/> Om̐ namaś śivāya <g type="danda">.</g></ab> <p>śakarāja <num value="1200">1200</num>
 <lb n="A2"/><g type="ddanda"/>di rāja pu-po<unclear>m̃</unclear><!--Le m̃ de po(m̃) doit être mêlé au Om̐ de la ligne précédente. La forme de ce premier m̃ se rapproche du m̃ qu’on voit plus loin à la l. 2.--> tana rayā Indravarmma pu-pom̃ ku ma<lb 
-n="A3" break="no"/>dā divyadevī pu-po<unclear>m̃</unclear> 
+n="A3" break="no"/>dā divya-devī pu-po<unclear>m̃</unclear> 
 <!--
 En lisant pu-po(m̃) ici, on considère le signe souscrit de la ligne 2 comme appartenant à la ligne 3. Si c’est bien cela, la forme du m̃ (plus semblable à la partie sup. de la voyelle au) est à noter. Serait le seul cas sur cette face ? Mais que faire du u sous le p de pom̃ ?
 	sā sidaḥ : cf. C. 92, B1 madā pu põ tana rayā sā sidaḥ yāṅ põ ku śrī sūryyavarmmadeva pu ciy.
 Currently, only part of the rā remains at the end of the line, the whole of ja and the -e marker having been lost subsequently to the creation of EFEO est. n. 141.-->
 tana rayā nan· sā sidaḥ yām̃ pu rāja⌈<lb break="no" 
-n="A4"/>pautra pu-nai sūryyalakṣmī Urām̃ catim̃
-<!--	catim̃ : AC-SA face p. 120 lit urām̃ catim̃.
+n="A4"/>pautra pu-nai sūryyalakṣmī Urām̃ ca<unclear reason="eccentric_ductus">th</unclear>im̃
+<!--	catim̃ : AC-SA face p. 120 lit urām̃ catim̃. but in C. 6 cathiy has been read. The consonant here resembles neither t nor th elsewhere in this inscription.
 	pāṇḍurāṅgeśa : pāṇḍuraṅgeśa Bergaigne.
-	Udbhava: -->
+	Udbhava di parama: cf. paramodbhava/paramotbhava di in other inscriptions. -->
  pāṇḍurāṅgeśa Udbhava di para<lb break="no" 
-n="A5"/>ma dvā Amvryak· vijaiya 
+n="A5"/>ma dā Amvryak· vijaiya 
 <!--	vijaiya pour vijaya ?
-	lecture AC, p.76 et 313 PDF : amvryak vijaya dunan saudaryya (beauté) rūpa dunan, (thiu/thau) samastra (tous) sāstragana (traités) dunan. -->
+	lecture AC, p.76 et 313 PDF : amvryak vijaya dunan saudaryya (beauté) rūpa dunan, (thu/thau) samastra (tous) sāstragana (traités) dunan. 
+	maybe dāsa mvryak·? cf. name miryak.
+-->
 dunan· saundaryya rūpa dunan· thum̃ samastaśāstrāga<lb break="no" 
 n="A6"/>ma dunan· dvaḥ karuṇā pu-pom̃ ta<supplied reason="omitted">na</supplied> rayā Indravarmma pu-pom̃ ku nan· dunan· kā sthāpa<lb 
 n="A7" break="no"/>nā <supplied reason="omitted">rū</supplied>pa yām̃
@@ -155,14 +157,17 @@ n="B2"/>ndriya sidaḥ k<unclear>ā</unclear>ma-krodha-lobha-moha-mada-
                </listApp>
          </div>
          <div type="translation" resp="part:argr">
- 	<!--translation encoded as per EGD §9.2 -->
+ <p>Hail! <foreign>Om</foreign> homage to Śiva!
+<supplied reason="subaudible">The year of the</supplied> Śaka-king 1200.
+In the reign of the lord of the great earth, Indravarman, my lord, that lord of the great earth had one beautiful queen, namely the lady royal grand-child, princess Sūryalakṣmī, native of Catiy Pāṇḍurāṅgeśa,<note>The same toponym also figures in <ref target="DHARMA_INSCIC00006.xml">C. 6.1</ref>, in only slightly different form.</note> born of the two best
+</p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
 <p>Bergaigne distinguished four hands: <q>Quatre écritures différentes, quoique du même temps.</q></p>
          </div>
         <div type="bibliography">
-           <p>Sanskrit words transcribed by Abel Bergaigne. Integrally edited here for the first time by Arlo Griffiths, using EFEIO estampages (127, n. 141) and orthophotos from a photogtammetric model.</p>
+           <p>Sanskrit words transcribed by Abel Bergaigne. Integrally edited here for the first time by Arlo Griffiths, using EFEO estampages (127, n. 141) and orthophotos from a photogrammetric model.</p>
         	<listBibl type="primary">
 <bibl n="B"><ptr target="bib:Bergaigne1888_01"/><citedRange unit="page">97-98</citedRange><citedRange unit="figure">389</citedRange></bibl>
         	</listBibl>

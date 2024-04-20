@@ -1,129 +1,119 @@
-<TEI 
-  xmlns="http://www.tei-c.org/ns/1da.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Geography for the Campā Inscriptions Project</title>
-      </titleStmt>
-      <publicationStmt>
-        <p>Publication Information</p>
-      </publicationStmt>
-      <sourceDesc>
-        <p>Information about the source</p>
-      </sourceDesc>
-    </fileDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <listPlace xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1da.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Geography for the Campā Inscriptions Project</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>Publication Information</p>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Information about the source</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<listPlace xmlns="http://www.tei-c.org/ns/1.0">
 
-        <!-- COUNTRY: Cambodia -->
-        <place type="country" xml:id="cambodia">
-          <placeName xml:lang="fr">Cambodia</placeName>
-          <idno type="URI">http://www.geonames.org/1831722/kingdom-of-cambodia.html</idno>
-          <idno type="URI">http://en.wikipedia.org/wiki/Cambodia</idno>
-          
-          <!-- PROVINCE: Kompong Siem (Cambodia) -->
-          <!-- I cannot find a province by this name in the Wikipedia list 2013-05-21 TRE: http://en.wikipedia.org/wiki/Provinces_of_Cambodia -->
-          <place type="province" xml:id="kompong-siem">
-            <placeName xml:lang="km-x-trsimple"
-              >Kompong Siem</placeName>
-            <placeName xml:lang="km-x-translit">Kaṃbaṅ’
-              Sīem</placeName>
-            <place type="settlement" xml:id="dambang-dek">
-              <placeName xml:lang="km-x-trsimple"
-                >Dâmbâng Dèk</placeName>
-              <placeName xml:lang="k-x-translit">Ṭaṃpaṅ
-                Ṭaek</placeName>
-            </place>
-          </place>
+				<!-- COUNTRY: Cambodia -->
+				<place type="country" xml:id="cambodia">
+					<placeName xml:lang="fr">Cambodia</placeName>
+					<idno type="URI">http://www.geonames.org/1831722/kingdom-of-cambodia.html</idno>
+					<idno type="URI">http://en.wikipedia.org/wiki/Cambodia</idno>
 
-          <!-- PROVINCE: Siem Reap (Cambodia) -->
-          <place type="province" xml:id="siem-rap">
-            <placeName xml:lang="km-x-trsimple">Siem
-              Reap</placeName>
-            <placeName xml:lang="k-x-translit">Sīem
-              Rāp</placeName>
-            <idno type="URI">http://www.geonames.org/1822213/siem-reap.html</idno>
-            <idno type="URI">http://en.wikipedia.org/wiki/Siem_Reap_Province</idno>
-            <place type="settlement" xml:id="prasat-crung">
-              <placeName xml:lang="km-x-trsimple"
-                >Prasat Chrung</placeName>
-              <placeName xml:lang="k-x-translit">Prāsād
-                Jruṅ</placeName>
-            </place>
-          </place>
-        </place>
+					<!-- PROVINCE: Kompong Siem (Cambodia) -->
+					<!-- I cannot find a province by this name in the Wikipedia list 2013-05-21 TRE: http://en.wikipedia.org/wiki/Provinces_of_Cambodia -->
+					<place type="province" xml:id="kompong-siem">
+						<placeName xml:lang="km-x-trsimple">Kompong Siem</placeName>
+						<placeName xml:lang="km-x-translit">Kaṃbaṅ’ Sīem</placeName>
+						<place type="settlement" xml:id="dambang-dek">
+							<placeName xml:lang="km-x-trsimple">Dâmbâng Dèk</placeName>
+							<placeName xml:lang="k-x-translit">Ṭaṃpaṅ Ṭaek</placeName>
+						</place>
+					</place>
 
-        <!-- COUNTRY: Vietnam -->
-        <place type="country" xml:id="vietnam">
+					<!-- PROVINCE: Siem Reap (Cambodia) -->
+					<place type="province" xml:id="siem-rap">
+						<placeName xml:lang="km-x-trsimple">Siem Reap</placeName>
+						<placeName xml:lang="k-x-translit">Sīem Rāp</placeName>
+						<idno type="URI">http://www.geonames.org/1822213/siem-reap.html</idno>
+						<idno type="URI">http://en.wikipedia.org/wiki/Siem_Reap_Province</idno>
+						<place type="settlement" xml:id="prasat-crung">
+							<placeName xml:lang="km-x-trsimple">Prasat Chrung</placeName>
+							<placeName xml:lang="k-x-translit">Prāsād Jruṅ</placeName>
+						</place>
+					</place>
+				</place>
 
-          <placeName xml:lang="fr">Vietnam</placeName>
-          <idno type="URI">http://www.geonames.org/1562822/socialist-republic-of-vietnam.html</idno>
-          <idno type="URI">http://en.wikipedia.org/wiki/Vietnam</idno>
+				<!-- COUNTRY: Vietnam -->
+				<place type="country" xml:id="vietnam">
 
-          <!-- PROVINCE: Bình Định -->
-          <place type="province" xml:id="binh-dinh-prov">
-            <placeName xml:lang="vi">Bình Định</placeName>
-            <idno type="URI">http://www.geonames.org/1587871/tinh-binh-ginh.html</idno>
-            <idno type="URI">http://en.wikipedia.org/wiki/Binh_Dinh_Province</idno>
-            
-            <place type="settlement" xml:id="an-ngai">
-              <placeName xml:lang="vi">An Ngãi</placeName>
-            </place>
-            <place type="settlement" xml:id="an-thuan">
-              <placeName xml:lang="vi">An Thuận</placeName>
-            </place>
-            <place type="settlement" xml:id="binh-dinh-vill">
-              <placeName xml:lang="vi">Bình Định</placeName>
-            </place>
-            <place type="settlement" xml:id="ca-xom">
-              <placeName xml:lang="vi">Cà Xơm</placeName>
-            </place>
-            <place type="settlement" xml:id="chanh-mam">
-              <placeName xml:lang="vi">Chánh Mẫm</placeName>
-            </place>
-            <place type="settlement" xml:id="dai-tin">
-              <placeName xml:lang="vi">Đại Tỉn</placeName>
-            </place>
-            <place type="site" xml:id="khanh-le">
-              <placeName xml:lang="vi">Khánh Lễ</placeName>
-            </place>
-            <place type="settlement" xml:id="kim-ngoc">
-              <placeName xml:lang="vi">Kim Ngọc</placeName>
-            </place>
-            <place type="settlement" xml:id="nui-ben-lang">
-              <placeName xml:lang="vi">Núi Ben Lang</placeName>
-            </place>
-            <place type="settlement" xml:id="phat-loi-nhon-hai">
-              <placeName xml:lang="en">Phật Lồi Pagoda on Nhơn Hải
-                peninsula</placeName>
-              <!-- maybe we will want to use more conventional nomenclature in due course -->
-            </place>
-            <place type="settlement" xml:id="thap-doi">
-              <placeName xml:lang="vi">Tháp Đôi</placeName>
-            </place>
-            <place type="settlement" xml:id="thanh-son">
-              <placeName xml:lang="vi">Thạnh Sơn</placeName>
-            </place>
-            <place type="settlement" xml:id="thap-mam">
-              <placeName xml:lang="vi">Tháp Mẫm</placeName>
-            </place>
-            <place type="settlement" xml:id="thap-thap">
-              <placeName xml:lang="vi">Tháp Thập</placeName>
-              <place type="settlement" xml:id="tho-loc">
-                <placeName xml:lang="vi">Thọ Lộc</placeName>
-              </place>
-            </place>
-          </place>
+					<placeName xml:lang="fr">Vietnam</placeName>
+					<idno type="URI">http://www.geonames.org/1562822/socialist-republic-of-vietnam.html</idno>
+					<idno type="URI">http://en.wikipedia.org/wiki/Vietnam</idno>
 
-          <!-- PROVINCE: Bình Thuận -->
-          <place type="province" xml:id="binh-thuan">
-            <placeName xml:lang="vi">Bình Thuận</placeName>
-            <idno type="URI">http://www.geonames.org/1581882/tinh-binh-thuan.html</idno>
-            <idno type="URI">http://en.wikipedia.org/wiki/Binh_Thuan_Province</idno>
-            
-            <!-- <place type="district" xml:id="thuan-bac">
+					<!-- PROVINCE: Bình Định -->
+					<place type="province" xml:id="binh-dinh-prov">
+						<placeName xml:lang="vi">Bình Định</placeName>
+						<idno type="URI">http://www.geonames.org/1587871/tinh-binh-ginh.html</idno>
+						<idno type="URI">http://en.wikipedia.org/wiki/Binh_Dinh_Province</idno>
+
+						<place type="settlement" xml:id="an-ngai">
+							<placeName xml:lang="vi">An Ngãi</placeName>
+						</place>
+						<place type="settlement" xml:id="an-thuan">
+							<placeName xml:lang="vi">An Thuận</placeName>
+						</place>
+						<place type="settlement" xml:id="binh-dinh-vill">
+							<placeName xml:lang="vi">Bình Định</placeName>
+						</place>
+						<place type="settlement" xml:id="ca-xom">
+							<placeName xml:lang="vi">Cà Xơm</placeName>
+						</place>
+						<place type="settlement" xml:id="chanh-mam">
+							<placeName xml:lang="vi">Chánh Mẫm</placeName>
+						</place>
+						<place type="settlement" xml:id="dai-tin">
+							<placeName xml:lang="vi">Đại Tỉn</placeName>
+						</place>
+						<place type="site" xml:id="khanh-le">
+							<placeName xml:lang="vi">Khánh Lễ</placeName>
+						</place>
+						<place type="settlement" xml:id="kim-ngoc">
+							<placeName xml:lang="vi">Kim Ngọc</placeName>
+						</place>
+						<place type="settlement" xml:id="nui-ben-lang">
+							<placeName xml:lang="vi">Núi Ben Lang</placeName>
+						</place>
+						<place type="settlement" xml:id="phat-loi-nhon-hai">
+							<placeName xml:lang="en">Phật Lồi Pagoda on Nhơn Hải peninsula</placeName>
+							<!-- maybe we will want to use more conventional nomenclature in due course -->
+						</place>
+						<place type="settlement" xml:id="thap-doi">
+							<placeName xml:lang="vi">Tháp Đôi</placeName>
+						</place>
+						<place type="settlement" xml:id="thanh-son">
+							<placeName xml:lang="vi">Thạnh Sơn</placeName>
+						</place>
+						<place type="settlement" xml:id="thap-mam">
+							<placeName xml:lang="vi">Tháp Mẫm</placeName>
+						</place>
+						<place type="settlement" xml:id="thap-thap">
+							<placeName xml:lang="vi">Tháp Thập</placeName>
+							<place type="settlement" xml:id="tho-loc">
+								<placeName xml:lang="vi">Thọ Lộc</placeName>
+							</place>
+						</place>
+					</place>
+
+					<!-- PROVINCE: Bình Thuận -->
+					<place type="province" xml:id="binh-thuan">
+						<placeName xml:lang="vi">Bình Thuận</placeName>
+						<idno type="URI">http://www.geonames.org/1581882/tinh-binh-thuan.html</idno>
+						<idno type="URI">http://en.wikipedia.org/wiki/Binh_Thuan_Province</idno>
+
+						<!-- <place type="district" xml:id="thuan-bac">
               <placeName xml:lang="vi">Thuận Bắc</placeName>
               <place type="commune" xml:id="bac-phong">
                 <placeName>Bắc Phong</placeName>
@@ -134,566 +124,598 @@
               </place> 
             These places currently part of Ning Thuan province
             -->
-            <place type="settlement" xml:id="pho-hai">
-              <placeName xml:lang="vi">Phổ Hãi</placeName>
-            </place>
-          </place>
+						<place type="settlement" xml:id="pho-hai">
+							<placeName xml:lang="vi">Phổ Hãi</placeName>
+						</place>
+					</place>
 
-          <!-- PROVINCE:  Đắk Lắk -->
-          <place type="province" xml:id="dak-lak">
-            <placeName xml:lang="vi">Đắk Lắk</placeName>
-            <idno type="URI">http://www.geonames.org/1584169/tinh-gak-lak.html</idno>
-            <idno type="URI">http://en.wikipedia.org/wiki/Đắk_Lắk_Province</idno>
-            
-              <place type="settlement" xml:id="ban-metruot">
-                <placeName type="former" xml:lang="vi">Ban Metruot</placeName>
-              </place>
-            </place>
+					<!-- PROVINCE:  Đắk Lắk -->
+					<place type="province" xml:id="dak-lak">
+						<placeName xml:lang="vi">Đắk Lắk</placeName>
+						<idno type="URI">http://www.geonames.org/1584169/tinh-gak-lak.html</idno>
+						<idno type="URI">http://en.wikipedia.org/wiki/Đắk_Lắk_Province</idno>
 
-          <!-- PROVINCE: Đồng Nai -->
-          <place type="province" xml:id="dong-nai">
-            <placeName xml:lang="vi">Đồng Nai</placeName>
-            <idno type="URI">http://www.geonames.org/1582720/tinh-gong-nai.html</idno>
-            <idno type="URI">http://en.wikipedia.org/wiki/%C4%90%E1%BB%93ng_Nai_Province</idno>
-            
-            <place type="city" xml:id="bien-hoa">
-              <placeName xml:lang="vi">Biên Hòa</placeName>
-              <location>
-                <geo>10.98333 106.93333</geo>
-                <bibl>
-                  <title>GeoNames: Biên Hòa, Vietnam</title>
-                  <idno type="URI">http://www.geonames.org/1587923/bien-hoa.html</idno>
-                </bibl>
-              </location>
-              <idno type="URI">http://www.geonames.org/1587923/bien-hoa.html</idno>
-              <idno type="URI">http://en.wikipedia.org/wiki/Bien_Hoa</idno>       
-              <bibl xml:id="bien-hoa-bibl1"></bibl>
-              <place type="ward" xml:id="hoa-binh">
-                <placeName xml:lang="vi">Hòa Bình</placeName>
-                <place type="pagoda" xml:id="buu-son">
-                  <placeName xml:lang="vi">Bửu Sơn</placeName>
-                </place>
-                <!-- pre-1975 administrative divisions associated with this site: thôn Bình Thành, xã Bình Trứơc, quận Đức Tu, tỉnh Biên Hòa -->
-              </place>   
-              <place type="settlement" xml:id="binh-truoc">
-                <placeName type="former" xml:lang="vi">Bình Trươc</placeName>
-                <!-- Geonames records a Xóm Bình Trước: http://www.geonames.org/1561964/xom-binh-truoc.html -->
-              </place>
-            </place>
-          </place>
- 
-          <!-- PROVINCE : Gia Lai -->
-          <place type="province" xml:id="gia-lai">
-            <placeName xml:lang="vi">Gia Lai</placeName>
-            <idno type="URI">http://www.geonames.org/1581088/gia-lai.html</idno>
-            <idno type="URI">http://en.wikipedia.org/wiki/Gia_Lai_province</idno>
-            
-            <place type="temple" xml:id="drang-lai">
-              <placeName xml:lang="cjm">Drang Lai</placeName><!-- Old spelling: Draṅ Lai -->
-            </place>
-            <place type="temple" xml:id="yang-praong">
-              <placeName xml:lang="cjm">Yang Praong</placeName><!-- Old spelling: Yaṅ Proṅ -->
-            </place>
-          </place>
+						<place type="settlement" xml:id="ban-metruot">
+							<placeName type="former" xml:lang="vi">Ban Metruot</placeName>
+						</place>
+					</place>
+
+					<!-- PROVINCE: Đồng Nai -->
+					<place type="province" xml:id="dong-nai">
+						<placeName xml:lang="vi">Đồng Nai</placeName>
+						<idno type="URI">http://www.geonames.org/1582720/tinh-gong-nai.html</idno>
+						<idno type="URI">http://en.wikipedia.org/wiki/%C4%90%E1%BB%93ng_Nai_Province</idno>
+
+						<place type="city" xml:id="bien-hoa">
+							<placeName xml:lang="vi">Biên Hòa</placeName>
+							<location>
+								<geo>10.98333 106.93333</geo>
+								<bibl>
+									<title>GeoNames: Biên Hòa, Vietnam</title>
+									<idno type="URI">http://www.geonames.org/1587923/bien-hoa.html</idno>
+								</bibl>
+							</location>
+							<idno type="URI">http://www.geonames.org/1587923/bien-hoa.html</idno>
+							<idno type="URI">http://en.wikipedia.org/wiki/Bien_Hoa</idno>
+							<bibl xml:id="bien-hoa-bibl1"/>
+							<place type="ward" xml:id="hoa-binh">
+								<placeName xml:lang="vi">Hòa Bình</placeName>
+								<place type="pagoda" xml:id="buu-son">
+									<placeName xml:lang="vi">Bửu Sơn</placeName>
+								</place>
+								<!-- pre-1975 administrative divisions associated with this site: thôn Bình Thành, xã Bình Trứơc, quận Đức Tu, tỉnh Biên Hòa -->
+							</place>
+							<place type="settlement" xml:id="binh-truoc">
+								<placeName type="former" xml:lang="vi">Bình Trươc</placeName>
+								<!-- Geonames records a Xóm Bình Trước: http://www.geonames.org/1561964/xom-binh-truoc.html -->
+							</place>
+						</place>
+					</place>
+
+					<!-- PROVINCE : Gia Lai -->
+					<place type="province" xml:id="gia-lai">
+						<placeName xml:lang="vi">Gia Lai</placeName>
+						<idno type="URI">http://www.geonames.org/1581088/gia-lai.html</idno>
+						<idno type="URI">http://en.wikipedia.org/wiki/Gia_Lai_province</idno>
+
+						<place type="temple" xml:id="drang-lai">
+							<placeName xml:lang="cjm">Drang Lai</placeName>
+							<!-- Old spelling: Draṅ Lai -->
+						</place>
+						<place type="temple" xml:id="yang-praong">
+							<placeName xml:lang="cjm">Yang Praong</placeName>
+							<!-- Old spelling: Yaṅ Proṅ -->
+						</place>
+					</place>
 
 
-          <!-- PROVINCE : Khánh Hoà -->
-          <place type="province" xml:id="khanh-hoa">
-            <placeName xml:lang="vi">Khánh Hoà</placeName>
-            <idno type="URI">http://www.geonames.org/1579634/tinh-khanh-hoa.html</idno>
-            <idno type="URI">http://en.wikipedia.org/wiki/Kh%C3%A1nh_H%C3%B2a_Province</idno>
-            
-            <place type="temple" xml:id="po-nagar-nha-trang">
-              <placeName xml:lang="en">Po Nagar at Nha Trang</placeName>
-            </place>
-            <place type="settlement" xml:id="vo-canh">
-              <placeName xml:lang="vi">Võ Cạnh</placeName>
-            </place>
-            <place type="district" xml:id="cam-ranh-thi-xa">
-              <placeName xml:lang="vi">Cam Ranh</placeName>
-              <!-- this is level 'thị xã' -->
-              <place type="commune" xml:id="cam-thinh-dong">
-                <placeName xml:lang="vi">Cam Thịnh Đông</placeName>
-                <place type="settlement" xml:id="hoa-diem">
-                  <placeName xml:lang="vi">Hoà Diêm</placeName>
-                </place>
-              </place>
-            </place>
-            <place type="district" xml:id="ninh-hoa">
-              <placeName xml:lang="vi">Ninh Hoà</placeName>
-              <place type="commune" xml:id="ninh-phu">
-                <placeName xml:lang="vi">Ninh Phú</placeName>
-                <place type="settlement" xml:id="le-cam">
-                  <placeName xml:lang="vi">Lệ Cam</placeName>
-                </place>
-              </place>
-            </place>
-          </place>
+					<!-- PROVINCE : Khánh Hoà -->
+					<place type="province" xml:id="khanh-hoa">
+						<placeName xml:lang="vi">Khánh Hoà</placeName>
+						<idno type="URI">http://www.geonames.org/1579634/tinh-khanh-hoa.html</idno>
+						<idno type="URI">http://en.wikipedia.org/wiki/Kh%C3%A1nh_H%C3%B2a_Province</idno>
 
-          <!-- PROVINCE: Kon Tum -->
-          <place type="province" xml:id="kon-tum">            
-            <placeName xml:lang="vi">Kon Tum</placeName>
-            <idno type="URI">http://www.geonames.org/1565088/kon-tum.html</idno>
-            <idno type="URI">http://en.wikipedia.org/wiki/Kon_Tum_province</idno>
-          <!--   <place type="settlement" xml:id="ban-metruot">
+						<place type="temple" xml:id="po-nagar-nha-trang">
+							<placeName xml:lang="en">Po Nagar at Nha Trang</placeName>
+						</place>
+						<place type="settlement" xml:id="vo-canh">
+							<placeName xml:lang="vi">Võ Cạnh</placeName>
+						</place>
+						<place type="district" xml:id="cam-ranh-thi-xa">
+							<placeName xml:lang="vi">Cam Ranh</placeName>
+							<!-- this is level 'thị xã' -->
+							<place type="commune" xml:id="cam-thinh-dong">
+								<placeName xml:lang="vi">Cam Thịnh Đông</placeName>
+								<place type="settlement" xml:id="hoa-diem">
+									<placeName xml:lang="vi">Hoà Diêm</placeName>
+								</place>
+							</place>
+						</place>
+						<place type="district" xml:id="ninh-hoa">
+							<placeName xml:lang="vi">Ninh Hoà</placeName>
+							<place type="commune" xml:id="ninh-phu">
+								<placeName xml:lang="vi">Ninh Phú</placeName>
+								<place type="settlement" xml:id="le-cam">
+									<placeName xml:lang="vi">Lệ Cam</placeName>
+								</place>
+							</place>
+						</place>
+					</place>
+
+					<!-- PROVINCE: Kon Tum -->
+					<place type="province" xml:id="kon-tum">
+						<placeName xml:lang="vi">Kon Tum</placeName>
+						<idno type="URI">http://www.geonames.org/1565088/kon-tum.html</idno>
+						<idno type="URI">http://en.wikipedia.org/wiki/Kon_Tum_province</idno>
+						<!--   <place type="settlement" xml:id="ban-metruot">
               <placeName xml:lang="vi">Ban Metruot</placeName>
             </place> MOVED TO DAK LAK -->
-            <place type="settlement" xml:id="kon-klor">
-              <placeName xml:lang="vi">Kon Klor</placeName>
-            </place>
-          </place>
+						<place type="settlement" xml:id="kon-klor">
+							<placeName xml:lang="vi">Kon Klor</placeName>
+						</place>
+					</place>
 
-          <!-- PROVINCE: Ninh Thuân -->
-          <place type="province" xml:id="ninh-thuan">
-            <placeName xml:lang="vi">Ninh Thuân</placeName>
-            <idno type="URI">http://www.geonames.org/1559971/tinh-ninh-thuan.html</idno>
-            <idno type="URI">http://en.wikipedia.org/wiki/Ninh_Thuan_province</idno>
-            
-            <place type="settlement" xml:id="bakul">
-              <placeName xml:lang="cjm">Bakul</placeName>
-            </place>
-            <place type="mountain" xml:id="cek-yang">
-              <placeName xml:lang="cjm">Cek Yang</placeName><!-- Old spelling: Čơk Yaṅ -->
-            </place>
-            <place type="settlement" xml:id="chuong-my">
-              <placeName xml:lang="vi">Chương Mỹ</placeName>
-            </place>
-            <place type="settlement" xml:id="chung-my">
-              <placeName xml:lang="vi">Chung Mỹ</placeName>
-            </place>
-            <place type="settlement" xml:id="cho-dinh-nt">
-              <placeName xml:lang="vi">Cho Dinh</placeName>
-            </place> 
-            <place type="settlement" xml:id="da-trang">
-              <placeName xml:lang="vi">Đá Trắng</placeName>
-            </place>
-            <place type="coppice" xml:id="glai-klaong-anak">
-              <placeName xml:lang="cjm">Glai Klaong Anâk</placeName><!-- Old spelling: Glai Klauṅ Anơk -->
-            </place>
-            <place type="settlement" xml:id="glai-lamau">
-              <placeName xml:lang="cjm">Glai Lamau</placeName><!-- alternative old spelling: Glai Lomov -->
-            </place>
-            <place type="settlement" xml:id="lamnga">
-              <placeName xml:lang="cjm">Lamngâ</placeName><!-- old spelling: Lomṅơ -->
-            </place>
-            <place type="town" xml:id="phan-rang">
-              <placeName xml:lang="vi">Phan Rang</placeName>
-              <location>
-                <geo>11.56667 108.98333</geo>
-                <bibl>
-                  <title>GeoNames: Phan Rang-Tháp Chàm, Vietnam</title>
-                  <idno type="URI">http://www.geonames.org/1571067/phan-rang-thap-cham.html</idno>
-                </bibl>
-              </location>
-              <idno type="URI">http://www.geonames.org/1571067/phan-rang-thap-cham.html</idno>
-              <idno type="URI">http://en.wikipedia.org/wiki/Phan_Rang_%E2%80%93_Th%C3%A1p_Ch%C3%A0m</idno>
-            </place>
-            <place type="temple" xml:id="po-klaong-girai">
-              <placeName xml:lang="cjm">Po Klaong Girai</placeName><!-- old spelling: Po Klauṅ Garai -->
-            </place>
-            <place type="settlement" xml:id="po-mah">
-              <placeName xml:lang="cjm">Po Mâh</placeName><!-- old spelling: Po Meḥ -->
-            </place>
-            <place type="settlement" xml:id="po-nagar-mong-duc">
-              <placeName xml:lang="en">Po Nagar at Mông Đưc</placeName>
-            </place>
-            <place type="settlement" xml:id="po-rame">
-              <placeName xml:lang="cjm">Po Ramé</placeName><!-- old spelling: Po Romē -->
-            </place>
-            <place type="settlement" xml:id="po-sah">
-              <placeName xml:lang="cjm">Po Sah</placeName><!-- old spelling: Po Saḥ -->
-            </place>
-            <place type="settlement" xml:id="thanh-hieu">
-              <placeName xml:lang="vi">Thanh Hiểu</placeName>
-            </place>
-            <place type="settlement" xml:id="yang-kur">
-              <placeName xml:lang="vi">Yang Kur</placeName><!-- old spelling: Yaṅ Kur -->
-            </place>
-            <place type="district" xml:id="ninh-hai">
-              <placeName xml:lang="vi">Ninh Haỉ</placeName>
-              <place type="commune" xml:id="thanh-hai">
-                <placeName xml:lang="vi">Thanh Haỉ</placeName>
-                <place type="settlement" xml:id="my-hiep">
-                  <placeName xml:lang="vi">Mỷ Hiêp</placeName>
-                </place>
-              </place>
-              <place type="commune" xml:id="tran-hai">
-                <placeName xml:lang="vi">Trấn Haỉ</placeName>
-                <place type="settlement" xml:id="ca-du">
-                  <placeName xml:lang="vi">Cà Đù</placeName>
-                </place>
-              </place>
-            </place>
-            <place type="district" xml:id="ninh-phuoc">
-              <placeName xml:lang="vi">Ninh Phước</placeName>
-              <place type="commune" xml:id="phuoc-son">
-                <placeName xml:lang="vi">Phước Sơn</placeName>
-                <place type="village" xml:id="phuoc-thien">
-                  <placeName xml:lang="vi">Phươc Thiện</placeName>
-                </place>
-              </place>
-              <place type="settlement" xml:id="da-ne">
-                <placeName xml:lang="vi" xml:id="name-da-ne">Đá Nẻ</placeName>
-                <placeName xml:lang="cjm" xml:id="name-batau-tablah">Batau Tablah</placeName>
-              </place>
-            </place>
-            <place type="district" xml:id="thuan-bac">
-              <placeName xml:lang="vi">Thuận Bắc</placeName>
-              <place type="commune" xml:id="bac-phong">
-                <placeName xml:lang="vi">Bắc Phong</placeName>
-                <place type="village" xml:id="ba-thap">
-                    <placeName xml:lang="vi">Ba Tháp</placeName>
-                  <place type="temple" xml:id="hoa-lai">
-                    <placeName xml:lang="vi">Hoà Lai</placeName>
-                  </place>
-                </place>
-              </place>
-              <place type="commune" xml:id="bac-son">
-                <placeName xml:lang="vi">Bắc Sơn</placeName>
-                <place type="village" xml:id="xo-bang">
-                  <placeName xml:lang="vi">Xóm Bằng</placeName>
-                  <place type="cave" xml:id="po-gha">
-                    <placeName xml:lang="vi">Po Gha</placeName>
-                  </place>
-                </place>
-              </place>
-            </place>
-          </place>
+					<!-- PROVINCE: Ninh Thuân -->
+					<place type="province" xml:id="ninh-thuan">
+						<placeName xml:lang="vi">Ninh Thuân</placeName>
+						<idno type="URI">http://www.geonames.org/1559971/tinh-ninh-thuan.html</idno>
+						<idno type="URI">http://en.wikipedia.org/wiki/Ninh_Thuan_province</idno>
 
-          <!-- PROVINCE: Phú Yên -->
-          <place type="province" xml:id="phu-yen">
-            <placeName xml:lang="vi">Phú Yên</placeName>
-            <idno type="URI">http://www.geonames.org/1569805/tinh-phu-yen.html</idno>
-            <idno type="URI">http://en.wikipedia.org/wiki/Phu_Yen_province</idno>
-          	
-	<place type="settlement" xml:id="nhan-thap-py">
-          		<placeName xml:lang="vi">Nhạn Tháp</placeName>
-          	</place>
-            <place type="settlement" xml:id="cho-dinh-py">
-              <placeName xml:lang="vi">Chơ Đinh</placeName>
-            </place>
-            <place type="settlement" xml:id="phuoc-tinh">
-              <placeName xml:lang="vi">Phươc Tịnh</placeName>
-            </place>
-            <place type="district" xml:id="tuy-hoa">
-              <placeName xml:lang="vi">Tuy Hòa</placeName>
-            </place>
-          </place>
+						<place type="settlement" xml:id="bakul">
+							<placeName xml:lang="cjm">Bakul</placeName>
+						</place>
+						<place type="mountain" xml:id="cek-yang">
+							<placeName xml:lang="cjm">Cek Yang</placeName>
+							<!-- Old spelling: Čơk Yaṅ -->
+						</place>
+						<place type="settlement" xml:id="chuong-my">
+							<placeName xml:lang="vi">Chương Mỹ</placeName>
+						</place>
+						<place type="settlement" xml:id="chung-my">
+							<placeName xml:lang="vi">Chung Mỹ</placeName>
+						</place>
+						<place type="settlement" xml:id="cho-dinh-nt">
+							<placeName xml:lang="vi">Cho Dinh</placeName>
+						</place>
+						<place type="settlement" xml:id="da-trang">
+							<placeName xml:lang="vi">Đá Trắng</placeName>
+						</place>
+						<place type="coppice" xml:id="glai-klaong-anak">
+							<placeName xml:lang="cjm">Glai Klaong Anâk</placeName>
+							<!-- Old spelling: Glai Klauṅ Anơk -->
+						</place>
+						<place type="settlement" xml:id="glai-lamau">
+							<placeName xml:lang="cjm">Glai Lamau</placeName>
+							<!-- alternative old spelling: Glai Lomov -->
+						</place>
+						<place type="settlement" xml:id="lamnga">
+							<placeName xml:lang="cjm">Lamngâ</placeName>
+							<!-- old spelling: Lomṅơ -->
+						</place>
+						<place type="town" xml:id="phan-rang">
+							<placeName xml:lang="vi">Phan Rang</placeName>
+							<location>
+								<geo>11.56667 108.98333</geo>
+								<bibl>
+									<title>GeoNames: Phan Rang-Tháp Chàm, Vietnam</title>
+									<idno type="URI">http://www.geonames.org/1571067/phan-rang-thap-cham.html</idno>
+								</bibl>
+							</location>
+							<idno type="URI">http://www.geonames.org/1571067/phan-rang-thap-cham.html</idno>
+							<idno type="URI">http://en.wikipedia.org/wiki/Phan_Rang_%E2%80%93_Th%C3%A1p_Ch%C3%A0m</idno>
+						</place>
+						<place type="temple" xml:id="po-klaong-girai">
+							<placeName xml:lang="cjm">Po Klaong Girai</placeName>
+							<!-- old spelling: Po Klauṅ Garai -->
+						</place>
+						<place type="settlement" xml:id="po-mah">
+							<placeName xml:lang="cjm">Po Mâh</placeName>
+							<!-- old spelling: Po Meḥ -->
+						</place>
+						<place type="settlement" xml:id="po-nagar-mong-duc">
+							<placeName xml:lang="en">Po Nagar at Mông Đưc</placeName>
+						</place>
+						<place type="settlement" xml:id="po-rame">
+							<placeName xml:lang="cjm">Po Ramé</placeName>
+							<!-- old spelling: Po Romē -->
+						</place>
+						<place type="settlement" xml:id="po-sah">
+							<placeName xml:lang="cjm">Po Sah</placeName>
+							<!-- old spelling: Po Saḥ -->
+						</place>
+						<place type="settlement" xml:id="thanh-hieu">
+							<placeName xml:lang="vi">Thanh Hiểu</placeName>
+						</place>
+						<place type="settlement" xml:id="yang-kur">
+							<placeName xml:lang="vi">Yang Kur</placeName>
+							<!-- old spelling: Yaṅ Kur -->
+						</place>
+						<place type="district" xml:id="ninh-hai">
+							<placeName xml:lang="vi">Ninh Haỉ</placeName>
+							<place type="commune" xml:id="thanh-hai">
+								<placeName xml:lang="vi">Thanh Haỉ</placeName>
+								<place type="settlement" xml:id="my-hiep">
+									<placeName xml:lang="vi">Mỷ Hiêp</placeName>
+								</place>
+							</place>
+							<place type="commune" xml:id="tran-hai">
+								<placeName xml:lang="vi">Trấn Haỉ</placeName>
+								<place type="settlement" xml:id="ca-du">
+									<placeName xml:lang="vi">Cà Đù</placeName>
+								</place>
+							</place>
+						</place>
+						<place type="district" xml:id="ninh-phuoc">
+							<placeName xml:lang="vi">Ninh Phước</placeName>
+							<place type="commune" xml:id="phuoc-son">
+								<placeName xml:lang="vi">Phước Sơn</placeName>
+								<place type="village" xml:id="phuoc-thien">
+									<placeName xml:lang="vi">Phươc Thiện</placeName>
+								</place>
+							</place>
+							<place type="settlement" xml:id="da-ne">
+								<placeName xml:lang="vi" xml:id="name-da-ne">Đá Nẻ</placeName>
+								<placeName xml:lang="cjm" xml:id="name-batau-tablah">Batau Tablah</placeName>
+							</place>
+						</place>
+						<place type="district" xml:id="thuan-bac">
+							<placeName xml:lang="vi">Thuận Bắc</placeName>
+							<place type="commune" xml:id="bac-phong">
+								<placeName xml:lang="vi">Bắc Phong</placeName>
+								<place type="village" xml:id="ba-thap">
+									<placeName xml:lang="vi">Ba Tháp</placeName>
+									<place type="temple" xml:id="hoa-lai">
+										<placeName xml:lang="vi">Hoà Lai</placeName>
+									</place>
+								</place>
+							</place>
+							<place type="commune" xml:id="bac-son">
+								<placeName xml:lang="vi">Bắc Sơn</placeName>
+								<place type="village" xml:id="xo-bang">
+									<placeName xml:lang="vi">Xóm Bằng</placeName>
+									<place type="cave" xml:id="po-gha">
+										<placeName xml:lang="vi">Po Gha</placeName>
+									</place>
+								</place>
+							</place>
+						</place>
+					</place>
 
-          <!-- PROVINCE: Quảng Bình -->
-          <place type="province" xml:id="quang-binh">
-            <placeName xml:lang="vi">Quảng Bình</placeName>
-            <idno type="URI">http://www.geonames.org/1568839/tinh-quang-binh.html</idno>
-            <idno type="URI">http://en.wikipedia.org/wiki/Quang_Binh_province</idno>
-            
-            <place type="district" xml:id="quang-trach">
-              <placeName xml:id="vn">Quảng Trạch</placeName>
-              <place type="settlement" xml:id="bac-ha">
-              <placeName xml:lang="vi">Bac Hạ</placeName>
-              <place type="river" xml:id="cua-ron">
-                <placeName xml:lang="vn">Cửa Rồn</placeName>
-                </place>
-              </place>
-            </place>
-            </place>
-            <place type="settlement" xml:id="dai-huu">
-              <placeName xml:lang="vi">Đại Hữu</placeName>
-            </place>
-            <place type="settlement" xml:id="lac-son-ou-minh-am">
-              <!-- this problem remains to be solved. William's comment, that is quoted below, does not really help: "12. Lạc Sơn is the name of a cave or cave mountain, while the name Minh
+					<!-- PROVINCE: Phú Yên -->
+					<place type="province" xml:id="phu-yen">
+						<placeName xml:lang="vi">Phú Yên</placeName>
+						<idno type="URI">http://www.geonames.org/1569805/tinh-phu-yen.html</idno>
+						<idno type="URI">http://en.wikipedia.org/wiki/Phu_Yen_province</idno>
+
+						<place type="settlement" xml:id="nhan-thap-py">
+							<placeName xml:lang="vi">Nhạn Tháp</placeName>
+						</place>
+						<place type="settlement" xml:id="cho-dinh-py">
+							<placeName xml:lang="vi">Chơ Đinh</placeName>
+						</place>
+						<place type="settlement" xml:id="phuoc-tinh">
+							<placeName xml:lang="vi">Phươc Tịnh</placeName>
+						</place>
+						<place type="district" xml:id="song-cau">
+							<placeName xml:lang="vi">Sông Cầu</placeName>
+							<place type="commune" xml:id="xuan-canh">
+								<placeName xml:lang="vi">Xuân Cảnh</placeName>
+								<place type="village" xml:id="hoa-thanh">
+									<placeName xml:lang="vi">Hòa Thạnh</placeName>
+									<place type="hamlet" xml:id="moo">
+										<placeName xml:lang="vi">Mò o</placeName></place>
+								</place>
+							</place>
+						</place>
+						<place type="district" xml:id="tay-hoa">
+							<placeName xml:lang="vi">Tây Hòa</placeName>
+<place type="commune" xml:id="hoa-phong">
+	<placeName xml:lang="vi">Hòa Phong</placeName>
+<place type="village">
+	<placeName xml:lang="vi">Mỹ Thạnh Đông</placeName>
+	<place type="site"><placeName xml:lang="vi">Núi Bà</placeName></place>
+</place>
+</place>
+						</place>
+						<place type="district" xml:id="tuy-hoa">
+							<placeName xml:lang="vi">Tuy Hòa</placeName>
+						</place>
+					</place>
+
+					<!-- PROVINCE: Quảng Bình -->
+					<place type="province" xml:id="quang-binh">
+						<placeName xml:lang="vi">Quảng Bình</placeName>
+						<idno type="URI">http://www.geonames.org/1568839/tinh-quang-binh.html</idno>
+						<idno type="URI">http://en.wikipedia.org/wiki/Quang_Binh_province</idno>
+
+						<place type="district" xml:id="quang-trach">
+							<placeName xml:id="vn">Quảng Trạch</placeName>
+							<place type="settlement" xml:id="bac-ha">
+								<placeName xml:lang="vi">Bac Hạ</placeName>
+								<place type="river" xml:id="cua-ron">
+									<placeName xml:lang="vn">Cửa Rồn</placeName>
+								</place>
+							</place>
+						</place>
+					</place>
+					<place type="settlement" xml:id="dai-huu">
+						<placeName xml:lang="vi">Đại Hữu</placeName>
+					</place>
+					<place type="settlement" xml:id="lac-son-ou-minh-am">
+						<!-- this problem remains to be solved. William's comment, that is quoted below, does not really help: "12. Lạc Sơn is the name of a cave or cave mountain, while the name Minh
         Cầm or Minh Cằm is not known to me." (email of 20/06/2011) -->
-              <placeName xml:lang="vi">Lạc Sơn ou Minh-ầm</placeName>
-              <!-- this problem remains to be solved. William's comment, that is quoted below, does not really help: "12. Lạc Sơn is the name of a cave or cave mountain, while the name Minh
+						<placeName xml:lang="vi">Lạc Sơn ou Minh-ầm</placeName>
+						<!-- this problem remains to be solved. William's comment, that is quoted below, does not really help: "12. Lạc Sơn is the name of a cave or cave mountain, while the name Minh
           Cầm or Minh Cằm is not known to me." (email of 20/06/2011) -->
-            </place>
-            <place type="settlement" xml:id="mi-duc">
-              <placeName xml:lang="vi">Mỹ Đưc</placeName>
-            </place>
-            <place type="settlement" xml:id="phong-nha">
-              <placeName xml:lang="vi">Phong Nhà</placeName>
-            </place>
-          </place>
+					</place>
+					<place type="settlement" xml:id="mi-duc">
+						<placeName xml:lang="vi">Mỹ Đưc</placeName>
+					</place>
+					<place type="settlement" xml:id="phong-nha">
+						<placeName xml:lang="vi">Phong Nhà</placeName>
+					</place>
+				</place>
 
-          <!-- PROVINCE: Quảng Nam -->
-          <place type="province" xml:id="quang-nam">
-            <placeName xml:lang="vi">Quảng Nam</placeName>
-            <idno type="URI">http://www.geonames.org/1905516/tinh-quang-nam.html</idno>
-            <idno type="URI">http://en.wikipedia.org/wiki/Quang_Nam_province</idno>
-            
-            <place type="settlement" xml:id="an-my">
-              <placeName xml:lang="vi">An Mỹ</placeName>
-            </place>
-            <place type="settlement" xml:id="an-my-dong">
-              <placeName xml:lang="vi">An My Đông</placeName>
-              <!-- confirm absence of tones on first two syllables -->
-            </place>
-            <place type="settlement" xml:id="an-ninh">
-              <placeName xml:lang="vi">An Ninh</placeName>
-            </place>
-            <place type="settlement" xml:id="an-thai">
-              <!-- same settlement as following?-->
-              <placeName xml:lang="vi">An Thai</placeName>
-            </place>
-            <place type="settlement" xml:id="an-thai-1">
-              <placeName xml:lang="vi">An Thái</placeName>
-              <!-- same settlement as preceding? -->
-            </place>
-            <place type="settlement" xml:id="an-thinh">
-              <placeName xml:lang="vi">An Thinh</placeName>
-            </place>
-            <place type="settlement" xml:id="ban-lanh">
-              <placeName xml:lang="vi">Bàn Lãnh</placeName>
-            </place>
-            <place type="settlement" xml:id="bang-an">
-              <placeName xml:lang="vi">Bằng An</placeName>
-            </place>
-            <place type="settlement" xml:id="bo-mung">
-              <placeName xml:lang="vi">Bồ Mưng</placeName>
-            </place>
-            <place type="settlement" xml:id="cam-van">
-              <placeName xml:lang="vi">Cẩm Vân</placeName>
-            </place>
-            <place type="settlement" xml:id="chiem-son">
-              <placeName xml:lang="vi">Chiêm Sơn</placeName>
-            </place>
-            <place type="valley" xml:id="chiem-son-tay">
-              <placeName xml:lang="vi">Chiêm Sơn Tây</placeName>
-            </place>
-            <!-- place elsewhere? -->
-            <place type="settlement" xml:id="dong-duong">
-              <placeName xml:lang="vi">Đồng Dương</placeName>
-            </place>
-            <place type="settlement" xml:id="ha-lam">
-              <placeName xml:lang="vi">Hà Lam</placeName>
-            </place>
-            <place type="settlement" xml:id="hoa-que">
-              <placeName xml:lang="vi">Hoá Quê</placeName>
-            </place>
-            <place type="settlement" xml:id="hon-cut">
-              <placeName xml:lang="vi">Hòn Cụt</placeName>
-            </place>
-            <place type="settlement" xml:id="khanh-tho-dong">
-              <placeName xml:lang="vi">Khánh Thọ Đong</placeName>
-            </place>
-            <place type="settlement" xml:id="khuong-my">
-              <placeName xml:lang="vi">Khướng Mỷ</placeName>
-            </place>
-            <place type="site" xml:id="my-son">
-              <placeName xml:lang="vi">Mỹ Sơn</placeName>
-            </place>
-            <place type="settlement" xml:id="phu-hanh">
-              <placeName xml:lang="vi">Phu Hanh</placeName>
-            </place>
-            <place type="settlement" xml:id="phu-hanh-tay">
-              <placeName xml:lang="vi">Phú Hanh Tây</placeName>
-            </place>
-            <place type="settlement" xml:id="phu-nhuan">
-              <placeName xml:lang="vi">Phu Nhuan</placeName>
-            </place>
-            <place type="settlement" xml:id="phu-son">
-              <placeName xml:lang="vi">Phú Sơn</placeName>
-            </place>
-            <place type="settlement" xml:id="phu-than">
-              <placeName xml:lang="vi">Phú Thận</placeName>
-            </place>
-            <place type="settlement" xml:id="samo">
-              <placeName xml:lang="vi">Samơ</placeName>
-              <!-- confirm not Sa Mơ -->
-            </place>
-            <place type="settlement" xml:id="thach-bich">
-              <placeName xml:lang="vi">Thạch Bích</placeName>
-            </place>
-            <place type="settlement" xml:id="thu-bon">
-              <placeName xml:lang="vi">Thu Bồn</placeName>
-            </place>
-            <place type="settlement" xml:id="tra-kieu">
-              <placeName xml:lang="vi">Trà Kiệu</placeName>
-            </place>
-            <place type="settlement" xml:id="trung-phuoc">
-              <placeName xml:lang="vi">Trung Phươc</placeName>
-            </place>
-            <place type="settlement" xml:id="vhut-giap">
-              <placeName xml:lang="vi">Vhựt Giáp</placeName>
-            </place><!-- Is the spelling Vhut correct? -->
-            <place type="settlement" xml:id="vinh-trinh">
-              <placeName xml:lang="vi">Vinh Trinh</placeName>
-            </place>
-            <place type="district" xml:id="dai-loc">
-              <placeName xml:lang="vi">Đại Lộc</placeName>
-            </place>
-            <place type="district" xml:id="dien-ban">
-              <placeName xml:lang="vi">Điện Bàn</placeName>
-              <place type="settlement" xml:id="la-tho">
-                <placeName xml:lang="vi">La Thọ</placeName>
-              </place>
-            </place>
-            <place type="district" xml:id="duy-xuyen">
-              <placeName xml:lang="vi">Duy Xuyên</placeName>
-              <place type="commune" xml:id="duy-trinh">
-                <placeName xml:lang="vi">Duy Trinh</placeName>
-              </place>
-                <place type="commune" xml:id="canton-an-li">
-                  <placeName xml:lang="vi">canton An-li</placeName>
-                  <!-- this place name seems unusual -->
-                  <place type="settlement" xml:id="an-thanh">
-                    <placeName xml:lang="vi">An thanh</placeName>
-                  </place>
-                </place>
-              <place type="commune" xml:id="duy-thu">
-                <placeName xml:lang="vi">Duy Thu</placeName>
-                <place type="village" xml:id="tinh-yen">
-                  <placeName xml:lang="vi">Tĩnh Yên</placeName>
-                  <placeName xml:lang="vi">An Hoà</placeName>
-                    <place type="shrine" xml:id="mieu-thang-gu">
-                    <placeName>Miếu Thằng Gù</placeName>
-                </place>
-                </place>
-              </place>
-              <place>
-                <placeName type="commune" xml:id="duy-son">Duy
-                  Sơn</placeName>
-                <place>
-                  <placeName type="village" xml:id="kieu-chau">Kiệu
-                    Châu</placeName>
-                  <place>
-                    <placeName type="site" xml:id="chua-vua">Chùa Vua</placeName>
-                    <placeName>Chùa Voi</placeName>
-                  </place>
-                </place>
-              </place>
-            </place>
-            <place type="district" xml:id="phu-ninh">
-              <placeName xml:lang="vi">Phú Ninh</placeName>
-              <place type="commune" xml:id="tam-an">
-                <placeName xml:lang="vi">Tam An</placeName>
-                <place type="settlement" xml:id="an-my-nr1">
-                  <placeName xml:lang="vi">An Mỹ 1</placeName>
-                </place>
-              </place>
-            </place>
-            <place type="district" xml:id="que-son">
-              <placeName xml:lang="vi">Quế Sơn</placeName>
-              <place type="commune" xml:id="que-xuan">
-                <placeName xml:lang="vi">Quế Xuân</placeName>
-                <place type="settlement" xml:id="duong-mong">
-                <placeName xml:lang="vi">Dưỡng Mông</placeName>
-                </place>
-              </place>
-              <place type="commune"
-                xml:id="huong-an-jusquen-2008--que-phu">
-                <placeName xml:lang="vi">Hương An (jusqu'en 2008 : Quế Phú)</placeName>
-                <place type="settlement" xml:id="huong-que">
-                  <placeName xml:lang="vi">Hương Quê</placeName>
-                  <!-- this was specified in our fieldnotes as "(Thôn 6)". Comment William: "13 & 15. ‘Thôn 1’ and ‘Thôn 6’ indicate subordinate parts of a settlement, but this numbering of hamlets was very often done for military reasons
+				<!-- PROVINCE: Quảng Nam -->
+				<place type="province" xml:id="quang-nam">
+					<placeName xml:lang="vi">Quảng Nam</placeName>
+					<idno type="URI">http://www.geonames.org/1905516/tinh-quang-nam.html</idno>
+					<idno type="URI">http://en.wikipedia.org/wiki/Quang_Nam_province</idno>
+
+					<place type="settlement" xml:id="an-my">
+						<placeName xml:lang="vi">An Mỹ</placeName>
+					</place>
+					<place type="settlement" xml:id="an-my-dong">
+						<placeName xml:lang="vi">An My Đông</placeName>
+						<!-- confirm absence of tones on first two syllables -->
+					</place>
+					<place type="settlement" xml:id="an-ninh">
+						<placeName xml:lang="vi">An Ninh</placeName>
+					</place>
+					<place type="settlement" xml:id="an-thai">
+						<!-- same settlement as following?-->
+						<placeName xml:lang="vi">An Thai</placeName>
+					</place>
+					<place type="settlement" xml:id="an-thai-1">
+						<placeName xml:lang="vi">An Thái</placeName>
+						<!-- same settlement as preceding? -->
+					</place>
+					<place type="settlement" xml:id="an-thinh">
+						<placeName xml:lang="vi">An Thinh</placeName>
+					</place>
+					<place type="settlement" xml:id="ban-lanh">
+						<placeName xml:lang="vi">Bàn Lãnh</placeName>
+					</place>
+					<place type="settlement" xml:id="bang-an">
+						<placeName xml:lang="vi">Bằng An</placeName>
+					</place>
+					<place type="settlement" xml:id="bo-mung">
+						<placeName xml:lang="vi">Bồ Mưng</placeName>
+					</place>
+					<place type="settlement" xml:id="cam-van">
+						<placeName xml:lang="vi">Cẩm Vân</placeName>
+					</place>
+					<place type="settlement" xml:id="chiem-son">
+						<placeName xml:lang="vi">Chiêm Sơn</placeName>
+					</place>
+					<place type="valley" xml:id="chiem-son-tay">
+						<placeName xml:lang="vi">Chiêm Sơn Tây</placeName>
+					</place>
+					<!-- place elsewhere? -->
+					<place type="settlement" xml:id="dong-duong">
+						<placeName xml:lang="vi">Đồng Dương</placeName>
+					</place>
+					<place type="settlement" xml:id="ha-lam">
+						<placeName xml:lang="vi">Hà Lam</placeName>
+					</place>
+					<place type="settlement" xml:id="hoa-que">
+						<placeName xml:lang="vi">Hoá Quê</placeName>
+					</place>
+					<place type="settlement" xml:id="hon-cut">
+						<placeName xml:lang="vi">Hòn Cụt</placeName>
+					</place>
+					<place type="settlement" xml:id="khanh-tho-dong">
+						<placeName xml:lang="vi">Khánh Thọ Đong</placeName>
+					</place>
+					<place type="settlement" xml:id="khuong-my">
+						<placeName xml:lang="vi">Khướng Mỷ</placeName>
+					</place>
+					<place type="site" xml:id="my-son">
+						<placeName xml:lang="vi">Mỹ Sơn</placeName>
+					</place>
+					<place type="settlement" xml:id="phu-hanh">
+						<placeName xml:lang="vi">Phu Hanh</placeName>
+					</place>
+					<place type="settlement" xml:id="phu-hanh-tay">
+						<placeName xml:lang="vi">Phú Hanh Tây</placeName>
+					</place>
+					<place type="settlement" xml:id="phu-nhuan">
+						<placeName xml:lang="vi">Phu Nhuan</placeName>
+					</place>
+					<place type="settlement" xml:id="phu-son">
+						<placeName xml:lang="vi">Phú Sơn</placeName>
+					</place>
+					<place type="settlement" xml:id="phu-than">
+						<placeName xml:lang="vi">Phú Thận</placeName>
+					</place>
+					<place type="settlement" xml:id="samo">
+						<placeName xml:lang="vi">Samơ</placeName>
+						<!-- confirm not Sa Mơ -->
+					</place>
+					<place type="settlement" xml:id="thach-bich">
+						<placeName xml:lang="vi">Thạch Bích</placeName>
+					</place>
+					<place type="settlement" xml:id="thu-bon">
+						<placeName xml:lang="vi">Thu Bồn</placeName>
+					</place>
+					<place type="settlement" xml:id="tra-kieu">
+						<placeName xml:lang="vi">Trà Kiệu</placeName>
+					</place>
+					<place type="settlement" xml:id="trung-phuoc">
+						<placeName xml:lang="vi">Trung Phươc</placeName>
+					</place>
+					<place type="settlement" xml:id="vhut-giap">
+						<placeName xml:lang="vi">Vhựt Giáp</placeName>
+					</place>
+					<!-- Is the spelling Vhut correct? -->
+					<place type="settlement" xml:id="vinh-trinh">
+						<placeName xml:lang="vi">Vinh Trinh</placeName>
+					</place>
+					<place type="district" xml:id="dai-loc">
+						<placeName xml:lang="vi">Đại Lộc</placeName>
+					</place>
+					<place type="district" xml:id="dien-ban">
+						<placeName xml:lang="vi">Điện Bàn</placeName>
+						<place type="settlement" xml:id="la-tho">
+							<placeName xml:lang="vi">La Thọ</placeName>
+						</place>
+					</place>
+					<place type="district" xml:id="duy-xuyen">
+						<placeName xml:lang="vi">Duy Xuyên</placeName>
+						<place type="commune" xml:id="duy-trinh">
+							<placeName xml:lang="vi">Duy Trinh</placeName>
+						</place>
+						<place type="commune" xml:id="canton-an-li">
+							<placeName xml:lang="vi">canton An-li</placeName>
+							<!-- this place name seems unusual -->
+							<place type="settlement" xml:id="an-thanh">
+								<placeName xml:lang="vi">An thanh</placeName>
+							</place>
+						</place>
+						<place type="commune" xml:id="duy-thu">
+							<placeName xml:lang="vi">Duy Thu</placeName>
+							<place type="village" xml:id="tinh-yen">
+								<placeName xml:lang="vi">Tĩnh Yên</placeName>
+								<placeName xml:lang="vi">An Hoà</placeName>
+								<place type="shrine" xml:id="mieu-thang-gu">
+									<placeName>Miếu Thằng Gù</placeName>
+								</place>
+							</place>
+						</place>
+						<place>
+							<placeName type="commune" xml:id="duy-son">Duy Sơn</placeName>
+							<place>
+								<placeName type="village" xml:id="kieu-chau">Kiệu Châu</placeName>
+								<place>
+									<placeName type="site" xml:id="chua-vua">Chùa Vua</placeName>
+									<placeName>Chùa Voi</placeName>
+								</place>
+							</place>
+						</place>
+					</place>
+					<place type="district" xml:id="phu-ninh">
+						<placeName xml:lang="vi">Phú Ninh</placeName>
+						<place type="commune" xml:id="tam-an">
+							<placeName xml:lang="vi">Tam An</placeName>
+							<place type="settlement" xml:id="an-my-nr1">
+								<placeName xml:lang="vi">An Mỹ 1</placeName>
+							</place>
+						</place>
+					</place>
+					<place type="district" xml:id="que-son">
+						<placeName xml:lang="vi">Quế Sơn</placeName>
+						<place type="commune" xml:id="que-xuan">
+							<placeName xml:lang="vi">Quế Xuân</placeName>
+							<place type="settlement" xml:id="duong-mong">
+								<placeName xml:lang="vi">Dưỡng Mông</placeName>
+							</place>
+						</place>
+						<place type="commune" xml:id="huong-an-jusquen-2008--que-phu">
+							<placeName xml:lang="vi">Hương An (jusqu'en 2008 : Quế Phú)</placeName>
+							<place type="settlement" xml:id="huong-que">
+								<placeName xml:lang="vi">Hương Quê</placeName>
+								<!-- this was specified in our fieldnotes as "(Thôn 6)". Comment William: "13 & 15. ‘Thôn 1’ and ‘Thôn 6’ indicate subordinate parts of a settlement, but this numbering of hamlets was very often done for military reasons
               in the 1960’s and 1970’s in order to simplify the geography and can be
               misleading. The names An Mỹ and Hương Quê should suffice." -->
-                </place>
-              </place>
-            </place>
-            <place type="temple" xml:id="chien-dan">
-              <placeName xml:lang="vi">Chiên Đàn</placeName>
-              <placeName xml:lang="vi">Chiên Đàng</placeName>
-              <location>
-                <!-- GPS: 15° 36’ 57,5” N, 108° 26’ 36,0” E -->
-                <geo>15.61597222 108.4433333</geo>
-                <!-- what is the origin of this GPS reading? TRE -->
-              </location>
-            </place>
-            <place type="settlement" xml:id="dai-tho">
-              <placeName xml:lang="vi">Đai Thờ</placeName>
-            </place>
-            <place type="settlement" xml:id="dong-duong-1">
-              <!-- why is this not under "dong-duong"? -->
-              <placeName xml:lang="vi">Đồng Dương</placeName>
-            </place>
-            <place type="settlement" xml:id="lac-thanh">
-              <placeName xml:lang="vi">Lạc Thành</placeName>
-            </place>
-          </place>
+							</place>
+						</place>
+					</place>
+					<place type="temple" xml:id="chien-dan">
+						<placeName xml:lang="vi">Chiên Đàn</placeName>
+						<placeName xml:lang="vi">Chiên Đàng</placeName>
+						<location>
+							<!-- GPS: 15° 36’ 57,5” N, 108° 26’ 36,0” E -->
+							<geo>15.61597222 108.4433333</geo>
+							<!-- what is the origin of this GPS reading? TRE -->
+						</location>
+					</place>
+					<place type="settlement" xml:id="dai-tho">
+						<placeName xml:lang="vi">Đai Thờ</placeName>
+					</place>
+					<place type="settlement" xml:id="dong-duong-1">
+						<!-- why is this not under "dong-duong"? -->
+						<placeName xml:lang="vi">Đồng Dương</placeName>
+					</place>
+					<place type="settlement" xml:id="lac-thanh">
+						<placeName xml:lang="vi">Lạc Thành</placeName>
+					</place>
+				</place>
 
-          <!-- PROVINCE: Quảng Ngãi -->
-          <place type="province" xml:id="quang-ngai">
-            <placeName xml:lang="vi">Quảng Ngãi</placeName>
-            <idno type="URI">http://www.geonames.org/1568769/tinh-quang-ngai.html</idno>
-            <idno type="URI">http://en.wikipedia.org/wiki/Quang_Ngai_province</idno>
-            
-            <place type="settlement" xml:id="chanh-lo">
-              <placeName xml:lang="vi">Chánh Lộ</placeName>
-            </place>
-            <place type="settlement" xml:id="chau-sa">
-              <placeName xml:lang="vi">Châu Sa</placeName>
-            </place>
-            <place type="settlement" xml:id="la-van">
-              <placeName xml:lang="vi">La Vân</placeName>
-            </place>
-            <place type="settlement" xml:id="lavan-pres-sa-huynh">
-              <placeName xml:lang="vi">La Vân, près Sa Huỳnh</placeName>
-              <!-- presumably to be grouped with preceding  -->
-            </place>
-            <place type="settlement" xml:id="long-thanh">
-              <placeName xml:lang="vi">Long Thạnh</placeName>
-            </place>
-            <place type="settlement" xml:id="long-thanh-pointe-sahoi">
-              <placeName xml:lang="vi">Long Thạnh (Sa Huỳnh)</placeName>
-              <!-- it's not yet clear if the parenthic specification (Coedes: "Pointe Sahoi) is meant to narrow down the provenance with Long Thanh or is just intended as an alternative. William, email 2011/06/20 "16 & 17. La Vân is the name of a settlement, while Sa Huỳnh is a nearby
+				<!-- PROVINCE: Quảng Ngãi -->
+				<place type="province" xml:id="quang-ngai">
+					<placeName xml:lang="vi">Quảng Ngãi</placeName>
+					<idno type="URI">http://www.geonames.org/1568769/tinh-quang-ngai.html</idno>
+					<idno type="URI">http://en.wikipedia.org/wiki/Quang_Ngai_province</idno>
+
+					<place type="settlement" xml:id="chanh-lo">
+						<placeName xml:lang="vi">Chánh Lộ</placeName>
+					</place>
+					<place type="settlement" xml:id="chau-sa">
+						<placeName xml:lang="vi">Châu Sa</placeName>
+					</place>
+					<place type="settlement" xml:id="la-van">
+						<placeName xml:lang="vi">La Vân</placeName>
+					</place>
+					<place type="settlement" xml:id="lavan-pres-sa-huynh">
+						<placeName xml:lang="vi">La Vân, près Sa Huỳnh</placeName>
+						<!-- presumably to be grouped with preceding  -->
+					</place>
+					<place type="settlement" xml:id="long-thanh">
+						<placeName xml:lang="vi">Long Thạnh</placeName>
+					</place>
+					<place type="settlement" xml:id="long-thanh-pointe-sahoi">
+						<placeName xml:lang="vi">Long Thạnh (Sa Huỳnh)</placeName>
+						<!-- it's not yet clear if the parenthic specification (Coedes: "Pointe Sahoi) is meant to narrow down the provenance with Long Thanh or is just intended as an alternative. William, email 2011/06/20 "16 & 17. La Vân is the name of a settlement, while Sa Huỳnh is a nearby
           beach resort on a promontory known to the French as Pointe Sahoi. Long
           Thạnh is therefore a hamlet close to (or part of) Sa Huỳnh" -->
-            </place>
-            <place type="settlement" xml:id="my-thuan">
-              <placeName xml:lang="vi">Mỹ Thuận</placeName>
-            </place>
-            <place type="settlement" xml:id="phu-qui">
-              <placeName xml:lang="vi">Phú Quì</placeName>
-            </place>
-            <place type="district" xml:id="binh-son">
-              <placeName xml:lang="vi">Bình Sơn</placeName>
-            </place>
-          </place>
+					</place>
+					<place type="settlement" xml:id="my-thuan">
+						<placeName xml:lang="vi">Mỹ Thuận</placeName>
+					</place>
+					<place type="settlement" xml:id="phu-qui">
+						<placeName xml:lang="vi">Phú Quì</placeName>
+					</place>
+					<place type="district" xml:id="binh-son">
+						<placeName xml:lang="vi">Bình Sơn</placeName>
+					</place>
+				</place>
 
-          <!-- PROVINCE: Quảng Trị -->
-          <place type="province" xml:id="quang-tri">
-            <placeName xml:lang="vi">Quảng Trị</placeName>
-            <idno type="URI">http://www.geonames.org/1568733/tinh-quang-tri.html</idno>
-            <idno type="URI">http://en.wikipedia.org/wiki/Quang_Tri_province</idno>
-            
-            <bibl><ptr target="http://en.wikipedia.org/wiki/Quang_Tri_province"/></bibl>
-            <place type="settlement" xml:id="dai-an">
-              <placeName xml:lang="vi">Đại An</placeName>
-            </place>
-            <place type="settlement" xml:id="ha-trung">
-              <placeName xml:lang="vi">Hà Trung</placeName>
-            </place>
-            <place type="settlement" xml:id="nhan-bieu">
-              <placeName xml:lang="vi">Nhan Bièu</placeName>
-            </place>
-          </place>
+				<!-- PROVINCE: Quảng Trị -->
+				<place type="province" xml:id="quang-tri">
+					<placeName xml:lang="vi">Quảng Trị</placeName>
+					<idno type="URI">http://www.geonames.org/1568733/tinh-quang-tri.html</idno>
+					<idno type="URI">http://en.wikipedia.org/wiki/Quang_Tri_province</idno>
 
-          <!-- PROVINCE: Thừa Thiên -->
-          <place type="province" xml:id="thua-thien">
-            <placeName xml:lang="vi">Thừa Thiên</placeName>
-            <idno type="URI">http://www.geonames.org/1565033/tinh-thua-thien-hue.html</idno>
-            <idno type="URI">http://en.wikipedia.org/wiki/Thua_Thien-Hu%E1%BA%BF_province</idno>
-            
-            <place type="settlement" xml:id="dinh-thi">
-              <placeName xml:lang="vi">Dinh Thị</placeName>
-            </place>
-            <place type="settlement" xml:id="lai-trung">
-              <placeName xml:lang="vi">Lai Trung</placeName>
-            </place>
-            <place type="settlement" xml:id="linh-thai">
-              <placeName xml:lang="vi">Linh Thái</placeName>
-            </place>
-            <place type="settlement" xml:id="phu-luong">
-              <placeName xml:lang="vi">Phu Lương</placeName>
-            </place>
-          </place>
+					<bibl>
+						<ptr target="http://en.wikipedia.org/wiki/Quang_Tri_province"/>
+					</bibl>
+					<place type="settlement" xml:id="dai-an">
+						<placeName xml:lang="vi">Đại An</placeName>
+					</place>
+					<place type="settlement" xml:id="ha-trung">
+						<placeName xml:lang="vi">Hà Trung</placeName>
+					</place>
+					<place type="settlement" xml:id="nhan-bieu">
+						<placeName xml:lang="vi">Nhan Bièu</placeName>
+					</place>
+				</place>
 
-          <!-- settlement: Khuê Trung -->
-          <place type="settlement" xml:id="khue-trung">
-            <placeName xml:lang="vi">Khuê Trung</placeName>
-          </place>
-        
-      </listPlace>
-    </body>
-  </text>
+				<!-- PROVINCE: Thừa Thiên -->
+				<place type="province" xml:id="thua-thien">
+					<placeName xml:lang="vi">Thừa Thiên</placeName>
+					<idno type="URI">http://www.geonames.org/1565033/tinh-thua-thien-hue.html</idno>
+					<idno type="URI">http://en.wikipedia.org/wiki/Thua_Thien-Hu%E1%BA%BF_province</idno>
+
+					<place type="settlement" xml:id="dinh-thi">
+						<placeName xml:lang="vi">Dinh Thị</placeName>
+					</place>
+					<place type="settlement" xml:id="lai-trung">
+						<placeName xml:lang="vi">Lai Trung</placeName>
+					</place>
+					<place type="settlement" xml:id="linh-thai">
+						<placeName xml:lang="vi">Linh Thái</placeName>
+					</place>
+					<place type="settlement" xml:id="phu-luong">
+						<placeName xml:lang="vi">Phu Lương</placeName>
+					</place>
+				</place>
+
+				<!-- settlement: Khuê Trung -->
+				<place type="settlement" xml:id="khue-trung">
+					<placeName xml:lang="vi">Khuê Trung</placeName>
+				</place>
+
+			</listPlace>
+		</body>
+	</text>
 </TEI>

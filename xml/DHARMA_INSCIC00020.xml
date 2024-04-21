@@ -99,7 +99,7 @@ n="A4"/>pautra pu-nai sūryyalakṣmī Urām̃ ca<unclear reason="eccentric_duct
 	pāṇḍurāṅgeśa : pāṇḍuraṅgeśa Bergaigne.
 	Udbhava di parama: cf. paramodbhava/paramotbhava di in other inscriptions. -->
  pāṇḍurāṅgeśa Udbhava di para<lb break="no" 
-n="A5"/>ma dā Amvryak· vijaiya 
+n="A5"/>ma <unclear>j</unclear>ā Amvryak· vijaiya 
 <!--	vijaiya pour vijaya ?
 	lecture AC, p.76 et 313 PDF : amvryak vijaya dunan saudaryya (beauté) rūpa dunan, (thu/thau) samastra (tous) sāstragana (traités) dunan. 
 	maybe dāsa mvryak·? cf. name miryak.
@@ -148,18 +148,16 @@ n="B2"/>ndriya sidaḥ k<unclear>ā</unclear>ma-krodha-lobha-moha-mada-
 </p>
          </div>
          <div type="apparatus">
-           <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
-               <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="line"><!-- update the value of @loc.-->
-                     <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:Bergaigne1888_01"><!-- update the @source value, fill in variant reading here --></rdg>
+               <listApp>
+                  <app loc="A1">
+                     <lem source="bib:Bergaigne1888_01">...</lem>
                   </app>
                </listApp>
          </div>
          <div type="translation" resp="part:argr">
  <p>Hail! <foreign>Om</foreign> homage to Śiva!
 <supplied reason="subaudible">The year of the</supplied> Śaka-king 1200.
-In the reign of the lord of the great earth, Indravarman, my lord, that lord of the great earth had one beautiful queen, namely the lady royal grand-child, princess Sūryalakṣmī, native of Cathiy Pāṇḍurāṅgeśa,<note>The same toponym also figures in <ref target="DHARMA_INSCIC00006.xml">C. 6.1</ref>, in only slightly different form.</note> born of the two best
+In the reign of the lord of the great earth, Indravarman, my lord, that lord of the great earth had one beautiful queen, namely the lady royal grand-child, princess Sūryalakṣmī, native of Cathiy Pāṇḍurāṅgeśa,<note>The same toponym also figures in <ref target="DHARMA_INSCIC00006.xml">C. 6.1</ref>, in only slightly different form.</note> born from the excellent <foreign>jā</foreign> Amvryak Vijaiya.<note>We more commonly find the Sanskrit expression <foreign>paramodbhava</foreign>, to express the excellent pedigree of a person thus designated, and  <foreign>udbhava di parama</foreign> seems to be an analytic equivalent of the same expression. Since <foreign>jā</foreign> is a marker of low status, some doubt remains about what is meant here.</note> See had beauty of form. She knew all treatises and scriptures. She <foreign>dvah</foreign> the compassion of the lord of the great earth, Indravarman, my lord. She installed a divine image in the land of Vijaya for here parents and children. She knew all all kinds of enjoyments. She came to give a <foreign>cai</foreign> in the city of Krauṅ Vauk for Pov Ājñā, her elder sibling.
 </p>
          </div>
          <div type="commentary">

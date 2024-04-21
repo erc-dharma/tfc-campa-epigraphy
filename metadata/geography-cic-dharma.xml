@@ -1,4 +1,4 @@
-<TEI 
+<TEI
   xmlns="http://www.tei-c.org/ns/1da.0">
   <teiHeader>
     <fileDesc>
@@ -22,7 +22,7 @@
           <placeName xml:lang="fr">Cambodia</placeName>
           <idno type="URI">http://www.geonames.org/1831722/kingdom-of-cambodia.html</idno>
           <idno type="URI">http://en.wikipedia.org/wiki/Cambodia</idno>
-          
+
           <!-- PROVINCE: Kompong Siem (Cambodia) -->
           <!-- I cannot find a province by this name in the Wikipedia list 2013-05-21 TRE: http://en.wikipedia.org/wiki/Provinces_of_Cambodia -->
           <place type="province" xml:id="kompong-siem">
@@ -67,7 +67,7 @@
             <placeName xml:lang="vi">Bình Định</placeName>
             <idno type="URI">http://www.geonames.org/1587871/tinh-binh-ginh.html</idno>
             <idno type="URI">http://en.wikipedia.org/wiki/Binh_Dinh_Province</idno>
-            
+
             <place type="settlement" xml:id="an-ngai">
               <placeName xml:lang="vi">An Ngãi</placeName>
             </place>
@@ -100,7 +100,7 @@
                 peninsula</placeName>
               <!-- maybe we will want to use more conventional nomenclature in due course -->
             </place>
-            <place type="settlement" xml:id="thap-doi">
+            <place type="site" xml:id="thap-doi">
               <placeName xml:lang="vi">Tháp Đôi</placeName>
             </place>
             <place type="settlement" xml:id="thanh-son">
@@ -122,7 +122,7 @@
             <placeName xml:lang="vi">Bình Thuận</placeName>
             <idno type="URI">http://www.geonames.org/1581882/tinh-binh-thuan.html</idno>
             <idno type="URI">http://en.wikipedia.org/wiki/Binh_Thuan_Province</idno>
-            
+
             <!-- <place type="district" xml:id="thuan-bac">
               <placeName xml:lang="vi">Thuận Bắc</placeName>
               <place type="commune" xml:id="bac-phong">
@@ -131,7 +131,7 @@
                   <placeName>Ba Tháp</placeName>
                 </place>
               </place>
-              </place> 
+              </place>
             These places currently part of Ning Thuan province
             -->
             <place type="settlement" xml:id="pho-hai">
@@ -144,7 +144,7 @@
             <placeName xml:lang="vi">Đắk Lắk</placeName>
             <idno type="URI">http://www.geonames.org/1584169/tinh-gak-lak.html</idno>
             <idno type="URI">http://en.wikipedia.org/wiki/Đắk_Lắk_Province</idno>
-            
+
               <place type="settlement" xml:id="ban-metruot">
                 <placeName type="former" xml:lang="vi">Ban Metruot</placeName>
               </place>
@@ -155,7 +155,7 @@
             <placeName xml:lang="vi">Đồng Nai</placeName>
             <idno type="URI">http://www.geonames.org/1582720/tinh-gong-nai.html</idno>
             <idno type="URI">http://en.wikipedia.org/wiki/%C4%90%E1%BB%93ng_Nai_Province</idno>
-            
+
             <place type="city" xml:id="bien-hoa">
               <placeName xml:lang="vi">Biên Hòa</placeName>
               <location>
@@ -166,7 +166,7 @@
                 </bibl>
               </location>
               <idno type="URI">http://www.geonames.org/1587923/bien-hoa.html</idno>
-              <idno type="URI">http://en.wikipedia.org/wiki/Bien_Hoa</idno>       
+              <idno type="URI">http://en.wikipedia.org/wiki/Bien_Hoa</idno>
               <bibl xml:id="bien-hoa-bibl1"></bibl>
               <place type="ward" xml:id="hoa-binh">
                 <placeName xml:lang="vi">Hòa Bình</placeName>
@@ -174,20 +174,20 @@
                   <placeName xml:lang="vi">Bửu Sơn</placeName>
                 </place>
                 <!-- pre-1975 administrative divisions associated with this site: thôn Bình Thành, xã Bình Trứơc, quận Đức Tu, tỉnh Biên Hòa -->
-              </place>   
+              </place>
               <place type="settlement" xml:id="binh-truoc">
                 <placeName type="former" xml:lang="vi">Bình Trươc</placeName>
                 <!-- Geonames records a Xóm Bình Trước: http://www.geonames.org/1561964/xom-binh-truoc.html -->
               </place>
             </place>
           </place>
- 
+
           <!-- PROVINCE : Gia Lai -->
           <place type="province" xml:id="gia-lai">
             <placeName xml:lang="vi">Gia Lai</placeName>
             <idno type="URI">http://www.geonames.org/1581088/gia-lai.html</idno>
             <idno type="URI">http://en.wikipedia.org/wiki/Gia_Lai_province</idno>
-            
+
             <place type="temple" xml:id="drang-lai">
               <placeName xml:lang="cjm">Drang Lai</placeName><!-- Old spelling: Draṅ Lai -->
             </place>
@@ -202,7 +202,7 @@
             <placeName xml:lang="vi">Khánh Hoà</placeName>
             <idno type="URI">http://www.geonames.org/1579634/tinh-khanh-hoa.html</idno>
             <idno type="URI">http://en.wikipedia.org/wiki/Kh%C3%A1nh_H%C3%B2a_Province</idno>
-            
+
             <place type="temple" xml:id="po-nagar-nha-trang">
               <placeName xml:lang="en">Po Nagar at Nha Trang</placeName>
             </place>
@@ -231,7 +231,7 @@
           </place>
 
           <!-- PROVINCE: Kon Tum -->
-          <place type="province" xml:id="kon-tum">            
+          <place type="province" xml:id="kon-tum">
             <placeName xml:lang="vi">Kon Tum</placeName>
             <idno type="URI">http://www.geonames.org/1565088/kon-tum.html</idno>
             <idno type="URI">http://en.wikipedia.org/wiki/Kon_Tum_province</idno>
@@ -248,7 +248,7 @@
             <placeName xml:lang="vi">Ninh Thuân</placeName>
             <idno type="URI">http://www.geonames.org/1559971/tinh-ninh-thuan.html</idno>
             <idno type="URI">http://en.wikipedia.org/wiki/Ninh_Thuan_province</idno>
-            
+
             <place type="settlement" xml:id="bakul">
               <placeName xml:lang="cjm">Bakul</placeName>
             </place>
@@ -263,7 +263,7 @@
             </place>
             <place type="settlement" xml:id="cho-dinh-nt">
               <placeName xml:lang="vi">Cho Dinh</placeName>
-            </place> 
+            </place>
             <place type="settlement" xml:id="da-trang">
               <placeName xml:lang="vi">Đá Trắng</placeName>
             </place>
@@ -365,7 +365,7 @@
             <placeName xml:lang="vi">Phú Yên</placeName>
             <idno type="URI">http://www.geonames.org/1569805/tinh-phu-yen.html</idno>
             <idno type="URI">http://en.wikipedia.org/wiki/Phu_Yen_province</idno>
-          	
+
 	<place type="settlement" xml:id="nhan-thap-py">
           		<placeName xml:lang="vi">Nhạn Tháp</placeName>
           	</place>
@@ -385,7 +385,7 @@
             <placeName xml:lang="vi">Quảng Bình</placeName>
             <idno type="URI">http://www.geonames.org/1568839/tinh-quang-binh.html</idno>
             <idno type="URI">http://en.wikipedia.org/wiki/Quang_Binh_province</idno>
-            
+
             <place type="district" xml:id="quang-trach">
               <placeName xml:id="vn">Quảng Trạch</placeName>
               <place type="settlement" xml:id="bac-ha">
@@ -419,7 +419,7 @@
             <placeName xml:lang="vi">Quảng Nam</placeName>
             <idno type="URI">http://www.geonames.org/1905516/tinh-quang-nam.html</idno>
             <idno type="URI">http://en.wikipedia.org/wiki/Quang_Nam_province</idno>
-            
+
             <place type="settlement" xml:id="an-my">
               <placeName xml:lang="vi">An Mỹ</placeName>
             </place>
@@ -616,7 +616,7 @@
             <placeName xml:lang="vi">Quảng Ngãi</placeName>
             <idno type="URI">http://www.geonames.org/1568769/tinh-quang-ngai.html</idno>
             <idno type="URI">http://en.wikipedia.org/wiki/Quang_Ngai_province</idno>
-            
+
             <place type="settlement" xml:id="chanh-lo">
               <placeName xml:lang="vi">Chánh Lộ</placeName>
             </place>
@@ -655,7 +655,7 @@
             <placeName xml:lang="vi">Quảng Trị</placeName>
             <idno type="URI">http://www.geonames.org/1568733/tinh-quang-tri.html</idno>
             <idno type="URI">http://en.wikipedia.org/wiki/Quang_Tri_province</idno>
-            
+
             <bibl><ptr target="http://en.wikipedia.org/wiki/Quang_Tri_province"/></bibl>
             <place type="settlement" xml:id="dai-an">
               <placeName xml:lang="vi">Đại An</placeName>
@@ -673,7 +673,7 @@
             <placeName xml:lang="vi">Thừa Thiên</placeName>
             <idno type="URI">http://www.geonames.org/1565033/tinh-thua-thien-hue.html</idno>
             <idno type="URI">http://en.wikipedia.org/wiki/Thua_Thien-Hu%E1%BA%BF_province</idno>
-            
+
             <place type="settlement" xml:id="dinh-thi">
               <placeName xml:lang="vi">Dinh Thị</placeName>
             </place>
@@ -692,7 +692,7 @@
           <place type="settlement" xml:id="khue-trung">
             <placeName xml:lang="vi">Khuê Trung</placeName>
           </place>
-        
+
       </listPlace>
     </body>
   </text>

@@ -284,6 +284,9 @@
 							<idno type="URI">http://www.geonames.org/1571067/phan-rang-thap-cham.html</idno>
 							<idno type="URI">http://en.wikipedia.org/wiki/Phan_Rang_%E2%80%93_Th%C3%A1p_Ch%C3%A0m</idno>
 						</place>
+						<place type="village" xml:id="phuoc-ha">
+							<placeName xml:lang="vi">Phước Hà</placeName>
+						</place>
 						<place type="temple" xml:id="po-klaong-girai">
 							<placeName xml:lang="cjm">Po Klaong Girai</placeName>
 							<!-- old spelling: Po Klauṅ Garai -->

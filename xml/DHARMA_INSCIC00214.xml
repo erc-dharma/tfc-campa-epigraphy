@@ -119,7 +119,8 @@
   <ab><lb n="01"/><unclear>Om̐</unclear></ab>
  <p><lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>pu pa<gap reason="lost" extent="unknown" unit="character"/>
 <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">p</supplied>u-pom̃ tana rayā ya dr̥<supplied reason="lost">m̃</supplied><gap reason="lost" extent="unknown" unit="character"/>
-<lb n="3"/> <gap reason="lost" extent="unknown" unit="character"/><choice><unclear>na</unclear><unclear>n·</unclear></choice> dadam̃n· varṇna Urām̃ aviḥ</p>
+<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">da</supplied><unclear>da</unclear><supplied reason="lost">m̃</supplied>n<unclear>·</unclear> dadam̃n· 
+varṇna Urām̃ Aviḥ</p>
 <p><lb n="4"/><supplied reason="lost"><g type="danda"/></supplied> <unclear>s</unclear>vast<unclear>i</unclear> <g type="danda"/> yām̃ pom̃ ku śrī vr̥ṣu viṣṇujātti vīrabhadrava<supplied reason="lost">rm</supplied><unclear>m</unclear><supplied reason="lost">ade</supplied><lb break="no" 
 n="5"/>va <g type="danda">.</g> br̥ṣuvaṅṣa Ādi pūra ṅgauk· glaum̃ vijaya <g type="danda">.</g> prathamāviśeka
 <lb n="6"/>di śaka Eka-loka-naya-rāma tam̃l· śaka rāja-Ag<choice><sic>g</sic><corr>n</corr></choice>i-vānu-ca<lb break="no" 
@@ -135,16 +136,19 @@ n="11"/>k<unclear>·</unclear> vrim̃ Adhyā vuḥ <gap reason="lost" extent="un
 <div type="apparatus">
 <listApp>
 <app loc="01">
-<lem>
-<unclear>om̐</unclear></lem>
+<lem><unclear>Om̐</unclear></lem>
 <note>the trace of a sign above line 1 is likely to have been the descending part of this invocation.</note>
+</app>
+<app loc="3">
+<lem><supplied reason="lost">da</supplied><unclear>da</unclear><supplied reason="lost">m̃</supplied>n<unclear>·</unclear> dadam̃n·</lem>
+<rdg source="bib:Griffiths2019_01"><choice><unclear>na</unclear><unclear>n·</unclear></choice> dadam̃n·</rdg>
 </app>
 <app loc="4">
 <lem><supplied reason="lost">|</supplied></lem>
 <note>space does not seem sufficient for a more substantial liminal sign, and comparison with the lay-out of <ref target="DHARMA_INSCIC00128.xml">C. 128</ref> suggests that only a <foreign>daṇḍa</foreign> originally preceded <foreign>svasti</foreign> here.</note>
 </app>
 <app loc="5">
-<lem>pūraṅgauk· glaum̃ vijaya</lem>
+<lem>pūra ṅgauk· glaum̃ vijaya</lem>
 <note>cf. <ref target="DHARMA_INSCIC00043.xml">C. 43</ref>, face A, l. 3 <foreign>pūra ṅauk glaum̃ vijaya</foreign>.</note>
 </app>
 <app loc="5">
@@ -181,7 +185,7 @@ n="11"/>k<unclear>·</unclear> vrim̃ Adhyā vuḥ <gap reason="lost" extent="un
 <p>With lines 4-5, cf. <ref target="DHARMA_INSCIC00057.xml">C. 57</ref> l. 1-2: <foreign>śrī vr̥ṣuvaṅśa viṣṇujātti vīrabhadravarmmadeva pu pom̃ ku ya ādināmma</foreign>. In l. 9-10, it seems attractive to understand the sentence in the sense 'instruction to future kings to give protection'. On the expression <foreign>pavvak anvak</foreign>, which must denote some action with regard to some kind of strcuture, see <bibl><ptr target="bib:Griffiths+al2012_01"/><citedRange unit="page">214</citedRange><citedRange unit="note">55</citedRange></bibl>, on <ref target="DHARMA_INSCIC00043.xml">C. 43</ref>, face B, l. 3-4.</p>
 </div>
 <div type="bibliography">
-<p>First published by Arlo Griffiths (<bibl rend="omitname"><ptr target="bib:Griffiths2019_01"/></bibl>). Re-edited here based on orthophotos from a photogrammetric model.</p>
+<p>First published by Arlo Griffiths (<bibl rend="omitname"><ptr target="bib:Griffiths2019_01"/></bibl>). Re-edited here based on renewed study of the available estampages as well as new photographs.</p>
 <listBibl type="primary">
 <bibl n="ECIC"><ptr target="bib:Griffiths2019_01"/><citedRange unit="page">204-206</citedRange></bibl>
 </listBibl>

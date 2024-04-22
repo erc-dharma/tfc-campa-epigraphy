@@ -154,7 +154,7 @@
       </div> 
 -->
       <div type="bibliography">
-        <p>The main part was first edited in <bibl><ptr target="bib:Finot1915_06"/></bibl>. A new edition with commentary, revealing the existence of an additional part, was published in <bibl><ptr target="bib:Griffiths+al2008-2009_01"/></bibl>, based on EFEO estampage n. 1946.</p>
+        <p>The main part was first edited in <bibl><ptr target="bib:Finot1915_06"/></bibl>. A new edition with commentary, now also covering the perpendicularly engraved line of text, was published in <bibl><ptr target="bib:Griffiths+al2008-2009_01"/></bibl>, based on EFEO estampage n. 1946.</p>
         <listBibl type="primary">
 	<bibl n="F"><ptr target="bib:Finot1915_06"/><citedRange unit="page">112</citedRange></bibl>
 	<bibl n="ECIC"><ptr target="bib:Griffiths+al2008-2009_01"/><citedRange unit="page">461, 463-464</citedRange></bibl>

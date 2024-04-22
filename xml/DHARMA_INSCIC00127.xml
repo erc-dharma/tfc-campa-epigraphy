@@ -148,15 +148,16 @@
          <p n="A">Homage to Śiva. Śrī Prakāśadharman triumphs!</p>
           <p n="B">Lord of Campā.</p>
        </div>
-      <div type="translation" xml:lang="fra" resp="part:argr">
+ <!--     <div type="translation" xml:lang="fra" resp="part:argr">
          <p n="A">Hommage à Śiva. Śrī Prakāśadharman triomphe!</p>         
           <p n="B">Seigneur du Campā.</p>
-      </div>
+      </div> 
+-->
       <div type="bibliography">
         <p>The main part was first edited in <bibl><ptr target="bib:Finot1915_06"/></bibl>. A new edition with commentary, revealing the existence of an additional part, was published in <bibl><ptr target="bib:Griffiths+al2008-2009_01"/></bibl>, based on EFEO estampage n. 1946.</p>
         <listBibl type="primary">
 	<bibl n="F"><ptr target="bib:Finot1915_06"/><citedRange unit="page">112</citedRange></bibl>
-	<bibl n="ECIC"><ptr target="bib:Griffiths+al2008-2009_01"/><citedRange unit="page">463-464</citedRange></bibl>
+	<bibl n="ECIC"><ptr target="bib:Griffiths+al2008-2009_01"/><citedRange unit="page">461, 463-464</citedRange></bibl>
 </listBibl>
         <listBibl type="secondary">
 	<bibl><ptr target="bib:Majumdar1927_01"/><citedRange unit="page">28</citedRange><citedRange unit="item">15</citedRange></bibl>

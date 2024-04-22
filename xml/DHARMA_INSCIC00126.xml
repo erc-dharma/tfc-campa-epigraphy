@@ -89,18 +89,17 @@
    <text xml:space="preserve">
 <body>
 <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83213">            
-            <p>
-<lb n="1"/>|| || om̐ namaś śivāya ||| || 
-<lb n="2"/> || śakarāja 977 kāla yāṅ po ku śrī parameśvaravarmmadeva punaḥ guhā n[i]y.</p>
+            <ab xml:lang="san-Latn"><lb n="1"/><g type="ddanda"/> <g type="floretQuatrefoil"/> <g type="ddanda"/> Om̐ namaś śivāya <g type="ddanda"/><g type="danda"/> <g type="floretQuatrefoil"/> <g type="ddanda"/></ab> 
+<p><lb n="2"/><g type="ddanda"/> śakarāja <num value="977">977</num> <g type="ddanda"/> kāla yām̃ po ku śrī parameśvaravarmmadeva punaḥ guhā niy·</p>
 </div>
-<div type="apparatus"/>       
+<div type="apparatus"/>
       <div type="translation" resp="part:argr">
-         <p></p>
+         <p><foreign>Om</foreign> Homage to Śiva! <supplied reason="subaudible">Year of the </supplied>Śaka king: 977. <supplied reason="subaudible">This was</supplied> when his majesty Śrī Parameśvaravarmadeva repaired this cave.</p>
        </div>
       <div type="bibliography">
-        <p>The main part was first edited in <bibl><ptr target="bib:Finot1915_02"/></bibl>.</p>
+        <p>First edited in <bibl><ptr target="bib:Finot1915_02"/></bibl>. Re-edited here from Finot's plate and from my photos made in 2010.</p><!-- EFEO estampage 805 not yet seen; n. 1891 not useful (see ECIC III n. 42) -->
         <listBibl type="primary">
-	<bibl n="F"><ptr target="bib:Finot1915_02"/><citedRange unit="page">42-43</citedRange></bibl>
+	<bibl n="F"><ptr target="bib:Finot1915_02"/><citedRange unit="page">42-43, 49</citedRange><citedRange unit="plate">7A</citedRange></bibl>
 	</listBibl>
         <listBibl type="secondary">
 	<bibl><ptr target="bib:Majumdar1927_01"/><citedRange unit="page">154</citedRange><citedRange unit="item">56</citedRange></bibl>
@@ -108,15 +107,6 @@
                <bibl><ptr target="bib:Schweyer2009_01"/><citedRange unit="page">35</citedRange></bibl>
 <bibl><ptr target="bib:Griffiths+al2008-2009_01"/><citedRange unit="page">461-461, 469</citedRange><citedRange unit="note">42</citedRange></bibl>
         </listBibl>
-<!-- Finot1915_01: 42.	
-Finot1915_01: 49.
-
-FINOT, L. « XV Les inscriptions de Jaya Parameçvaravarman Ier, roi du Champa », BEFEO, t.
-XV (2), 1915, pp. 42-43 : « V. Inscription de Lai-Cam. Elle se trouve à une heure de sampan au
-S. du village de Lai-cam, canton de Hà-noi, phu de Ninh-hoà, province de Khánh-Hoà (sic), par
-environ 13G81 de lat. et 118G71 de long. Sur la rive Sud de la presqu’île qui se détache à l’E. de
-Ninh-Hoà. Elle est gravée sur une paroi
- -->
 </div>
 </body>
 </text>

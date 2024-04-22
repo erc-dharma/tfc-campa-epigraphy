@@ -140,7 +140,7 @@
 <app loc="A2">
 <lem source="bib:Griffiths+al2008-2009_01">jaya<unclear>ti</unclear></lem>
 <rdg source="bib:Finot1915_06">jayadā<supplied reason="lost">naṁ</supplied></rdg>
-<note>Finot's reading was repeated, without square brackets and introducing a new variation (<foreign>prakāśavarmmā</foreign>), in <bibl><ptr target="bib:Schweyer2009_01"/><citedRange unit="page">35</citedRange><citedRange unit="note">60</citedRange></bibl>.</note>
+<!-- <note>Finot's reading was repeated, without square brackets and introducing a new variation (<foreign>prakāśavarmmā</foreign>), in <bibl><ptr target="bib:Schweyer2009_01"/><citedRange unit="page">35</citedRange><citedRange unit="note">60</citedRange></bibl>.</note> -->
 </app>
 </listApp>
          </div>
@@ -148,12 +148,12 @@
          <p n="A">Homage to Śiva. Śrī Prakāśadharman triumphs!</p>
           <p n="B">Lord of Campā.</p>
        </div>
-      <div type="translation" xml:lang="fra" source="bib:Griffiths+al2008-2009_01">
-         <p n="A">Hommage à Śiva. Śrī Prakāśadharmmā triomphe!</p>         
+      <div type="translation" xml:lang="fra" resp="part:argr">
+         <p n="A">Hommage à Śiva. Śrī Prakāśadharman triomphe!</p>         
           <p n="B">Seigneur du Campā.</p>
       </div>
       <div type="bibliography">
-        <p>First edited by Louis Finot (<bibl rend="omitname"><ptr target="bib:Finot1915_06"/></bibl>). The present edition and translation after <bibl><ptr target="bib:Griffiths+al2008-2009_01"/></bibl>, based on EFEO estampage m. 1946.</p>
+        <p>The main part was first edited in <bibl><ptr target="bib:Finot1915_06"/></bibl>. A new edition with commentary, revealing the existence of an additional part, was published in <bibl><ptr target="bib:Griffiths+al2008-2009_01"/></bibl>, based on EFEO estampage n. 1946.</p>
         <listBibl type="primary">
 	<bibl n="F"><ptr target="bib:Finot1915_06"/><citedRange unit="page">112</citedRange></bibl></listBibl>
 	<bibl n="ECIC"><ptr target="bib:Griffiths+al2008-2009_01"/><citedRange unit="page">463-464</citedRange></bibl>

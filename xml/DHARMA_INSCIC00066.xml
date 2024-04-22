@@ -93,7 +93,7 @@
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:00000">
+         <div type="edition" xml:lang="san-Latn">
           <ab><milestone type="pagelike" unit="face" n="A"/>
             <lb n="A01"/><g type="indistinct"/> śrīlakṣmīndralokeśvarāya <supplied reason="lost">namaḥ</supplied>
           </ab>

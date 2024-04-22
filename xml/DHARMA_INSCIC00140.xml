@@ -88,7 +88,7 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="ocm-Latn">
+         <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:00000">
            <p><milestone type="pagelike" unit="face" n="A"/><!--sapi2argr Inversion des faces entre le rtf et les estampages n0262. -->
            <lb n="A1"/><g type="ddandaPlain"/><g type="ddandaPlain"/> <num value="897">897</num> niy· snaḥ Urāṅ· ya grāc· humā di velā nan· pu lyaṅ· śrī jayasiṅhavar<choice><sic>ṇ</sic><corr>m</corr></choice>ma ṅan· pu lki kumāramātya kluñ·
            <lb n="A2"/>nagar· ṅan· pom̃ ku kluñ· kunurun· ṅan· satyām̐ dhipatiḥ<!-- sapi2argr à la place de satyādhipatiḥ --> ṅan· pom̃ saṅgr<unclear>ā</unclear>macar· ṅan· sabhādharmmādhikār· ṅan· pom̃ jayavikraṁ ṅan· pom̃ yudhādhikā<lb

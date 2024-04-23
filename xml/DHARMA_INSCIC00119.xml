@@ -157,7 +157,7 @@ Estampages EFEO: 562; 563 photographié par AL. -->
 			</listBibl>
            <listBibl type="secondary">
               <bibl><ptr target="bib:Finot1915_02"/><citedRange unit="page">40-41</citedRange></bibl>
-	<bibl><ptr target="bib:Majumdar1927_01"/><citedRange unit="page">150-151</citedRange><citedRange unit="item">54</citedRange></bibl>
+	<bibl><ptr target="bib:Majumdar1927_01"/><citedRange unit="book">III</citedRange><citedRange unit="page">150-151</citedRange><citedRange unit="item">54</citedRange></bibl>
 	<bibl><ptr target="bib:Golzio2004_01"/><citedRange unit="page">123-124</citedRange></bibl>
            </listBibl>
         </div>

@@ -287,7 +287,7 @@
           <p n="B8">huviy·: one could possibly read huriy·.</p>
          </div>
         <div type="bibliography">
-           <p>First edited by E. Huber (<bibl rend="omitname"><ptr target="bib:Huber1911_01"/><citedRange unit="page">277-282</citedRange></bibl>). Then re-edited by R. C. Majumdar (<bibl rend="omitname"><ptr target="bib:Majumdar1927_02"/><citedRange unit="page">105-109</citedRange></bibl>)<!--sapi2argr Je ne suis pas certaine ici de la référence. Elle me semblait être la plus probable, mais je n'ai pas pu vérifier --> and by K.-H. Golzio (<bibl rend="omitname"><ptr target="bib:Golzio2004_01"/><citedRange unit="page">89-92</citedRange></bibl>). The text is re-edited here by Arlo Griffiths from the estampage EFEO n. 155a and n. 155b, with a fresh translation.</p>
+           <p>First edited by E. Huber (<bibl rend="omitname"><ptr target="bib:Huber1911_01"/></bibl>). Then re-edited by R. C. Majumdar (<bibl rend="omitname"><ptr target="bib:Majumdar1927_01"/></bibl>) and by K.-H. Golzio (<bibl rend="omitname"><ptr target="bib:Golzio2004_01"/></bibl>). The text is re-edited here by Arlo Griffiths from the estampage EFEO n. 155a and n. 155b, with a fresh translation.</p>
         	<listBibl type="primary">
             <bibl n="H">
             <ptr target="bib:Huber1911_01"/>
@@ -296,8 +296,8 @@
 			</listBibl>
            <listBibl type="secondary">
              <bibl>
-             <ptr target="bib:Majumdar1927_02"/>
-             <citedRange unit="page">105-109</citedRange>
+             <ptr target="bib:Majumdar1927_01"/><citedRange unit="book">III</citedRange>
+             <citedRange unit="page">105-109</citedRange><citedRange unit="item">37</citedRange>
            </bibl>
            <bibl>
              <ptr target="bib:Golzio2004_01"/>

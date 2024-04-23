@@ -195,7 +195,7 @@ Le texte ici constitué se base sur inspection de la pierre et de l’estampage 
 	<bibl n="LF"><ptr target="bib:Finot1915_01"/><citedRange unit="page">12-14</citedRange><citedRange unit="item">B 2. 23</citedRange></bibl>
 	</listBibl>
            <listBibl type="secondary">
-	<bibl><ptr target="bib:Majumdar1927_02"/><citedRange unit="page">222-223</citedRange><citedRange unit="item">117</citedRange></bibl>
+	<bibl><ptr target="bib:Majumdar1927_01"/><citedRange unit="book">III</citedRange><citedRange unit="page">222-223</citedRange><citedRange unit="item">117</citedRange></bibl>
 	<bibl><ptr target="bib:Golzio2004_01"/><citedRange unit="page">198</citedRange></bibl>
               <bibl><ptr target="bib:Schweyer2008_01" /><citedRange unit="page">225-226</citedRange></bibl>
            </listBibl>

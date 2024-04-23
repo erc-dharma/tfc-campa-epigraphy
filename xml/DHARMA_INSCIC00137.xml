@@ -202,7 +202,7 @@
 </listBibl>
 <listBibl type="secondary">
 <bibl><ptr target="bib:Finot1915_01"/><citedRange unit="page">17</citedRange></bibl>
-<bibl><ptr target="bib:Majumdar1927_02"/><citedRange unit="page">13-14</citedRange><citedRange unit="item">9</citedRange></bibl>
+<bibl><ptr target="bib:Majumdar1927_02"/><citedRange unit="book">III</citedRange><citedRange unit="page">13-14</citedRange><citedRange unit="item">9</citedRange></bibl>
 <bibl n="CIC"><ptr target="bib:Griffiths+al2008-2009_01"/><citedRange unit="page">447</citedRange></bibl>
 </listBibl>
 </div>

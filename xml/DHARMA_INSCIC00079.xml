@@ -183,7 +183,7 @@
 </listBibl>
 <listBibl type="secondary">
 <!-- <bibl><ptr target="cic-bibl:parmentier-1909"/>: <biblScope>357</biblScope></bibl>  -->
-<bibl><ptr target="bib:Majumdar1927_02"/><citedRange unit="page">27</citedRange><citedRange unit="item">14</citedRange></bibl>
+<bibl><ptr target="bib:Majumdar1927_01"/><citedRange unit="book"></citedRange><citedRange unit="page">27</citedRange><citedRange unit="item">14</citedRange></bibl>
 <bibl n="CIC"><ptr target="bib:Griffiths+al2008-2009_01"/><citedRange unit="page">458</citedRange></bibl>
 </listBibl>
 </div>

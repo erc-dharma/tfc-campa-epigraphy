@@ -160,7 +160,7 @@
 	<bibl n="ECIC"><ptr target="bib:Griffiths+al2008-2009_01"/><citedRange unit="page">461, 463-464</citedRange></bibl>
 </listBibl>
         <listBibl type="secondary">
-	<bibl><ptr target="bib:Majumdar1927_01"/><citedRange unit="page">28</citedRange><citedRange unit="item">15</citedRange></bibl>
+	<bibl><ptr target="bib:Majumdar1927_01"/><citedRange unit="book">III</citedRange><citedRange unit="page">28</citedRange><citedRange unit="item">15</citedRange></bibl>
 	<bibl><ptr target="bib:Golzio2004_01"/><citedRange unit="page">12</citedRange></bibl>
           <bibl><ptr target="bib:Schweyer2009_01"/><citedRange unit="page">35</citedRange></bibl>
           <bibl><ptr target="bib:Southworth2011_01"/><citedRange unit="page">111</citedRange></bibl>

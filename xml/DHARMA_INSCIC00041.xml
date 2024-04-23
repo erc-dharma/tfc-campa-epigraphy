@@ -88,6 +88,12 @@
 <lb n="A3"/>pr̥thiv<unclear>ī</unclear><supplied reason="omitted">ṁ</supplied> prasādāt k<choice><sic>ā</sic><corr>a</corr></choice>rmma-siddhir astu <g type="spiralR"/></p>
 <ab><milestone type="pagelike" unit="zone" n="B"/><label>Secondary</label><lb n="B1"/><seg rend="check">śivo dāso baddhyate</seg></ab>
          </div>
+<!-- 
+Daniel Balogh, email 2024-04-22:
+I have no suggestions about the reading or interpretation, but would like to note that this is one of those cases where using textparts would seem appropriate to me. The two inscriptions are quite separate, A ends completely and is even terminated with a symbol in midline, while B is separate from it both spatially and in script size. If you do prefer using a pagelike partition, I'm OK with that since we made the deliberate decision to restrict textpart divs to a minimum, but a textpart div is what I would use for this.
+-->
+
+
          <div type="apparatus">
                <listApp>
                   <app loc="A2">

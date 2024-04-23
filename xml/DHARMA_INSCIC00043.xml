@@ -89,7 +89,7 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:00000">
+         <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83213">
 <ab xml:lang="san-Latn"><milestone type="pagelike" unit="face" n="A"/><label>Front</label><!-- §5.4. --><lb n="01"/>Aum̐<!-- actually centered between ṇama and śivāya --><lb n="02"/>ṇama śivāya</ab>
 <p><lb n="A1"/><g type="floretQuatrefoil"/> svasti <g type="danda">.</g> madā paramarājotauma sa dr̥im̃<!-- 2024: can't we just read this as dri? cf. A8 kaśattriya --> prathamarājā<lb 
 n="A2" break="no"/>viśeka dr̥m̃ nāma yām̃ pom̃ ku śrī vr̥ṣuviṣṇujātti vīrabhadra<lb break="no" 

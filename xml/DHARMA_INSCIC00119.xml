@@ -95,10 +95,11 @@
 n="A6" break="no"/>rmma pavaṅun· drim̃ dāk·<!-- jāk·? --> <seg rend="check">sā</seg> dā ya<!-- cf. the sequence at the end of A3 --> paputau ra kam̃n· di nagara nim̃ rim̃ nan· pi<!-- si? --> jem̃ yām̃ po ku śrī parameśvaravarmmadeva ra vā vala Udyāna marai paliṅyak· nagara niyām̃ ka rim̃<!-- narim̃ -->
 <lb n="A7"/>nan· ra vrim̃ vala nau tūy· mak· Urām̃ pāṇḍuraṅga nim̃ di dadam̃n· vivara-sthāna <seg rend="check">hu</seg>tān· ya vyūha ṅan· di dadam̃n· śikhara parvvata huluv· glai ya jlauṅ·<!-- glauṅ --> Aviḥ
 
-<milestone type="pagelike" unit="face" n="B"/><label>Right</label><lb n="B1"/>tra vala di nan ñu tamā mak di dalaṁ guhā di huk hāṅ di dalaṁ luvāṅ vatuv ñu mak tmuv a-
-<lb n="B2"/>vista upak ka klāḥ sa drei eḥ (?) nan di śakarāja 972 [EEPC, pp. 41/49] hurei salapan vaṅun vulān pāk vr̥haspati vom̃|ra [sic!]
-<lb n="B3"/>nan ra ndok vatuv sa drei sa vauḥ di dadam̃n tu vuḥ vala ya marai nan aviḥ bharuv ra mvūk pajeñ jayastambha pyeḥ ka vā ci<lb n="B4" break="no"/>hna ājñā yāṅ po ku śrī parameśvaravarmmadeva ga nei nan vela yaḥ madā jayastambha ājñā nim̃ vlo mam̃n· urām̃ pāṇḍuraṅga (ni[m̃] eḥ (?))
-<lb n="B5"/> knā si clam̃ṅ· adhama trā knā silādhāra tupak· di pu pom̃ tana rayā nagara campa sadākāla mam̃n· niś(c)aya ||</p>
+<milestone type="pagelike" unit="face" n="B"/><label>Right</label><lb n="B1"/>tra vala dinan· ñu tamā mak· di dalaṁ guhā di huk· hāṅ· di dalaṁ luvāṅ· vatuv· ñu mak· tmuv· A<lb 
+n="B2" break="no"/>vista Upak· ka klāḥ sa drim̃ la Oḥ nan· di śakarāja <num value="972">972</num> hurim̃ salapan· vaṅun· vulān· pāk· vr̥haspati-<seg rend="check">bvāra</seg>
+<lb n="B3"/>nan<seg rend="check">·</seg> ra ndok· vatuv· sa drim̃ sa vauḥ di dadam̃n tuvuḥ vala ya marai nan· Aviḥ bharuv· ra mvūk· pajem̃ jayastambha pyauḥ <seg rend="check">ka vā</seg> ci<lb 
+n="B4" break="no"/>hna Ājñā yām̃ po ku śrī parameśvaravarmmadeva ganim̃ nan· vela yaḥ madā jayastambha Ājñā nim̃ vlo<!-- read/supply ṁ --> mam̃n· Urām̃ pāṇḍuraṅga nim̃ Oḥ
+<lb n="B5"/>knā si clam̃ṅ· Adhama trā knā silādhāra tupak· di pu-pom̃ tana rayā nagara campa sadākāla mam̃n· niścaya <g type="ddanda">.</g><g type="circleTarget"/></p>
          </div>
          <div type="apparatus">
                <listApp>
@@ -121,6 +122,24 @@ n="A6" break="no"/>rmma pavaṅun· drim̃ dāk·<!-- jāk·? --> <seg rend="che
 <app loc="A6">
 <lem>sā</lem>
 <rdg source="bib:Finot1909_01">ha</rdg>
+</app>
+<app loc="B2">
+<lem>la Oḥ</lem>
+<rdg source="bib:Finot1909_01"><unclear cert="low">Eḥ</unclear></rdg>
+<note>It seems that Finot entirely overlooked <foreign>la</foreign>. The sequence <foreign>la Oḥ</foreign> also occurs in <ref target="DHARMA_INSCIC00210.xml">C. 210</ref>.</note>
+</app>
+<!-- B2 on reading 972, see [EEPC, pp. 41/49] -->
+<app loc="B2">
+<lem>-bvāra</lem>
+<rdg source="bib:Finot1909_01"><sic>vom̃|ra</sic></rdg>
+</app>
+<app loc="B3">
+<lem>pyauḥ</lem>
+<rdg source="bib:Finot1909_01">pyeḥ</rdg>
+</app>
+<app loc="B3">
+<lem>Oḥ</lem>
+<rdg source="bib:Finot1909_01"><unclear cert="low">Eḥ</unclear></rdg>
 </app>
                </listApp>
          </div>

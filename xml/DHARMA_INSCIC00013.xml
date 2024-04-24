@@ -82,7 +82,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:argr" when="2024-04-24" status="draft">Revisions</change>
+            <change who="part:argr" when="2024-04-24" status="draft">Revisions to encoding and edition</change>
             <change who="part:sapi" when="2021-02-17" status="draft">Adding translation</change>
             <change who="part:sapi" when="2021-02-16" status="draft">Started encoding the inscription</change>
         </revisionDesc>
@@ -92,32 +92,30 @@
          <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83213">
            <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A1"/><g type="ddanda"/><g type="spiralR"/><g type="ddanda"/> svasti<g type="ddanda"/><g type="circleConcentric"/><g type="ddanda"/></ab>
            <lg n="1" met="anuṣṭubh" xml:lang="san-Latn">
-             <l n="a"><lb n="A1"/>nāmnā śrī yuvarājo yas</l>
+             <l n="a"><lb n="A1"/>nāmnā śrī-yuvarājo yas</l>
              <l n="b">senā-prabhu<lb n="A2" break="no"/>r atiṣṭhipat·</l>
              <l n="c">liṅgam ūrvvyāñ ciraṅ-kīrttyai</l>
              <l n="d">karṇṇ<choice><sic>a</sic><corr>ā</corr></choice>dry-ātma-śakādhipe</l>
            </lg>
-           <lg n="2" met="mixed" xml:lang="san-Latn">
-             <l n="a" met="------+-+-+="><lb n="A3"/><g type="ddanda"/><g type="spiralR"/><g type="ddanda"/> sakala-jana-mano-<supplied reason="subaudible">'</supplied>bhirāma-<unclear>bh</unclear>a<unclear>d</unclear>ro</l>
-             <l n="b" met="----+--+-+-+-+=">raṇa-viditogra-yaśo<lb n="A4" break="no"/>-niviṣṭa-kamvu-deśaḥ</l>
-             <l n="c" met="------+-+-+=">vara-jana-gadito <supplied reason="subaudible">'</supplied>dya dāna-puṇye</l>
-             <l n="d" met="----+--+-+-+-+=">bhuvi ca vibhāty aniśaṁ sa ca<lb n="A5" break="no"/>mpa-deśa-pālī</l>
+           <lg n="2" met="------+-+-+=/----+--+-+-+-+=" xml:lang="san-Latn">
+             <l n="a"><lb n="A3"/><g type="ddanda"/><g type="spiralR"/><g type="ddanda"/> sakala-jana-mano-<supplied reason="subaudible">'</supplied>bhirāma-<unclear>bh</unclear>a<unclear>d</unclear>ro</l>
+             <l n="b">raṇa-viditogra-yaśo<lb n="A4" break="no"/>-niviṣṭa-kamvu-deśaḥ</l>
+             <l n="c">vara-jana-gadito <supplied reason="subaudible">'</supplied>dya dāna-puṇye</l>
+             <l n="d">bhuvi ca vibhāty aniśaṁ sa ca<lb n="A5" break="no"/>mpa-deśa-pālī</l>
            </lg>
            <p><g type="ddanda"/><g type="dotMid"/><g type="ddanda"/> navvan· Urām̃ nagara panrā<unclear>ṅ</unclear>· nim̃ <unclear>k</unclear>intu <unclear>d</unclear>uñuv· duṣṭa pāpa-karmma nirvviveka sadā-kā<milestone type="pagelike" unit="face" n="B" break="no"/><lb
            n="B1" break="no"/>la Adhama di ya doṁ pu-pom̃ tana rayā ya nā rāja di naga<add place="inline">ra</add> campa <unclear reason="eccentric_ductus">l</unclear>um<unclear>ī</unclear>k<supplied reason="lost">·</supplied> n<supplied reason="lost">im̃</supplied>
            <lb n="B2"/>marai navai kā tam̃l· rāja yām̃ pom̃ ku parameśvaravarmmadeva yam̃ṅ· dharmma-rāja trā la duñuv· kā A<lb
            n="B3" break="no"/>dhama paputau Urām̃ di na<choice><sic>ś</sic><corr>g</corr></choice>ara nim̃ suhetu yām̃ po ku parameśvaravarmmadeva Apramāda Upak· raloy<unclear reason="eccentric_ductus">·</unclear> drim̃ mam̃n· si jem̃
-           <lb n="B4"/>ra vā vala marai karim̃ bharuv· ra ktap·<!-- tnap·? --> vala dadam̃n· pagā ra vrim̃ pu-lyam̃ śrī yuva-rāja mahā-senāpatī yam̃ṅ· kumaun· yām̃ po ku śrī pa<lb
+           <lb n="B4"/>ra vā vala marai karim̃ bharuv· ra ktap·<!-- tnap·? --> vala dadam̃n· pagā ra vrim̃ pu-lyam̃ śrī yuvarāja mahā-senāpatī yam̃ṅ· kumaun· yām̃ po ku śrī pa<lb
            n="B5" break="no"/>rameśvaravarmmadeva dunan· senāpatī-pramukha nau Andap· ra nvak· nagara nim̃ mam̃n· ya dom̃ vala panrām̃ dinan· kā mr̥suḥ ra kyāp· jauḥ pa<lb
-           n="B6" break="no"/>raspara sa pak· sā nau dam̃p· di ya doṁ mahāvivara guhā ṅan· śikhara parvva<choice><sic>k</sic><corr>t</corr></choice>a yam̃ṅ· Ativyūha mam̃ṅ· ra vrim̃ vala tūy· nau di dadam̃ṅ· dadam̃ṅ· diśa mam̃ṅ· vala nan·
+           n="B6" break="no"/>raspara sa pak· sā nau dam̃p· di ya doṁ mahā-vivara guhā ṅan· śikhara parvva<choice><sic>k</sic><corr>t</corr></choice>a yam̃ṅ· Ativyūha mam̃ṅ· ra vrim̃ vala tūy· nau di dadam̃ṅ· dadam̃ṅ· diśa mam̃ṅ· vala nan·
            <lb n="B7"/>kā mak· Urām̃ nagara panrām̃ nim̃ niśśeṣa ṅan· lamvauv· kruvāv· hulun· limān· Avista suhetu yām̃ po ku śrī parameśvaravarmmadeva dharmma-rāja<milestone type="pagelike" unit="face" n="C"/>
-           <lb n="C1"/>@@@@@mam̃n· ra kaḥ Arddhabhāga Urām̃ di nan· Amnā vrim̃ daut· <!--note rtf : daut·: corriger dauk·?--> pajem̃ nagara
-           <lb n="C2"/>na <gap reason="lost" quantity="8" unit="character"/> <unclear>r</unclear>a vā nau vuḥ di radam̃n· devālaya vihāra kuṭī śāla Araṇyāśrayakaraṇa
-           <lb n="C3"/>jane ra dharmma padā la navvan· pu-lyam̃ śrī yuvarāja mahāsenāpatī ra ndok· vatuv· di dadam̃n· vala padhā du<lb
-           n="C4" break="no"/>nan· ra pratiṣṭhā liṅga ga ni<unclear>ṁ</unclear> ṅan· di Ajvañ· sauy· ha muhūrtti karaṇa jayastambha tra hetu dunan· śivabha<lb
-           n="C5" break="no"/>kti rim̃ mam̃n· hake Urām̃ nagara ni<unclear>ṁ</unclear> velayaḥ madā mvoḥ cihna rūpa liṅga nim̃ madā vloṁ mam̃n· kdā pi Anumāna su
-           <lb n="C6"/>dam̃r· janma jmai Adhama di ya doṁ pu-pom̃ tana rayā di nagara campa ya mam̃jem̃ Andap· niy· nau
-           </p>
+           <lb n="C1"/>mam̃n· ra kaḥ Arddha-bhāga Urām̃ dinan· Amnā vrim̃ dau<choice><sic>t</sic><corr>k</corr></choice>· pajem̃ nagara
+           <lb n="C2"/>na<gap reason="lost" quantity="8" unit="character"/><unclear>r</unclear>a vā nau vuḥ di <unclear reason="eccentric_ductus">d</unclear>adam̃n· devālaya vihāra kuṭī śāla Araṇyāśrayakaraṇa
+           <lb n="C3"/><seg rend="check">jane ra</seg> dharmma padā la navvan· pu-lyam̃ śrī yuvarāja mahā-senāpatī ra ndok· vatuv· di dadam̃n· vala pagā du<lb
+           n="C4" break="no"/>nan· ra pratiṣṭhā liṅga gani<unclear>m̃</unclear> ṅan· di Ajvañ· sauy· <seg rend="check">ha</seg><!-- read/corr sā? --> muhūrtt<choice><sic>i</sic><corr>a</corr></choice> karaṇa jayastambha tra hetu dunan· śivabha<lb
+           n="C5" break="no"/>kti rim̃ mam̃n· hake Urām̃ nagara ni<unclear>m̃</unclear> vela yaḥ madā mvoḥ cihna rūpa liṅga nim̃ madā vloṁ mam̃n· knā si Anumāna su<lb n="C6" break="no"/>dam̃r· janma jmai Adhama di ya doṁ pu-pom̃ tana rayā di nagara campa ya ma<surplus>m̃</surplus>jem̃ Andap· niy· nau</p>
          </div>
          <div type="apparatus">
                <listApp>
@@ -181,7 +179,7 @@
                      <note>The first <foreign>-na</foreign> syllable, as well as the lacuna, wasn't marked by Finot.</note>
                  </app>
                  <app loc="C2">
-                     <lem>di radam̃n·</lem>
+                     <lem><unclear reason="eccentric_ductus">d</unclear>adam̃n·</lem>
                      <rdg source="bib:Finot1903_04">di dadān</rdg>
                  </app>
                  <app loc="C3">
@@ -193,17 +191,19 @@
                      <lem>dadam̃n·</lem>
                      <rdg source="bib:Finot1903_04">dadān</rdg>
                  </app>
+<app loc="C3"><lem>pagā</lem><rdg source="bib:Finot1903_04">pa<unclear>dh</unclear>ā</rdg></app>
                  <app loc="C4">
                      <lem>ha</lem>
                      <rdg source="bib:Finot1903_04">sā</rdg>
                  </app>
+<app loc="C5"><lem>knā si</lem><rdg source="bib:Finot1903_04">kdā pi</rdg></app>
                  <app loc="C6">
                      <lem>mam̃jem̃</lem>
                      <rdg source="bib:Finot1903_04">majem̃</rdg>
                  </app>
                  <app loc="C6">
                      <lem>nau</lem>
-                     <note>Finot read a punctuation mark at the end of the line, but it more likely is an elaborate form of the -<foreign>au</foreign> vowel, which has the function of a punctuation mark, without being one.</note>
+                     <note>Finot read a punctuation mark at the end of the line, but it more likely is an elaborate form of the <foreign>au</foreign> marker, which has the function of a punctuation mark, without being one.</note>
                  </app>
                </listApp>
          </div>

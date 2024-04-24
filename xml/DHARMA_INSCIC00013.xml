@@ -8,21 +8,26 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-              <title>Po Klong Garai rock inscription (C. 13), 972 Śaka</title>
-              <respStmt>
-                 <resp>EpiDoc Encoding</resp>
-                 <persName ref="part:sapi">
-                    <forename>Salomé</forename>
-                    <surname>Pichon</surname>
-                 </persName>
-              </respStmt>
-              <respStmt>
-                 <resp>intellectual authorship of edition</resp>
-                 <persName ref="part:argr">
-                    <forename>Arlo</forename>
-                    <surname>Griffiths</surname>
-                 </persName>
-              </respStmt>
+              <title>Rock at Po Klong Garai (C. 13), 972 Śaka</title>
+            	<respStmt>
+            		<resp>EpiDoc Encoding</resp>
+            		<persName ref="part:argr">
+            			<forename>Arlo</forename><surname>Griffiths</surname>
+            		</persName>
+            		<persName ref="part:sapi">
+            			<forename>Salomé</forename><surname>Pichon</surname>
+            		</persName>
+            	</respStmt>
+            	<respStmt>
+            		<resp>intellectual authorship of edition</resp>
+            		<persName ref="part:argr">
+            			<forename>Arlo</forename>
+            			<surname>Griffiths</surname>
+            		</persName>
+            		<persName ref="part:sapi">
+            			<forename>Salomé</forename><surname>Pichon</surname>
+            		</persName>
+            	</respStmt>
             </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
@@ -77,40 +82,41 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:argr" when="2024-04-24" status="draft">Revisions</change>
             <change who="part:sapi" when="2021-02-17" status="draft">Adding translation</change>
-            <change who="part:sapi" when="2021-02-16" status="draft">Beggining initial encoding of the inscription</change>
+            <change who="part:sapi" when="2021-02-16" status="draft">Started encoding the inscription</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
-           <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A01"/><g type="ddandaPlain"/><g type="spiralR"/><g type="ddandaPlain"/> svasti<g type="ddandaPlain"/><g type="eye"/><!-- ou circleConcentric ?--><g type="ddandaPlain"/></ab>
-           <lg n="1" met="anuṣṭubh">
+         <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83213">
+           <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A1"/><g type="ddanda"/><g type="spiralR"/><g type="ddanda"/> svasti<g type="ddanda"/><g type="circleConcentric"/><g type="ddanda"/></ab>
+           <lg n="1" met="anuṣṭubh" xml:lang="san-Latn">
              <l n="a"><lb n="A1"/>nāmnā śrī yuvarājo yas</l>
-             <l n="b">senāprabhu<lb n="A2"/>r atiṣṭhipat·</l>
-             <l n="c">liṅgam ūrvvyāñ ciraṅkīrttyai</l>
-             <l n="d">karṇṇ<choice><sic>a</sic><corr>ā</corr></choice>dryātmaśakādhipe</l>
+             <l n="b">senā-prabhu<lb n="A2" break="no"/>r atiṣṭhipat·</l>
+             <l n="c">liṅgam ūrvvyāñ ciraṅ-kīrttyai</l>
+             <l n="d">karṇṇ<choice><sic>a</sic><corr>ā</corr></choice>dry-ātma-śakādhipe</l>
            </lg>
-           <lg n="2" met="12/15/12/15"><!--copier/coller de ce qui est sur le rtf-->
-             <l n="a"><lb n="A3"/><g type="ddandaPlain"/><g type="spiralR"/><g type="ddandaPlain"/> sakalajanamanobhirāma<choice><unclear>bha</unclear><unclear>ca</unclear></choice>nro</l>
-             <l n="b">raṇaviditograyaśo<lb n="A4"/>niviṣṭakamvudeśaḥ</l>
-             <l n="c">varajanagadito dya dānapuṇye</l>
-             <l n="d">bhuvi ca vibhāty aniśaṁ sa ca<lb n="A5"/>mpadeśapālī</l>
+           <lg n="2" met="mixed" xml:lang="san-Latn">
+             <l n="a" met="------+-+-+="><lb n="A3"/><g type="ddanda"/><g type="spiralR"/><g type="ddanda"/> sakala-jana-mano-<supplied reason="subaudible">'</supplied>bhirāma-<unclear>bh</unclear>a<unclear>d</unclear>ro</l>
+             <l n="b" met="----+--+-+-+-+=">raṇa-viditogra-yaśo<lb n="A4" break="no"/>-niviṣṭa-kamvu-deśaḥ</l>
+             <l n="c" met="------+-+-+=">vara-jana-gadito <supplied reason="subaudible">'</supplied>dya dāna-puṇye</l>
+             <l n="d" met="----+--+-+-+-+=">bhuvi ca vibhāty aniśaṁ sa ca<lb n="A5" break="no"/>mpa-deśa-pālī</l>
            </lg>
-           <p xml:lang="ocm-Latn"><g type="ddandaPlain"/><g type="dotMid"/><g type="ddandaPlain"/> navvan· Urām̃ nagara panrā<unclear>ṅ</unclear>· nim̃ <unclear>k</unclear>intu <unclear>d</unclear>uñuv· duṣṭa pāpakarmma nirvviveka sadākā<milestone type="pagelike" unit="face" n="B"/><lb
-           n="B1" break="no"/>la Adhama di ya doṁ pu pom̃ tana rayā ya nā rāja di nagara campa lum<unclear>ī</unclear>k<supplied reason="lost">·</supplied> n<supplied reason="lost">im̃</supplied>
-           <lb n="B2"/>marai na vai kā tam̃l· rāja yām̃ pom̃ ku parameśvaravarmmadeva yam̃ṅ· dharmmarāja trā la duñuv· kā A<lb
-           n="B3" break="no"/>dhama paputau Urām̃ di nagara nim̃ suhetu yām̃ po ku parameśvaravarmmadeva Apramāda Upak· ralo y<supplied reason="omitted">au</supplied> drim̃ mam̃n· si jem̃
-           <lb n="B4"/>ra vā vala marai karim̃ bharuv· ra ktap· vala dadam̃n· pagā ra vrim̃ pu lyam̃ śrī yuvarāja mahāsenāpatī yam̃ṅ· kumaun· yām̃ po ku śrī pa<lb
-           n="B5" break="no"/>rameśvaravarmmadeva dunan· senāpatī pramukha nau Andap· ra nvak· nagara nim̃ mam̃n· ya dom̃ vala panrām̃ dinan· kā mr̥suḥ ra kyāp· jauḥ pa<lb
-           n="B6" break="no"/>raspara sa pak· sā nau dam̃p· di ya doṁ mahāvivara guhā ṅan· śikhara parvva<choice><sic>k</sic><corr>t</corr></choice>a yam̃ṅ· Ativyūha mam̃ṅ· ra vrim̃ vala tūy· nau di dadam̃ṅ· dadam̃ṅ· diśa mam̃ṅ· vala<!--vérifier terminaison--> nan·
-           <lb n="B7"/>kā mak· Urām̃ nagara panrām̃ nim̃ niśśeṣa ṅan· lamvauv· kruvāv hulun· limān· Avista suhetu yām̃ po ku śrī parameśvaravarmmadeva dharmmarāja<milestone type="pagelike" unit="face" n="C"/>
-           <lb n="C1"/>mam̃n· ra kaḥ Arddhabhāga Urām̃ di nan· Amnā vrim̃ daut· <!--note rtf : daut·: corriger dauk·?--> pajem̃ nagara
+           <p><g type="ddanda"/><g type="dotMid"/><g type="ddanda"/> navvan· Urām̃ nagara panrā<unclear>ṅ</unclear>· nim̃ <unclear>k</unclear>intu <unclear>d</unclear>uñuv· duṣṭa pāpa-karmma nirvviveka sadā-kā<milestone type="pagelike" unit="face" n="B" break="no"/><lb
+           n="B1" break="no"/>la Adhama di ya doṁ pu-pom̃ tana rayā ya nā rāja di naga<add place="inline">ra</add> campa <unclear reason="eccentric_ductus">l</unclear>um<unclear>ī</unclear>k<supplied reason="lost">·</supplied> n<supplied reason="lost">im̃</supplied>
+           <lb n="B2"/>marai navai kā tam̃l· rāja yām̃ pom̃ ku parameśvaravarmmadeva yam̃ṅ· dharmma-rāja trā la duñuv· kā A<lb
+           n="B3" break="no"/>dhama paputau Urām̃ di na<choice><sic>ś</sic><corr>g</corr></choice>ara nim̃ suhetu yām̃ po ku parameśvaravarmmadeva Apramāda Upak· raloy<unclear reason="eccentric_ductus">·</unclear> drim̃ mam̃n· si jem̃
+           <lb n="B4"/>ra vā vala marai karim̃ bharuv· ra ktap·<!-- tnap·? --> vala dadam̃n· pagā ra vrim̃ pu-lyam̃ śrī yuva-rāja mahā-senāpatī yam̃ṅ· kumaun· yām̃ po ku śrī pa<lb
+           n="B5" break="no"/>rameśvaravarmmadeva dunan· senāpatī-pramukha nau Andap· ra nvak· nagara nim̃ mam̃n· ya dom̃ vala panrām̃ dinan· kā mr̥suḥ ra kyāp· jauḥ pa<lb
+           n="B6" break="no"/>raspara sa pak· sā nau dam̃p· di ya doṁ mahāvivara guhā ṅan· śikhara parvva<choice><sic>k</sic><corr>t</corr></choice>a yam̃ṅ· Ativyūha mam̃ṅ· ra vrim̃ vala tūy· nau di dadam̃ṅ· dadam̃ṅ· diśa mam̃ṅ· vala nan·
+           <lb n="B7"/>kā mak· Urām̃ nagara panrām̃ nim̃ niśśeṣa ṅan· lamvauv· kruvāv· hulun· limān· Avista suhetu yām̃ po ku śrī parameśvaravarmmadeva dharmma-rāja<milestone type="pagelike" unit="face" n="C"/>
+           <lb n="C1"/>@@@@@mam̃n· ra kaḥ Arddhabhāga Urām̃ di nan· Amnā vrim̃ daut· <!--note rtf : daut·: corriger dauk·?--> pajem̃ nagara
            <lb n="C2"/>na <gap reason="lost" quantity="8" unit="character"/> <unclear>r</unclear>a vā nau vuḥ di radam̃n· devālaya vihāra kuṭī śāla Araṇyāśrayakaraṇa
-           <lb n="C3"/>jane ra dharmma padā la navvan· pu lyam̃ śrī yuvarāja mahāsenāpatī ra ndok· vatuv· di dadam̃n· vala padhā du<lb
+           <lb n="C3"/>jane ra dharmma padā la navvan· pu-lyam̃ śrī yuvarāja mahāsenāpatī ra ndok· vatuv· di dadam̃n· vala padhā du<lb
            n="C4" break="no"/>nan· ra pratiṣṭhā liṅga ga ni<unclear>ṁ</unclear> ṅan· di Ajvañ· sauy· ha muhūrtti karaṇa jayastambha tra hetu dunan· śivabha<lb
            n="C5" break="no"/>kti rim̃ mam̃n· hake Urām̃ nagara ni<unclear>ṁ</unclear> velayaḥ madā mvoḥ cihna rūpa liṅga nim̃ madā vloṁ mam̃n· kdā pi Anumāna su
-           <lb n="C6"/>dam̃r· janma jmai Adhama di ya doṁ pu pom̃ tana rayā di nagara campa ya mam̃jem̃ Andap· niy· nau
+           <lb n="C6"/>dam̃r· janma jmai Adhama di ya doṁ pu-pom̃ tana rayā di nagara campa ya mam̃jem̃ Andap· niy· nau
            </p>
          </div>
          <div type="apparatus">
@@ -141,6 +147,10 @@
                      <lem>Upak·</lem>
                      <rdg source="bib:Finot1903_04">Upat</rdg>
                  </app>
+<app loc="B3"><lem>raloy<unclear reason="eccentric_ductus">·</unclear></lem>
+<rdg source="bib:Finot1903_04">ralo y<unclear reason="eccentric_ductua">au</unclear></rdg>
+<note>Note FINOT</note>
+</app>
                  <app loc="B4">
                      <lem>pramukha</lem>
                      <rdg source="bib:Finot1903_04">pramūla</rdg>
@@ -211,9 +221,9 @@
           <listBibl type="primary">
             <bibl n="F">
             <ptr target="bib:Finot1903_04"/>
-            <citedRange unit="page">643-646</citedRange>
+            <citedRange unit="page">643-646</citedRange><citedRange unit="figure">28</citedRange>
             </bibl>
-			</listBibl>
+         </listBibl>
            <listBibl type="secondary">
              <bibl>
                <ptr target="bib:Majumdar1927_01"/>

@@ -101,7 +101,7 @@ n="A3" break="no"/>ṅyak· rumaḥ yām̃ vihāra śāla kuṭī Araṇya ṅan
            <lb n="A5"/><supplied reason="lost">d</supplied><unclear>i</unclear> dadam̃n· pramāṇa nagara campa tra <g type="danda">.</g> ñu paliṅyak· di yām̃ po ku śrīśānabha⌈<lb n="A6" 
 break="no"/>dreśvara niy· tra <g type="danda">.</g> ṅan· ya <space type="defect"/> doṁ yām̃ si pu-pom̃ tana rayā dhiluv· kā
            <lb n="A7"/>pratiṣṭhā di bha<seg rend="check">nḍ</seg>āra yām̃ po ku śrīśānabhadreśvara nim̃ tra <g type="danda">.</g> ñu tok· ya
-           <lb n="A8"/>d<unclear>o</unclear>ṁ @@@ deva-dravya di nan· Aviḥ trā<!--note du rtf : trā ou tra | ? : trā Finot.--> ñu paliṅyak· ya doṁ Urām̃ yām̃ṅ· nr̥tya
+           <lb n="A8"/>d<unclear>o</unclear>ṁ deva-dravya dinan· Aviḥ tra <g type="danda">.</g> ñu paliṅyak· ya doṁ Urām̃ yām̃ṅ· nr̥tya
            <lb n="A9"/><supplied reason="lost">gīta</supplied> <unclear>ṅan·</unclear> <gap reason="illegible" quantity="4" unit="character"/> <unclear>Ana</unclear>tauṅ· ṅan· Urām̃ yām̃ṅ· parivāra ṅan· hajai <unclear>s</unclear>von· dadam̃n· <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>r̥ā</seg>
            <lb n="A10"/><gap reason="illegible" quantity="6" unit="character"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>u</seg> śr<supplied reason="lost">ī</supplied>śānabhadreśvara Aviḥ mam̃n· yām̃ po ku śrīśānabhadreśvara nim̃
            <lb n="A11"/>kā śunya nau Upak· tmuv· panūjā samū lumīk· nim̃ trā<!--note du rtf : trā ou tra | ? : trā Finot.-->  mam̃n· yām̃ po ku vijaya śrī
@@ -139,11 +139,12 @@ break="no"/>dreśvara niy· tra <g type="danda">.</g> ṅan· ya <space type="de
              <app loc="A2">
                  <lem>tra <g type="danda">.</g></lem>
                  <rdg source="bib:Finot1904_05">trā</rdg>
+<note>Finot consistently makes the same error of reading in the numerous occurrences of <foreign>tra <g type="danda">.</g></foreign>. Further instances will not be recorded.</note>
              </app>
-             <app loc="A4">
+             <!--<app loc="A4">
                  <lem>tra <g type="danda">.</g></lem>
                  <rdg source="bib:Finot1904_05">trā</rdg>
-             </app>
+             </app>-->
              <app loc="A4">
                  <lem>nīrmmūla</lem>
                  <rdg source="bib:Finot1904_05">nirmmūla</rdg>
@@ -153,26 +154,30 @@ break="no"/>dreśvara niy· tra <g type="danda">.</g> ṅan· ya <space type="de
 	<rdg source="bib:Finot1904_05"><gap reason="lost" unit="character" quantity="1"/>i</rdg>
                  <!--  Conjectural restitution. The word Aviḥ is very often followed by nī, though not niy. And dadən is often preceded by di. -->
              </app>
-	<app loc="A5">
+	<!--<app loc="A5">
                  <lem>tra <g type="danda">.</g></lem>
                  <rdg source="bib:Finot1904_05">trā</rdg>
-             </app>
-	<app loc="A6">
+             </app>-->
+<!--	<app loc="A6">
                  <lem>tra <g type="danda">.</g></lem>
                  <rdg source="bib:Finot1904_05">trā</rdg>
-             </app>
+             </app>-->
              <app loc="A7">
                  <lem>bhanḍāra</lem>
                  <rdg source="bib:Finot1904_05">bhandāra</rdg>
              </app>
-	<app loc="A7">
+<!--	<app loc="A7">
                  <lem>tra <g type="danda">.</g></lem>
                  <rdg source="bib:Finot1904_05">trā</rdg>
-             </app>
+             </app>-->
              <app loc="A7">
-                 <lem>ñu tok· ya d<unclear>o</unclear>ṁ deva dravya di nan· Aviḥ trā</lem>
-                 <rdg source="bib:Finot1904_05"><gap reason="illegible" quantity="16" unit="character"/></rdg>
+                 <lem>ñu tok· ya d<unclear>o</unclear>ṁ deva-dravya di nan· Aviḥ tra <g type="danda">.</g></lem>
+                 <rdg source="bib:Finot1904_05"><gap reason="omitted"/></rdg>
              </app>
+	<app loc="A8">
+	<lem>yam̃ṅ·</lem>
+	<rdg source="bib:Finot1904_05">yām̃ṅ·</rdg>
+	</app>
              <app loc="A9">
                  <lem><unclear>Ana</unclear>tauṅ·</lem>
                  <note>Cf. face B, l. 14.</note>
@@ -243,7 +248,7 @@ break="no"/>dreśvara niy· tra <g type="danda">.</g> ṅan· ya <space type="de
              </app>
              <app loc="A19">
                  <lem>vījāṅkura kā<gap reason="illegible" quantity="1" unit="character"/> kīrṇṇa</lem>
-                 <rdg source="bib:Finot1904_05">vījāṅkura <gap reason="illegible" quantity="1" unit="character"/> vikīrṇṇa</rdg>
+                 <rdg source="bib:Finot1904_05">vījāṅkura <gap reason="illegible" quantity="1" unit="character"/> vikīrṇṇa</rdg><!-- insert revised lem -->
              </app>
              <app loc="A20">
                  <lem>syāṁ samū pūrvvakāla</lem>

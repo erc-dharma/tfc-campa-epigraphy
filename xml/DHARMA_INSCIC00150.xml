@@ -118,8 +118,9 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change when="2021-05-18" who="part:argr part:sapi" status="draft">File revised to resolve validation problems; inscription re-edited; apparatus revised; bibliography adjusted; French translation added.</change>
-			<change when="2020-09-14" who="part:axja" status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
+	<change when="2024-04-25" who="part:argr" status="draft">minor fixes and addition to bibliography</change>
+	<change when="2021-05-18" who="part:argr part:sapi" status="draft">File revised to resolve validation problems; inscription re-edited; apparatus revised; bibliography adjusted; French translation added.</change>
+	<change when="2020-09-14" who="part:axja" status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
 		</revisionDesc>
 	</teiHeader>
 	<facsimile>
@@ -171,7 +172,7 @@
 <p>The text records a donation of land in favor of the otherwise unknown figure Ḍamareśvara. The name, meaning <q>Lord of Riots</q>, would at first sight seem to evoke Śiva. According to Huber, who cites no source, this is a name of Avalokiteśvara, but we know no evidence to support this identification. We tentatively assume the name is a Sanskritisation of a Cam name, and that we see the same again, in slightly different guise, in the name <foreign>draṁ-vihāra</foreign>, which may mean <q>Monastery of Dram</q>. Huber presumably thought of a Buddhist cult figure because the text mentions the word <foreign>vihāra</foreign>, which can indeed denote a Buddhist monastery, but can denote a Śaiva one as well: cf. <ref target="DHARMA_INSCIC00211.xml">C. 211</ref>.</p>
 </div>
 <div type="bibliography">
-<p>First published, with French translation, by E. Huber (<bibl rend="omitname"><ptr target="bib:Huber1911_01"/></bibl>). Newly edited and translated by Arlo Griffiths in <bibl><ptr target="bib:Griffiths+al2012_01"/><citedRange unit="page">235-236</citedRange></bibl>, whence, with minor modifcations, the edition presented here by Arlo Griffiths and Salomé Pichon.</p>
+<p>First published, with French translation, by E. Huber (<bibl rend="omitname"><ptr target="bib:Huber1911_01"/></bibl>). Newly edited and translated by Arlo Griffiths (in <bibl><ptr target="bib:Griffiths+al2012_01"/></bibl>), whence, with minor modifications, the edition presented here by Arlo Griffiths and Salomé Pichon.</p>
 <listBibl type="primary">
 	<bibl n="H"><ptr target="bib:Huber1911_01"/><citedRange unit="page">267</citedRange></bibl>
 	<bibl n="G"><ptr target="bib:Griffiths+al2012_01"/><citedRange unit="page">235-236</citedRange><citedRange unit="plate">XI</citedRange></bibl>

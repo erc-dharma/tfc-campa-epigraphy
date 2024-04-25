@@ -27,7 +27,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Paris</pubPlace>
-            <idno type="filename">DHARMA_INSCIC00094</idno><!-- _v03 -->
+            <idno type="filename">DHARMA_INSCIC00094</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -86,19 +86,22 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+          <change who="part:argr" when="2024-04-25" status="draft">Revisions</change>
          <change who="part:sapi" when="2021-04-27" status="draft">Initial encoding of the inscription</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:00000">
+         <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83213">
            <p><milestone type="pagelike" unit="face" n="A"/>
-           <lb n="A1"/><g type="ddandaOrnate"/><g type="ddandaPlain"/><g type="floretQuatrefoil"/><g type="dandaPlain"/> nagara campa niy· hetu śatrumaṇḍala kā ñu tamā ñu dauk·
-           <lb n="A2"/>putau ñu tok· ya doṁ sanāṅguḥ rājaśrī ṅan· devadravya<!--note du rtf : devadravya : la pierre comme les estampages sont abîmés à la fin de ce mot. On pourrait éventuellement lire devadravyā bien qu'un a soit plus probable en fait.--> Aviḥ trā ñu pali<lb n="A3" break="no"/>ṅyak· rumaḥ yām̃ vihāra śāla kuṭtī Araṇya ṅan· grāma dadam̃n· sthāna ṅan· Aśva
-           <lb n="A4"/><unclear>ga</unclear>ja rata padāti go mahiṣa trā<!--note du rtf : trā ou tra | ? : trā Finot.-->  ṅan· samasta vījāṅkura kā laṅyak· nīrmmūla Aviḥ
-           <lb n="A5"/><supplied reason="lost">n</supplied><unclear>ī</unclear> dadam̃n· pramāṇa nagara campa trā<!--note du rtf : trā ou tra | ? : trā Finot.--> ñu paliṅyak· di yām̃ po ku śrīśānabhad<lb n="A6" break="no"/>reśvara<!--sapi2argr Ici, il semblerait que la voyelle "e" du dre, se trouve à la fin de la ligne précédente. Cela est très inhabituel, non ?--> niy· trā<!--note du rtf : trā ou tra | ? : trā Finot.--> ṅan· ya <space/> doṁ yām̃ si pu pom̃ tana rayā dhiluv· kā
-           <lb n="A7"/>pratiṣṭhā di bhanḍāra yām̃ po ku śrīśānabhadreśvara nim̃ trā<!--note du rtf : trā ou tra | ? : trā Finot.--> ñu tok· ya
-           <lb n="A8"/>d<unclear>o</unclear>ṁ deva dravya di nan· Aviḥ trā<!--note du rtf : trā ou tra | ? : trā Finot.--> ñu paliṅyak· ya doṁ Urām̃ yām̃ṅ· nr̥tya
+           <lb n="A1"/><g type="ddandaOrnate"/><g type="ddandaOrnate"/> nagara campa niy· hetu śatrumaṇḍala kā ñu tamā ñu dauk·
+           <lb n="A2"/>putau ñu tok· ya doṁ sanaṅguḥ rājaśrī ṅan· deva-dravya Aviḥ tra <g type="danda">.</g> ñu pali<lb 
+n="A3" break="no"/>ṅyak· rumaḥ yām̃ vihāra śāla kuṭī Araṇya ṅan· grāma dadam̃n· sthāna ṅan· Aśva
+           <lb n="A4"/><unclear>ga</unclear>ja rata padāti go mahiṣa tra <g type="danda">.</g> ṅan· samasta vījāṅkura kā l<choice><sic>a</sic><corr>i</corr></choice>ṅyak· nīrmmūla Aviḥ
+           <lb n="A5"/><supplied reason="lost">d</supplied><unclear>i</unclear> dadam̃n· pramāṇa nagara campa tra <g type="danda">.</g> ñu paliṅyak· di yām̃ po ku śrīśānabha⌈<lb n="A6" 
+break="no"/>dreśvara niy· tra <g type="danda">.</g> ṅan· ya <space type="defect"/> doṁ yām̃ si pu-pom̃ tana rayā dhiluv· kā
+           <lb n="A7"/>pratiṣṭhā di bha<seg rend="check">nḍ</seg>āra yām̃ po ku śrīśānabhadreśvara nim̃ tra <g type="danda">.</g> ñu tok· ya
+           <lb n="A8"/>d<unclear>o</unclear>ṁ @@@ deva-dravya di nan· Aviḥ trā<!--note du rtf : trā ou tra | ? : trā Finot.--> ñu paliṅyak· ya doṁ Urām̃ yām̃ṅ· nr̥tya
            <lb n="A9"/><supplied reason="lost">gīta</supplied> <unclear>ṅan·</unclear> <gap reason="illegible" quantity="4" unit="character"/> <unclear>Ana</unclear>tauṅ· ṅan· Urām̃ yām̃ṅ· parivāra ṅan· hajai <unclear>s</unclear>von· dadam̃n· <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>r̥ā</seg>
            <lb n="A10"/><gap reason="illegible" quantity="6" unit="character"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>u</seg> śr<supplied reason="lost">ī</supplied>śānabhadreśvara Aviḥ mam̃n· yām̃ po ku śrīśānabhadreśvara nim̃
            <lb n="A11"/>kā śunya nau Upak· tmuv· panūjā samū lumīk· nim̃ trā<!--note du rtf : trā ou tra | ? : trā Finot.-->  mam̃n· yām̃ po ku vijaya śrī
@@ -107,11 +110,11 @@
            <lb n="A15"/><supplied reason="lost">na</supplied>n·<g type="ddandaPlain">.</g> ṅan· mahotsavatrayā <choice><unclear>p</unclear><unclear>s</unclear></choice>a kā bharuv· yām̃ po ku vijaya śrī harivarmmade<lb n="A16" break="no"/>va ndok· rājiji yām̃ po ku śrīśān<unclear>ā</unclear>bhadreśvara tuy· tanatap· mahar<unclear>ṣ</unclear>iḥ dhiluv· rai<!--note du rtf : Il est possible qu'il nous manque un akṣ. à la fin de la ligne.-->
            <lb n="A17"/>vuḥ Aṣṭa dālānā si kā Alaṅkāra nirmmita ṅan· suvarṇṇa raupya vi<unclear>s</unclear>itra pāk·<!--note du rtf : Il est possible qu'il manque 1 akṣ. en début de ligne. Voir selon la trad.-->
            <lb n="A18"/><supplied reason="lost">p</supplied>rakāra ṅan· rājasihna vukam̃n· di pak· yām̃ po ku śrīśānabhadreśvara <choice><unclear>p</unclear><unclear>s</unclear></choice>a kā bharuv·
-           <lb n="A19"/>rā pajem̃ <unclear>hajai</unclear><!--note du rtf : Le mot hajai [...] est plus une conjecture qu'une vraie lecture…--> svon· tralauṅ· ṅan samasta vījāṅkura kā<gap reason="illegible" quantity="1" unit="character"/><!--sapi2argr Ici, le rtf proposait ka, mais il me semble qu'un ā est discernable.--> kīrṇṇa <gap reason="illegible" quantity="1" unit="character"/>p·  <gap reason="illegible" quantity="2" unit="character"/>p· <choice><unclear><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>Cr̥</seg></unclear><unclear>stha</unclear></choice><!--sapi2argr : Ici Oxygen m'indique une erreur, mais je suppose qu'elle sera corrigée quand le choix sera fait.--> <gap reason="illegible" quantity="2" unit="character"/>
-           <lb n="A20"/><supplied reason="lost">na</supplied>gara campa kā syāṁ samū pūrvvakāla dhiluv· mulaṅ· man· yām̃ po ku vijaya śrī hariva<lb n="A21" break="no"/><supplied reason="lost">rmmade</supplied><unclear>va</unclear> kā rajan· Abhiṣeka tuy· <unclear>nvā yogama</unclear> pu pom̃ tana rayā <unclear>yāṅ</unclear><milestone type="pagelike" unit="face" n="B"/>
-           <lb n="B1"/>Utkr̥ṣṭarāja kā parisamāpta Aviḥ mam̃n· yām̃ po ku vijaya śrī harivarmmade<lb n="B2" break="no"/>va kā santoṣa nirākula dauk· Aṅguy· rājaparibhoga mam̃n· navvan· pu lyaṅ·<!--note du rtf : La fin de la ligne n'est pas très lisible, mais il semble que ce qui ressemble de loin à un r est un virama dont la forme n'est pas identique à ceux lus précédemment.-->
+           <lb n="A19"/>rā pajem̃ ha<unclear>j</unclear>ai svon· tralauṅ· ṅan samasta vījāṅkura kā<gap reason="illegible" quantity="1" unit="character"/><!--sapi2argr Ici, le rtf proposait ka, mais il me semble qu'un ā est discernable.--> kīrṇṇa <gap reason="illegible" quantity="1" unit="character"/><!-- va? -->p· dadam̃n sthā<gap reason="illegible" quantity="2" unit="character"/><!-- sthāpa? -->
+           <lb n="A20"/><supplied reason="lost">na</supplied>gara campa kā syāṁ samū pūrvvakāla dhiluv· mulaṅ· man· yām̃ po ku vijaya śrī hariva<lb n="A21" break="no"/><supplied reason="lost">rmmade</supplied><unclear>va</unclear> kā rajan· Abhiṣeka tuy· <unclear>nvā yogama</unclear> pu-pom̃ tana rayā <unclear>yāṅ</unclear><milestone type="pagelike" unit="face" n="B"/>
+           <lb n="B1"/>Utkr̥ṣṭa-rāja kā parisamāpta Aviḥ mam̃n· yām̃ po ku vijaya śrī harivarmmade<lb n="B2" break="no"/>va kā santoṣa nirākula dauk· Aṅguy· rājaparibhoga mam̃n· navvan· pu lyaṅ·<!--note du rtf : La fin de la ligne n'est pas très lisible, mais il semble que ce qui ressemble de loin à un r est un virama dont la forme n'est pas identique à ceux lus précédemment.-->
            <lb n="B3"/>śrī yuvarāja mahāsenāpatī<!--note du rtf : mahāsenāpatī : le ā de mahā n'est pas le trait vertical habituellement placé après la consonne, mais il est placé au dessus de h sous une forme courbe. Ajout postérieur à la gravure du texte principal ? Pas un cas unique, cf. inscriptions de Svayamutpanna.--> trā dunan· sahodara<!--note du rtf : sahodara : même remarque que pour le ā de mahā (pour le o). Peut être lu sarahādara mais ne semble rien vouloir dire.--> yām̃ po ku vijaya śrī harivarmmad<lb n="B4" break="no"/>eva dunan· vaidagdha <choice><sic>t</sic><corr>th</corr></choice>uv· Anekaguṇasaṁpanna dunan· yām̃ṅ· Agrasenāpatī d<lb n="B5" break="no"/>auk· kam̃n· ranak<choice><sic>y</sic><corr>ṣ</corr></choice>ā hitāhitaloka di rāja yām̃ po ku vijaya śrī harivarmmade<lb n="B6" break="no"/>va<g type="dandaPlain">.</g> mam̃n· dunan· kā <choice><sic>t</sic><corr>th</corr></choice>uv·<!--note du rtf : tuv : lire thuv "savoir" Finot. Mais le verbe "savoir" est thum̃ et pas thuv. Cf. p. 265 PDF.--> daḥ yām̃ po ku śrīśānabhadreśvara nim̃ ya Ādidevatā <unclear>kā</unclear>
-           <lb n="B7"/>mv<supplied reason="lost">o</supplied>ḥ sthāna<!--note du rtf : sthāna Finot cf. l. 1 de cette même face utkr̥ṣṭa où on lit aussi un r̥. Le th souscrit dans cette inscription se lit sur cette face l. 10, mais également à la l. 11 où là, il est identique. La lecture de l'akṣara na dans sthāna n'est pas évident, je lis un ḥ.--> liṅyak· śunya nau mam̃n· dunan· punaḥ yām̃ po ku śrīśānabhadreśvara nim̃ <unclear>mu</unclear><lb n="B8" break="no"/>laṅ· tra<g type="dandaPlain">.</g><!--note du rtf : tra | : trā Finot. Est-ce un ā ou un daṇḍa ? cf. l. 6 de cette même face où ce signe est un daṇḍa.--><!--sapi2argr Ici je n'ai pas ajouté à l'apparatus. En effet, plusieurs cas de cela ont été recensés sur la face A, et jusqu'à présent avait été fait le choix systématique de trā dans le rtf.--> ṅan· ya doṁ yām̃ si pu pom̃ tana rayā dhiluv· kā vuḥ dauk· di bhandāra yām̃ṅ<supplied reason="lost">·</supplied>
+           <lb n="B7"/>mv<supplied reason="lost">o</supplied>ḥ sthāna<!--note du rtf : sthāna Finot cf. l. 1 de cette même face utkr̥ṣṭa où on lit aussi un r̥. Le th souscrit dans cette inscription se lit sur cette face l. 10, mais également à la l. 11 où là, il est identique. La lecture de l'akṣara na dans sthāna n'est pas évident, je lis un ḥ.--> liṅyak· śunya nau mam̃n· dunan· punaḥ yām̃ po ku śrīśānabhadreśvara nim̃ <unclear>mu</unclear><lb n="B8" break="no"/>laṅ· tra<g type="dandaPlain">.</g><!--note du rtf : tra | : trā Finot. Est-ce un ā ou un daṇḍa ? cf. l. 6 de cette même face où ce signe est un daṇḍa.--><!--sapi2argr Ici je n'ai pas ajouté à l'apparatus. En effet, plusieurs cas de cela ont été recensés sur la face A, et jusqu'à présent avait été fait le choix systématique de trā dans le rtf.--> ṅan· ya doṁ yām̃ si pu-pom̃ tana rayā dhiluv· kā vuḥ dauk· di bhandāra yām̃ṅ<supplied reason="lost">·</supplied>
            <lb n="B9"/>p<unclear>o</unclear> ku śrīśānabhadreśvara nim̃ ya kāruṅ· Aviḥ mulaṅ· tra | <!--note du rtf : tra | : trā Finot. Est-ce un ā ou un daṇḍa ?--><!--sapi2argr Même remarque que pour la ligne au-dessus.--> madā si hetap· <!--note du rtf : hetap/potap/rapatap/rahatap : rahatap Finot.--> prasā<unclear>ra</unclear><!--note du rtf : mulaṅ· tra | madā si hetap/potap/rapatap/rahatap/rahatap· prasāra : séquence que l'on retrouve l. 10--><!--sapi2argr l.10-11, justement on lit clairement prasāda. Garder prasāda ici aussi ?-->
            <lb n="B10"/>ṅan· tumvrāk· tra |<!--note du rtf : tra | : trā Finot. Est-ce un ā ou un daṇḍa ?--><!--sapi2argr Même remarque que pour la ligne au-dessus.--> madā si <choice><unclear>rara</unclear><unclear>re</unclear></choice>lap· pajem̃ kalasthā mulaṅ· tra |<!--note du rtf : tra | : trā Finot. Est-ce un ā ou un daṇḍa ?--><!--sapi2argr Même remarque que pour la ligne au-dessus.--> madā si rahatap· <unclear>p</unclear>ra<unclear>sā</unclear><!--note du rtf :mulaṅ· tra | madā si hetap/potap/rahatap· prasāra : séquence que l'on retrouve l. 9 --><lb n="B11" break="no"/>da ṅan· Anvak· tra |<!--note du rtf : tra | : trā Finot. Est-ce un ā ou un daṇḍa ?--><!--sapi2argr Même remarque que pour la ligne au-dessus.--> raralap· ya doṁ vumvom̃ ṅan· toraṇa dadam̃n· sthāna<!--note du rtf : sthāna Finot. Il paraît difficile de lire autre chose et pourtant le th souscrit est différent de celui lu à la ligne 10.--> di bhandā ra y<unclear>ā</unclear>m̃
            <lb n="B12"/>po ku śrīśānabhadreśvara kā jem̃ syāṃ Aviḥ mulaṅ· tra |<!--note du rtf : tra | : trā Finot. Est-ce un ā ou un daṇḍa ?--><!--sapi2argr Même remarque que pour la ligne au-dessus.--> pakāra punaḥ yām̃ ṅan· <unclear>v</unclear>i<unclear>pa</unclear>
@@ -134,26 +137,37 @@
                  <rdg source="bib:Finot1904_05">tama</rdg>
              </app>
              <app loc="A2">
-                 <lem>sanāṅguḥ</lem>
-                 <rdg source="bib:Finot1904_05">sanaṅguḥ</rdg>
-                 <note>The stone isn't very clear, but from the new estampage, it would seem that we must read ā.</note>
+                 <lem>tra <g type="danda">.</g></lem>
+                 <rdg source="bib:Finot1904_05">trā</rdg>
              </app>
-             <app loc="A3">
-                 <lem>kuṭtī</lem>
-                 <rdg source="bib:Finot1904_05">kuṭī</rdg>
-                 <note>I also doubt the ṭ. <!--sapi2argr Ici tu veux dire que tu doutes du t (plutôt que du ṭ) ?--></note>
+             <app loc="A4">
+                 <lem>tra <g type="danda">.</g></lem>
+                 <rdg source="bib:Finot1904_05">trā</rdg>
              </app>
              <app loc="A4">
                  <lem>nīrmmūla</lem>
                  <rdg source="bib:Finot1904_05">nirmmūla</rdg>
              </app>
              <app loc="A5">
-                 <lem><supplied reason="lost">n</supplied><unclear>ī</unclear></lem>
-                 <note>Conjectural restitution. The word Aviḥ is very often followed by nī.</note>
+               <lem><supplied reason="lost">d</supplied><unclear>i</unclear></lem>
+	<rdg source="bib:Finot1904_05"><gap reason="lost" unit="character" quantity="1"/>i</rdg>
+                 <!--  Conjectural restitution. The word Aviḥ is very often followed by nī, though not niy. And dadən is often preceded by di. -->
+             </app>
+	<app loc="A5">
+                 <lem>tra <g type="danda">.</g></lem>
+                 <rdg source="bib:Finot1904_05">trā</rdg>
+             </app>
+	<app loc="A6">
+                 <lem>tra <g type="danda">.</g></lem>
+                 <rdg source="bib:Finot1904_05">trā</rdg>
              </app>
              <app loc="A7">
                  <lem>bhanḍāra</lem>
                  <rdg source="bib:Finot1904_05">bhandāra</rdg>
+             </app>
+	<app loc="A7">
+                 <lem>tra <g type="danda">.</g></lem>
+                 <rdg source="bib:Finot1904_05">trā</rdg>
              </app>
              <app loc="A7">
                  <lem>ñu tok· ya d<unclear>o</unclear>ṁ deva dravya di nan· Aviḥ trā</lem>
@@ -224,8 +238,8 @@
                  <rdg source="bib:Finot1904_05"><gap reason="illegible" quantity="1" unit="character"/> kā varuv·</rdg>
              </app>
              <app loc="A19">
-                 <lem>svon·</lem>
-                 <rdg source="bib:Finot1904_05">śvan·</rdg>
+                 <lem>ha<unclear>j</unclear>ai svon·</lem>
+                 <rdg source="bib:Finot1904_05"><gap reason="illegible" unit="character" quantity="2"/> śvan·</rdg>
              </app>
              <app loc="A19">
                  <lem>vījāṅkura kā<gap reason="illegible" quantity="1" unit="character"/> kīrṇṇa</lem>

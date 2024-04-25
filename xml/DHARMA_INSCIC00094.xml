@@ -15,6 +15,10 @@
                   <forename>Salomé</forename>
                   <surname>Pichon</surname>
                </persName>
+            	<persName ref="part:argr">
+            		<forename>Arlo</forename>
+            		<surname>Griffiths</surname>
+            	</persName>
             </respStmt>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
@@ -35,7 +39,7 @@
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Arlo Griffiths &amp; Salomé Pichon.</p>
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -86,7 +90,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-          <change who="part:argr" when="2024-04-25" status="draft">Revisions</change>
+          <change who="part:argr" when="2024-04-25" status="draft">Revisions to edition and encoding</change>
          <change who="part:sapi" when="2021-04-27" status="draft">Initial encoding of the inscription</change>
       </revisionDesc>
    </teiHeader>
@@ -94,20 +98,21 @@
       <body>
          <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83213">
            <p><milestone type="pagelike" unit="face" n="A"/>
-           <lb n="A1"/><g type="ddandaOrnate"/><g type="ddandaOrnate"/> nagara campa niy· hetu śatrumaṇḍala kā ñu tamā ñu dauk·
+           <lb n="A1"/><g type="ddandaOrnate"/><g type="ddandaOrnate"/> nagara campa niy· hetu śatru-maṇḍala kā ñu tamā ñu dauk·
            <lb n="A2"/>putau ñu tok· ya doṁ sanaṅguḥ rājaśrī ṅan· deva-dravya Aviḥ tra <g type="danda">.</g> ñu pali<lb 
 n="A3" break="no"/>ṅyak· rumaḥ yām̃ vihāra śāla kuṭī Araṇya ṅan· grāma dadam̃n· sthāna ṅan· Aśva
            <lb n="A4"/><unclear>ga</unclear>ja rata padāti go mahiṣa tra <g type="danda">.</g> ṅan· samasta vījāṅkura kā l<choice><sic>a</sic><corr>i</corr></choice>ṅyak· nīrmmūla Aviḥ
            <lb n="A5"/><supplied reason="lost">d</supplied><unclear>i</unclear> dadam̃n· pramāṇa nagara campa tra <g type="danda">.</g> ñu paliṅyak· di yām̃ po ku śrīśānabha⌈<lb n="A6" 
 break="no"/>dreśvara niy· tra <g type="danda">.</g> ṅan· ya <space type="defect"/> doṁ yām̃ si pu-pom̃ tana rayā dhiluv· kā
-           <lb n="A7"/>pratiṣṭhā di bha<seg rend="check">nḍ</seg>āra yām̃ po ku śrīśānabhadreśvara nim̃ tra <g type="danda">.</g> ñu tok· ya
-           <lb n="A8"/>d<unclear>o</unclear>ṁ deva-dravya dinan· Aviḥ tra <g type="danda">.</g> ñu paliṅyak· ya doṁ Urām̃ yām̃ṅ· nr̥tya
-           <lb n="A9"/><supplied reason="lost">gīta</supplied> <unclear>ṅan·</unclear> <gap reason="illegible" quantity="4" unit="character"/> <unclear>Ana</unclear>tauṅ· ṅan· Urām̃ yām̃ṅ· parivāra ṅan· hajai <unclear>s</unclear>von· dadam̃n· <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>r̥ā</seg>
-           <lb n="A10"/><gap reason="illegible" quantity="6" unit="character"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>u</seg> śr<supplied reason="lost">ī</supplied>śānabhadreśvara Aviḥ mam̃n· yām̃ po ku śrīśānabhadreśvara nim̃
-           <lb n="A11"/>kā śunya nau Upak· tmuv· panūjā samū lumīk· nim̃ trā<!--note du rtf : trā ou tra | ? : trā Finot.-->  mam̃n· yām̃ po ku vijaya śrī
-           <lb n="A12"/>harivarmmadeva yām̃ṅ· devatāmurtti nan· kā ra putau mam̃n· ra paliṅyak· ya doṁ<!--note du rtf : Il est possible qu'il manque un akṣ en fin de ligne.-->
-           <lb n="A13"/><supplied reason="lost">śatr</supplied>umaṇḍala di nan· nīrmmūla Aviḥ nau di nagara campa <choice><unclear>p</unclear><unclear>s</unclear></choice>a kā bharuv· ra pasyaṁ vik·li<lb n="A14" break="no"/>ṅga yām̃ po ku śrīśānabhadreśvara <unclear>pa</unclear><!--Note du rtf : pa aṅgap· anvak : pourrait être lu pai ou mai mais ds le corpus, je ne trouve que pa aṅgap qui se rapproche de cette lecture. Revoir les lectures de pa aṅgap ailleurs ds le corpus et voir s'il s'agit d'une faute de lecture pour pai/mai aṅgap.  N'est pas lu par Finot.--> Aṅgap· Anvak· kumvrāk· hetap· di <unclear>d</unclear>rā<unclear>m</unclear>a<seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>ra</seg>
-           <lb n="A15"/><supplied reason="lost">na</supplied>n·<g type="ddandaPlain">.</g> ṅan· mahotsavatrayā <choice><unclear>p</unclear><unclear>s</unclear></choice>a kā bharuv· yām̃ po ku vijaya śrī harivarmmade<lb n="A16" break="no"/>va ndok· rājiji yām̃ po ku śrīśān<unclear>ā</unclear>bhadreśvara tuy· tanatap· mahar<unclear>ṣ</unclear>iḥ dhiluv· rai<!--note du rtf : Il est possible qu'il nous manque un akṣ. à la fin de la ligne.-->
+           <lb n="A7"/>pratiṣṭhā di bhandāra yām̃ po ku śrīśānabhadreśvara nim̃ tra <g type="danda">.</g> ñu tok· ya
+           <lb n="A8"/>d<unclear>o</unclear>ṁ deva-dravya dinan· Aviḥ tra <g type="danda">.</g> ñu paliṅyak· ya doṁ Urām̃ yam̃ṅ· nr̥tya
+           <lb n="A9"/><supplied reason="lost">g</supplied><unclear>ī</unclear>ta ṅan· <gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> <unclear>Ana</unclear>tauṅ· ṅan· Urām̃ yam̃ṅ· parivāra ṅan· hajai <unclear>s</unclear>von· dadam̃n· <unclear>s</unclear>thā<lb n="A10" break="no"/><supplied reason="lost">na</supplied> <gap reason="illegible" quantity="5" unit="character"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>u</seg> śr<supplied reason="lost">ī</supplied>śānabhadreśvara Aviḥ mam̃n· yām̃ po ku śrīśānabhadreśvara nim̃
+           <lb n="A11"/>kā śunya nau Upak· tmuv· panūjā samū lumīk· nim̃ tra <g type="danda">.</g>  mam̃n· yām̃ po ku vijaya śrī
+           <lb n="A12"/>harivarmmadeva yam̃ṅ· devatāmurtti nan· kā ra putau mam̃n· ra paliṅyak· ya doṁ <supplied reason="lost">śa</supplied><lb 
+n="A13" break="no"/><supplied reason="lost">t</supplied><unclear>r</unclear>u-maṇḍala dinan· nīrmmūla Aviḥ nau di nagara campa <g type="danda">.</g> pakā bharuv· ra pasyāṁ vik· li<lb 
+n="A14" break="no"/>ṅga yām̃ po ku śrīśānabhadreśva<unclear>ra</unclear> <unclear>ra</unclear> pa Aṅgap· Anvak· kumvrāk· ra hatap· di prāsā<unclear>da</unclear>
+           <lb n="A15"/><unclear>ṅa</unclear>n· ra rajan· mahotsavatraya <g type="danda">.</g> <unclear>p</unclear>a kā bharuv· yām̃ po ku vijaya śrī harivarmmade<lb 
+n="A16" break="no"/>va ndok· @@@rājiji<!-- rāji di? --> yām̃ po ku śrīśān<unclear>ā</unclear>bhadreśvara tuy· tanatap· mahar<unclear>ṣ</unclear>iḥ dhiluv· rai<!--note du rtf : Il est possible qu'il nous manque un akṣ. à la fin de la ligne.-->
            <lb n="A17"/>vuḥ Aṣṭa dālānā si kā Alaṅkāra nirmmita ṅan· suvarṇṇa raupya vi<unclear>s</unclear>itra pāk·<!--note du rtf : Il est possible qu'il manque 1 akṣ. en début de ligne. Voir selon la trad.-->
            <lb n="A18"/><supplied reason="lost">p</supplied>rakāra ṅan· rājasihna vukam̃n· di pak· yām̃ po ku śrīśānabhadreśvara <choice><unclear>p</unclear><unclear>s</unclear></choice>a kā bharuv·
            <lb n="A19"/>rā pajem̃ ha<unclear>j</unclear>ai svon· tralauṅ· ṅan samasta vījāṅkura kā<gap reason="illegible" quantity="1" unit="character"/><!--sapi2argr Ici, le rtf proposait ka, mais il me semble qu'un ā est discernable.--> kīrṇṇa <gap reason="illegible" quantity="1" unit="character"/><!-- va? -->p· dadam̃n sthā<gap reason="illegible" quantity="2" unit="character"/><!-- sthāpa? -->
@@ -151,7 +156,7 @@ break="no"/>dreśvara niy· tra <g type="danda">.</g> ṅan· ya <space type="de
              </app>
              <app loc="A5">
                <lem><supplied reason="lost">d</supplied><unclear>i</unclear></lem>
-	<rdg source="bib:Finot1904_05"><gap reason="lost" unit="character" quantity="1"/>i</rdg>
+	<rdg source="bib:Finot1904_05"><gap reason="undefined"/>i</rdg>
                  <!--  Conjectural restitution. The word Aviḥ is very often followed by nī, though not niy. And dadən is often preceded by di. -->
              </app>
 	<!--<app loc="A5">
@@ -162,26 +167,28 @@ break="no"/>dreśvara niy· tra <g type="danda">.</g> ṅan· ya <space type="de
                  <lem>tra <g type="danda">.</g></lem>
                  <rdg source="bib:Finot1904_05">trā</rdg>
              </app>-->
-             <app loc="A7">
-                 <lem>bhanḍāra</lem>
-                 <rdg source="bib:Finot1904_05">bhandāra</rdg>
-             </app>
 <!--	<app loc="A7">
                  <lem>tra <g type="danda">.</g></lem>
                  <rdg source="bib:Finot1904_05">trā</rdg>
              </app>-->
              <app loc="A7">
-                 <lem>ñu tok· ya d<unclear>o</unclear>ṁ deva-dravya di nan· Aviḥ tra <g type="danda">.</g></lem>
-                 <rdg source="bib:Finot1904_05"><gap reason="omitted"/></rdg>
+                 <lem>ñu tok· ya <lb n="A8"/>d<unclear>o</unclear>ṁ deva-dravya dinan· Aviḥ tra <g type="danda">.</g></lem>
+                 <!--<rdg source="bib:Finot1904_05"><gap reason="omitted"/></rdg>-->
+	<note>All these words were omitted by Finot due to eke-skip.</note>
              </app>
 	<app loc="A8">
 	<lem>yam̃ṅ·</lem>
-	<rdg source="bib:Finot1904_05">yām̃ṅ·</rdg>
+	<rdg source="bib:Finot1904_05">yāṅ·</rdg>
+<note>Finot consistently reads <foreign>yāṅ·</foreign> for <foreign>yam̃ṅ·</foreign>. Further instances will not be recorded.</note>
 	</app>
              <app loc="A9">
                  <lem><unclear>Ana</unclear>tauṅ·</lem>
-                 <note>Cf. face B, l. 14.</note>
+                 <note>Cf. face B, line 14.</note>
              </app>
+	<!--<app loc="A9">
+	<lem>yam̃ṅ·</lem>
+	<rdg source="bib:Finot1904_05">yām̃ṅ·</rdg>
+	</app>-->
              <app loc="A9">
                  <lem>hajai <unclear>s</unclear>von·</lem>
                  <note>Cf. <ref target="DHARMA_INSCIC00064.xml">C. 64</ref> and <ref target="DHARMA_INSCIC00095.xml">C. 95</ref>.</note>
@@ -189,41 +196,27 @@ break="no"/>dreśvara niy· tra <g type="danda">.</g> ṅan· ya <space type="de
              <app loc="A12">
                  <lem>devatāmurtti</lem>
                  <rdg source="bib:Finot1904_05">devatāmūrtti</rdg>
-                 <note>Comparison of this u with the ū one line below.</note>
+                 <note>Compare this <foreign>u</foreign> with the <foreign>ū</foreign> one line below.</note>
              </app>
              <app loc="A13">
                  <lem>nīrmmūla</lem>
                  <rdg source="bib:Finot1904_05">nirmmūla</rdg>
              </app>
              <app loc="A13">
-                 <lem><choice><unclear>p</unclear><unclear>s</unclear></choice>a kā bharuv·</lem>
-                 <rdg source="bib:Finot1904_05"><gap reason="illegible" quantity="1" unit="character"/> kā varuv·</rdg>
+                 <lem>pakā bharuv·</lem>
+                 <rdg source="bib:Finot1904_05"><gap reason="undefined"/>kā <unclear>varuv·</unclear></rdg>
+             </app>
+<app loc="A13">
+<lem>vik· li<lb n="A14" break="no"/>ṅga</lem>
+<note>These words were omitted by Finot.</note>
+</app>
+             <app loc="A14">
+                 <lem><unclear>ra</unclear> pa Aṅgap·</lem>
+                 <rdg source="bib:Finot1904_05"><gap reason="undefined"/> Aṅgap·</rdg>
              </app>
              <app loc="A14">
-                 <lem><unclear>pa</unclear> Aṅgap·</lem>
-                 <rdg source="bib:Finot1904_05"><gap reason="illegible" quantity="1" unit="character"/> Aṅgap·</rdg>
-             </app>
-             <app loc="A14">
-                 <lem>hetap·</lem>
-                 <rdg source="bib:Finot1904_05">rahatap·</rdg>
-                 <note>Neither hetap nor rahatap are listed in A&amp;C dictionary.</note>
-             </app>
-             <app loc="A14">
-                 <lem><unclear>d</unclear>rā<unclear>m</unclear>a<seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>ra</seg></lem>
-                 <rdg source="bib:Finot1904_05">prādu <gap reason="illegible" quantity="1" unit="character"/></rdg>
-             </app>
-             <app loc="A15">
-                 <lem><supplied reason="lost">na</supplied>n·<g type="ddandaPlain">.</g> ṅan·</lem>
-                 <rdg source="bib:Finot1904_05">nan·<g type="dandaPlain">.</g> ṅan·</rdg>
-             </app>
-             <app loc="A15">
-                 <lem>mahotsavatrayā</lem>
-                 <rdg source="bib:Finot1904_05">mahotsavatrayā</rdg>
-                 <note>The stone is illegible, but from the estampage, the yā is possible.</note>
-             </app>
-             <app loc="A15">
-                 <lem><choice><unclear>p</unclear><unclear>s</unclear></choice>a kā bharuv·</lem>
-                 <rdg source="bib:Finot1904_05"><gap reason="illegible" quantity="1" unit="character"/> vā varuv·</rdg>
+	<lem>prāsā<unclear>da</unclear> <lb n="A15"/><unclear>ṅa</unclear>n· ra rajan· mahotsavatraya <g type="danda">.</g> <unclear>p</unclear>akā bharuv·</lem>
+                 <rdg source="bib:Finot1904_05"><unclear>prādu</unclear><gap reason="undefined"/><lb n="A15"/> nan· | ṅan· mahotsavatraya <gap reason="undefined"/> vā varuv·</rdg>
              </app>
              <app loc="A16">
                  <lem>śrīśān<unclear>ā</unclear>bhadreśvara</lem>

@@ -217,24 +217,17 @@
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-          <p>First edited with translation into French by L. Finot (<bibl rend="omitname"><ptr target="bib:Finot1903_04"/><citedRange unit="page">643-646</citedRange></bibl>). The inscription is re-edited here by Arlo Griffiths and Salomé Pichon based on autopsy and the EFEO estampages 255, n. 1953, n. 1954, n. 1955 and on photographs taken in 2009.</p>
+          <p>First edited with translation into French by Louis Finot (<bibl rend="omitname"><ptr target="bib:Finot1903_04"/></bibl>). Re-edited here by Arlo Griffiths and Salomé Pichon based on autopsy, on photographs made in 2003 by Trương Văn Ẩn, and on the EFEO estampages 255, n. 1953, n. 1954, n. 1955.</p>
           <listBibl type="primary">
             <bibl n="F">
-            <ptr target="bib:Finot1903_04"/>
-            <citedRange unit="page">643-646</citedRange><citedRange unit="figure">28</citedRange>
-            </bibl>
+            <ptr target="bib:Finot1903_04"/><citedRange unit="page">643-646</citedRange><citedRange unit="figure">28</citedRange></bibl>
          </listBibl>
            <listBibl type="secondary">
-             <bibl>
-               <ptr target="bib:Majumdar1927_01"/>
-               <citedRange unit="part">3</citedRange>
-               <citedRange unit="page">147-149</citedRange>
-               <citedRange unit="item">53</citedRange>
+	<bibl><ptr target="bib:JA1908_01"/><citedRange unit="page">331</citedRange></bibl>
+	<bibl><ptr target="bib:Parmentier1909_01" /><citedRange unit="page">94-95</citedRange></bibl>
+             <bibl><ptr target="bib:Majumdar1927_01"/><citedRange unit="part">3</citedRange><citedRange unit="page">147-149</citedRange><citedRange unit="item">53</citedRange>
              </bibl>
-             <bibl>
-             <ptr target="bib:Golzio2004_01"/>
-             <citedRange unit="page">126-128</citedRange>
-             </bibl>
+             <bibl><ptr target="bib:Golzio2004_01"/><citedRange unit="page">126-128</citedRange></bibl>
            </listBibl>
         </div>
       </body>

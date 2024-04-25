@@ -92,21 +92,21 @@
 </lg>
 
 <lg n="2" met="mixed" xml:lang="san-Latn">
-<l met="------+-+-+=">sa jayati jita-śatru-vargga Ājāv</l>
-<l met="-----+--+-+-+=">ajita-bhuja-vikra<lb n="A3" break="no"/>ma Indra-sūnu-tulyaḥ <g type="danda">.</g></l>
-<l met="------+-+-+=">pr̥thu-yaśa-Upaviṣṭa-kambu-rāṣṭro</l>
-<l met="------+-+-+-+=">daśa-diśa-bhaya-kr̥c ca campa-rāja-pālī <g type="ddanda">.</g></l>
+<l n="a" met="------+-+-+=">sa jayati jita-śatru-vargga Ājāv</l>
+<l n="b" met="-----+--+-+-+=">ajita-bhuja-vikra<lb n="A3" break="no"/>ma Indra-sūnu-tulyaḥ <g type="danda">.</g></l>
+<l n="c" met="------+-+-+=">pr̥thu-yaśa-Upaviṣṭa-kambu-rāṣṭro</l>
+<l n="d" met="------+-+-+-+=">daśa-diśa-bhaya-kr̥c ca campa-rāja-pālī <g type="ddanda">.</g></l>
 </lg>
 
 <ab><milestone type="pagelike" unit="face" n="B"/><label>Vertical</label><lb n="B1"/><g type="danda"/> svasti <g type="ddanda"/></ab>
 
 <lg n="3" met="śārdūlavikrīḍita" xml:lang="san-Latn">
-<l n="a">rājas śrī-parameśvarasya mahataḥ putro <supplied reason="subaudible">'</supplied>nujāyā jayī</l>
+<l n="a"><seg rend="check">rāj<supplied reason="omitted">ñ</supplied>aś</seg> śrī-parameśvarasya mahataḥ putro <supplied reason="subaudible">'</supplied>nujāyā jayī</l>
 <l n="b">tyāgī śīla-guṇānvitas sutanu-mānsa-svāpateyo mahān· <g type="danda">.</g></l>
 <l n="c">śuddhendu-dyutivad-yaśobhi<lb n="B2" break="no"/>r aniśaṁ pradyotitāśo raṇe</l>
 <l n="d">dāne śūrataro rarāja satataṁ śrī-devarājodbhutam· <g type="ddanda">.</g></l>
 </lg>
-<!--a. rājas: lire rājñaś? -->
+<!--a. rājas: read rājñaś? -->
 
 <lg n="4" met="anuṣṭubh" xml:lang="san-Latn">
 <l n="a">kuśa-śaila-guhā-yukte</l> 
@@ -115,18 +115,26 @@
 <l n="d">sthāpitan tena kīrttaye <g type="ddanda">.</g></l>
 </lg>
 
-<p>di śaka-rāja <num value="972">972</num> <!--[EEPC, pp. 41/49]--> kāla pu-pom̃ pu-lyam̃ śrī devarāja mahā-senāpatī ya kumvan· yā<unclear>m̃</unclear> po ku śrī parameśvaravarmmadeva
+<p>di śaka-rāja <num value="972">972</num> kāla pu-pom̃ pu-lyam̃ śrī devarāja mahā-senāpatī ya kumvan· yā<unclear>m̃</unclear> po ku śrī parameśvaravarmmadeva
 <lb n="B4"/>nan· marai mak· nagara pāṇḍuraṅga niy· saum̃ yām̃ po ku śrī parameśvaravarmmadeva riy· <g type="danda">.</g> nan· ra ndok· vatuv· di vala pagā dunan· sa driy· sa vauḥ di dadam̃n· tuvuḥ Avista <seg rend="check">pi cai</seg>
-<lb n="B5"/>ra mamvuk<!-- read mamvut? --> vacam̃(?) tuy· sam̃khyā vala nan· mam̃n· kintu hetu dunan· kevala tad-gata-mānasa-battī yām̃ po ku śrī parameśvara sadākāla mam̃n· si jem̃ dunan· padap· vatuv· nan· pajem̃ śivaliṅga niy· sa yam̃ṅ· prayo<lb n="B6" break="no"/>jana karaṇa kīrtti di loka niy· tra prayojana siy· madā pakam̃n· <sic>Ārtma</sic> dunan· di paraloka dudiy· tra <g type="ddanda">.</g></p>
-<!--%	jana karaṇa: janak raṇa Finot.-->
+<lb n="B5"/>ra <seg rend="check">mamvuk vacam̃(?)</seg><!-- read mamvut? --> tuy· sam̃khyā vala nan· mam̃n· kintu hetu dunan· kevala tad-gata-mānasa-battī<!-- read/correct -varttī? --> yām̃ po ku śrī parameśvara sadākāla mam̃n· si jem̃ dunan· padap· vatuv· nan· pajem̃ śivaliṅga niy· sa yam̃ṅ· prayo<lb 
+n="B6" break="no"/>jana karaṇa kīrtti di loka niy· tra prayojana siy· madā pakam̃n· <sic>Ārtma</sic> dunan· di paraloka dudiy· tra <g type="ddanda">.</g></p>
          </div>
          <div type="apparatus">
                <listApp>
-                  <app loc="A2">
-                     <lem>sārvva</lem>
-                     <rdg source="bib:Finot1909_01">sarvva-</rdg>
+                  <app loc="B1">
+                     <lem>rāj<supplied reason="omitted">ñ</supplied>aś</lem>
+                     <rdg source="bib:Finot1909_01">rājas</rdg>
                   </app>
-
+<app loc="B3">
+<lem><num value="972">972</num></lem>
+<rdg source="bib:Finot1909_01"><sic>792</sic></rdg>
+<note>Finot revised his reading in <bibl><ptr target="bib:Finot1915_02"/></bibl>.</note>
+</app>
+<app loc="B5">
+<lem>prayo<lb n="B6" break="no"/>jana karaṇa kīrtti</lem>
+<rdg source="bib:Finot1909_01">prayo<lb n="B6" break="no"/>janak raṇakīrtti</rdg>
+</app>
                </listApp>
          </div>
          <div type="translation" resp="part:argr">
@@ -136,13 +144,15 @@
             <p>Finot identified stanza II as <foreign>puṣpitāgrā</foreign> but it does not actually have that pattern.</p>         
 	</div>
         <div type="bibliography">
-	<p>First edited by Louis Finot (<bibl rend="omitname"><ptr target="bib:Finot1909_01"/></bibl>). Re-edited here without consultation of any visual documentation, as EFEO estampages 564 and 565 have not yet been digitized and the inscrip[tion has not been found back during fieldwork since 2009.</p>
+	<p>First edited by Louis Finot (<bibl rend="omitname"><ptr target="bib:Finot1909_01"/></bibl>). Re-edited here without consultation of any visual documentation, as EFEO estampages 564 and 565 have not yet been digitized and the inscription has not been found back during fieldwork since 2009.</p>
         	<listBibl type="primary">
 	<bibl n="F"><ptr target="bib:Finot1909_01"/><citedRange unit="page">208-209</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
-              <bibl><ptr target="bib:Finot1915_02"/><citedRange unit="page">...</citedRange></bibl>
-	<bibl><ptr target="bib:Majumdar1927_01"/><citedRange unit="book">III</citedRange><citedRange unit="page">145-147</citedRange><citedRange unit="item">??</citedRange></bibl>
+	<bibl><ptr target="bib:JA1908_01"/><citedRange unit="page">331</citedRange></bibl>
+	<bibl><ptr target="bib:Parmentier1909_01" /><citedRange unit="page">95-96</citedRange></bibl>
+              <bibl><ptr target="bib:Finot1915_02"/><citedRange unit="page">40-41, 49</citedRange></bibl>
+	<bibl><ptr target="bib:Majumdar1927_01"/><citedRange unit="book">III</citedRange><citedRange unit="page">145-147</citedRange><citedRange unit="item">52</citedRange></bibl>
 	<bibl><ptr target="bib:Golzio2004_01"/><citedRange unit="page">124-126</citedRange></bibl>
            </listBibl>
         </div>

@@ -86,12 +86,15 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
-           <p><milestone type="pagelike" unit="face" n="A"/>
-             <lb n="A1"/>svasti  <gap reason="illegible" quantity="1" unit="character"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>e</seg> <gap reason="illegible" quantity="1" unit="character"/>
-             <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>dha</seg> <gap reason="illegible" quantity="1" unit="character"/> <supplied reason="lost">d</supplied>i<unclear>v</unclear>u<unclear>d</unclear>dha bu<unclear>d</unclear>dhe <unclear>na</unclear>mo stu <unclear>dha</unclear>rmmāya sukhopā <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>ī</seg>
-             <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>e</seg><unclear>y</unclear>e <unclear>s</unclear>tu <unclear>sa</unclear>ṅghe
-             <lb n="A2"/><unclear>ta</unclear> <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>i</seg> <unclear>tralay</unclear>i<!--sapi2argr ou tralaghi? --> <unclear>k</unclear>e<seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>i</seg><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>ta</seg> <gap reason="illegible" quantity="1" unit="character"/>tri<gap reason="illegible" quantity="2" unit="character"/><unclear>k</unclear>u <gap reason="illegible" quantity="1" unit="character"/>rtta <unclear>n</unclear>e
+         <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:83213">
+           <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A1"/>svasti <supplied reason="lost"><g type="danda"/></supplied></ab>
+<lg n="1" met="upendravajrā"> 
+<l n="a"><supplied reason="lost">na</supplied><unclear>mo</unclear> <supplied reason="subaudible">'</supplied><unclear>s</unclear>tu <supplied reason="lost">b</supplied>u<supplied reason="lost">d</supplied>dh<supplied reason="lost">āya</supplied>  <supplied reason="lost">v</supplied>i<unclear>v</unclear>u<unclear>d</unclear>dha-bu<unclear>d</unclear>dhe</l>
+ <l n="b"><unclear>na</unclear>mo <supplied reason="subaudible">'</supplied>stu <unclear>dha</unclear>rmmāya sukhopa<seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>ī</seg>ne</l>
+ <l n="c">namo <supplied reason="subaudible">'</supplied><unclear>s</unclear>tu <unclear>sa</unclear>ṅghā<lb n="A2" break="no"/><unclear>ya</unclear></l>
+</lg>
+<p>
+              <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>i</seg> <unclear>tralay</unclear>i<!--sapi2argr ou tralaghi? --> <unclear>k</unclear>e<seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>i</seg><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>ta</seg> <gap reason="illegible" quantity="1" unit="character"/>tri<gap reason="illegible" quantity="2" unit="character"/><unclear>k</unclear>u <gap reason="illegible" quantity="1" unit="character"/>rtta <unclear>n</unclear>e
              <gap reason="illegible" quantity="1" unit="character"/> <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>i</seg><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>ū</seg>
              <unclear>ya</unclear> mr̥topaka <unclear>nan</unclear>ī <gap reason="illegible" quantity="1" unit="character"/> <unclear>s</unclear>mr̥<unclear>to</unclear> ma<lb
              n="A3" break="no"/>sa Ā<choice><unclear>h</unclear><unclear>v</unclear></choice>itā na<unclear>mo</unclear> <gap reason="illegible" quantity="1" unit="character"/> <unclear>paṭal</unclear>i
@@ -222,7 +225,8 @@
           <p>The spelling of the inscription is very hazarduous. Cf. line c1 <foreign>dā(laṁ) vāṅ·</foreign>, line c11 <foreign>di laṁ vvāṅ·</foreign> and line c21 <foreign>di dalaṁ vvāṅ·</foreign>. Also cf. line c4 <foreign>sañ·cov·</foreign>, line c14 <foreign>sañcov·</foreign>. </p>
          </div>
         <div type="bibliography">
-           <p>Unpublished inscription. First edited by Arlo Griffiths and Salomé Pichon based on the estampages made by Nguyen Van Quang, and on a direct reading on stone led by Salomé Pichon in July 2022.</p>
+           <p>Unpublished inscription. First edited by Arlo Griffiths and Salomé Pichon based on the EFEO estampages n. 2373, 2374, 2375, 2376
+ made by Nguyen Van Quang, and on a direct reading on stone led by Salomé Pichon in July 2022.</p>
         	<listBibl type="primary">
 				<bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>

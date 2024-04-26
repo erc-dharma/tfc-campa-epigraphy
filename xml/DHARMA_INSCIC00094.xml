@@ -112,8 +112,8 @@ break="no"/>dreśvara niy· tra <g type="danda">.</g> ṅan· ya <space type="de
 n="A13" break="no"/><supplied reason="lost">t</supplied><unclear>r</unclear>u-maṇḍala dinan· nīrmmūla Aviḥ nau di nagara campa <g type="danda">.</g> pakā bharuv· ra pasyāṁ vik· li<lb 
 n="A14" break="no"/>ṅga yām̃ po ku śrīśānabhadreśva<unclear>ra</unclear> <unclear>ra</unclear> pa Aṅgap· Anvak· kumvrāk· ra hatap· di prāsā<unclear>da</unclear>
            <lb n="A15"/><unclear>ṅa</unclear>n· ra rajan· mahotsavatraya <g type="danda">.</g> <unclear>p</unclear>a kā bharuv· yām̃ po ku vijaya śrī harivarmmade<lb 
-n="A16" break="no"/>va ndok· @@@rājiji<!-- rāji di? --> yām̃ po ku śrīśān<unclear>ā</unclear>bhadreśvara tuy· tanatap· mahar<unclear>ṣ</unclear>iḥ dhiluv· rai<!--note du rtf : Il est possible qu'il nous manque un akṣ. à la fin de la ligne.-->
-           <lb n="A17"/>vuḥ Aṣṭa dālānā si kā Alaṅkāra nirmmita ṅan· suvarṇṇa raupya vi<unclear>s</unclear>itra pāk·<!--note du rtf : Il est possible qu'il manque 1 akṣ. en début de ligne. Voir selon la trad.-->
+n="A16" break="no"/>va ndok· rāj<subst><del>i</del><add place="overstrike">a</add></subst> di yām̃ po ku śrīśānabhadreśvara tuy· tanatap· maharṣiḥ dhiluv· rai
+           <lb n="A17"/>@@@<supplied reason="lost">pa</supplied>vuḥ Aṣṭa dālānā si kā Alaṅkāra nirmmita ṅan· suvarṇṇa raupya vi<unclear>s</unclear>itra pāk·<!--note du rtf : Il est possible qu'il manque 1 akṣ. en début de ligne. Voir selon la trad.-->
            <lb n="A18"/><supplied reason="lost">p</supplied>rakāra ṅan· rājasihna vukam̃n· di pak· yām̃ po ku śrīśānabhadreśvara <choice><unclear>p</unclear><unclear>s</unclear></choice>a kā bharuv·
            <lb n="A19"/>rā pajem̃ ha<unclear>j</unclear>ai svon· tralauṅ· ṅan samasta vījāṅkura kā<gap reason="illegible" quantity="1" unit="character"/><!--sapi2argr Ici, le rtf proposait ka, mais il me semble qu'un ā est discernable.--> kīrṇṇa <gap reason="illegible" quantity="1" unit="character"/><!-- va? -->p· dadam̃n sthā<gap reason="illegible" quantity="2" unit="character"/><!-- sthāpa? -->
            <lb n="A20"/><supplied reason="lost">na</supplied>gara campa kā syāṁ samū pūrvvakāla dhiluv· mulaṅ· man· yām̃ po ku vijaya śrī hariva<lb n="A21" break="no"/><supplied reason="lost">rmmade</supplied><unclear>va</unclear> kā rajan· Abhiṣeka tuy· <unclear>nvā yogama</unclear> pu-pom̃ tana rayā <unclear>yāṅ</unclear><milestone type="pagelike" unit="face" n="B"/>
@@ -218,10 +218,10 @@ n="A16" break="no"/>va ndok· @@@rājiji<!-- rāji di? --> yām̃ po ku śrīś�
 	<lem>prāsā<unclear>da</unclear> <lb n="A15"/><unclear>ṅa</unclear>n· ra rajan· mahotsavatraya <g type="danda">.</g> <unclear>p</unclear>akā bharuv·</lem>
                  <rdg source="bib:Finot1904_05"><unclear>prādu</unclear><gap reason="undefined"/><lb n="A15"/> nan· | ṅan· mahotsavatraya <gap reason="undefined"/> vā varuv·</rdg>
              </app>
-             <app loc="A16">
-                 <lem>śrīśān<unclear>ā</unclear>bhadreśvara</lem>
-                 <rdg source="bib:Finot1904_05">śrīśānabhadreśvara</rdg>
-             </app>
+<app loc="A16">
+<lem>ndok· rāj<subst><del>i</del><add place="overstrike">a</add></subst> di</lem>
+<rdg source="bib:Finot1904_05"><unclear>ndok· rājiji</unclear></rdg>
+</app>
              <app loc="A17">
                  <lem>visitra</lem>
                  <rdg source="bib:Finot1904_05">vicitra</rdg>

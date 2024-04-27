@@ -81,16 +81,17 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:argr" when="2024-04-26" status="draft">Started revision of the edition and encoding</change>
             <change who="part:sapi" when="2022-07-18" status="draft">Initial encoding of the inscription</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:83213">
-           <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A1"/>svasti <supplied reason="lost"><g type="danda"/></supplied></ab>
-<lg n="1" met="upendravajrā"> 
-<l n="a"><supplied reason="lost">na</supplied><unclear>mo</unclear> <supplied reason="subaudible">'</supplied><unclear>s</unclear>tu <supplied reason="lost">b</supplied>u<supplied reason="lost">d</supplied>dh<supplied reason="lost">āya</supplied>  <supplied reason="lost">v</supplied>i<unclear>v</unclear>u<unclear>d</unclear>dha-bu<unclear>d</unclear>dhe</l>
- <l n="b"><unclear>na</unclear>mo <supplied reason="subaudible">'</supplied>stu <unclear>dha</unclear>rmmāya sukhopa<seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>ī</seg>ne</l>
+           <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A1"/>svasti <supplied reason="lost"><g type="ddanda"/></supplied></ab>
+<lg n="1" met="vaṁśastha"> 
+<l n="a"><supplied reason="lost">na</supplied><unclear>mo</unclear> <supplied reason="subaudible">'</supplied><unclear>s</unclear>tu <supplied reason="lost">b</supplied>u<supplied reason="lost">d</supplied>dh<supplied reason="lost">āya</supplied> <supplied reason="lost">v</supplied>i<unclear>ś</unclear>u<unclear>d</unclear>dha-bu<unclear>d</unclear>dhaye</l>
+ <l n="b"><unclear>na</unclear>mo <supplied reason="subaudible">'</supplied>stu <unclear>dha</unclear>rmmāya sukhopa<seg met="+"><gap reason="lost"/></seg><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>i</seg><unclear>n</unclear>e</l>
  <l n="c">namo <supplied reason="subaudible">'</supplied><unclear>s</unclear>tu <unclear>sa</unclear>ṅghā<lb n="A2" break="no"/><unclear>ya</unclear></l>
 </lg>
 <p>
@@ -178,18 +179,23 @@ ye pāsyayanti ve yaraṇe su<!-- vicāraṇeṣu? -->matat<unclear>a</unclear><
              n="d3" break="no"/>hāra niy· bhikṣu yaṁṅ· rak<seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg><unclear>a</unclear></seg><unclear>da</unclear><!-- sapi2argr ou  rakC(ana) ? --> ṅan· vadi<!-- sapi2argr ou  vaśi, vati ?--><lb
              n="d4" break="no"/>y· vihāra niy· Oḥ jeṅ· si Urāṅ· <unclear>p</unclear>uḥ
              <lb n="d5"/>pandar· di vnauk· rājācāryya siy· yaṅ·
-             <lb n="d6"/>mavac· tanatap· yāṅ· pu pov· ku śrī ja-
-             <lb n="d7"/>ya siṅhavarmmadeva Urāṅ· nan· lac· di Avī-
-             <lb n="d8"/>cī Annan· naraka ṅan· Inā<!-- sapi2argr à revoir. Cf le I de Idair·, face c.--> Amātap· <unclear>gau</unclear>
+             <lb n="d6"/>mavac· tanatap· yāṅ· pu pov· ku śrī ja<lb 
+	n="d7" break="no"/>ya siṅhavarmmadeva Urāṅ· nan· lac· di Avī<lb 
+	n="d8" break="no"/>cī Annan· naraka ṅan· Inā<!-- sapi2argr à revoir. Cf le I de Idair·, face c.--> Amātap· <unclear>gau</unclear>
              <lb n="d9"/><unclear>nupaṅ</unclear>·  nan· yāṅ· pu pov· ku śrī bhadrava<lb
              n="d10" break="no"/>rmmadeva vuḥ <unclear>śvaṅdo</unclear> pirak· vuḥ tray· <gap reason="illegible" quantity="1" unit="character"/><!-- sapi2argr ou alors tralay· ? --> pira
-             <lb n="d11"/>v<unclear>u</unclear>ḥ ś<unclear>va</unclear>ṅda<unclear>ṅ·</unclear><!-- sapi2argr ś(va)ṅda(ṅ·) : les deux premiers caractères de ce terme ressem	blent grandement à ceux du (śvaṅdo) de la ligne du-dessus. Mais le dernier caractère de chacun de ces mots ne semblent pas identique. --> vaṇa  Artthaṇe ke śarana yapra
+             <lb n="d11"/>v<unclear>u</unclear>ḥ ś<unclear>va</unclear>ṅda<unclear>ṅ·</unclear><!-- sapi2argr ś(va)ṅda(ṅ·) : les deux premiers caractères de ce terme ressemblent grandement à ceux du (śvaṅdo) de la ligne du-dessus. Mais le dernier caractère de chacun de ces mots ne semblent pas identique. --> vaṇa  Artthaṇe ke śarana yapra
              <lb n="d12"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>i</seg> <gap reason="illegible" quantity="3" unit="character"/> ni vihāra ni<unclear>y</unclear>· <gap reason="illegible" quantity="1" unit="character"/>ma<gap reason="illegible" quantity="2" unit="character"/>
              <lb n="d13"/><gap reason="illegible" quantity="2" unit="character"/>n· <gap reason="illegible" quantity="4" unit="character"/> śrī jayasimhavarma
            </p>
          </div>
          <div type="apparatus">
-         </div>
+<listApp>
+<app loc="A1">
+<lem><supplied reason="lost">na</supplied><unclear>mo</unclear> <supplied reason="subaudible">'</supplied><unclear>s</unclear>tu <supplied reason="lost">b</supplied>u<supplied reason="lost">d</supplied>dh<supplied reason="lost">āya</supplied> <supplied reason="lost">v</supplied>i<unclear>ś</unclear>u<unclear>d</unclear>dha-bu<unclear>d</unclear>dhaye</lem>
+<note>Our restitutions are partly inspired by scriptural parallels such as <title>Suvarṇabhāsottamasūtra</title> 21.1 <foreign>namo 'stu buddhāya suviśuddhabodhaye viśuddhadharmā pratibhāmubuddhaye | saddharmapuṇyopagatānubuddhaye bhavāgraśūnyāya viśuddhabuddhaye</foreign>.</note>
+</app>
+</listApp>         </div>
          <div type="translation" resp="part:sapi">
            <p n="B4-B12">Voici <gap reason="illegible"/> réside à Valaṁ <gap reason="illegible"/> <foreign>bhāvray</foreign>, la vina de ce Ratna-Lokeśvara <gap reason="illegible"/> les trois royaumes <foreign>sev</foreign> Kusarvva Dhiku. Celui qui <gap reason="illegible"/> prince Dhamrait, la rizière à Pā<seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>ī</seg> <gap reason="illegible"/>.</p>
            <p n="B13-B14"><gap reason="illegible"/> Ce <gap reason="illegible"/> réside à Nara Khyanan Dhamvu <supplied reason="explanation">toponyme très hypothétique</supplied>. Que personne ne vole les hommes du seigneur Kain <gap reason="illegible"/>.</p>

@@ -89,26 +89,45 @@
    <text xml:space="preserve">
 <body>
 <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83213">            
-            <p><lb n="1"/><g type="ddanda"/> <g type="circle"/> <g type="ddanda"/> di śaka-rāja 975 <g type="ddanda">.</g> niy· kāla yām̃ pom̃ ku
-<lb n="2"/>śrī parameśvaravarmmadeva ra punaḥ yām̃ mañjū<seg rend="check"><choice><unclear>bhau</unclear><unclear>sau</unclear><unclear>y·</unclear></choice></seg><!-- mañjughoṣa? mañjuśrī? -->
+            <p><lb n="1"/><g type="ddanda"/> <g type="circle"/> <g type="ddanda"/> di śaka-rāja <num value="975">975</num> <g type="ddanda">.</g> niy· kāla yām̃ pom̃ ku
+<lb n="2"/>śrī parameśvaravarmmadeva ra punaḥ yām̃ mañjū<unclear>va</unclear>r·
 <lb n="3"/><unclear>du</unclear>nan· ra vuḥ Urām̃ ṅan· samasta sanaṅgūm̃ tūm̃ pūrvva-kāla mulaṅ·</p>
 </div>
-<div type="apparatus"/>
-<!-- 
-1. 975: 579 AVS. A mere blunder of misplacement of signs?
-2-3. yām̃ mañjū(bhau/cā)(dunan·/ndran·/nan· ra): yāṅ gat.ūbhar̥{1} {1} AVS.
-	Maybe mañjūy·? mañjūsau?
-3. urām̃: jarāda AVS. -->
+<div type="apparatus">
+<listApp>
+<app loc="1">
+<lem><num value="975">975</num></lem>
+<rdg source="bib:Schweyer2009_01">579</rdg>
+<note>Schweyer has read the numbers from right to left.</note><!-- A mere blunder of misplacement of signs? -->
+</app>
+<app loc="2">
+	<lem>mañjū<unclear>va</unclear>r·</lem>
+<rdg source="bib:Schweyer2009_01">gat<seg type="component" subtype="conjunct"><gap reason="illegible" unit="component" quantity="1"/></seg>ūbha<gap reason="illegible" unit="character" quantity="1"/>r·<gap reason="illegible" unit="character" quantity="1"/></rdg>
+</app>
+<app loc="3">
+	<lem><unclear>du</unclear>nan· ra vuḥ</lem>
+<rdg source="bib:Schweyer2009_01"><gap reason="illegible" unit="character" quantity="1"/>ṅan· vuḥ</rdg>
+</app>	
+<app loc="3">
+	<lem>Urām̃</lem>
+	<rdg source="bib:Schweyer2009_01">jarāda</rdg>
+</app>
+<app loc="3">
+	<lem>sanaṅgūm̃</lem>
+	<rdg source="bib:Schweyer2009_01">sada<unclear cert="low">ṇḍū</unclear></rdg>
+</app>
+</listApp>
+</div>
       <div type="translation" resp="part:argr">
-         <p>In <supplied reason="explanation">the year of the</supplied> Śaka king 975. This was when his majesty Śrī Parameśvaravarmadeva repaired the deity Mañjū<gap reason="ellipsis"/>. He gave back personnel and all <foreign>sanaṅgūv</foreign> as in the past.</p>
+         <p>In <supplied reason="explanation">the year of the</supplied> Śaka king 975. This was when his majesty Śrī Parameśvaravarmadeva repaired the deity Mañjū<gap reason="ellipsis"/>. He gave back personnel and all <foreign>sanaṅgūv</foreign> as in former times.</p>
        </div>
       <div type="bibliography">
-        <p>Provisional deciphered by <bibl><ptr target="bib:Schweyer2009_01"/></bibl>. Re-edited here by Arlo Griffiths from EFEO estampage n. 268.</p>
+        <p>Provisional deciphered, but not translated, by <bibl><ptr target="bib:Schweyer2009_01"/></bibl>. Re-edited here from EFEO estampage n. 268, and furnished with a translation, by Arlo Griffiths.</p>
         <listBibl type="primary">
-	<bibl><ptr target="bib:Schweyer2009_01"/><citedRange unit="page">34-35</citedRange><citedRange unit="plate">7A</citedRange></bibl>
+	<bibl n="S"><ptr target="bib:Schweyer2009_01"/><citedRange unit="page">34-35</citedRange><citedRange unit="figure">7</citedRange></bibl>
 	</listBibl>
         <listBibl type="secondary">
-	<bibl/>
+	<bibl><ptr target="bib:Parmentier1923_01"/><citedRange>273</citedRange></bibl>
         </listBibl>
 </div>
 </body>

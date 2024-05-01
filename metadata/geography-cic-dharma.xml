@@ -475,9 +475,6 @@
 					<place type="settlement" xml:id="bo-mung">
 						<placeName xml:lang="vi">Bồ Mưng</placeName>
 					</place>
-					<place type="settlement" xml:id="cam-van">
-						<placeName xml:lang="vi">Cẩm Vân</placeName>
-					</place>
 					<place type="settlement" xml:id="chiem-son">
 						<placeName xml:lang="vi">Chiêm Sơn</placeName>
 					</place>
@@ -549,6 +546,12 @@
 					</place>
 					<place type="district" xml:id="dien-ban">
 						<placeName xml:lang="vi">Điện Bàn</placeName>
+						<place type="village" xml:id="dien-hong">
+							<placeName xml:lang="vi">Điện Hồng</placeName>
+							<place type="settlement" xml:id="cam-van">
+							<placeName xml:lang="vi">Cẩm Văn</placeName>
+							<note>Misspelled Cẩm Vân in 1923 inventory. Email Trần Kỳ Phương 2024-04-30:
+<q>Cẩm Văn is an old village of Điên Bàn district; it is now divided into three hamlets including Cẩm Văn Bắc (north), Cẩm Văn Tây (west), and Cẩm Văn Nam (south), Điện Hồng village, Điện Bàn district. Cẩm Văn is bordering with Lạc Thành where was found the inscription (C. 107) that is now housed at Bằng An temple.</q></note></place></place>
 						<place type="settlement" xml:id="la-tho">
 							<placeName xml:lang="vi">La Thọ</placeName>
 						</place>

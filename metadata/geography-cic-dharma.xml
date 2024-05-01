@@ -14,6 +14,12 @@
 	</teiHeader>
 <!-- 
 README
+
+@type
+admitted values are 
+	- with reference to administrative divisions: "settlement", "village", "commune", "town", "city", "province"
+	- with refence to physical context: "site"
+	
 @ana is used privisionally to render explicit the vietnamese term in question for values of @type on <place>. For the moment, we are working with these terms, from highest to lowest in the administrative heirarchy:
 
 level 1  Province (tỉnh) or City (thành-phố)
@@ -24,6 +30,15 @@ level 4  Village (thôn)
 A few minor additions will be necessary, e.g. for low-level urban units within cities/towns (ward) and for low-level rural unites below that of the village (hamlet).
 
 In Vietnam, there are two kinds of city: Cities falling directly under the Centre are called Thành phố [thuộc] Trung Ương; and Cities belonging to the province are called Thành phố tỉnh. Phan Rang-Tháp Chàm is a city belonging to the Ninh Thuận province.
+
+use of <location>: 
+	<location>
+		<geo>10.98333 106.93333</geo>
+			<bibl>
+				<title>GeoNames: Biên Hòa, Vietnam</title>
+				<idno type="URI">http://www.geonames.org/1587923/bien-hoa.html</idno>
+			</bibl>
+	</location>
 
  -->
 
@@ -137,7 +152,7 @@ In Vietnam, there are two kinds of city: Cities falling directly under the Centr
                 </place>
               </place>
               </place> 
-            These places currently part of Ning Thuan province
+            These places are currently part of Ninh Thuan province
             -->
 						<place type="settlement" xml:id="pho-hai">
 							<placeName xml:lang="vi">Phổ Hãi</placeName>
@@ -216,9 +231,8 @@ In Vietnam, there are two kinds of city: Cities falling directly under the Centr
 						<place type="settlement" xml:id="vo-canh">
 							<placeName xml:lang="vi">Võ Cạnh</placeName>
 						</place>
-						<place type="district" xml:id="cam-ranh-thi-xa">
+						<place type="town" ana="thị-xã" xml:id="cam-ranh-thi-xa">
 							<placeName xml:lang="vi">Cam Ranh</placeName>
-							<!-- this is level 'thị xã' -->
 							<place type="commune" xml:id="cam-thinh-dong">
 								<placeName xml:lang="vi">Cam Thịnh Đông</placeName>
 								<place type="settlement" xml:id="hoa-diem">
@@ -242,7 +256,7 @@ In Vietnam, there are two kinds of city: Cities falling directly under the Centr
 						<placeName xml:lang="vi">Kon Tum</placeName>
 						<idno type="URI">http://www.geonames.org/1565088/kon-tum.html</idno>
 						<idno type="URI">http://en.wikipedia.org/wiki/Kon_Tum_province</idno>
-						<!--   <place type="settlement" xml:id="ban-metruot">
+	<!--   <place type="settlement" xml:id="ban-metruot">
               <placeName xml:lang="vi">Ban Metruot</placeName>
             </place> MOVED TO DAK LAK -->
 						<place type="settlement" xml:id="kon-klor">

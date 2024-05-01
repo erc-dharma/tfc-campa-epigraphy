@@ -12,6 +12,21 @@
 			</sourceDesc>
 		</fileDesc>
 	</teiHeader>
+<!-- 
+README
+@ana is used privisionally to render explicit the vietnamese term in question for values of @type on <place>. For the moment, we are working with these terms, from highest to lowest in the administrative heirarchy:
+
+level 1  Province (tỉnh) or City (thành-phố)
+level 2  District (huyện) or town (thì-xã)
+level 3  Commune (xã)
+level 4  Village (thôn)
+
+A few minor additions will be necessary, e.g. for low-level urban units within cities/towns (ward) and for low-level rural unites below that of the village (hamlet).
+
+In Vietnam, there are two kinds of city: Cities falling directly under the Centre are called Thành phố [thuộc] Trung Ương; and Cities belonging to the province are called Thành phố tỉnh. Phan Rang-Tháp Chàm is a city belonging to the Ninh Thuận province.
+
+ -->
+
 	<text>
 		<body>
 			<listPlace xmlns="http://www.tei-c.org/ns/1.0">
@@ -283,6 +298,7 @@
 							</location>
 							<idno type="URI">http://www.geonames.org/1571067/phan-rang-thap-cham.html</idno>
 							<idno type="URI">http://en.wikipedia.org/wiki/Phan_Rang_%E2%80%93_Th%C3%A1p_Ch%C3%A0m</idno>
+							<note>In Vietnam, there are two kinds of city: Cities falling directly under the Centre are called Thành phố [thuộc] Trung Ương; and Cities belonging to the province are called Thành phố tỉnh. Phan Rang-Tháp Chàm is a city belonging to Ninh Thuận province.</note>
 						</place>
 						<place type="village" xml:id="phuoc-ha">
 							<placeName xml:lang="vi">Phước Hà</placeName>

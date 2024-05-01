@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+         	<title>Doorjamb from Mỹ Sơn E<hi rend="subscript">10</hi> (C. 95), 11th century CE</title>
+            <respStmt>
+               <resp>EpiDoc Encoding</resp>
+            	<persName ref="part:argr">
+            		<forename>Arlo</forename>
+            		<surname>Griffiths</surname>
+            	</persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_INSCIC00095</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+            <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+                  <!-- don't modify this -->
+               </msIdentifier>
+               <msContents><!-- describe the intellectual content of an inscription -->
+                  <summary><!-- //// NOT MANDATORY  ////--></summary>
+                  <!-- offers the possibility to give a summary of the inscription's content -->
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                     <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <!-- UPDATE the link once the release is made official -->
+         <listPrefixDef>
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="part:argr" when="2024-05-01" status="draft">started encoding the inscription</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83213">
+           <p><milestone type="pagelike" unit="face" n="A"/>
+           <lb n="A1"/> <gap reason="lost" quantity="2" unit="character"/><supplied reason="lost">di l</supplied><unclear>iṅā</unclear>v· dadam̃n· sthā<unclear>na</unclear> mulaṅ· Aviḥ kā sy<unclear>ā</unclear>ṁ samū pūrvva-kāla dhiluv· mulaṅ· ya <supplied reason="lost">doṁ</supplied>
+<lb n="A2"/>Urām̃ kmīra si pu-lyam̃ śrī yuvarāja mahāsenāpatī tmuv· kāla nau mak· śambhupūra<supplied reason="lost">ṇa</supplied>
+<lb n="A3" break="no"/>-<unclear>na</unclear>gara rumaṅ· sā vandaḥ nim̃ <seg rend="check">nāśa</seg><!-- read nāga for nāśa? --> sthāna Aviḥ <g type="squiggleVertical">.</g> ra vuḥ Urām̃ kmīra dinan· dadam̃n· sthāna <unclear>bha</unclear>
+<lb n="A4" break="no"/><supplied reason="lost">n</supplied>d<unclear>āra</unclear> yām̃ po ku śrīśānabhadreśvara nim̃ tra <g type="danda">.</g> ra vuḥ di yām̃ vihāra śāla kuṭī vukam̃n·
+<lb n="A5"/>dadam̃n· sthāna Avista <g type="danda">.</g> sidaḥ <seg rend="check">dī</seg><!-- or even dīṁ? --> sthāna yām̃ po ku śrīśānabhadreśvara nim̃ kintu ya
+<lb n="A6"/><seg rend="check">tūraṇa</seg> kalpa mam̃n· sthā<choice><sic>ḥ</sic><corr>na</corr></choice> voy· si tmuv· pratiṣṭhā liṅga ganim̃ <g type="danda">.</g> n<choice><sic>a</sic><corr>im̃</corr></choice> doṁ pu pom̃ <unclear>ta</unclear><!--	
+	tūraṇa kalpa : rāvaṇakalpa? rāmaṇakalpa? tūraṇa = toraṇa?
+	<choice><sic>ḥ</sic><corr>na</corr></choice> same error in C. 94, B7
+	voy aussi à la ligne A18 -->
+<lb n="A7" break="no"/>na rayā ya kā rāja <seg rend="check">dī</seg><!-- maybe we can just read di --> nagara campa lumīk· nim̃ marai Avista pu pom̃ <unclear>tana ra</unclear>yā dinan·
+<!--	dī nagara : di nagara (Finot) -->
+<lb n="A8" break="no"/><orig>t</orig>uv· <unclear>da</unclear>ḥ vuḥ yām̃ ganim̃<!-- or may be read śanim̃? --> sthā<choice><sic>ḥ</sic><corr>na</corr></choice> pavitra tra <g type="danda">.</g> yām̃ si vuḥ nan· la dauk· kam̃n· cihna <orig>t</orig>uv·
+<lb n="A9"/>sim̃ pu pom̃ tana rayā ya kā rāja di nagara campa <g type="danda">.</g> <seg rend="check">tatā si di kīk·</seg> drim̃ pu pom̃ ta<lb 
+n="A10" break="no"/>na rayā ya gnaṅ· tmuv· pratiṣṭhā liṅga di sthāna nīm̃ <g type="danda">.</g> yaḥ saināpatī <seg rend="check">trā syan·</seg><!-- trāvyaṅ· --> <unclear>s</unclear>im̃ (X)
+<!--	saināpatī trā : senāpatī tra Finot.-->
+<lb n="A11"/>@@@@<supplied reason="lost">gna</supplied>ṅ· pratiṣṭhā liṅga ganim̃ <g type="danda">.</g> hetu pu-lyam̃ śrī yuvarāja mahāsenāpatī nan· kā <gap reason="lost" quantity="9" unit="character"/>
+<!--	[gna]ṅ· : gnaṅ· (Finot)
+	(kā)<gap reason="lost" quantity="XYZ" unit="character"/> : kā<gap reason="lost" quantity="XYZ" unit="character"/> (Finot) -->
+<lb n="A12"/>lo<!-- same reading as in A --> kalpa tra <g type="danda">.</g> sthāḥ Utsāha di dharmma ṅan· śivabhakti si Xm̃ gnaṅ· pratiṣṭhā liṅga ganim̃ <gap reason="lost" quantity="1" unit="character"/>
+<!--	lo kalpa : lākalpa (Finot).
+	sthāḥ : lire sthāna ?
+	tra | : trā (Finot).
+	Xm̃ : jeṅ (Finot).-->
+<lb n="A13"/>(n)an· vela yaḥ sim̃ pu pom̃ tana rayā ya marāja di nagara campa Andap· nim̃ At(t)aX Cīm̃
+<!--	at(t)aX Cīm̃ : Finot ne propose pas de lecture.-->
+<lb n="A14"/><gap reason="lost" quantity="1" unit="character"/> senāpatī nan· syāṁ si pavṛddhi yām̃ po ku śrī(śānabha)dreśvara nim̃ tra <g type="danda">.</g> knā si(ddhi .... de)-
+<!--	tra <g type="danda">.</g> knā si(ddhi .... de) : trā  knā si(ddhi .... de) (Finot)-->
+<lb n="A15" break="no"/>vadravya ṅan· samastabhandāra devatā nim̃ paprayatna panīścaya tra <g type="danda">.</g> knā si anusmara pu [pom̃ ku]
+<!--	tra <g type="danda">.</g> knā si : trā knā si Finot.
+	panīścaya : paniścaya Finot.
+	anusmara : est la lecture de Finot. Je ne trouve pas le m très lisible et lisais plutôt un g, mais ça ne fait pas sens.
+	[pom̃ ku nan] : vraiment pas sûr-->
+<lb n="A16"/> [nan]· devatā nim̃ sadākāla samū ṅan· īśvaradevatā sidaḥ yogīśvara aviḥ di (atuspa)
+<!--	(atuspa) : atuspa Finot.-->
+<lb n="A17" break="no"/>ndhya madauk· udyoga niścinta bharuv· mamvoḥ īśvaradevatā ṅan· manovi(j)ñā(ṅā mam̃n·)
+<!--	le ṅ  de ṅan lu par Finot n’est pas très lisible. Nau ? à revoir au moment de la trad. 
+	manovi(j)ñā(ṅā mam̃n) : manovijñā(na) Finot.-->
+<lb n="A18"/>yaḥ kā tam̃l· di yām̃ po ku śrīśānabhadreśvara nim̃ mam̃n· Upak· voy· paduḥ rapaCr
+<!--	voy paduḥ rapaCr : voy Finot.
+	paduḥ qu’on lit aussi ds C. 82-->
+<lb n="A19"/>Udyoga mvoḥ sakala ra pṛtyakṣa īśvaradevatā sa yām̃ṅ· mam̃n· nan· het(u) 
+<!--	pṛtyakṣa : pratyakṣa Finot.
+	nan het(u) : na hetu Finot.-->
+<lb n="A20"/>(je)m̃ urām̃ loka nim̃ avista knā si sudam̃r· bhaktī yām̃ po ku śrīśānabhadreśvara ...
+<!--	(je)m̃ : jem̃ Finot. en italique
+	bhaktī : bhakti Finot.-->
+<lb n="A21"/> ...C· tuv daḥ urām̃ nan· rayā phala si matmuv· di loka nim̃ tra <g type="danda">.</g> dī paraloka CmaiX
+<!--	tra <g type="danda">.</g> dī paraloka CmaiX : trā di paraloka Finot.
+	CmaiX : lire kmaim̃ ? cf. face B l. 5-->
+<lb n="A22"/> ṅkā ya nan· XX ||
+
+<!--  
+<g type="ddandaOrnate"/><g type="ddandaOrnate"/>
+n="A20" break="no"/>gara campa kā syāṁ samū pūrvva-kāla dhiluv· mulaṅ· mam̃n· yām̃ po ku vijaya śrī hariva<lb 
+n="A21" break="no"/><supplied reason="lost">rmmade</supplied><unclear>va</unclear> kā rajan· Abhiṣeka tuy· nyāya Āgama pu-pom̃ tana rayā yaṅ·
+-->
+<!--  <lb n="B3"/>śrī yuvarāja mahāsenāpatī trā dunan· sahodara yām̃ po ku vijaya śrī harivarmma⌈<lb 
+n="B4" break="no"/>deva dunan· vaidagdha <orig>t</orig>uv· -->
+<!-- for the variation tuv/thuv, see AC-SA pp. 252-253 /  265 PDF.-->
+<!-- ... ⌈<lb 
+n="B5" break="no"/>dauk· kam̃n· ranak<choice><sic>y</sic><corr>ṣ</corr></choice>ā hitāhita-loka di rāja yām̃ po ku vijaya śrī harivarmmade<lb n="B6" break="no"/>va<g type="danda">.</g> mam̃n· dunan· kā <orig>t</orig>uv· daḥ yām̃ po ku śrīśānabhadreśvara nim̃ ya Ādidevatā <unclear>kā</unclear> -->
+
+<milestone type="pagelike" unit="face" n="B"/>
+           <lb n="B1"/>Aviḥ hai samastapuṇyadāna Anekaprakāra tuy· Āgama nan· si 
+<!--	hai: cf. C. 94
+	samastapuṇyadāna : le .n n’est pas très clair.
+	Un grand espace entre tu et y du mot tuy. 
+	Fragment restant dans la réserve : avi.h hai samastapu.ny[daana anekaprakaara tuy· aagama nan· si] -->
+<lb n="B2"/> pu-lyam̃ śrīyuvarāja mahāsenāpatī kā rajan· Aviḥ <g type="danda">.</g> mam̃n· pu-lyam̃ śrīyuvarāja mahā-
+<!--	Fragment restant dans la réserve : pu-lyam̃ śrīyuvarāja mahāse(n)[āpatī kā rajan· aviḥ <g type="danda">.</g> mam̃n· pu-lyam̃ śrīyuvarāja mahā] -->
+<lb n="B3" break="no"/>senāpatī clam̃ṅ· daḥ śarīra ṅan· bhoga nim̃ sthāḥ aniḥ tya nisprayojana tra clām̃ṅ· [yāṅ]
+<!--	aniḥ tya : anitya Finot.
+	tra : trā Finot.
+	[yāṅ] : (yāṅ) Finot.
+	Fragment restant dans la réserve : senāpatī clam̃ṅ· daḥ śarīra [ṅan· bhoga nim̃ sthāḥ aniḥ tya nisprayojana tra clām̃ṅ· yāṅ] -->
+<lb n="B4"/> (po) ku śrīśānabhadreśvara nim̃ yām̃ṅ· paramadevatā sakala di loka nim̃ mam̃n· dunan· clam̃ṅ·
+<!--	[po ku] : (po) ku Finot. 
+	nim̃ m~an : nei <g type="danda">.</g> m~an Finot.
+	Fragment restant dans la réserve : [po ku] śrīśānabh[adreśvara nim̃ yām̃ṅ· paramadevatā sakala di loka nim̃ mam̃n· dunan· clam̃ṅ·]-->
+<lb n="B5"/> [daḥ śa]rīra nim̃ kā ma avasāna nau mam̃n· dunan· kmaim̃ cihna-rūpa dunan· dauk· kam̃n· sīmā na vija<!-- maybe : sīmā dani bha- --> <gap reason="lost" quantity="1" unit="character"/>
+<!--	[daḥ śa]rīra : (<gap reason="lost" quantity="XYZ" unit="character"/>śa)rīra Finot. Restitution par conjecture : Cf. l. 3 sur cette même face.
+	kam̃n : kān Finot.
+	sīmā na vija Finot. en italiques
+	Fragment restant dans la réserve : [<gap reason="lost" quantity="XYZ" unit="character"/>śar](ī)ra nim̃ [kā ma avasāna nau mam̃n· dunan· kmaim̃ cihnarūpa dunan· dauk· kam̃n· sīmā na vija <gap reason="lost" quantity="XYZ" unit="character"/>]-->
+<lb n="B6" break="no"/>kti di yām̃ po ku śrīśānabhadreśvara mam̃n· <g type="danda">.</g> di śakarāja 937 nan· kāla pu-lyam̃
+<!--	5-6: vija .. kti : "Peut-être vijayaśakti (?)." Finot.
+	mam̃n <g type="danda">.</g> di : m~an di Finot.
+	937 : 789 Finot.
+	Fragment restant dans la réserve : kti di [yām̃ po ku śrīśānabhadreśvara mam̃n· <g type="danda">.</g> di śakarāja 937 nan· kāla pu-lyam̃]-->
+<lb n="B7"/>śrī yuvarāja mahāsenāpatī pratiṣṭhā liṅgarūpa dunan· ra vrim̃ nāma anan· yu-
+<lb n="B8" break="no"/>[varāja... ra]liṅgeśvara karaṇa dauk· śivabhakti tra <g type="danda">.</g> prayojana mapavṛddhi yām̃ po ku śrī
+<!--	[ra]liṅgeśvara : raliṅgeśvara Finot. C'est pour cela que je propose de ra avant liṅga puisque Finot l'ait lu.
+	tra <g type="danda">.</g> prayojana : trā prayojana Finot.-->
+<lb n="B9" break="no"/> [śānabha]dreśvara nim̃ tuy· pranidhāna pu-lyam̃ śrīyuvarāja mahas(e)nāpatī di pura<!-- I think wer have to restore pūrvva-kāla here -->
+<lb n="B10"/> ........ [prat]ij(ñ)ā marai <g type="danda">.</g> sakā pu-lyam̃ ṡrīyuvarāja mahāsenāpatī ra vuḥ makuda ...
+<!--	[prat]ijñaa : (p)r(a)tijñā Finot.
+	marai <g type="danda">.</g> sakā : marai sa ka Finot.
+	makuda : makuṭa (Finot) makuṭa pour mukuṭa (p. 442 PDF)-->
+<lb n="B11"/> ........(X) bhṛṅgāra lumvāy· ṅan· sitātapatra si kā Alaṅkāra ṅan·
+<lb n="B12"/> ........ m[X]vāhuratnakāntiy· sandāy· brahmasūtra nopu
+<lb n="B13"/> ........ (na)ṅgūḥ tūy· upabhoga devatā tra <g type="danda">.</g> tūy· krama rā
+<!--	tra <g type="danda">.</g> tūy· : trā tūy Finot.-->
+<lb n="B14"/> ........ (u)rām̃ yām̃ṅ· nṛtya gīta ṅan· urām̃ parivāra ṅan· samasta 
+<lb n="B15"/> ........ (po) ku śrīśānabhadreśvara trā ṅan· yām̃ si ya doṁ pu
+<!--	ṅan· yām̃ si : ṅan si Finot.
+	do.m pu : do.m Finot.-->
+<lb n="B16"/> ........ nan· Avīḥ trā ṅan· yām̃ liṅgarūpa dunan· tra <g type="danda">.</g> 
+<!--	avīḥ : aviḥ Finot.
+	dunan· tra <g type="danda">.</g> : dunan trā Finot.-->
+<lb n="B17"/> ........ [trā ra] vuḥ hajai svon· tralauṅ· dadam̃n· sthāna tū[y]
+<!--	[trā ra] vuḥ : trā ra vuḥ Finot.
+	svon : qu’on retrouve dans C. 64
+	sthāna tū[y]: sthāna tū(y) Finot. Est-ce qu'il y a vraiment 2 mots : sthāna et sthāḥ ??-->
+<lb n="B18"/> ........ [irā] bharuv· pajem̃ hajai svon· tralauṅ· padam̃n·
+	<!--[irā] bharuv: irā bharuv Finot.-->
+<lb n="B19"/> ........ [sa] aṅgap· ratnārapulā vṛkṣāviśeṣa ṅan· ma 
+<!--	[sa] aṅgap· : sa aṅgap Finot.-->
+<lb n="B20"/> ........ [ku] śrīśānabhadreśvara sa tam̃l· sīṅhāpura tra <g type="danda">.</g> ra pu 
+<!--	[ku] śrī : ku śrī Finot.
+	sīṅhāpura : siṅhāpura Finot.
+	tra <g type="danda">.</g> ra : trā ra Finot.-->
+<lb n="B21"/> ....... .nā yām̃ po ku śrīśānabhadreśvara ya dau
+<!--	dau : dauk ? Finot.-->
+<lb n="B22"/> Cette ligne n’existe pas. 
+           </p>
+         </div>
+         <div type="apparatus">
+           <listApp>
+<!-- <app loc="A1">
+	<lem></lem>
+ [di l](i)ṅāv : le début de ce texte est proposé par Finot mais en italique, donc il n’était pas certain de sa lecture. Ce passage n’est plus lisible sur la pierre aujourd’hui brisée, ni sur l’estampage. Read bharuv·? </app>-->
+           	<app loc="A1">
+                 <lem>ya <supplied reason="lost">doṁ</supplied><lb n="A2"/>Urām̃</lem>
+                 <rdg source="bib:Finot1904_05">ya <lb n="A2"/>Urām̃</rdg>
+             </app>
+<app loc="A2">
+	<lem>śambhupūra<supplied reason="lost">ṇa</supplied><lb n="A3" break="no"/>-<unclear>na</unclear>gara</lem>
+	<rdg source="bib:Finot1904_05">śambhupura-na<lb n="A3" break="no"/>gara</rdg>
+	<note>There are definitely more characters than Finot's reading suggests. My conjecture is based on <ref target="DHARMA_INSCIC00167.xml">C. 167</ref>, st. V <foreign>mahīndrapūraṇapure</foreign>.</note>
+</app>
+<app loc="A4">
+                 <lem>tra <g type="danda">.</g></lem>
+                 <rdg source="bib:Finot1904_05">trā</rdg>
+<note>Finot consistently makes the same error of reading in the numerous occurrences of <foreign>tra <g type="danda">.</g></foreign>. Further instances will not be recorded.</note>
+             </app>
+           <app loc="A5">
+           	<lem><seg rend="check">dī</seg><!-- or even dīṁ? --></lem>
+              <rdg source="bib:Finot1904_05">di</rdg>
+           </app>
+<app loc="A5">
+	<lem><seg rend="check">tūraṇa</seg> kalpa</lem>
+	<rdg source="bib:Finot1904_05"><gap reason="illegible" quantity="2" unit="character"/>lākalpa</rdg>
+</app>
+<app loc="A9">
+	<lem>campa <g type="danda">.</g> tatā</lem>
+	<rdg source="bib:Finot1904_05">campa tatā</rdg>
+	<note>Finot omits the punctuation sign.</note>
+</app>
+           </listApp>
+         </div>
+         <div type="translation" xml:lang="fra" source="bib:Finot1904_05">
+ 	         <p n="A1-B2">
+           </p>
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+<!-- 
+Relecture AL nov. 2010
+la pierre est présentée à l’envers dans les réserves : les 7 premières lignes des faces A et B ne sont pas lisibles. Il semble peu probable que ces 7 lignes (plus de 20 cm approximativement) soient encastrées dans le sol. Une partie de la pierre doit manquer. 
+Fragment conservé à l’entré de la réserve : il est gravé de 6 lignes partielles mais ne correspond pas au morceau manquant sur l’estampage n. 136B. 
+L’état dans lequel se trouve la partie haute de ce fragment et l’espacement des lignes laissent penser qu’il s’agit d’une partie du haut du pilier. La lecture du texte confirme. Donc le haut de la pierre a bien été cassé. 
+Nouvelle lecture janv.-fév. 2011 :
+La lecture des 7 premières lignes de la face A n’est donc possible qu’à partir des estampages. 
+La lecture des 6 premières lignes de la face B est, pour le début du texte, toujours lisible sur le fragment à l’entrée de la réserve.
+Dans ce texte, on retrouve la même difficulté de lecture trā ou tra | que dans C. 94. Contrairement à Finot qui lisait très souvent trā, je préférais lire tra |. Mais au moment de traduire le texte, ce tra en fin de phrase n'est pas évident à rendre et il semble que la lecture de Finot est en fait la bonne lecture.
+ -->
+         </div>
+        <div type="bibliography">
+          <p>First edited with tentative translation into French by Louis Finot (<bibl rend="omitname"><ptr target="bib:Finot1904_05"/></bibl>). The inscription is re-edited here by Arlo Griffiths based on autopsy and on the EFEO estampage n. 136.</p><!-- no photogrammetry was made due to position of the artefact at store room in Hanoi. -->
+
+          <listBibl type="primary">
+        <bibl n="F"><ptr target="bib:Finot1904_05"/>
+        <citedRange unit="page">943-946</citedRange>
+         <citedRange unit="item">XV</citedRange></bibl>
+      </listBibl>
+           <listBibl type="secondary">
+	<bibl><ptr target="bib:Parmentier1909_01" /><citedRange unit="page">419</citedRange></bibl>
+              <bibl><ptr target="bib:Finot1915_01"/><citedRange unit="page">7</citedRange><citedRange unit="item">B 2. 8</citedRange></bibl>
+             <bibl>
+               <ptr target="bib:Majumdar1927_01"/>
+               <citedRange unit="part">3</citedRange>
+               <citedRange unit="page">155-157</citedRange>
+               <citedRange unit="item">59</citedRange>
+             </bibl>
+<!--<bibl><ptr target="bib:Finot1927_01"/><citedRange>305</citedRange></bibl> -->
+             <bibl><ptr target="bib:Golzio2004_01"/>
+             <citedRange unit="page">132-134</citedRange>
+             </bibl>
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>

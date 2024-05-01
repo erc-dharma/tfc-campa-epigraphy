@@ -272,7 +272,7 @@
 							<placeName xml:lang="cjm">Lamngâ</placeName>
 							<!-- old spelling: Lomṅơ -->
 						</place>
-						<place type="town" xml:id="phan-rang">
+						<place type="city" ana="thành-phố" xml:id="phan-rang">
 							<placeName xml:lang="vi">Phan Rang</placeName>
 							<location>
 								<geo>11.56667 108.98333</geo>
@@ -544,10 +544,12 @@
 					<place type="district" xml:id="dai-loc">
 						<placeName xml:lang="vi">Đại Lộc</placeName>
 					</place>
-					<place type="district" xml:id="dien-ban">
+					<place type="town" ana=" thị-xã" xml:id="dien-ban">
 						<placeName xml:lang="vi">Điện Bàn</placeName>
-						<place type="village" xml:id="dien-hong">
+						<idno type="URI">https://en.wikipedia.org/wiki/%C4%90i%E1%BB%87n_B%C3%A0n</idno>
+						<place type="commune" ana="xã" xml:id="dien-hong">
 							<placeName xml:lang="vi">Điện Hồng</placeName>
+							<idno type="URI">https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87n_H%E1%BB%93ng</idno>
 							<place type="settlement" xml:id="cam-van">
 							<placeName xml:lang="vi">Cẩm Văn</placeName>
 							<note>Misspelled Cẩm Vân in 1923 inventory. Email Trần Kỳ Phương 2024-04-30:

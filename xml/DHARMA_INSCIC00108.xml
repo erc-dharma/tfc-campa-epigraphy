@@ -87,7 +87,7 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:00000">
+         <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:83213">
            <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A01"/>Om̐ namaś śivāya</ab>
            <lg n="1" met="āryā">
              <l n="ab"><lb n="A1"/><g type="gomutraInitial"/> brahmādi-muni-sura-nutas sa śrī bhadreśvaraḥ prabhur bbhagavān·</l>

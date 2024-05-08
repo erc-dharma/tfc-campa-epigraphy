@@ -83,10 +83,10 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:83213">
 <p>
 <lb n="1"/>sarvvā<unclear>k</unclear>āla-kṣetraṁ
-<lb n="2"/>ṅauk·-laṅā-kṣetraṁ 
+<lb n="2"/>ṅauk·-laṅā-kṣetraṁ
 </p>
          </div>
          <div type="apparatus">
@@ -107,8 +107,8 @@
  	<p>Tout le champ Kāla, le champ de sésame Ṅauk.</p>
          </div>
          <div type="commentary">
-            <p>Similar lists of names of fields formulated in Sanskrit but incorporating Old Cham elements are found in 
-<ref target="DHARMA_INSCIC00066.xml">C. 66</ref>, stanzas XLIX–LI; 
+            <p>Similar lists of names of fields formulated in Sanskrit but incorporating Old Cham elements are found in
+<ref target="DHARMA_INSCIC00066.xml">C. 66</ref>, stanzas XLIX–LI;
 <ref target="DHARMA_INSCIC00138.xml">C. 138</ref>, face B, lines 7–9;
 <ref target="DHARMA_INSCIC00216.xml">C. 216</ref>, face b. In view of the uncertainties of reading exposed in the apparatus, the interpretation of the meaning of the first line is very tentative.</p>
          </div>
@@ -121,7 +121,7 @@
            <listBibl type="secondary">
 	<bibl><ptr target="bib:Parmentier1903_01"/><citedRange unit="page">85</citedRange></bibl>
               <bibl><ptr target="bib:Parmentier1909_01"/><citedRange unit="page">450</citedRange></bibl>
-	<bibl><ptr target="bib:Golzio2004_01"/><citedRange unit="page">143</citedRange></bibl>           
+	<bibl><ptr target="bib:Golzio2004_01"/><citedRange unit="page">143</citedRange></bibl>
 </listBibl>
         </div>
 <!-- Estampage EFEO: 281. Reproduction à la main: Fig. 1 dans BEFEO IV.

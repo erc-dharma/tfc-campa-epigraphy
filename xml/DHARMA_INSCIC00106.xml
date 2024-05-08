@@ -99,7 +99,7 @@
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:00000">
+         <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:83213">
            <ab><milestone type="pagelike" unit="face" n="A"/><lb n="O1"/><g type="floretComplex"/><g type="ddandaOrnate">.</g><!--sapi2argr : Même ici dois-je inscrire les danda de cette manière ou mettre simplement <g type="ddandaOrnate/> -->Om̐ namaś śivāya<g type="ddandaOrnate">.</g><g type="floretComplex"/>
          <lb n="A1"/><g type="ddandaHooked">.</g> svasti<g type="dotMid"/></ab>
            <lg n="1" met="anuṣṭubh">

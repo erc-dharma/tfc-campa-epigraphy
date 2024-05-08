@@ -96,7 +96,7 @@
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:83213">
             <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A01"/><supplied reason="lost"><g type="floretComplex"/>namo lo</supplied>kanāthā<supplied reason="lost">ya</supplied><g type="floretComplex"/></ab>
           <p><lb n="A1"/>svasti<g type="ddandaPlain">.</g></p><!-- MAIL A DANIEL POUR CE CAS DE SVASTI A INCORPORER DANS AB. -->
             <lg n="1" met="indravajrā">

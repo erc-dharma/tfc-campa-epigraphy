@@ -85,7 +85,7 @@
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:83213">
            <p><milestone type="pagelike" unit="face" n="A"/><lb n="A1"/><gap reason="lost" quantity="1" unit="line"/></p>
            <lg n="1" met="mālinī">
              <l n="a"><lb n="A2"/><seg met="------"><gap reason="lost" quantity="6" unit="character"/></seg>rudro rudraloke g<choice><sic>ū</sic><corr>u</corr></choice>ṇāḍhye<g type="circleSmall">.</g></l>

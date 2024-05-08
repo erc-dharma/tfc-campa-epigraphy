@@ -100,7 +100,7 @@
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:00000">
+         <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:83213">
            <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A01"/><g type="floretQuatrefoil"/><g type="ddandaOrnate"/> Om̐ namaś śivāya<g type="ddandaOrnate"/><g type="floretQuatrefoil"/><supplied reason="lost">svasti</supplied></ab>
            <lg n="1" met="sragdharā"><lb n="A2"/>
            <l n="a"><supplied reason="lost">nā</supplied> <unclear>nārūpā</unclear>ṇi yasyākhila-jagad-uditaiśvaryya-saṁbhāvitāni<g type="dotMid">.</g></l>
@@ -189,7 +189,7 @@ argr2sapi: tu lis souvent des anusvāra dont on ne veut pas. je serais très hé
              <l n="c">sukhāsīno<!--sapi2argr sukhāsīṁno. Pour l'instant je ne touche à rien. CORRIGER OU IL n'y est pas.
 argr2sapi: on ne s'attend pas à un anusvāra donc mieux de ne pas le mettre si c'est possible qu'il s'agit d'une imperfection de la pierre
 --> namaskāra<g type="dotMid">.</g></l>
-             <l n="d">dhanān naḥ pā<lb n="A18"/><g type="floretQuatrefoil"/><g type="ddandaOrnate">.</g> tu sādhvasāt·<g type="ddandaOrnate">.</g><g type="floretQuatrefoil"/></l><!--sapi2argr les deux signes encadrant les ddanda ne sont pas vraiment des floretQuatrefoil. Il s'agit plutôt de motifs décoratifs végétaux disposés de manière symétrique, rétrécissant à mesure qu'ils s'écartent vers le bord. 
+             <l n="d">dhanān naḥ pā<lb n="A18"/><g type="floretQuatrefoil"/><g type="ddandaOrnate">.</g> tu sādhvasāt·<g type="ddandaOrnate">.</g><g type="floretQuatrefoil"/></l><!--sapi2argr les deux signes encadrant les ddanda ne sont pas vraiment des floretQuatrefoil. Il s'agit plutôt de motifs décoratifs végétaux disposés de manière symétrique, rétrécissant à mesure qu'ils s'écartent vers le bord.
 argr2sapi: pas une bonne idée de mettre floretQuatrefoil si ce n'est pas réellement un exemple de ça. Pourquoi ne pas contacter Daniel Balogh et lui propose un ajout au Symbol Taxonomy?
 -->
            </lg>
@@ -197,7 +197,7 @@ argr2sapi: pas une bonne idée de mettre floretQuatrefoil si ce n'est pas réell
               <l n="a"><lb n="B1"/><seg met="-+---+-"><gap reason="lost" quantity="7" unit="character"/></seg><!--sapi2argr Ici c'est la première fois que j'encode une lacune de vers, et je ne suis pas sûre de l'avoir fait correctement.
 argr2sapi: merci de consulter Daniel si tu en as toujours besoin
 --><unclear>m</unclear>ā kali-kalaṅka-kālojjhitā<g type="dotMid">.</g></l>
-              <l n="b">mahā-jana-gaṇa-pra<seg met="+-"><gap reason="lost" quantity="2" unit="character"/></seg><lb n="B2"/><seg met="--+"><gap reason="lost" quantity="3" unit="character"/></seg> sti campāhvayā<g type="dotMid">.</g><!-- sapi2argr Ici le terme n'existe pas dans la taxonomy mais il s'agit d'un dotHigh 
+              <l n="b">mahā-jana-gaṇa-pra<seg met="+-"><gap reason="lost" quantity="2" unit="character"/></seg><lb n="B2"/><seg met="--+"><gap reason="lost" quantity="3" unit="character"/></seg> sti campāhvayā<g type="dotMid">.</g><!-- sapi2argr Ici le terme n'existe pas dans la taxonomy mais il s'agit d'un dotHigh
 argr2sapi: regarder à nouveau dans symbol taxonomy; s;il n'y est toujours pas, alors propose un ajout
 --></l>
               <l n="c">vibhūti-paribhoga-sampad-ucitā su-tejasvinā<g type="dotMid">.</g></l>
@@ -220,7 +220,7 @@ argr2sapi: regarder à nouveau dans symbol taxonomy; s;il n'y est toujours pas, 
               <l n="d">vīvr̥dhad aiśvaram·<g type="ddandaPlain">.</g></l>
             </lg>
             <lg n="19" met="anuṣṭubh">
-              <l n="a">śrī-sampadaṁ vicitrārthām</l><!--sapi2argr on the stone i read, °ārthādhi but I understand the logic. Difference between ‘ma’ and ‘dha’: very similar characters but the ‘body’ of the ‘ma’ is opened on the right, and the body of the ‘dha’ is opened in the middle. Cf. comparison with °mahāsām, on the same line. 
+              <l n="a">śrī-sampadaṁ vicitrārthām</l><!--sapi2argr on the stone i read, °ārthādhi but I understand the logic. Difference between ‘ma’ and ‘dha’: very similar characters but the ‘body’ of the ‘ma’ is opened on the right, and the body of the ‘dha’ is opened in the middle. Cf. comparison with °mahāsām, on the same line.
 argr2sapi: vicitrārthādh irādhīśa- would be impossible in Sanskrit so your impression that you saw dh must have been wrong
 -->
               <l n="b">irādhīśa-prasādataḥ<g type="dotMid">.</g></l>
@@ -308,7 +308,7 @@ argr2sapi: pose la question à Daniel
             <lb n="D10"/><supplied reason="lost">yāṅ·</supplied> pov· ku <unclear>siniy·</unclear> matandāḥ pakar· sarvvākarādāna sarvva pat·
             <lb n="D11"/>matandāḥ ya siy· urāṅ· nāma pamataḥ matandāḥ niy· Urāṅ· nan· la<lb
             n="D12" break="no"/>c· di naraka<g type="dotMid">.</g> ya siy· Urāṅ· nāma tan·<!-- sapi2argr ou ta(ṁ)n·? --> pamataḥ matandāḥ niy·
-            <lb n="D13"/>Urāṅ· nan· nau dauk· di svargga yathā-Iṣṭa driy·<g type="dotMid">.</g></p> 
+            <lb n="D13"/>Urāṅ· nan· nau dauk· di svargga yathā-Iṣṭa driy·<g type="dotMid">.</g></p>
 
 <p>rājā<lb n="D14" break="no"/>jñā na laṅghanīyā bhavadbhiḥ<g type="dotMid">.</g>
           </p>
@@ -345,7 +345,7 @@ argr2sapi: faut-il apporter une variante à l'apparat critique? Huber comment av
                  </app>
                  <app loc="A16">
                      <lem>nude stāc</lem>
-                     <rdg source="bib:Huber1911_01">’nudostāc</rdg><!--sapi2argr ' ou q ? 
+                     <rdg source="bib:Huber1911_01">’nudostāc</rdg><!--sapi2argr ' ou q ?
 argr2sapi: le q n'a lieu d'être que quand il ya une voyelle initiale A utilisé comme consonne. Rien à voir avec ce que nous avons ici. En revanche, tu peux mettre <supplied reason="subaudible">’</supplied> dans l'édition et donc également dans le <lem> -->
                      <note>with note “Corr. dosthāc”. There is clearly no do but de, there is no elision to be marked with an apostrophe, and no correction is necessary for the akṣara stā.</note>
                  </app>

@@ -8,13 +8,13 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Pedestal from Trà Kiệu</title>
+            <title>Pedestal from Trà Kiệu (C. 137), 7th c. CE</title>
             <respStmt>
                <resp>EpiDoc Encoding</resp>
-               <persName ref="part:sapi">
-                  <forename>Salomé</forename>
-                  <surname>Pichon</surname>
-               </persName>
+            	<persName ref="part:argr">
+            		<forename>Arlo</forename>
+            		<surname>Griffths</surname>
+            	</persName>
             </respStmt>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
@@ -22,17 +22,13 @@
                   <forename>Arlo</forename>
                   <surname>Griffths</surname>
                </persName>
-               <persName ref="part:sapi">
-                  <forename>Salomé</forename>
-                  <surname>Pichon</surname>
-               </persName>
             </respStmt>
             <respStmt>
                <resp>Conversion of encoding for DHARMA</resp>
-               <persName ref="part:sapi">
-                  <forename>Salomé</forename>
-                  <surname>Pichon</surname>
-               </persName>
+            	<persName ref="part:argr">
+            		<forename>Arlo</forename>
+            		<surname>Griffths</surname>
+            	</persName>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -46,7 +42,7 @@
                         https://creativecommons.org/licenses/by/4.0/ or send a letter to
                         Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                         California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Arlo Griffiths and Salomé Pichon.</p>
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -162,8 +158,8 @@
 <note>Although Huber (who used the same estampage as we do) marked no uncertainty of reading, no trace is visible of the subscript <foreign>r</foreign> under the consonant that he reads as <foreign>p</foreign>. This consonant must, however, quite certainly be read as <foreign>s</foreign>, for it shows the distinctive diagonal bridge between the two verticals. Although damage to the stone just below the <foreign>s</foreign> has removed every trace of a subscript consonant, the only contextually permissible reading seems to us to be <foreign>sva</foreign>°, so we have restored the now invisible subscript <foreign>v</foreign> in place of <foreign>r</foreign>.</note>
 </app>
 <app loc="4">
-<lem>pāduka°</lem>
-<rdg source="bib:Huber1911_01">haṭaka°</rdg>
+<lem>pāduka-</lem>
+<rdg source="bib:Huber1911_01">haṭaka-</rdg>
 </app>
 </listApp>
 </div>

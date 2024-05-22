@@ -162,11 +162,10 @@
          <lb n="B15" break="no"/>tiṣṭhāpita Iti <g type="ddandaPlain">.</g>
        </p>
        <lg n="8" met="anuṣṭubh">
-         <l n="a">saṁpātu viduṣo <unclear>ka</unclear>rmma <g type="dotMid">.</g></l>
-         <l n="b">saṁp<unclear>ā</unclear><supplied reason="lost">t</supplied>u <supplied reason="lost">vi</supplied>duṣo vacaḥ</l>
-         <l n="c" enjamb="yes">saṁ śivā<choice><unclear>d</unclear><unclear>n</unclear></choice>ara-kailāsaś</l>
-         <l n="d">śi<unclear>va</unclear> <seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>t<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg><!-- sapi2argr Ici est-il nécessaire d'ajouter le mètre ? Et pourrait-on lire śivāntā, comme à la l. B14?-->
-         vado <lb n="B4"/><seg met="+-="><gap reason="lost" quantity="3" unit="character"/></seg> <g type="ddanda">.</g></l>
+         <l n="a">śrī bhadravarmmaṇā dattā <g type="dotMid">.</g></l>
+         <l n="b">tasmai muktir iyaṁ pa<supplied reason="lost">rā</supplied></l>
+         <l n="c"><supplied reason="lost">yāvat sū</supplied><lb n="B16" break="no"/>ryyaś ca candraś ca</l>
+         <l n="d">tāvad asti mahītale <g type="ddanda">.</g> <g type="dotMid">.</g></l>
        </lg>
          </div>
          <div type="apparatus">
@@ -394,7 +393,7 @@
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>Huber didn't recognized stanza 7 and interpreted it as prose.</p>
+           <p>Huber didn't recognized stanzas 7 and 8 and interpreted them as prose.</p>
         	<listBibl type="primary">
 				<bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>

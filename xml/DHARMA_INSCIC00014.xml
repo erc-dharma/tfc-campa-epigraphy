@@ -87,7 +87,7 @@
 <lg n="1" met="śārdūlavikrīḍita">
 <l n="a"><lb n="1"/>śrī gaṅgā<seg met="--+-+---+++-+"><gap reason="lost" quantity="13" unit="character"/></seg><lb n="2"/><seg met="+-"><gap reason="lost" quantity="2" unit="character"/></seg>ya</l>
 <l n="b">candrāñśasya dadhe pure sa <seg met="--+++-"><gap reason="lost" quantity="6" unit="character"/></seg><lb n="3"/><seg met="++-"><gap reason="lost" quantity="3" unit="character"/></seg>sā</l>
-<l n="c">rā<seg met="+"><gap reason="lost" quantity="1" unit="character"/></seg>nādi<seg met="-"><gap reason="lost" quantity="1" unit="character"/></seg>rā<seg met="-"><gap reason="lost" quantity="1" unit="character"/></seg>nā 
+<l n="c">rā<seg met="+"><gap reason="lost" quantity="1" unit="character"/></seg>nādi<seg met="-"><gap reason="lost" quantity="1" unit="character"/></seg>rā<seg met="-"><gap reason="lost" quantity="1" unit="character"/></seg>nā
 <seg met="---+++-++"><gap reason="lost" quantity="9" unit="character"/></seg><lb n="4"/><seg met="-="><gap reason="lost" quantity="2" unit="character"/></seg></l>
 <l n="d"><seg met="+"><gap reason="lost" quantity="1" unit="character"/></seg>dārāya <seg met="-+-+"><gap reason="lost" quantity="4" unit="character"/></seg> punar imā vikr<supplied reason="lost">āntarudreśvaraḥ <g type="ddanda">.</g></supplied></l>
 </lg>
@@ -107,7 +107,7 @@
 <l n="c">śrīma[tā 5 groupes]</l> <l n="d"><lb n="17"/>dattaṁ vikrāntavarmmaṇā ||</l>
 </lg>
 
-<!-- 
+<!--
 I. ab. dadhe pure sa: "La lecture des cinq derniers groupes n'est pas certaine." (Bergaigne) "Le premier pāda paraît se terminer par jñā dvaya ; le deuxième, par dha(r)mmy(o)ddhamā." (Barth)
 
 % 9. °ratnabaddha°: Barth, °ratnabandha° Bergaigne.
@@ -138,15 +138,50 @@ I. ab. dadhe pure sa: "La lecture des cinq derniers groupes n'est pas certaine."
 Estampage EFEO: n. 1078, est. BnF reproduced by Bergaigne.
 Bergaigne 1888
 Aymonier 1892
-Editions: ISCC, pp. 231-237; 
-Majumdar, pp. 71-74; Golzio, 56-58. 
+Editions: ISCC, pp. 231-237;
+Majumdar, pp. 71-74; Golzio, 56-58.
 Voir aussi Etienne Aymonier, Première étude sur les inscriptions tchames, JA 1891 (1), pp. 24-25. -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <p>First edited by Abel Bergaigne.</p>
         	<listBibl type="primary">
-	<bibl n="B"><ptr target="bib:Bergaigne1893_01"/><citedRange unit="page">231-237</citedRange><citedRange unit="item">XXIV</citedRange></bibl>
+	<bibl n="B">
+    <ptr target="bib:Bergaigne1893_01"/>
+    <citedRange unit="page">231-237</citedRange>
+    <citedRange unit="item">XXIV</citedRange>
+  </bibl>
 			</listBibl>
            <listBibl type="secondary">
-              	<bibl><ptr target="bib:Parmentier1909_01"/><citedRange unit="page">75-76</citedRange></bibl> 
+              <bibl>
+                <ptr target="bib:Aymonier1891_01"/>
+              <citedRange unit="page">24-27</citedRange>
+            </bibl>
+              <bibl>
+                <ptr target="bib:Finot1903_04"/>
+              <citedRange unit="page">633</citedRange>
+            </bibl>
+              <bibl>
+                <ptr target="bib:Coedes1908_01"/>
+              <citedRange unit="page">41</citedRange>
+            <citedRange unit="item">14</citedRange>
+          </bibl>
+              	<bibl>
+                  <ptr target="bib:Parmentier1909_01"/>
+                <citedRange unit="page">75-76</citedRange>
+              </bibl>
+              <bibl>
+              <ptr target="bib:Coedes1923_01"/>
+            <citedRange unit="page">6-7</citedRange>
+          <citedRange unit="item">14</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target="bib:Majumdar1927_01"/>
+          <citedRange unit="book">III</citedRange>
+          <citedRange unit="page">71-74</citedRange>
+          <citedRange unit="item">30</citedRange>
+        </bibl>
+      	<bibl>
+          <ptr target="bib:Golzio2004_01"/>
+          <citedRange unit="page">56-58</citedRange>
+        </bibl>
            </listBibl>
         </div>
       </body>

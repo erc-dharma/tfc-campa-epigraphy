@@ -82,7 +82,7 @@
         </encodingDesc>
         <revisionDesc>
         <change who="part:sapi" when="2024-04-22" status="draft">Initial encoding of the inscription</change>
-        <change who="part:sapi" when="2024-05-31" status="draft">Adding Huber's translation and bibliography</change>
+        <change who="part:sapi" when="2024-05-31" status="draft">Adding Huber's translation and </change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
@@ -168,7 +168,7 @@
          <l n="c"><supplied reason="lost">yāvat sū</supplied><lb n="B16" break="no"/>ryyaś ca candraś ca</l>
          <l n="d">tāvad asti mahītale <g type="ddanda">.</g> <g type="dotMid">.</g></l>
        </lg>
-       <p xml:lang="ocm-Latn" rendition="class:83233 maturity:83213">siy· mapa <gap reason="lost" quantity="4" unit="character"/>
+       <p xml:lang="ocm-Latn">siy· mapa <gap reason="lost" quantity="4" unit="character"/>
         <lb n="B17"/>niy· Asuv· ñū ndoy· Inā ñū <g type="ddandaPlain">.</g>
       </p>
          </div>

@@ -83,6 +83,10 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83213">
+           <!-- sapi2argr Liste de questions
+            1) Est-il nécessaire d'encoder les "sā" = un comme des numerals ?
+            2)
+          -->
            <ab><milestone type="pagelike" unit="face" n="A"/>
              <lb n="A01"/>Oṁ
              <lb n="A02"/>namaś śivāya
@@ -125,22 +129,51 @@
              <lb n="A35"/>humā bhvai ramalān· prathama di Īśāna vik· pyā thaum̃ nau dakṣiṇa raḥ thauṅ· tam̃l·
              <lb n="A36"/>humā nagara nau paścima sā Āra saum̃ humā nagara nau Uttara mvyak· nau paścima
              <lb n="A37"/>sā Āra saum̃ humā nagara nau Uttara mvyak· nau paścima sā Āra saum̃ humā nagara nau U-
-             <lb n="A38" break="no"/>ttara sā āra saum̃ humā nagara nau paś<choice><sic>ci</sic><corr>cima</corr></choice> sā Āra saum̃ humā nagara tam̃l· humā pom̐
+             <lb n="A38" break="no"/>ttara sā Āra saum̃ humā nagara nau paś<choice><sic>ci</sic><corr>cima</corr></choice> sā Āra saum̃ humā nagara tam̃l· humā pom̐
              <lb n="A39"/>kandom̃ nau dakṣ<choice><sic>ī</sic><corr>i</corr></choice>ṇa nau pūrvva sā Āra saum̃ humā pom̐ kandom̃ nau Uttara tam̃l· <supplied reason="lost">v</supplied>-
              <lb n="A40" break="no"/>au<unclear>m̃</unclear> <choice><sic>d</sic><corr>n</corr></choice>au pūrvva dalvan· vaum̃ tam̃l· prathama Alā humā yauṁ <num value="465">465</num> jāk·
            </p>
            <p><milestone type="pagelike" unit="face" n="B"/>
-           <lb n="B1"/>
+           <lb n="B1"/><g type="ddanda"/> madā humā sā sthāna di palim̃ kraum̃ Anan·
+           <lb n="B2"/>humā salatam̃n· prathama di Īśāna vik· pyā
+           <lb n="B3"/>humā nagara nau dakṣiṇa sā Āra saum̃ humā
+           <lb n="B4"/>nagara nau paścima sā Āra saum̃ humā nagara nau da-
+           <lb n="B5" break="no"/>kṣiṇa mvyak· nau paścima sā Āra saum̃ humā
+           <lb n="B6"/>nagara nau Uttara mvyak· nau paścima sā Āra saum̃
+           <lb n="B7"/> humā nagara nau Uttara sā Āra saum̃ humā naga-
+           <lb n="B8" break="no"/>ra nau pūrvva sā Āra saum̃ humā nagara nau dakṣiṇa
+           <lb n="B9"/>mvyak· nau pūrvva mvyak· nau Uttara sā Āra saum̃ hu-
+           <lb n="B10" break="no"/>mā nagara nau pūrvva sā Āra saum̃ humā nagara tam̃-
+           <lb n="B11" break="no"/>l· prathama Alā humā yauṁ <num value="32">32</num> jāk· <g type="ddanda">.</g> sā
+           <lb n="B12"/>sthāna trā di palim̃ kraum̃ Anan· humā yok· pra-
+           <lb n="B13" break="no"/>thama di Īśāna vik· pyā humā nagara nau dakṣi-
+           <lb n="B14" break="no"/>ṇa sā Āra saum̃ humā nagara nau paścima saum̃
+           <lb n="B15"/>kakai kanvā nau Uttara sā Āra saum̃ humā nagara
+           <lb n="B16"/>nau pūrvva sā Āra saum̃ humā nagara nau dakṣiṇa
+           <lb n="B17"/>mvyak· nau pūrvva sā Āra saum̃ humā nagara tam̃l· pra-
+           <lb n="B18" break="no"/>thama Alā humā yauṁ <num value="12">12</num> jāk· <g type="ddanda">.</g> sā sthāna trā
+           <lb n="B19"/>Anan· humā salatam̃n· prathama di Īśāna vik· pyā
+           <lb n="B20"/>humā nagara nau dakṣiṇa sā Āra saum̃ humā nagara
+           <lb n="B21"/>nau pūrvva mvyak· nau dakṣiṇa nau paścima mvyak· nau da-
+           <lb n="B22" break="no"/>kṣiṇa sā Āra sauṅ· humā nagara nau paścima sā
+           <lb n="B23"/>Āra saum̃ humā nagara nau Uttara sā Āra saum̃ hu-
+           <lb n="B24" break="no"/>mā nagara nau paścima mvyak· nau Uttara sā Āra saum̃
+           <lb n="B25"/>humā nagara nau pūrvva sā Āra sauṅ· humā nagara tam̃-
+           <lb n="B26" break="no"/>l· prathama Alā humā yauṁ <num value="10">10</num> jāk· <g type="ddanda">.</g> sā sthāna
+           <lb n="B27"/>trā di palim̃ kraum̃ Anan· humā ramakān· prathama
+           <lb n="B28"/>di Īśāna vik· pyā guhūl· nau dakṣiṇa raḥ ka-
+           <lb n="B29" break="no"/>kai guhul· dalvan· ravaum̃ tam̃l· humā nagara nau pa-
+           <lb n="B30" break="no"/>ścima sā Āra saum̃ humā nagara nau Uttara mvyak·
 
          </p>
          </div>
          <div type="apparatus">
-           <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
-               <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="line"><!-- update the value of @loc.-->
-                     <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
-                  </app>
+           <listApp>
+             <app loc="B1">
+                 <lem>sthāna di palim̃</lem>
+                 <rdg source="Griffiths+Lepoutre2016_01">sthāna palim̃</rdg>
+                 <note>Griffiths and Lepoutre didn't read the word <foreign>di</foreign> and suggest to add it in a note. However, it appears clearly on the stone.</note>
+             </app>
                </listApp>
          </div>
          <div type="translation">
@@ -151,7 +184,7 @@
             <p n="A28-A29">Idem l. A28-29, with the word <foreign>nau</foreign>.</p>
             <p n="A32-A33">Idem l. A32-33, with the word <foreign>saum̃</foreign>.</p>
             <p n="A39-A40">Idem l. A39-40, with the word <foreign>vaum̃</foreign>.</p>
-            <p n="A39-40">[v]aum̃… vaum̃ : repeated error, or apheretic variant, for <foreign>ravaum̃</foreign>. See <ref target="DHARMA_INSCIC00009.xml">C. 9</ref> l. B16.</p>
+            <p n="A39-40"><foreign>[v]aum̃</foreign>… <foreign>vaum̃</foreign> : repeated error, or apheretic variant, for <foreign>ravaum̃</foreign>. See <ref target="DHARMA_INSCIC00009.xml">C. 9</ref> l. B16.</p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->

@@ -147,13 +147,16 @@
 <div type="apparatus">
 <listApp>
 <app loc="1">
-<lem><num value="913">913</num></lem>
+<lem source="bib:Griffiths+al2008-2009_01"><num value="913">913</num></lem>
 <rdg source="bib:Golzio2004_01">917</rdg>
 <rdg source="bib:Finot1904_01">713</rdg>
 <note>The reading <foreign>7</foreign> for the units that Golzio proposes is impossible, as inspection of the estampage shows. See our discussion in <bibl><ptr target="bib:Griffiths+al2008-2009_01"/><citedRange unit="page">486</citedRange></bibl>.</note>
-</app><app loc="1"><lem source="bib:Finot1904_01">vulān· <num value="4">4</num></lem>
-<rdg source="bib:Finot1904_01">vulān· <unclear cert="low">8</unclear></rdg>
-<note>Finot first hesitantly read the month number as <foreign>8</foreign>. We adopt the reading that he later proposed with confidence (<bibl><ptr target="bib:Finot1904_05"/><citedRange unit="page">933</citedRange></bibl>).</note></app>
+</app>
+<app loc="1">
+   <lem source="bib:Griffiths+al2008-2009_01">vulān· <num value="4">4</num></lem>
+   <rdg source="bib:Finot1904_01">vulān· <unclear cert="low">8</unclear></rdg>
+   <note>Finot first hesitantly read the month number as <foreign>8</foreign>. We adopt the reading that he later proposed with confidence (<bibl><ptr target="bib:Finot1904_05"/><citedRange unit="page">933</citedRange></bibl>).</note>
+</app>
 </listApp>
 </div>
 <div type="translation" resp="part:argr">

@@ -15,6 +15,9 @@
 <!-- 
 README
 
+- add wikidata URIs as long as easy to find in https://www.wikidata.org/wiki/Wikidata:Main_Page
+- keep track of sources of coordinates: "positional accuracy assessment" with value "handheld gps"
+
 @type
 admitted values are 
 	- with reference to administrative divisions: "settlement", "village", "commune", "town", "city", "province"
@@ -88,6 +91,7 @@ use of <location>:
 						<placeName xml:lang="vi">Bình Định</placeName>
 						<idno type="URI">http://www.geonames.org/1587871/tinh-binh-ginh.html</idno>
 						<idno type="URI">http://en.wikipedia.org/wiki/Binh_Dinh_Province</idno>
+						<idno type="URI">https://www.wikidata.org/wiki/Q36693</idno>
 
 						<place type="settlement" xml:id="an-ngai">
 							<placeName xml:lang="vi">An Ngãi</placeName>
@@ -408,6 +412,7 @@ use of <location>:
 						</place>
 						<place type="settlement" xml:id="phuoc-tinh">
 							<placeName xml:lang="vi">Phươc Tịnh</placeName>
+							<!-- now named Nui Ba — establish x-ref -->
 						</place>
 						<place type="district" xml:id="song-cau">
 							<placeName xml:lang="vi">Sông Cầu</placeName>
@@ -611,12 +616,12 @@ use of <location>:
 							</place>
 						</place>
 						<place>
-							<placeName type="commune" xml:id="duy-son">Duy Sơn</placeName>
+							<placeName type="commune" xml:id="duy-son" xml:lang="vi">Duy Sơn</placeName>
 							<place>
-								<placeName type="village" xml:id="kieu-chau">Kiệu Châu</placeName>
+								<placeName type="village" xml:id="kieu-chau" xml:lang="vi">Kiệu Châu</placeName>
 								<place>
-									<placeName type="site" xml:id="chua-vua">Chùa Vua</placeName>
-									<placeName>Chùa Voi</placeName>
+									<placeName type="site" xml:id="chua-vua" xml:lang="vi">Chùa Vua</placeName>
+									<placeName xml:lang="vi">Chùa Voi</placeName><!-- did we mean alternate name? -->
 								</place>
 							</place>
 						</place>

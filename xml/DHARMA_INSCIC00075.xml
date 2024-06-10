@@ -8,36 +8,32 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Block at Mỹ Sơn</title>
+            <title>Block at Mỹ Sơn (C. 75), 913 Śaka</title>
             <respStmt>
                <resp>EpiDoc Encoding</resp>
-               <persName ref="part:sapi">
-                  <forename>Salomé</forename>
-                  <surname>Pichon</surname>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
                </persName>
             </respStmt>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
                <persName ref="part:argr">
                   <forename>Arlo</forename>
-                  <surname>Griffths</surname>
-               </persName>
-               <persName ref="part:sapi">
-                  <forename>Salomé</forename>
-                  <surname>Pichon</surname>
+                  <surname>Griffiths</surname>
                </persName>
             </respStmt>
             <respStmt>
                <resp>Conversion of encoding for DHARMA</resp>
-               <persName ref="part:sapi">
-                  <forename>Salomé</forename>
-                  <surname>Pichon</surname>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
                </persName>
             </respStmt>
          </titleStmt>
          <publicationStmt>
             <authority>DHARMA</authority>
-            <pubPlace>Paris</pubPlace>
+            <pubPlace>Jakarta</pubPlace>
             <idno type="filename">DHARMA_INSCIC00075</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
@@ -46,7 +42,7 @@
                         https://creativecommons.org/licenses/by/4.0/ or send a letter to
                         Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                         California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Arlo Griffiths and Salomé Pichon.</p>
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -124,6 +120,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change when="2024-06-10" who="part:argr" status="draft">Further cleanup.</change>
          <change when="2021-07-03" who="part:argr" status="draft">Resolved validation problems.</change>
          <change when="2020-09-14" who="part:axja" status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
@@ -139,47 +136,47 @@
          <desc>Photograph of EFEO estampage n. 332.</desc>
       </graphic>
    </facsimile>
-   <text xml:space="preserve"><body><div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:00000">
-                <ab>
-                    <lb n="1"/> <g>|||</g> di śakarāja 913 huriy· 5 vaṅun· vulān· 4 vr̥haspativāra <unclear>ma</unclear><lb n="2" break="no"/>ghanakṣatra vr̥ścikalagna kāla yāṅ· po ku vijaya śrī harivarmmadeva
-                    <lb n="3"/>punaḥ yāṅ· po ku śrī jaya īśānabhadreśvara karaṇa kīrtti yaśa di bhūmima<lb n="4" break="no"/>ṇḍala niy· <g>||</g> <g type="fleuron"/>
-                </ab>
+   <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83213">
+                <p>
+                    <lb n="1"/><g type="danda"/><g type="danda"/><g type="danda"/> di śaka-rāja <num value="913">913</num> huriy· <num value="5">5</num> vaṅun· vulān· <num value="4">4</num> vr̥haspati-vāra <unclear>ma</unclear><lb n="2" break="no"/>gha-nakṣatra vr̥ścika-lagna kāla yāṅ· po ku vijaya śrī harivarmmadeva
+                    <lb n="3"/>punaḥ yāṅ· po ku śrī jaya Īśānabhadreśvara karaṇa kīrtti yaśa di bhūmi-ma<lb n="4" break="no"/>ṇḍala niy· <g type="squiggleVertical"/><g type="squiggleVertical"/> <g type="floretQuatrefoil"/>
+                </p>
             </div>
 <div type="apparatus">
 <listApp>
 <app loc="1">
-<lem>913</lem>
+<lem><num value="913">913</num></lem>
 <rdg source="bib:Golzio2004_01">917</rdg>
 <rdg source="bib:Finot1904_01">713</rdg>
-<note>The reading 7 for the units that Golzio proposes is impossible, as inspection of the estampage shows. See our discussion in <bibl><ptr target="bib:Griffiths+al2008-2009_01"/><citedRange unit="page">486</citedRange></bibl>.</note>
-</app><app loc="1"><lem source="bib:Finot1904_01">vulān· 4</lem>
-<rdg source="bib:Finot1904_01">vulān 8 (?)</rdg>
-<note>Finot first read the month name as <foreign>8 (?)</foreign>. We adopt the reading that he later proposed with confidence (<bibl><ptr target="bib:Finot1904_05"/><citedRange unit="page">933</citedRange></bibl>).</note></app>
+<note>The reading <foreign>7</foreign> for the units that Golzio proposes is impossible, as inspection of the estampage shows. See our discussion in <bibl><ptr target="bib:Griffiths+al2008-2009_01"/><citedRange unit="page">486</citedRange></bibl>.</note>
+</app><app loc="1"><lem source="bib:Finot1904_01">vulān· <num value="4">4</num></lem>
+<rdg source="bib:Finot1904_01">vulān· <unclear cert="low">8</unclear></rdg>
+<note>Finot first hesitantly read the month number as <foreign>8</foreign>. We adopt the reading that he later proposed with confidence (<bibl><ptr target="bib:Finot1904_05"/><citedRange unit="page">933</citedRange></bibl>).</note></app>
 </listApp>
 </div>
 <div type="translation" resp="part:argr">
-<p>In the <supplied reason="subaudible">year of the</supplied> Śaka-king 913, day 5 of the waxing <supplied reason="subaudible">fortnight</supplied> of month 4, Thursday, lunar mansion
-                    Magha, Scorpio in the ascendant. <supplied reason="subaudible">This was</supplied> the time that Y.P.K. the victorious Śrī
-                    Harivarmadeva re-established <supplied reason="explanation">the image of</supplied> Y.P.K. Śrī Jaya Īśānabhadreśvara, for the sake of
-                    fame and glory in this earthly domain.</p></div>
+<p>In the <supplied reason="subaudible">year of the</supplied> Śaka-king 913, day 5 of the waxing <supplied reason="subaudible">fortnight</supplied> of month 4, Thursday, lunar mansion Magha, Scorpio in the ascendant. <supplied reason="subaudible">This was</supplied> the time that Y.P.K. the victorious Śrī Harivarmadeva re-established <supplied reason="explanation">the image of</supplied> Y.P.K. Śrī Jaya Īśānabhadreśvara, for the sake of fame and glory in this earthly domain.</p>
+</div>
 <div type="translation" xml:lang="fra" source="bib:Griffiths+al2008-2009_01">
-<p> En <supplied reason="subaudible">l’année</supplied> 913 <supplied reason="subaudible">du</supplied> roi des Śaka, jour 5 de la <supplied reason="subaudible">quinzaine</supplied> croissante du mois 4, un jeudi, mansion lunaire de Maghā, l’ascendant en Scorpion. <supplied reason="subaudible">Ceci fut</supplied> le temps où Y. P. K. le victorieux Śrī Harivarmadeva rétablit <supplied reason="explanation">l’image de</supplied> Y. P. K. Śrī Jaya Īśānabhadreśvara, en vue de la gloire et de la renommée dans ce domaine terrestre.</p>
+<p>En <supplied reason="subaudible">l’année</supplied> 913 <supplied reason="subaudible">du</supplied> roi des Śaka, jour 5 de la <supplied reason="subaudible">quinzaine</supplied> croissante du mois 4, un jeudi, mansion lunaire de Maghā, l’ascendant en Scorpion. <supplied reason="subaudible">Ceci fut</supplied> le temps où Y. P. K. le victorieux Śrī Harivarmadeva rétablit <supplied reason="explanation">l’image de</supplied> Y. P. K. Śrī Jaya Īśānabhadreśvara, en vue de la gloire et de la renommée dans ce domaine terrestre.</p>
 </div>
 <div type="commentary">
 <p>On the issue of the correct reading and interpretation of the dating formula in this inscription, see <bibl><ptr target="bib:Griffiths+al2008-2009_01"/><citedRange unit="page">457</citedRange></bibl>.</p>
 </div>
 <div type="bibliography">
-<p/>
+<p>First edited by Louis Finot (<bibl rend="omitname"><ptr target="bib:Finot1904_01"/></bibl>) with French translation. The text re-redited and retranslated here by Arlo Griffiths, based on EFEO estampage n. 332, was published in <bibl><ptr target="bib:Griffiths+al2008-2009_01"/></bibl>.</p>
 <listBibl type="primary">
 <bibl n="LF"><ptr target="bib:Finot1904_01"/><citedRange unit="page">113-115</citedRange></bibl>
 <bibl n="KHG"><ptr target="bib:Golzio2004_01"/><citedRange unit="page">122</citedRange></bibl>
 <bibl n="CIC"><ptr target="bib:Griffiths+al2008-2009_01"/><citedRange unit="page">457</citedRange></bibl>
 </listBibl>
 <listBibl type="secondary">
-<!-- <bibl><ptr target="cic-bibl:parmentier-1909"/>: <biblScope>382</biblScope></bibl>  -->
-<bibl><ptr target="bib:Majumdar1927_01"/><citedRange unit="book">III</citedRange><citedRange unit="page">145</citedRange><citedRange unit="item">51</citedRange>
-</bibl>
+<bibl><ptr target="bib:Parmentier1909_01"/><citedRange unit="page">382</citedRange><citedRange unit="item">XI</citedRange></bibl>
+<bibl><ptr target="bib:Majumdar1927_01"/><citedRange unit="book">III</citedRange><citedRange unit="page">145</citedRange><citedRange unit="item">51</citedRange></bibl>
 </listBibl>
 </div>
-</body></text>
+</body>
+</text>
 </TEI>

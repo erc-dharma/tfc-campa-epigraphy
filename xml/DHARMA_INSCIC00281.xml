@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Lintel in group A of Mỹ Sơn (C. 281)</title>
+                <title>Lintel in Mỹ Sơn group A (C. 281), 7th century CE</title>
                 <respStmt>
                    <resp>EpiDoc Encoding</resp>
                    <persName ref="part:sapi">
@@ -81,12 +81,13 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:argr" when="2024-06-11">modified title, encoded rendition</change>
             <change who="part:sapi" when="2023-06-20">initial encoding of the inscription</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:83213">
            <p>
              <lg n="1" met="anuṣṭubh">
                <l n="a"><lb n="1"/>śrī-śarvvāṇyā mahādevyā</l>

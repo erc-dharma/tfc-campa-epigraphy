@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+              <title>Southern doorjamb of the interior door of the main tower of Po Klaong Girai (C. 10), 12th century Śaka</title>
+              <respStmt>
+                 <resp>EpiDoc Encoding</resp>
+                 <persName ref="part:sapi">
+                    <forename>Salomé</forename>
+                    <surname>Pichon</surname>
+                 </persName>
+              </respStmt>
+              <respStmt>
+                <resp>intellectual authorship of edition</resp>
+                <persName ref="part:argr">
+                   <forename>Arlo</forename>
+                   <surname>Griffiths</surname>
+                </persName>
+                <persName ref="http://viaf.org/viaf/289845900">
+                   <forename>Amandine</forename>
+                   <surname>Lepoutre</surname>
+                </persName>
+             </respStmt>
+          </titleStmt>
+          <publicationStmt>
+              <authority>DHARMA</authority>
+              <pubPlace>Paris</pubPlace>
+              <idno type="filename">DHARMA_INSCIC00010</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Arlo Griffiths and Amandine Lepoutre.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>The lettering is characteristic of the thirteenth century CE.</p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+              <change who="part:sapi" when="2024-06-14" status="draft">Started initial encoding of the inscription</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83213">
+           <p>
+             <lb n="1"/><g type="ddanda"/> <g type="floretQuatrefoil"/> <g type="ddanda"/> nī hulun· si vuḥ di hajai kapīk· lanuṅ· lakim̃
+             <lb n="2"/>pam̃ṅ· khvam̃l· vinai kralau vinai tyaum̃ vinai pviḥ lakim̃
+             <lb n="3"/>rahinan· vinai Arā vinai kandom̃ lakim̃ viyunan· vinai
+             <lb n="4"/>kumvval· lakim̃ sat· vinai tīk· vinai ci khvam̃l· vinai du
+             <lb n="5" break="no"/>k· vinai javā vinai lamvī vinai yvan· lakim̃ suk· khvam̃
+             <lb n="6" break="no"/>l· vinai sukhā lakim̃ jāt· vinai <choice><unclear>th</unclear><unclear>dh</unclear></choice>ā khvam̃l· vinai lu
+             <lb n="7"/>k· lakim̃ dvam̃n· vinai jindeḥ vinai ratneḥ khvam̃l· vinai <unclear>Am̃m̃</unclear>
+             <lb n="8" break="no"/>ñ· lakim̃ sraum̃ vinai savvok· khvam̃l· vinai mvyam̃v· vinai
+             <lb n="9"/>tryak· vinai kauk· khvam̃l· vinai miryak· vinai syāṁ vi
+             <lb n="10" break="no"/>nai ndeḥ lakim̃ sūryyanan· lakim̃ tralām̃ khvam̃l· vinai
+             <lb n="11"/>lit· vinai cakhyar· vinai dat· lakim̃ samalak· lakim̃
+             <lb n="12"/>vrak· vinai mvo lakim̃ jaḥ lakim̃ glai lakim̃ ragujaḥ lakim̃ ragu
+             <lb n="13" break="no"/>put· lakim̃ pam̃ ṅ· lakim̃ dharmmajaḥ lakim̃ dharmmajāt· khvam̃
+             <lb n="14" break="no"/>l· vinai garām̃ vinai dnaik· vinai Iśit· lakim̃ dam̃p· vinai
+             <lb n="15"/>kralāp· lakim̃ kanaik· lakim̃ sumvām̃ lakim̃ śak· vinai
+             <lb n="16"/>lavo lakim̃ kataum̃ lakim̃ asum̃ vinai manuk· lakim̃ <unclear>c</unclear>an·
+             <lb n="17"/>lakim̃ Āk· lakim̃ hitaṁ lakim̃ vut· lakim̃ krauv· lakim̃ mv
+             <lb n="18" break="no"/>aik· khvam̃l· vinai <unclear>dyāp</unclear>· lakim̃ jaḥ lakim̃ tralām̃ lakim̃ va
+             <lb n="19" break="no"/>nām̃ lakim̃ suvauk· vinai <unclear>kha</unclear>p· vinai gap· vinai ravaum̃ la
+             <lb n="20" break="no"/>kim̃ <unclear>c</unclear>an· vinai jāt· vinai tasvāt· vinai <choice><unclear>d</unclear><unclear>j</unclear></choice>e lakim̃ śimyam̃
+             <lb n="21"/>lakim̃ dyam̃p· lakim̃ caik· lakim̃ jit· vinai iśit· lakim̃
+             <lb n="22"/>nan· <g type="ddanda">.</g> nī hulun· si vuḥ di hajai vadrā khvam̃l· vinai tas
+             <lb n="23" break="no"/>auk· vinai de vinai Inī vinai Intī vinai lam̃v· vinai pat·
+             <lb n="24"/>vinai keḥ vinai gauk· vinai bhāp· vinai glaḥ vinai candaḥ vin
+             <lb n="25" break="no"/>ai śī lakim̃ dulam̃ lakim̃ jī lakim̃ tān· lakiy· vāy· lakim̃
+             <lb n="26"/>lumvā lakim̃ kulan· lakim̃ vīranan· lakim̃ Aṅū khvam̃l· vinai
+             <lb n="27"/>śī vinai jūk· lakim̃ yāt· lakim̃ de khvam̃l· vinai cak· vi
+             <lb n="28" break="no"/>nai nai vinai Ut· vinai lam̃n· lakim̃ sumvlim̃ lakim̃ kapāḥ
+             <lb n="29"/>lakim̃ vraḥ majāk· vinai vyā lakim̃ sahakūla lakim̃
+             <lb n="30"/>sahanan· vinai sau jāk· lakim̃ Āt· lakīm̃ vrim̃ lakim̃
+             <lb n="31"/>caik· khvam̃l· vinai lauv· vinai paut· vinai ṅyak· vin
+             <lb n="32" break="no"/>ai Iśit· vinai kauk· vinai Anaiḥ lakim̃ śadī lakim̃
+             <lb n="33"/>can· khvam̃l· vinai dulun· vinai lam̃n· lakim̃ samara lakim̃ jī
+             <lb n="34" break="no"/>va vinai gaḥ lakim̃ sumvau vinai sraum̃ vinai Ajīk· khvam̃l·
+             <lb n="35"/>vinai supum̃ lakim̃ raum̃ lakim̃ canrāv· lakim̃ ṅau vinai <unclear>p</unclear>u
+             <lb n="36" break="no"/>t· lakim̃ pam̃ṅ· lakim̃ Inrāt· vinai mī vinai sandeḥ khvam̃
+             <lb n="37" break="no"/>l· vinai dvan· vinai Iśit· lakim̃ vrom̃ lakim̃ vut· laki
+             <lb n="38" break="no"/>y· trahoṅ· lakim̃ vadrā lakim̃ caik· lakim̃ jāk· la
+             <lb n="39" break="no"/>kim̃ <unclear>ra</unclear>m̃ lakim̃ min· lakim̃ hamā vinai śi<unclear>mo</unclear>
+           </p>
+         </div>
+         <div type="apparatus">
+               <listApp>
+                 <app loc="27">
+                     <lem>jūk·</lem>
+                     <rdg source="Aymonier1891_01">juk</rdg>
+                 </app>
+                 <app loc="28">
+                     <lem>kapāḥ</lem>
+                     <rdg source="Aymonier1891_01">kapaḥ</rdg>
+                 </app>
+                 <app loc="31">
+                     <lem>lauv·</lem>
+                     <rdg source="Aymonier1891_01">lov</rdg>
+                 </app>
+               </listApp>
+         </div>
+         <div type="translation" xml:lang="fra" source="bib:Griffiths+Lepoutre2016_01">
+           <p n="1-22">Ceux-ci sont les serviteurs offerts au domaine Kapīk Lanuṅ : homme Pam̃n ; famille de femme Kralau ; femme Tyaum̃ ; femme Pviḥ ; homme Rahinan ; femme Arā ; femme Kandom̃ ; homme Viyunan; femme Kumvval ; homme Sat ; femme Tīk ; femme Ci ; famille de femme Duk ; femme Javā; femme Lamvī ; femme Yvan ; homme Suk ; famille de femme Sukhā ; homme Jāt ; femme (Dh/Th)ā ; famille de femme Luk ; homme Dvam̃n; femme Jindeḥ; femme Ratneḥ; famille de femme Am̃m̃ñ; homme Sraum̃ ; femme Savvok; famille de femme Mvyam̃v; femme Tryak; femme Kauk ; famille de femme Miryak ; femme Syāṁ ; femme Ndeḥ ; homme Sūryyanan ; homme Tralām̃ ; famille de femme Lit ; femme Cakhyar ; femme Dat ; homme Samalak ; homme Vrak ; femme Mvo ; homme Jaḥ ; homme Glai; homme Ragujaḥ; homme Raguput; homme Pam̃ṅ ; homme Dharmmajaḥ ; homme Dharmmajāt ; famille de femme Garām̃ ; femme Dnaik ; femme Iśit ; homme Dam̃p ; femme Kralāp ; homme Kanaik ; homme Sumvām̃ ; homme Śak ; femme Lavo ; homme Kataum̃ ; homme Apum̃ ; femme Manuk ; homme Can; homme Āk ; homme Hitaṁ ; homme Vut ; homme Krauv ; homme Mvaik ; famille de femme Dyāp ; homme Jaḥ ; homme Tralām̃ ; homme Vanām̃ ; homme Suvauk ; femme Khap ; femme Gap ; femme Ravaum̃ ; homme Can ; femme Jāt ; femme Tasvāt ; femme (D/J)e ; homme Śimyam̃ ; homme Dyam̃p ; homme Caik ; homme Jit ; femme Iśit ; homme Nan.
+           </p>
+           <p n="22-39">Ceux-ci sont les serviteurs offerts au domaine Vadrā : famille de femme Tasauk ; femme De ; femme Inī ; femme Intī ; femme Lam̃v ; femme Pat ; femme Keḥ ; femme Gauk ; femme Bhāp ; femme Glaḥ ; femme Candaḥ ; femme Śī ; homme Dulam̃ ; homme Jī ; homme Tān ; homme Vāy ; homme Lumvā ; homme Kulan ; homme Vīranan ; homme Aṅū ; famille de femme Śī ; femme Jūk ; homme Yāt ; homme De ; famille de femme Cak ; femme Nai ; femme Ut ; femme Lam̃n ; homme Sumvlim̃ ; homme Kapāḥ ; homme Vraḥ Majāk ; femme Vyā ; homme Sahakūla ; homme Sahanan ; femme Sau Jāk ; homme Āt ; homme Vrim̃ ; homme Caik ; famille de femme Lauv ; femme Paut ; femme Ṅyak ; femme Iśit ; femme Kauk ; femme Anaiḥ ; homme Śadī ; homme Can ; famille de femme Dulun ; femme Lam̃n ; homme Samara ; homme Jīva ; femme Gaḥ ; homme Sumvau ; femme Sraum̃ ; femme Ajīk ; famille de femme Supum̃ ; homme Raum̃ ; homme Canrāv; homme Ṅau ; femme Put ; homme Pam̃ṅ ; homme Inrāt ; femme Mī ; femme Sandeḥ ; famille de femme Dvan ; femme Iśit ; homme Vrom̃ ; homme Vut ; homme Trahoṅ ; homme Vadrā ; homme Caik ; homme Jāk ; homme Ram̃ ; homme Min ; homme Hamā ; femme Śimo.
+         </p>
+         </div>
+         <div type="commentary">
+            <p>Some words that appear in the inscription where noted by <bibl rend="omitname"><ptr target="bib:Aymonier1891_01"/><citedRange unit="page">80-81</citedRange></bibl>. Since he is cited in the apparatus, he appears in primary bibliography.</p>
+         </div>
+        <div type="bibliography">
+          <p>First edited in French by Arlo Griffiths and Amandine Lepoutre (<bibl rend="omitname"><ptr target="bib:Griffiths+Lepoutre2016_01"/></bibl>), using EFEO estampage n. 1949 and n. 1950.</p>
+         <listBibl type="primary">
+           <bibl n="A">
+           <ptr target="bib:Aymonier1891_01"/>
+           <citedRange unit="page">80-81</citedRange>
+           </bibl>
+           <bibl n="CIC">
+           <ptr target="bib:Griffiths+Lepoutre2016_01"/>
+           <citedRange unit="page">238-242</citedRange>
+           </bibl>
+       </listBibl>
+       <listBibl type="secondary">
+       <bibl>
+       <ptr target="bib:Bergaigne1888_01"/>
+       <citedRange unit="page">103</citedRange>
+       <citedRange unit="item">384</citedRange>
+       </bibl>
+       <bibl>
+       <ptr target="bib:Finot1903_04"/>
+       <citedRange unit="page">635-636</citedRange>
+       <citedRange unit="item">XV</citedRange>
+       </bibl>
+       <bibl>
+       <ptr target="bib:Coedes1908_01"/>
+       <citedRange unit="page">40</citedRange>
+       <citedRange unit="item">10</citedRange>
+       </bibl>
+       <bibl>
+       <ptr target="bib:Parmentier1909_01"/>
+       <citedRange unit="page">94</citedRange>
+       </bibl>
+       <bibl>
+       <ptr target="bib:Coedes1923_01"/>
+       <citedRange unit="page">4-5</citedRange>
+       <citedRange unit="item">10</citedRange>
+       </bibl>
+       <bibl>
+       <ptr target="bib:Majumdar1927_01"/>
+       <citedRange unit="part">3</citedRange>
+       <citedRange unit="page">220-221</citedRange>
+       </bibl>
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>

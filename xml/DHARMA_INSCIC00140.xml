@@ -90,7 +90,7 @@
       <body>
          <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83213">
            <p><milestone type="pagelike" unit="face" n="A"/><!--sapi2argr Inversion des faces entre le rtf et les estampages n0262. -->
-           <lb n="A1"/><g type="ddandaPlain"/><g type="ddandaPlain"/> <num value="897">897</num> niy· snaḥ Urāṅ· ya grāc· humā di velā nan· pu lyaṅ· śrī jayasiṅhavar<choice><sic>ṇ</sic><corr>m</corr></choice>ma ṅan· pu lki kumāramātya kluñ·
+           <lb n="A1"/><g type="ddandaPlain"/><g type="ddandaPlain"/> <num value="897">897</num> niy· snaḥ Urāṅ· ya grāc· humā di velā nan· pu-lyaṅ· śrī jayasiṅhavar<choice><sic>ṇ</sic><corr>m</corr></choice>ma ṅan· pu-lki kumāramātya kluñ·
            <lb n="A2"/>nagar· ṅan· pom̃ ku kluñ· kunurun· ṅan· satyām̐ dhipatiḥ<!-- sapi2argr à la place de satyādhipatiḥ --> ṅan· pom̃ saṅgr<unclear>ā</unclear>macar· ṅan· sabhādharmmādhikār· ṅan· pom̃ jayavikraṁ ṅan· pom̃ yudhādhikā<lb
            n="A3" break="no"/>r· ṅan· pom̃ ku nyāyādhipatiḥ ṅan· raṁgyāv·<!--
            sapi2argr rtf : gyov·/ugyāv·/ragyāv·/raṁgyāv·
@@ -112,9 +112,9 @@
            <lb n="A11"/>po ku śrī hrinaṇḍaliṅgeśvara man· humā Anataṁm· <num value="69">69</num> galauk· kā pajāk· Asiy· ñū <num value="25">25</num> <abbr>k·</abbr> <num value="9">9</num> <abbr>v·</abbr> tandoṅ· daniḥ sauṅ· nan· <num value="18">1<lb
            n="A12" break="no"/>8</num> galauk·<!-- apperent anusvāra on ga is ignored as accidental scratch--> Asiy· ñū <num value="25">25</num> <abbr>k·</abbr> tandoṅ·<g type="dandaPlain"/><g type="circleTarget"/><g type="dandaPlain"/></p>
            <p>di śakarāja <num value="899">899</num> huriy· <num value="11">11</num> vaṅun· vulān· <num value="9">9</num> śukravār· nan· kāla po ku klu<lb
-           n="A13" break="no"/>ñ· paniliḥ yaṁṅ· vā surak· rūpa śrīpāda parameśvara pu pov· kuv· tam̃l· Ājñā lyam̃ po ku Ulīk· mahārāja pāndar· grāc· hu<lb
+           n="A13" break="no"/>ñ· paniliḥ yaṁṅ· vā surak· rūpa śrīpāda parameśvara pu-pov· kuv· tam̃l· Ājñā lyam̃ po ku Ulīk· mahārāja pāndar· grāc· hu<lb
            n="A14" break="no"/>mā di nagar· Ulīk· humā varāv· ṅan· humā paliy· Anaiḥ<!-- sapi2argr ou Araneḥ/Arenaḥ ? --> ṅan· humā vatek· ṅan· humā dauk· śirā ṅan· humā janam̃ḥ Avista hu<lb
-           n="A15" break="no"/>mā dinan· śrīpāda parameśvara pu pov· kuv· yaṁṅ· karunāprasāda vriy· kaṁn· Ājñā lyam̃ po ku śrīmahāsāmanta di Atāla vuḥ di yām̃
+           n="A15" break="no"/>mā dinan· śrīpāda parameśvara pu-pov· kuv· yaṁṅ· karunāprasāda vriy· kaṁn· Ājñā lyam̃ po ku śrīmahāsāmanta di Atāla vuḥ di yām̃
            <lb n="A16"/>Ājñā lyam̃ po ku Ulīk·<!-- sapi2argr ou balīk ? --> mahārāja kā grāc· humā dinan· kā jem̃ humā yām̃ po ku śrī hrinaṇḍaliṅgeśvara diga śri<!-- mri? --> yām̃ campa<g type="dandaPlain">.</g>
            <lb n="A17"/>niy· snaḥ Urāṅ· rayā ṅan· Urāṅ Anaiḥ yaṁṅ· nau di vela gandrāc· humā dinan· di vela nan· Ājñā lyam̃ po ku Ulīk· mahārāja
            <lb n="A18"/>Ajyam̃<!-- sapi2argr instead of A(g)yam̃ --> yaṁṅ· kluñ· nagar· di vela nan· po ku kluñ· paniliḥ di vūy· vvair· makrauy· di vela nan· pvaḥ canhi yām̃ yām̃ po ku śrī<lb
@@ -162,14 +162,14 @@
                </listApp>
          </div>
         <div type="translation" resp="part:argr part:sapi">
-          <p n="A1-A3"><supplied reason="subaudible">Śaka year</supplied> 897. This is the <foreign>snaḥ</foreign> of the men who offered fields at that time:
+          <p n="A1-A3"><supplied reason="subaudible">Śaka year</supplied> 897. This is the <foreign>snah</foreign> of the men who offered fields at that time:
           <list>
-            <item>the prince <supplied reason="explanation"><foreign>pu lyaṅ</foreign></supplied> Śrī Jayasiṅhavarman,</item>
-            <item>with prince <supplied reason="explanation"><foreign>pu lki</foreign></supplied> Kumāramātya, chief <supplied reason="explanation"><foreign>kluñ</foreign></supplied> of the city,</item>
+            <item>the prince <supplied reason="explanation"><foreign>pu-lyaṅ</foreign></supplied> Śrī Jayasiṅhavarman,</item>
+            <item>with prince <supplied reason="explanation"><foreign>pu-lki</foreign></supplied> Kumāramātya, chief <supplied reason="explanation"><foreign>kluñ</foreign></supplied> of the city,</item>
            <item>with my lord chief <supplied reason="explanation"><foreign>pov ku kluñ</foreign></supplied> Kunurun,</item>
            <item>with Satyādhipati,</item>
            <item>with lord <supplied reason="explanation"><foreign>pov</foreign></supplied> Saṅgrāmacara,</item>
-           <item>with Sabhādharmmādhikāra,</item>
+           <item>with Sabhādharmādhikāra,</item>
            <item>with lord <supplied reason="explanation"><foreign>pov</foreign></supplied> Jayavikrama,</item>
            <item>with lord <supplied reason="explanation"><foreign>pov</foreign></supplied> Yudhādhikāra,</item>
            <item>with my lord <supplied reason="explanation"><foreign>pov ku</foreign></supplied> Nyāyādhipati,</item>
@@ -206,11 +206,11 @@
         <p n="A12-A16">In <supplied reason="subaudible">the year of the</supplied> Śaka king 899, day 11 of the waxing <supplied reason="subaudible">fortnight</supplied> of month 9, Friday.
         That was the time when <foreign>po ku kluñ</foreign> Panilih<!-- can this be the same person as the one intended in C. 149?
         yaś śrī(10)jayasiṁhavarmmanr̥pater ativallabho nāyako yam abhimatasaṁpad asti • tadā yaḥ pov· kluñ· piliḥ rāja(11)dvāranāmābhūt·
-      --> carried away <supplied reason="explanation"><foreign>surak</foreign></supplied> the statue of Śrīpāda Parameśvara <foreign>pu pov kuv</foreign>
+      --> carried away <supplied reason="explanation"><foreign>surak</foreign></supplied> the statue of Śrīpāda Parameśvara <foreign>pu-pov kuv</foreign>
 <!-- sapi and argr have reached here on 2022-02-10 -->
       until/to it reaches/up to the <foreign>ājñā lyam̃ po ku</foreign> Ulīk, high king of Pāndar<!-- pāndar is more probably a verb form -->, to offer fields, in the country of Ulīk: the field Varāv<!-- sapi2argr ou bien lire carāv?-->, the field Paliy Anaiḥ <supplied reason="explanation">small village</supplied>, the field Vatek and the field Dauk Śirā <supplied reason="explanation">reside at the top?</supplied> and the field Janam̃ḥ.
 
-        All these fields of the Śrīpāda Parameśvara <foreign>pu pov kuv</foreign> which by royal favor <!-- K. 165 où karunāprasāda est traduit ainsi.--> were already given to the <foreign>ājñā lyam̃ po ku</foreign> Śrīmahāsāmanta.
+        All these fields of the Śrīpāda Parameśvara <foreign>pu-pov kuv</foreign> which by royal favor <!-- K. 165 où karunāprasāda est traduit ainsi.--> were already given to the <foreign>ājñā lyam̃ po ku</foreign> Śrīmahāsāmanta.
 
         In Atāla, he charged<!--sapi2argr litterally gave --> the <foreign>yām̃ Ājñā lyam̃ po ku</foreign> Ulik to offer these fields to become the fields of the <foreign>yām̃ po ku</foreign> Śrī Hrinaṇḍaliṅgeśvara <foreign>diga</foreign> Śri God of Campa.</p>
 

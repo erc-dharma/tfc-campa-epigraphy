@@ -152,7 +152,7 @@
                <head xml:lang="eng">C. 3.1 A</head>
                <ab>
 <lb n="1"/> <gap reason="lost" extent="unknown" unit="character"/> tā niy· tuy·
-<lb n="2"/> <gap reason="lost" extent="unknown" unit="character"/> hajai 'yā ri cā
+<lb n="2"/> <gap reason="lost" extent="unknown" unit="character"/> hajai qyā ri cā
 <lb n="3"/> <gap reason="lost" extent="unknown" unit="character"/> manrauṅ· sā ha
 <lb n="4"/> <gap reason="lost" extent="unknown" unit="character"/> <unclear>hu</unclear>luv· kraum̃
 <lb n="5"/> <gap reason="lost" extent="unknown" unit="character"/> naḥ luvaiḥ pau
@@ -190,7 +190,7 @@
 <lb break="no" n="3"/>n· lakiy· sā ṅan· kvir· icauv· sā bhaṇḍāra glai trya drim̃ ñaum̃ mahendrapura | yām̃ <unclear>n</unclear>ī nāma yām̃ pom̃ ku śrīpa<unclear>t</unclear>īśvara
              </ab>
              </div>
-            </div><div type="apparatus"><div type="textpart"><head xml:lang="eng">C. 3.1 A</head><listApp><app loc="2"><lem>'yā</lem><note>as far as we know, this is the only attestation in the epigraphical corpus of the word with the idiosyncratic spelling <foreign>'yā</foreign>, meaning 'water', that is preserved also in later Cam manuscripts (see <bibl><ptr target="bib:GroupeRecherchesCam1977_01"/><citedRange unit="page">250</citedRange></bibl>).
+            </div><div type="apparatus"><div type="textpart"><head xml:lang="eng">C. 3.1 A</head><listApp><app loc="2"><lem>qyā</lem><note>as far as we know, this is the only attestation in the epigraphical corpus of the word with the idiosyncratic spelling <foreign>qyā</foreign>, meaning 'water', that is preserved also in later Cam manuscripts (see <bibl><ptr target="bib:GroupeRecherchesCam1977_01"/><citedRange unit="page">250</citedRange></bibl>).
                      <!-- AG: why is an extra period inserted in transform here? --><!-- ADD IN A GENERAL INTRODUCTION : Here, without prejudice to the phonetic value of this ligature, we adopt the notation apostrophe + consonant used by the CIK program for the same ligature very common in the Khmer corpus (see: <bibl><ptr target="cic-bibl:Griffiths-2005"/>: <biblScope>15-16</biblScope></bibl>).--><!-- AG: I have removed this because it is the kind of observation that needs to be made in a general introduction, and anyhow the reader can look up our printed edition. --></note></app></listApp></div><!-- AL: It does not appear on the htmls version but if we manage to get the apparatus under each part of the text, no need.-->
 
                      <div type="textpart"><head xml:lang="eng">C. 3.2</head><listApp><app loc="2"><lem>kāla <unclear><g>|</g></unclear></lem><note>instead of a punctuation mark, one could read here the <foreign>visarga</foreign> sign. But the almost exact parallel in <ref target="DHARMA_INSCIC00092.xml">C. 92</ref>, face A, ll. 8–10 (<foreign>urām̃ ya bhakti sadākāla ... ni prayojana samr̥ddhi bhanakti dadam̃n· kāla</foreign>|, we have checked the text from the EFEO estampage n. 340) leads us to favor reading the <foreign>daṇḍa</foreign> sign. It also seems to offer, with <foreign>urām̃ ya bhakti sadākāla</foreign> 'man who is devoted at all times', a gloss of the expression <foreign>bhanakti dadam̃n· kāla</foreign>, found in those two inscriptions.</note></app>

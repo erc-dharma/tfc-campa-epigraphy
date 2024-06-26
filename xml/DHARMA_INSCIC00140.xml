@@ -119,8 +119,8 @@
            <lb n="A17"/>niy· snaḥ Urāṅ· rayā ṅan· Urāṅ Anaiḥ yaṁṅ· <supplied reason="omitted">madā</supplied> nau di vela gandrāc· humā dinan· <surplus>di vela nan·</surplus> Ājñā lyam̃ po ku Ulīk· mahārāja
            <lb n="A18"/>Ajyam̃ yaṁṅ· kluñ· nagar· di vela nan· po ku kluñ· paniliḥ di vūy· vvair· makrauy· di vela nan· pvaḥ can<unclear reason="eccentric_ductus">hi</unclear>yām̃ yām̃ po ku śrī<lb
            n="A19"/>hrinaṇḍaliṅgeśvara di dandrāḥ campa yaṁṅ· grāc· humā di vela nan· sabhā po ku dharmmā<choice><sic>d</sic><corr>dh</corr></choice>ikār· Avauv· po ku śoddh<choice><sic>ipa</sic><corr>a</corr></choice>vikra<!-- emended after B20 śoddhavikraṁ --><lb
-           n="A20" break="no"/>māddhipatiḥ paliy· Anaiḥ po ku nyāyyādhipati grā<choice><sic>rmm</sic><corr>m</corr></choice>ā campa drām̃ pov· mahāk· Ulīk· slāy· hi<unclear>ran</unclear>· di paliy· Anaiḥ drām̃
-           <lb n="A21"/>pov· kār· gaṁp· nan· manūhar· di saṅgapūra campa ya pam̃ṅ· śam̃ka nan· candrakumār· mandā manicīk· mahāk· jiṅyar· namvīya kā Avi<lb
+           n="A20" break="no"/>māddhipatiḥ paliy· Anaiḥ po ku nyāyyādhipati grā<choice><sic>rmm</sic><corr>m</corr></choice>ā campa drām̃ pov· mahāk· Ulīk· slāy· hiran· di paliy· Anaiḥ drām̃
+           <lb n="A21"/>pov· kār· gaṁp· nan· manūhar· di saṅgapūra campa ya pam̃ṅ· śam̃ka nan· candrakumār· mandā manicīk· mahāk· jiṅyar· namvīyakā Avi<lb
            n="A22" break="no"/>sta Urāṅ· nan· madā nau di vela gandrāc· humā nan· rīy·<g type="ddandaPlain">.</g> humā di palim̃ Anaiḥ gauy· humā nan· rumaṅ· tanaṅgoḥ tuṁ likūk·
            <lb n="A23"/>sāṅ· vinai kavveś· ṅan· dauk· lām̃ nan· nau sā Ār· ṅan· humā pu<choice><unclear>ṇa</unclear><unclear>I</unclear></choice>cov· pranauṅ·<!--sapi2argr instead of pr(ā)</unclear>dauṅ--> maAndāp·<!-- sapi2argr instead of (maran)dāp --> pūrvva nau tam̃l· humā<!-- sapi2argr instead of h(u)mmā --> pandā<lb
            n="A24" break="no"/>r· rumaṅ· nan·<!-- sapi2argr instead of pu --> nau<!-- sapi2argr instead of nauṁ --> tam̃l· klauv· Atac·<!-- sapi2argr instead of Am̃tac· --> dar· maAndap· daksiṇa<!--sapi2argr en A9, on lisait daksina. Corriger ?--> tam̃l· vavaḥ dvāṅ· rumaṅ· nan· nau tam̃l· sā Ār· ṅan· humā yām̃
@@ -237,15 +237,14 @@
             <item>Sabhā my lord <supplied reason="explanation"><foreign>po ku</foreign></supplied> Dharmādikāra,</item>
             <item><foreign>avauv</foreign> <supplied reason="explanation">?, ash</supplied> my lord <supplied reason="explanation"><foreign>po ku</foreign></supplied> Śoddhavikramādhipati of Paliy Anaih,</item>
             <item>my lord <supplied reason="explanation"><foreign>po ku</foreign></supplied> Nyāyādhipati of the Campa community <supplied reason="explanation"><foreign>grāmā</foreign></supplied></item>
-            <item><!--structure avec deux drām̃. Est-ce que drām̃ correspond au terme drəṅ = régner ? On le rencontre aussi dans C. 57. --> 
-              lord <supplied reason="explanation">pov</supplied> Mahāk Ulīk Slāy Hiran<!-- Ce nom à rallonge n'est pas sûr du tout... Dans le corpus, apparait comme anthroponyme : Ulīk (même inscription) et comme toponyme : Slāy (C. 101).  
-              Quand à hiran, c'est un hapax dans le corpus cam. Dans le corpus khmer, il apparaît comme anthroponyme à plusieurs reprises (K. 330, K. 331), et sous la forme hiraṇ, ou hiraṇya (K. 324, K 327). Ces quatre inscriptions khmères appartiennent au corpus de Lolei, daté de la fin du IXè siècle.--> at Paliy Anaih,</item> 
-              <item>lord <supplied reason="explanation">pov</supplied> Kār</item>
-            <item>the family of Manūhar at Sāṅgapūra Campa that erected <supplied reason="explanation"><foreign>pəṅ</foreign></supplied> this Śaṅka,</item>
-            <item>Candrakumāra [at] Mandā Manicīk<!-- sapi2argr: L'hypothèse du [at]. 1) Il y a plusieurs [at] sous-entendus dans cette liste ; 2) Mandā apparaît dans C. 118 comme une partie de toponyme (?) ; Manicīk apparaît comme toponyme dans C. 19. --></item>
-            <item>Mahāk<!-- ce nom apparaît comme anthroponyme dans l. A20--> Jiṅyar Namviyā.</item>
+            <item>the <foreign>drām̃ pov</foreign> Mahāk, Ulīk, Slāy, Hiran<!-- 
+              Dans le corpus, apparait comme anthroponyme : Ulīk (même inscription) et comme toponyme : Slāy (C. 101).  
+              Quant à hiran, c'est un hapax dans le corpus cam. Dans le corpus khmer, il apparaît comme anthroponyme à plusieurs reprises (K. 330, K. 331), et sous la forme hiraṇ, ou hiraṇya (K. 324, K 327). Ces quatre inscriptions khmères appartiennent au corpus de Lolei, daté de la fin du IXè siècle.--> at Paliy Anaih,</item> 
+              <item>the <foreign>drām̃ pov</foreign> Kār <supplied reason="subaudible">with</supplied> his family <foreign>manūhar</foreign> at Saṅgapūra Campa which erected <supplied reason="explanation"><foreign>pəṅ</foreign></supplied> that conch <supplied reason="explanation"><foreign>śaṅka</foreign></supplied>; Candrakumāra, Mandā, Manicīk,<!-- sapi2argr: L'hypothèse du [at]. 1) Il y a plusieurs [at] sous-entendus dans cette liste ; 2) Mandā apparaît dans C. 118 comme une partie de toponyme (?) ; Manicīk apparaît comme toponyme dans C. 19. 
+              so maybe: Candrakumāra of Mandā Manicīk?
+              -->Mahāk<!-- ce nom apparaît comme anthroponyme dans l. A20-->, Jiṅyar, Namvīyakā.</item>
             </list> 
-            All these men would also be present at that time [and] gave these fields. 
+            All these men would also be present at the time of the offering of these fields. 
         </p>
         <p n="A22-A25">
           The fields at Paliy Anaih. The limits of these fields: from the <foreign>tanaṅgoh</foreign> <supplied reason="subaudible">formed by</supplied> the stream Likūk, the house of the woman Kavveś and that Dauk Lāṅ, it goes sharing one dike with the field Pu Icov Pranauṅ. It heads to the East and goes until the field Pāndār. From that <supplied reason="subaudible">field</supplied> it goes until the forest Atac, it turns and heads to the South until the confluence <supplied reason="explanation"><foreign>vavah</foreign></supplied> Dvāṅ. From that <supplied reason="subaudible">confluence</supplied>, it goes until sharing one dike with the fields of Y.P.K. Mandarakānteśvara. It goes heading to the West until [it follows] closely the tank Tunuṅ, back until the stream Likūk <supplied reason="subaudible">and</supplied> the house.

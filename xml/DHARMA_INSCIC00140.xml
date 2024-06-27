@@ -139,12 +139,12 @@
            n="B10" break="no"/>mā yāṅ· bharuv· mulaṅ· di dalaṁ manāṅ· nan· Upak· humā vukaṁn· ka chutra trā humā nan· humā yāṅ· po ku hrinaṇḍaliṅgeśvara maṁṅ·
            <lb n="B11"/>humā ya kā jeṅ· Anataṁm· panadaṁn· nariy· trok· varok· jeṅ· <num value="2">2</num> galauk· kā pajāk· Asiy· ñū <num value="20">20</num> <abbr>k·</abbr> tandoṅ·<g type="ddandaPlain">.</g><g type="dotMid">.</g><g type="ddandaPlain">.</g></p>
            <p>
-           <lb n="B12"/><g type="ddandaPlain">.</g> niy· gvauy· humā varāv· rumaṅ· Ajvañ· varāv· nau tūy· tūṁ varāv· maAndap· Utara nau matdaḥ dvil·<!-- sapi2argr au lieu de mak dānvil· --> varāv· dar· nau pūrvva tam̃l· tuṁ tanupar·<!--au lieu de tanular·--> tamā
-           <lb n="B13"/>nau tūy· tūṁ nan· maAndap· nau daksaṇa<!-- sapi2argr Ici je n'ai pas corrigé car j'ignore s'il ne faudrait pas aussi corriger tous les autres. --> tam̃l· sā Ār· ṅan· humā sev·<!--au lieu de pov·--> Ulīk· rai sīr· tam̃l· Ajvañ· varāv· mulaṅ· dalaṁ manāṅ· nan· <unclear>U</unclear><lb
+           <lb n="B12"/><g type="ddandaPlain">.</g> niy· gvauy· humā varāv· rumaṅ· Ajvañ· varāv· nau tūy· tūṁ varāv· maAndap· Utara nau mat daḥ dvil·<!-- sapi2argr au lieu de mak dānvil· --> varāv· dar· nau pūrvva tam̃l· tuṁ tanupar·<!--au lieu de tanular·--> tamā
+           <lb n="B13"/>nau tūy· tūṁ nan· maAndap· nau daksaṇa<!-- sapi2argr Ici je n'ai pas corrigé car j'ignore s'il ne faudrait pas aussi corriger tous les autres. --> tam̃l· sā Ār· ṅan· humā sev·<!--au lieu de pov·--> Ulīk· rai sīr· tam̃l· Ajvañ· varāv· mulaṅ· dalaṁ manāṅ· nan· U<lb
            n="B14" break="no"/>pa<supplied reason="omitted">k·</supplied> humā vukaṁn· ka chutra ganan· trā ya nan· humā yām̃ po ku hrinaṇḍaliṅgeśva<supplied reason="omitted">ra</supplied> man·<!-- sapi2argr Ici je corrige le °liṅgeśvara dar· du rtf.  --> ya kā jem̃ humā Anatam̃m· panadaṁn· nariy· tro<lb
-           n="B15" break="no"/>k· varok· <num value="9">9</num> galauk· Asiy· ñū <num value="15">15</num> <abbr>k·</abbr> tandoṅ· humā nan· ra vriy· kam̃n· <unclear>nonā</unclear> pov· laman· dharī</p>
+           n="B15" break="no"/>k· varok· <num value="9">9</num> galauk· Asiy· ñū <num value="15">15</num> <abbr>k·</abbr> tandoṅ· humā nan· ra vriy· kam̃n· Inā<!--au lieu de nonā--> pov· laman· dharī</p>
            <p>
-           <lb n="B16"/>niy· humā di lavveṅ· pa<unclear>nath</unclear>un·<!-- pachun? --> grāc· virelāvradāy· vavaḥ tum· sā Ār· ṅan· humā yāṅ· bharuv· maAndap· nau Uttara tam̃l· Ār· hu<lb
+           <lb n="B16"/>niy· humā di <unclear>ra</unclear>vv<unclear>ai</unclear>ṅ·<!-- au lieu de lavveṅ--> pathun·<!--au lieu de panathun--> grāc· vi Alā vradāy·<!--au lieu de virelāvradāy· --> vavaḥ tum· sā Ār· ṅan· humā yāṅ· bharuv· maAndap· nau Uttara tam̃l· Ār· hu<lb
            n="B17" break="no"/>mā yām̃ pu Inā mandar· kānteśa pim· ga nan· maAndap· nau purvva lac· tam̃l· tum̃m· cakīr· sim· ga car· maAndap· nau daksiṇa lav· tam̃l· krauṅ·
            <lb n="B18"/>maAndap· nau paścima rai sīr· tam̃l· vradāy·<!-- sapi2argr instead of vraṅāy --> mulaṅ· U<choice><sic>tpa</sic><corr>pāk·</corr></choice> humā vukaṁn· di dalaṁ vvān· nan· trā humā nan· humā yāṅ· hri<lb
            n="B19" break="no"/>ṇandaliṅgeśvara mam̃n· nan· siy· snaḥ ya marai ni gandrāc· humā di vel· nan· Ājñā pov ku rājendramantri ṅan· śīliḥ<!-- sapi2argr instead of śīli --> Ulīk· tuluke
@@ -260,7 +260,10 @@
         </p>
          <p n="B8-B11">This is the field Janəh. Its limits: from a shared dike with the field Yān Bharuv <supplied reason="explanation"><q>new god</q></supplied>, it heads to the East. It goes back until sharing a dike with the field Yāṅ Bharuv. Inside that section, there are no other fields for <foreign>chutra</foreign>. Also this field is the field of the Y.P.K. Hrinaṇḍaliṅgeśvara. Then, the field has been made into transplantations, the <foreign>panadən</foreign> from the <foreign>trok</foreign>, <foreign>varok</foreign> became: 2 plots, measured in <foreign>jāk</foreign> its content 20 <foreign>jāk tandoṅ</foreign>.
          </p>
-         <p n="B12-B15">These are the limits of the field Varāv: from the <foreign>ajvañ</foreign> Varāv, it goes along the stream Varāv, heading to the North
+         <p n="B12-B15">These are the limits of the field Varāv: from the <foreign>ajvañ</foreign> Varāv, it goes along the stream Varāv. Heading to the North, it goes to the four <supplied reason="explanation"><foreign>mat</foreign></supplied> <foreign>daḥ dvil</foreign> Varār. It turns ans goes to the East until the stream Tanupar Tamā<!-- Tanupar peut être associé au tanīpar de C. 149 ? Sachant que tamā se trouve également dans cette inscription. --> <supplied reason="explanation"><q>descending bridge</q></supplied>. It goes along that stream and heads to the South until sharing one dike with the field Sev<!-- corriger en pov?--> Ulīk, closely [following] back to the <foreign>ajvañ</foreign> Varāv. Inside that section, there are no other fields for <foreign>chutra</foreign> and <foreign>ganan</foreign>. Also this field is the field of the Y.P.K. Hrinaṇḍaliṅgeśvara. Then, the field has been made into transplantations, the <foreign>panadən</foreign> from the <foreign>trok</foreign>, <foreign>varok</foreign> became: 9 plots, its content 15 <foreign>jāk tandoṅ</foreign>.
+          These fields, they offered to the mom of lord <supplied reason="explanation"><foreign>pov</foreign></supplied> Laman Dharī.
+        </p>
+         <p n="B16-B22">These are the fields at Ravvaiṅ Pathun.
 
         </p>
        </div>

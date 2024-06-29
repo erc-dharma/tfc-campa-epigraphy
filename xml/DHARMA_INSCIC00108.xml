@@ -157,9 +157,9 @@
              <milestone type="pagelike" unit="face" n="D"/>
              <lb n="D1"/><unclear>ṅa</unclear>n· Avista jeṅ· sār<supplied reason="lost">tuḥ</supplied><!--note du rtf : sār[tuḥ]: reconstitution fondée sur la lecture de Huber. -->
              <lb n="D2"/>dvā pluḥ sā jāk<supplied reason="lost">·</supplied> <unclear>n</unclear><supplied reason="lost">i</supplied>
-             <lb n="D3"/>y· devadvāra tal· va<gap reason="illegible" quantity="1" unit="character"/>
+             <lb n="D3" break="no"/>y· devadvāra ta<unclear>ṁ</unclear>l· va<gap reason="illegible" quantity="1" unit="character"/>
              <lb n="D4"/><supplied reason="lost">po</supplied>v· vruv· humā ṅan·
-             <lb n="D5"/>nan·<!-- note du rtf : nan: omis par Huber. Noter le trait au dessus et avant le 1er n. Le lire ?--> Āvista <!--sapi2argr Forme inhabituelle du A/Ā note du rtf : āvista: avista Huber.--> kā yā<supplied reason="lost">ṅ·</supplied>
+             <lb n="D5"/><supplied reason="lost">d</supplied><unclear>i</unclear>nan·<!-- note du rtf : nan: omis par Huber. Noter le trait au dessus et avant le 1er n. Le lire ?--> Avista kā yā<supplied reason="lost">ṅ·</supplied>
              <lb n="D6"/><supplied reason="lost">po</supplied>v· ku śrī jaya Indra<lb
              n="D7" break="no"/><supplied reason="lost">va</supplied>rmma vuḥ di yāṁ pu po<supplied reason="lost">v·</supplied>
                   </p>
@@ -294,7 +294,7 @@
            <item>la rizière Kayauv : six <foreign>jāk</foreign> <gap reason="illegible" quantity="6" unit="character"/></item>
         </list>
            </p>
-           <p n="D1-D7"><!-- LA FACE D EST A REVOIR -->Et toutes font cent-vingt-et-un <foreign>jāk</foreign>. Ici le <foreign>devadvāra</foreign> atteint Va<gap reason="illegible" quantity="1" unit="character"/> du <foreign>pov</foreign> nouveau<!-- sapi2argr ? vruv pourrait avoir un lien avec baruv: neuf, nouveau, récent ; non, non pas ; alors (au début des phrases); gaḥ barūv : au delà (A&C, p. 328). -->, la rizière et tout ce que le roi <supplied reason="explanation"><foreign>yāṅ pov ku</foreign></supplied> Śrī Jaya Indravarman offre au dieu <supplied reason="explanation"><foreign>yāṁ pu pov</foreign></supplied>.
+           <p n="D1-D7"><!-- LA FACE D EST A REVOIR -->Et toutes font cent-vingt-et-un <foreign>jāk</foreign>. Ici le <foreign>devadvāra</foreign> atteint Va<gap reason="illegible" quantity="1" unit="character"/> du <foreign>pov</foreign> nouveau<!-- sapi2argr ? vruv pourrait avoir un lien avec baruv: neuf, nouveau, récent ; non, non pas ; alors (au début des phrases); gaḥ barūv : au delà (A&C, p. 328). -->, la rizière avec ceci <supplied reason="explanation">naṅ dinan</supplied>. Tout cela le roi <supplied reason="explanation"><foreign>yāṅ pov ku</foreign></supplied> Śrī Jaya Indravarman l'a déjà offert au dieu <supplied reason="explanation"><foreign>yāṁ pu pov</foreign></supplied>.
            </p>
          </div>
          <div type="commentary">

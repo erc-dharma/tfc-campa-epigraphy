@@ -89,6 +89,7 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83213">
+          <div type="textpart" subtype="zone" n="1"><head xml:lang="eng">Main text</head>
            <p><milestone type="pagelike" unit="face" n="A"/><!--sapi2argr Inversion des faces entre le rtf et les estampages n0262. -->
            <lb n="A1"/><g type="ddandaPlain"/><g type="ddandaPlain"/> <num value="897">897</num> niy· snaḥ Urāṅ· ya grāc· humā di velā nan· pu-lyaṅ· śrī jayasiṅhavar<choice><sic>ṇ</sic><corr>m</corr></choice>ma ṅan· pu-lki kumāramātya kluñ·
            <lb n="A2"/>nagar· ṅan· pom̃ ku kluñ· kunurun· ṅan· satyām̐ dhipatiḥ<!-- sapi2argr à la place de satyādhipatiḥ --> ṅan· pom̃ saṅgr<unclear>ā</unclear>macar· ṅan· sabhādharmmādhikār· ṅan· pom̃ jayavikraṁ ṅan· pom̃ yudhādhikā<lb
@@ -125,8 +126,7 @@
            <lb n="A23"/>sāṅ· vinai kavveś· ṅan· dauk· lām̃ nan· nau sā Ār· ṅan· humā pu Icov· pranauṅ·<!--sapi2argr instead of pr(ā)</unclear>dauṅ--> maAndāp·<!-- sapi2argr instead of (maran)dāp --> pūrvva nau tam̃l· humā<!-- sapi2argr instead of h(u)mmā --> pandā<lb
            n="A24" break="no"/>r· rumaṅ· nan·<!-- sapi2argr instead of pu --> nau<!-- sapi2argr instead of nauṁ --> tam̃l· klauv· Atac·<!-- sapi2argr instead of Am̃tac· --> dar· maAndap· daksiṇa<!--sapi2argr en A9, on lisait daksina. Corriger ?--> tam̃l· vavaḥ dvāṅ· rumaṅ· nan· nau tam̃l· sā Ār· ṅan· humā yām̃
            <lb n="A25"/>po ku mandarakānteśvara nau maAndap· paścima tam̃l· dandauv· tunuṅ· rai sīr· tam̃l· tuṁ likūk· sāṅ· mulaṅ· di dalaṁ manāṅ·
-           <milestone type="pagelike" unit="face" n="B"/><lb n="B1"/>yāṅ· hrinaṇḍaliṅg<choice><sic>a</sic><corr>e</corr></choice>śvara vriy· kam̃n· māy· vruv· yajamāna 
-           <lb n="B2"/>Upak· humā vukam̃n· ka chutra<!--face A c'est kachuta--> ganan· trā humā nan· humā yām̃ po ku hrinaṇḍaliṅgeśvara man· ya kā jem̃ humā
+           <milestone type="pagelike" unit="face" n="B"/><lb n="B2"/>Upak· humā vukam̃n· ka chutra<!--face A c'est kachuta--> ganan· trā humā nan· humā yām̃ po ku hrinaṇḍaliṅgeśvara man· ya kā jem̃ humā
            <lb n="B3"/>Anataṁm· panadam̃n·<!-- sapi2argr ici il y avait inscrit padadaṁn· dans le rtf. --> nariy· glai klauv· trok·<!-- sapi2argr instead of (k)rok· --> varo<supplied reason="omitted">k</supplied> nau jem̃<!-- sapi2argr instead of gem̃ --> <num value="90">90</num> galauk· kā pajāk· Asiy· ñū <num value="92">92</num> <abbr>k</abbr> tandoṅ· daniḥ soṅ· nan· di varatak·
            <lb n="B4"/><num value="3">3</num> galauk· Asiy· ñū <num value="5">5</num> <abbr>k</abbr> tandoṅ·<g type="ddandaPlain">.</g><g type="dotMid">.</g><g type="ddandaPlain">.</g></p>
            <p>niy· humā di bhauk· śi<unclear>rā</unclear> gauy· ñū rumaṅ· Andap· sām̃ kula pu nau sā Ār· ṅan· humā kula
@@ -150,17 +150,21 @@
            <lb n="B20"/>ṅan· sabhādharmm<choice><sic>ad</sic><corr>ādh</corr></choice>ikāra tu<unclear>h</unclear>ā<!-- sapi2argr instead of tulā --> ṅan· sabhā paliy· Anaiḥ ṅan· nyāyāddhipatiḥ grāmā caṁ<supplied reason="omitted">pa</supplied> ṅan· śoddhavikraṁ jiṅyar· ṅan· sabhārāja nagar·
            <lb n="B21"/>cvaḥ ṅan· sabhā cvaḥ bharuv· caṁ ṅan· kurun· yām̃ po pu Inā mandar· kānteśvar· slāy·<!-- sapi2argr rtf : (plā/slā/hla) --> caṁ ṅan· gam̃p· puṁ Iśśa<unclear>ra ka</unclear>l·<!-- sapi2argr instead of I(gg)a(bhara)l· --> vijai<!-- au lieu de vireja--> ṅan· likhita Ulīk·
            <lb n="B22"/>ṅan· pvaḥ jvot· nī saravvaṅ· hiran·<!-- sapi correction de saravvaṅy·inan--> di paliy· Anaiḥ humā ya kā jeṅ· Anatam̃m· <num value="25">25</num> <abbr>k·</abbr> tandoṅ· yatok· varok· <num value="5">5</num> <abbr>k·</abbr> tandoṅ· trā<g type="ddandaPlain">.</g><g type="dotMid">.</g><g type="ddandaPlain">.</g>
-           </p>
+           </p></div>
+           <div type="textpart" subtype="zone" n="2"><head xml:lang="eng">Extra line at top of B</head>
+            <p><lb n="B1"/>yāṅ· hrinaṇḍaliṅg<choice><sic>a</sic><corr>e</corr></choice>śvara vriy· kam̃n· māy· vruv· yajamāna</p>
+         </div>
          </div>
          <div type="apparatus">
                <listApp>
                  <app loc="A12">
                     <lem><num value="899">899</num></lem>
-                    <note>The date was misinterpreted as <foreign>1033</foreign> by Huber. See discussion in <bibl><ptr target="bib:Griffiths+Lepoutre2016_01"/></bibl>.</note>
+                    <note>The date was misinterpreted as <foreign>1033</foreign> by <bibl><ptr target="bib:Huber1911_02"/></bibl>. See discussion in <bibl><ptr target="bib:Griffiths+Lepoutre2016_01"/></bibl>.</note>
                  </app>
                </listApp>
          </div>
         <div type="translation" resp="part:argr part:sapi">
+          <div type="textpart" subtype="zone" n="1"><head xml:lang="eng">Main text</head>
           <p n="A1-A3"><supplied reason="subaudible">Śaka year</supplied> 897. This is the list <supplied reason="explanation">?, <foreign>snah</foreign></supplied> of the men who offered fields at that time:
           <list>
             <item>the prince <supplied reason="explanation"><foreign>pu-lyaṅ</foreign></supplied> Śrī Jayasiṅhavarman,</item>
@@ -245,12 +249,9 @@
             </list> 
             All these men would also be present at the time of the offering of these fields. 
         </p>
-        <p n="A22-A25">The fields at Paliy Anaih. The boundary of those fields: <supplied reason="explanation">it goes</supplied> from the <foreign>tanaṅgoh</foreign> <supplied reason="subaudible">formed by</supplied> the stream behind the house of the woman Kavveś and continues to <foreign>lām̃</foreign> it. It goes sharing one dike with the field of <foreign>pu</foreign> Icov Pranauṅ. It heads to the East and goes until the field Pandār. From there it goes until the forest Atac, turns heading to the South until the confluence <supplied reason="explanation"><foreign>vavah</foreign></supplied> Dvāṅ. From that <supplied reason="subaudible">confluence</supplied>, it goes until sharing one dike with the fields of Y.P.K. Mandarakānteśvara. It goes heading to the West until [it follows] closely the tank Tunuṅ, back to the stream behind the house.
+        <p n="A22-A25">The fields at Paliy Anaih. The boundary of those fields: <supplied reason="explanation">it goes</supplied> from the <foreign>tanaṅgoh</foreign> <supplied reason="subaudible">formed by</supplied> the stream behind the house of the woman Kavveś and continues to <foreign>lām̃</foreign> it. It goes sharing one dike with the field of <foreign>pu</foreign> Icov Pranauṅ. It heads to the East and goes until the field Pandār. From there it goes until the forest Atac, turns heading to the South until the confluence <supplied reason="explanation"><foreign>vavah</foreign></supplied> Dvāṅ. From there, it goes until sharing one dike with the fields of Y.P.K. Mandarakānteśvara. It goes heading to the West until close to the tank Tunuṅ, back to the stream behind the house.
         </p>
-        <p n="B1">The god Hrinaṇḍalingeśvara has offered to Māy Vruv<!-- hypothèse du nom: dans C. 211, st. XI: māy· sam̐ jña-kāsyānujā = his younger sister was called Māy.-->, priest<!-- cf. C.149 et C. 211 pour yajamāna.
-        Cf. C. 211, D4: un autre cas de kaṁn ? vela k(aṁm)it· yajamāna -->.</p>
-        <p n="A25-B4">
-          Inside that section, there are no other fields for <foreign>chutra</foreign> and <foreign>ganan</foreign>. Also those fields are the fields of the Y.P.K. Hrinaṇḍaliṅgeśvara. Then <supplied reason="subaudible">the fields</supplied> that have been made into transplanted fields:<!-- L'expression Anataṁm· panadam̃n· nariy· apparaît quatre fois dans le texte comme telle, dont trois ainsi : Anataṁm· panadaṁn· nariy· trok· varok·
+        <p n="A25-B4">Inside <supplied reason="subaudible">that</supplied> section, there are no other fields for <foreign>chutra</foreign> and <foreign>ganan</foreign>. Also those fields are the fields of the Y.P.K. Hrinaṇḍaliṅgeśvara. Then <supplied reason="subaudible">the fields</supplied> that have been made into transplanted fields:<!-- L'expression Anataṁm· panadam̃n· nariy· apparaît quatre fois dans le texte comme telle, dont trois ainsi : Anataṁm· panadaṁn· nariy· trok· varok·
           panadam̃n·: affixe -an- ? Lien avec le "pandān" des l. A4, A5 et B5, et de C. 149 = pandanus tree ?  --> the <foreign>panadən</foreign> from the forest, brush, <foreign>trok</foreign><!-- seule ref trouvée est en vieux khmer. Trok = small hill or mound as turned up by ants, worms, moles.-->, <foreign>vrok</foreign><!-- concernant trok et varok/vrok, 
             Cf. Parok – rok = to clear land: mention d'une pratique de défrichage ?
             Cf. C. 42 l. 5-6 : ṅauk· glaum̃ vijaya pajaḥ parok· glai hayāv· pavam̃k· kraum̃ hayāv· parok· glai ṅap· jem̃ humā bhām̃ ya doṁ yvan--> became: 90 plots, measured in <foreign>jāk</foreign> their contents is 92 <foreign>jāk tandoṅ</foreign>. The sowing <supplied reason="subaudible">fields</supplied> with them at Varatak: 3 plots, their contents 5 <foreign>jāk tandoṅ</foreign>.
@@ -280,8 +281,12 @@
             <item>with Pvah Jvot here in Saravvaṅ Hiram at Paliy Anaih.</item>
           </list>
           The fields have been made into transplantations: 25 <foreign>jāk tandoṅ</foreign>, <foreign>yatok varok</foreign>: 5 <foreign>jāk tandoṅ</foreign> also. 
-        </p>
+        </p> 
        </div>
+       <div type="textpart" subtype="zone" n="2"><head xml:lang="eng">Extra line at top of B</head>
+        <p n="B1">The god Hrinaṇḍalingeśvara has offered to Māy Vruv<!-- hypothèse du nom: dans C. 211, st. XI: māy· sam̐ jña-kāsyānujā = his younger sister was called Māy.-->, priest<!-- cf. C.149 et C. 211 pour yajamāna. -->.</p>
+      </div>
+  </div>
          <div type="commentary">
             <p>The spelling of the text is quite inconsistent. In our translation, we normalise words and titles of Sanskrit origin according to Sanskrit spelling. Many cases involve spelling without final <foreign>a</foreign> of Sanskrit words that end with this letter. In some instances, one notes that the engraver himself was inconsistent, notably in the toponym Atāl, also spelled <foreign>atāla</foreign> and in the string <foreign>kachuta</foreign> (perhaps to be analyzed <foreign>ka chuta</foreign>), also spelled <foreign>kachutra</foreign>.
              </p>
@@ -311,9 +316,6 @@
              <bibl>
              <ptr target="bib:Griffiths+Lepoutre2016_01"/>
              <citedRange unit="page">258, 277-278</citedRange>
-             <!--sapi2argr Comment inscrire plusieurs pages qui ne sont pas en continu ?
-                argr2sapi: je pense que c'est corrected comme ça
-            -->
            </bibl>
              </listBibl>
         </div>

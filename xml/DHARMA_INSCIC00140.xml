@@ -157,7 +157,7 @@
                <listApp>
                  <app loc="A12">
                     <lem><num value="899">899</num></lem>
-                    <rdg source="bib:Huber1911_02"><num value="1033">1033</num></rdg>
+                    <note>The date was misinterpreted as <foreign>1033</foreign> by Huber. See discussion in <bibl rend="omitname"><ptr target="bib:Griffiths+Lepoutre2016_01"/></bibl>.</note>
                  </app>
                </listApp>
          </div>
@@ -285,15 +285,13 @@
         </p>
        </div>
          <div type="commentary">
-            <p n="A1-A3">In my translation, I normalise words and titles of Sanskrit's origin according to Sanskrit spelling. Many cases involved spelling without final -a of Sanskrit words that end with this letter. In some instances, one notes that the engraver himself was inconsistent, notably in the toponyms
-               - Atāl, also spelled Atāla
-               - kachuta, also spelled kachutra
+            <p>The spelling of the text is quite inconsistent. In our translation, we normalise words and titles of Sanskrit origin according to Sanskrit spelling. Many cases involve spelling without final <foreign>a</foreign> of Sanskrit words that end with this letter. In some instances, one notes that the engraver himself was inconsistent, notably in the toponym Atāl, also spelled <foreign>atāla</foreign> and in the string <foreign>kachuta</foreign> (perhaps to be analyzed <foreign>ka chuta</foreign>), also spelled <foreign>kachutra</foreign>.
              </p>
-             <p n="A8">L. A11, ce qui semble être une abbréviation suivant le nombre se rencontre à nouveau. Corriger ou laisser le "k" comme tel?</p>
+             <p n="A8, B7">A unique phenomenon occurs twice in A11 and B7, namely the abbreviation of units of measurement non by their initial syllable (as is common in Indian and Javanese inscriptions) but by their final letter.</p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>The face A was first read by Arlo Griffiths and Amandine Lepoutre in 2009. The remainder of the text was then read by Arlo Griffiths in 2011. Final reading and first edition of the inscription by Arlo Griffiths and Salomé Pichon based on the EFEO estampages n. 262</p>
+           <p><!-- The face A was first read by Arlo Griffiths and Amandine Lepoutre in 2009. The remainder of the text was then read by Arlo Griffiths in 2011. -->Previously unpublished. Edited by Arlo Griffiths and Salomé Pichon from the EFEO estampages n. 262 and from photogrammetric documentation in 2024.</p>
         	<listBibl type="primary">
 				<bibl n="siglum"/>
 			</listBibl>
@@ -314,7 +312,10 @@
              </bibl>
              <bibl>
              <ptr target="bib:Griffiths+Lepoutre2016_01"/>
-             <citedRange unit="page">258, 277-278</citedRange> <!--sapi2argr Comment inscrire plusieurs pages qui ne sont pas en continu ?-->
+             <citedRange unit="page">258, 277-278</citedRange>
+             <!--sapi2argr Comment inscrire plusieurs pages qui ne sont pas en continu ?
+                argr2sapi: je pense que c'est corrected comme ça
+            -->
            </bibl>
              </listBibl>
         </div>

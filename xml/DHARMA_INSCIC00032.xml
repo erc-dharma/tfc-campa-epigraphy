@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Split stele at Po Nagar of Nha Trang (C. 32), 1190 Śaka</title>
+            	<respStmt>
+            		<resp>EpiDoc Encoding</resp>
+            		<persName ref="part:argr">
+            			<forename>Arlo</forename><surname>Griffiths</surname>
+            		</persName>
+            	</respStmt>
+            	<respStmt>
+            		<resp>intellectual authorship of edition</resp>
+            		<persName ref="part:argr">
+            			<forename>Arlo</forename>
+            			<surname>Griffiths</surname>
+            		</persName>
+            	</respStmt>
+            </titleStmt>
+        	<publicationStmt>
+        		<authority>DHARMA</authority>
+        		<pubPlace>Jakarta</pubPlace>
+        		<idno type="filename">DHARMA_INSCIC00032</idno>
+        		<availability>
+        			<licence target="https://creativecommons.org/licenses/by/4.0/">
+        				<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+        					Licence. To view a copy of the licence, visit
+        					https://creativecommons.org/licenses/by/4.0/ or send a letter to
+        					Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+        					California, 94041, USA.</p>
+        				<p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
+        			</licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:argr" when="2024-07-08">started encoding the inscription</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83213">
+            <div type="textpart" subtype="zone" n="1"><head xml:lang="eng">Main face</head>
+                <p><milestone type="pagelike" unit="face" n="A"/>
+<lb n="A1"/><g type="floretQuatrefoil"/> <g type="squiggleVertical"/> <g type="danda"/> nī mūla humā makapun· glai cam̃k· <unclear>sam̃</unclear><supplied reason="lost">k·</supplied> <gap reason="lost" extent="unknown"/>
+<lb n="A2"/><gap reason="illegible" unit="character" quantity="1"/>liṅga bhagavatī kauṭhāreśvarī ṅan· humā devatā nī paka<gap reason="lost" extent="unknown"/>
+<lb n="A3"/><gap reason="lost" unit="character" quantity="1"/>· jem̃ paradravya si pu pom̃ tana rayā Indravarmma pu pom̃ ku s<unclear>ā sthā</unclear><supplied reason="lost">na</supplied> <gap reason="lost" extent="unknown"/>
+<lb n="A4"/><unclear>ṅa</unclear>n· sthāna prathama di Īśāna <unclear>v</unclear>ik· ca<unclear>m̃</unclear>k· luvuk· <unclear>b</unclear>utiy· nau dakṣi<unclear>ṇa</unclear> <gap reason="lost" extent="unknown"/>
+<lb n="A5"/>tam̃l· cam̃k· sam̃k· nau paścima raḥ cam̃k· tipā cam̃k· raḥ tanr̥n· vīre<unclear>śa</unclear> <gap reason="lost" extent="unknown"/>
+	<!-- C. 17, l. 8 and C. 101, A l. 13: tanr̥ñ· vīrapura; C. 101, A. 17: tanr̥ñ· mahīśa. -->
+<lb n="A6"/>n<unclear>au</unclear> Uttara s<unclear>ā</unclear> <unclear>Ā</unclear>ra saum̃ hum<unclear>ā</unclear> nagara tipā kraum̃ vvam̃ tam̃l cam̃k· ka<unclear>vai</unclear>ṅ· <gap reason="lost" extent="unknown"/>
+<lb n="A7"/>katruv· tam̃l· jalān· rayā nau tupak· jalān· rayā tam̃l· pa<supplied reason="lost">ścima</supplied> <gap reason="lost" extent="unknown"/>
+	<!-- % or ka truv·? -->
+<lb break="no" n="A8"/>vyottara raḥ cam̃k· tam̃l· kraum̃ curaṁ nau pūrvva dalvan· kraum̃ dalvan· tuṁ tam̃<unclear>l</unclear><supplied reason="lost">·</supplied> <gap reason="lost" extent="unknown"/>
+<lb n="A8"/>humā di vumvauṅ· sā sthāna Anan· humā vauk· pūrvva Anr̥m̃ dakṣiṇa pa<unclear>śc</unclear><supplied reason="lost">ima</supplied> <gap reason="lost" extent="unknown"/>
+	<!-- % at the end, perhaps sā sthāna? -->
+<lb n="A10"/>ṇa humā kluṅ· kanvā danrāk· Atam̃ṁ yauṁ <num value="125">125</num> jāk· ṅan· tauk· <unclear>nau</unclear> <gap reason="lost" extent="unknown"/>
+<lb n="A11"/>yām̃ vr̥ddheśvara pūrvva dakṣiṇa humā nagara paścima humā yām̃ vr̥ddhe<gap reason="lost" extent="unknown"/>
+<lb n="A12"/>ṅ· kanvā danrāk· Atam̃ṁ yauṁ <num value="88">88</num> jāk· sā sthāna trā Anan· humā ṅver· <gap reason="lost" extent="unknown"/>
+<lb n="A13"/>mā nagara Uttara dandau tryam̃ <unclear cert="low">baṇa</unclear> humā kluṅ· kanvā danrāk· Atam̃ṁ y<unclear>au</unclear><supplied reason="lost">ṁ</supplied> <gap reason="lost" extent="unknown"/>
+	<!-- <unclear cert="low">baṇa</unclear>: the same word also occurs in A16 and its final syllable in A10 and A15. Both here and in A16, the first syllable cannot be read with certainty. -->
+<lb n="A14"/> sthāna Anan· sumalirām̃ pūrvva kraum̃ dakṣiṇa humā nagara paścima ti<supplied reason="lost">pā</supplied><gap reason="lost" extent="unknown"/>
+<lb n="A15"/>ṇa humā kluṅ· kanvā danrāk· Atam̃ṁ yau<unclear>ṁ</unclear> <num value="555">555</num> jāk· sā sthāna trā <gap reason="lost" extent="unknown"/>
+<lb n="A16"/>nagara paścima tipā ravaum̃ Uttara <unclear>humā</unclear> naga<unclear>ra</unclear> <unclear>ba?</unclear>ṇa humā kluṅ· ka<unclear>n</unclear>v<supplied reason="lost">ā</supplied> <gap reason="lost" extent="unknown"/>
+<lb n="A17"/> Anan· <unclear>mula Āra</unclear> pūrvva dakṣi<unclear>ṇa</unclear> <unclear>humā</unclear> nagara paścima Uttara humā <gap reason="lost" extent="unknown"/>
+<lb n="A18"/> <num value="112">112</num> jāk· <unclear>sā sthā</unclear>na trā Anan· humā <unclear>mam̃</unclear> pūrvva dakṣiṇa humā nagara <gap reason="lost" extent="unknown"/>
+<lb break="no" n="A19"/>mā kluṅ· kanvā danrāk· Atam̃ṁ yauṁ 6 <unclear>ma</unclear>k· sā sthāna trā Anan· humā <gap reason="lost" extent="unknown"/>
+<lb n="A20"/>nan· humā cam̃ḥ klum̃ talim̃ 37 jāk· <g type="danda">.</g> humā cam̃ḥ savik· trā <num value="17">17</num> jāk·
+<lb n="A21"/><supplied reason="lost">quatrefoil</supplied> <g type="danda"/> <g type="squiggleVertical"/> <g type="squiggleVertical"/> <g type="danda"/> śamāv· maAkyam̃ pandau<unclear>v</unclear>· Air· māḥ sā <num value="35">35</num> thil· <unclear>p</unclear>i<supplied reason="lost">rak·</supplied> <gap reason="lost" extent="unknown"/>
+<lb n="A22"/><num value="19">19</num> thil· pirak· pralaum̃ pandauv· Air· māḥ sā <num value="10">10</num> thi<supplied reason="lost">l·</supplied> <gap reason="lost" extent="unknown"/>
+<lb n="A23"/>thil· limān· lakim̃ sā Anan· <unclear>dhunum̃</unclear> ratā yām̃ pom̃ <gap reason="lost" extent="unknown"/>
+<lb n="A24"/>svāpadevaparamātmaja yām̃ pom̃ ku Indravarmma pu <gap reason="lost" extent="unknown"/>
+<lb n="A25"/>nerohiṇi Ur<unclear>ām̃</unclear> paramapura humā virān· manraum̃ va <gap reason="lost" extent="unknown"/>
+</p>
+</div>
+    <div type="textpart" subtype="zone" n="2"><head xml:lang="eng">Lateral face</head>
+        <p><milestone type="pagelike" unit="face" n="B"/>
+<lb n="B1"/> ... yapasakraśamaddahaka to
+<lb n="B2"/> X likuk· rai raśūmya X haramaku sevyak· ravebhak· gasav· prauṅ· deva
+<lb n="B3"/> X thām̃ p<unclear>ū</unclear>rvvakāla mula<unclear>m̃</unclear> <gap reason="illegible" unit="character" quantity="7"/> prakr̥ta d<unclear>v</unclear>ārarājasu pratiṣṭa yām̃ <unclear>Ī</unclear><lb break="no" 
+n="B4"/><unclear>ś</unclear>ānaliṅgeśvara prakr̥ta <unclear>drāhaṣunana</unclear> sthāpanā yām̃ śivaliṅga di sthāna bhagava<lb break="no" 
+n="B5"/><supplied reason="lost">tī kauṭh</supplied><unclear>ā</unclear>reśvarī vuḥ sarvvadravya bhogopabhoga kṣetrā<unclear>dama</unclear> prakr̥ta hema<unclear>bh</unclear>ra
+<lb n="B6"/> ... n· ... punanapu pratiṣṭa yām̃ pom̃ ku śriśānabhadreśvara pu <supplied reason="lost">pom̃</supplied>
+<lb n="B7"/> <supplied reason="lost">ku</supplied> di śaka sidaḥ Amvara-vivara-sarorūhāri-sarorūhāntaka kvak· ṅan· purāṇāna
+<lb n="B8"/> ? ? pur· <unclear>sira</unclear> pam̃r· myauḥ di śilādvāra yām̃ śivaliṅga di śilādvāra yām̃ pom̃ ku śriśā-
+<lb n="B9"/><supplied reason="lost">na</supplied>bhadreśvara pu pom̃ ku cirakāla rai sidaḥ yām̃ pom̃ <unclear>nāja</unclear>ya<unclear>ha</unclear>rai Utpatti pu ⌈<lb break="no" 
+n="B10"/><supplied reason="lost">pom̃ ta</supplied>na rayā U<unclear>ro</unclear>ja pu pom̃ tana rayā bhadravarmma pu pom̃ tana rayā śrī jaya sim̃havarmma
+<lb n="B11"/> <supplied reason="lost">parame</supplied><unclear>śvara</unclear> nan· pu pom̃ tana rayā Indravarmma pu pom̃ ku nan· pak· punarjjanma trā <unclear>thām̃</unclear> bhr̥guśā
+<lb n="B12"/><supplied reason="lost">sana</supplied> ? ya
+            </p>
+         </div>
+         </div>
+         <div type="apparatus">
+           <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
+               <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="line"><!-- update the value of @loc.-->
+                     <lem><!-- fill in a lemma here --></lem>
+                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                  </app>
+               </listApp>
+         </div>
+         <div type="translation">
+ 	<!--translation encoded as per EGD §9.2 -->
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+        <div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+<!-- 
+Estampages EFEO: 22, n. 234 et 235, les deux derniers reproduits sur CD.
+La stèle ayant été rognée, son texte n'a pas pu être publié. Mots cités par Aymonier et Schweyer:
+A. liṅga bhagavatī kauṭhāreśvarī / śrī indravarmma / com̃k som̃k / tanr̥n / humā nagara / tipa kroṅ kaveṅ tatrav / tam̃l jalan rayā / nau tupak jalan rayā / 125 jāk / 55 jāk / 555 jāk / 442, 60, 35, 15 jāk / limān lakei sā / humā virān manroṅ
+B. śivaliṅga / bhagava / śrīśānabhadreśvara / yāṅ śivalinga di śilādvāra / śrī jaya siṅhavarmma / indravarmma
+-->
+           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+        	<listBibl type="primary">
+				<bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+			</listBibl>
+           <listBibl type="secondary">
+            <bibl><ptr target="bib:Bergaigne1888_01"/><citedRange unit="page">103</citedRange><citedRange unit="item">405</citedRange></bibl>
+              <bibl><ptr target="bib:Aymonier1891_01"/><citedRange unit="page">60-62</citedRange><citedRange unit="item">405</citedRange></bibl>
+              <bibl><ptr target="bib:BEFEO009_1909"/><citedRange unit="page">412</citedRange></bibl>
+              <!-- 
+                Majumdar, p. 219; Schweyer 2005, p. 106; Golzio, p. 192. 
+            Parmentier
+            -->
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>

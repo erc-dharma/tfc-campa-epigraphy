@@ -84,10 +84,10 @@
          <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83213">
             <div type="textpart" subtype="zone" n="1"><head xml:lang="eng">Main face</head>
                 <p><milestone type="pagelike" unit="face" n="A"/>
-<lb n="A1"/><g type="floretQuatrefoil"/> <g type="squiggleVertical"/> <g type="danda"/> nī mūla humā makapun· glai cam̃k· <unclear>sam̃</unclear><supplied reason="lost">k·</supplied> <gap reason="lost" extent="unknown"/>
-<lb n="A2"/><gap reason="illegible" unit="character" quantity="1"/>liṅga bhagavatī kauṭhāreśvarī ṅan· humā devatā nī paka<gap reason="lost" extent="unknown"/>
+<lb n="A1"/><g type="floretQuatrefoil"/> <g type="squiggleVertical"/> <g type="danda"/> nī mūla humā makapun· glai<!-- sapi2argr: je ne vois pas bien la voyelle -ai ici.--> cam̃k· <unclear>sam̃</unclear><supplied reason="lost">k·</supplied> <gap reason="lost" extent="unknown"/>
+<lb n="A2"/><gap reason="illegible" unit="character" quantity="1"/>liṅga bhagavatī kauṭhāreśvarī ṅan· humā devatā nī paka<!-- sapi2argr: nī pak· comme dans C. 208 ?--><gap reason="lost" extent="unknown"/>
 <lb n="A3"/><gap reason="lost" unit="character" quantity="1"/>· jem̃ paradravya si pu pom̃ tana rayā Indravarmma pu pom̃ ku s<unclear>ā sthā</unclear><supplied reason="lost">na</supplied> <gap reason="lost" extent="unknown"/>
-<lb n="A4"/><unclear>ṅa</unclear>n· sthāna prathama di Īśāna <unclear>v</unclear>ik· ca<unclear>m̃</unclear>k· luvuk· <unclear>b</unclear>utiy· nau dakṣi<unclear>ṇa</unclear> <gap reason="lost" extent="unknown"/>
+<lb n="A4"/><unclear>ṅa</unclear>n· sthāna prathama di Īśāna <unclear>v</unclear>ik· cam̃k·<!-- sapi2argr j'ai enlevé le "m̃" unclear. --> luvuk· <unclear>m</unclear>utiy·<!-- sapi2argr : au lieu de (b)utiy·--> nau dakṣi<unclear>ṇa</unclear> <gap reason="lost" extent="unknown"/>
 <lb n="A5"/>tam̃l· cam̃k· sam̃k· nau paścima raḥ cam̃k· tipā cam̃k· raḥ tanr̥n· vīre<unclear>śa</unclear> <gap reason="lost" extent="unknown"/>
 	<!-- C. 17, l. 8 and C. 101, A l. 13: tanr̥ñ· vīrapura; C. 101, A. 17: tanr̥ñ· mahīśa. -->
 <lb n="A6"/>n<unclear>au</unclear> Uttara s<unclear>ā</unclear> <unclear>Ā</unclear>ra saum̃ hum<unclear>ā</unclear> nagara tipā kraum̃ vvam̃ tam̃l cam̃k· ka<unclear>vai</unclear>ṅ· <gap reason="lost" extent="unknown"/>
@@ -96,23 +96,24 @@
 <lb break="no" n="A8"/>vyottara raḥ cam̃k· tam̃l· kraum̃ curaṁ nau pūrvva dalvan· kraum̃ dalvan· tuṁ tam̃<unclear>l</unclear><supplied reason="lost">·</supplied> <gap reason="lost" extent="unknown"/>
 <lb n="A8"/>humā di vumvauṅ· sā sthāna Anan· humā vauk· pūrvva Anr̥m̃ dakṣiṇa pa<unclear>śc</unclear><supplied reason="lost">ima</supplied> <gap reason="lost" extent="unknown"/>
 	<!-- % at the end, perhaps sā sthāna? -->
-<lb n="A10"/>ṇa humā kluṅ· kanvā danrāk· Atam̃ṁ yauṁ <num value="125">125</num> jāk· ṅan· tauk· <unclear>nau</unclear> <gap reason="lost" extent="unknown"/>
-<lb n="A11"/>yām̃ vr̥ddheśvara pūrvva dakṣiṇa humā nagara paścima humā yām̃ vr̥ddhe<gap reason="lost" extent="unknown"/>
-<lb n="A12"/>ṅ· kanvā danrāk· Atam̃ṁ yauṁ <num value="88">88</num> jāk· sā sthāna trā Anan· humā ṅver· <gap reason="lost" extent="unknown"/>
-<lb n="A13"/>mā nagara Uttara dandau tryam̃ <unclear cert="low">baṇa</unclear> humā kluṅ· kanvā danrāk· Atam̃ṁ y<unclear>au</unclear><supplied reason="lost">ṁ</supplied> <gap reason="lost" extent="unknown"/>
+<lb n="A10" break="no"/>ṇa humā kluṅ· kanvā danrāk· Atam̃ṁ yauṁ <num value="127">127</num><!--sapi2argr: au lieu de 125--> jāk· ṅan· tauk· <unclear>nau</unclear> <gap reason="lost" extent="unknown"/>
+<lb n="A11"/>yām̃ vr̥ddheśvara pūrvva dakṣiṇa hum<unclear>ā</unclear><!-- sapi2argr ajout du unclear--> nagara paścima humā yām̃ vr̥ddhe<gap reason="lost" extent="unknown"/>
+<lb n="A12" break="no"/>ṅ· kanvā danrāk· Atam̃ṁ yauṁ <num value="88">88</num> jāk· sā sthāna trā Anan· humā dver·<!-- sapi2argr : au lieu de ṅver·. Cf. comparaison avec la ligne d'en dessous "kluṅ" et "danrāk"--> <gap reason="lost" extent="unknown"/>
+<lb n="A13" break="no"/>mā nagara Uttara dandau tryam̃ <unclear cert="low">baṇa</unclear> humā kluṅ· kanvā danrāk· Atam̃ṁ y<unclear>au</unclear><supplied reason="lost">ṁ</supplied> <gap reason="lost" extent="unknown"/>
 	<!-- <unclear cert="low">baṇa</unclear>: the same word also occurs in A16 and its final syllable in A10 and A15. Both here and in A16, the first syllable cannot be read with certainty. -->
-<lb n="A14"/> sthāna Anan· sumalirām̃ pūrvva kraum̃ dakṣiṇa humā nagara paścima ti<supplied reason="lost">pā</supplied><gap reason="lost" extent="unknown"/>
-<lb n="A15"/>ṇa humā kluṅ· kanvā danrāk· Atam̃ṁ yau<unclear>ṁ</unclear> <num value="555">555</num> jāk· sā sthāna trā <gap reason="lost" extent="unknown"/>
+<lb n="A14"/>sthāna Anan· sumalirām̃ pūrvva kraum̃ dakṣiṇa humā nagara paścima ti<supplied reason="lost">pā</supplied><gap reason="lost" extent="unknown"/>
+<lb n="A15" break="no"/>ṇa humā kluṅ· kanvā danrāk· Atam̃ṁ yau<unclear>ṁ</unclear> <num value="555">555</num> jāk· sā sthāna trā <gap reason="lost" extent="unknown"/>
 <lb n="A16"/>nagara paścima tipā ravaum̃ Uttara <unclear>humā</unclear> naga<unclear>ra</unclear> <unclear>ba?</unclear>ṇa humā kluṅ· ka<unclear>n</unclear>v<supplied reason="lost">ā</supplied> <gap reason="lost" extent="unknown"/>
-<lb n="A17"/> Anan· <unclear>mula Āra</unclear> pūrvva dakṣi<unclear>ṇa</unclear> <unclear>humā</unclear> nagara paścima Uttara humā <gap reason="lost" extent="unknown"/>
+<lb n="A17"/>Anan· <unclear>mula Āra</unclear> pūrvva dakṣi<unclear>ṇa</unclear> humā nagara paścima Uttara humā <unclear>na</unclear><supplied reason="lost">gara</supplied><!-- sapi2argr (na)[gara]: ajout.--> <gap reason="lost" extent="unknown"/>
 <lb n="A18"/> <num value="112">112</num> jāk· <unclear>sā sthā</unclear>na trā Anan· humā <unclear>mam̃</unclear> pūrvva dakṣiṇa humā nagara <gap reason="lost" extent="unknown"/>
-<lb break="no" n="A19"/>mā kluṅ· kanvā danrāk· Atam̃ṁ yauṁ 6 <unclear>ma</unclear>k· sā sthāna trā Anan· humā <gap reason="lost" extent="unknown"/>
-<lb n="A20"/>nan· humā cam̃ḥ klum̃ talim̃ 37 jāk· <g type="danda">.</g> humā cam̃ḥ savik· trā <num value="17">17</num> jāk·
-<lb n="A21"/><supplied reason="lost">quatrefoil</supplied> <g type="danda"/> <g type="squiggleVertical"/> <g type="squiggleVertical"/> <g type="danda"/> śamāv· maAkyam̃ pandau<unclear>v</unclear>· Air· māḥ sā <num value="35">35</num> thil· <unclear>p</unclear>i<supplied reason="lost">rak·</supplied> <gap reason="lost" extent="unknown"/>
+<lb n="A19" break="no"/>mā kluṅ· kanvā danrāk· Atam̃ṁ yauṁ <num value="6">6</num> jāk·<!-- sapi2argr: au lieu de (ma)k·--> sā sthāna trā Anan· humā <gap reason="lost" extent="unknown"/>
+<lb n="A20"/>nan· humā cam̃ḥ klum̃ talim̃ 37 jāk· <g type="danda">.</g> humā cam̃ḥ savik· trā <num value="17">17</num> jāk·</p>
+<p>
+<lb n="A21"/><supplied reason="lost">quatrefoil</supplied> <g type="danda"/> <g type="squiggleVertical"/> <g type="squiggleVertical"/> <g type="danda"/> śalāv·<!--sapi2argr au lieu de śamāv·--> maAkyam̃ pandau<unclear>v</unclear>· Air· māḥ sā <num value="35">35</num><!--sapi2argr: ou 34.--> thil· <unclear>p</unclear>i<supplied reason="lost">rak·</supplied> <gap reason="lost" extent="unknown"/>
 <lb n="A22"/><num value="19">19</num> thil· pirak· pralaum̃ pandauv· Air· māḥ sā <num value="10">10</num> thi<supplied reason="lost">l·</supplied> <gap reason="lost" extent="unknown"/>
 <lb n="A23"/>thil· limān· lakim̃ sā Anan· <unclear>dhunum̃</unclear> ratā yām̃ pom̃ <gap reason="lost" extent="unknown"/>
 <lb n="A24"/>svāpadevaparamātmaja yām̃ pom̃ ku Indravarmma pu <gap reason="lost" extent="unknown"/>
-<lb n="A25"/>nerohiṇi Ur<unclear>ām̃</unclear> paramapura humā virān· manraum̃ va <gap reason="lost" extent="unknown"/>
+<lb n="A25"/>nerohiṇī<!-- sapi2argr : ī à la fin--> Ur<unclear>ām̃</unclear> paramapura humā virān· manraum̃ va <gap reason="lost" extent="unknown"/>
 </p>
 </div>
     <div type="textpart" subtype="zone" n="2"><head xml:lang="eng">Lateral face</head>

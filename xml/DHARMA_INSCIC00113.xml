@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hà Trung pillar (C. 113), 838 Śaka</title>
+                <respStmt>
+                   <resp>EpiDoc Encoding</resp>
+                   <persName ref="part:sapi">
+                      <forename>Salomé</forename>
+                      <surname>Pichon</surname>
+                   </persName>
+                </respStmt>
+                <respStmt>
+                   <resp>intellectual authorship of edition</resp>
+                   <persName ref="part:sapi">
+                      <forename>Salomé</forename>
+                      <surname>Pichon</surname>
+                   </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSCIC00113</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Salomé Pichon.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:sapi" when="2024-07-23" status="draft">Beginning initial encoding of the inscription</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="san-Latn">
+            <p><milestone type="pagelike" unit="face" n="A"/>
+                <lb n="A1"/>
+                <lb n="A2"/>
+                <lb n="A3"/>
+                <lb n="A4"/>
+                <lb n="A5"/>
+                <lb n="A6"/>
+                <lb n="A7"/>
+                <lb n="A8"/>
+                <lb n="A9"/>
+                <lb n="A10"/>
+                <lb n="A11"/>
+                <lb n="A12"/>
+                <lb n="A13"/>
+                <lb n="A14"/>
+                <lb n="A15"/>
+                <lb n="A16"/>
+                <lb n="A17"/>
+                <lb n="A18"/>
+                <lb n="A19"/>
+                <lb n="A20"/> humā <unclear>vr̥na</unclear>c· <g type="dandaPlain">.</g> humā talavār· <g type="dandaPlain">.</g> nariy· vavaḥ tuṁ cyās· taṁl· vatuv· sīma Ārāma <unclear>c</unclear>agu<unclear>r·</unclear> pāt· tuṁ cyās· lagaiḥ <g type="dandaPlain">.</g> nau tūy· vatu
+                <lb n="A21" break="no"/>v· sīma taṁl· vatuv· sīma Ārāma tra<unclear>nā</unclear>ṅ· <g type="dandaPlain">.</g> nau tūy· vatuv· sīma taṁl· vatuv· sīma huluv· humā talavār· <g type="dandaPlain">.</g> nau tūy· va
+                <lb n="A22" break="no"/>tuv· sīma taṁl· vatuv· sīma gaḥ krauṅ· tamukūr· tuṁ talavār· lagaiḥ Ur· nau tūy· krauṅ· nan· taṁl· vavaḥ tuṁ cyās· mulaṅ· <g type="dandaPlain">.</g>
+                <lb n="A23"/>humā Anataṁ dalaṁ vāṅ· nan· dvā rtūḥ limā pluḥ limā galauk· <g type="dandaPlain">.</g> <unclear>d</unclear>alapan· pluḥ limā jāk· Asiy· <g type="dandaPlain">.</g> humā daniḥ naṁ pluḥ limā ga
+                <lb n="A24" break="no"/>lauk· <g type="dandaPlain">.</g> pāk· pluḥ limā jāk· Asiy· I cakir· Alaḥ lagaiḥ Anaiḥ <g type="ddandaPlain">.</g> humā <unclear>la</unclear><gap reason="illegible" quantity="2" unit="character"/>· nariy· <unclear>vava</unclear>ḥ tuṁ satāṅ· nau Uttara tū
+                <lb n="A25" break="no"/>y· krauṅ· taṁl vavaḥ krauṅ· <unclear>va</unclear>lāṅ·<!--sapi2argr: ou lire vulāṅ ? calāṅ ? --> nau paś<supplied reason="lost">c</supplied>ima tūy· krauṅ· taṁl· vatuv· <gap reason="illegible" quantity="6" unit="character"/>y· <unclear>va</unclear>lāṅ·<!-- ou lire calāṅ?--> nau dakṣiṇa
+                <lb n="A26"/>tūy· vatuv· sīma taṁl· vatuv· sīma <unclear>candrā tu</unclear>ṁ <gap reason="illegible" quantity="15" unit="character"/> <unclear>t</unclear>aṁl· vatuv· sīma baṁk· caṁl·
+                <lb n="A27"/>Ajvañ· curaiḥ <gap reason="illegible" quantity="26" unit="character"/> <g type="dandaPlain">.</g> humā Anataṁ dalaṁ vāṅ·
+                <lb n="A28"/>nan· limā rtūḥ tluv· pluḥ ga<supplied reason="lost">lauk·</supplied> <supplied reason="lost">d</supplied>vā <supplied reason="lost">rt</supplied>ū<supplied reason="lost">ḥ</supplied> <supplied reason="lost">d</supplied>v<supplied reason="lost">ā</supplied>  <supplied reason="lost">p</supplied>lu<supplied reason="lost">ḥ</supplied> <gap reason="illegible" quantity="25" unit="character"/> <supplied reason="lost">ca</supplied>
+                <lb n="A29" break="no"/>kir· Alaḥ <g type="dandaPlain">.</g> humā masin· lagaiḥ Aviḥ tuṁ satāṅ· la<unclear>v</unclear>· <g type="dandaPlain">.</g> <g type="ddandaPlain">.</g>  <g type="complexFinial"/> <gap reason="illegible" quantity="13" unit="character"/>
+            </p>
+            <p><milestone type="pagelike" unit="face" n="B"/>
+                <lb n="B1"/><g type="ddandaPlain"/> humā yāṅ· pov· ku śrī Indrakānteśvara di nagara vvair· <g type="dandaPlain">.</g> <unclear>s</unclear>iy· pūrvva yāṅ· taṁl· vatuv· sīma <unclear>vā</unclear>yavyaṁ mvaun· paliy· 
+                <lb n="B2"/>cal· taṁl· vatuv· sīma dakṣiṇa mvaun· paliy· nadma taṁl· <unclear>vatuv</unclear>· sīma huluv· <choice><unclear>ṅ</unclear><unclear>d</unclear></choice>auk· taṁl· vatuv· sīma pūrvva taṁl· vatuv· sīma Uttara
+                <lb n="B3"/>taṁl· vatuv· sīma dakṣiṇa mvaun· paliy· ca<unclear>ṁ</unclear>l· mulaṅ· humā <unclear>Anataṁ sā pluḥ</unclear> <gap reason="illegible" quantity="1" unit="character"/> <unclear>galauk· <g type="dandaPlain">.</g> tijuḥ jāk· Asiy·</unclear> humā daniḥ dvā pluḥ
+                <lb n="B4"/>dalapan· galauk· <unclear>ṅa</unclear> pluḥ sā jāk· Asiy· <unclear>catiy·</unclear> <gap reason="illegible" quantity="2" unit="character"/> pluḥ <gap reason="illegible" quantity="10" unit="character"/> <unclear>cyas·</unclear> <gap reason="illegible" quantity="1" unit="character"/> Anataṁ dvā pluḥ limā
+                <lb n="B5"/>galauk· sā pluḥ jāk· Asiy· hu[mā] <gap reason="illegible" quantity="8" unit="character"/> <unclear>dvā pluḥ</unclear><!-- lecture très incertaine--> <gap reason="illegible" quantity="2" unit="character"/>· galauk· limā jāk· Asiy· humā huluv· tuṁ <surplus>hu</surplus>
+                <lb n="B6"/>humā dandau Anaiḥ <g type="dandaPlain">.</g> humā va<gap reason="illegible" quantity="2" unit="character"/> <supplied reason="lost">A</supplied>siy· <gap reason="illegible" quantity="8" unit="character"/> taṁl· vatuv· sīma <unclear>huluv· tuṁ</unclear> taṁl· vatuv· sīma gaḥ 
+                <lb n="B7"/>krauṅ· <unclear>bh</unclear>alauṅ· krau<unclear>ṅ·</unclear> <gap reason="illegible" quantity="4" unit="character"/> <supplied reason="lost">ta</supplied><unclear>ṁl·</unclear> <unclear>k</unclear>rau<unclear>ṅ·</unclear> <gap reason="illegible" quantity="10" unit="character"/> <unclear>kr</unclear>auṅ· <unclear>bh</unclear>alau<unclear>ṅ</unclear>· taṁl· vatuv·
+                <lb n="B8"/>sīma sagor· <unclear>pā</unclear>t· mulaṅ· hu<unclear>mā Anataṁ dvā pluḥ</unclear> <supplied reason="lost">ga</supplied><unclear>lauk·</unclear> <gap reason="illegible" quantity="1" unit="character"/> <supplied reason="lost">p</supplied><unclear>luḥ</unclear> jāk· Asiy· cakir· Alaḥ <unclear>sā</unclear> rtūḥ dalapan· pluḥ dalapa
+                <lb n="B9" break="no"/>n· jāk· Asiy· <unclear>krauṅ</unclear>·<!-- peut-on lire rayā après le krauṅ ?--> <gap reason="illegible" quantity="3" unit="character"/> <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>i</seg>y· <gap reason="illegible" quantity="8" unit="character"/> <unclear>taṁl·</unclear> <gap reason="illegible" quantity="2" unit="character"/>· <unclear>daṁ</unclear> llagaiḥ Aviḥ taṁl· <gap reason="illegible" quantity="1" unit="character"/>la <gap reason="illegible" quantity="3" unit="character"/> Ajvañ· <unclear>vu</unclear> mvau-
+                <lb n="B10" break="no"/><choice><sic>ṅ</sic><corr>n</corr></choice>· <supplied reason="lost">pal</supplied>i<supplied reason="lost">y·</supplied> <gap reason="illegible" quantity="20" unit="character"/> kr<supplied reason="lost">au</supplied>ṅ· <gap reason="illegible" quantity="15" unit="character"/> Aviḥ
+                <lb n="B11"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>u</seg> <gap reason="illegible" quantity="2" unit="character"/>· <gap reason="illegible" quantity="3" unit="character"/> <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>u</seg> <gap reason="illegible" quantity="20" unit="character"/>y· paścima <gap reason="illegible" quantity="2" unit="character"/> <unclear>taṁl·</unclear> vavaḥ krauṅ· <gap reason="illegible" quantity="6" unit="character"/> tuṁ <unclear>ku</unclear>
+                <lb n="B12" break="no"/><unclear>mā</unclear>l· nan· tuṁ <gap reason="illegible" quantity="3" unit="character"/>· taṁl· <gap reason="illegible" quantity="19" unit="character"/> taṁl· vatuv· sīma gaḥ <unclear>da</unclear>ndau
+                <lb n="B13"/><unclear>hla</unclear>k· dandau <unclear>hū</unclear>k· la<gap reason="illegible" quantity="25" unit="character"/> taṁl· vatuv· sīma <unclear>gaḥ</unclear> tuṁ
+                <lb n="B14"/> tralyaṁ <g type="dandaPlain">.</g> humā hūk· <g type="dandaPlain">.</g> <unclear>Anataṁ</unclear> pāk· rtūḥ <unclear>dvā</unclear> <supplied reason="lost">ga</supplied>lauk· <unclear>sā r</unclear>tūḥ salapan· pluḥ <unclear>jāk· Asiy·</unclear> <gap reason="illegible" quantity="5" unit="character"/> tijuḥ pluḥ dvā
+                <lb n="B15"/>galauk· <unclear>tijuḥ pluḥ sā</unclear> jāk· Asiy·<!-- peut-on lire catiy après Asiy ?--> <gap reason="illegible" quantity="4" unit="character"/> sīma gaḥ tuṁ tral<supplied reason="lost">ya</supplied>ṁ taṁl· <unclear>vatuv· sīma gaḥ</unclear> <gap reason="illegible" quantity="10" unit="character"/> la
+                <lb n="B16" break="no"/>gaiḥ <gap reason="illegible" quantity="7" unit="character"/> nau pūrvva <unclear>nau tūy·</unclear> <gap reason="illegible" quantity="5" unit="character"/> taṁl· <gap reason="illegible" quantity="20" unit="character"/> tuṁ <gap reason="illegible" quantity="2" unit="character"/>
+                <lb n="B17"/><unclear>pa</unclear>taṁl· <unclear>vatuv·</unclear><!-- lecture très hypothétique--> <gap reason="illegible" quantity="2" unit="character"/> huluv· <unclear>caṁkar</unclear>· <gap reason="illegible" quantity="5" unit="character"/> <unclear>tūy· vatuv· sīma taṁl· vatuv·</unclear> sīma <unclear>gaḥ</unclear> tuṁ <gap reason="illegible" quantity="2" unit="character"/> hu<gap reason="illegible" quantity="5" unit="character"/>
+                <unclear>lagaiḥ</unclear> Aviḥ nau
+                <lb n="B18"/>taṁl· vatuv· sīma <unclear>gaḥ mv</unclear>aun· paliy· dand<unclear>au</unclear> taṁl· vatuv· sīma <unclear>gaḥ</unclear> tuṃ <gap reason="illegible" quantity="3" unit="character"/> tuṁ <gap reason="illegible" quantity="12" unit="character"/> <unclear>gaḥ</unclear> tuṁ k<unclear>n</unclear>āṁ
+                <lb n="B19"/>huviy· tuṁ knā<unclear>̐m̐</unclear> huviy· lagaiḥ humā tralyaṁ humā <gap reason="illegible" quantity="2" unit="character"/> humā kumvel· <unclear>pat</unclear>· rtūḥ galauk· <gap reason="illegible" quantity="1" unit="character"/> rtūḥ naṁ <unclear>pluḥ jāk·</unclear> <supplied reason="lost">Asi</supplied>
+                <lb n="B20" break="no"/>y· humā daniḥ pat· galauk· dvā jāk· Asiy· humā <unclear>masin·</unclear> tijuḥ pluḥ salapan· galauk· <unclear>rtūḥ</unclear> pluḥ <gap reason="illegible" quantity="2" unit="character"/> <unclear>jā</unclear>k· Asiy·
+                <lb n="B21"/>humā <gap reason="illegible" quantity="1" unit="character"/>r· <unclear>masin·</unclear><!-- lecture très hypothétique--> <choice><unclear>s</unclear><unclear>dv</unclear></choice>ā <unclear>pluḥ jāk·</unclear> <supplied reason="lost">Asiy·</supplied> <gap reason="illegible" quantity="3" unit="character"/> pluḥ dvā jāk· Asiy· vatuv· <gap reason="illegible" quantity="2" unit="character"/> <unclear>tuṁ</unclear> <gap reason="illegible" quantity="14" unit="character"/>
+                <lb n="B22"/>huviy· <unclear>humā</unclear> <gap reason="illegible" quantity="2" unit="character"/> huv<unclear>i</unclear>y· humā <unclear>r</unclear>umvaul· samva<unclear>c</unclear>· <unclear>tra</unclear> humā <gap reason="illegible" quantity="3" unit="character"/>ṅ· <g type="dandaPlain">.</g> sā rtūḥ sa<unclear>lapan</unclear>· <gap reason="illegible" quantity="3" unit="character"/> <unclear>galauk·</unclear>
+                <lb n="B23"/>salapan· pluḥ jāk· Asiy· <g type="dandaPlain">.</g> humā daniḥ <gap reason="illegible" quantity="1" unit="character"/> pluḥ salapan· <unclear>ga</unclear>lauk· <unclear>dvā</unclear> pluḥ jāk· Asiy· <unclear>da</unclear>ndau knāṁ <gap reason="illegible" quantity="6" unit="character"/> <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>i</seg>y·<!-- peut-on lire nariy ?--> va
+                <lb n="B24" break="no"/>tuv· sīma pūrvva dandau <unclear>knāṁ huv</unclear>iy· nau dakṣiṇa tūy· vatu<unclear>v</unclear>· <supplied reason="lost">sī</supplied><unclear>ma</unclear> taṁl· vatuv· <supplied reason="lost">sīma</supplied> pūrvva<!-- peut-on lire humā après pūrvva ?--> <gap reason="illegible" quantity="5" unit="character"/> nau <unclear>da</unclear>kṣiṇa tū
+                <lb n="B25" break="no"/>y· vatuv· sīma taṁl· vatuv· sīma humā <unclear>v</unclear>u<unclear>d</unclear>ut· humā yok· humā vu<unclear>d</unclear>ut· humā <unclear>vad</unclear>uy· dalapan· pluh· <unclear>galauk· na</unclear>ṁ pluḥ
+                <lb n="B26"/>jāk· Asiy· <unclear>Ana</unclear>taṁ humā <unclear>daniḥ</unclear> salapan· pluḥ dvā galauk· pāt· pluḥ dvā jāk· <unclear>Asiy·</unclear> <supplied reason="lost">taṁl·</supplied> <unclear>vat</unclear>uv· <unclear>sīma</unclear> <gap reason="illegible" quantity="4" unit="character"/>
+                <lb n="B27" break="no"/>t· taṁl· vatuv· sīma Uttara mvaun· paliy· <unclear>cyās</unclear>·<!-- ou kvap ?--> <gap reason="illegible" quantity="3" unit="character"/> taṁl· <unclear>va</unclear>tuv· <unclear>sīma paścima</unclear> <gap reason="illegible" quantity="2" unit="character"/> paliy· <gap reason="illegible" quantity="2" unit="character"/> taṁl· vatuv· <unclear>sī</unclear>
+                <lb n="B28" break="no"/><unclear>ma</unclear> sagor· <gap reason="illegible" quantity="3" unit="character"/> taṁl· vatuv· <unclear>sīma vā</unclear>yavya mvaun· paliy· <unclear>ca</unclear>l· <unclear>m</unclear>ulaṅ· humā <unclear>v</unclear>yām· <gap reason="illegible" quantity="8" unit="character"/> <unclear>pluḥ galau</unclear>
+                <lb n="B29" break="no"/>k· dalapan· jāk· Asiy· <g type="dandaPlain">.</g> humā <gap reason="illegible" quantity="3" unit="character"/> <unclear>ca</unclear>kir· Alaḥ dvā pluḥ galauk· <unclear>sā pluḥ</unclear> dvā jāk· Asiy· <supplied reason="lost">ca</supplied>kir· <unclear>A</unclear>ndap· <gap reason="illegible" quantity="2" unit="character"/> taṁ
+                <lb n="B30" break="no"/>l· travaṅ· taṁl <unclear>An</unclear>dap· kvot· taṁl· <unclear>talā</unclear><!--vaha ?--> taṁl· dandau <unclear>yady</unclear>au humā <gap reason="illegible" quantity="5" unit="character"/> rtūḥ limā galauk· <gap reason="illegible" quantity="2" unit="character"/> rtūḥ dvā pluḥ
+                <lb n="B30"/>naṁ jāk· Asiy· <g type="dandaPlain">.</g> humā <unclear>da</unclear>niḥ <unclear>can</unclear>· cakir· Alaḥ naṁ pluḥ naṁ galauk· tluv· pluḥ pat· jāk· Asiy· tandoṅ <unclear>dyaul·</unclear> gaḥ <unclear>rā</unclear>mvat· <supplied reason="lost">A</supplied>
+                <lb n="B32" break="no"/>siy· vatuv· sīma pūrvva dandau tuṁ huviy· nau Uttara tūy· vatuv· sīma taṁl· vatuv· sīma gaḥ krauṅ· <unclear>dr̥ñ</unclear>·<!-- ou nr̥ñ ?--> krauṅ· <unclear>vadr̥ñ</unclear>· lagaiḥ <unclear>ti</unclear><gap reason="illegible" quantity="1" unit="character"/> taṁl· vatu
+                <lb n="B33" break="no"/>v· sīma pūrvva mvaun· paliy· malavu nau Uttara taṁl· vatuv· sīma gaḥ krauṅ· humā masin· na<unclear>ṅ</unclear>· Anr̥ṅ· katauṅ lagaiḥ Aviḥ nau taṁl· va
+                <lb n="B34" break="no"/>tuv· sīma huluv· Anr̥ṅ· katauṅ· nau tūy· vatuv· sīma taṁl· vatuv· sīma Ārāma tluv· taṁl· vatuv· sīma ṅauk· lu<unclear>v</unclear> vihāra nau tū
+                <lb n="B35" break="no"/>y· vatuv· sīma taṁl· vatuv· sīma gaḥ krauṅ· vākāla <g type="dandaPlain">.</g> krauṅ· vatāla lagaiḥ nau taṁl· vavaḥ krauṅ· gauk· <g type="dandaPlain">.</g> nau taṁl· vatuv· sīma Utta
+                <lb n="B36" break="no"/>ra mvaun· paliy· gauk· <g type="dandaPlain">.</g> nau tūy· vatuv· sīma taṁl vatuv· sīma humā tlaun· <unclear>d</unclear>rov·<!-- nrov ?--> <g type="dandaPlain">.</g> nau tūy· vatuv· sīma taṁl· vatuv· sīma dakṣiṇa
+                <lb n="B37"/>mvaun· paliy· cakir· <g type="dandaPlain">.</g> nau tūy· vatuv· sīma taṁl· vatuv· sīma pūrvva dandau knāṁ huviy· mulaṅ· <g type="dandaPlain">.</g> humā Anataṁ dalaṁ vāṅ· nan· <g type="dandaPlain">.</g> <unclear>k</unclear>ico
+                <lb n="B38" break="no"/>v·<!-- haricov ? sāricov ?--> sā rtūḥ dalapan· pluḥ salapan· galauk· limā rtūḥ limā pluḥ jāk· Asiy· <g type="dandaPlain">.</g> humā daniḥ dvā rtūḥ dalapan· pluḥ pāt· galau
+                <lb n="B39" break="no"/>k· <g type="dandaPlain">.</g> sā rtūḥ pāt· jāk· Asiy· <g type="dandaPlain">.</g> humā pitau <unclear>nīṅ· si</unclear>y· <unclear>vat</unclear>u<unclear>v</unclear>· sīma gaḥ krauṅ· gau<unclear>k</unclear>· nau tūy· vatuv· sīma taṁl· vatuv· sīma gaḥ
+                <lb n="B40"/>krauṅ· tamukūr· <g type="dandaPlain">.</g> nau dakṣiṇa tūy· krauṅ· nan· ṅa<unclear>n</unclear>· nau taṁl· vatuv· sīma gaḥ krauṅ· <unclear>gau</unclear>k· mulaṅ· <g type="dandaPlain">.</g> humā Anataṁ dalaṁ vāṅ <supplied reason="lost">na</supplied>
+                <lb n="B41" break="no"/>n· <g type="dandaPlain">.</g> tluv· rtūḥ dvā pluḥ galauk· <g type="dandaPlain">.</g> sā rtūḥ tluv· pluḥ jāk· Asiy· <g type="dandaPlain">.</g> humā daniḥ sā rtūḥ tijuḥ pluḥ pāt· galauk· <g type="dandaPlain">.</g> sā rtūḥ sā pluḥ d<unclear>vā</unclear>
+                <lb n="B42" break="no"/>jāk· Asiy· <g type="ddandaPlain">.</g> humā caṁl·<!-- vaṁl ?--> Anataṁ <g type="dandaPlain">.</g> sā pluḥ tluv· galauk· <g type="dandaPlain">.</g> sā pluḥ tluv· jāk· Asiy· <g type="ddandaPlain">.</g> humā <unclear>ni</unclear><gap reason="illegible" quantity="2" unit="character"/> <unclear>ti</unclear>diṅ· vandaḥ niy· krau
+                <lb n="B43" break="no"/>ṅ· <g type="dandaPlain">.</g> dvā pluḥ tluv· galauk· Anataṁ <g type="dandaPlain">.</g> sā pluḥ naṁ jāk· Asiy· <g type="dandaPlain">.</g> humā daniḥ dvā pluḥ tluv· galauk· <g type="dandaPlain">.</g> sā pluḥ jāk· Asiy· <g type="ddandaPlain">.</g>
+                </p>
+         </div>
+         <div type="apparatus">
+               <listApp>
+                <app loc="A23">
+                    <lem>dalaṁ vāṅ·</lem>
+                    <note>One could also read <foreign>cāṅ</foreign>.However, other occurrences in the inscription, e.g. l. A26, present a clearer case of <foreign>vāṅ</foreign>. Moreover, we note several occurences of <foreign>dalaṁ vāṅ</foreign> in <ref target="DHARMA_INSCIC00252.xml">C. 252</ref>.</note>
+                 </app>
+                 <app loc="A24">
+                    <lem>satāṅ·</lem>
+                    <note>On some estampages, a faint subscript character seems to be engraved underneath the -tā (or above l. A25), but in reality, it is more likely a damage on the stone.</note>
+                 </app>
+                 <app loc="A27">
+                    <lem>Ajvañ· curaiḥ·</lem>
+                    <note>See <ref target="DHARMA_INSCIC00149.xml">C. 149</ref> for an occurence of the toponym Ajaun Curaiḥ.</note>
+                 </app>
+                 <app loc="B8">
+                    <lem>dalapan· pluḥ</lem>
+                    <note>The -pa seems to have been engraved under the -la, probably an initial oversight by the scribe.</note>
+                 </app>
+                 <app loc="B10">
+                    <lem><supplied reason="lost">pal</supplied>i<supplied reason="lost">y·</supplied></lem>
+                    <note>This reading is purely conjectural, because the other occurrences of <foreign>mvaun</foreign> are all followed by the term <foreign>paliy</foreign> and because the second syllable of the word seems to bear a vowel -i. However, it seems possible to decipher a subscrit -va under the first <foreign>akṣara</foreign>.</note>
+                 </app>
+                 <app loc="B17">
+                    <lem><unclear>vatuv·</unclear></lem>
+                    <note>This reading is highly hypothetical.</note>
+                 </app>
+                 <app loc="B21">
+                    <lem><unclear>masin·</unclear></lem>
+                    <note>This reading is highly hypothetical.</note>
+                 </app>
+                 <app loc="B28">
+                    <lem><unclear>ca</unclear>l·</lem>
+                    <note>See l. B2 for a clearer occurence of this toponym.</note>
+                 </app>
+               </listApp>
+         </div>
+         <div type="translation">
+ 	<!--translation encoded as per EGD §9.2 -->
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+        <div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+        	<listBibl type="primary">
+				<bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+			</listBibl>
+           <listBibl type="secondary">
+              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>

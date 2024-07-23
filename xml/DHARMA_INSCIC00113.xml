@@ -102,7 +102,8 @@
                 <lb n="A16"/>
                 <lb n="A17"/>
                 <lb n="A18"/>
-                <lb n="A19"/>
+                <lb n="A19"/></p>
+                <p xml:lang="ocm-Latn" rendition="class:83233 maturity:83213">
                 <lb n="A20"/> humā <unclear>vr̥na</unclear>c· <g type="dandaPlain">.</g> humā talavār· <g type="dandaPlain">.</g> nariy· vavaḥ tuṁ cyās· taṁl· vatuv· sīma Ārāma <unclear>c</unclear>agu<unclear>r·</unclear> pāt· tuṁ cyās· lagaiḥ <g type="dandaPlain">.</g> nau tūy· vatu
                 <lb n="A21" break="no"/>v· sīma taṁl· vatuv· sīma Ārāma tra<unclear>nā</unclear>ṅ· <g type="dandaPlain">.</g> nau tūy· vatuv· sīma taṁl· vatuv· sīma huluv· humā talavār· <g type="dandaPlain">.</g> nau tūy· va
                 <lb n="A22" break="no"/>tuv· sīma taṁl· vatuv· sīma gaḥ krauṅ· tamukūr· tuṁ talavār· lagaiḥ Ur· nau tūy· krauṅ· nan· taṁl· vavaḥ tuṁ cyās· mulaṅ· <g type="dandaPlain">.</g>
@@ -114,7 +115,7 @@
                 <lb n="A28"/>nan· limā rtūḥ tluv· pluḥ ga<supplied reason="lost">lauk·</supplied> <supplied reason="lost">d</supplied>vā <supplied reason="lost">rt</supplied>ū<supplied reason="lost">ḥ</supplied> <supplied reason="lost">d</supplied>v<supplied reason="lost">ā</supplied>  <supplied reason="lost">p</supplied>lu<supplied reason="lost">ḥ</supplied> <gap reason="illegible" quantity="25" unit="character"/> <supplied reason="lost">ca</supplied>
                 <lb n="A29" break="no"/>kir· Alaḥ <g type="dandaPlain">.</g> humā masin· lagaiḥ Aviḥ tuṁ satāṅ· la<unclear>v</unclear>· <g type="dandaPlain">.</g> <g type="ddandaPlain">.</g>  <g type="complexFinial"/> <gap reason="illegible" quantity="13" unit="character"/>
             </p>
-            <p><milestone type="pagelike" unit="face" n="B"/>
+            <p xml:lang="ocm-Latn" rendition="class:83233 maturity:83213"><milestone type="pagelike" unit="face" n="B"/>
                 <lb n="B1"/><g type="ddandaPlain"/> humā yāṅ· pov· ku śrī Indrakānteśvara di nagara vvair· <g type="dandaPlain">.</g> <unclear>s</unclear>iy· pūrvva yāṅ· taṁl· vatuv· sīma <unclear>vā</unclear>yavyaṁ mvaun· paliy· 
                 <lb n="B2"/>cal· taṁl· vatuv· sīma dakṣiṇa mvaun· paliy· nadma taṁl· <unclear>vatuv</unclear>· sīma huluv· <choice><unclear>ṅ</unclear><unclear>d</unclear></choice>auk· taṁl· vatuv· sīma pūrvva taṁl· vatuv· sīma Uttara
                 <lb n="B3"/>taṁl· vatuv· sīma dakṣiṇa mvaun· paliy· ca<unclear>ṁ</unclear>l· mulaṅ· humā <unclear>Anataṁ sā pluḥ</unclear> <gap reason="illegible" quantity="1" unit="character"/> <unclear>galauk· <g type="dandaPlain">.</g> tijuḥ jāk· Asiy·</unclear> humā daniḥ dvā pluḥ
@@ -160,6 +161,8 @@
                 <lb n="B42" break="no"/>jāk· Asiy· <g type="ddandaPlain">.</g> humā caṁl·<!-- vaṁl ?--> Anataṁ <g type="dandaPlain">.</g> sā pluḥ tluv· galauk· <g type="dandaPlain">.</g> sā pluḥ tluv· jāk· Asiy· <g type="ddandaPlain">.</g> humā <unclear>ni</unclear><gap reason="illegible" quantity="2" unit="character"/> <unclear>ti</unclear>diṅ· vandaḥ niy· krau
                 <lb n="B43" break="no"/>ṅ· <g type="dandaPlain">.</g> dvā pluḥ tluv· galauk· Anataṁ <g type="dandaPlain">.</g> sā pluḥ naṁ jāk· Asiy· <g type="dandaPlain">.</g> humā daniḥ dvā pluḥ tluv· galauk· <g type="dandaPlain">.</g> sā pluḥ jāk· Asiy· <g type="ddandaPlain">.</g>
                 </p>
+                <p xml:lang="ocm-Latn" rendition="class:83233 maturity:83213"><milestone type="pagelike" unit="face" n="C"/></p>
+
          </div>
          <div type="apparatus">
                <listApp>

@@ -83,7 +83,7 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">
-            <p><milestone type="pagelike" unit="face" n="A"/>
+            <p><milestone type="pagelike" unit="face" n="A"/><label xml:lang="eng">Eastern Face</label>
                 <lb n="A1"/>
                 <lb n="A2"/>
                 <lb n="A3"/>
@@ -103,8 +103,8 @@
                 <lb n="A17"/>
                 <lb n="A18"/>
                 <lb n="A19"/></p>
-                <p xml:lang="ocm-Latn" rendition="class:83233 maturity:83213">
-                <lb n="A20"/> humā <unclear>vr̥na</unclear>c· <g type="dandaPlain">.</g> humā talavār· <g type="dandaPlain">.</g> nariy· vavaḥ tuṁ cyās· taṁl· vatuv· sīma Ārāma <unclear>c</unclear>agu<unclear>r·</unclear> pāt· tuṁ cyās· lagaiḥ <g type="dandaPlain">.</g> nau tūy· vatu
+                <p xml:lang="ocm-Latn">
+                <lb n="A20"/>humā <unclear>vr̥na</unclear>c· <g type="dandaPlain">.</g> humā talavār· <g type="dandaPlain">.</g> nariy· vavaḥ tuṁ cyās· taṁl· vatuv· sīma Ārāma <unclear>c</unclear>agu<unclear>r·</unclear> pāt· tuṁ cyās· lagaiḥ <g type="dandaPlain">.</g> nau tūy· vatu
                 <lb n="A21" break="no"/>v· sīma taṁl· vatuv· sīma Ārāma tra<unclear>nā</unclear>ṅ· <g type="dandaPlain">.</g> nau tūy· vatuv· sīma taṁl· vatuv· sīma huluv· humā talavār· <g type="dandaPlain">.</g> nau tūy· va
                 <lb n="A22" break="no"/>tuv· sīma taṁl· vatuv· sīma gaḥ krauṅ· tamukūr· tuṁ talavār· lagaiḥ Ur· nau tūy· krauṅ· nan· taṁl· vavaḥ tuṁ cyās· mulaṅ· <g type="dandaPlain">.</g>
                 <lb n="A23"/>humā Anataṁ dalaṁ vāṅ· nan· dvā rtūḥ limā pluḥ limā galauk· <g type="dandaPlain">.</g> <unclear>d</unclear>alapan· pluḥ limā jāk· Asiy· <g type="dandaPlain">.</g> humā daniḥ naṁ pluḥ limā ga
@@ -115,7 +115,7 @@
                 <lb n="A28"/>nan· limā rtūḥ tluv· pluḥ ga<supplied reason="lost">lauk·</supplied> <supplied reason="lost">d</supplied>vā <supplied reason="lost">rt</supplied>ū<supplied reason="lost">ḥ</supplied> <supplied reason="lost">d</supplied>v<supplied reason="lost">ā</supplied>  <supplied reason="lost">p</supplied>lu<supplied reason="lost">ḥ</supplied> <gap reason="illegible" quantity="25" unit="character"/> <supplied reason="lost">ca</supplied>
                 <lb n="A29" break="no"/>kir· Alaḥ <g type="dandaPlain">.</g> humā masin· lagaiḥ Aviḥ tuṁ satāṅ· la<unclear>v</unclear>· <g type="dandaPlain">.</g> <g type="ddandaPlain">.</g>  <g type="complexFinial"/> <gap reason="illegible" quantity="13" unit="character"/>
             </p>
-            <p xml:lang="ocm-Latn" rendition="class:83233 maturity:83213"><milestone type="pagelike" unit="face" n="B"/>
+            <p xml:lang="ocm-Latn"><milestone type="pagelike" unit="face" n="B"/><label xml:lang="eng">Southern Face</label>
                 <lb n="B1"/><g type="ddandaPlain"/> humā yāṅ· pov· ku śrī Indrakānteśvara di nagara vvair· <g type="dandaPlain">.</g> <unclear>s</unclear>iy· pūrvva yāṅ· taṁl· vatuv· sīma <unclear>vā</unclear>yavyaṁ mvaun· paliy· 
                 <lb n="B2"/>cal· taṁl· vatuv· sīma dakṣiṇa mvaun· paliy· nadma taṁl· <unclear>vatuv</unclear>· sīma huluv· <choice><unclear>ṅ</unclear><unclear>d</unclear></choice>auk· taṁl· vatuv· sīma pūrvva taṁl· vatuv· sīma Uttara
                 <lb n="B3"/>taṁl· vatuv· sīma dakṣiṇa mvaun· paliy· ca<unclear>ṁ</unclear>l· mulaṅ· humā <unclear>Anataṁ sā pluḥ</unclear> <gap reason="illegible" quantity="1" unit="character"/> <unclear>galauk· <g type="dandaPlain">.</g> tijuḥ jāk· Asiy·</unclear> humā daniḥ dvā pluḥ
@@ -161,8 +161,85 @@
                 <lb n="B42" break="no"/>jāk· Asiy· <g type="ddandaPlain">.</g> humā caṁl·<!-- vaṁl ?--> Anataṁ <g type="dandaPlain">.</g> sā pluḥ tluv· galauk· <g type="dandaPlain">.</g> sā pluḥ tluv· jāk· Asiy· <g type="ddandaPlain">.</g> humā <unclear>ni</unclear><gap reason="illegible" quantity="2" unit="character"/> <unclear>ti</unclear>diṅ· vandaḥ niy· krau
                 <lb n="B43" break="no"/>ṅ· <g type="dandaPlain">.</g> dvā pluḥ tluv· galauk· Anataṁ <g type="dandaPlain">.</g> sā pluḥ naṁ jāk· Asiy· <g type="dandaPlain">.</g> humā daniḥ dvā pluḥ tluv· galauk· <g type="dandaPlain">.</g> sā pluḥ jāk· Asiy· <g type="ddandaPlain">.</g>
                 </p>
-                <p xml:lang="ocm-Latn" rendition="class:83233 maturity:83213"><milestone type="pagelike" unit="face" n="C"/></p>
+                <p><milestone type="pagelike" unit="face" n="C"/><label xml:lang="eng">Northern Face</label>
+                <lb n="C1"/>
+                <lb n="C2"/>
+                <lb n="C3"/>
+                <lb n="C4"/>
+                <lb n="C5"/>
+                <lb n="C6"/>
+                <lb n="C7"/>
+                <lb n="C8"/>
+                <lb n="C9"/>
+                <lb n="C10"/>
+                <lb n="C11"/>
+                <lb n="C12"/>
+                <lb n="C13"/>
+                <lb n="C14"/>
+                <lb n="C15"/>
+                <lb n="C16"/>
+                <lb n="C17"/>
+                <lb n="C18"/>
+                <lb n="C19"/>
+                <lb n="C20"/>humā <unclear>sā</unclear>c· Anataṁ <g type="dandaPlain">.</g> sā rtūḥ sā pluḥ galauk· <g type="dandaPlain">.</g> tijuḥ pluḥ jāk· Asiy· <g type="dandaPlain">.</g> humā <unclear>rumaḥ</unclear> Anataṁ <g type="dandaPlain">.</g> pāt· pluḥ galauk· <g type="dandaPlain">.</g> dvā
+                <lb n="C21"/>pluḥ jāk· Asiy· <g type="dandaPlain">.</g> humā daniḥ ṅan cakir· Alaḥ <g type="dandaPlain">.</g> sā rtūḥ tluv· pluḥ tluv· galauk· <g type="dandaPlain">.</g> naṁ pluḥ jāk· Asiy· <g type="dandaPlain">.</g> humā lu
+                <lb n="C22" break="no"/><unclear>b</unclear>vā· Anataṁ <g type="dandaPlain">.</g> limā pluḥ galauk· <g type="dandaPlain">.</g> pāt· pluḥ jāk· Asiy· <g type="dandaPlain">.</g> humā daniḥ dvā pluḥ galauk· <g type="dandaPlain">.</g> sā pluḥ sā jāk· Asiy· <g type="dandaPlain">.</g>
+                <lb n="C23"/><unclear>d</unclear>l<unclear>ai</unclear> huluv· humā nan· lagaiḥ taṁl· krauṅ <g type="ddandaPlain">.</g> humā vr̥ṇuv· nariy· tuṁ vru nau taṁl kr̥jauk· tuṁ vru lagaiḥ <g type="ddandaPlain">.</g> humā <unclear>d</unclear>i
+                <lb n="C24"/>nagara gaṁṅ· <g type="dandaPlain">.</g> humā <unclear>E</unclear>k· <g type="dandaPlain">.</g> humā sagar· <g type="dandaPlain">.</g> humā viliḥ <g type="dandaPlain">.</g> nariy· <supplied reason="lost">vatu</supplied>v· sīma Ajvañ· <g type="dandaPlain">.</g> laḥ taṁl· vatuv· sīma jalān· karakov· <g type="dandaPlain">.</g>
+                <lb n="C25"/>humā <unclear>A</unclear>nataṁ sā rtūḥ tluv· pluḥ pāt· galauk· naṁ pluḥ jāk· Asiy· <g type="dandaPlain">.</g> humā daniḥ dvā pluḥ galauk· <g type="dandaPlain">.</g> sā pluḥ jāk· Asiy· <g type="dandaPlain">.</g> tuṁ <g type="dandaPlain">.</g>
+                <lb n="C26"/><unclear>E</unclear>k· <g type="dandaPlain">.</g> Anr̥ṅ· sa<unclear>gar·</unclear> <g type="dandaPlain">.</g> dlai viliḥ lagaiḥ Aviḥ <g type="ddandaPlain">.</g> humā ka<unclear>r</unclear>aṁ<!-- kanaṁ ?--> <g type="dandaPlain">.</g> nariy· vatuv· sīma gaḥ tuṁ <unclear>E</unclear>k· taṁl· vatuv· sīma Ajvañ· pināṅ· <g type="dandaPlain">.</g> taṁl·
+                <lb n="C27"/>gauk· drain· <g type="dandaPlain">.</g> sā rtūḥ limā pluḥ dvā galauk· <g type="dandaPlain">.</g> tijuḥ pluḥ jāk· Asiy· <g type="dandaPlain">.</g> humā daniḥ pāt· pluḥ limā galauk· <g type="dandaPlain">.</g> dvā pluḥ jāk·
+                <lb n="C28"/>Asiy· <g type="dandaPlain">.</g> ṅauk· sāṅ· Urāṅ· I <unclear>E</unclear>k· tijuḥ lagaiḥ rumaṅ· vatuv· sīma <g type="dandaPlain">.</g> dlai nariy· Ajvañ· pināṅ· taṁl· jalān· <unclear>j</unclear>aḥ kravā
+                <lb n="C28" break="no"/>v· lagaiḥ nau taṁl· tasīt· <g type="dandaPlain">.</g> dlai mireṅ· lagaiḥ Aviḥ <g type="ddandaPlain">.</g> humā kana<unclear>rā</unclear>v· <g type="dandaPlain">.</g> nariy· vatuv· sīma ṅauk· sāṅ· Urāṅ· ka<g type="indistinct"/>
+            </p>
+                <p><milestone type="pagelike" unit="face" n="D"/><label xml:lang="eng">Western Face</label>
+                <lb n="D1"/>
+                <lb n="D2"/>
+                <lb n="D3"/>
+                <lb n="D4"/>
+                <lb n="D5"/>
+                <lb n="D6"/>
+                <lb n="D7"/>
+                <lb n="D8"/>
+                <lb n="D9"/>
+                <lb n="D10"/>
+                <lb n="D11"/>
+                <lb n="D12"/>
+                <lb n="D13"/>
+                <lb n="D14"/>
+                <lb n="D15"/>
+                <lb n="D16"/> <g type="ddandaPlain">.</g>
+                </p>
+                <lg n="1" met="āryā">
+                    <l n="ab">kāyāgnimaṅgalayute śakapatisamaye madhor asitapakṣe</l>
+                     <l n="cd">ṣaṣṭāhe budhavāre pravaravasantarttukā<lb n="D17" break="no"/>le smin· <g type="ddandaPlain">.</g></l>
+                   </lg>
 
+                   <p>II. [āryā]
+                    prathamabhava ..... ghaṭagate raviputre
+                        Arlo: prathamabhava X X X re ghaṭagate kunidakṣa
+                    .... tula .... saurasuragurucandrā<lb n="D18" break="no"/>gāte dhanuṣi ~ ~ lagne ||
+                        a. ghaṭagate: Eade suggests karkaṭagate.
+                        d. -gāte: read -gate?
+                        b. dhanuṣilagne: corr. Eade (m.c.); dhanuṣi .... lagne Huber.</p>
+
+                    <lg n="3" met="āryā">
+                    <l n="ab">bhaumāśyadi ~<!--regarder comment encoder les lacunes des stances āryā--> makare <unclear>jha</unclear>ṣabhṛguje śrīmatīndrakānteśam· <g type="dandaPlain">.</g></l>
+                     <l n="cd">sātiṣṭhipat svabhaktyā sādhvī śrī<lb n="D19"/>Indravarmmanṛpe <g type="ddandaPlain">.</g></l>
+                   </lg>
+                   <lg n="4" met="āryā">
+                    <l n="ab">śrītribhuvanadevyāḥ śrīḥ punyānāṁ sthānam ūḍhakīrttiḥ syāt· <g type="dandaPlain">.</g></l>
+                     <l n="cd">pratimāliṅgo devo nityaṁ śrī <lb n="D20"/> Indrakānteśaḥ <g type="ddandaPlain">.</g></l>
+                   </lg>
+                <p xml:lang="ocm-Latn">
+                <lb n="D21" break="no"/><g type="indistinct"/><unclear>ro</unclear>v· knāṁ nau pūrvva tūy· vatuv· sīma taṁl· vatuv· sīma Anr̥ṅ· rayā nau Uttara taṁl· vatuv· sīma nau paścima taṁl·
+                <lb n="D22"/>krauṅ <unclear>kanarā</unclear>v· nau tūy· krauṅ rān· taṁl· vatuv· sīma ṅau<unclear>k· sāṅ</unclear>· Urāṅ· kanarāv· knāṁ mulaṅ <g type="dandaPlain">.</g> humā Anataṁ da
+                <lb n="D23" break="no"/>laṁ <supplied reason="lost">vān· nan·</supplied> dā rtūḥ limā pluḥ sā galauk· <g type="dandaPlain">.</g> dalapan· pluḥ <unclear>tlu</unclear>v· jāk· Asiy· <g type="dandaPlain">.</g> humā daniḥ dvā pluḥ limā galauk· <g type="dandaPlain">.</g>
+                <lb n="D24"/>dvā pluḥ <supplied reason="lost">jāk· A</supplied>siy· <g type="dandaPlain">.</g> humā masin· dvā pluḥ jāk· Asiy· <g type="dandaPlain">.</g> Anr̥ṅ· <unclear>rayā</unclear> lagaiḥ <g type="ddandaPlain">.</g> humā tra<unclear>s</unclear>auk·<!-- ou trapauk ?--> <g type="dandaPlain">.</g> nariy· vatuv· sīma gaḥ
+                <lb n="D25"/>krauṅ trasauk· nau Uttara tūy· vatuv· sīma taṁl· vatuv· sīma gaḥ krauṅ· <unclear>ma</unclear>r· <unclear>luvvā</unclear> nau pūrvva taṁl· vatuv· sīma nau da
+                <lb n="D26" break="no"/>kṣiṇa taṁl· vatuv· sīma gaḥ krau<unclear>ṅ</unclear>· <gap reason="illegible" quantity="6" unit="character"/> humā dalaṁ vāṅ· nan· pāt· rtūḥ jāk· Asiy· <g type="dandaPlain">.</g> dandau <g type="dandaPlain">.</g> tuṁ 
+                <lb n="D27"/>ṅauk· sāṅ· gaḥ krauṅ tra<unclear>s</unclear>auk· lag<supplied reason="lost">ai</supplied>ḥ <g type="dandaPlain">.</g> humā kalañair· pāt· galauk· dvā jāk· <g type="dandaPlain">.</g> humā lagin· dvā rtūḥ dvā pluḥ galau<g type="crossX"/>
+                </p>
          </div>
          <div type="apparatus">
                <listApp>
@@ -198,22 +275,46 @@
                     <lem><unclear>ca</unclear>l·</lem>
                     <note>See l. B2 for a clearer occurence of this toponym.</note>
                  </app>
+                 <app loc="D16">
+                    <lem>ṣaṣṭāhe</lem>
+                    <rdg source="Huber1911_01">ṣaṣṭāhe</rdg>
+                    <rdg source="bib:Golzio2004_01">Aṣṭāhe</rdg>
+                    <note>Golzio suggests to read <foreign>aṣṭāhe</foreign>.</note>
+                 </app>
+                 <app loc="D18">
+                    <lem><unclear>jha</unclear>ṣabhṛguje</lem>
+                    <rdg source="Huber1911_01"><unclear>me</unclear>ṣabhṛguje</rdg>
+                    <note>Correction from Eade, who suggests astronomical factors favor reading <foreign>jhaṣabhṛguje</foreign>. The meter does so too.</note>
+                 </app>
                </listApp>
          </div>
          <div type="translation">
  	<!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
-            <!--commentary encoded as per section §9.3 -->
+            <p>At the bottom of the Northern face C, a symbol marks the end of the last line, and is reproduced identically at the beggining of the Western face D, indicating the progression of the text. Simultaneously, the word written at the end of face C is interrupted after one syllable, and continues at the beginning of face D : <foreign>ka</foreign>- (l. C29) -<foreign>rov</foreign> (l. D1), <foreign>karov</foreign>. This method of indicating where the text continues through symbols is unique in the Indrapura's corpus. At the end of face D, a different symbol, in the shape of a cross, is written and the last word <foreign>galauk</foreign> is also interrupted after two syllables: <foreign>galau</foreign>-. However, none of the cam parts of the pillar's three other faces bears this same symbol, and no trace of the missing -<foreign>k</foreign> can be found. Was the text continuing on another artefact, yet to be discovered? 
+            </p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <p>Unpublished inscription. First edition of cam parts by Salomé Pichon based on the BNF estampages, on the EFEO estampages made by Nguyen Van Quang, on photos and photogrammetry models made by Adeline Leviver, and on a direct reading on stone led in July 2022.</p>
         	<listBibl type="primary">
-				<bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+				<bibl n="H">
+                    <ptr target="bib:Huber1911_01"/>
+                    <citedRange unit="page">298-299</citedRange>
+                        </bibl>
+                <bibl n="H">
+                    <ptr target="bib:Golzio2004_01"/>
+                    <citedRange unit="page">114-115</citedRange>
+                        </bibl> 
 			</listBibl>
            <listBibl type="secondary">
-              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+            <bibl>
+                <ptr target="bib:Majumdar1927_01"/>
+                <citedRange unit="part">3</citedRange>
+                <citedRange unit="page">137-138</citedRange>
+                <citedRange unit="item">44</citedRange>
+              </bibl>
            </listBibl>
         </div>
       </body>

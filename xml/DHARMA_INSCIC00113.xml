@@ -77,6 +77,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:sapi" when="2024-07-26" status="draft">Beginning translation of C. 113.</change>
             <change who="part:sapi" when="2024-07-24" status="draft">Finishing initial encoding of the cam parts of the inscription</change>
             <change who="part:sapi" when="2024-07-23" status="draft">Beginning initial encoding of the inscription</change>
         </revisionDesc>

@@ -83,8 +83,9 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
-            <p><milestone type="pagelike" unit="face" n="A"/><label xml:lang="eng">Eastern Face</label>
+         <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:83213">
+            <div type="textpart" subtype="zone" n="1"><head xml:lang="eng">Main text</head>
+            <p><milestone type="pagelike" unit="face" n="A"/><label xml:lang="eng">East</label>
                 <lb n="A1"/>
                 <lb n="A2"/>
                 <lb n="A3"/>
@@ -109,14 +110,14 @@
                 <lb n="A21" break="no"/>v· sīma taṁl· vatuv· sīma Ārāma tra<unclear>nā</unclear>ṅ· <g type="dandaPlain">.</g> nau tūy· vatuv· sīma taṁl· vatuv· sīma huluv· humā talavār· <g type="dandaPlain">.</g> nau tūy· va
                 <lb n="A22" break="no"/>tuv· sīma taṁl· vatuv· sīma gaḥ krauṅ· tamukūr· tuṁ talavār· lagaiḥ Ur· nau tūy· krauṅ· nan· taṁl· vavaḥ tuṁ cyās· mulaṅ· <g type="dandaPlain">.</g>
                 <lb n="A23"/>humā Anataṁ dalaṁ vāṅ· nan· dvā rtūḥ limā pluḥ limā galauk· <g type="dandaPlain">.</g> <unclear>d</unclear>alapan· pluḥ limā jāk· Asiy· <g type="dandaPlain">.</g> humā daniḥ naṁ pluḥ limā ga
-                <lb n="A24" break="no"/>lauk· <g type="dandaPlain">.</g> pāk· pluḥ limā jāk· Asiy· I cakir· Alaḥ lagaiḥ Anaiḥ <g type="ddandaPlain">.</g> humā <unclear>la</unclear><gap reason="illegible" quantity="2" unit="character"/>· nariy· <unclear>vava</unclear>ḥ tuṁ satāṅ· nau Uttara tū
+                <lb n="A24" break="no"/>lauk· <g type="dandaPlain">.</g> pāk· pluḥ limā jāk· Asiy· <g type="dandaPlain">.</g> cakir· Alaḥ lagaiḥ Aviḥ <g type="ddandaPlain">.</g> humā <unclear>la</unclear><gap reason="illegible" quantity="2" unit="character"/>· nariy· <unclear>vava</unclear>ḥ tuṁ satāṅ· nau Uttara tū
                 <lb n="A25" break="no"/>y· krauṅ· taṁl vavaḥ krauṅ· <unclear>va</unclear>lāṅ·<!--sapi2argr: ou lire vulāṅ ? calāṅ ? --> nau paś<supplied reason="lost">c</supplied>ima tūy· krauṅ· taṁl· vatuv· <gap reason="illegible" quantity="6" unit="character"/>y· <unclear>va</unclear>lāṅ·<!-- ou lire calāṅ?--> nau dakṣiṇa
                 <lb n="A26"/>tūy· vatuv· sīma taṁl· vatuv· sīma <unclear>candrā tu</unclear>ṁ <gap reason="illegible" quantity="15" unit="character"/> <unclear>t</unclear>aṁl· vatuv· sīma baṁk· caṁl·
                 <lb n="A27"/>Ajvañ· curaiḥ <gap reason="illegible" quantity="26" unit="character"/> <g type="dandaPlain">.</g> humā Anataṁ dalaṁ vāṅ·
                 <lb n="A28"/>nan· limā rtūḥ tluv· pluḥ ga<supplied reason="lost">lauk·</supplied> <supplied reason="lost">d</supplied>vā <supplied reason="lost">rt</supplied>ū<supplied reason="lost">ḥ</supplied> <supplied reason="lost">d</supplied>v<supplied reason="lost">ā</supplied>  <supplied reason="lost">p</supplied>lu<supplied reason="lost">ḥ</supplied> <gap reason="illegible" quantity="25" unit="character"/> <supplied reason="lost">ca</supplied>
                 <lb n="A29" break="no"/>kir· Alaḥ <g type="dandaPlain">.</g> humā masin· lagaiḥ Aviḥ tuṁ satāṅ· la<unclear>v</unclear>· <g type="dandaPlain">.</g> <g type="ddandaPlain">.</g>  <g type="complexFinial"/> <gap reason="illegible" quantity="13" unit="character"/>
             </p>
-            <p xml:lang="ocm-Latn"><milestone type="pagelike" unit="face" n="B"/><label xml:lang="eng">Southern Face</label>
+            <p xml:lang="ocm-Latn"><milestone type="pagelike" unit="face" n="B"/><label xml:lang="eng">South</label>
                 <lb n="B1"/><g type="ddandaPlain"/> humā yāṅ· pov· ku śrī Indrakānteśvara di nagara vvair· <g type="dandaPlain">.</g> <unclear>s</unclear>iy· pūrvva yāṅ· taṁl· vatuv· sīma <unclear>vā</unclear>yavyaṁ mvaun· paliy· 
                 <lb n="B2"/>cal· taṁl· vatuv· sīma dakṣiṇa mvaun· paliy· nadma taṁl· <unclear>vatuv</unclear>· sīma huluv· <choice><unclear>ṅ</unclear><unclear>d</unclear></choice>auk· taṁl· vatuv· sīma pūrvva taṁl· vatuv· sīma Uttara
                 <lb n="B3"/>taṁl· vatuv· sīma dakṣiṇa mvaun· paliy· ca<unclear>ṁ</unclear>l· mulaṅ· humā <unclear>Anataṁ sā pluḥ</unclear> <gap reason="illegible" quantity="1" unit="character"/> <unclear>galauk· <g type="dandaPlain">.</g> tijuḥ jāk· Asiy·</unclear> humā daniḥ dvā pluḥ
@@ -124,7 +125,7 @@
                 <lb n="B5"/>galauk· sā pluḥ jāk· Asiy· hu[mā] <gap reason="illegible" quantity="8" unit="character"/> <unclear>dvā pluḥ</unclear><!-- lecture très incertaine--> <gap reason="illegible" quantity="2" unit="character"/>· galauk· limā jāk· Asiy· humā huluv· tuṁ <surplus>hu</surplus>
                 <lb n="B6"/>humā dandau Anaiḥ <g type="dandaPlain">.</g> humā va<gap reason="illegible" quantity="2" unit="character"/> <supplied reason="lost">A</supplied>siy· <gap reason="illegible" quantity="8" unit="character"/> taṁl· vatuv· sīma <unclear>huluv· tuṁ</unclear> taṁl· vatuv· sīma gaḥ 
                 <lb n="B7"/>krauṅ· <unclear>bh</unclear>alauṅ· krau<unclear>ṅ·</unclear> <gap reason="illegible" quantity="4" unit="character"/> <supplied reason="lost">ta</supplied><unclear>ṁl·</unclear> <unclear>k</unclear>rau<unclear>ṅ·</unclear> <gap reason="illegible" quantity="10" unit="character"/> <unclear>kr</unclear>auṅ· <unclear>bh</unclear>alau<unclear>ṅ</unclear>· taṁl· vatuv·
-                <lb n="B8"/>sīma sagor· <unclear>pā</unclear>t· mulaṅ· hu<unclear>mā Anataṁ dvā pluḥ</unclear> <supplied reason="lost">ga</supplied><unclear>lauk·</unclear> <gap reason="illegible" quantity="1" unit="character"/> <supplied reason="lost">p</supplied><unclear>luḥ</unclear> jāk· Asiy· cakir· Alaḥ <unclear>sā</unclear> rtūḥ dalapan· pluḥ dalapa
+                <lb n="B8"/>sīma sagor· <unclear>pā</unclear>t· mulaṅ· hu<unclear>mā Anataṁ dvā pluḥ</unclear> <supplied reason="lost">ga</supplied><unclear>lauk·</unclear> <gap reason="illegible" quantity="1" unit="character"/> <supplied reason="lost">p</supplied><unclear>luḥ</unclear> jāk· Asiy· <g type="dandaPlain">.</g> cakir· Alaḥ <unclear>sā</unclear> rtūḥ dalapan· pluḥ dalapa
                 <lb n="B9" break="no"/>n· jāk· Asiy· <unclear>krauṅ</unclear>·<!-- peut-on lire rayā après le krauṅ ?--> <gap reason="illegible" quantity="3" unit="character"/> <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>i</seg>y· <gap reason="illegible" quantity="8" unit="character"/> <unclear>taṁl·</unclear> <gap reason="illegible" quantity="2" unit="character"/>· <unclear>daṁ</unclear> llagaiḥ Aviḥ taṁl· <gap reason="illegible" quantity="1" unit="character"/>la <gap reason="illegible" quantity="3" unit="character"/> Ajvañ· <unclear>vu</unclear> mvau-
                 <lb n="B10" break="no"/><choice><sic>ṅ</sic><corr>n</corr></choice>· <supplied reason="lost">pal</supplied>i<supplied reason="lost">y·</supplied> <gap reason="illegible" quantity="20" unit="character"/> kr<supplied reason="lost">au</supplied>ṅ· <gap reason="illegible" quantity="15" unit="character"/> Aviḥ
                 <lb n="B11"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>u</seg> <gap reason="illegible" quantity="2" unit="character"/>· <gap reason="illegible" quantity="3" unit="character"/> <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>u</seg> <gap reason="illegible" quantity="20" unit="character"/>y· paścima <gap reason="illegible" quantity="2" unit="character"/> <unclear>taṁl·</unclear> vavaḥ krauṅ· <gap reason="illegible" quantity="6" unit="character"/> tuṁ <unclear>ku</unclear>
@@ -162,7 +163,7 @@
                 <lb n="B42" break="no"/>jāk· Asiy· <g type="ddandaPlain">.</g> humā caṁl·<!-- vaṁl ?--> Anataṁ <g type="dandaPlain">.</g> sā pluḥ tluv· galauk· <g type="dandaPlain">.</g> sā pluḥ tluv· jāk· Asiy· <g type="ddandaPlain">.</g> humā <unclear>ni</unclear><gap reason="illegible" quantity="2" unit="character"/> <unclear>ti</unclear>diṅ· vandaḥ niy· krau
                 <lb n="B43" break="no"/>ṅ· <g type="dandaPlain">.</g> dvā pluḥ tluv· galauk· Anataṁ <g type="dandaPlain">.</g> sā pluḥ naṁ jāk· Asiy· <g type="dandaPlain">.</g> humā daniḥ dvā pluḥ tluv· galauk· <g type="dandaPlain">.</g> sā pluḥ jāk· Asiy· <g type="ddandaPlain">.</g>
                 </p>
-                <p><milestone type="pagelike" unit="face" n="C"/><label xml:lang="eng">Northern Face</label>
+                <p><milestone type="pagelike" unit="face" n="C"/><label xml:lang="eng">North</label>
                 <lb n="C1"/>
                 <lb n="C2"/>
                 <lb n="C3"/>
@@ -193,7 +194,7 @@
                 <lb n="C28"/>Asiy· <g type="dandaPlain">.</g> ṅauk· sāṅ· Urāṅ· I <unclear>E</unclear>k· tijuḥ lagaiḥ rumaṅ· vatuv· sīma <g type="dandaPlain">.</g> dlai nariy· Ajvañ· pināṅ· taṁl· jalān· <unclear>j</unclear>aḥ kravā
                 <lb n="C28" break="no"/>v· lagaiḥ nau taṁl· tasīt· <g type="dandaPlain">.</g> dlai mireṅ· lagaiḥ Aviḥ <g type="ddandaPlain">.</g> humā kana<unclear>rā</unclear>v· <g type="dandaPlain">.</g> nariy· vatuv· sīma ṅauk· sāṅ· Urāṅ· ka<g type="indistinct"/>
             </p>
-                <p><milestone type="pagelike" unit="face" n="D"/><label xml:lang="eng">Western Face</label>
+                <p><milestone type="pagelike" unit="face" n="D"/><label xml:lang="eng">West</label>
                 <lb n="D1"/>
                 <lb n="D2"/>
                 <lb n="D3"/>
@@ -241,6 +242,10 @@
                 <lb n="D26" break="no"/>kṣiṇa taṁl· vatuv· sīma gaḥ krau<unclear>ṅ</unclear>· <gap reason="illegible" quantity="6" unit="character"/> humā dalaṁ vāṅ· nan· pāt· rtūḥ jāk· Asiy· <g type="dandaPlain">.</g> dandau <g type="dandaPlain">.</g> tuṁ 
                 <lb n="D27"/>ṅauk· sāṅ· gaḥ krauṅ tra<unclear>s</unclear>auk· lag<supplied reason="lost">ai</supplied>ḥ <g type="dandaPlain">.</g> humā kalañair· pāt· galauk· dvā jāk· <g type="dandaPlain">.</g> humā lagin· dvā rtūḥ dvā pluḥ galau<g type="crossX"/>
                 </p>
+                </div>
+                <div type="textpart" subtype="zone" n="2"><head xml:lang="eng">Extra word on top block, Southern Face B</head>
+                    <p>dakṣina</p>
+                    </div>
          </div>
          <div type="apparatus">
                <listApp>
@@ -289,8 +294,11 @@
                  </app>
                </listApp>
          </div>
-         <div type="translation">
- 	<!--translation encoded as per EGD §9.2 -->
+ 	<div type="translation" resp="part:sapi">
+        <div type="textpart" subtype="zone" n="1"><head xml:lang="eng">Main text</head>
+            <p n="A20-A22">Rizière Vr̥nac ; rizière Talavār : depuis la confluence <supplied reason="explanation"><foreign>vavaḥ</foreign></supplied> du ruisseau Cyās jusqu'à la pierre de bornage des quatre tertres<!--ou le sens sanskrit de jardin?--> Cagur, <supplied reason="subaudible">jusqu'au</supplied> ruisseau Cyās Lagaih ; continuer suivant la pierre de bornage jusqu'à la pierre de bornage du jardin Tranāṅ ; continuer suivant la pierre de bornage jusqu'à la pierre de bornage en tête de la rizière Talavār ; continuer suivant la pierre de bornage jusqu'à la pierre de bornage auprès de la rivière Tamukūr <supplied reason="subaudible">et</supplied> du ruisseau Talavār Lagaih Ur ; continuer suivant cette rivière jusqu'à retourné à l'embouchure du ruisseau Cyās.</p>
+            <p n="A23-A24">Les rizières repiquées à cette période : deux-cents cinquante-cinq parcelles <supplied reason="explanation"><foreign>galauk</foreign></supplied>, quatre-vingt-cinq <foreign>jāk</foreign> de contenu. Les pépinière : soixante-cinq parcelles, quarante-cinq <foreign>jāk</foreign> de contenu. Cakir </p>
+            </div>
          </div>
          <div type="commentary">
             <p>At the bottom of the Northern face C, a symbol marks the end of the last line, and is reproduced identically at the beggining of the Western face D, indicating the progression of the text. Simultaneously, the word written at the end of face C is interrupted after one syllable, and continues at the beginning of face D : <foreign>ka</foreign>- (l. C29) -<foreign>rov</foreign> (l. D1), <foreign>karov</foreign>. This method of indicating where the text continues through symbols is unique in the Indrapura's corpus. At the end of face D, a different symbol, in the shape of a cross, is written and the last word <foreign>galauk</foreign> is also interrupted after two syllables: <foreign>galau</foreign>-. However, none of the cam parts of the pillar's three other faces bears this same symbol, and no trace of the missing -<foreign>k</foreign> can be found. Was the text continuing on another artefact, yet to be discovered? 

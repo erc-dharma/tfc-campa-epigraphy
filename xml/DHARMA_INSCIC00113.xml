@@ -223,13 +223,13 @@
                     <!-- Huber: prathamabhava ..... ghaṭagate raviputre--><!--ARLO:-->
                     <l n="ab">prathamabhava X X X re ghaṭagate kunidakṣa
                     .... tula</l>
-                    <l n="cd">.... saurasuragurucandrā<lb n="D18" break="no"/>gāte dhanuṣi ~ ~ lagne ||</l>
+                    <l n="cd">.... saurasuragurucandrā<lb n="D18" break="no"/>gāte dhanuṣi ~ ~ lagne ||</l></lg>
                     <!--a. ghaṭagate: Eade suggests karkaṭagate.
                         d. -gāte: read -gate?
                         b. dhanuṣilagne: corr. Eade (m.c.); dhanuṣi .... lagne Huber.-->
 
                     <lg n="3" met="āryā">
-                    <l n="ab">bhaumāśyadi <seg met="1"><gap reason="lost" quantity="1" unit="character" precision="low"/></seg></seg><!--regarder comment encoder les lacunes des stances āryā--> makare <unclear>jha</unclear>ṣabhṛguje śrīmatīndrakānteśam· <g type="dandaPlain">.</g></l>
+                    <l n="ab">bhaumāśyadi ~<!--regarder comment encoder les lacunes des stances āryā--> makare <unclear>jha</unclear>ṣabhṛguje śrīmatīndrakānteśam· <g type="dandaPlain">.</g></l>
                      <l n="cd">sātiṣṭhipat svabhaktyā sādhvī śrī<lb n="D19"/>Indravarmmanṛpe <g type="ddandaPlain">.</g></l>
                    </lg>
                    <lg n="4" met="āryā">

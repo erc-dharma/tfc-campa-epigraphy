@@ -153,7 +153,7 @@
              <lb n="C8"/><gap reason="illegible" quantity="1" unit="character"/>diḥ dvā pluḥ dalapan· jā<lb
              n="C9" break="no"/><supplied reason="lost">k·</supplied> humā tūpaṅ· pāt·
              <lb n="C10"/>jāk· humā kayauv· naṁ
-             <lb n="C11"/>jāk· <gap reason="illegible" quantity="6" unit="character"/><!--note du rtf : 11. L’encastrement de la pierre ne permet pas de lire la l. 11.-->
+             <lb n="C11"/><supplied reason="lost">jāk·</supplied> <gap reason="illegible" quantity="6" unit="character"/><!--note du rtf : 11. L’encastrement de la pierre ne permet pas de lire la l. 11.-->
              <milestone type="pagelike" unit="face" n="D"/>
              <lb n="D1"/><unclear>ṅa</unclear>n· Avista jeṅ· sār<supplied reason="lost">tuḥ</supplied><!--note du rtf : sār[tuḥ]: reconstitution fondée sur la lecture de Huber. -->
              <lb n="D2"/>dvā pluḥ sā jāk<supplied reason="lost">·</supplied> <unclear>n</unclear><supplied reason="lost">i</supplied>
@@ -251,8 +251,9 @@
                      <rdg source="bib:Huber1911_01">kayov· <gap reason="undefined"/></rdg>
                  </app>
                  <app loc="C11">
-                    <lem>jāk·</lem>
+                    <lem><supplied reason="lost">jāk·</supplied></lem>
                     <rdg source="bib:Huber1911_01"><gap reason="undefined"/></rdg>
+                    <note>The embedding of the stone does not allow l. C11 to be read.</note>
                 </app>
                  <app loc="D2">
                      <lem>niy·</lem>
@@ -289,7 +290,7 @@
            les impôts au Y.P. Mahāliṅga, <supplied reason="subaudible">et</supplied> brise cette exemption ou bafoue l'autorisation du <foreign>gr̥hastha</foreign>, qu'une multitude de chiens montent la mère de cet homme et qu'à sa mort il aille résider dans les ténèbres de l'enfer jusqu'à la fin de l'éon, la destruction.</p>
            <p n="B8-B9">Le Y.P. Mahāliṅga qui se livre <supplied reason="explanation"><foreign>pvauh</foreign></supplied><!-- sapi2argr pourrait-il y avoir un lien avec A&C f291, pvah : novice, retraitant du malais puasa (skt upavasa), jeûne. Un lien qui ne se retrouve apparemment pas dans les occurences du termes pvah, car il s'agirait plutôt d'un élément de nom propre (cf cam lexicon). --> aux ascèses, connaît le <foreign>dharma</foreign>, protège <supplied reason="subaudible">et</supplied> restaure ; les sacrificateurs qui se livrent aux ascèses, connaissent le <foreign>dharma</foreign>, protègent <supplied reason="subaudible">et</supplied> restaurent, jouiront<!-- sapi2argr une association explicite entre tmuv et tmov est présente dans A&C, f200.  --> du paradis et de la délivrance.
            </p>
-           <p n="B9-C10">Le seigneur <supplied reason="explanation">pu pov tana rayā</supplied> à Sthirarājya: <list>
+           <p n="B9-C11">Le seigneur <supplied reason="explanation">pu pov tana rayā</supplied> à Sthirarājya: <list>
            <item>la rizière Masin : deux <foreign>jāk</foreign></item>
            <item>la rizière Krauc : deux  <foreign>jāk</foreign></item>
            <item>la rizière Kək : un <foreign>jāk</foreign></item>

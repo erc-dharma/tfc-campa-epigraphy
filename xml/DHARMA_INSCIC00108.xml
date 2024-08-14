@@ -151,9 +151,9 @@
              <lb n="C6"/>dandauv· limā pluḥ jā<lb
              n="C7" break="no"/>k· ṅauk· sāṅ· ṅan· humā
              <lb n="C8"/><gap reason="illegible" quantity="1" unit="character"/>diḥ dvā pluḥ dalapan· jā<lb
-             n="C8" break="no"/><supplied reason="lost">k·</supplied> humā tūpaṅ· pāt·
-             <lb n="C9"/>jāk· humā kayauv· naṁ
-             <lb n="C10"/>jāk· <gap reason="illegible" quantity="6" unit="character"/><!--note du rtf : 11. L’encastrement de la pierre ne permet pas de lire la l. 11.-->
+             n="C9" break="no"/><supplied reason="lost">k·</supplied> humā tūpaṅ· pāt·
+             <lb n="C10"/>jāk· humā kayauv· naṁ
+             <lb n="C11"/>jāk· <gap reason="illegible" quantity="6" unit="character"/><!--note du rtf : 11. L’encastrement de la pierre ne permet pas de lire la l. 11.-->
              <milestone type="pagelike" unit="face" n="D"/>
              <lb n="D1"/><unclear>ṅa</unclear>n· Avista jeṅ· sār<supplied reason="lost">tuḥ</supplied><!--note du rtf : sār[tuḥ]: reconstitution fondée sur la lecture de Huber. -->
              <lb n="D2"/>dvā pluḥ sā jāk<supplied reason="lost">·</supplied> <unclear>n</unclear><supplied reason="lost">i</supplied>
@@ -162,6 +162,8 @@
              <lb n="D5"/><supplied reason="lost">d</supplied><unclear>i</unclear>nan·<!-- note du rtf : nan: omis par Huber. Noter le trait au dessus et avant le 1er n. Le lire ?--> Avista kā yā<supplied reason="lost">ṅ·</supplied>
              <lb n="D6"/><supplied reason="lost">po</supplied>v· ku śrī jaya Indra<lb
              n="D7" break="no"/><supplied reason="lost">va</supplied>rmma vuḥ di yāṁ pu po<supplied reason="lost">v·</supplied>
+             <lb n="D8"/><supplied reason="lost">ku</supplied> śrī mahāli
+             <lb n="D9" break="no"/><supplied reason="lost">ṅga</supplied> <g type="floretComplex">.</g>
                   </p>
              <lg n="8" met="indravajrā">
                <l n="a"><milestone type="pagelike" unit="face" n="E"/><lb n="E1"/><supplied reason="lost">ca</supplied><unclear>m</unclear>peśvaraś śrī jayasiṅhavarmmā</l>
@@ -245,9 +247,13 @@
                      <rdg source="bib:Huber1911_01">tupaṅ·</rdg>
                  </app>
                  <app loc="C10">
-                     <lem>kayauv·</lem>
-                     <rdg source="bib:Huber1911_01">kayov·</rdg>
+                     <lem>kayauv· naṁ</lem>
+                     <rdg source="bib:Huber1911_01">kayov· <gap reason="undefined"/></rdg>
                  </app>
+                 <app loc="C11">
+                    <lem>jāk·</lem>
+                    <rdg source="bib:Huber1911_01"><gap reason="undefined"/></rdg>
+                </app>
                  <app loc="D2">
                      <lem>niy·</lem>
                      <rdg source="bib:Huber1911_01">nariy</rdg>
@@ -256,6 +262,14 @@
                      <lem>yāṁ</lem>
                      <rdg source="bib:Huber1911_01">yā</rdg>
                  </app>
+                 <app loc="D8">
+                    <lem><supplied reason="lost">ku</supplied></lem>
+                    <rdg source="bib:Huber1911_01"><gap reason="undefined"/></rdg>
+                </app>
+                <app loc="D9">
+                    <lem><supplied reason="lost">ṅga</supplied> <g type="floretComplex">.</g></lem>
+                    <rdg source="bib:Huber1911_01">ṅga <gap reason="undefined"/></rdg>
+                </app>
                  <app loc="E2">
                      <lem>-tejāḥ</lem>
                      <rdg source="bib:Huber1911_01">-tejaḥ</rdg>

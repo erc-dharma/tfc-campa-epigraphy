@@ -184,7 +184,7 @@
              <lb n="B6"/>ta <gap reason="lost" quantity="5" unit="character" precision="low"/>śrī jaya siṅhavarmmadevena campāpuraparameśvareṇa sajjanaguṇavidā vidagdhamatinā mati
              <lb n="B7"/><gap reason="lost" quantity="6" unit="character" precision="low"/>śrīmatī haromādevīviditā haradevīsaṁjñāparanāmadheyāyā Ājñā pov· ku lyaṅ śrī rā<lb n="B8" break="no"/><supplied reason="lost">jakulākhyāyā</supplied>ḥ svāmbānujāyāḥ puṇyavr̥ddhaye pratiṣṭhāpiteyam indrapuranāmni pure sminn iti<g type="floretQuatrefoil">.</g>
              <lb n="B9"/><gap reason="lost" quantity="2" unit="character" precision="low"/>śr<supplied reason="lost">ī</supplied> paramabuddhalokasya nr̥pateḥ svabharttuḥ puṇyāya sādhumanasājñā pov· ku lyaṅ śrī rājak<supplied reason="lost">u</supplied>lākhyayā
-             <lb n="B10"/><gap reason="lost" quantity="2" unit="character" precision="low"/>guṇajñayā pratiṣṭhāpitaḥ śrīndraparameśvaro nāmneti<g type="floretQuatrefoil">.</g> tasminn eva śakarāje pi śrī rudraparame <!--sapi2argr Ici Finot, n'a pas lu de pi entre śakarāje et śrī --><lb n="B11" break="no"/><supplied reason="lost">śvaraḥ sa</supplied> devaḥ pratiṣṭhāpitas tayājñā pov· ku lyaṅ śrī rājakulākhyayā svapituḥ puṇyavr̥ddhyai<g type="floretQuatrefoil">.</g> tad a<lb n="B12" break="no"/>pi mātur nnijāyāḥ puṇyasa<unclear>ṁ</unclear>varddhanāyājñā pov· ku lyaṅ śrī rājakulanāmadheyā śrī rudromām imā<lb n="B13" break="no"/>m atiṣṭhipat sadbhaktyeti<g type="floretQuatrefoil">.</g>
+             <lb n="B10"/><gap reason="lost" quantity="2" unit="character" precision="low"/>guṇajñayā pratiṣṭhāpitaḥ śrīndraparameśvaro nāmneti<g type="floretQuatrefoil">.</g> tasminn eva śakarāje pi śrī rudraparame <!--sapi2argr Ici Finot, n'a pas lu de pi entre śakarāje et śrī --><lb n="B11" break="no"/><supplied reason="lost">śvaraḥ sa</supplied> devaḥ pratiṣṭhāpitas tayājñā pov· ku lyaṅ śrī rājakulākhyayā svapituḥ puṇyavivr̥ddhyai<g type="floretQuatrefoil">.</g> tad a<lb n="B12" break="no"/>pi mātur nnijāyāḥ puṇyasa<unclear>ṁ</unclear>varddhanāyājñā pov· ku lyaṅ śrī rājakulanāmadheyā śrī rudromām imā<lb n="B13" break="no"/>m atiṣṭhipat sadbhaktyeti<g type="floretQuatrefoil">.</g>
            </p>
            <lg n="15" met="āryā">
              <l n="ab">jayati haromādevī<g type="dotMid">.</g>saṁjñā devī mahīmahākīrttiḥ<g type="dotMid">.</g></l>
@@ -218,6 +218,14 @@
                      <lem>nāmneti</lem>
                      <rdg source="bib:Finot1904_01">namneti</rdg>
                  </app>
+                 <app loc="B10">
+                  <lem>śakarāje pi śrī</lem>
+                  <rdg source="bib:Finot1904_01">śakarāje śrī</rdg>
+              </app>
+                 <app loc="B11">
+                  <lem>puṇyavivr̥ddhyai</lem>
+                  <rdg source="bib:Finot1904_01">puṇyavr̥ddhyai</rdg>
+              </app>
                  <app loc="C5">
                      <lem>tandāḥ</lem>
                      <rdg source="bib:Finot1904_01">tandāy</rdg>

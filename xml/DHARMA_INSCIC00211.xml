@@ -98,18 +98,18 @@
              <l n="cd"><lb n="A5"/><seg met="--"><gap reason="lost" quantity="2" unit="character" precision="low"/></seg><!-- rtf : {1/2}: ~ ~ or, less likely, just one syllable -.--><!--sapi2argrOn the stone, you can see a part of aksara that could be a 'sa' or 'la'?--> te natir aśuciharā<g type="dotMid">.</g> rajanikarakaleva sā sudhiyā <g type="dashLong">.</g><!--rtf : —: the unusual punctuation sign has the shape of an em-dash.--></l>
            </lg>
            <lg n="3" met="rucirā">
-             <l n="a"><seg met="-"><gap reason="lost" quantity="1" unit="character"/></seg><lb n="A6"/><seg met="+"><gap reason="lost" quantity="1" unit="character"/></seg><supplied reason="lost">ṅ</supplied>garāga-sura-bhimalīmasam̃<!--changer pour un anuvasra candra-bindu --> rates</l>
+             <l n="a"><seg met="-"><gap reason="lost" quantity="1" unit="character"/></seg><lb n="A6"/><seg met="+"><gap reason="lost" quantity="1" unit="character"/></seg><supplied reason="lost">ṅ</supplied>garāga-sura-bhimalīmasam̐ rates</l>
              <l n="b">smarasya vakṣa Iva muni-prapūjitam·<g type="dotMid">.</g></l>
              <l n="c">prayāga <seg met="+-"><gap reason="lost" quantity="2" unit="character"/></seg><lb n="A7"/><seg met="-"><gap reason="lost" quantity="1" unit="character"/></seg>m iva satkriyādibhir</l>
              <l n="d">vvirājate bhuvanaguroḥ padadvayam·<g type="ddandaPlain">.</g></l><!-- rtf: 	a. This pāda is unmetrical, for it shows a sequence of five short syllables (gasurabhima) for the required four. -->
            </lg>
            <lg n="4" met="āryā">
-             <l n="ab">mādhavikam iva cara<unclear>ṇa</unclear><seg met="-"><gap reason="lost" quantity="1" unit="character"/></seg><lb n="A8"/><seg met="-"><gap reason="lost" quantity="1" unit="character"/></seg>m idam anavaratak<choice><sic>ū</sic><corr>u</corr></choice>sumāgatam̃ variṇaḥ<g type="dotMid">.</g></l>
+             <l n="ab">mādhavikam iva cara<unclear>ṇa</unclear><seg met="-"><gap reason="lost" quantity="1" unit="character"/></seg><lb n="A8"/><seg met="-"><gap reason="lost" quantity="1" unit="character"/></seg>m idam anavaratak<choice><sic>ū</sic><corr>u</corr></choice>sumāgatam̐ variṇaḥ<g type="dotMid">.</g></l>
              <l n="cd">sumatārccana-vidhinica<unclear>ya</unclear> <seg met="-"><gap reason="lost" quantity="1" unit="character"/></seg><lb n="A9" break="no"/><supplied reason="lost">m a</supplied>r<unclear>p</unclear>payatu mudam̐ mudarthibhyaḥ<g type="ddandaPlain">.</g></l>
            </lg>
            <lg n="5" met="gaṇacchandas"><!--rtf: N.N. The meter of this stanza is a gaṇacchandas and its structure is: 3 gaṇas, 6 gaṇas | 3 gaṇas, 6 gaṇas ||. If the second half of each half has 5 gaṇas instead of 6 gaṇas, it is called Āryāgīti and known in the Indian Sanskrit literature. We see here a sort of extended form of Āryāgīti, which seems to be very uncommon.-->
              <l n="ab">gaja-vāji-puruṣa-kalaśa<g type="dotMid">.</g>vyajana-ghaṭac-chatra <seg met="+-"><gap reason="lost" quantity="2" unit="character"/></seg><lb n="A10"/><seg met="+"><gap reason="lost" quantity="1" unit="character"/></seg> cāmarākr̥tiracitam·</l>
-             <l n="cd">rudrasya padatalam idam̐<g type="dotMid">.</g> rājyam iva samantato <seg met="--"><gap reason="lost" quantity="2" unit="character"/></seg><lb n="A11"/><seg met="-"><gap reason="lost" quantity="1" unit="character"/></seg> nr̥ṇām̃ śriyam avatāt·<g type="ddandaPlain">.</g></l>
+             <l n="cd">rudrasya padatalam idam̐<g type="dotMid">.</g> rājyam iva samantato <seg met="--"><gap reason="lost" quantity="2" unit="character"/></seg><lb n="A11"/><seg met="-"><gap reason="lost" quantity="1" unit="character"/></seg> nr̥ṇām̐ śriyam avatāt·<g type="ddandaPlain">.</g></l>
            </lg>
            <lg n="6" met="vasantatilaka">
              <l n="a" enjamb="yes">rudrasya sam̐stutir iyam̐ <unclear>ph</unclear>ala<unclear>kā</unclear><!-- sapi2argr. Sur ce (ph)ala(kā): L'on pourrait aussi lire malatā, dhalatā. De plus, il semblerait qu'un marqueur de voyelle -ai ait été gravé au dessus du kā/tā mais de manière très légère.-->maṇavā<g type="floretQuatrefoil">.</g></l>
@@ -211,6 +211,10 @@
                  <lem>cara<unclear>ṇa</unclear><seg met="--"><gap reason="lost" quantity="2" unit="character"/></seg>m</lem>
                  <note>One might conjecture here <foreign>caraṇatalam</foreign>.</note>
                 </app>
+                <app loc="A7">
+                  <lem>nr̥ṇām̐</lem>
+                  <note>The <foreign>anusvāra candrabindu</foreign> has an unusual shape, the crescent being turned downward.</note>
+                 </app>
               <app loc="B3">
                    <lem><seg met="-+-++"><gap reason="lost" quantity="5" unit="character"/></seg>śaya-</lem>
                    <note>Yuko Yokochi here conjectures: <foreign>manorathā āśaya</foreign>-.</note>

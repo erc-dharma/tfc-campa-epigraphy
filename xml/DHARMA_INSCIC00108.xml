@@ -136,7 +136,7 @@
            <p xml:lang="ocm-Latn">yāṅ· pov· mahāliṅga yāṅ·
              <lb n="B4"/>pu pov· ku śrī jaya Indravarmma kā vriy· matandās· sarvvākarādāna matandās·
              <lb n="B5"/>siy· vr̥liy· Urāṅ· mandop· sarvvākarādāna di yāṅ· pov· mahāliṅga
-             <lb n="B6"/>mapamataḥ matandāḥ niy· matop· vriy· gr̥hastha kūñ· Asov· vañak· ndo<lb
+             <lb n="B6"/>mapamataḥ matandāḥ niy· matop· vriy· gr̥hastha kūñ· Asov· vañāk· ndo<lb
              n="B7" break="no"/>y· Inā Urāṅ· nan· kā ñū matai nau dauk· di yop· naraka tauṅ· yugāntaḥ pra<lb
              n="B8" break="no"/>laya<g type="dotMid">.</g> yāṅ· poṁ mahāliṅga pvauḥ tapaḥ thuv· dharmma rakṣā pasyāṁ yajamāna <unclear>ma</unclear><lb
              n="B9" break="no"/>tapaḥ thuv· dharmma rakṣā pasyāṁ tmov· svarggāpavargga<g type="dotMid">.</g> pu pov· tana <supplied reason="omitted">ra</supplied>yā sthirarājya <supplied reason="lost">hu</supplied><lb
@@ -210,9 +210,13 @@
                      son application de vr̥ddhi dans la première syllabe n’est pas nécessaire, et sa lecture initiale de t pour th est peut-être une coquille.-->
                  </app>
                  <app loc="B6">
-                     <lem>kūñ</lem>
-                     <rdg source="bib:Huber1911_01">klūñ</rdg>
+                     <lem>kūñ·</lem>
+                     <rdg source="bib:Huber1911_01">klūñ·</rdg>
                  </app>
+                 <app loc="B6">
+                    <lem>vañāk·</lem>
+                    <rdg source="bib:Huber1911_01">vañak·</rdg>
+                </app>
                  <app loc="B7">
                      <lem>ñū</lem>
                      <rdg source="bib:Huber1911_01">ñu</rdg>

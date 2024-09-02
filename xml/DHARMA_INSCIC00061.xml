@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Châu Sa stela (C. 61), 825 Śaka</title>
+                <respStmt>
+                   <resp>EpiDoc Encoding</resp>
+                   <persName ref="part:sapi">
+                      <forename>Salomé</forename>
+                      <surname>Pichon</surname>
+                   </persName>
+                </respStmt>
+                <respStmt>
+                   <resp>intellectual authorship of edition</resp>
+                   <persName ref="part:argr">
+                      <forename>Arlo</forename>
+                      <surname>Griffiths</surname>
+                   </persName>
+                   <persName ref= "part:sapi">
+                      <forename>Salomé</forename>
+                      <surname>Pichon</surname>
+                   </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSCIC00061</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Arlo Griffiths &amp; Salomé Pichon.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>The lettering is characteristic of the tenth century CE.</p>
+                            <p>Some vowels marker -<foreign>ā</foreign>, also used in -<foreign>au</foreign> have an unusual form that descends below the <foreign>akṣara</foreign> line.</p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:sapi" when="2024-09-02" status="draft">First encoding and edition of the cam inscription</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:83213">
+            <p><milestone type="pagelike" unit="face" n="A"/>
+            </p>
+            <p><milestone type="pagelike" unit="face" n="B"/><gap reason="lost" quantity="21" unit="line" precision="low"/></p>
+            <p xml:lang="ocm-Latn"><milestone type="pagelike" unit="face" n="C"/>
+            <lb n="C1"/><gap reason="lost" quantity="14" unit="character" precision="low"/>
+            <list>
+           <item> humā <gap reason="lost" quantity="2" unit="character" precision="low"/>
+            <lb n="C2"/><gap reason="lost" quantity="3" unit="character" precision="low"/>k<unclear>·</unclear> tluv· <gap reason="lost" quantity="12" unit="character" precision="low"/></item>
+            <item><lb n="C3"/><gap reason="lost" quantity="1" unit="character" precision="low"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>u</seg>ḥ<!-- tijuḥ?-->  Alauk· 1 k· <g type="dotMid">.</g></item> 
+            <item>humā <unclear>ka</unclear>yauṅ· tlu<supplied reason="lost">v·</supplied> <gap reason="lost" quantity="2" unit="character" precision="low"/></item> 
+            <item><supplied reason="lost">hu</supplied>
+            <lb n="C4" break="no"/>mā travaṅun· vutyau<gap reason="lost" quantity="1" unit="character"/>· <gap reason="lost" quantity="7" unit="character" precision="low"/></item> <item><supplied reason="lost">hu</supplied>
+            <lb n="C5" break="no"/>mā pu<seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>ā</seg>ṅ·<!-- mulāṅ?--> <unclear>vreḥ</unclear> 9 Alauk· dvā jāk·</item> 
+            <item><gap reason="lost" quantity="2" unit="character" precision="low"/>
+            <lb n="C6"/>pināṅ· <unclear>4</unclear><!-- 5?--> Alauk· 1 k· <g type="dotMid">.</g></item> 
+            <item>humā <gap reason="lost" quantity="3" unit="character"/> <supplied reason="lost">jā</supplied>
+            <lb n="C7" break="no"/>k· <g type="dotMid">.</g></item> <item>humā nr̥<gap reason="lost" quantity="1" unit="character"/><!-- nr̥pai?--> dvā jāk· <g type="dotMid">.</g></item> <item>humā <gap reason="lost" quantity="1" unit="character"/>ddhī<!-- buddhi? vuddhi? --> gra<gap reason="lost" quantity="2" unit="character" precision="low"/> 
+            <lb n="C8"/><unclear>ṅā</unclear>v· <unclear>da</unclear>laṁ dalapan· jāk· <g type="dotMid">.</g></item> 
+            <item>humā <gap reason="lost" quantity="3" unit="character" precision="low"/> <supplied reason="lost">jā</supplied>
+            <lb n="C9" break="no"/>k· <g type="dotMid">.</g></item> <item>humā krau<unclear>c</unclear>· <gap reason="lost" quantity="3" unit="character"/> jāk· <g type="dotMid">.</g></item> 
+            <item>humā 
+            <lb n="C10"/>kravāv· sā jāk· <g type="dotMid">.</g></item> <item>humā <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>i</seg>ṇda<unclear>ṅ</unclear>· dvā <unclear>j</unclear><supplied reason="lost">āk <g type="dotMid">.</g></supplied></item>
+            <item><lb n="C11"/><supplied reason="lost">hu</supplied>mā <gap reason="lost" quantity="1" unit="character"/> kauṅ· <unclear>nan· sā</unclear> jāk· <g type="dotMid">.</g></item> <item>humā <gap reason="lost" quantity="2" unit="character" precision="low"/>  
+            <lb n="C12"/><gap reason="lost" quantity="2" unit="character" precision="low"/></item> 
+            <item>humā <unclear>d</unclear>luṁ <gap reason="lost" quantity="2" unit="character"/> <unclear>sā</unclear> pluḥ limā jāk· ṅan· <gap reason="lost" quantity="2" unit="character" precision="low"/>  
+            <lb n="C13"/><gap reason="lost" quantity="1" unit="character" precision="low"/></item> 
+            <item><unclear>hu</unclear>mā <unclear>dh</unclear>va<unclear>ja</unclear> 9 jāk· <g type="dotMid">.</g></item> 
+            <item>humā luvaur<unclear>·</unclear> dvā jā<unclear>k·</unclear> <gap reason="lost" quantity="1" unit="character" precision="low"/>
+            <lb n="C14"/><gap reason="lost" quantity="1" unit="character" precision="low"/></item> <item>humā vaṁk· <unclear>9</unclear><!-- 8?--> jāk· <g type="dotMid">.</g></item> <item>humā cumvrai l<unclear>imā</unclear> <supplied reason="lost">jāk·</supplied>
+            <lb n="C15"/><gap reason="lost" quantity="1" unit="character" precision="low"/></item> 
+            <item>humā <unclear>k</unclear>rauv·<!-- śrauv?--> dvā· jāk· <g type="dotMid">.</g></item> 
+            <item>humā pulāv· dvā <supplied reason="lost">jāk·</supplied>
+            <lb n="C16"/><gap reason="lost" quantity="1" unit="character" precision="low"/> <unclear>ṅa</unclear>n· canaṅ· likū<gap reason="lost" quantity="2" unit="character"/> saḥ <gap reason="lost" quantity="2" unit="character"/> Andap· <gap reason="lost" quantity="1" unit="character" precision="low"/>
+            <lb n="C17"/><gap reason="lost" quantity="1" unit="character" precision="low"/> <unclear>5</unclear><!-- 4?--> jāk· <g type="dotMid">.</g></item> 
+            <item>humā yavvāṅ· tluv· jāk· <g type="dotMid">.</g></item> <item><gap reason="lost" quantity="2" unit="character" precision="low"/>
+            <lb n="C18"/><gap reason="lost" quantity="1" unit="character" precision="low"/>ṅ· dvā jāk· <g type="dotMid">.</g></item> <item>pagāra <g type="dotMid">.</g></item> 
+            <item><unclear>ran</unclear>dav· <g type="dotMid">.</g></item> <item>humā <unclear>ya</unclear><gap reason="lost" quantity="2" unit="character" precision="low"/>
+            <lb n="C19"/><supplied reason="lost">jā</supplied>k· <g type="dotMid">.</g></item> 
+            <item>humā <unclear>kan</unclear>ī<unclear>sov</unclear>· sā jāk· <g type="dotMid">.</g></item> 
+            <item>humā <gap reason="lost" quantity="1" unit="character" precision="low"/>
+            <lb n="C20"/><gap reason="lost" quantity="1" unit="character" precision="low"/> <unclear>sā</unclear>ṅ· Urāṅ· Aciṅ· sā jāk· <g type="dotMid">.</g></item> 
+            <item>humā <gap reason="lost" quantity="1" unit="character" precision="low"/>
+            <lb n="C21"/><gap reason="lost" quantity="1" unit="character" precision="low"/> dvā jāk· <g type="dotMid">.</g></item> <item>humā <unclear>tuṅ</unclear>· dvā jāk· <g type="dotMid">.</g></item> 
+            <item>hu<supplied reason="lost">mā</supplied> <gap reason="lost" quantity="1" unit="character" precision="low"/>
+            <lb n="C22"/><gap reason="lost" quantity="1" unit="character" precision="low"/>yāṁ dvā jāk· <g type="dotMid">.</g></item> <item>humā <unclear>tumu</unclear><gap reason="lost" quantity="2" unit="character"/>r· <gap reason="lost" quantity="3" unit="character" precision="low"/></item>
+        </list> 
+        </p>
+        <p xml:lang="ocm-Latn"><milestone type="pagelike" unit="face" n="D"/>
+            <lb n="D1"/>y· <unclear>humā</unclear> <supplied reason="lost">yā</supplied>ṅ· <unclear>pov</unclear>· <unclear>ku</unclear> <unclear>śrī</unclear> <gap reason="lost" quantity="2" unit="character"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>e</seg><supplied reason="lost">va</supplied><!-- Indradeva?-->
+            <list>
+            <item><lb n="D2"/><unclear>hu</unclear>mā <gap reason="lost" quantity="2" unit="character"/>t· <gap reason="lost" quantity="3" unit="character"/> <unclear>dvā</unclear><!-- ou sā?--> pluḥ jāk·</item> 
+            <item>hu<supplied reason="lost">mā</supplied>
+            <lb n="D3"/><gap reason="lost" quantity="2" unit="character" precision="low"/> cal· limā jāk· <g type="dotMid">.</g></item> <item>humā tandyāl<unclear>·</unclear>
+            <lb n="D4"/><gap reason="lost" quantity="4" unit="character" precision="low"/>ṅ· pāk· Alauk· sa pluḥ jāk· </item>
+            <item><gap reason="lost" quantity="2" unit="character" precision="low"/>
+            <lb n="D5"/><gap reason="lost" quantity="2" unit="character" precision="low"/> vvat· liṅiv·<!-- liṅit?--> pā<unclear>k</unclear>·<!-- pāt?--> Alauk· dvā pluḥ <unclear>jā</unclear><supplied reason="lost">k·</supplied>
+            <lb n="D6"/><gap reason="lost" quantity="1" unit="character" precision="low"/></item> 
+            <item>humā jalān· rayā tluv· Alauk· sā plu<supplied reason="lost">ḥ</supplied>
+            <lb n="D7"/><supplied reason="lost">jā</supplied>k·</item></list>
+            <unclear>di</unclear> nde<unclear>v</unclear>· rumaṅ· <unclear>A</unclear>luṅ· <unclear>punārā</unclear>k· taṁl· <gap reason="lost" quantity="1" unit="character" precision="low"/>
+            <lb n="D8"/><gap reason="lost" quantity="2" unit="character" precision="low"/> <unclear>nr̥</unclear>ṇeṅ· ṅan· <unclear>dan</unclear>r̥ṇeṅ· tra <g type="dotMid">.</g><list><item>humā <gap reason="lost" quantity="2" unit="character" precision="low"/>
+            <lb n="D9"/><gap reason="lost" quantity="2" unit="character" precision="low"/>· dalapan· Alauk· dvā pluḥ jāk· <g type="danda">.</g></item> 
+            <item>hu<supplied reason="lost">mā</supplied> <gap reason="lost" quantity="1" unit="character" precision="low"/>
+            <lb n="D10"/><gap reason="lost" quantity="4" unit="character" precision="low"/> yāṅ· <unclear>6</unclear> k· <g type="dotMid">.</g> ṅan· <unclear>danauv</unclear>· yāṅ· tra</item></list> <gap reason="lost" quantity="3" unit="character" precision="low"/>
+            <lb n="D11"/><gap reason="lost" quantity="3" unit="character" precision="low"/> rumaṅ· tuṁ tvaṁ <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>u</seg>ṅ·<!-- bhartuṅ?--> taṁl· tupen· li<gap reason="lost" quantity="2" unit="character" precision="low"/><!-- limā?-->
+            <lb n="D12"/><unclear>k·</unclear> <g type="dotMid">.</g>
+            <list>
+            <item>humā vunauk· tluv·<!-- tlun·?--> Alauk· sa plu<supplied reason="lost">ḥ</supplied> jāk·</item>
+            <item><lb n="D13"/>humā <unclear>sau</unclear>ṅ· <unclear>1</unclear>k· <g type="dotMid">.</g></item> 
+            <item>humā <unclear>kasi</unclear><gap reason="lost" quantity="4" unit="character" precision="low"/> <lb n="D14"/><supplied reason="lost">A</supplied>lauk· dalapan· jāk· <g type="dotMid">.</g></item> 
+            <item>humā <unclear>tī</unclear>lin· <unclear>tl</unclear><supplied reason="lost">uv·</supplied>
+            <lb n="D15"/><supplied reason="lost">A</supplied>lauk· sā pluḥ jāk· <g type="dotMid">.</g></item> 
+            <item>humā <unclear>ra</unclear>ṅaul· <gap reason="lost" quantity="3" unit="character" precision="low"/>
+            <lb n="D16"/><gap reason="lost" quantity="1" unit="character" precision="low"/></item> 
+            <item><supplied reason="lost">hu</supplied>mā bhavauṅ·<!-- dhavauṅ?--> naṁ Alauk· 9 k· <g type="dotMid">.</g></item> <item>hu<supplied reason="lost">mā</supplied> <gap reason="lost" quantity="2" unit="character" precision="low"/></item>
+            <item><lb n="D17"/><gap reason="lost" quantity="2" unit="character" precision="low"/> <unclear>nrī</unclear>ñ· dandāṅ· tluv· pluḥ Alauk· <gap reason="lost" quantity="5" unit="character" precision="low"/></item>
+            <item><lb n="D18"/><gap reason="lost" quantity="2" unit="character" precision="low"/> k·</item> 
+            <item>humā ye<gap reason="lost" quantity="2" unit="character"/> 9 k· <g type="dotMid">.</g></item> 
+            <item>hu<supplied reason="lost">mā</supplied> <gap reason="lost" quantity="5" unit="character" precision="low"/>
+            <lb n="D19"/><gap reason="lost" quantity="2" unit="character" precision="low"/></item> 
+            <item>humā daṇduṅ· dalapan· A<unclear>lauk·</unclear> <gap reason="lost" quantity="3" unit="character" precision="low"/>
+            <lb n="D20"/><gap reason="lost" quantity="1" unit="character" precision="low"/></item> 
+            <item><supplied reason="lost">hu</supplied>mā crumvāṁ 6 k· ṅan· dandauv· <gap reason="lost" quantity="5" unit="character" precision="low"/></item>
+            <item><lb n="D21"/><gap reason="lost" quantity="2" unit="character" precision="low"/> dandauv· tlu<gap reason="lost" quantity="2" unit="character"/> 9 Alauk· 6 k·</item>
+            <item><lb n="D22"/><gap reason="lost" quantity="2" unit="character" precision="low"/> tijuḥ jāk· <g type="dotMid">.</g></item> 
+            <item>humā driy<unclear>·</unclear> <gap reason="lost" quantity="2" unit="character" precision="low"/></item></list>
+        </p> 
+         </div>
+         <div type="apparatus">
+            <listApp>
+                <app loc="C11">
+                   <lem><unclear>nan· sā</unclear></lem>
+                   <note>This reading is highly hypothetical.</note>
+                </app>
+               </listApp>
+         </div>
+         <div type="translation">
+ 	<!--translation encoded as per EGD §9.2 -->
+         </div>
+         <div type="commentary">
+            <p>Previously mentionned by Édouard Huber, with edition of l. 7, l. 13 and l. 16-21 of face A. Edited by Arlo Griffiths and Salomé Pichon from the EFEO estampages n. 149 and from photogrammetric documentation in 2022.</p>
+        	<listBibl type="primary">
+				<bibl n="siglum">
+                    <ptr target="bib:Huber1911_01"/>
+               <citedRange unit="page">282-282</citedRange>
+               </bibl>
+			</listBibl>
+             <listBibl type="secondary">
+               <bibl>
+               <ptr target="bib:Huber1911_02"/>
+               <citedRange unit="page">15</citedRange>
+               </bibl>
+               <bibl>
+                 <ptr target="bib:Majumdar1927_01"/>
+                 <citedRange unit="part">3</citedRange>
+                 <citedRange unit="page">175</citedRange>
+                 <citedRange unit="item">67</citedRange>
+               </bibl>
+               <bibl>
+               <ptr target="bib:Golzio2004_01"/>
+               <citedRange unit="page">149</citedRange>
+             </bibl>
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>

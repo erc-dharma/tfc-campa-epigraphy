@@ -493,14 +493,14 @@ Voir le projet de note sous <p n="C28"...
                      <lem>rāja-sanmānāt</lem>
                      <rdg source="bib:Finot1904_01">rājasantānāt</rdg>
                  </app>
-                 <app loc="B3">
-                     <lem>dharmmasya</lem>
-                     <rdg source="bib:Finot1904_01">dharmasya</rdg>
-                 </app>
                  <app loc="B5">
                      <lem>Eva<unclear>m</unclear> yo</lem>
                      <rdg source="bib:Finot1904_01">Eva<unclear>ṁ</unclear> yo</rdg>
                  </app>
+                 <app loc="B5">
+                  <lem>dharmmasya</lem>
+                  <rdg source="bib:Finot1904_01">dharmasya</rdg>
+              </app>
                  <app loc="B14">
                      <lem>-nāvi</lem>
                      <note>Perhaps emend °nāmi (proposed by Diwakar Acharya). The multiple emendations proposed by Majumdar, p. 80 (note) are unnecessary.</note>
@@ -531,7 +531,7 @@ Voir le projet de note sous <p n="C28"...
                  </app>
                  <app loc="B23">
                      <lem>-śva<unclear>ra</unclear><supplied reason="lost">m imam̐</supplied></lem>
-                     <rdg source="bib:Finot1904_01">-śva<unclear>ra</unclear> <supplied reason="undefined"/></rdg>
+                     <rdg source="bib:Finot1904_01">-śva<unclear>ra</unclear> <gap reason="undefined"/></rdg>
                  </app>
                  <app loc="c1">
                      <lem><seg met="====-"><gap reason="lost" quantity="5" unit="character"/></seg><unclear>dha</unclear>rmmārthaṁ</lem>
@@ -558,7 +558,7 @@ Voir le projet de note sous <p n="C28"...
                      <rdg source="bib:Finot1904_01">suvarṇṇaṁ</rdg>
                  </app>
                  <app loc="c28">
-                     <lem><l>ke cit</l><l>nr̥p<supplied reason="lost">ā</supplied>dayo</l></lem>
+                     <lem>ke citnr̥p<supplied reason="lost">ā</supplied>dayo</lem>
                      <note>The stone shows the <foreign>akṣara</foreign> <foreign>tnr̥</foreign> at the <foreign>pāda</foreign> boundary. Or: The engraver has not used a virāma at the end of pāda, but apparently written the akṣara tnr̥, although the estampage is not entirely clear on this point.</note><!-- sapi2argr Deux façons de dire la même chose pour que tu puisses sélectionner.-->
                  </app>
                  <app loc="d5">

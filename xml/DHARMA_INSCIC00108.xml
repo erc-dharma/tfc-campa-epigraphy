@@ -99,14 +99,14 @@
            </lg>
            <lg n="3" met="śārdūlavikrīḍita">
              <l n="a">śakā<unclear>b</unclear>de <lb n="A4"/>śaśi-rūpa-maṅgala-yute maitre ca kīṭa-grahe</l>
-             <l n="b">kumbha-sthe bhr̥guje jhaṣena bhujag<choice><unclear>ai</unclear><unclear>au</unclear></choice><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>e</seg><!--rtf : bhujag(au/ai)C(e/o/au)--> <lb n="A5"/>saura-vāre śubhā</l>
+             <l n="b">kumbha-sthe bhr̥guje jhaṣena bhujag<unclear>ai</unclear><supplied reason="lost">re</supplied><!--rtf : bhujag(au/ai)C(e/o/au)--> <lb n="A5"/>saura-vāre śubhā</l>
              <l n="c" enjamb="yes">sthāpyā tena kumārikāsuragurau nāgendra-saur<choice><unclear>e</unclear><unclear>au</unclear></choice>
              <!--note rtf : c. nāgendrasaur(e/au): nāgendrasaure Huber. L’élément superscrit faisant au a-t-on essayé de l’effacer? (Ajouter à apparatus si lecture -saurau est retenue)--> mahā</l><!--note rtf : c. mahā-: noter forme du hā, autres que celle utilisée en bas pour la même lettre.-->
              <l n="d">de<lb n="A6" break="no"/><unclear>vī</unclear> phālguṇa-nīla-pañca-divase go-lagna Īśa-priyā<g type="ddandaPlain">.</g></l>
            </lg>
            <lg n="4" met="anuṣṭubh">
              <l n="a">śrī-mahāliṅga-devo 'yaṁ</l>
-             <l n="b">sthāpitas tena tat-pituḥ</l>
+             <l n="b"><lb n="A7"/>sthāpitas tena tat-pituḥ</l>
              <l n="c">sthāpitā ca mahādevī</l>
              <l n="d">śrīmatī māturi priyā<g type="ddandaPlain">.</g></l>
            </lg>
@@ -156,9 +156,9 @@
              <lb n="C11"/><supplied reason="lost">jāk·</supplied> <gap reason="illegible" quantity="6" unit="character"/><!--note du rtf : 11. L’encastrement de la pierre ne permet pas de lire la l. 11.-->
              <milestone type="pagelike" unit="face" n="D"/>
              <lb n="D1"/><unclear>ṅa</unclear>n· Avista jeṅ· sār<supplied reason="lost">tuḥ</supplied><!--note du rtf : sār[tuḥ]: reconstitution fondée sur la lecture de Huber. -->
-             <lb n="D2"/>dvā pluḥ sā jāk<supplied reason="lost">·</supplied> <unclear>n</unclear><supplied reason="lost">i</supplied>
-             <lb n="D3" break="no"/>y· devadvāra ta<unclear>ṁ</unclear>l· va<gap reason="illegible" quantity="1" unit="character"/>
-             <lb n="D4"/><supplied reason="lost">po</supplied>v· vruv· humā ṅan·
+             <lb n="D2"/>dvā pluḥ sā jāk<supplied reason="lost">·</supplied> <unclear>na</unclear><supplied reason="lost">ri</supplied>
+             <lb n="D3" break="no"/>y·<!-- ou niy?--> devadvāra ta<unclear>ṁ</unclear>l· va<gap reason="lost" quantity="1" unit="character"/>
+             <lb n="D4"/><gap reason="lost" quantity="1" unit="character"/>v· vruv· humā ṅan·
              <lb n="D5"/><supplied reason="lost">d</supplied><unclear>i</unclear>nan·<!-- note du rtf : nan: omis par Huber. Noter le trait au dessus et avant le 1er n. Le lire ?--> Avista kā yā<supplied reason="lost">ṅ·</supplied>
              <lb n="D6"/><supplied reason="lost">po</supplied>v· ku śrī jaya Indra<lb
              n="D7" break="no"/><supplied reason="lost">va</supplied>rmma vuḥ di yāṁ pu po<supplied reason="lost">v·</supplied>
@@ -191,7 +191,7 @@
                       après vérification, il ne semble nulle part être question de ghaṭenagrahe (ghaṭa-ina-grahe)-->
                  </app>
                  <app loc="A4">
-                     <lem>jhaṣena bhujag<choice><unclear>ai</unclear><unclear>au</unclear></choice><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>e</seg></lem>
+                     <lem>jhaṣena bhujag<unclear>ai</unclear><supplied reason="lost">re</supplied></lem>
                      <rdg source="bib:Huber1911_01"><seg met="-+-"><gap reason="illegible" quantity="3" unit="character"/></seg> bhujagair <seg met="+"><gap reason="illegible" quantity="1" unit="character"/></seg> sauravāre</rdg>
                  </app>
                  <app loc="A7">
@@ -199,8 +199,8 @@
                      <rdg source="bib:Huber1911_01">māt<choice><sic>u</sic><corr>a</corr></choice>ri</rdg>
                  </app>
                  <app loc="A10">
-                     <lem>śr̥<lb n="A11" break="no"/><unclear>ṇu</unclear>yu<choice><sic>ḥ</sic><corr>r</corr></choice> vacanam</lem>
-                     <rdg source="bib:Huber1911_01">śr̥<lb n="A11" break="no"/>ṇuyuḥ vacanam</rdg>
+                     <lem>śr̥<unclear>ṇu</unclear>yu<choice><sic>ḥ</sic><corr>r</corr></choice></lem>
+                     <rdg source="bib:Huber1911_01">śr̥ṇuyuḥ</rdg>
                  </app>
                  <app loc="A11"><!-- argr2sapi: maybe just hide this entry -->
                      <lem>paramārthaṁ</lem>
@@ -211,7 +211,7 @@
                  </app>
                  <app loc="B6">
                      <lem>kūñ·</lem>
-                     <rdg source="bib:Huber1911_01">klūñ·</rdg>
+                     <rdg source="bib:Huber1911_01">klūñ</rdg>
                  </app>
                  <app loc="B6">
                     <lem>vañāk·</lem>
@@ -226,29 +226,29 @@
                      <rdg source="bib:Huber1911_01">po</rdg>
                  </app>
                  <app loc="B9">
-                     <lem>pu pov· tana <supplied reason="omitted">ra</supplied>yā sthirarājya <supplied reason="lost">hu</supplied></lem>
-                     <rdg source="bib:Huber1911_01">pu pov· tana yā sthira<gap reason="illegible" quantity="2" unit="character"/> <supplied reason="lost">hu</supplied></rdg>
+                     <lem><supplied reason="omitted">ra</supplied>yā sthirarājya <supplied reason="lost">hu</supplied></lem>
+                     <rdg source="bib:Huber1911_01">yā sthira<gap reason="illegible" quantity="2" unit="character"/> <supplied reason="lost">hu</supplied></rdg>
                  </app>
                  <app loc="B11">
                      <lem>vvac·</lem>
                      <rdg source="bib:Huber1911_01">dhvac·</rdg>
-                     <note>It could be a -dh, but most likely it is a -v, just like in <ref target="DHARMA_INSCIC00108.xml">C. 108</ref></note>
+                     <note>It could be a -dh, but most likely it is a -v, just like in <ref target="DHARMA_INSCIC00106.xml">C. 106</ref></note>
                  </app>
                  <app loc="B11">
                      <lem>caṁk·</lem>
-                     <rdg source="bib:Huber1911_01">cak·</rdg>
+                     <rdg source="bib:Huber1911_01">cak</rdg>
                  </app>
                  <app loc="B12">
                      <lem>tūpen·</lem>
-                     <rdg source="bib:Huber1911_01">tupen·</rdg>
+                     <rdg source="bib:Huber1911_01">tupen</rdg>
                  </app>
                  <app loc="B12">
                      <lem>huluv·</lem>
-                     <rdg source="bib:Huber1911_01">haluv·</rdg>
+                     <rdg source="bib:Huber1911_01">haluv</rdg>
                  </app>
                  <app loc="C9">
                      <lem>tūpaṅ·</lem>
-                     <rdg source="bib:Huber1911_01">tupaṅ·</rdg>
+                     <rdg source="bib:Huber1911_01">tupaṅ</rdg>
                  </app>
                  <app loc="C10">
                      <lem>kayauv· naṁ</lem>
@@ -259,10 +259,10 @@
                     <rdg source="bib:Huber1911_01"><gap reason="undefined"/></rdg>
                     <note>The embedding of the stone does not allow l. C11 to be read.</note>
                 </app>
-                 <app loc="D2">
-                     <lem>niy·</lem>
-                     <rdg source="bib:Huber1911_01">nariy</rdg>
-                 </app>
+                <app loc="D3">
+                    <lem>ta<unclear>ṁ</unclear>l· va<gap reason="lost" quantity="2" unit="character"/>v·</lem>
+                    <rdg source="bib:Huber1911_01">tal <gap reason="undefined"/></rdg>
+                </app>
                  <app loc="D7">
                      <lem>yāṁ</lem>
                      <rdg source="bib:Huber1911_01">yā</rdg>
@@ -313,7 +313,7 @@
            <item>la rizière Kayauv : six <foreign>jāk</foreign> <gap reason="illegible" quantity="6" unit="character"/></item>
         </list>
            </p>
-           <p n="D1-D7"><!-- LA FACE D EST A REVOIR -->Et toutes font cent-vingt-et-un <foreign>jāk</foreign>. Ici le <foreign>devadvāra</foreign> atteint Va<gap reason="illegible" quantity="1" unit="character"/> du <foreign>pov</foreign> nouveau<!-- sapi2argr ? vruv pourrait avoir un lien avec baruv: neuf, nouveau, récent ; non, non pas ; alors (au début des phrases); gaḥ barūv : au delà (A&C, p. 328). -->, la rizière avec ceci <supplied reason="explanation"><foreign>naṅ dinan</foreign></supplied>. Tout cela le roi <supplied reason="explanation"><foreign>yāṅ pov ku</foreign></supplied> Śrī Jaya Indravarman l'a déjà offert au dieu <supplied reason="explanation"><foreign>yāṁ pu pov</foreign></supplied>.
+           <p n="D1-D7"><!-- LA FACE D EST A REVOIR -->Et toutes font cent-vingt-et-un <foreign>jāk</foreign>. Depuis le devadvāra jusqu’à Va<gap reason="illegible" quantity="2" unit="character"/> à côté de la rizière<!-- sapi2argr ? vruv pourrait avoir un lien avec baruv: neuf, nouveau, récent ; non, non pas ; alors (au début des phrases); gaḥ barūv : au delà (A&C, p. 328). -->, savec ceci <supplied reason="explanation"><foreign>naṅ dinan</foreign></supplied>. Tout cela le roi <supplied reason="explanation"><foreign>yāṅ pov ku</foreign></supplied> Śrī Jaya Indravarman l'a déjà offert au dieu <supplied reason="explanation"><foreign>yāṁ pu pov</foreign></supplied>.
            </p>
          </div>
          <div type="commentary">

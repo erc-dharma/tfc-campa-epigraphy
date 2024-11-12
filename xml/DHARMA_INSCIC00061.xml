@@ -92,7 +92,34 @@
                 <lb n="A01"/><g type="circleConcentricOval"/> <unclear><g type="ddanda"/></unclear> Oṁ namaś śivāya
                 <lb n="A1"/>X yata str(ī) XX(ṇda) C(u)mā CuC(ca) XXXXX Cyasa(n)rV
                 <lb n="A2"/>yaḥ <g type="dotMid">.</g> v(ara)pranāṁ yasmātaṁ (mata)tmaX śivāya tasmau (praname) XXXbhiḥ <g type="ddanda">.</g>
+
+            <lb n="A11"/>............. <g type="floretQuatrefoil">.</g> tadāpi yasya pu<unclear>ṇe</unclear>XX
+            <lb n="A12"/>X candradeveśvarāhvaye varakīrttyāhvayaXXXkṣe  <unclear><g type="dotMid">.</g></unclear> kṣetrāṇyatiXX
+            <lb n="A13"/>X Api ca <g type="floretQuatrefoil">.</g> kṣoṇi-patiś śrī-jayasiṁhavarmmadevas samā(ptāj)yadigo XX
+            <lb n="A14"/>Xbhiḥ rāja(ṁ) śrīyaṁ rāja-gu(ṇona)yena<!-- sapi2argr ou: guṇena yena ?  guṇau nayena ?--> XXX śrī nicayā(m·) rakṣīt(·)
+            <lb n="A15"/>XXkāsi nr̥pā jñā supratipatti-prayatnasevā(k)aḥ dhīrā(ś)radh(ī)racauXX
+            <lb n="A16"/>XXmāsyati gacchati sma punaḥ <g type="floretQuatrefoil">.</g>
             </p>
+            <lg n="1" met="indravajrā">
+                <l n="a">pañcadvikāyopagate śakābde</l>
+                <l n="b"><lb n="A17"/><seg met="++-"><gap reason="illegible" quantity="3" unit="character"/></seg>dhānena bhuvi svakīrttyai <g type="dotMid">.</g></l>
+                <l n="c">yena pratiṣṭhāpita Īśvaro yaṁ</l>
+                <l n="d">śrī śankare<supplied reason="lost">śā</supplied><lb n="A18"/>hva sa eva bhūyaḥ <g type="floretQuatrefoil">.</g></l>
+              </lg>
+            <lg n="2" met="anuṣṭubh">
+                <l n="a">śrī jayasiṁhavarmmā śrī</l>
+                <l n="b">śaṅkareśe narādhipaḥ</l>
+                <l n="c" enjamb="yes"><lb n="A19"/><seg met="==="><gap reason="illegible" quantity="3" unit="character"/></seg>triñ ca śaṅkhañ cā</l>
+                <l n="d">dād raupyaṁ kalaśan tathā<g type="floretQuatrefoil">.</g></l>
+              </lg>
+            <lg n="3" met="upajāti">
+                <l n="a">yasyānujā śrī jaya<seg met="+-"><gap reason="illegible" quantity="2" unit="character"/></seg><lb n="A20"/><supplied reason="lost">va</supplied>rmmā</l>
+                <l n="b">vanīśa-bhāryyā pariśuddhabhāvā <g type="dotMid">.</g></l>
+                <l n="c">sādhvī danāy gopure<supplied reason="lost">śvar</supplied><seg met="+="><gap reason="illegible" quantity="2" unit="character"/></seg></l>
+                <l n="d"><lb n="A21"/><seg met="+"><gap reason="illegible" quantity="1" unit="character"/></seg>ṣṭyeva bhātīha surendradevī <g type="floretQuatrefoil">.</g></l>
+              </lg>
+
+
             <p><milestone type="pagelike" unit="face" n="B"/><gap reason="lost" quantity="21" unit="line" precision="low"/></p>
             <p xml:lang="ocm-Latn"><milestone type="pagelike" unit="face" n="C"/>
             <lb n="C1"/><gap reason="lost" quantity="14" unit="character" precision="low"/>
@@ -181,6 +208,20 @@
          </div>
          <div type="apparatus">
             <listApp>
+                <app loc="A17">
+                    <lem>śankare<supplied reason="lost">śā</supplied>hva</lem>
+                    <rdg source="bib:Huber1911_01">śankareśāhva</rdg>
+                    <note>The syllable <foreign>śā</foreign> transcribed by Huber cannot be read on the stela nor the estampages.</note>
+                </app>
+                <app loc="A20">
+                    <lem><supplied reason="lost">va</supplied>rmmā</lem>
+                    <rdg source="bib:Huber1911_01"><supplied reason="lost">varmmā</supplied><seg met="+"><gap reason="illegible" quantity="1" unit="character"/></seg></rdg>
+                </app>
+                <app loc="A20">
+                    <lem>gopure<supplied reason="lost">śvar</supplied><seg met="+="><gap reason="illegible" quantity="2" unit="character"/></seg></lem>
+                    <rdg source="bib:Huber1911_01">gopureśvar<gap reason="undefined"/></rdg>
+                    <note>The last syllable <foreign>śvar</foreign> transcribed by Huber cannot be read on the stela nor the estampages.</note>
+                </app>
                 <app loc="C11">
                    <lem><unclear>nan· sā</unclear></lem>
                    <note>This reading is highly hypothetical.</note>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Mỹ fragment (C. 226), 9th C. Śaka</title>
+                <respStmt>
+                <resp>EpiDoc Encoding</resp>
+                <persName ref="part:sapi">
+                   <forename>Salomé</forename>
+                   <surname>Pichon</surname>
+                </persName>
+             </respStmt>
+                <respStmt>
+                  <resp>intellectual authorship of edition</resp>
+                  <persName ref="part:argr">
+                     <forename>Arlo</forename>
+                     <surname>Griffiths</surname>
+                  </persName>
+                  <persName ref="part:sapi">
+                     <forename>Salomé</forename>
+                     <surname>Pichon</surname>
+                  </persName>
+               </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSCIC00227</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Arlo Griffiths &amp; Salomé Pichon.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>The lettering is characteristic of the ninth and tenth centuries CE.</p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:sapi" when="2024-11-18" status="draft">Initial encoding of the inscription</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83213">
+            <p><milestone type="pagelike" unit="face" n="A"/>
+                <lb n="A1"/>po<supplied reason="lost">m̃</supplied> ku sa <gap reason="lost" extent="unknown" unit="character"/>
+                <lb n="A2"/>top· dravya yām̃ pu pom̃ ku siniy· si <gap reason="lost" extent="unknown" unit="character"/>
+                <lb n="A3"/>top· humā yām̃ dandau yām̃ krauṅ· vaṁk· prauk· yām̃ <gap reason="lost" extent="unknown" unit="character"/>
+                <lb n="A4"/>dlai yām̃ top· Aṭul· top· sulā supā<unclear>y·</unclear> <gap reason="lost" extent="unknown" unit="character"/>
+                <lb n="A5"/>dlai dyā sulā supāy· ndop· kaIn· ne<gap reason="lost" extent="unknown" unit="character"/>
+                <lb n="A6"/>siy· Urām̃ pamataḥ<!--sapi2argr: ou samataḥ ?  --> matandās· niy· <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">aso</supplied>
+                <lb n="A7"/>v· vañāk· hitaṁ putiḥ <gap reason="lost" extent="unknown" unit="character"/>
+                <lb n="A8"/><gap reason="lost" quantity="1" unit="character"/> Urāṅ· nan· <gap reason="lost" extent="unknown" unit="character"/>
+            </p>
+            <p><milestone type="pagelike" unit="face" n="B"/>
+                <lb n="B1"/><gap reason="lost" extent="unknown" unit="character"/> humā
+                <lb n="B2"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>vi</unclear>hāra trā
+                <lb n="B3"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>ya</unclear> doṃ di vāyavya sā
+                <lb n="B4"/><gap reason="lost" extent="unknown" unit="character"/> dauk· kadyaṅ· humā <unclear>va</unclear>
+                <lb n="B5"/><gap reason="lost" extent="unknown" unit="character"/> cal· sulauṅ· humā <unclear>d</unclear>i <unclear>ka</unclear>
+                <lb n="B6"/><gap reason="lost" extent="unknown" unit="character"/> yām̃ <unclear>pamataḥ</unclear><!--sapi2argr ou samataḥ--> h<unclear>u</unclear>mā yām̃ pu
+                <lb n="B7"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>va</unclear>ñāk· hitaṁ putiḥ sa
+                <lb n="B8"/><gap reason="lost" extent="unknown" unit="character"/> di naraka avīci madyān· <unclear>ga</unclear>
+                <lb n="B9"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">Urā</supplied>ṅ· nan· dauk· di naraka Avista la
+                <lb n="B10"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>c</unclear>iy· humā lu<unclear>v</unclear><supplied reason="lost">uk</supplied><unclear>·</unclear> <gap reason="lost" extent="unknown" unit="character"/>
+                <lb n="B11"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>ticcau A</unclear> <gap reason="lost" extent="unknown" unit="character"/>
+                <lb n="B12"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>n</unclear>āya <gap reason="lost" extent="unknown" unit="character"/>
+            </p>
+         </div>
+         <div type="apparatus">
+            <listApp>
+                <app loc="B6">
+                    <lem><unclear>pamataḥ</unclear></lem>
+                    <rdg source="Griffiths+al2012_01"><gap reason="lost" quantity="3" unit="character"/></rdg>
+                 </app>
+                 <app loc="B11">
+                    <lem><unclear>ticcau A</unclear></lem>
+                    <rdg source="Griffiths+al2012_01"><unclear>ticcau</unclear></rdg>
+                 </app>
+               </listApp>
+         </div>
+         <div type="translation" source="bib:Griffiths+al2012_01">
+            <p n="A1-A8"><gap reason="lost" extent="unknown" unit="character"/> my lord <gap reason="lost" extent="unknown" unit="character"/> destroy the property of my lord the god of this place <gap reason="lost" extent="unknown" unit="character"/> destroy the rice-fields of the god, the ponds of the god, the dikes and the <foreign>prauk</foreign><note><foreign>prauk</foreign>: in this context, the sense of this word (which elsewhere means ‘squirrel’ or ‘divinities, spirits, ancestors’) still eludes us.</note> of the god <gap reason="lost" extent="unknown" unit="character"/> forest<note><foreign>dlai</foreign>: this inscription yields some of the few attested cases of the word <foreign>dlai</foreign>, which seems to be the older form of the word that later became <foreign>glai</foreign>, as seen in numerous Cam inscriptions of later centuries, and still used in the modern Cam language. An example of a related sound change is seen in the word <foreign>tluv</foreign>, observed in some inscriptions of the first millennium, where it means ‘three’, and which obviously constitutes an etymologically more authentic form of the word that became and still is <foreign>klov</foreign>. Cf. also the word <foreign>draṁ</foreign>/<foreign>graṁ</foreign>, as discussed in this catalog under <ref target="DHARMA_INSCIC00150.xml">C. 150</ref>, pp. 235–236 and <ref target="DHARMA_INSCIC00043.xml">C. 43</ref>, p. 216 n. 73.</note> of the god, destroy the <foreign>aṭul</foreign>,<note>aṭul·: one could possibly read <foreign>aṅul</foreign>·. Either way, the word is unknown to us</note> destroy the leaves<note><foreign>sulā</foreign>: possibly to be translated rather as ‘wood chip'.</note> of the Supāy <supplied reason="subaudible">trees</supplied><note><foreign>supāy</foreign>: our supposition that this denotes some kind of tree is a pure contextual guess.</note> <gap reason="lost" extent="unknown" unit="character"/>, forest <foreign>dyā</foreign><note><foreign>dyā</foreign>: we do not know such a word. Possibly emend <foreign>vyā</foreign>?</note> leaves of the Supāy <supplied reason="subaudible">trees?</supplied>, <foreign>ndop</foreign><note><foreign>ndop</foreign>·: this is the only occurrence of this word in the entire corpus, and the word is not recorded in the available Cam dictionaries. We only find the form <foreign>mandop</foreign>, probably derived from base <foreign>ndop</foreign> by prefix <foreign>ma</foreign>-, in <ref target="DHARMA_INSCIC00108.xml">C. 108</ref>, face B, l. 5: <foreign>vr̥liy urāṅ mandop sarvvākarādāna du yāṅ pov mahāliṅga</foreign>. <bibl rend="omitname"><ptr target="bib:Huber1911_01"/><citedRange unit="page">276</citedRange></bibl> translated this “si un homme détruit les biens du dieu Mahāliṅga”. If this translation is correct, then <foreign>mandop</foreign> would mean ‘destroy’ and the base <foreign>ndop</foreign> would be a synonym of the word top that is repeatedly used in this inscription. But Huber gives no arguments and his proposal seems to us rather unlikely to be correct (among other reasons because <foreign>sarvvākarādāna</foreign> can hardly mean ‘goods’).</note> the cloth<note><foreign>kaIn</foreign>: this is very likely the same as the word <foreign>kain</foreign> in Malay, which was likewise spelled <foreign>kaIn</foreign> in Old Malay (cf. <bibl rend="omitname"><ptr target="bib:Griffiths2011_01"/><citedRange unit="page">148</citedRange></bibl>). It is found once elsewhere in Cam inscriptions, in <ref target="DHARMA_INSCIC00108.xml">C. 106</ref>, face A, l. 11, but was not recognized by the editor <bibl rend="omitname"><ptr target="bib:Finot1904_01"/><citedRange unit="page">101</citedRange></bibl>, who separated <foreign>ka in</foreign> (and did not translate).</note> <gap reason="lost" extent="unknown" unit="character"/> whichever man breaks or annuls this <supplied reason="subaudible">grant</supplied> <gap reason="lost" extent="unknown" unit="character"/> many black and white dogs <supplied reason="subaudible">visit</supplied> <gap reason="lost" extent="unknown" unit="character"/> that man <gap reason="lost" extent="unknown" unit="character"/><note><foreign>hitaṁ putiḥ … urāṅ nan</foreign>: these words are found in other inscriptions too, always with the word <foreign>asov</foreign> ‘dog’, and are a typical part of the admonitory formulas. Dreadful black and white dogs will visit him who does not respect the grant. From other inscriptions, one expects <foreign>inā urāṅ nan</foreign> ‘that man’s mother’, for it is usually she who will be the victim of her son’s wrongdoings, but it seems impossible to read (<foreign>i</foreign>)<foreign>nā</foreign> at the beginning of line 8.</note></p>
+            <p n="B1-B12"><gap reason="lost" extent="unknown" unit="character"/> rice-field <gap reason="lost" extent="unknown" unit="character"/> monastery too <gap reason="lost" extent="unknown" unit="character"/> all that is in the north-west, one <gap reason="lost" extent="unknown" unit="character"/> resides at Kadyaṅ. Rice-field <gap reason="lost" extent="unknown" unit="character"/> Sulauṅ. Rice-field at <gap reason="lost" extent="unknown" unit="character"/> god <gap reason="lost" extent="unknown" unit="character"/>. Rice-field of his highness <gap reason="lost" extent="unknown" unit="character"/> many black and white <supplied reason="subaudible">dogs visit</supplied> <gap reason="lost" extent="unknown" unit="character"/> in the hell Avīci <foreign>madyān</foreign> <gap reason="lost" extent="unknown" unit="character"/> that man will reside in all hells <gap reason="lost" extent="unknown" unit="character"/> rice-field Luvuk <gap reason="lost" extent="unknown" unit="character"/></p> 
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+        <div type="bibliography">
+	        <p>First edited with translation into English by Arlo Griffiths et al. (<bibl rend="omitname"><ptr target="bib:Griffiths+al2012_01"/><citedRange unit="page">273-275</citedRange></bibl>). The inscription is re-edited here by Salomé Pichon based the EFEO estampages n. 2077 and n. 2078.</p>
+        <listBibl type="primary">
+      <bibl n="G"><!--sapi2argr quel sigle ici ?-->
+      <ptr target="bib:Griffiths+al2012_01"/>
+      <citedRange unit="page">273-275</citedRange>
+      </bibl>
+      </listBibl>
+           <listBibl type="secondary">
+              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>

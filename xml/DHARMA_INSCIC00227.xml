@@ -129,7 +129,7 @@
             <p n="B1-B12"><gap reason="lost" extent="unknown" unit="character"/> rice-field <gap reason="lost" extent="unknown" unit="character"/> monastery too <gap reason="lost" extent="unknown" unit="character"/> all that is in the north-west, one <gap reason="lost" extent="unknown" unit="character"/> resides at Kadyaṅ. Rice-field <gap reason="lost" extent="unknown" unit="character"/> Sulauṅ. Rice-field at <gap reason="lost" extent="unknown" unit="character"/> god <gap reason="lost" extent="unknown" unit="character"/>. Rice-field of his highness <gap reason="lost" extent="unknown" unit="character"/> many black and white <supplied reason="subaudible">dogs visit</supplied> <gap reason="lost" extent="unknown" unit="character"/> in the hell Avīci <foreign>madyān</foreign> <gap reason="lost" extent="unknown" unit="character"/> that man will reside in all hells <gap reason="lost" extent="unknown" unit="character"/> rice-field Luvuk <gap reason="lost" extent="unknown" unit="character"/></p> 
          </div>
          <div type="commentary">
-            <!--commentary encoded as per section §9.3 -->
+            <p>The fragment bearing C. 227 shows text on two faces and is nicely readable, but given the fragmentary state, with not a single line completely preserved, it is nearly impossible to extract any coherent sense out of it. Things are even worse for C. 228 (which is virtually unreadable on the estampages), and the same seems to be true for C. 229, which is illegible on photos and for which we do not have any estampage at all. For this reason, the remainder of this entry will deal only with C. 227</p>
          </div>
         <div type="bibliography">
 	        <p>First edited with translation into English by Arlo Griffiths et al. (<bibl rend="omitname"><ptr target="bib:Griffiths+al2012_01"/><citedRange unit="page">273-275</citedRange></bibl>). The inscription is re-edited here by Salomé Pichon based the EFEO estampages n. 2077 and n. 2078.</p>
@@ -140,7 +140,10 @@
       </bibl>
       </listBibl>
            <listBibl type="secondary">
-              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+            <bibl>
+            <ptr target="bib:Griffiths+al2008-2009_01"/>
+            <citedRange unit="page">454</citedRange>
+        </bibl>
            </listBibl>
         </div>
       </body>

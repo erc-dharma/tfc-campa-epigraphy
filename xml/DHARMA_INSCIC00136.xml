@@ -11,27 +11,27 @@
             <title>Pedestal from Dưỡng Mông</title>
             <respStmt>
                <resp>EpiDoc Encoding</resp>
-               <persName ref="part:sapi">
-                  <forename>Salomé</forename>
-                  <surname>Pichon</surname>
-               </persName>
-            </respStmt>
-            <respStmt>
-               <resp>intellectual authorship of edition</resp>
                <persName ref="part:argr">
                   <forename>Arlo</forename>
                   <surname>Griffths</surname>
                </persName>
-               <persName ref="part:sapi">
-                  <forename>Salomé</forename>
-                  <surname>Pichon</surname>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:dogo">
+                  <forename>Dominic</forename>
+                  <surname>Goodall</surname>
+               </persName>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffths</surname>
                </persName>
             </respStmt>
             <respStmt>
                <resp>Conversion of encoding for DHARMA</resp>
-               <persName ref="part:sapi">
-                  <forename>Salomé</forename>
-                  <surname>Pichon</surname>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffths</surname>
                </persName>
             </respStmt>
          </titleStmt>
@@ -46,7 +46,7 @@
                         https://creativecommons.org/licenses/by/4.0/ or send a letter to
                         Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                         California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Arlo Griffiths and Salomé Pichon.</p>
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -130,30 +130,49 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change when="2024-11-19" who="part:argr" status="draft">manual fine-tuning</change>
          <change when="2020-09-14" who="part:axja" status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <graphic url="C0136_1_AG_2009.jpg">
-         <desc>Photograph, with scale, showing the stone bearing inscription <ptr/> in three-quarter view. Taken in the Hanoi Museum by Arlo Griffiths on .
-           <!-- AG: this manner of noting <date> does not yet do what we want. --></desc>
+         <desc>Photograph, with scale, showing the stone bearing inscription <ptr/> in three-quarter view. Taken in the Hanoi Museum by Arlo Griffiths on .</desc>
       </graphic>
       <graphic url="EFEOB-est.n0160.jpg">
          <desc>Photograph of EFEO estampage n. 160.</desc>
       </graphic>
    </facsimile>
    <text xml:space="preserve"><body><div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:83213">
-            <ab>
-               <lb n="1"/>idaṁ bhagavata<unclear>ḥ</unclear> puruṣottamasya viṣṇor
-anādinidhanasyāśeṣabhuvana<lb break="no" n="2"/>guroḥ pūjāsthānam· śrīprakāśadharmmaṇā kāritam· <g>||</g> <g type="fleuron"/>
-             </ab>
-           </div><div type="apparatus"><listApp><app loc="2"><lem>°sthānam·</lem><rdg source="bib:Huber1911_01">°sthānaṁ</rdg></app></listApp></div><div type="translation"><p>This place of worship of lord Viṣṇu, the Puruṣottama, without beginning or end, who is the teacher of all worlds, has been made to the order of Śrī Prakāśadharman.</p></div><div type="commentary"><p>The inscription is in prose. It seems to be the only prose inscription issued under Vikrāntavarman-Prakāśadharman. The epithets of Viṣṇu seen here may he compared to those seen in <ref target="DHARMA_INSCIC00173.xml">C. 173</ref>.</p></div>
+      <p>
+         <lb n="1"/>Idaṁ bhagavata<unclear>ḥ</unclear> puruṣottamasya viṣṇor
+anādi-nidhanasyāśeṣa-bhuvana<lb break="no" n="2"/>guroḥ pūjā-sthānam· śrī-prakāśadharmmaṇā kāritam· <g type="ddanda"/> <g type="gomūtraFinal"/>
+      </p>
+      </div>
+           <div type="apparatus">
+            <listApp>
+               <app loc="2">
+                  <lem>-sthānam·</lem>
+                  <rdg source="bib:Huber1911_01">°sthānaṁ</rdg>
+               </app>
+            </listApp>
+         </div>
+         <div type="translation" resp="part:dogo part:argr">
+            <p>This place of worship <supplied reason="explanation"><foreign>pūjā-sthāna</foreign></supplied><note>This term occurs also in <ref target="DHARMA_INSCIC00079.xml">C. 79</ref> and <ref target="DHARMA_INSCIC00173.xml">C. 173</ref>.</note> of Lord Viṣṇu, the Supreme Man <supplied reason="explanation"><foreign>puruṣottama</foreign></supplied>, without beginning or end, who is the teacher of all worlds, has been made to the order of Śrī Prakāśadharman.</p>
+         </div>
+         <div type="commentary">
+            <p>The inscription is in prose. It seems to be the only prose inscription issued under Vikrāntavarman-Prakāśadharman. The epithets of Viṣṇu seen here may he compared to those seen in <ref target="DHARMA_INSCIC00173.xml">C. 173</ref>.</p>
+         </div>
            <div type="bibliography">
-             <p>First published, with French translation, in <bibl><ptr target="bib:Huber1911_01"/><citedRange unit="page">262</citedRange></bibl> whence, with English translation, in <bibl><ptr target="bib:Majumdar1985_01"/><citedRange unit="page">15</citedRange></bibl>; whence <bibl><ptr target="bib:Golzio2004_01"/><citedRange unit="page">10-11</citedRange></bibl> Re-edited from the inked EFEO estampage, with new translation, in <bibl><ptr target="bib:Goodall+Griffiths2013_01"/><citedRange unit="page">429</citedRange></bibl>, whence the present edition.</p>
-             <listBibl type="primary"><bibl/></listBibl>
+             <p>First published, with French translation, in <bibl><ptr target="bib:Huber1911_01"/></bibl> whence, with English translation, in <bibl><ptr target="bib:Majumdar1985_01"/></bibl>; whence <bibl><ptr target="bib:Golzio2004_01"/></bibl>. Re-edited from the inked EFEO estampage, with new translation, in <bibl><ptr target="bib:Goodall+Griffiths2013_01"/><citedRange unit="page">429</citedRange></bibl>, whence the present edition.</p>
+             <listBibl type="primary">
+               <bibl n="ECIC"><ptr target="bib:Goodall+Griffiths2013_01"/><citedRange unit="page">429</citedRange></bibl>
+            </listBibl>
              <listBibl type="secondary">
                <bibl><ptr target="bib:Finot1915_01"/><citedRange unit="page">17</citedRange></bibl>
                <bibl><ptr target="bib:Parmentier1919_01"/><citedRange unit="page">587</citedRange></bibl>
-               <bibl n="ECIC-III"><ptr target="bib:Griffiths+al2008-2009_01"/><citedRange unit="page">447</citedRange></bibl>
-             </listBibl></div></body></text>
+               <bibl><ptr target="bib:Griffiths+al2008-2009_01"/><citedRange unit="page">447</citedRange></bibl>
+             </listBibl>
+            </div>
+         </body>
+      </text>
 </TEI>

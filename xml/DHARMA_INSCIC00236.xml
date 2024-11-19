@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Mỹ fragment (C. 236), 9th century Śaka</title>
+                <respStmt>
+                <resp>EpiDoc Encoding</resp>
+                <persName ref="part:sapi">
+                   <forename>Salomé</forename>
+                   <surname>Pichon</surname>
+                </persName>
+             </respStmt>
+                <respStmt>
+                  <resp>intellectual authorship of edition</resp>
+                  <persName ref="part:argr">
+                     <forename>Arlo</forename>
+                     <surname>Griffiths</surname>
+                  </persName>
+                  <persName ref="part:sapi">
+                     <forename>Salomé</forename>
+                     <surname>Pichon</surname>
+                  </persName>
+               </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSCIC00236</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Arlo Griffiths &amp; Salomé Pichon.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>The lettering is characteristic of the ninth and tenth centuries CE.</p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:sapi" when="2024-11-18" status="draft">Initial encoding of the inscription</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+        <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:83213">
+            <div type="textpart" subtype="zone" n="A3"><p>gni</p></div><!--sapi2argr la division en textpart est-elle juste ?-->
+            <div type="textpart" subtype="zone" n="A5"><p>Ī</p></div>
+         </div>
+         <div type="apparatus">
+               <listApp>
+                  <app loc="line">
+                     <lem></lem>
+                     <rdg source="bib:AuthorYear_01"></rdg>
+                  </app>
+               </listApp>
+         </div>
+         <div type="translation" source="bib:Griffiths+al2012_01">
+            <p>Southeast<note>The block showing the temporary mark A3 in the photo is engraved with the syllable <foreign>gni</foreign>. This is an abbreviation of <foreign>agni</foreign>(<foreign>dik</foreign>), that is the guardian deity of the Southeast, Agni, or the direction (<foreign>dik</foreign>) that he oversees.</note></p>
+            <p>Northeast<note>The block showing the temporary mark A5 bears the syllable <note>ī</note>. This is an abbreviation of <foreign>īśāna</foreign>(<foreign>dik</foreign>), that is the guardian deity of the Northeast, Īśāna, or the direction (<foreign>dik</foreign>) that he oversees.</note></p>
+         </div>
+         <div type="commentary">
+           <p>The altar was transported from the site and recomposed in the Museum in 1934. During the recent restoration, in 2007, it was observed that at least two of the component parts of the altar are marked by signs. These signs, engraved on the blocks whose position corresponds roughly to that of the letters I and G in Guillon’s groundplan, are currently no longer visible, as the altar has been reassembled. But luckily Bertrand Porte, who was in charge of the restoration on behalf of EFEO, took photos. In a recent publication we were still hesitant whether these signs are definitely writing, but we have since observed similar (unpublished) short inscriptions on elements of pedestals lying on the ground in front of monument E7 at Mỹ Sơn, and can now confidently interpret the two signs as follows.</p>
+           <p>These two syllables are without doubt intended to aid the foreman or his workers in correctly assembling the blocks, by providing their orientation: the staircase has to be oriented between Southeast and Northeast, or, in other words, towards the East. The signs were not meant to be visible anymore after assembly of the altar, being covered up by a higher level of blocks.</p>
+         </div>
+        <div type="bibliography">
+            <p>First edited with translation into English by Arlo Griffiths et al. (<bibl rend="omitname"><ptr target="bib:Griffiths+al2012_01"/><citedRange unit="page">281-282</citedRange></bibl>).</p>
+            <listBibl type="primary">
+          <bibl n="CIC">
+          <ptr target="bib:Griffiths+al2012_01"/>
+          <citedRange unit="page">281-282</citedRange>
+          </bibl>
+          </listBibl>              
+           <listBibl type="secondary">
+            <bibl>
+                <ptr target="bib:BEFEO1935_01"/>
+                <citedRange unit="page">458</citedRange>
+            </bibl>
+            <bibl>
+                <ptr target="bib:Vandermeersch+Ducrest1997_01"/>
+                <citedRange unit="page">113-116</citedRange>
+            </bibl>
+            <bibl>
+                <ptr target="bib:Boisselier1963_01"/>
+                <citedRange unit="page">108-110</citedRange>
+            </bibl>
+            <bibl>
+                <ptr target="bib:Griffiths+al2008-2009_01"/>
+                <citedRange unit="page">451-452</citedRange>
+            </bibl>
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>

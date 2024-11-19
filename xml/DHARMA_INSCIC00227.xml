@@ -100,7 +100,7 @@
             <p><milestone type="pagelike" unit="face" n="B"/>
                 <lb n="B1"/><gap reason="lost" extent="unknown" unit="character"/> humā
                 <lb n="B2"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>vi</unclear>hāra trā
-                <lb n="B3"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>ya</unclear> doṃ di vāyavya sā
+                <lb n="B3"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>ya</unclear> doṁ di vāyavya sā
                 <lb n="B4"/><gap reason="lost" extent="unknown" unit="character"/> dauk· kadyaṅ· humā <unclear>va</unclear>
                 <lb n="B5"/><gap reason="lost" extent="unknown" unit="character"/> cal· sulauṅ· humā <unclear>d</unclear>i <unclear>ka</unclear>
                 <lb n="B6"/><gap reason="lost" extent="unknown" unit="character"/> yām̃ <unclear>pamataḥ</unclear><!--sapi2argr ou samataḥ--> h<unclear>u</unclear>mā yām̃ pu
@@ -135,7 +135,7 @@
         <div type="bibliography">
 	        <p>First edited with translation into English by Arlo Griffiths et al. (<bibl rend="omitname"><ptr target="bib:Griffiths+al2012_01"/><citedRange unit="page">273-275</citedRange></bibl>). The inscription is re-edited here by Salomé Pichon based the EFEO estampages n. 2077 and n. 2078.</p>
         <listBibl type="primary">
-      <bibl n="G"><!--sapi2argr quel sigle ici ?-->
+      <bibl n="CIC">
       <ptr target="bib:Griffiths+al2012_01"/>
       <citedRange unit="page">273-275</citedRange>
       </bibl>

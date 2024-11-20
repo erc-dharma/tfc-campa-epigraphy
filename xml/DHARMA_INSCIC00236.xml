@@ -99,15 +99,17 @@
                </listApp>
          </div>
          <div type="translation" source="bib:Griffiths+al2012_01">
-            <p>Southeast<note>The block showing the temporary mark A3 in the photo is engraved with the syllable <foreign>gni</foreign>. This is an abbreviation of <foreign>agni</foreign>(<foreign>dik</foreign>), that is the guardian deity of the Southeast, Agni, or the direction (<foreign>dik</foreign>) that he oversees.</note></p>
-            <p>Northeast<note>The block showing the temporary mark A5 bears the syllable <note>ī</note>. This is an abbreviation of <foreign>īśāna</foreign>(<foreign>dik</foreign>), that is the guardian deity of the Northeast, Īśāna, or the direction (<foreign>dik</foreign>) that he oversees.</note></p>
+            <div type="textpart" subtype="zone" n="A3">
+            <p>Southeast<note>The block showing the temporary mark A3 in the photo is engraved with the syllable <foreign>gni</foreign>. This is an abbreviation of <foreign>agni</foreign>(<foreign>dik</foreign>), that is the guardian deity of the Southeast, Agni, or the direction (<foreign>dik</foreign>) that he oversees.</note></p></div>
+            <div type="textpart" subtype="zone" n="A5">
+            <p>Northeast<note>The block showing the temporary mark A5 bears the syllable <note>ī</note>. This is an abbreviation of <foreign>Īśāna</foreign>(<foreign>dik</foreign>), that is the guardian deity of the Northeast, Īśāna, or the direction (<foreign>dik</foreign>) that he oversees.</note></p>
+            </div>
          </div>
          <div type="commentary">
-           <p>The altar was transported from the site and recomposed in the Museum in 1934. During the recent restoration, in 2007, it was observed that at least two of the component parts of the altar are marked by signs. These signs, engraved on the blocks whose position corresponds roughly to that of the letters I and G in Guillon’s groundplan, are currently no longer visible, as the altar has been reassembled. But luckily Bertrand Porte, who was in charge of the restoration on behalf of EFEO, took photos. In a recent publication we were still hesitant whether these signs are definitely writing, but we have since observed similar (unpublished) short inscriptions on elements of pedestals lying on the ground in front of monument E7 at Mỹ Sơn, and can now confidently interpret the two signs as follows.</p>
            <p>These two syllables are without doubt intended to aid the foreman or his workers in correctly assembling the blocks, by providing their orientation: the staircase has to be oriented between Southeast and Northeast, or, in other words, towards the East. The signs were not meant to be visible anymore after assembly of the altar, being covered up by a higher level of blocks.</p>
          </div>
         <div type="bibliography">
-            <p>First edited with translation into English by Arlo Griffiths et al. (<bibl rend="omitname"><ptr target="bib:Griffiths+al2012_01"/><citedRange unit="page">281-282</citedRange></bibl>).</p>
+            <p>First edited with translation into English by Arlo Griffiths et al. (2012).</p>
             <listBibl type="primary">
           <bibl n="CIC">
           <ptr target="bib:Griffiths+al2012_01"/>

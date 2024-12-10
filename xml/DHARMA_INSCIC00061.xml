@@ -82,6 +82,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:argr" when="2024-12-10" status="draft">Decipherment and encoding of the Sanskrit of face A</change>
             <change who="part:sapi" when="2024-09-02" status="draft">First encoding and edition of the cam inscription</change>
         </revisionDesc>
     </teiHeader>
@@ -89,10 +90,12 @@
       <body>
         <!-- sapi2argr : REMARQUE GÉNÉRALE, IL SEMBLE Y AVOIR DES POINTS COMMUNS ENTRE C. 61 et C. 252.-->
          <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:83213">
+         <!-- argr2sapi: pour des cas semblables, nous préconisons d'encoder la langue vernaculaire comme langue de base, puis de metrte xml:lang="san-Latn" dans chaque <lg> -->
             <p><milestone type="pagelike" unit="face" n="A"/>
                 <lb n="A01"/><g type="circleConcentricOval"/> <unclear><g type="ddanda"/></unclear> Oṁ namaś śivāya
                 <lb n="A1"/>X yata str(ī) XX(ṇda)<!--sapi2argr : ṇdu ?--> C(u)mā(h)uC(ca) XXXXX Cya XXCyaX
                 <lb n="A2"/>yaḥ <g type="dotMid">.</g> v(ara)pranāṁ yasmātaṁ (mata)tmaX śivāya tasmau (praname XXndra)bhiḥ<!-- sapi2argr : candrebhiḥ ?--> <g type="ddanda">.</g>
+                
             
             <lb n="A3"/>X (nr̥)patiś śrī jaya-(I)ndravarmmade(ve ja)CCiX (guṇa-prabhavaḥ) Xnya yena saXXtaXX
             <lb n="A4"/>
@@ -102,28 +105,34 @@
             <lb n="A8"/>XX (punyā)XXXX śrī candradeveśvare XX striyā XXXXṅsaṁ jñā yāX
             <lb n="A9"/>XkhilaX· <unclear><g type="floretQuatrefoil">.</g></unclear> 
             
+            
             <lg n="1" met="anuṣṭubh"><!-- il manque une syllabe ?-->
                 <l n="a">sarvve X yasyaXtre X</l>
-                <l n="b">XXṇye smitya pradīya</l>
-                <l n="c">te muktirX-(pa)ti<!-- sapi2argr C. 252 : mukti-bhaṅ(g)ā pradīya(t)e--><lb n="A10"/>XXkaṁ</l>
-                <l n="d">XXXt(t)u sarvva(t)aḥ<!-- sapi2argr C. 252: karadā-d(v)āttu sarvvataḥ. Ici néanmoins, on ne peut pas lire karadā. --> <g type="floretQuatrefoil">.</g></l>
+                <l n="b">XXṇye smitya pradīyate</l>
+                <l n="c">muktir bbhūpati<!-- sapi2argr C. 252 : mukti-bhaṅ(g)ā pradīya(t)e -->
+                <!-- argr2sapi: I expect something like muktir bbhūpatinā dattā -->
+                <lb n="A10"/>...</l>
+                <l n="d">karādānān tu sarvvataḥ<!-- sapi2argr C. 252: karadā-d(v)āttu sarvvataḥ. 
+                argr2sapi: the expression is typical for the Indrapura period, in several slightly varying forms. I made a note about it in the Da Nang catalog.
+                --> <g type="floretQuatrefoil">.</g></l>
               </lg>
             
-            śrī XXXXXXś-śrī-jayavarmmendravarmmadevākhyaḥ<!-- sapi2argr: ou dharmmendra- ?--> <unclear><g type="dotMid">.</g></unclear>
-            <lb n="A11"/>XXhi pr̥Cu<!-- sapi2argr : ou prabhu avec un orthographe inhabituel du -r souscrit ? --> śrī-daXXXX ryyaṇa XXXX <g type="floretQuatrefoil">.</g> tadāpi yasya pu<unclear>ṇe</unclear>X
-            <lb n="A12"/>X candradeveśvarāhvaye vara-kīrttyāhvayaXXXkṣe  <unclear><g type="dotMid">.</g></unclear> kṣetrāṇyatiXX
+            śrī XXXXvīraś śrī-jayavarmmendravarmmadevākhyaḥ<!-- sapi2argr: ou dharmmendra- ?--> <unclear><g type="dotMid">.</g></unclear>
+            <lb n="A11"/><unclear>sa</unclear>rvvāṁ mahīṁ pr̥thu-śrī-daXXXX ryyaṇa XXXX <g type="floretQuatrefoil">.</g> 
+            tadāpi yasya pu<unclear>ṇe</unclear>X
+            <lb n="A12"/>X candradeveśvarāhvaye vara-kīrttyāhvayasyāpi bhikṣoḥ kṣetrāṇy atiXX
             <lb n="A13"/>X Api ca <g type="floretQuatrefoil">.</g>
             </p>
             <lg met="indravajrā" n="01">
                 <l n="a" enjamb="yes">kṣoṇī-patiś śrī-jayasiṅhavarmma</l>
                 <l n="b">devas samācchādya diśo <unclear>ya</unclear><lb n="A14" break="no"/><supplied reason="lost">śo</supplied>bhiḥ</l>
                 <l n="c">rāja-śriyaṁ rāja-guṇodayena</l> 
-                <l n="d">sthira-sthiraśrī nicayām arakṣīt· <g type="floretQuatrefoil">.</g></l>
+                <l n="d">sthira-sthira-śrī-nicayām arakṣīt· <g type="floretQuatrefoil">.</g></l>
             </lg>
 
 <p><!-- or can we identify a meter? -->
-            <lb n="A15"/>tadāpi nr̥pājñā-supratipatti-prayatna-sevātaḥ dhīrāgra-dhīra-cauXX<!-- co? -->
-            <lb n="A16"/>nāmāpy abhigacchati sma punaḥ <g type="floretQuatrefoil">.</g>
+            <lb n="A15"/><gap reason="lost" unit="character" quantity="2"/> tadāpi nr̥pājñā-supratipatti-prayatna-sevātaḥ dhīrāgra-dhīra-cauXX<!-- co? -->
+            <lb n="A16"/><gap reason="lost" unit="character" quantity="1"/> nāmāpy abhigacchati sma punaḥ <g type="floretQuatrefoil">.</g>
 </p>
             
             <lg n="2" met="indravajrā">
@@ -131,18 +140,18 @@
                 <l n="a">pañca-dvi-kāyopagate śakābde</l>
                 <l n="b"><seg met="+"><gap reason="illegible" quantity="1" unit="character"/></seg><lb n="A17"/><seg met="+-"><gap reason="illegible" quantity="2" unit="character"/></seg>dhānena bhuvi svakīrttyai <g type="dotMid">.</g></l>
                 <l n="c">yena pratiṣṭhāpita Īśvaro <supplied reason="subaudible">'</supplied>yaṁ</l>
-                <l n="d">śrī-śaṅkare<supplied reason="lost">śā</supplied><lb n="A18"/>hvaya eva bhūyaḥ <g type="floretQuatrefoil">.</g></l>
+                <l n="d">śrī-śaṅkare<supplied reason="lost">śā</supplied><lb n="A18" break="no"/>hvaya eva bhūyaḥ <g type="floretQuatrefoil">.</g></l>
               </lg>
             <lg n="3" met="anuṣṭubh">
-                <l n="a" enjamb="yes">śrī-jayasiṅhavarmmā śrī-</l>
-                <l n="b">śaṅkareśe narādhipaḥ</l>
+                <l n="a" enjamb="yes">śrī-jayasiṅhavarmmā śrī</l>
+                <l n="b">-śaṅkareśe narādhipaḥ</l>
                 <l n="c" enjamb="yes"><seg met="="><gap reason="illegible" quantity="1" unit="character"/></seg><lb n="A19"/><seg met="=="><gap reason="illegible" quantity="2" unit="character"/></seg>triñ ca śaṅkhañ cā</l>
                 <!-- chattriñ?  -->
                 <l n="d">dād raupya-kalaśan tathā<g type="floretQuatrefoil">.</g></l>
               </lg>
             <lg n="4" met="upajāti">
             <!-- = + - + + - - + - + =  -->
-                <l n="a" enjamb="yes">yasyānujā śrī-ja<supplied reason="lost">ya</supplied><seg met="+-"><gap reason="illegible" quantity="2" unit="character"/></seg><lb n="A20"/><supplied reason="lost">va</supplied>rmmā</l>
+                <l n="a" enjamb="yes">yasyānujā śrī-ja<supplied reason="lost">ya</supplied><seg met="+-"><gap reason="illegible" quantity="2" unit="character"/></seg><lb n="A20" break="no"/><supplied reason="lost">va</supplied>rmmā</l>
                 <l n="b">vanīśa-bhāryyā pariśuddha-bhāvā <g type="dotMid">.</g></l>
                 <l n="c">sādhvī danāy-gopura-<seg met="+-+="><gap reason="illegible" quantity="4" unit="character"/></seg></l>
                 <l n="d"><lb n="A21"/><seg met="+"><gap reason="illegible" quantity="1" unit="character"/></seg>ṣṭyeva bhātīha surendradevī <g type="floretQuatrefoil">.</g></l>

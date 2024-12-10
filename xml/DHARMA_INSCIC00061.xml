@@ -112,32 +112,52 @@
             śrī XXXXXXś-śrī-jayavarmmendravarmmadevākhyaḥ<!-- sapi2argr: ou dharmmendra- ?--> <unclear><g type="dotMid">.</g></unclear>
             <lb n="A11"/>XXhi pr̥Cu<!-- sapi2argr : ou prabhu avec un orthographe inhabituel du -r souscrit ? --> śrī-daXXXX ryyaṇa XXXX <g type="floretQuatrefoil">.</g> tadāpi yasya pu<unclear>ṇe</unclear>X
             <lb n="A12"/>X candradeveśvarāhvaye vara-kīrttyāhvayaXXXkṣe  <unclear><g type="dotMid">.</g></unclear> kṣetrāṇyatiXX
-            <lb n="A13"/>X Api ca <g type="floretQuatrefoil">.</g> kṣoṇi-patiś śrī-jayasiṁhavarmmadevas samā(ptāj)yadigo XX
-            <lb n="A14"/>Xbhiḥ rāja(ṁ) śrīyaṁ rāja-gu(ṇona)yena<!-- sapi2argr ou: guṇena yena ?  guṇau nayena ?--> XXX śrī nicayā(m·) rakṣīt(·)
-            <lb n="A15"/>XXkāsi nr̥pā jñā su-pratipatti-prayatna-sevā(k)aḥ dhīrā(ś)radh(ī)racauXX
-            <lb n="A16"/>XXmāsyati gacchati sma punaḥ <g type="floretQuatrefoil">.</g>
+            <lb n="A13"/>X Api ca <g type="floretQuatrefoil">.</g>
             </p>
+            <lg met="indravajrā" n="01">
+                <l n="a" enjamb="yes">kṣoṇī-patiś śrī-jayasiṅhavarmma</l>
+                <l n="b">devas samācchādya diśo <unclear>ya</unclear><lb n="A14" break="no"/><supplied reason="lost">śo</supplied>bhiḥ</l>
+                <l n="c">rāja-śriyaṁ rāja-guṇodayena</l> 
+                <l n="d">sthira-sthiraśrī nicayām arakṣīt· <g type="floretQuatrefoil">.</g></l>
+            </lg>
+
+<p><!-- or can we identify a meter? -->
+            <lb n="A15"/>tadāpi nr̥pājñā-supratipatti-prayatna-sevātaḥ dhīrāgra-dhīra-cauXX<!-- co? -->
+            <lb n="A16"/>nāmāpy abhigacchati sma punaḥ <g type="floretQuatrefoil">.</g>
+</p>
+            
             <lg n="2" met="indravajrā">
-                <l n="a">pañcadvikāyopagate śakābde</l>
-                <l n="b"><lb n="A17"/><seg met="++-"><gap reason="illegible" quantity="3" unit="character"/></seg>dhānena bhuvi svakīrttyai <g type="dotMid">.</g></l>
-                <l n="c">yena pratiṣṭhāpita Īśvaro yaṁ</l>
-                <l n="d">śrī śankare<supplied reason="lost">śā</supplied><lb n="A18"/>hva sa eva bhūyaḥ <g type="floretQuatrefoil">.</g></l>
+             <!-- + + - + + - - + - + =  -->
+                <l n="a">pañca-dvi-kāyopagate śakābde</l>
+                <l n="b"><seg met="+"><gap reason="illegible" quantity="1" unit="character"/></seg><lb n="A17"/><seg met="+-"><gap reason="illegible" quantity="2" unit="character"/></seg>dhānena bhuvi svakīrttyai <g type="dotMid">.</g></l>
+                <l n="c">yena pratiṣṭhāpita Īśvaro <supplied reason="subaudible">'</supplied>yaṁ</l>
+                <l n="d">śrī-śaṅkare<supplied reason="lost">śā</supplied><lb n="A18"/>hvaya eva bhūyaḥ <g type="floretQuatrefoil">.</g></l>
               </lg>
             <lg n="3" met="anuṣṭubh">
-                <l n="a">śrī jayasiṁhavarmmā śrī</l>
+                <l n="a" enjamb="yes">śrī-jayasiṅhavarmmā śrī-</l>
                 <l n="b">śaṅkareśe narādhipaḥ</l>
-                <l n="c" enjamb="yes"><lb n="A19"/><seg met="==="><gap reason="illegible" quantity="3" unit="character"/></seg>triñ ca śaṅkhañ cā</l>
-                <l n="d">dād raupyaṁ kalaśan tathā<g type="floretQuatrefoil">.</g></l>
+                <l n="c" enjamb="yes"><seg met="="><gap reason="illegible" quantity="1" unit="character"/></seg><lb n="A19"/><seg met="=="><gap reason="illegible" quantity="2" unit="character"/></seg>triñ ca śaṅkhañ cā</l>
+                <!-- chattriñ?  -->
+                <l n="d">dād raupya-kalaśan tathā<g type="floretQuatrefoil">.</g></l>
               </lg>
             <lg n="4" met="upajāti">
-                <l n="a">yasyānujā śrī jaya<seg met="+-"><gap reason="illegible" quantity="2" unit="character"/></seg><lb n="A20"/><supplied reason="lost">va</supplied>rmmā</l>
-                <l n="b">vanīśa-bhāryyā pariśuddhabhāvā <g type="dotMid">.</g></l>
-                <l n="c">sādhvī danāy gopure<supplied reason="lost">śvar</supplied><seg met="+="><gap reason="illegible" quantity="2" unit="character"/></seg></l>
+            <!-- = + - + + - - + - + =  -->
+                <l n="a" enjamb="yes">yasyānujā śrī-ja<supplied reason="lost">ya</supplied><seg met="+-"><gap reason="illegible" quantity="2" unit="character"/></seg><lb n="A20"/><supplied reason="lost">va</supplied>rmmā</l>
+                <l n="b">vanīśa-bhāryyā pariśuddha-bhāvā <g type="dotMid">.</g></l>
+                <l n="c">sādhvī danāy-gopura-<seg met="+-+="><gap reason="illegible" quantity="4" unit="character"/></seg></l>
                 <l n="d"><lb n="A21"/><seg met="+"><gap reason="illegible" quantity="1" unit="character"/></seg>ṣṭyeva bhātīha surendradevī <g type="floretQuatrefoil">.</g></l>
+                <!-- ṣṭye 'vabhāti? -->
               </lg>
+              <lg n="5" met="vasantatilakā">
+              <l n="a">prātiṣṭhipad bhagava<seg met="-+--+-+="><gap reason="illegible" quantity="8" unit="character"/></seg></l>
+              </lg>
+              <!-- 
+
+              -->
 
 
             <p><milestone type="pagelike" unit="face" n="B"/><gap reason="lost" quantity="21" unit="line" precision="low"/></p>
+
             <p xml:lang="ocm-Latn"><milestone type="pagelike" unit="face" n="C"/>
             <lb n="C1"/><gap reason="lost" quantity="14" unit="character" precision="low"/>
             <list>
@@ -226,16 +246,26 @@
          <div type="apparatus">
             <listApp>
                 <app loc="A17">
-                    <lem>śankare<supplied reason="lost">śā</supplied>hva</lem>
-                    <rdg source="bib:Huber1911_01">śankareśāhva</rdg>
-                    <note>The syllable <foreign>śā</foreign> transcribed by Huber cannot be read on the stela nor the estampages.</note>
+                    <lem>-śaṅkare<supplied reason="lost">śā</supplied><lb n="A18"/>hvaya</lem>
+                    <rdg source="bib:Huber1911_01">śankareśāhva sa</rdg>
+                    <note>The syllable <foreign>śā</foreign> transcribed by Huber is lost and needs to be supplied; it remains uncertain whether it stood at the end of line 17 or the beginning of the next line.</note>
+                </app>
+                <app loc="A19">
+                    <lem>raupya-kalaśan</lem>
+                    <rdg source="bib:Huber1911_01">raupyaṁ kalaśan</rdg>
+                </app>
+                <app loc="A19">
+                <lem>śrī-ja<supplied reason="lost">ya</supplied><seg met="+-"><gap reason="illegible" quantity="2" unit="character"/></seg><lb n="A20"/><supplied reason="lost">va</supplied>rmmā<!-- </l>
+                <l n="b"> -->vanīśa-</lem>
+                <rdg source="bib:Huber1911_01">śrī-jaya<seg met="+-"><gap reason="illegible" quantity="2" unit="character"/></seg><lb n="A20"/><supplied reason="lost">varmmā</supplied><seg met="+"><gap reason="illegible" quantity="1" unit="character"/></seg>vanīśa-</rdg>
+                <note>Huber's tentative edition is hypermetrical for <foreign>pāda</foreign> a.</note>
                 </app>
                 <app loc="A20">
                     <lem><supplied reason="lost">va</supplied>rmmā</lem>
                     <rdg source="bib:Huber1911_01"><supplied reason="lost">varmmā</supplied><seg met="+"><gap reason="illegible" quantity="1" unit="character"/></seg></rdg>
                 </app>
                 <app loc="A20">
-                    <lem>gopure<supplied reason="lost">śvar</supplied><seg met="+="><gap reason="illegible" quantity="2" unit="character"/></seg></lem>
+                    <lem>-gopura<supplied reason="lost">śvar</supplied><seg met="+="><gap reason="illegible" quantity="2" unit="character"/></seg></lem>
                     <rdg source="bib:Huber1911_01">gopureśvar<gap reason="undefined"/></rdg>
                     <note>The last syllable <foreign>śvar</foreign> transcribed by Huber cannot be read on the stela nor the estampages.</note>
                 </app>

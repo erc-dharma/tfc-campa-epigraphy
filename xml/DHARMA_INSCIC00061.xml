@@ -93,36 +93,48 @@
          <!-- argr2sapi: pour des cas semblables, nous préconisons d'encoder la langue vernaculaire comme langue de base, puis de metrte xml:lang="san-Latn" dans chaque <lg> -->
             <p><milestone type="pagelike" unit="face" n="A"/>
                 <lb n="A01"/><g type="circleConcentricOval"/> <unclear><g type="ddanda"/></unclear> Oṁ namaś śivāya
+                <!-- argr2sapi : sauf erreur, l'EGD dit que l'invocation est à encoder dans un <ab> séparé -->
                 <lb n="A1"/>X yata str(ī) XX(ṇda)<!--sapi2argr : ṇdu ?--> C(u)mā(h)uC(ca) XXXXX Cya XXCyaX
                 <lb n="A2"/>yaḥ <g type="dotMid">.</g> v(ara)pranāṁ yasmātaṁ (mata)tmaX śivāya tasmau (praname XXndra)bhiḥ<!-- sapi2argr : candrebhiḥ ?--> <g type="ddanda">.</g>
-                
             
-            <lb n="A3"/>X (nr̥)patiś śrī jaya-(I)ndravarmmade(ve ja)CCiX (guṇa-prabhavaḥ) Xnya yena saXXtaXX
+            <lb n="A3"/>X (nr̥)patiś śrī jaya-<unclear>I</unclear>ndravarmmade(ve ja)CCiX
+                <!-- argr2sapi: ou -devo-->
+             guṇa-prabhāvaḥ nyāyena saXXtaXX
             <lb n="A4"/>
-            <lb n="A5"/>
+            <lb n="A5"/> XXX yaḥ kūlyimilisaraṇā punarddanāyasinājima ...
             <lb n="A6"/>
-            <lb n="A7"/>
-            <lb n="A8"/>XX (punyā)XXXX śrī candradeveśvare XX striyā XXXXṅsaṁ jñā yāX
-            <lb n="A9"/>XkhilaX· <unclear><g type="floretQuatrefoil">.</g></unclear> 
-            
-            
-            <lg n="1" met="anuṣṭubh"><!-- il manque une syllabe ?-->
-                <l n="a">sarvve X yasyaXtre X</l>
-                <l n="b">XXṇye smitya pradīyate</l>
+            <lb n="A7"/>...śraddhayāni
+            <lb n="A8"/>XX jā (puṇya)XXXX śrī-candradeveśvare śive striyā X nā sipauṅsaṁjñā yāX
+            <lb n="A9"/><unclear>t</unclear>ākhilam· <unclear><g type="floretQuatrefoil">.</g></unclear> 
+            </p>
+            <!-- argr2sapi: s'il s'avère que le passage qui vient de se terminer est en prose, alors il doirt être fermé avec </p>, ce que je fais provisoirement; mais il faudra continuer à chercher des structures mértiques -->
+
+            <lg n="1" met="anuṣṭubh">
+                <l n="a">sarvve<unclear>ṣu</unclear> <unclear>sā</unclear>py agotre<unclear>ṣu</unclear></l>
+                <l n="b">puṇye <supplied reason="subaudible">'</supplied>smiṁ <unclear>tu</unclear> pradīyate</l>
                 <l n="c">muktir bbhūpati<!-- sapi2argr C. 252 : mukti-bhaṅ(g)ā pradīya(t)e -->
                 <!-- argr2sapi: I expect something like muktir bbhūpatinā dattā -->
-                <lb n="A10"/>...</l>
+                <lb n="A10" break="no"/><supplied reason="lost">nā datt</supplied>ā</l>
                 <l n="d">karādānān tu sarvvataḥ<!-- sapi2argr C. 252: karadā-d(v)āttu sarvvataḥ. 
-                argr2sapi: the expression is typical for the Indrapura period, in several slightly varying forms. I made a note about it in the Da Nang catalog.
+                argr2sapi: the expression is typical for the Indrapura period, in several slightly varying forms. I made a note about it in the Da Nang catalog, and/or in our publication of C. 167.
                 --> <g type="floretQuatrefoil">.</g></l>
               </lg>
             
-            śrī XXXXvīraś śrī-jayavarmmendravarmmadevākhyaḥ<!-- sapi2argr: ou dharmmendra- ?--> <unclear><g type="dotMid">.</g></unclear>
-            <lb n="A11"/><unclear>sa</unclear>rvvāṁ mahīṁ pr̥thu-śrī-daXXXX ryyaṇa XXXX <g type="floretQuatrefoil">.</g> 
-            tadāpi yasya pu<unclear>ṇe</unclear>X
-            <lb n="A12"/>X candradeveśvarāhvaye vara-kīrttyāhvayasyāpi bhikṣoḥ kṣetrāṇy atiXX
+            <p>
+            <!-- or maybe an āryā stanza? -->
+            śrī-<gap reason="illegible" unit="character" quantity="2"/><unclear>bhakt</unclear>i-vīraś śrī-jayavarmmendravarmmadevākhyaḥ<!-- sapi2argr: ou dharmmendra- ?--> <unclear><g type="dotMid">.</g></unclear>
+            <!-- argr2sapi: je ne suis pas vraiment convaincu qu'il faille lire le dotMid ici-->
+            <lb n="A11"/><unclear>sa</unclear>rvvāṁ mahīṁ pr̥thu-śrī<choice><unclear>r aṣṭa</unclear><unclear>-sapta</unclear></choice>-śauryyeṇa <gap reason="illegible" unit="character" quantity="4"/> <g type="floretQuatrefoil">.</g> 
+            <!-- Krtyakalpataru 'saptāgamāt' — 
+            saptavittāgamāḥ dharmyā dāyo lābhaḥ krayo jayaḥ | 
+            prayogaḥ karmayogaś ca satpratigraha eva ca || iti manūkteḥ [10.115] saptavidhaśauryādyāgamalabdhadhanād uddhṛtya tad dhanam āśritya gṛhakṣetrādi dātavyam | na tv anāgamam ity arthaḥ | -->
+
+            tadāpi yasya pu<unclear>ṇ</unclear><supplied reason="lost">y</supplied><unclear>e</unclear>X
+            <lb n="A12"/><unclear>śrī</unclear>-candradeveśvarāhvaye vara-kīrttyāhvayasyāpi bhikṣoḥ kṣetrāṇy atiXX
+            <!-- argr2sapi peut-être abhivittāni "obtenus"; dans C. 211 on trouve l'infinitif abhivettum -->
             <lb n="A13"/>X Api ca <g type="floretQuatrefoil">.</g>
             </p>
+
             <lg met="indravajrā" n="01">
                 <l n="a" enjamb="yes">kṣoṇī-patiś śrī-jayasiṅhavarmma</l>
                 <l n="b">devas samācchādya diśo <unclear>ya</unclear><lb n="A14" break="no"/><supplied reason="lost">śo</supplied>bhiḥ</l>
@@ -131,7 +143,7 @@
             </lg>
 
 <p><!-- or can we identify a meter? -->
-            <lb n="A15"/><gap reason="lost" unit="character" quantity="2"/> tadāpi nr̥pājñā-supratipatti-prayatna-sevātaḥ dhīrāgra-dhīra-cauXX<!-- co? -->
+            <lb n="A15"/><gap reason="lost" unit="character" quantity="2"/> tadāpi nr̥pājñā-supratipatti-prayatna-sevātaḥ dhīrāgra-dhīra-cauXX<!-- co? cf. AB sipauṅsaṁjñā "nommé si Pauṅ" — avons-nous ici le même (type de) nom propre? -->
             <lb n="A16"/><gap reason="lost" unit="character" quantity="1"/> nāmāpy abhigacchati sma punaḥ <g type="floretQuatrefoil">.</g>
 </p>
             

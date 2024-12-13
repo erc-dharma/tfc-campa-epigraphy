@@ -178,12 +178,12 @@
         <p xml:lang="ocm-Latn">humā nvaus·<!-- sapi2argr sur la pierre, ça ressemble à cvaus·. -->
           <lb n="B11"/>timuḥ Ājñā yāṅ· pu pov· ku śrī jayasiṅhavarmmadeva<g type="dotMid"/>ra vriy· vuḥ di yāṅ· pov· ku siniy· rumaṅ·
           <lb n="B12"/><seg type="desc">humā ṅauk· rayā taṁl· vavaḥ krauṅ· nayauna riy· vavaḥ krauṅ· taṁl· smrāṅ· dakṣina yāṅ·<g type="dotMid"/><g type="ddandaHooked">.</g></seg>
-          <lb n="B13"/>niy· mūla humā<g type="dotMid">.</g> humā <unclear>rayā</unclear> 1<g type="danda">.</g> Amvil· 2<g type="danda">.</g> ratvauk· 6<g type="danda">.</g> dandau kumvuṅ·<g type="danda">.</g> humā kumvuṅ· 1<g type="danda">.</g> ṅauk· sāṅ· 1<g type="danda">.</g> humā mvaṅ· 2<g type="danda">.</g>
+          <lb n="B13"/>niy· mūla humā<g type="dotMid">.</g> humā <unclear>rayā</unclear> 1<g type="danda">.</g> Amvil· 2<g type="danda">.</g> rat vauk· 6<g type="danda">.</g> dandau kumvuṅ·<g type="danda">.</g> humā kumvuṅ· 1<g type="danda">.</g> ṅauk· sāṅ· 1<g type="danda">.</g> humā mvaṅ· 2<g type="danda">.</g>
           <lb n="B14"/>ṅauk· sāṅ· yvan· 2<g type="danda">.</g> pitau cumlaṅ· 1<g type="danda">.</g> Ajauñ· 1<g type="danda">.</g> humā cvaḥ 5<g type="danda">.</g> laṅā 1<g type="danda">.</g> humā camvāṅ· 3<g type="danda">.</g> sagor· 1<g type="danda">.</g>
           <lb n="B15"/>vvac· 1<g type="danda">.</g> taliṅi 1<g type="danda">.</g> humā Ikū Asov· 1<g type="danda">.</g> humā proṅ· 1<g type="danda">.</g> ndoṅ· 1<g type="danda">.</g> knām· 2<g type="danda">.</g> kandep· 1<g type="danda">.</g> srumai 1<g type="danda">.</g>
           <lb n="B16"/>pagāra sramvat·<!-- sapi2argr On pourrait aussi lire sagārasramvat·. --><g type="danda">.</g> humā kahas· 1<g type="danda">.</g> humā mvaṅ· 5<g type="danda">.</g> nagaren· 9<g type="danda">.</g> humā ticain· 1<g type="danda">.</g> vvil· 1<g type="danda">.</g> ralāṅ· 3<g type="danda">.</g> laṅā 1<g type="danda">.</g>
           <lb n="B17"/>kara mās· 3<g type="danda">.</g> ṅauk· rayā 1<g type="danda">.</g>vo 2<g type="danda">.</g> humā tupen· 1<g type="danda">.</g> likūk· 1<g type="danda">.</g> humā En· 3<g type="danda">.</g> harā 1<g type="danda">.</g> kara kaṁp· 3<g type="danda">.</g>
-          <lb n="B18"/>ratvauk· 3<g type="danda">.</g> Alauṅ· 1<g type="danda">.</g> ṅauk· sāṅ· 1<g type="danda">.</g> humā vvār· 1<g type="danda">.</g> humā Agrās· 1<g type="danda">.</g> humā dandrāḥ 1<g type="danda">.</g> yok· nan· 1<g type="danda">.</g>
+          <lb n="B18"/>rat vauk· 3<g type="danda">.</g> Alauṅ· 1<g type="danda">.</g> ṅauk· sāṅ· 1<g type="danda">.</g> humā vvār· 1<g type="danda">.</g> humā Agrās· 1<g type="danda">.</g> humā dandrāḥ 1<g type="danda">.</g> yok· nan· 1<g type="danda">.</g>
           <milestone type="pagelike" unit="face" n="C"/><lb n="C1"/><g type="ddandaHooked">.</g><g type="ddandaHooked">.</g> Urāṅ· ya rakṣā puṇya niy· <unclear>yā</unclear> jeṅ·
           <lb n="C2"/>si vā Anāk· vinai marai dauk· Aṅguy·
           <lb n="C3"/>dravya yāṅ· niy·<g type="danda">.</g> vela Aṅgap· samū nan·
@@ -309,7 +309,7 @@
           <!--Hypothèse n°2 : toute cette liste ne comprend que des rizières, même si tous ne sont pas désignés ainsi. Ce qui renforce cette hypothèse = la formule d'introduction "niy· mūla humā". -->
            <list><item>1 rizière Rayā <supplied reason="explanation">vaste, important</supplied></item>
            <item>2 <supplied reason="subaudible">rizières</supplied> Amvil<!-- // Nom khmer ?--></item>
-           <item>6 <supplied reason="subaudible">rizières</supplied> Ratvauk</item>
+           <item>6 <supplied reason="subaudible">rizières</supplied> Rat Vauk</item>
            <item>étang Kumvuṅ</item>
            <item>1 rizière Kumvuṅ</item>
            <item>1 <supplied reason="subaudible">rizière</supplied> Ṅauk Saṅ <supplied reason="explanation">au-dessus de la maison</supplied></item>
@@ -345,7 +345,7 @@
            <item>3 rizières En</item>
            <item>1 <supplied reason="subaudible">rizière</supplied> Harā</item>
            <item>3 <supplied reason="subaudible">rizières</supplied> Kara Kaṁp</item>
-           <item>3 <supplied reason="subaudible">rizières</supplied> Ratvauk</item>
+           <item>3 <supplied reason="subaudible">rizières</supplied> Rat Vauk</item>
            <item>1 <supplied reason="subaudible">rizière</supplied> Alauṅ <supplied reason="explanation">plaine</supplied></item>
            <item>1 <supplied reason="subaudible">rizière</supplied> Ṅauk Saṅ <supplied reason="explanation">au-dessus de la maison</supplied></item>
            <item>1 rizière Vvār</item>

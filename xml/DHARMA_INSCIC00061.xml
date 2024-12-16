@@ -103,7 +103,7 @@
             <lb n="A4"/>XXXXXvi pr̥thivi buCoja <g type="floretQuatrefoil">.</g> (tas)yāmātyavani(pa)rakṣaḥ māX (kā)ryye (kr̥ta)prayatno bhūX·
             <lb n="A5"/> XXX yaḥ kluñ pimilisXXX<!--sapi2argr kluñ ? po ?--> punar ddanāy pināṅ<!--sapi2argr C. 148 pour une autre occurence de Danāy Pinaṅ --> (nā)ma <g type="floretQuatrefoil">.</g> CuX(n)ena (yaḥ) XCuXXXX
             <lb n="A6"/>Ci C(rat)isCāyya pov· pināṅ (nā)ma rājño XX kr̥(pa)yā AvāXX X(ā)ryyaniti<!-- sapi2argr bhāryya ?--> XXXX
-            <lb n="A7"/>[ye]na sthāpitaṁ Iśaś śrī-(I)ndradev(e)-Cāhvāyaḥ (śaraika)mūrttibhiryyukte śakabde śraddhayā (n)i
+            <lb n="A7"/>[ye]na sthāpitaṁ Iśaś śrī-(I)ndradev(e)-Cāhvāyaḥ (śaraika)mūrttibhir yyukte śakabde śraddhayā (n)i
             <lb n="A8"/>XX jā (puṇya)XXXX śrī-candradeveśvare śive striyā X nā sipauṅsaṁjñā yāX
             <lb n="A9"/><unclear>t</unclear>ākhilam· <unclear><g type="floretQuatrefoil">.</g></unclear> 
             </p>
@@ -266,6 +266,10 @@
          </div>
          <div type="apparatus">
             <listApp>
+                <app loc="A7">
+                    <lem>yyukte</lem>
+                    <rdg source="bib:Huber1911_01">yukte</rdg>
+                </app>
                 <app loc="A17">
                     <lem>-śaṅkare<supplied reason="lost">śā</supplied><lb n="A18"/>hvaya</lem>
                     <rdg source="bib:Huber1911_01">śankareśāhva sa</rdg>

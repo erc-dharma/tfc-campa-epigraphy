@@ -89,27 +89,27 @@
     <text xml:space="preserve">
       <body>
         <!-- sapi2argr : REMARQUE GÉNÉRALE, IL SEMBLE Y AVOIR DES POINTS COMMUNS ENTRE C. 61 et C. 252.-->
-         <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:83213">
+         <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83213">
          <!-- argr2sapi: pour des cas semblables, nous préconisons d'encoder la langue vernaculaire comme langue de base, puis de metrte xml:lang="san-Latn" dans chaque <lg> -->
-            <p><milestone type="pagelike" unit="face" n="A"/>
-                <lb n="A01"/><g type="circleConcentricOval"/> <unclear><g type="ddanda"/></unclear> Oṁ namaś śivāya
+           <ab> <milestone type="pagelike" unit="face" n="A"/>
+                <lb n="A01"/><g type="circleConcentricOval"/> <unclear><g type="ddanda"/></unclear> Oṁ namaś śivāya</ab>
                 <!-- argr2sapi : sauf erreur, l'EGD dit que l'invocation est à encoder dans un <ab> séparé -->
-                <lb n="A1"/>X yata str(ī) XX(ṇda)<!--sapi2argr : ṇdu ?--> C(u)mā(h)uC(ca) XXXXX Cya XXCyaX
+                <p><lb n="A1"/>X yata str(ī) XX(ṇda)<!--sapi2argr : ṇdu ?--> C(u)mā(h)uC(ca) XXXXX Cya XXCyaX
                 <lb n="A2"/>yaḥ <g type="dotMid">.</g> v(ara)pranāṁ yasmātaṁ (mata)tmaX śivāya tasmau (praname XXndra)bhiḥ<!-- sapi2argr : candrebhiḥ ?--> <g type="ddanda">.</g>
             
             <lb n="A3"/>X (nr̥)patiś śrī jaya-<unclear>I</unclear>ndravarmmade(ve ja)CCiX
                 <!-- argr2sapi: ou -devo-->
              guṇa-prabhāvaḥ nyāyena saXXtaXX
-            <lb n="A4"/>
-            <lb n="A5"/> XXX yaḥ kūlyimilisaraṇā punarddanāyasinājima ...
-            <lb n="A6"/>
-            <lb n="A7"/>...śraddhayāni
+            <lb n="A4"/>XXXXXvi pr̥thivi buCoja <g type="floretQuatrefoil">.</g> (tas)yāmātyavani(pa)rakṣaḥ māX (kā)ryye (kr̥ta)prayatno bhūX·
+            <lb n="A5"/> XXX yaḥ kluñ pimilisXXX<!--sapi2argr kluñ ? po ?--> punar ddanāy pināṅ<!--sapi2argr C. 148 pour une autre occurence de Danāy Pinaṅ --> (nā)ma <g type="floretQuatrefoil">.</g> CuX(n)ena (yaḥ) XCuXXXX
+            <lb n="A6"/>Ci C(rat)isCāyya pov· pināṅ (nā)ma rājño XX kr̥(pa)yā AvāXX X(ā)ryyaniti<!-- sapi2argr bhāryya ?--> XXXX
+            <lb n="A7"/>[ye]na sthāpitaṁ Iśaś śrī-(I)ndradev(e)-Cāhvāyaḥ (śaraika)mūrttibhiryyukte śakabde śraddhayā (n)i
             <lb n="A8"/>XX jā (puṇya)XXXX śrī-candradeveśvare śive striyā X nā sipauṅsaṁjñā yāX
             <lb n="A9"/><unclear>t</unclear>ākhilam· <unclear><g type="floretQuatrefoil">.</g></unclear> 
             </p>
             <!-- argr2sapi: s'il s'avère que le passage qui vient de se terminer est en prose, alors il doirt être fermé avec </p>, ce que je fais provisoirement; mais il faudra continuer à chercher des structures mértiques -->
 
-            <lg n="1" met="anuṣṭubh">
+            <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" >
                 <l n="a">sarvve<unclear>ṣu</unclear> <unclear>sā</unclear>py agotre<unclear>ṣu</unclear></l>
                 <l n="b">puṇye <supplied reason="subaudible">'</supplied>smiṁ <unclear>tu</unclear> pradīyate</l>
                 <l n="c">muktir bbhūpati<!-- sapi2argr C. 252 : mukti-bhaṅ(g)ā pradīya(t)e -->
@@ -135,7 +135,7 @@
             <lb n="A13"/>X Api ca <g type="floretQuatrefoil">.</g>
             </p>
 
-            <lg met="indravajrā" n="01">
+            <lg met="indravajrā" n="01" xml:lang="san-Latn" >
                 <l n="a" enjamb="yes">kṣoṇī-patiś śrī-jayasiṅhavarmma</l>
                 <l n="b">devas samācchādya diśo <unclear>ya</unclear><lb n="A14" break="no"/><supplied reason="lost">śo</supplied>bhiḥ</l>
                 <l n="c">rāja-śriyaṁ rāja-guṇodayena</l> 
@@ -147,21 +147,21 @@
             <lb n="A16"/><gap reason="lost" unit="character" quantity="1"/> nāmāpy abhigacchati sma punaḥ <g type="floretQuatrefoil">.</g>
 </p>
             
-            <lg n="2" met="indravajrā">
+            <lg n="2" met="indravajrā" xml:lang="san-Latn">
              <!-- + + - + + - - + - + =  -->
                 <l n="a">pañca-dvi-kāyopagate śakābde</l>
                 <l n="b"><seg met="+"><gap reason="illegible" quantity="1" unit="character"/></seg><lb n="A17"/><seg met="+-"><gap reason="illegible" quantity="2" unit="character"/></seg>dhānena bhuvi svakīrttyai <g type="dotMid">.</g></l>
                 <l n="c">yena pratiṣṭhāpita Īśvaro <supplied reason="subaudible">'</supplied>yaṁ</l>
                 <l n="d">śrī-śaṅkare<supplied reason="lost">śā</supplied><lb n="A18" break="no"/>hvaya eva bhūyaḥ <g type="floretQuatrefoil">.</g></l>
               </lg>
-            <lg n="3" met="anuṣṭubh">
+            <lg n="3" met="anuṣṭubh" xml:lang="san-Latn">
                 <l n="a" enjamb="yes">śrī-jayasiṅhavarmmā śrī</l>
                 <l n="b">-śaṅkareśe narādhipaḥ</l>
                 <l n="c" enjamb="yes"><seg met="="><gap reason="illegible" quantity="1" unit="character"/></seg><lb n="A19"/><seg met="=="><gap reason="illegible" quantity="2" unit="character"/></seg>triñ ca śaṅkhañ cā</l>
                 <!-- chattriñ?  -->
                 <l n="d">dād raupya-kalaśan tathā<g type="floretQuatrefoil">.</g></l>
               </lg>
-            <lg n="4" met="upajāti">
+            <lg n="4" met="upajāti" xml:lang="san-Latn">
             <!-- = + - + + - - + - + =  -->
                 <l n="a" enjamb="yes">yasyānujā śrī-ja<supplied reason="lost">ya</supplied><seg met="+-"><gap reason="illegible" quantity="2" unit="character"/></seg><lb n="A20" break="no"/><supplied reason="lost">va</supplied>rmmā</l>
                 <l n="b">vanīśa-bhāryyā pariśuddha-bhāvā <g type="dotMid">.</g></l>
@@ -169,7 +169,7 @@
                 <l n="d"><lb n="A21"/><seg met="+"><gap reason="illegible" quantity="1" unit="character"/></seg>ṣṭyeva bhātīha surendradevī <g type="floretQuatrefoil">.</g></l>
                 <!-- ṣṭye 'vabhāti? -->
               </lg>
-              <lg n="5" met="vasantatilakā">
+              <lg n="5" met="vasantatilakā" xml:lang="san-Latn">
               <l n="a">prātiṣṭhipad bhagava<seg met="-+--+-+="><gap reason="illegible" quantity="8" unit="character"/></seg></l>
               </lg>
               <!-- 

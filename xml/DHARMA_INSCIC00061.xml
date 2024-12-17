@@ -88,18 +88,20 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-        <!-- sapi2argr : REMARQUE GÉNÉRALE, IL SEMBLE Y AVOIR DES POINTS COMMUNS ENTRE C. 61 et C. 252.-->
          <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83213">
-         <!-- argr2sapi: pour des cas semblables, nous préconisons d'encoder la langue vernaculaire comme langue de base, puis de metrte xml:lang="san-Latn" dans chaque <lg> -->
-           <ab> <milestone type="pagelike" unit="face" n="A"/>
-                <lb n="A01"/><g type="circleConcentricOval"/> <unclear><g type="ddanda"/></unclear> Oṁ namaś śivāya</ab>
-                <!-- argr2sapi : sauf erreur, l'EGD dit que l'invocation est à encoder dans un <ab> séparé -->
-                <p><lb n="A1"/>X yata str(ī) XX(ṇda)<!--sapi2argr : ṇdu ?--> C(u)mā(h)uC(ca) XXXXX Cya XXCyaX
-                <lb n="A2"/>yaḥ <g type="dotMid">.</g> v(ara)pranāṁ yasmātaṁ (mata)tmaX śivāya tasmau (praname XXndra)bhiḥ<!-- sapi2argr : candrebhiḥ ?--> <g type="ddanda">.</g>
+           <ab xml:lang="san-Latn"><milestone type="pagelike" unit="face" n="A"/>
+                <lb n="A01"/><g type="circleConcentricOval"/> <unclear><g type="ddanda"/></unclear> Oṁ namaś śivāya<!-- encode lost symbol? --></ab>
+                <!-- add remark in handDesc about Oṁ that cuts through line A1 -->
+             <!-- vaṁśastha     - + - + + - - + - + - = -->
+             <!-- upajāti       = + - + + - - + - + =  -->
+             <!-- indravajrā    + + - + + - - + - + =  -->
+                <p><lb n="A1"/><!-- svasti au début? -->X yata str(ī) XX(ṇda)<!--sapi2argr : ṇdu ?--> C(u)mā(h)uC(ca) XXXXX Cya XXCyaX
+                <lb n="A2"/>yaḥ <g type="dotMid">.</g> 
+                varapradāya smaratāma<unclear>sā</unclear>tmane 
+                śivāya tasmai pra<unclear>na</unclear>me XXndrabhiḥ<!-- sapi2argr : candrebhiḥ ?--> <g type="ddanda">.</g>
             
-            <lb n="A3"/>X (nr̥)patiś śrī jaya-<unclear>I</unclear>ndravarmmade(ve ja)CCiX
-                <!-- argr2sapi: ou -devo-->
-             guṇa-prabhāvaḥ nyāyena saXXtaXX
+            <lb n="A3"/><unclear>śrī</unclear>-X-patiś<!-- śrī-bhūpatiś? śrī-nr̥patiś?--> śrī jaya-<unclear>I</unclear>ndravarmmadevo 'vati guṇa-prabhāvaḥ <g type="dotMid">.</g> 
+             nyāyena sarvva X ta XX
             <lb n="A4"/>XXXXXvi pr̥thivi buCoja <g type="floretQuatrefoil">.</g> (tas)yāmātyavani(pa)rakṣaḥ māX (kā)ryye (kr̥ta)prayatno bhūX·
             <lb n="A5"/> XXX yaḥ kluñ pimilisXXX<!--sapi2argr kluñ ? po ?--> punar ddanāy pināṅ<!--sapi2argr C. 148 pour une autre occurence de Danāy Pinaṅ --> (nā)ma <g type="floretQuatrefoil">.</g> CuX(n)ena (yaḥ) XCuXXXX
             <lb n="A6"/>Ci C(rat)isCāyya pov· pināṅ (nā)ma rājño XX kr̥(pa)yā AvāXX X(ā)ryyaniti<!-- sapi2argr bhāryya ?--> XXXX
@@ -301,7 +303,7 @@
                </listApp>
          </div>
          <div type="translation" resp="part:argr part:sapi">
-         <p rend="stanza" n="1">La libération donnée par le roi de l'exemption de toutes les taxes, elle est aussi accordée dans ce mérite de tous les <foreign>agotra</foreign>.</p>
+         <p rend="stanza" n="1">La libération donnée par le roi grâce à l'exemption de toutes les taxes, elle est aussi accordée dans ce mérite de tous les <foreign>agotra</foreign>.</p>
  	<!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">

@@ -300,7 +300,8 @@
                 </app>
                </listApp>
          </div>
-         <div type="translation">
+         <div type="translation" resp="part:argr part:sapi">
+         <p rend="stanza" n="1">La libération donnée par le roi de l'exemption de toutes les taxes, elle est aussi accordée dans ce mérite de tous les <foreign>agotra</foreign>.</p>
  	<!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">

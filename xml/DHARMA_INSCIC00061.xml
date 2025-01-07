@@ -95,15 +95,24 @@
              <!-- vaṁśastha     - + - + + - - + - + - = -->
              <!-- upajāti       = + - + + - - + - + =  -->
              <!-- indravajrā    + + - + + - - + - + =  -->
-                <p><lb n="A1"/><!-- svasti au début? -->X yata str(ī) XX(ṇda)<!--sapi2argr : ṇdu ?--> C(u)mā(h)uC(ca) XXXXX Cya XXCyaX
-                <lb n="A2"/>yaḥ <g type="dotMid">.</g> 
-                varapradāya smaratāma<unclear>sā</unclear>tmane 
-                śivāya tasmai pra<unclear>na</unclear>me XXndrabhiḥ<!-- sapi2argr : candrebhiḥ ?--> <g type="ddanda">.</g>
+                <lg n="1" met="vaṁśastha">
+                <l n="a"><lb n="A1"/>X yata str(ī) XX(ṇda)<!--sapi2argr : ṇdu ?--> C(u)mā(h)uC(ca)</l>
+                <l n="b">XXXXX Cya XXCyaX <lb n="A2"/>yaḥ <g type="dotMid">.</g></l>
+                <l n="c">varapradāya smaratāṁ ma<unclear>hā</unclear>tmane </l>
+                <l n="d">śivāya tasmai pra<unclear>na</unclear>me ma<seg met="+-"><gap reason="illegible" unit="character" quantity="2"/></seg>bhiḥ<!-- 
+                    sapi2argr : candrebhiḥ ? 
+                    Arlo suggested 
+                            mad-adhvabhiḥ but the images don't allow it
+                            maj-jānubhiḥ
+                            --> 
+                <g type="ddanda">.</g></l></lg>
             
-            <lb n="A3"/><unclear>śrī</unclear>-X-patiś<!-- śrī-bhūpatiś? śrī-nr̥patiś?--> śrī jaya-<unclear>I</unclear>ndravarmmadevo 'vati guṇa-prabhāvaḥ <g type="dotMid">.</g> 
-             nyāyena sarvva X ta XX
-            <lb n="A4"/>XXXXXvi pr̥thivi buCoja <g type="floretQuatrefoil">.</g> (tas)yāmātyavani(pa)rakṣaḥ māX (kā)ryye (kr̥ta)prayatno bhūX·
-            <lb n="A5"/> XXX yaḥ kluñ pimilisXXX<!--sapi2argr kluñ ? po ?--> punar ddanāy pināṅ<!--sapi2argr C. 148 pour une autre occurence de Danāy Pinaṅ --> (nā)ma <g type="floretQuatrefoil">.</g> CuX(n)ena (yaḥ) XCuXXXX
+            <p>
+            <lb n="A3"/><unclear>śrī</unclear>-X-patiś<!-- śrī-bhūpatiś? śrī-nr̥patiś?--> śrī jaya-<unclear>I</unclear>ndravarmmadevo '<unclear>vati</unclear> guṇa-prabhāvaḥ <g type="dotMid">.</g> 
+             nyāyena sarvva X ta XX<!-- sandarppita? -->
+            <lb n="A4"/>XXvarggaXvi pr̥thivi buCoja <g type="floretQuatrefoil">.</g> (tas)yāmātyavani(pa)rakṣaḥ māX (kā)ryye (kr̥ta)prayatno bhūX·
+            <lb n="A5"/> XXX yaḥ kūñ pimilisthara nāma punar ddanāy· pināṅ<!--sapi2argr C. 148 pour une autre occurence de Danāy Pinaṅ --> nāma <g type="floretQuatrefoil">.</g> 
+            CuX(n)ena (yaḥ) XCuXXXX
             <lb n="A6"/>Ci C(rat)isCāyya pov· pināṅ (nā)ma rājño XX kr̥(pa)yā AvāXX X(ā)ryyaniti<!-- sapi2argr bhāryya ?--> XXXX
             <lb n="A7"/>[ye]na sthāpitaṁ Iśaś śrī-(I)ndradev(e)-Cāhvāyaḥ (śaraika)mūrttibhir yyukte śakabde śraddhayā (n)i
             <lb n="A8"/>XX jā (puṇya)XXXX śrī-candradeveśvare śive striyā X nā sipauṅsaṁjñā yāX

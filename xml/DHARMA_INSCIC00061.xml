@@ -196,9 +196,9 @@
            <item> humā <gap reason="lost" quantity="2" unit="character" precision="low"/>
             <lb n="C2"/><gap reason="lost" quantity="2" unit="character" precision="low"/>k<unclear>·</unclear> tluv· <gap reason="lost" quantity="12" unit="character" precision="low"/></item>
             <item><lb n="C3"/><gap reason="lost" quantity="1" unit="character" precision="low"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>u</seg>ḥ<!--sapi2argr tijuḥ?-->  Alauk· 1 k· <g type="dotMid">.</g></item> 
-            <item>humā <unclear>ka</unclear>yauṅ· tlu<supplied reason="lost">v·</supplied> <gap reason="lost" quantity="2" unit="character" precision="low"/></item> 
+            <item>humā <unclear>ka</unclear>yau<unclear>v</unclear>·<!-- ou kayauṅ ?--> tlu<supplied reason="lost">v·</supplied> <gap reason="lost" quantity="2" unit="character" precision="low"/></item> 
             <item><supplied reason="lost">hu</supplied>
-            <lb n="C4" break="no"/>mā travaṅun·<!--sapi2argr ou tracaṅun ?--> vuty<unclear>en</unclear>· <gap reason="lost" quantity="7" unit="character" precision="low"/></item> <item><supplied reason="lost">hu</supplied>
+            <lb n="C4" break="no"/>mā travaṅun· vuty<unclear>en</unclear>· <gap reason="lost" quantity="7" unit="character" precision="low"/></item> <item><supplied reason="lost">hu</supplied>
             <lb n="C5" break="no"/>mā pu<seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>ā</seg>ṅ·<!--sapi2argr mulāṅ?--> <unclear>vreḥ</unclear> 9 Alauk· dvā jāk·</item> 
             <item><gap reason="lost" quantity="2" unit="character" precision="low"/>
             <lb n="C6"/>pināṅ· <unclear>4</unclear><!--sapi2argr ou 5?--> Alauk· <unclear>1</unclear><!-- sapi2argr ou 9?--> k· <g type="dotMid">.</g></item> 

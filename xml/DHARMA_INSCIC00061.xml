@@ -98,29 +98,36 @@
                 <lg n="1" met="vaṁśastha">
                 <l n="a"><lb n="A1"/>X yata str(ī) XX(ṇda)<!--sapi2argr : ṇdu ?--> C(u)mā(h)uC(ca)</l>
                 <l n="b">XXXXX Cya XXCyaX <lb n="A2"/>yaḥ <g type="dotMid">.</g></l>
-                <l n="c">varapradāya smaratāṁ ma<unclear>hā</unclear>tmane </l>
+                <l n="c">vara-pradāya smaratāṁ ma<unclear>hā</unclear>tmane </l>
                 <l n="d">śivāya tasmai pra<unclear>na</unclear>me ma<seg met="+-"><gap reason="illegible" unit="character" quantity="2"/></seg>bhiḥ<!-- 
                     sapi2argr : candrebhiḥ ? 
                     Arlo suggested 
                             mad-adhvabhiḥ but the images don't allow it
                             maj-jānubhiḥ
                             --> 
-                <g type="ddanda">.</g></l></lg>
+                <g type="ddanda">.</g></l>
+                </lg>
             
-            <p>
-            <lb n="A3"/><unclear>śrī</unclear>-X-patiś<!-- śrī-bhūpatiś? śrī-nr̥patiś?--> śrī jaya-<unclear>I</unclear>ndravarmmadevo '<unclear>vati</unclear> guṇa-prabhāvaḥ <g type="dotMid">.</g> 
-             nyāyena sarvva X ta XX<!-- sandarppita? -->
-            <lb n="A4"/>XXvarggaXvi pr̥thivi buCoja <g type="floretQuatrefoil">.</g> (tas)yāmātyavani(pa)rakṣaḥ māX (kā)ryye (kr̥ta)prayatno bhūX·
+            <lg n="2" met="indravajrā">
+            <!-- indravajrā    + + - + + - - + - + =  -->
+            <l n="a" enjamb="yes"><lb n="A3"/><supplied reason="lost">śrī</supplied>-<supplied reason="lost">kṣ</supplied>mā-patiś śrī jaya-<unclear>I</unclear>ndravarmma</l>
+            <l n="b">devo ja<unclear>ga</unclear>d-gī<unclear>ta</unclear>-guṇa-prabhāvaḥ <g type="dotMid">.</g></l>
+             <l n="c">nyāyena santarppita-<seg met="+-+"><gap reason="illegible" quantity="3" unit="character"/></seg>  
+            <lb n="A4" break="no"/><seg met="+"><gap reason="illegible" quantity="1" unit="character"/></seg><unclear>s</unclear></l><!-- santarppita-sādhu-lokas? -->
+             <l n="d"><unclear>tr</unclear>ivargga-sevī pr̥thivīṁ bubhoja <g type="floretQuatrefoil">.</g> </l>
+             </lg>
+
+            <p>(tas)yāmātyavani(pa)rakṣaḥ māX (kā)ryye (kr̥ta)prayatno bhūX·
             <lb n="A5"/> XXX yaḥ kūñ pimilisthara nāma punar ddanāy· pināṅ<!--sapi2argr C. 148 pour une autre occurence de Danāy Pinaṅ --> nāma <g type="floretQuatrefoil">.</g> 
             CuX(n)ena (yaḥ) XCuXXXX
             <lb n="A6"/>Ci C(rat)isCāyya pov· pināṅ (nā)ma rājño XX kr̥(pa)yā AvāXX X(ā)ryyaniti<!-- sapi2argr bhāryya ?--> XXXX
-            <lb n="A7"/>[ye]na sthāpitaṁ Iśaś śrī-(I)ndradev(e)-Cāhvāyaḥ (śaraika)mūrttibhir yyukte śakabde śraddhayā (n)i
+            <lb n="A7"/>[ye]na sthāpitaṁ Iśaś śrī-(I)ndradev(e)-Cāhvāyaḥ (śaraika)-mūrttibhir yyukte śakabde śraddhayā (n)i
             <lb n="A8"/>XX jā (puṇya)XXXX śrī-candradeveśvare śive striyā X nā sipauṅsaṁjñā yāX
             <lb n="A9"/><unclear>t</unclear>ākhilam· <unclear><g type="floretQuatrefoil">.</g></unclear> 
             </p>
             <!-- argr2sapi: s'il s'avère que le passage qui vient de se terminer est en prose, alors il doirt être fermé avec </p>, ce que je fais provisoirement; mais il faudra continuer à chercher des structures mértiques -->
 
-            <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" >
+            <lg n="3" met="anuṣṭubh" xml:lang="san-Latn" >
                 <l n="a">sarvve<unclear>ṣu</unclear> <unclear>sā</unclear>py agotre<unclear>ṣu</unclear></l>
                 <l n="b">puṇye <supplied reason="subaudible">'</supplied>smiṁ <unclear>tu</unclear> pradīyate</l>
                 <l n="c">muktir bbhūpati<!-- sapi2argr C. 252 : mukti-bhaṅ(g)ā pradīya(t)e -->
@@ -146,7 +153,7 @@
             <lb n="A13"/>X Api ca <g type="floretQuatrefoil">.</g>
             </p>
 
-            <lg met="indravajrā" n="01" xml:lang="san-Latn" >
+            <lg met="indravajrā" n="4" xml:lang="san-Latn" >
                 <l n="a" enjamb="yes">kṣoṇī-patiś śrī-jayasiṅhavarmma</l>
                 <l n="b">devas samācchādya diśo <unclear>ya</unclear><lb n="A14" break="no"/><supplied reason="lost">śo</supplied>bhiḥ</l>
                 <l n="c">rāja-śriyaṁ rāja-guṇodayena</l> 
@@ -158,21 +165,21 @@
             <lb n="A16"/><gap reason="lost" unit="character" quantity="1"/> nāmāpy abhigacchati sma punaḥ <g type="floretQuatrefoil">.</g>
 </p>
             
-            <lg n="2" met="indravajrā" xml:lang="san-Latn">
+            <lg n="5" met="indravajrā" xml:lang="san-Latn">
              <!-- + + - + + - - + - + =  -->
                 <l n="a">pañca-dvi-kāyopagate śakābde</l>
                 <l n="b"><seg met="+"><gap reason="illegible" quantity="1" unit="character"/></seg><lb n="A17"/><seg met="+-"><gap reason="illegible" quantity="2" unit="character"/></seg>dhānena bhuvi svakīrttyai <g type="dotMid">.</g></l>
                 <l n="c">yena pratiṣṭhāpita Īśvaro <supplied reason="subaudible">'</supplied>yaṁ</l>
                 <l n="d">śrī-śaṅkare<supplied reason="lost">śā</supplied><lb n="A18" break="no"/>hvaya eva bhūyaḥ <g type="floretQuatrefoil">.</g></l>
               </lg>
-            <lg n="3" met="anuṣṭubh" xml:lang="san-Latn">
+            <lg n="6" met="anuṣṭubh" xml:lang="san-Latn">
                 <l n="a" enjamb="yes">śrī-jayasiṅhavarmmā śrī</l>
                 <l n="b">-śaṅkareśe narādhipaḥ</l>
                 <l n="c" enjamb="yes"><seg met="="><gap reason="illegible" quantity="1" unit="character"/></seg><lb n="A19"/><seg met="=="><gap reason="illegible" quantity="2" unit="character"/></seg>triñ ca śaṅkhañ cā</l>
                 <!-- chattriñ?  -->
                 <l n="d">dād raupya-kalaśan tathā<g type="floretQuatrefoil">.</g></l>
               </lg>
-            <lg n="4" met="upajāti" xml:lang="san-Latn">
+            <lg n="7" met="upajāti" xml:lang="san-Latn">
             <!-- = + - + + - - + - + =  -->
                 <l n="a" enjamb="yes">yasyānujā śrī-ja<supplied reason="lost">ya</supplied><seg met="+-"><gap reason="illegible" quantity="2" unit="character"/></seg><lb n="A20" break="no"/><supplied reason="lost">va</supplied>rmmā</l>
                 <l n="b">vanīśa-bhāryyā pariśuddha-bhāvā <g type="dotMid">.</g></l>
@@ -180,7 +187,7 @@
                 <l n="d"><lb n="A21"/><seg met="+"><gap reason="illegible" quantity="1" unit="character"/></seg>ṣṭyeva bhātīha surendradevī <g type="floretQuatrefoil">.</g></l>
                 <!-- ṣṭye 'vabhāti? -->
               </lg>
-              <lg n="5" met="vasantatilakā" xml:lang="san-Latn">
+              <lg n="8" met="vasantatilakā" xml:lang="san-Latn">
               <l n="a">prātiṣṭhipad bhagava<seg met="-+--+-+="><gap reason="illegible" quantity="8" unit="character"/></seg></l>
               </lg>
               <!-- 

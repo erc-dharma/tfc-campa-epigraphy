@@ -8,30 +8,14 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Bottom part of architectural crown from Khánh Lễ</title>
+            <title>Bottom part of architectural crown from Khánh Lễ (C. 175), ca. 10th c. CE</title>
             <respStmt>
                <resp>EpiDoc Encoding</resp>
-               <persName ref="part:sapi">
-                  <forename>Salomé</forename>
-                  <surname>Pichon</surname>
-               </persName>
-            </respStmt>
-            <respStmt>
+               <resp>Conversion of encoding for DHARMA</resp>
                <resp>intellectual authorship of edition</resp>
                <persName ref="part:argr">
                   <forename>Arlo</forename>
                   <surname>Griffths</surname>
-               </persName>
-               <persName ref="part:sapi">
-                  <forename>Salomé</forename>
-                  <surname>Pichon</surname>
-               </persName>
-            </respStmt>
-            <respStmt>
-               <resp>Conversion of encoding for DHARMA</resp>
-               <persName ref="part:sapi">
-                  <forename>Salomé</forename>
-                  <surname>Pichon</surname>
                </persName>
             </respStmt>
          </titleStmt>
@@ -46,7 +30,7 @@
                         https://creativecommons.org/licenses/by/4.0/ or send a letter to
                         Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                         California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Arlo Griffiths and Salomé Pichon.</p>
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -126,6 +110,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change when="2025-01-14" who="part:argr" status="draft">revised encoding to bring into compliance with DHARMA</change>
          <change when="2020-09-14" who="part:axja" status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
@@ -158,17 +143,55 @@
          <desc>Segment (8/8) of inscription <ptr/>. Taken at the Museum of Cham Sculpture by Arlo Griffiths on .</desc>
       </graphic>
    </facsimile>
-   <text xml:space="preserve"><body><div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:83213">
-                    <ab>☉<!-- AG: or use ⦿? -->oṁ </ab>
-                   <lg met="anuṣṭubh" n="0">
-                      <l n="ab">jaimaniñ ca samantañ ca vaiśampāyanam eva ca <g>|</g></l>
-                      <l n="cd">yatra nāmāni likhitāni na tatrāśanipātanaṁ</l></lg>
-                <ab>svāhaḥ <g type="fleuron"/></ab>
-            </div><div type="apparatus"><listApp><app loc="a"><lem>samantañ</lem><note>correct <foreign>sumantuñ</foreign></note></app><app loc="d"><lem>tatrāśanipātanaṁ</lem><rdg source="bib:Griffiths+al2012_01">tatrāśavipātanaṁ</rdg><note>The reading adopted here was proposed to us by Somdev Vasudeva (email ) and is quite clearly corroborated by photo 7/8. Our published emendation <foreign>tatrāśivapātanaṁ</foreign> is hereby rescinded.</note></app><app loc="explicit"><lem>svāhaḥ</lem><note>correct <foreign>svāhā</foreign></note></app></listApp></div><div type="translation"><p>Om! [I inscribe the names of] Jaimani, Sumantu and Vaiśampāyana. Wherever [these] names have been inscribed, there no lightning-strike will occur. Hail!</p></div><div type="translation" xml:lang="fra"><p>Om! [J'inscris les noms de] Jaimani, [de] Sumantu et [de] Vaiśampāyana. Où [ces] noms sont inscrits, il n'y aura pas de coup de foudre. Salut!</p></div><div type="commentary"><p>Enclosed between the elements <foreign>oṁ</foreign> and <foreign>svāhaḥ</foreign> (for <foreign>svāhā</foreign>), which are commonly used throughout the Hindu and Buddhist world to mark that the text enclosed is a mantra, we find a not entirely successful Anuṣṭubh stanza, which is not only metrically deficient but also grammatically awkward, with three names in the accusative case where we would rather expect nominative forms, although the meaning is clear. Our translation implies the minimal emendation of three words, as indicated. It would be easy to solve the mentioned grammatical akwardness by emending less conservatively: <foreign>jaimaniś ca sumantuś ca vaiśampāyana eva ca</foreign>. The metrical problem can be circumvented by accepting the license that the sequence of two short syllables in <foreign>likhitāni</foreign> be pronounced as one long syllable.
-                </p><p>For the mythological background of this inscription, we refer to our printed publication.</p><p>The expression <foreign>aśanipātana</foreign> is one of the factors said to cause the state of mind (<foreign>bhāva</foreign>) called <quote>terror</quote> (<foreign>trāsa</foreign>) in Nāṭyaśāstra 7.90: <quote rend="block">trāso nāma —
-                    vidyudulkāśanipātanirghātāmbudharamahāsattvapaśuravādibhir vibhāvair utpadyate |
-                    tam abhinayet saṃkṣiptāṅgotkampanavepathustambharomāñcagadgadapralāpādibhir anubhāvaiḥ |</quote></p></div><!-- <div type="bibliography" subtype="secondary">
-                <listBibl>
-                </listBibl>
-                </div> --></body></text>
+   <text xml:space="preserve">
+   <body>
+   <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:83213">
+                    <ab><lb n="1"/><milestone unit="face" n="1"/><g type="circleTarget"/> Oṁ</ab>
+                   <lg met="anuṣṭubh" n="1">
+                      <l n="a">jaimani<milestone unit="face" n="2" break="no"/>ñ ca s<choice><sic>a</sic><corr>u</corr></choice>mantañ ca</l> 
+                      <l n="b"><milestone unit="face" n="3"/>vaiśampāya<milestone unit="face" n="4"/>nam eva ca <g type="danda"/></l>
+                      <l n="c" real="+-++---+-"><milestone unit="face" n="5"/>yatra nāmāni <milestone unit="face" n="6"/>likhitāni</l>
+                      <l n="d">na ta<milestone unit="face" n="7" break="no"/>trāśani-pāta<milestone unit="face" n="8" break="no"/>naṁ</l>
+                      </lg>
+                <ab>svāh<choice><sic>aḥ</sic><corr>ā</corr></choice> <g type="gomutraFinal"/></ab>
+   </div>
+   <div type="apparatus">
+   <listApp>
+      <app loc="1">
+      <lem>tatrāśanipātanaṁ</lem>
+      <rdg source="bib:Griffiths+al2012_01">tatrā<choice><sic>śavi</sic><corr>śiva</corr></choice>pātanaṁ</rdg>
+      <note>The new reading adopted here was proposed to us by Somdev Vasudeva (email 2014-03-23) and is quite clearly corroborated by the corresponding estampage. Our published emendation <foreign>tatrāśivapātanaṁ</foreign> is hereby withdrawn.</note>
+      </app>
+      </listApp>
+      </div>
+      <div type="translation">
+      <p><foreign>Om</foreign>! <supplied reason="subaudible">I inscribe the names of</supplied> Jaimani,<note>This spelling is not an error. See <bibl><ptr target="bib:Parpola2023_01"/><citedRange unit="page">378</citedRange></bibl> and the Khmer inscription K. 1216.</note> Sumantu and Vaiśampāyana. Wherever <supplied reason="subaudible">these</supplied> names have been inscribed, there no lightning-strike will occur. Hail!</p>
+      </div>
+      <div type="translation" xml:lang="fra">
+      <p><foreign>Om</foreign>! <supplied reason="subaudible">J'inscris les noms de</supplied> Jaimani, <supplied reason="subaudible">de</supplied> Sumantu et <supplied reason="subaudible">de</supplied> Vaiśampāyana. Où <supplied reason="subaudible">lesdits</supplied> noms sont inscrits, il n'y aura pas de coup de foudre. Salut!</p>
+      </div>
+      <div type="commentary">
+      <p>Enclosed between the elements <foreign>oṁ</foreign> and <foreign>svāhaḥ</foreign> (for <foreign>svāhā</foreign>), which are commonly used throughout the Hindu and Buddhist world to mark that the text enclosed is a mantra, we find a not entirely successful Anuṣṭubh stanza, which is not only metrically deficient but also grammatically awkward, with three names in the accusative case where we would rather expect nominative forms, although the meaning is clear. It would be easy to solve the mentioned grammatical akwardness by emending less conservatively: <foreign>jaimaniś ca sumantuś ca vaiśampāyana eva ca</foreign>.<note>This reading is indeed found in the verses cited by Baladeva Vidyābhūṣaṇa (18th century) in his commentary to a song by Rūpa Gosvāmin: 
+      <q>muneḥ kalyāṇamitrasya jaimineś cāpi kīrtanāt
+         vidyud-agni-bhayaṁ nāsti likhite ca gr̥hodare
+         jaiminiś ca sumantuś ca vaiśampāyana eva ca
+         pulastyaḥ pulahaś caiva pañcaite vajra-vāraṇāḥ</q>. (Personal communication from David Buchta.)</note> 
+      The metrical problem can be circumvented by accepting the license that the sequence of two short syllables in <foreign>likhitāni</foreign> be pronounced as one long syllable.</p>
+      <p>For mythical background the three names Jaimani (or Jaimini), Sumantu and Vaiśampāyana, which are famous names of sages from the Sanskrit epic <title>Mahābhārata</title>, disciples of its narrator Vyāsa, see <bibl><ptr target="bib:Parpola2023_01"/><citedRange>377</citedRange></bibl>. Why they were invoked for protective purposes remains somewhat unclear. At least it it known that this phenomenon itself was not limited to Campā, but also existed in Cambodia. Cf. the Khmer inscriptions <ref target="DHARMA_INSCIK00895">K. 895</ref> and <ref target="DHARMA_INSCIK00895">K. 1216</ref>.</p>
+      <p>The expression <foreign>aśanipātana</foreign> is one of the factors said to cause the state of mind (<foreign>bhāva</foreign>) called <q>terror</q> (<foreign>trāsa</foreign>) in <title>Nāṭyaśāstra</title> 7.90: <quote>trāso nāma —
+                    vidyud-ulkāśanipāta-nirghātāmbudhara-mahāsattva-paśu-ravādibhir vibhāvair utpadyate |
+                    tam abhinayet saṁkṣiptāṅgotkampana-vepathu-stambha-romāñca-gadgada-pralāpādibhir anubhāvaiḥ |</quote>.
+      </p>
+      </div>
+      <div type="bibliography">
+           <p>First published in <bibl><ptr target="Griffiths+al2012_01"/></bibl> with reproduction of the EFEO estampage sheets under number n. 512. This revised digital edition by Arlo Griffiths (2025).</p>
+        	<listBibl type="primary">
+				<bibl n="CIC"><ptr target="bib:Griffiths+al2012_01"/><citedRange unit="page">245-246</citedRange></bibl>
+			</listBibl>
+           <listBibl type="secondary">
+              <bibl><ptr target="bib:BEFEO028_1928_02"/><citedRange unit="page">601-603</citedRange></bibl>
+           </listBibl>
+        </div>
+         </body>
+      </text>
 </TEI>

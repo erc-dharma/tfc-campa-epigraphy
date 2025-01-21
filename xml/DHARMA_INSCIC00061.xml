@@ -117,11 +117,18 @@
              <l n="d"><unclear>tr</unclear>ivargga-sevī pr̥thivīṁ bubhoja <g type="floretQuatrefoil">.</g> </l>
              </lg>
 
-            <p>(tas)yāmātyavani(pa)rakṣaḥ māX (kā)ryye (kr̥ta)prayatno bhūX·
-            <lb n="A5"/> XXX yaḥ kūñ pimilisthara nāma punar ddanāy· pināṅ<!--sapi2argr C. 148 pour une autre occurence de Danāy Pinaṅ --> nāma <g type="floretQuatrefoil">.</g> 
-            CuX(n)ena (yaḥ) XCuXXXX
-            <lb n="A6"/>Ci C(rat)isCāyya pov· pināṅ (nā)ma rājño XX kr̥(pa)yā AvāXX X(ā)ryyaniti<!-- sapi2argr bhāryya ?--> XXXX
-            <lb n="A7"/>[ye]na sthāpitaṁ Iśaś śrī-(I)ndradev(e)-Cāhvāyaḥ (śaraika)-mūrttibhir yyukte śakabde śraddhayā (n)i
+            <p>tasyāmātya-jani<unclear>mā</unclear> kṣamāpa-kāryye kr̥ta-prayatno <supplied reason="subaudible">'</supplied>bhū<unclear>t</unclear>·
+            <!-- janimā? jadịmā? paṭiṣṭha?
+            C. 148, st. IV: tasyāmātyas samasteśaguṇapaṭutaro 
+            <supplied reason="subaudible">'</supplied>śesa(8)dharmmāspadārthī 
+
+            Vaijayantī: janimā mātāpitarāv utpattistanayo'pi ca || 27 ||
+            -->
+            <lb n="A5"/>XXX yaḥ kūñ pimilisthara nāma punar ddanāy· pināṅ nāma <g type="floretQuatrefoil">.</g> 
+            pusena (yaḥ) bahucapunaḥ
+            <lb n="A6"/>Ci gratisthāyya pov· pināṅ nāma rājño XX kr̥<unclear>pa</unclear>yā Avāpa X(ā)ryyaniti<!-- sapi2argr bhāryya ?--> XXXX
+            <!-- Avāptaśauryyanītipannapu ?-->
+            <lb n="A7"/>[ye]na sthāpitaṁ Īśaś śrī-(I)ndradev(o)-Cāhvāyaḥ (śaraika)-mūrttibhir yyukte śakabde śraddhayā (n)i
             <lb n="A8"/>XX jā (puṇya)XXXX śrī-candradeveśvare śive striyā X nā sipauṅsaṁjñā yāX
             <lb n="A9"/><unclear>t</unclear>ākhilam· <unclear><g type="floretQuatrefoil">.</g></unclear> 
             </p>
@@ -320,6 +327,7 @@
          </div>
          <div type="translation" resp="part:argr part:sapi">
          <p rend="stanza" n="2">Le roi Śrī Jaya Indravarmadeva, seigneur de la glorieuse Terre, dont la puissance des qualités de la gloire est universelle, séparateur des hommes de bien satisfaits grâce à la loi, qui honore les trois mondes, posséda la Terre.</p>
+         <!--sapi2argr l.A5 : C. 148 pour une autre occurence de Danāy Pinaṅ -->
          <p rend="stanza" n="3">La libération donnée par le roi grâce à l'exemption de toutes les taxes, elle est aussi accordée dans ce mérite de tous les <foreign>agotra</foreign>.</p>
  	<!--translation encoded as per EGD §9.2 -->
          </div>

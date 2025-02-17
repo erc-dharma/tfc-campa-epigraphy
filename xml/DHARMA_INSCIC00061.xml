@@ -99,38 +99,38 @@
                 <l n="a"><lb n="A1"/>X yata str(ī) XX(ṇda)<!--sapi2argr : ṇdu ?--> C(u)mā(h)uC(ca)</l>
                 <l n="b">XXXXX Cya XXCyaX <lb n="A2"/>yaḥ <g type="dotMid">.</g></l>
                 <l n="c">vara-pradāya smaratāṁ ma<unclear>hā</unclear>tmane </l>
-                <l n="d">śivāya tasmai pra<unclear>na</unclear>me ma<seg met="+-"><gap reason="illegible" unit="character" quantity="2"/></seg>bhiḥ<!-- 
-                    sapi2argr : candrebhiḥ ? 
-                    Arlo suggested 
+                <l n="d">śivāya tasmai pra<unclear>na</unclear>me ma<seg met="+-"><gap reason="illegible" unit="character" quantity="2"/></seg>bhiḥ<!--
+                    sapi2argr : candrebhiḥ ?
+                    Arlo suggested
                             mad-adhvabhiḥ but the images don't allow it
                             maj-jānubhiḥ
-                            --> 
+                            -->
                 <g type="ddanda">.</g></l>
                 </lg>
-            
+
             <lg n="2" met="indravajrā">
             <!-- indravajrā    + + - + + - - + - + =  -->
             <l n="a" enjamb="yes"><lb n="A3"/><supplied reason="lost">śrī</supplied>-<supplied reason="lost">kṣ</supplied>mā-patiś śrī jaya-<unclear>I</unclear>ndravarmma</l>
             <l n="b">devo ja<unclear>ga</unclear>d-gī<unclear>ta</unclear>-guṇa-prabhāvaḥ <g type="dotMid">.</g></l>
-             <l n="c">nyāyena santarppita-<unclear>sādhu-</unclear><supplied reason="lost">va</supplied>  
+             <l n="c">nyāyena santarppita-<unclear>sādhu-</unclear><supplied reason="lost">va</supplied>
             <lb n="A4" break="no"/><supplied reason="lost">rgga</supplied><unclear>s</unclear></l><!-- santarppita-sādhu-lokas? -->
              <l n="d"><unclear>tr</unclear>ivargga-sevī pr̥thivīṁ bubhoja <g type="floretQuatrefoil">.</g> </l>
              </lg>
 
             <p>tasyāmātya-jani<unclear>mā</unclear> kṣamāpa-kāryye kr̥ta-prayatno <supplied reason="subaudible">'</supplied>bhū<unclear>t</unclear>·
             <!-- janimā? jadịmā? paṭiṣṭha?
-            C. 148, st. IV: tasyāmātyas samasteśaguṇapaṭutaro 
-            <supplied reason="subaudible">'</supplied>śesa(8)dharmmāspadārthī 
+            C. 148, st. IV: tasyāmātyas samasteśaguṇapaṭutaro
+            <supplied reason="subaudible">'</supplied>śesa(8)dharmmāspadārthī
 
             Vaijayantī: janimā mātāpitarāv utpattistanayo'pi ca || 27 ||
             -->
-            <lb n="A5"/>XXX yaḥ kūñ pimilisthara nāma punar ddanāy· pināṅ nāma <g type="floretQuatrefoil">.</g> 
+            <lb n="A5"/>XXX yaḥ k<choice><unclear>ū</unclear><unclear>lu</unclear></choice>ñ pimilisthara nāma punar ddanāy· pināṅ nāma <g type="floretQuatrefoil">.</g> 
             pusena (yaḥ) bahucapunaḥ
             <lb n="A6"/>Ci gratisthāyya pov· pināṅ nāma rājño XX kr̥<unclear>pa</unclear>yā Avāpa X(ā)ryyaniti<!-- sapi2argr bhāryya ?--> XXXX
             <!-- Avāptaśauryyanītipannapu ?-->
             <lb n="A7"/>[ye]na sthāpitaṁ Īśaś śrī-(I)ndradev(o)-Cāhvāyaḥ (śaraika)-mūrttibhir yyukte śakabde śraddhayā (n)i
             <lb n="A8"/>XX jā (puṇya)XXXX śrī-candradeveśvare śive striyā X nā sipauṅsaṁjñā yāX
-            <lb n="A9"/><unclear>t</unclear>ākhilam· <unclear><g type="floretQuatrefoil">.</g></unclear> 
+            <lb n="A9"/><unclear>t</unclear>ākhilam· <unclear><g type="floretQuatrefoil">.</g></unclear>
             </p>
             <!-- argr2sapi: s'il s'avère que le passage qui vient de se terminer est en prose, alors il doirt être fermé avec </p>, ce que je fais provisoirement; mais il faudra continuer à chercher des structures mértiques -->
 
@@ -140,18 +140,18 @@
                 <l n="c">muktir bbhūpati<!-- sapi2argr C. 252 : mukti-bhaṅ(g)ā pradīya(t)e -->
                 <!-- argr2sapi: I expect something like muktir bbhūpatinā dattā -->
                 <lb n="A10" break="no"/><supplied reason="lost">nā datt</supplied>ā</l>
-                <l n="d">karādānān tu sarvvataḥ<!-- sapi2argr C. 252: karadā-d(v)āttu sarvvataḥ. 
+                <l n="d">karādānān tu sarvvataḥ<!-- sapi2argr C. 252: karadā-d(v)āttu sarvvataḥ.
                 argr2sapi: the expression is typical for the Indrapura period, in several slightly varying forms. I made a note about it in the Da Nang catalog, and/or in our publication of C. 167.
                 --> <g type="floretQuatrefoil">.</g></l>
               </lg>
-            
+
             <p>
             <!-- or maybe an āryā stanza? -->
             śrī-<gap reason="illegible" unit="character" quantity="2"/><unclear>bhakt</unclear>i-vīraś śrī-jayavarmmendravarmmadevākhyaḥ<!-- sapi2argr: ou dharmmendra- ?--> <unclear><g type="dotMid">.</g></unclear>
             <!-- argr2sapi: je ne suis pas vraiment convaincu qu'il faille lire le dotMid ici-->
-            <lb n="A11"/><unclear>sa</unclear>rvvāṁ mahīṁ pr̥thu-śrī<choice><unclear>r aṣṭa</unclear><unclear>-sapta</unclear></choice>-śauryyeṇa <gap reason="illegible" unit="character" quantity="4"/> <g type="floretQuatrefoil">.</g> 
-            <!-- Krtyakalpataru 'saptāgamāt' — 
-            saptavittāgamāḥ dharmyā dāyo lābhaḥ krayo jayaḥ | 
+            <lb n="A11"/><unclear>sa</unclear>rvvāṁ mahīṁ pr̥thu-śrī<choice><unclear>r aṣṭa</unclear><unclear>-sapta</unclear></choice>-śauryyeṇa <gap reason="illegible" unit="character" quantity="4"/> <g type="floretQuatrefoil">.</g>
+            <!-- Krtyakalpataru 'saptāgamāt' —
+            saptavittāgamāḥ dharmyā dāyo lābhaḥ krayo jayaḥ |
             prayogaḥ karmayogaś ca satpratigraha eva ca || iti manūkteḥ [10.115] saptavidhaśauryādyāgamalabdhadhanād uddhṛtya tad dhanam āśritya gṛhakṣetrādi dātavyam | na tv anāgamam ity arthaḥ | -->
 
             tadāpi yasya pu<unclear>ṇ</unclear><supplied reason="lost">y</supplied><unclear>e</unclear>X
@@ -163,7 +163,7 @@
             <lg met="indravajrā" n="4" xml:lang="san-Latn" >
                 <l n="a" enjamb="yes">kṣoṇī-patiś śrī-jayasiṅhavarmma</l>
                 <l n="b">devas samācchādya diśo <unclear>ya</unclear><lb n="A14" break="no"/><supplied reason="lost">śo</supplied>bhiḥ</l>
-                <l n="c">rāja-śriyaṁ rāja-guṇodayena</l> 
+                <l n="c">rāja-śriyaṁ rāja-guṇodayena</l>
                 <l n="d">sthira-sthira-śrī-nicayām arakṣīt· <g type="floretQuatrefoil">.</g></l>
             </lg>
 
@@ -171,7 +171,7 @@
             <lb n="A15"/><gap reason="lost" unit="character" quantity="2"/> tadāpi nr̥pājñā-supratipatti-prayatna-sevātaḥ dhīrāgra-dhīra-cauXX<!-- co? cf. AB sipauṅsaṁjñā "nommé si Pauṅ" — avons-nous ici le même (type de) nom propre? -->
             <lb n="A16"/><gap reason="lost" unit="character" quantity="1"/> nāmāpy abhigacchati sma punaḥ <g type="floretQuatrefoil">.</g>
 </p>
-            
+
             <lg n="5" met="indravajrā" xml:lang="san-Latn">
              <!-- + + - + + - - + - + =  -->
                 <l n="a">pañca-dvi-kāyopagate śakābde</l>
@@ -197,7 +197,7 @@
               <lg n="8" met="vasantatilakā" xml:lang="san-Latn">
               <l n="a">prātiṣṭhipad bhagava<seg met="-+--+-+="><gap reason="illegible" quantity="8" unit="character"/></seg></l>
               </lg>
-              <!-- 
+              <!--
 
               -->
 
@@ -209,85 +209,85 @@
             <list>
            <item> humā <gap reason="lost" quantity="2" unit="character" precision="low"/>
             <lb n="C2"/><gap reason="lost" quantity="2" unit="character" precision="low"/>k<unclear>·</unclear> tluv· <gap reason="lost" quantity="12" unit="character" precision="low"/></item>
-            <item><lb n="C3"/><gap reason="lost" quantity="1" unit="character" precision="low"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>u</seg>ḥ<!--sapi2argr tijuḥ?-->  Alauk· 1 k· <g type="dotMid">.</g></item> 
-            <item>humā <unclear>ka</unclear>yau<unclear>v</unclear>·<!-- ou kayauṅ ?--> tlu<supplied reason="lost">v·</supplied> <gap reason="lost" quantity="2" unit="character" precision="low"/></item> 
+            <item><lb n="C3"/><gap reason="lost" quantity="1" unit="character" precision="low"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>u</seg>ḥ<!--sapi2argr tijuḥ?-->  Alauk· 1 k· <g type="dotMid">.</g></item>
+            <item>humā <unclear>ka</unclear>yau<unclear>v</unclear>·<!-- ou kayauṅ ?--> tlu<supplied reason="lost">v·</supplied> <gap reason="lost" quantity="2" unit="character" precision="low"/></item>
             <item><supplied reason="lost">hu</supplied>
             <lb n="C4" break="no"/>mā travaṅun· vuty<unclear>en</unclear>· <gap reason="lost" quantity="7" unit="character" precision="low"/></item> <item><supplied reason="lost">hu</supplied>
-            <lb n="C5" break="no"/>mā pu<seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>ā</seg>ṅ·<!--sapi2argr mulāṅ?--> <unclear>vreḥ</unclear> 9 Alauk· dvā jāk·</item> 
+            <lb n="C5" break="no"/>mā pu<seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>ā</seg>ṅ·<!--sapi2argr mulāṅ?--> <unclear>vreḥ</unclear> 9 Alauk· dvā jāk·</item>
             <item><supplied reason="lost">humā</supplied>
-            <lb n="C6"/>pināṅ· <unclear>4</unclear><!--sapi2argr ou 5?--> Alauk· <unclear>1</unclear><!-- sapi2argr ou 9?--> k· <g type="dotMid">.</g></item> 
+            <lb n="C6"/>pināṅ· <unclear>4</unclear><!--sapi2argr ou 5?--> Alauk· <unclear>1</unclear><!-- sapi2argr ou 9?--> k· <g type="dotMid">.</g></item>
             <item>humā <gap reason="lost" quantity="3" unit="character"/> <supplied reason="lost">jā</supplied>
-            <lb n="C7" break="no"/>k· <g type="dotMid">.</g></item> <item>humā <unclear>nr̥</unclear><gap reason="lost" quantity="1" unit="character"/><!--sapi2argr nr̥pai? nr̥lai ?--> dvā jāk· <g type="dotMid">.</g></item> <item>humā <gap reason="lost" quantity="1" unit="character"/>ddhī<!--sapi2argr buddhi? vuddhi? --> gra<gap reason="lost" quantity="2" unit="character" precision="low"/> 
-            <lb n="C8"/><unclear>ṅā</unclear>v· <unclear>da</unclear>laṁ dalapan· jāk· <g type="dotMid">.</g></item> 
+            <lb n="C7" break="no"/>k· <g type="dotMid">.</g></item> <item>humā <unclear>nr̥</unclear><gap reason="lost" quantity="1" unit="character"/><!--sapi2argr nr̥pai? nr̥lai ?--> dvā jāk· <g type="dotMid">.</g></item> <item>humā <gap reason="lost" quantity="1" unit="character"/>ddhī<!--sapi2argr buddhi? vuddhi? --> gra<gap reason="lost" quantity="2" unit="character" precision="low"/>
+            <lb n="C8"/><unclear>ṅā</unclear>v· <unclear>da</unclear>laṁ dalapan· jāk· <g type="dotMid">.</g></item>
             <item>humā <gap reason="lost" quantity="3" unit="character" precision="low"/> <supplied reason="lost">jā</supplied>
-            <lb n="C9" break="no"/>k· <g type="dotMid">.</g></item> <item>humā krau<unclear>c</unclear>· <gap reason="lost" quantity="3" unit="character"/> jāk· <g type="dotMid">.</g></item> 
-            <item>humā 
+            <lb n="C9" break="no"/>k· <g type="dotMid">.</g></item> <item>humā krau<unclear>c</unclear>· <gap reason="lost" quantity="3" unit="character"/> jāk· <g type="dotMid">.</g></item>
+            <item>humā
             <lb n="C10"/>kravāv· sā jāk· <g type="dotMid">.</g></item> <item>humā <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>i</seg>ṇda<unclear>ṅ</unclear>· dvā <unclear>j</unclear><supplied reason="lost">āk <g type="dotMid">.</g></supplied></item>
-            <item><lb n="C11"/><supplied reason="lost">hu</supplied>mā <gap reason="lost" quantity="1" unit="character"/> koṅ·<!--kauṅ ?--> <unclear>nan· sā</unclear> jāk· <g type="dotMid">.</g></item> <item>humā <gap reason="lost" quantity="2" unit="character" precision="low"/>  
-            <lb n="C12"/><gap reason="lost" quantity="2" unit="character" precision="low"/></item> 
-            <item>humā <unclear>d</unclear>luṁ <unclear>v</unclear>u<gap reason="lost" quantity="1" unit="character"/> <unclear>sā</unclear> pluḥ limā jāk· ṅan· <gap reason="lost" quantity="2" unit="character" precision="low"/>  
-            <lb n="C13"/><gap reason="lost" quantity="1" unit="character" precision="low"/></item> 
-            <item><unclear>hu</unclear>mā <unclear>dh</unclear>va<unclear>ja</unclear> 9 jāk· <g type="dotMid">.</g></item> 
+            <item><lb n="C11"/><supplied reason="lost">hu</supplied>mā <gap reason="lost" quantity="1" unit="character"/> koṅ·<!--kauṅ ?--> <unclear>nan· sā</unclear> jāk· <g type="dotMid">.</g></item> <item>humā <gap reason="lost" quantity="2" unit="character" precision="low"/>
+            <lb n="C12"/><gap reason="lost" quantity="2" unit="character" precision="low"/></item>
+            <item>humā <unclear>d</unclear>luṁ <unclear>v</unclear>u<gap reason="lost" quantity="1" unit="character"/> <unclear>sā</unclear> pluḥ limā jāk· ṅan· <gap reason="lost" quantity="2" unit="character" precision="low"/>
+            <lb n="C13"/><gap reason="lost" quantity="1" unit="character" precision="low"/></item>
+            <item><unclear>hu</unclear>mā <unclear>dh</unclear>va<unclear>ja</unclear> 9 jāk· <g type="dotMid">.</g></item>
             <item>humā luvaur<unclear>·</unclear> dvā jā<unclear>k·</unclear> <gap reason="lost" quantity="1" unit="character" precision="low"/>
             <lb n="C14"/><gap reason="lost" quantity="1" unit="character" precision="low"/></item> <item>humā vaṁk· <unclear>9</unclear><!-- 8?--> jāk· <g type="dotMid">.</g></item> <item>humā cumrai<!--cumvrai?--> l<unclear>imā</unclear> <supplied reason="lost">jāk·</supplied>
-            <lb n="C15"/><gap reason="lost" quantity="1" unit="character" precision="low"/></item> 
-            <item>humā <unclear>k</unclear>rauv·<!-- śrauv?--> dvā· jāk· <g type="dotMid">.</g></item> 
+            <lb n="C15"/><gap reason="lost" quantity="1" unit="character" precision="low"/></item>
+            <item>humā <unclear>k</unclear>rauv·<!-- śrauv?--> dvā· jāk· <g type="dotMid">.</g></item>
             <item>humā pulāv· dvā <supplied reason="lost">jāk·</supplied>
             <lb n="C16"/><gap reason="lost" quantity="1" unit="character" precision="low"/> <unclear>ṅa</unclear>n· canaṅ· likū<gap reason="lost" quantity="2" unit="character"/> saḥ <gap reason="lost" quantity="2" unit="character"/> Andap· <gap reason="lost" quantity="1" unit="character" precision="low"/>
-            <lb n="C17"/><gap reason="lost" quantity="1" unit="character" precision="low"/> <unclear>5</unclear><!-- 4?--> jāk· <g type="dotMid">.</g></item> 
+            <lb n="C17"/><gap reason="lost" quantity="1" unit="character" precision="low"/> <unclear>5</unclear><!-- 4?--> jāk· <g type="dotMid">.</g></item>
             <item>humā yavvāṅ· tluv· jāk· <g type="dotMid">.</g></item> <item><gap reason="lost" quantity="2" unit="character" precision="low"/>
-            <lb n="C18"/><gap reason="lost" quantity="1" unit="character" precision="low"/>ṅ· dvā jāk· <g type="dotMid">.</g></item> <item>pagāra <g type="dotMid">.</g></item> 
+            <lb n="C18"/><gap reason="lost" quantity="1" unit="character" precision="low"/>ṅ· dvā jāk· <g type="dotMid">.</g></item> <item>pagāra <g type="dotMid">.</g></item>
             <item><unclear>ran</unclear>dav· <g type="dotMid">.</g></item> <item>humā <unclear>ya</unclear><gap reason="lost" quantity="2" unit="character" precision="low"/>
-            <lb n="C19"/><supplied reason="lost">jā</supplied>k· <g type="dotMid">.</g></item> 
-            <item>humā <unclear>kan</unclear>ī<unclear>sov</unclear>· sā jāk· <g type="dotMid">.</g></item> 
+            <lb n="C19"/><supplied reason="lost">jā</supplied>k· <g type="dotMid">.</g></item>
+            <item>humā <unclear>kan</unclear>ī<unclear>sov</unclear>· sā jāk· <g type="dotMid">.</g></item>
             <item>humā <gap reason="lost" quantity="1" unit="character" precision="low"/>
-            <lb n="C20"/><gap reason="lost" quantity="1" unit="character" precision="low"/> <unclear>sā</unclear>ṅ· Urāṅ· Aciṅ· sā jāk· <g type="dotMid">.</g></item> 
+            <lb n="C20"/><gap reason="lost" quantity="1" unit="character" precision="low"/> <unclear>sā</unclear>ṅ· Urāṅ· Aciṅ· sā jāk· <g type="dotMid">.</g></item>
             <item>humā <gap reason="lost" quantity="1" unit="character" precision="low"/>
-            <lb n="C21"/><gap reason="lost" quantity="1" unit="character" precision="low"/> dvā jāk· <g type="dotMid">.</g></item> <item>humā <unclear>tuṅ</unclear>· dvā jāk· <g type="dotMid">.</g></item> 
+            <lb n="C21"/><gap reason="lost" quantity="1" unit="character" precision="low"/> dvā jāk· <g type="dotMid">.</g></item> <item>humā <unclear>tuṅ</unclear>· dvā jāk· <g type="dotMid">.</g></item>
             <item>hu<supplied reason="lost">mā</supplied> <gap reason="lost" quantity="1" unit="character" precision="low"/>
             <lb n="C22"/><gap reason="lost" quantity="1" unit="character" precision="low"/>yāṁ dvā jāk· <g type="dotMid">.</g></item> <item>humā <unclear>tumu</unclear><gap reason="lost" quantity="2" unit="character"/>r· <gap reason="lost" quantity="3" unit="character" precision="low"/></item>
-        </list> 
+        </list>
         </p>
         <p xml:lang="ocm-Latn"><milestone type="pagelike" unit="face" n="D"/>
             <lb n="D1"/>y· <unclear>humā</unclear> <supplied reason="lost">yā</supplied>ṅ· <unclear>pov</unclear>· <unclear>ku</unclear> <unclear>śrī</unclear> <gap reason="lost" quantity="2" unit="character"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>e</seg><supplied reason="lost">va</supplied><!-- Indradeva?-->
             <list>
-            <item><lb n="D2"/><unclear>hu</unclear>mā <gap reason="lost" quantity="2" unit="character"/>t· <gap reason="lost" quantity="3" unit="character"/> <unclear>dvā</unclear><!-- ou sā?--> pluḥ jāk·</item> 
+            <item><lb n="D2"/><unclear>hu</unclear>mā <gap reason="lost" quantity="2" unit="character"/>t· <gap reason="lost" quantity="3" unit="character"/> <unclear>dvā</unclear><!-- ou sā?--> pluḥ jāk·</item>
             <item>hu<supplied reason="lost">mā</supplied>
             <lb n="D3"/><gap reason="lost" quantity="2" unit="character" precision="low"/> cal· limā jāk· <g type="dotMid">.</g></item> <item>humā tandyāl<unclear>·</unclear>
             <lb n="D4"/><gap reason="lost" quantity="4" unit="character" precision="low"/>ṅ· pāk· Alauk· sa pluḥ jāk· </item>
             <item><gap reason="lost" quantity="2" unit="character" precision="low"/>
             <lb n="D5"/><gap reason="lost" quantity="2" unit="character" precision="low"/> vvat· liṅiv·<!-- liṅit?--> pā<unclear>k</unclear>·<!-- pāt?--> Alauk· dvā pluḥ <unclear>jā</unclear><supplied reason="lost">k·</supplied>
-            <lb n="D6"/><gap reason="lost" quantity="1" unit="character" precision="low"/></item> 
+            <lb n="D6"/><gap reason="lost" quantity="1" unit="character" precision="low"/></item>
             <item>humā jalān· rayā tluv· Alauk· sā plu<supplied reason="lost">ḥ</supplied>
             <lb n="D7"/><supplied reason="lost">jā</supplied>k·</item></list>
             <unclear>di</unclear> nde<unclear>v</unclear>· rumaṅ· <unclear>A</unclear>luṅ· <unclear>punārā</unclear>k· taṁl· <gap reason="lost" quantity="1" unit="character" precision="low"/>
             <lb n="D8"/><gap reason="lost" quantity="2" unit="character" precision="low"/> <unclear>nr̥</unclear>ṇeṅ· ṅan· <unclear>dan</unclear>r̥ṇeṅ· tra <g type="dotMid">.</g><list><item>humā <gap reason="lost" quantity="2" unit="character" precision="low"/>
-            <lb n="D9"/><gap reason="lost" quantity="2" unit="character" precision="low"/>· dalapan· Alauk· dvā pluḥ jāk· <g type="danda">.</g></item> 
+            <lb n="D9"/><gap reason="lost" quantity="2" unit="character" precision="low"/>· dalapan· Alauk· dvā pluḥ jāk· <g type="danda">.</g></item>
             <item>hu<supplied reason="lost">mā</supplied> <gap reason="lost" quantity="1" unit="character" precision="low"/>
             <lb n="D10"/><gap reason="lost" quantity="4" unit="character" precision="low"/> yāṅ· <unclear>6</unclear> k· <g type="dotMid">.</g> ṅan· <unclear>danauv</unclear>· yāṅ· tra</item></list> <gap reason="lost" quantity="3" unit="character" precision="low"/>
             <lb n="D11"/><gap reason="lost" quantity="3" unit="character" precision="low"/> rumaṅ· tuṁ tvaṁ <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>u</seg>ṅ·<!-- bhartuṅ?--> taṁl· tupen· li<gap reason="lost" quantity="2" unit="character" precision="low"/><!-- limā?-->
             <lb n="D12"/><unclear>k·</unclear> <g type="dotMid">.</g>
             <list>
             <item>humā vunok·<!--vunauk?--> tluv·<!-- tlun·?--> Alauk· sa plu<supplied reason="lost">ḥ</supplied> jāk·</item>
-            <item><lb n="D13"/>humā <unclear>cau</unclear>ṅ· <unclear>1</unclear>k· <g type="dotMid">.</g></item> 
-            <item>humā <unclear>kasi</unclear><gap reason="lost" quantity="4" unit="character" precision="low"/> <lb n="D14"/><supplied reason="lost">A</supplied>lauk· dalapan· jāk· <g type="dotMid">.</g></item> 
+            <item><lb n="D13"/>humā <unclear>cau</unclear>ṅ· <unclear>1</unclear>k· <g type="dotMid">.</g></item>
+            <item>humā <unclear>kasi</unclear><gap reason="lost" quantity="4" unit="character" precision="low"/> <lb n="D14"/><supplied reason="lost">A</supplied>lauk· dalapan· jāk· <g type="dotMid">.</g></item>
             <item>humā <unclear>tī</unclear>lin· <unclear>tl</unclear><supplied reason="lost">uv·</supplied>
-            <lb n="D15"/><supplied reason="lost">A</supplied>lauk· sā pluḥ jāk· <g type="dotMid">.</g></item> 
+            <lb n="D15"/><supplied reason="lost">A</supplied>lauk· sā pluḥ jāk· <g type="dotMid">.</g></item>
             <item>humā <unclear>ra</unclear>ṅaul·<!--sapi2argr Il exite un kṣetram raṅaul dans C. 66--> <gap reason="lost" quantity="3" unit="character" precision="low"/>
-            <lb n="D16"/><gap reason="lost" quantity="1" unit="character" precision="low"/></item> 
+            <lb n="D16"/><gap reason="lost" quantity="1" unit="character" precision="low"/></item>
             <item><supplied reason="lost">hu</supplied>mā bhavauṅ·<!-- dhavauṅ?--> naṁ Alauk· 9 k· <g type="dotMid">.</g></item> <item>hu<supplied reason="lost">mā</supplied> <gap reason="lost" quantity="2" unit="character" precision="low"/></item>
             <item><lb n="D17"/><gap reason="lost" quantity="2" unit="character" precision="low"/> <unclear>nrī</unclear>ñ· dandāṅ· tluv· pluḥ Alauk· <gap reason="lost" quantity="5" unit="character" precision="low"/></item>
-            <item><lb n="D18"/><gap reason="lost" quantity="2" unit="character" precision="low"/> k·</item> 
-            <item>humā ye<gap reason="lost" quantity="2" unit="character"/> 9 k· <g type="dotMid">.</g></item> 
+            <item><lb n="D18"/><gap reason="lost" quantity="2" unit="character" precision="low"/> k·</item>
+            <item>humā ye<gap reason="lost" quantity="2" unit="character"/> 9 k· <g type="dotMid">.</g></item>
             <item>hu<supplied reason="lost">mā</supplied> <gap reason="lost" quantity="5" unit="character" precision="low"/>
-            <lb n="D19"/><gap reason="lost" quantity="2" unit="character" precision="low"/></item> 
+            <lb n="D19"/><gap reason="lost" quantity="2" unit="character" precision="low"/></item>
             <item>humā daṇduṅ· dalapan· A<unclear>lauk·</unclear> <gap reason="lost" quantity="3" unit="character" precision="low"/>
-            <lb n="D20"/><gap reason="lost" quantity="1" unit="character" precision="low"/></item> 
+            <lb n="D20"/><gap reason="lost" quantity="1" unit="character" precision="low"/></item>
             <item><supplied reason="lost">hu</supplied>mā crumvāṁ 6 k· ṅan· dandauv· <gap reason="lost" quantity="5" unit="character" precision="low"/></item>
             <item><lb n="D21"/><gap reason="lost" quantity="2" unit="character" precision="low"/> dandauv· tlu<gap reason="lost" quantity="2" unit="character"/> 9 Alauk· 6 k·</item>
-            <item><lb n="D22"/><gap reason="lost" quantity="2" unit="character" precision="low"/> tijuḥ jāk· <g type="dotMid">.</g></item> 
+            <item><lb n="D22"/><gap reason="lost" quantity="2" unit="character" precision="low"/> tijuḥ jāk· <g type="dotMid">.</g></item>
             <item>humā <unclear>ṅ</unclear>riy<unclear>·</unclear> <gap reason="lost" quantity="2" unit="character" precision="low"/></item></list>
-        </p> 
+        </p>
          </div>
          <div type="apparatus">
             <listApp>

@@ -215,12 +215,13 @@
                 <lb n="D16"/> <g type="ddandaPlain">.</g>
                 </p>
                 <lg n="1" met="āryā">
-                    <l n="ab">kāyāgnimaṅgalayute śakapatisamaye madhor asitapakṣe</l>
+                    <l n="ab">kāyāgnimaṅgalayute <g type="dotMid">.</g> śakapatisamaye madhor asitapakṣe</l>
                      <l n="cd">ṣaṣṭāhe budhavāre pravaravasantarttukā<lb n="D17" break="no"/>le smin· <g type="ddandaPlain">.</g></l>
                    </lg>
 
                    <lg n="2" met="āryā">
                     <!-- Huber: prathamabhava ..... ghaṭagate raviputre--><!--ARLO:-->
+                    <!-- sapi : je ne lis pas ghaṭagate mais plutôt "re tanaya"-->
                     <l n="ab">prathamabhava X X X re ghaṭagate kunidakṣa
                     .... tula</l>
                     <l n="cd">.... saurasuragurucandrā<lb n="D18" break="no"/>gāte<!-- gate?--> dhanuṣi ~ ~ lagne ||</l></lg>
@@ -230,11 +231,11 @@
 
                     <lg n="3" met="āryā">
                     <l n="ab">bhaumāśyadi ~<!--regarder comment encoder les lacunes des stances āryā--> makare <unclear>jha</unclear>ṣabhṛguje śrīmatīndrakānteśam· <g type="dandaPlain">.</g></l>
-                     <l n="cd">sātiṣṭhipat svabhaktyā sādhvī śrī<lb n="D19"/>Indravarmmanṛpe <g type="ddandaPlain">.</g></l>
+                     <l n="cd">sātiṣṭhipat svabhaktyā sādhvī śrī I<lb n="D19" break="no"/>ndravarmmanr̥pe <g type="ddandaPlain">.</g></l>
                    </lg>
                    <lg n="4" met="āryā">
                     <l n="ab">śrītribhuvanadevyāḥ śrīḥ punyānāṁ sthānam ūḍhakīrttiḥ syāt·<!-- stāt ? smāt?--> <g type="dandaPlain">.</g></l>
-                     <l n="cd">pratimāliṅgo devo nityaṁ<!-- nityāṁ?--> śrī <lb n="D20"/> Indrakānteśaḥ <g type="ddandaPlain">.</g></l>
+                     <l n="cd">pratimāliṅgo devo nityaṁ<!-- nityāṁ?--> śrī I<lb n="D20" break="no"/>ndrakānteśaḥ <g type="ddandaPlain">.</g></l>
                    </lg>
                 <p xml:lang="ocm-Latn">
                 <lb n="D21" break="no"/><g type="indistinct"/><unclear>narā</unclear>v· knāṁ nau pūrvva tūy· vatuv· sīma taṁl· vatuv· sīma Anr̥ṅ· rayā nau Uttara taṁl· vatuv· sīma nau paścima taṁl·

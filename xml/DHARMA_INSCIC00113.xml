@@ -166,10 +166,10 @@
                 <lb n="B43" break="no"/>ṅ· <g type="dandaPlain">.</g> dvā pluḥ tluv· galauk· Anataṁ <g type="dandaPlain">.</g> sā pluḥ naṁ jāk· Asiy· <g type="dandaPlain">.</g> humā daniḥ dvā pluḥ tluv· galauk· <g type="dandaPlain">.</g> sā pluḥ jāk· Asiy· <g type="ddandaPlain">.</g>
                 </p>
                 <p><milestone type="pagelike" unit="face" n="C"/><label xml:lang="eng">North</label>
-                <lb n="C1"/>
-                <lb n="C2"/>
-                <lb n="C3"/>
-                <lb n="C4"/>
+                <lb n="C1"/>XXje CmaXXX Xryyana XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+                <lb n="C2"/>XXX śrī Indra(varmmo) XXXXXXXXXXXXXXX (śa)kraXXXXXXXXXXXXXXXXXXXXX
+                <lb n="C3"/>XlaCi XXXXXXXXXXXXXXXXXXX(tye) XXXXXXX Cr̥CreXXXXXXXXCya X
+                <lb n="C4"/>Ci XXX raXCi XXXXXXCrVXX Cr̥XXrato XreXXXXXXXXXXXXXXXXXXXXX
                 <lb n="C5"/>
                 <lb n="C6"/>
                 <lb n="C7"/>
@@ -182,9 +182,9 @@
                 <lb n="C14"/>
                 <lb n="C15"/>
                 <lb n="C16"/>
-                <lb n="C17"/>
-                <lb n="C18"/>
-                <lb n="C19"/>
+                <lb n="C17"/><!-- pour les lignes C1-C17 : modèle phorogrammétrique flou et estampage peu lisible-->
+                <lb n="C18"/>siracīXXrīrā (vaya)Xs tārāgaṇa XXX Cratañ ciXXXXXXXXXX <g type="dandaPlain">.</g> XX(vira) jiCuCriXCiva
+                <lb n="C19"/>ko(lā)sya(t)i (tu)lita-pañcaraṅga-suracita vāpadhari(ga) tasya cinaṁ su XXXXtaṁ XXhita-paryyaṅki
                 <lb n="C20"/>humā <unclear>Ā</unclear>c· Anataṁ <g type="dandaPlain">.</g> sā rtūḥ sā pluḥ galauk· <g type="dandaPlain">.</g> tijuḥ pluḥ jāk· Asiy· <g type="dandaPlain">.</g> humā <unclear>rumaḥ</unclear> Anataṁ <g type="dandaPlain">.</g> pāt· pluḥ galauk· <g type="dandaPlain">.</g> dvā
                 <lb n="C21"/>pluḥ jāk· Asiy· <g type="dandaPlain">.</g> humā daniḥ ṅan cakir· Alaḥ <g type="dandaPlain">.</g> sā rtūḥ tluv· pluḥ tluv· galauk· <g type="dandaPlain">.</g> naṁ pluḥ jāk· Asiy· <g type="dandaPlain">.</g> humā lu
                 <lb n="C22" break="no"/><unclear>b</unclear>vā· Anataṁ <g type="dandaPlain">.</g> limā pluḥ galauk· <g type="dandaPlain">.</g> pāt· pluḥ jāk· Asiy· <g type="dandaPlain">.</g> humā daniḥ dvā pluḥ galauk· <g type="dandaPlain">.</g> sā pluḥ sā jāk· Asiy· <g type="dandaPlain">.</g>
@@ -221,20 +221,22 @@
 
                    <lg n="2" met="āryā">
                     <!-- Huber: prathamabhava ..... ghaṭagate raviputre--><!--ARLO:-->
-                    <!-- sapi : je ne lis pas ghaṭagate mais plutôt "re tanaya"-->
-                    <l n="ab">prathamabhava X X X re ghaṭagate kunidakṣa
-                    .... tula</l>
-                    <l n="cd">.... saurasuragurucandrā<lb n="D18" break="no"/>gāte<!-- gate?--> dhanuṣi ~ ~ lagne ||</l></lg>
-                    <!--a. ghaṭagate: Eade suggests karkaṭagate.
-                        d. -gāte: read -gate?
-                        b. dhanuṣilagne: corr. Eade (m.c.); dhanuṣi .... lagne Huber.-->
+                    <!-- sapi : je ne lis pas ghaṭagate-->
+                    <l n="ab">prathamabhava XXXre tanaya(mane) tuCi (m)a(tr̥) XXgate raviputre</l>
+                    <l n="cd">.... raṁ (tula)-rāXX-suragurucandrā<lb n="D18" break="no"/>gate<!-- au lieu gāte (Finot)?--> dhanuṣi ~ ~ lagne ||</l></lg>
+                    <!-- Huber : saurasura°-->
+                    <!-- sapi : je ne lis pas saura.-->
+
+                     <!--Eade- a. ghaṭagate: Eade suggests karkaṭagate.
+                    d. -gāte: read -gate?
+                    b. dhanuṣilagne: corr. Eade (m.c.); dhanuṣi .... lagne Huber.-->
 
                     <lg n="3" met="āryā">
-                    <l n="ab">bhaumāśyadi ~<!--regarder comment encoder les lacunes des stances āryā--> makare <unclear>jha</unclear>ṣabhṛguje śrīmatīndrakānteśam· <g type="dandaPlain">.</g></l>
+                    <l n="ab">bhaumāśyadi ~ makare <unclear>jha</unclear>ṣabhr̥guje śrīmatīndrakānteśam· <g type="dandaPlain">.</g></l>
                      <l n="cd">sātiṣṭhipat svabhaktyā sādhvī śrī I<lb n="D19" break="no"/>ndravarmmanr̥pe <g type="ddandaPlain">.</g></l>
                    </lg>
                    <lg n="4" met="āryā">
-                    <l n="ab">śrītribhuvanadevyāḥ śrīḥ punyānāṁ sthānam ūḍhakīrttiḥ syāt·<!-- stāt ? smāt?--> <g type="dandaPlain">.</g></l>
+                    <l n="ab">śrītribhuvanadevyāḥ śrīḥ punyānāṁ sthānam ūḍhakīrttiḥ stāt·<!-- sapi : au lieu de syāt (Huber)--> <g type="dandaPlain">.</g></l>
                      <l n="cd">pratimāliṅgo devo nityaṁ<!-- nityāṁ?--> śrī I<lb n="D20" break="no"/>ndrakānteśaḥ <g type="ddandaPlain">.</g></l>
                    </lg>
                 <p xml:lang="ocm-Latn">

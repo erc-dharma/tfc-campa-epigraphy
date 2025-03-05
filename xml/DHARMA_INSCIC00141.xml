@@ -81,8 +81,9 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-        <change who="part:sapi" when="2024-04-22" status="draft">Initial encoding of the inscription</change>
-        <change who="part:sapi" when="2024-05-31" status="draft">Adding Huber's translation and </change>
+        	<change who="part:argr" when="2025-03-06" status="draft">Revision of the edition and its encoding</change>
+        	<change who="part:sapi" when="2024-04-22" status="draft">Initial encoding of the inscription</change>
+        	<change who="part:sapi" when="2024-05-31" status="draft">Adding Huber's translation and </change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
@@ -93,48 +94,47 @@
              <lb n="A1"/>svast<supplied reason="lost">i</supplied> <g type="dotMid">.</g>
            </ab>
            <lg n="1" met="indravajrā">
-             <l n="a">yo bhasmarāśyāṁ vahu-sañcayāyāṁ <g type="dotMid"/></l>
+             <l n="a">yo bhasma-rāśyāṁ vahu-sañcayāyāṁ <g type="dotMid">.</g></l>
              <l n="b">divyaḥ sukhāsīna <unclear>U</unclear>ru-prabhāvaḥ <g type="dotMid">.</g></l>
-             <l n="c">dedīpyate sūryya <lb n="A2"/>Ivāṁ-śumālā <g type="dotMid">.</g></l>
+	<!-- argr2sapi: Āru-? or can this be Ūru-? neither option is metrically acceptable. so what about sukhāsīnay uru-prabhāvaḥ? I don't know yet how this could be explained grammatically, if the reading is correct. -->
+             <l n="c">dedīpyate sūryya <lb n="A2"/>Ivāṁśu-mālā <g type="dotMid">.</g></l>
              <l n="d">pradyotitaḥ khe vigatāmvudeye <g type="ddanda">.</g></l>
            </lg>
            <lg n="2" met="indravajrā">
-             <l n="a">vrahmendra-viṣṇvādaya Eva devā <g type="dotMid">.</g></l>
-             <l n="b">dr̥ṣṭvā tadā visma<lb n="A3"/>yam āgatāḥ syuḥ <g type="dotMid">.</g></l>
+             <l n="a">vrahmendra-viṣṇv-ādaya Eva devā <g type="dotMid">.</g></l>
+             <l n="b">dr̥ṣṭvā tadā visma<lb n="A3" break="no"/>yam āgatāḥ syuḥ <g type="dotMid">.</g></l>
              <l n="c">tat-prajvalantaṁ yam akhaṇḍitābhaṁ</l>
-             <l n="d">nirdhūmakaṁ vahnim ivājyayuktam· <g type="ddanda">.</g></l>
+             <l n="d">nirdhūmakaṁ vahnim ivājya-yuktam· <g type="ddanda">.</g></l>
            </lg>
            <lg n="3" met="śārdūlavikrīḍita">
-             <l n="a" enjamb="yes">devendraḥ kila pū<lb n="A4"/>rvvato sthita tadā yāmyāṁ sarojodbhava <g type="dotMid"/>ś</l>
-             <l n="b">-candrārkkāv iha pr̥ṣṭhataś ca bhagavān nārāya<choice><sic>n</sic><corr>ṇ</corr></choice>o vāmato</l>
-             <l n="c" enjamb="yes">maddhyastho <lb n="A5"/>jvalitābharaśmi-sahitaś coṅkāra-pūrvvaiḥ svadhā</l>
-             <l n="d">-svāhāntair nnijamantrakaiḥ stutanato yo sau tadādyaiḥ su<lb n="A6"/>raiḥ</l>
+             <l n="a">devendraḥ kila pū<lb n="A4" break="no"/>rvvato sthita tadā yāmyāṁ sarojodbhava<g type="dotMid"/>ś</l>
+             <l n="b">candrārkkāv iha pr̥ṣṭhataś ca bhagavān nārāya<choice><sic>n</sic><corr>ṇ</corr></choice>o vāmato</l>
+             <l n="c" enjamb="yes">maddhyastho <lb n="A5"/>jvalitābha-raśmi-sahitaś coṅkāra-pūrvvaiḥ svadhā</l>
+             <l n="d">-svāhāntair nnija-mantrakaiḥ stutanato yo <supplied reason="subaudible">'</supplied>sau tadādyaiḥ su<lb n="A6" break="no"/>raiḥ</l>
            </lg>
            <lg n="4" met="anuṣṭubh">
-             <l n="a">Atha tadbhasmarāśyā yaḥ <g type="dotMid">.</g></l>
-             <l n="b">samutthā-yāti-nirmmalaḥ <g type="dotMid">.</g></l>
-             <l n="c">tiṣṭhaty eva nabhomaddhye <g type="dotMid">.</g></l>
-             <l n="d">sūryya-koṭi-sama<lb n="A7"/>-prabhaḥ <g type="dotMid">.</g><g type="ddanda">.</g></l>
+             <l n="a">Atha tad-bhasma-rāśyā yaḥ <g type="dotMid">.</g></l>
+             <l n="b">samutthāyāti-nirmmalaḥ <g type="dotMid">.</g></l>
+             <l n="c">tiṣṭhaty eva nabho-maddhye <g type="dotMid">.</g></l>
+             <l n="d">sūryya-koṭi-sama<lb n="A7" break="no"/>-prabhaḥ <g type="dotMid">.</g><g type="ddanda">.</g></l>
            </lg>
-           <lg n="5" met="indravajrā"><!-- ou upendravajrā ? revérifier le mètre -->
-             <l n="a">dikṣā-nimittaṁ kila sarvva-bhāvā <g type="dotMid">.</g>n</l>
-             <l n="b">-āṁ svāvaśeṣaṁ vara-bhasma tatra <g type="dotMid">.</g></l>
-             <l n="c">yaḥ padma-yonau guṇa-ma<lb n="A8"/>ṅgalārthaṁ</l>
-             <l n="d">dadau ca pīyūṣa-bhujāṁ sa-bhāyām· <g type="ddanda">.</g></l>
+           <lg n="5" met="upajāti">
+             <l n="a" enjamb="yes">d<choice><sic>i</sic><corr>ī</corr></choice>kṣā-nimittaṁ kila sarvva-bhāvā<g type="dotMid">.</g></l>
+             <l n="b">nāṁ svāvaśeṣaṁ vara-bhasma tatra <g type="dotMid">.</g></l>
+             <l n="c">yaḥ padma-yonau guṇa-ma<lb n="A8" break="yes"/>ṅgalārthaṁ</l>
+             <l n="d">dadau ca pīyūṣa-bhujāṁ sabhāyām· <g type="ddanda">.</g></l>
            </lg>
            <lg n="6" met="indravajrā">
-             <l n="a" enjamb="yes">saṁpady aśeṣāṁ pr̥thivīṁ niyogā <g type="dotMid">.</g>d</l>
-             <l n="b">yo bhasmade<lb n="A9"/>śām anuśāsti viṣṇum· <g type="dotMid">.</g></l>
-             <l n="c">yo ntarhito bhūt tata Eva devā</l>
+             <l n="a" enjamb="yes">saṁpady aśeṣāṁ pr̥thivīṁ niyogā<g type="dotMid">.</g>d</l>
+             <l n="b">yo bhasma-de<lb n="A9" break="yes"/>śām anuśāsti viṣṇum· <g type="dotMid">.</g></l>
+             <l n="c">yo <supplied reason="subaudible">'</supplied>ntarhito <supplied reason="subaudible">'</supplied>bhūt tata Eva devā<supplied reason="omitted"><g type="dotMid">.</g></supplied></l>
              <l n="d">vrahmādayaḥ svālayam āśu jagmuḥ <g type="dotMid">.</g></l>
            </lg>
            <p>
-           <lb n="A10"/><g type="danda">.</g> Eva devaḥ paramātmakaḥ śrī-śāneśvaro loka-gurur nr̥pāṇām·<g type="dotMid">.</g> pūjyaḥ praṇamyaḥ sa-
-           <lb n="A11" break="no"/>bhr̥tya-varggaiś camparddhi-hetor jjayatīha nityam· <g type="ddanda">.</g> śrībhadravarmmā bhr̥gu-vaṁśa-nāka-can<unclear>dra</unclear>
-           <lb n="A12" break="no"/><supplied reason="lost">-s</supplied> <unclear>tā</unclear><supplied reason="lost">ṁ</supplied> nagarīn narendraḥ guṇena vr̥ddhyā ca śatāna-vr̥ttim alaṅkaroty uttamadhīr iveyam· <g type="danda">.</g>
-           <lb n="A13"/><gap reason="lost" quantity="2" unit="character"/> nijitavataḥ<g type="dotMid">.</g> keyūrāṁśu-prabhā-sita-bhuja-valena <g type="dotMid">.</g> yātājayad<choice><sic>i</sic><corr>u</corr></choice>ndubhitāṁ nu <gap reason="lost" quantity="2" unit="character"/>
-           <lb n="A14"/><gap reason="lost" quantity="2" unit="character"/> ghora-ghoṣa-saṁkulitāntāḥ<g type="ddanda">.</g> deśāntarāgata-mahī-pati-dūta-saṁgha <g type="dotMid">.</g> ja<gap reason="lost" quantity="2" unit="character"/>
-           <lb n="A15"/><gap reason="lost" quantity="2" unit="character"/> yugalasya nr̥pasya kīrttiḥ saṁpūrṇṇa-candra-dhavalā bhuvana-prakīrṇṇā <g type="dotMid">.</g> pra<unclear>ja</unclear><gap reason="lost" quantity="2" unit="character"/>
+           <lb n="A10"/><g type="danda">.</g> Eva devaḥ paramātmakaḥ śrīśāneśvaro loka-gurur nr̥pāṇām·<g type="dotMid">.</g> pūjyaḥ praṇamyaḥ sa<lb n="A11" break="no"/>bhr̥tya-varggaiś camparddhi-hetor jjayatīha nityam· <g type="ddanda">.</g> śrī-bhadravarmmā bhr̥gu-vaṁśa-nāka-can<unclear>dra</unclear><lb n="A12" break="no"/><supplied reason="lost">s</supplied> <unclear>tā</unclear><supplied reason="lost">ṁ</supplied> nagarīn narendraḥ guṇena vr̥ddhyā ca <!-- argr2sapi: I don't understand what śatāna- could mean, unless it is śata-an-a- which seems a bit unlikely. Emend saṁtāna-? -->śatāna-vr̥ttim alaṅkaroty uttama-dhīr iveyam· <g type="danda">.</g>
+           <lb n="A13"/><gap reason="lost" quantity="2" unit="character"/>nijitavataḥ<g type="dotMid">.</g> keyūrāṁśu-prabhā-sita-bhuja-valena <g type="dotMid">.</g> yātājaya-d<choice><sic>i</sic><corr>u</corr></choice>ndubhitāṁ nu <gap reason="lost" quantity="2" unit="character"/>
+           <lb n="A14"/><gap reason="lost" quantity="2" unit="character"/> ghora-ghoṣa-saṁkulitāntāḥ<g type="ddanda">.</g> deśāntarāgata-mahīpati-dūta-saṁgha-<g type="dotMid">.</g>ja<gap reason="lost" quantity="2" unit="character"/>
+           <lb n="A15"/><gap reason="lost" quantity="2" unit="character"/> yugalasya nr̥pasya kīrttiḥ saṁpūrṇṇa-candra-dhavalā bhuvana-prakīrṇṇā <g type="dotMid">.</g> pra<unclear>ja</unclear><gap reason="lost" quantity="2" unit="character"/><!-- argr2sapi: the consonant after j had e or o as vowel, but maybe no need to encode this observation -->
          </p>
          <p><milestone type="pagelike" unit="face" n="B"/>
            <lb n="B1"/>lena gamitāka<gap reason="lost" quantity="2" unit="character"/> <unclear>ma</unclear>nyata <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>a</seg><unclear>tirasya</unclear> vihitatapasaḥ<g type="dotMid">.</g>
@@ -176,7 +176,7 @@
            <listApp>
              <app loc="A1">
                  <lem>vahu-</lem>
-                 <rdg source="Huber1911_02">bahu-</rdg>
+                 <rdg source="bib:Huber1911_02">bahu-</rdg>
              </app>
              <app loc="A1">
                  <lem><unclear>U</unclear>ru-</lem>
@@ -184,11 +184,11 @@
              </app>
              <app loc="A2">
                  <lem>vrahmendraviṣṇvādaya</lem>
-                 <rdg source="Huber1911_02">brahmendraviṣṇavādaya</rdg>
+                 <rdg source="bib:Huber1911_02">brahmendraviṣṇavādaya</rdg>
              </app>
              <app loc="A3">
                  <lem>-dhūmakaṁ</lem>
-                 <rdg source="Huber1911_02">-dhūmakam</rdg>
+                 <rdg source="bib:Huber1911_02">-dhūmakam</rdg>
              </app>
              <app loc="A4">
                  <lem>sthita</lem>
@@ -200,28 +200,28 @@
              </app>
              <app loc="A5">
                  <lem>-mantrakaiḥ</lem>
-                 <rdg source="Huber1911_02">-mantrakair</rdg>
+                 <rdg source="bib:Huber1911_02">-mantrakair</rdg>
              </app>
              <app loc="A7">
                  <lem>dikṣā-</lem>
-                 <rdg source="Huber1911_02">dikṣa-</rdg>
+                 <rdg source="bib:Huber1911_02">dikṣa-</rdg>
              </app>
              <app loc="A7">
                  <lem>āṁ svāva-</lem>
-                 <rdg source="Huber1911_02">āsvāva-</rdg>
+                 <rdg source="bib:Huber1911_02">āsvāva-</rdg>
                 <note>There is definitely an anusvāra on the stone. Majumdar has proposed to emend ājyāva-.</note>
              </app>
              <app loc="A8">
                  <lem>saṁpady aśeṣāṁ</lem>
-                 <rdg source="Huber1911_02">saṁpadya śeṣāṁ</rdg>
+                 <rdg source="bib:Huber1911_02">saṁpadya śeṣāṁ</rdg>
              </app>
              <app loc="A9">
                  <lem>vrahmādayaḥ</lem>
-                 <rdg source="Huber1911_02">brahmādayaḥ</rdg>
+                 <rdg source="bib:Huber1911_02">brahmādayaḥ</rdg>
              </app>
              <app loc="A10">
                  <lem>nr̥pāṇām</lem>
-                 <rdg source="Huber1911_02">nr̥pānām</rdg>
+                 <rdg source="bib:Huber1911_02">nr̥pānām</rdg>
              </app>
              <app loc="A11">
                  <lem>nityam</lem>
@@ -229,20 +229,20 @@
              </app>
              <app loc="A13">
                  <lem>nijitavataḥ<g type="dotMid">.</g></lem>
-                 <rdg source="Huber1911_02">nijitavataḥ<g type="dandaPlain">.</g></rdg>
+                 <rdg source="bib:Huber1911_02">nijitavataḥ<g type="dandaPlain">.</g></rdg>
              </app>
              <app loc="A13">
                  <lem>-d<choice><sic>i</sic><corr>u</corr></choice>ndubhitāṁ</lem>
-                 <rdg source="Huber1911_02">dindubhitām</rdg>
+                 <rdg source="bib:Huber1911_02">dindubhitām</rdg>
              </app>
              <app loc="A14">
                  <lem>-kulitāntāḥ<g type="ddandaPlain">.</g> deśāntarā-</lem>
-                 <rdg source="Huber1911_02">-kulitāntāḥ<g type="dandaPlain">.</g> deśāntarā-</rdg>
+                 <rdg source="bib:Huber1911_02">-kulitāntāḥ<g type="dandaPlain">.</g> deśāntarā-</rdg>
                  <note>The e of de has apparently been added after the initial engraving of the text.</note>
              </app>
              <app loc="A14">
                  <lem>-saṁgha<g type="dotMid">.</g></lem>
-                 <rdg source="Huber1911_02">-saṁgha<g type="dandaPlain">.</g></rdg>
+                 <rdg source="bib:Huber1911_02">-saṁgha<g type="dandaPlain">.</g></rdg>
              </app>
              <app loc="A15">
                  <lem>yugalasya</lem>
@@ -250,152 +250,152 @@
              </app>
              <app loc="A15">
                  <lem>-kīrṇṇā<g type="dotMid">.</g></lem>
-                 <rdg source="Huber1911_02">-kīrṇṇā<g type="dandaPlain">.</g></rdg>
+                 <rdg source="bib:Huber1911_02">-kīrṇṇā<g type="dandaPlain">.</g></rdg>
              </app>
              <app loc="B1">
                  <lem>lena gamitāka<gap reason="lost" quantity="2" unit="character"/> <unclear>ma</unclear>nyata <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>a</seg><unclear>tirasya</unclear></lem>
-                 <rdg source="Huber1911_02"><gap reason="undefined"/></rdg>
+                 <rdg source="bib:Huber1911_02"><gap reason="undefined"/></rdg>
                 <note>Only the akṣaras <foreign>vihitatapasaḥ</foreign> were read by Huber.</note>
              </app>
              <app loc="B2">
                  <lem>sajjanagīto</lem>
-                 <rdg source="Huber1911_02"><gap reason="undefined"/> sajjanagīto</rdg>
+                 <rdg source="bib:Huber1911_02"><gap reason="undefined"/> sajjanagīto</rdg>
              </app>
              <app loc="B2">
                  <lem>bubodha</lem>
-                 <rdg source="Huber1911_02"><gap reason="undefined"/></rdg>
+                 <rdg source="bib:Huber1911_02"><gap reason="undefined"/></rdg>
              </app>
              <app loc="B2">
                  <lem>t<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg>jñe</lem>
-                 <rdg source="Huber1911_02"><gap reason="undefined"/>jñe</rdg>
+                 <rdg source="bib:Huber1911_02"><gap reason="undefined"/>jñe</rdg>
              </app>
              <app loc="B2">
                  <lem><g type="dotMid">.</g> pū<unclear>j</unclear>yās tryagnīs</lem>
-                 <rdg source="Huber1911_02"><g type="dandaPlain">.</g> <gap reason="undefined"/> agnīs</rdg>
+                 <rdg source="bib:Huber1911_02"><g type="dandaPlain">.</g> <gap reason="undefined"/> agnīs</rdg>
              </app>
              <app loc="B3">
                  <lem>-caturaḥ <g type="dotMid">.</g> <g type="ddandaPlain">.</g></lem>
-                 <rdg source="Huber1911_02">-caturaḥ <g type="dandaPlain">.</g></rdg>
+                 <rdg source="bib:Huber1911_02">-caturaḥ <g type="dandaPlain">.</g></rdg>
              </app>
              <app loc="B3">
                  <lem><unclear>ka</unclear>rmma <g type="dotMid">.</g></lem>
-                 <rdg source="Huber1911_02">karmma</rdg>
+                 <rdg source="bib:Huber1911_02">karmma</rdg>
              </app>
              <app loc="B3">
                  <lem>saṁ śivā<choice><unclear>d</unclear><unclear>n</unclear></choice>arakailāsaś</lem>
-                 <rdg source="Huber1911_02"><gap reason="undefined"/> kailāsaś</rdg>
+                 <rdg source="bib:Huber1911_02"><gap reason="undefined"/> kailāsaś</rdg>
                  <note>One could read <foreign>śivādarakailāsaś</foreign> or <foreign>śivānarakailāsaś</foreign>.</note>
              </app>
              <app loc="B3">
                  <lem>śi<unclear>va</unclear> <seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>t<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg> vado <lb n="B4"/><seg met="+-="><gap reason="lost" quantity="3" unit="character"/></seg></lem>
-                 <rdg source="Huber1911_02"><gap reason="undefined"/>śi<gap reason="undefined"/></rdg>
+                 <rdg source="bib:Huber1911_02"><gap reason="undefined"/>śi<gap reason="undefined"/></rdg>
              </app>
              <app loc="B4">
                  <lem>anuca<supplied reason="lost">ra</supplied>ś carācara-guru<unclear>va</unclear><gap reason="lost" quantity="2" unit="character"/> sa<unclear>n</unclear>ni<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg><gap reason="lost" quantity="4" unit="character"/></lem>
-                 <rdg source="Huber1911_02">anu<gap reason="undefined"/></rdg>
+                 <rdg source="bib:Huber1911_02">anu<gap reason="undefined"/></rdg>
              </app>
              <app loc="B4">
                  <lem><unclear>p</unclear>u-</lem>
-                 <rdg source="Huber1911_02"><gap reason="undefined"/></rdg>
+                 <rdg source="bib:Huber1911_02"><gap reason="undefined"/></rdg>
              </app>
              <app loc="B5">
                  <lem>pu<choice><sic>n</sic><corr>ṇ</corr></choice>yasa<choice><unclear>m</unclear><unclear>dh</unclear></choice><seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg> <gap reason="lost" quantity="2" unit="character"/> ro<unclear>pasa</unclear>h<supplied reason="lost">i</supplied>to</lem>
-                 <rdg source="Huber1911_02">punya<gap reason="undefined"/></rdg>
+                 <rdg source="bib:Huber1911_02">punya<gap reason="undefined"/></rdg>
              </app>
              <app loc="B5">
                  <lem>anāma-</lem>
-                 <rdg source="Huber1911_02"><gap reason="undefined"/></rdg>
+                 <rdg source="bib:Huber1911_02"><gap reason="undefined"/></rdg>
              </app>
              <app loc="B6">
                  <lem>yāgavid-viduṣaṁ mānyo mānita-</lem>
-                 <rdg source="Huber1911_02"><gap reason="undefined"/>dhanyo mānita-</rdg>
+                 <rdg source="bib:Huber1911_02"><gap reason="undefined"/>dhanyo mānita-</rdg>
                  <note><foreign>mānyo mānita</foreign>-: the first word is unclear and the second looks more like <foreign>mācita</foreign>-.</note>
              </app>
              <app loc="B6">
                  <lem>-paṭuḥ paṭūnāṁ</lem>
-                 <rdg source="Huber1911_02"><gap reason="undefined"/></rdg>
+                 <rdg source="bib:Huber1911_02"><gap reason="undefined"/></rdg>
              </app>
              <app loc="B6">
                  <lem>dhīra-bu-</lem>
-                 <rdg source="Huber1911_02">dhīraṁ</rdg>
+                 <rdg source="bib:Huber1911_02">dhīraṁ</rdg>
                  <note><foreign>dhīrabu</foreign>-: what seems to be an <foreign>anusvāra</foreign> on top of ra on the estampage reveals itself as an accidental scratch on the stone.</note>
              </app>
              <app loc="B7">
                  <lem><unclear>r</unclear> <supplied reason="lost">i</supplied>ti <g type="ddanda">.</g> Atha kadācid-</lem>
-                 <rdg source="Huber1911_02"><gap reason="undefined"/></rdg>
+                 <rdg source="bib:Huber1911_02"><gap reason="undefined"/></rdg>
              </app>
              <app loc="B7">
                  <lem>-manā<unclear>bha</unclear>s<unclear>m</unclear>āṅga-rāgaṁ</lem>
-                 <rdg source="Huber1911_02"><gap reason="undefined"/></rdg>
+                 <rdg source="bib:Huber1911_02"><gap reason="undefined"/></rdg>
              </app>
              <app loc="B7">
                  <lem>avalo-</lem>
-                 <rdg source="Huber1911_02"><gap reason="undefined"/></rdg>
+                 <rdg source="bib:Huber1911_02"><gap reason="undefined"/></rdg>
              </app>
              <app loc="B8">
                  <lem><unclear>dha</unclear>yatī-</lem>
-                 <rdg source="Huber1911_02"><gap reason="undefined"/>yatī</rdg>
+                 <rdg source="bib:Huber1911_02"><gap reason="undefined"/>yatī</rdg>
              </app>
              <app loc="B8">
                  <lem>ca kasya dhanaṁ śīla<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg><gap reason="lost" quantity="1" unit="character"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg><gap reason="lost" quantity="1" unit="character"/></lem>
-                 <rdg source="Huber1911_02"><gap reason="undefined"/></rdg>
+                 <rdg source="bib:Huber1911_02"><gap reason="undefined"/></rdg>
              </app>
              <app loc="B9">
                  <lem><unclear>ma</unclear>homahāṁ <supplied reason="lost">tasya pa</supplied>śupateḥ <unclear>s</unclear><supplied reason="lost">akalatr</supplied>i<supplied reason="lost">bh</supplied>uvana-</lem>
-                 <rdg source="Huber1911_02"><gap reason="undefined"/>paśupateḥ</rdg>
+                 <rdg source="bib:Huber1911_02"><gap reason="undefined"/>paśupateḥ</rdg>
                  <note><supplied reason="lost"><foreign>tasya</foreign></supplied>: the restoration is strictly conjectural, and perhaps impossible, for it is uncertain whether the descender of y would have fit entirely into the surface of the stone that is lost here.</note>
              </app>
              <app loc="B10">
                  <lem><choice><unclear>v</unclear><unclear>bh</unclear></choice>yam</lem>
-                 <rdg source="Huber1911_02"><gap reason="undefined"/></rdg>
+                 <rdg source="bib:Huber1911_02"><gap reason="undefined"/></rdg>
              </app>
              <app loc="B11">
                  <lem>tu dharaṇi</lem>
-                 <rdg source="Huber1911_02">budhapati</rdg>
+                 <rdg source="bib:Huber1911_02">budhapati</rdg>
              </app>
              <app loc="B12">
                  <lem>yamithuna</lem>
-                 <rdg source="Huber1911_02"><gap reason="undefined"/>mithuna</rdg>
+                 <rdg source="bib:Huber1911_02"><gap reason="undefined"/>mithuna</rdg>
              </app>
              <app loc="B12">
                  <lem>-rajani-kara-</lem>
-                 <rdg source="Huber1911_02"><gap reason="undefined"/></rdg>
+                 <rdg source="bib:Huber1911_02"><gap reason="undefined"/></rdg>
              </app>
              <app loc="B12">
                  <lem>-jalacara-</lem>
-                 <rdg source="Huber1911_02">-jaladhara-</rdg>
+                 <rdg source="bib:Huber1911_02">-jaladhara-</rdg>
              </app>
              <app loc="B12">
                  <lem>-diti-ja-</lem>
-                 <rdg source="Huber1911_02">-dīti-ja-</rdg>
+                 <rdg source="bib:Huber1911_02">-dīti-ja-</rdg>
              </app>
              <app loc="B12">
                  <lem>sama</lem>
-                 <rdg source="Huber1911_02"><gap reason="undefined"/></rdg>
+                 <rdg source="bib:Huber1911_02"><gap reason="undefined"/></rdg>
              </app>
              <app loc="B13">
                  <lem>-bhāyāṁ tadā</lem>
-                 <rdg source="Huber1911_02"><gap reason="undefined"/></rdg>
+                 <rdg source="bib:Huber1911_02"><gap reason="undefined"/></rdg>
              </app>
              <app loc="B13">
                  <lem><unclear>parama</unclear>-śivāntareśvara</lem>
-                 <rdg source="Huber1911_02"><gap reason="undefined"/>vāntareśvara</rdg>
+                 <rdg source="bib:Huber1911_02"><gap reason="undefined"/>vāntareśvara</rdg>
              </app>
              <app loc="B14">
                  <lem><unclear>d</unclear>u <gap reason="lost" quantity="1" unit="character"/>tt<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg> <gap reason="lost" quantity="2" unit="character"/> svinā śivānta<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>ai</seg> <gap reason="lost" quantity="6" unit="character"/> <unclear>mahāmuni</unclear>nā-</lem>
-                 <rdg source="Huber1911_02"><gap reason="undefined"/>nātha-</rdg>
+                 <rdg source="bib:Huber1911_02"><gap reason="undefined"/>nātha-</rdg>
              </app>
              <app loc="B15">
                  <lem>pa<supplied reason="lost">rā</supplied></lem>
-                 <rdg source="Huber1911_02"><gap reason="undefined"/></rdg>
+                 <rdg source="bib:Huber1911_02"><gap reason="undefined"/></rdg>
              </app>
              <app loc="B16">
                  <lem>Asuv· ñū </lem>
-                 <rdg source="Huber1911_02">Apuv· <gap reason="undefined"/></rdg>
+                 <rdg source="bib:Huber1911_02">Apuv· <gap reason="undefined"/></rdg>
              </app>
              <app loc="B16">
                  <lem>Inā ñū</lem>
-                 <rdg source="Huber1911_02">Inā <gap reason="undefined"/></rdg>
+                 <rdg source="bib:Huber1911_02">Inā <gap reason="undefined"/></rdg>
              </app>
                </listApp>
          </div>

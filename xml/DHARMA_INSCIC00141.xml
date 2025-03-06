@@ -125,7 +125,7 @@
              <l n="d">dadau ca pīyūṣa-bhujāṁ sabhāyām· <g type="ddanda">.</g></l>
            </lg>
            <lg n="6" met="indravajrā">
-             <l n="a" enjamb="yes">saṁpady aśeṣāṁ pr̥thivīṁ niyogā<g type="dotMid">.</g>d</l>
+             <l n="a">saṁpady aśeṣāṁ pr̥thivīṁ niyogā<g type="dotMid">.</g>d</l>
              <l n="b">yo bhasma-de<lb n="A9" break="yes"/>śām anuśāsti viṣṇum· <g type="dotMid">.</g></l>
              <l n="c">yo <supplied reason="subaudible">'</supplied>ntarhito <supplied reason="subaudible">'</supplied>bhūt tata Eva devā<supplied reason="omitted"><g type="dotMid">.</g></supplied></l>
              <l n="d">vrahmādayaḥ svālayam āśu jagmuḥ <g type="dotMid">.</g></l>
@@ -137,38 +137,36 @@
            <lb n="A15"/><gap reason="lost" quantity="2" unit="character"/> yugalasya nr̥pasya kīrttiḥ saṁpūrṇṇa-candra-dhavalā bhuvana-prakīrṇṇā <g type="dotMid">.</g> pra<unclear>ja</unclear><gap reason="lost" quantity="2" unit="character"/><!-- argr2sapi: the consonant after j had e or o as vowel, but maybe no need to encode this observation -->
          </p>
          <p><milestone type="pagelike" unit="face" n="B"/>
-           <lb n="B1"/>lena gamitāka<gap reason="lost" quantity="2" unit="character"/> <unclear>ma</unclear>nyata <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>a</seg><unclear>tirasya</unclear> vihitatapasaḥ<g type="dotMid">.</g>
+           <lb n="B1"/>lena gamitāka<gap reason="lost" quantity="2" unit="character"/> <unclear>ma</unclear>nyata<!-- argr2sapi: manyat·? or manyate? --> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>a</seg><unclear>tirasya</unclear> vihita-tapasaḥ<g type="dotMid">.</g>
            <!-- l. B1 À REVOIR -->
-           <lb n="B2"/>saj-janagīto bubodha bhuvi <gap reason="lost" quantity="5" unit="character"/> t<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg>jñe śuci-mati-caturaḥ <g type="dotMid">.</g> pū<unclear>j</unclear>yās tryagnīs surāś ca
+           <lb n="B2"/>saj-jana-gīto bubodha bhuvi <gap reason="lost" quantity="5" unit="character"/> t<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg>jñe śuci-mati-caturaḥ <g type="dotMid">.</g> pū<unclear>j</unclear>yās tryagnīs surāś ca
            <lb n="B3"/><gap reason="lost" quantity="2" unit="character"/> mati-caturaḥ <g type="dotMid">.</g> <g type="ddanda">.</g>
          </p>
          <lg n="7" met="anuṣṭubh">
-           <l n="a">saṁpātu viduṣo <unclear>ka</unclear>rmma <g type="dotMid">.</g></l>
-           <l n="b">saṁp<unclear>ā</unclear><supplied reason="lost">t</supplied>u <supplied reason="lost">vi</supplied>duṣo vacaḥ</l>
-           <l n="c" enjamb="yes">saṁ śivā<choice><unclear>d</unclear><unclear>n</unclear></choice>ara-kailāsaś</l>
+           <l n="a">saṁ pātu viduṣo <unclear>ka</unclear>rmma <g type="dotMid">.</g></l>
+           <l n="b">saṁ pā<supplied reason="lost">t</supplied>u <supplied reason="lost">vi</supplied>duṣo vacaḥ</l>
+           <l n="c">saṁ śivā<choice><unclear>d</unclear><unclear>n</unclear></choice>ara-kailāsaś</l><!-- argr2sapi: I think we can read
+saśivā<unclear>nta</unclear>ra-kailāsaś — though perhaps nta is clear enough and no <unclear> is needed at all  -->
            <l n="d">śi<unclear>va</unclear> <seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>t<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg><!-- sapi2argr Ici est-il nécessaire d'ajouter le mètre ? Et pourrait-on lire śivāntā, comme à la l. B14?-->
-           vado <lb n="B4"/><seg met="+-="><gap reason="lost" quantity="3" unit="character"/></seg> <g type="ddanda">.</g></l>
+           vado<!-- argr2sapi: I propose to read śiv<unclear>ā</unclear>ntara-v<supplied reason="lost">i</supplied>do <supplied reason="subaudible">'</supplied><supplied reason="lost">vatu</supplied> 
+the last two syllables are entirely conjectural; in the context of karma and vacaḥ, one also things of the triad deed-speech-thought, and so we might have manaḥ instead of 'vatu, though I feel we need a verb.
+--> <lb n="B4"/><seg met="+-="><gap reason="lost" quantity="3" unit="character"/></seg> <g type="ddanda">.</g></l>
          </lg>
-         <p>sa Eva tapasvī tapasyām anuca<supplied reason="lost">ra</supplied>ś carācara-guru<unclear>va</unclear><gap reason="lost" quantity="2" unit="character"/> sa<unclear>n</unclear>ni<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg><gap reason="lost" quantity="4" unit="character"/> rīritadūrita-durita-karmmā-<unclear>p</unclear>u-
-         <lb n="B5" break="no"/><gap reason="lost" quantity="3" unit="character"/> <supplied reason="lost">a</supplied>s<supplied reason="lost">u</supplied>rapiśāca-varjjito jitendriyo pi pu<choice><sic>n</sic><corr>ṇ</corr></choice>yasa<choice><unclear>m</unclear><unclear>dh</unclear></choice><seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg> <gap reason="lost" quantity="2" unit="character"/> ro<unclear>pasa</unclear>h<supplied reason="lost">i</supplied>to hitopadeśam anāma-
-         <lb n="B6" break="no"/><gap reason="lost" quantity="3" unit="character"/> yāgavid-viduṣaṁ mānyo mānita-sakala-jano janita-kuśalo lokayātra-paṭuḥ paṭūnāṁ dhīrabu-
-         <lb n="B7" break="no"/><gap reason="lost" quantity="2" unit="character"/> <unclear>r</unclear> <supplied reason="lost">i</supplied>ti <g type="ddanda">.</g> Atha kadācid-velāyāṁ dhyāne samadhi-gata-manā<unclear>bha</unclear>s<unclear>m</unclear>āṅga-rāgaṁ dhavalī-kr̥taṁ sva-śarīram avalo-
-         <lb n="B8" break="no"/><gap reason="lost" quantity="1" unit="character"/> <unclear>dha</unclear>yatī-dr̥śam idaṁ bhasma hi kṣīrārṇṇava-taraṅga-phe<unclear>nadha</unclear>-valaṁ kuṇḍendudyuti ca kasya dhanaṁ śīla<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg><gap reason="lost" quantity="1" unit="character"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg><gap reason="lost" quantity="1" unit="character"/>
-         <lb n="B9"/><gap reason="lost" quantity="2" unit="character"/> <unclear>ma</unclear>homahāṁ <supplied reason="lost">tasya pa</supplied>śupateḥ <unclear>s</unclear><supplied reason="lost">akalatr</supplied>i<supplied reason="lost">bh</supplied>uvana-vandita<unclear>ca</unclear>raṇayugalasyedaṁ <gap reason="lost" quantity="5" unit="character"/>
-         <lb n="B10" break="no"/><choice><unclear>v</unclear><unclear>bh</unclear></choice>yam eva parameśvara-sthāpanā karttavyā mayā sarvva-muktaye iti <g type="ddanda">.</g> <gap reason="lost" quantity="8" unit="character"/> <supplied reason="lost">ma</supplied>-
-         <lb n="B11" break="no"/>ṅgala-niyamita-śaka-pati-samaye prathama-bhava-bhānu-bhānu-sutake tu dharaṇi <gap reason="lost" quantity="8" unit="character"/>
-         <lb n="B12"/>yamithuna-lagna-sura-guru-rajani-kara-makara-rāhu-jalacara-diti-ja-guru sama <gap reason="lost" quantity="5" unit="character"/> <supplied reason="lost">ṣa</supplied>-
-         <lb n="B13" break="no"/>ṣṭāha-ravivāra-punar-vvasu-bhāyāṁ tadā paramaḥ <supplied reason="lost">para</supplied>meśvaraḥ <unclear>parama</unclear>-śivāntareśvara <gap reason="lost" quantity="5" unit="character"/>
-         <lb n="B14"/><unclear>d</unclear>u <gap reason="lost" quantity="1" unit="character"/>tt<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg> <gap reason="lost" quantity="2" unit="character"/> svinā śivānta<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>ai</seg> <gap reason="lost" quantity="6" unit="character"/> <unclear>mahāmuni</unclear>nā-mahā-muni-mata <gap reason="lost" quantity="4" unit="character"/> <supplied reason="lost">pra</supplied>-
-         <lb n="B15" break="no"/>tiṣṭhāpita Iti <g type="ddandaPlain">.</g>
+         <p>sa Eva tapasvī tapasyām anuca<supplied reason="lost">ra</supplied>ś carācara-guru<unclear>va</unclear><gap reason="lost" quantity="2" unit="character"/> sa<unclear>n</unclear>ni<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg><gap reason="lost" quantity="4" unit="character"/>rīritadūrita-durita-karmmā <unclear>p</unclear>u<lb n="B5" break="no"/><gap reason="lost" quantity="3" unit="character"/> <supplied reason="lost">a</supplied>s<supplied reason="lost">u</supplied>ra-piśāca-varjjito jitendriyo <supplied reason="subaudible">'</supplied>pi 
+<!-- argr2sapi: maybe puṇya-samūho -->
+pu<choice><sic>n</sic><corr>ṇ</corr></choice>ya-sa<choice><unclear>m</unclear><unclear>dh</unclear></choice><seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg> <gap reason="lost" quantity="2" unit="character"/> <!-- argr2sapi: maybe we have roṣa- -->ro<unclear>pa-sa</unclear>h<supplied reason="lost">i</supplied>to hitopadeśam anāma<lb n="B6" break="no"/><gap reason="lost" quantity="3" unit="character"/> yāgavid-viduṣaṁ mānyo mānita-sakala-jano janita-kuśalo loka-yātra-paṭuḥ paṭūnāṁ dhīra-bu<lb n="B7" break="no"/><gap reason="lost" quantity="2" unit="character"/> <unclear>r</unclear> <supplied reason="lost">i</supplied>ti <g type="ddanda">.</g></p> 
+<p>Atha kadācid-velāyāṁ dhyāne samadhigata-manā <unclear>bha</unclear>s<unclear>m</unclear>āṅga-rāgaṁ dhavalī-kr̥taṁ sva-śarīram avalo<lb n="B8" break="no"/><gap reason="lost" quantity="1" unit="character"/> <unclear>dha</unclear>yatīdr̥śam idaṁ bhasma hi kṣīrārṇṇava-taraṅga-phe<unclear>na-dha</unclear>valaṁ kuṇḍendu-dyuti ca kasya dhanaṁ śīla<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg><gap reason="lost" quantity="1" unit="character"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg><gap reason="lost" quantity="1" unit="character"/>
+         <lb n="B9"/><gap reason="lost" quantity="2" unit="character"/> <unclear>ma</unclear>homahāṁ<!-- argr2sapi: homahaṁ, plutôt?  --> <supplied reason="lost">tasya pa</supplied>śupateḥ <unclear>sa</unclear><supplied reason="lost">kala-tr</supplied>i<supplied reason="lost">bh</supplied>uvana-vandita-<!-- argr2sapi: it looks more like vandina than vandita, don't you think? but we need vandita --><unclear>ca</unclear>raṇa-yugalasyedaṁ <gap reason="lost" quantity="5" unit="character"/>
+         <lb n="B10" break="no"/><choice><unclear>v</unclear><unclear>bh</unclear></choice>yam eva parameśvara-sthāpanā karttavyā mayā sarvva-muktaye Iti <g type="ddanda">.</g> <gap reason="lost" quantity="8" unit="character"/> <supplied reason="lost">ma</supplied><lb n="B11" break="no"/>ṅgala-niyamita-śakapati-samaye prathama-bhava-bhānu-bhānusuta-ketu-dharaṇi<gap reason="lost" quantity="8" unit="character"/><lb n="B12" break="yes"/>ya-mithuna-lagna-suraguru-rajanikara-makara-rāhu-jalacara-ditijaguru sama<gap reason="lost" quantity="5" unit="character"/> <supplied reason="lost">ṣa</supplied><lb n="B13" break="no"/>ṣṭāha-ravivāra-punarvvasu-bhāyāṁ <unclear>ta</unclear>dā paramaḥ <supplied reason="lost">para</supplied>meśvaraḥ <unclear>parama</unclear>śivāntareśvara<gap reason="lost" quantity="5" unit="character"/>
+         <lb n="B14"/><unclear>d</unclear>u <gap reason="lost" quantity="1" unit="character"/>tt<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg> <gap reason="lost" quantity="2" unit="character"/> svinā śivānta<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>ai</seg> <gap reason="lost" quantity="6" unit="character"/> <unclear>mahāmuni</unclear>nā mahāmuni-mata <gap reason="lost" quantity="4" unit="character"/> <supplied reason="lost">pra</supplied><lb n="B15" break="no"/>tiṣṭhāpita Iti <g type="ddandaPlain">.</g>
        </p>
        <lg n="8" met="anuṣṭubh">
-         <l n="a">śrī bhadravarmmaṇā dattā <g type="dotMid">.</g></l>
+         <l n="a">śrī-bhadravarmmaṇā dattā <g type="dotMid">.</g></l>
          <l n="b">tasmai muktir iyaṁ pa<supplied reason="lost">rā</supplied></l>
          <l n="c"><supplied reason="lost">yāvat sū</supplied><lb n="B16" break="no"/>ryyaś ca candraś ca</l>
-         <l n="d">tāvad asti mahītale <g type="ddanda">.</g> <g type="dotMid">.</g></l>
+         <l n="d">tāvad asti mahī-tale <g type="ddanda">.</g> <g type="dotMid">.</g></l>
        </lg>
-       <p xml:lang="ocm-Latn">siy· mapa <gap reason="lost" quantity="4" unit="character"/>
+       <p xml:lang="ocm-Latn">siy· mapa<gap reason="lost" quantity="4" unit="character"/><!-- argr2sapi: based on parallels we can restore mapamataḥ -->
         <lb n="B17"/>niy· Asuv· ñū ndoy· Inā ñū <g type="ddandaPlain">.</g>
       </p>
          </div>
@@ -411,9 +409,10 @@
          <div type="commentary">
             <p>Huber didn't recognized stanzas 7 and 8 and interpreted them as prose.</p>
             <p>Huber didn't fully translate the inscription.</p>
+<!-- argr2sapi: I would like to know if Majumdar translated more, or strictly the same as Huber. -->
          </div>
         <div type="bibliography">
-           <p>First edited in French by Edouard Huber (<bibl rend="omitname"><ptr target="bib:Huber1911_02"/></bibl>). Re-edited here using photos and 3D model that were made in 2024 by Adeline Levivier and EFEO estampage n. 154 A and n. 154 B.</p>
+           <p>First edited in French by Edouard Huber (<bibl rend="omitname"><ptr target="bib:Huber1911_02"/></bibl>). Re-edited here using photos and 3D model that were made in 2024 by Adeline Levivier and EFEO estampages under number n. 154.</p>
         	<listBibl type="primary">
             <bibl n="H">
             <ptr target="bib:Huber1911_02"/>

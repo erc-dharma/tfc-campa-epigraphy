@@ -89,52 +89,58 @@
       <body>
          <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:83213">
            <ab><milestone type="pagelike" unit="face" n="A"/>
-           <lb n="A01"/><g type="ddandaPlain"/> Om̐ namaś śivāya <g type="ddandaPlain"/>
-            <lb n="A1"/>svasti <g type="ddandaPlain"/></ab>
+           <lb n="A01"/><g type="ddandaPlain">.</g> Om̐ namaś śivāya <g type="ddandaPlain">.</g>
+            <lb n="A1"/><g type="indistinct">.</g> svasti <g type="ddandaPlain">.</g></ab>
            <lg n="1" met="upendravajrā">
-             <l n="a">jayaty asau yaḥ surarājacūḍā <g type="dotMid">.</g></l>
-             <l n="b">maṇīddharaśmyācchuritāṅghriyugmaḥ <g type="dotMid">.</g></l>
-             <l n="c">Umāmukhāmbhoja <seg met="-+-"><gap reason="illegible" quantity="3" unit="character"/></seg>ṇena<supplied reason="lost"><g type="dotMid">.</g></supplied></l>
-             <l n="d"><lb n="A2"/><seg met="-+"><gap reason="illegible" quantity="2" unit="character"/></seg>rttitākṣir nnirapekṣanetraḥ <g type="ddandaPlain">.</g></l>
+             <l n="a">jayaty asau yaḥ sura-rāja-cū<choice><orig>d</orig><reg>ḍ</reg></choice>ā <g type="dotMid">.</g></l>
+             <l n="b">maṇīddha-raśmy-ācchuritāṅghri-yugmaḥ <g type="dotMid">.</g></l>
+             <l n="c">Umā-mukhāmbhoja-<seg met="-+-"><gap reason="illegible" quantity="3" unit="character"/></seg><!--nirutta? -->ṇena <supplied reason="lost"><g type="dotMid">.</g></supplied></l>
+             <l n="d"><lb n="A2"/><seg met="-+"><gap reason="illegible" quantity="2" unit="character"/></seg>r<unclear>tt</unclear>itākṣir nnirapekṣa-netraḥ <g type="ddandaPlain">.</g></l>
            </lg>
            <lg n="2" met="vasantatilakā">
              <l n="a">saṁmohanena kila viddhyati yaṁ śareṇa <g type="dotMid">.</g></l>
-             <l n="b">kāmo jagattrayamanoharavibhra <seg met="+-"><gap reason="illegible" quantity="2" unit="character"/></seg><supplied reason="lost"> <g type="dotMid">.</g></supplied></l>
-             <l n="c" enjamb="yes"><seg met="++"><gap reason="illegible" quantity="2" unit="character"/></seg> <lb n="A3"/>punaḥ sa labhate yad anaṅga bhūya<g type="dotMid">.</g>s</l>
-             <l n="d">dhr̥tvā<!-- ou mr̥tvā ?--> sakr̥dyam abhavat<!--sakr̥dyam: sakr̥d api yam (Huber). Vérifier le mètre.--> puruṣārttamuktaḥ<!-- puruṣārttamuktaḥ (Huber).--> <g type="ddandaPlain">.</g></l>
+             <l n="b">kāmo jagat-traya-manohara-vibhra<supplied reason="lost">m</supplied><seg met="+-"><gap reason="illegible" quantity="2" unit="character"/></seg> <supplied reason="lost"><g type="dotMid">.</g></supplied></l>
+             <l n="c"><supplied reason="lost">sma</supplied><lb n="A3" break="no"/>rāt punaḥ sa labhate yad-anaṅga-bhūya<!-- on s'attend à bhūyas (un des s serait-il tombé ?--> <g type="dotMid">.</g></l>
+             <l n="d">smr̥tvā sakr̥d yam abhavat<!--sakr̥dyam: sakr̥d api yam (Huber). Vérifier le mètre.--> puruṣ<choice><sic>o</sic><corr>ā</corr></choice>rttamuktaḥ<!-- puruṣārttamuktaḥ (Huber). Ou puruṣo 'rtthamuktaḥ ?--> <g type="ddandaPlain">.</g></l>
            </lg>
            <lg n="3" met="anuṣṭubh"><!-- sapi2argr Huber a omis cette stance en entier.  -->
-             <l n="a">vācāratyāṁ nijasvāmi <g type="dotMid">.</g></l>
-             <l n="b">jīvarthinyāṁ manojñayā <g type="dotMid">.</g></l>
-             <l n="c"><lb n="A4"/><seg met="+"><gap reason="illegible" quantity="1" unit="character"/></seg>ktyā<!--sapi2argr: bhaktyā ?--> yo nirmmame kāmaṁ <g type="dotMid">.</g></l>
-             <l n="d">tatsaṅgo bh(ū/r̥)tpapūrvvavat·<!--sapi2argr cf. l. A3: bhūya et l. A6 : bhūtaye. Ces akṣaras sont des formes bien originales de -ū. Le -ū de pūrvva, juste après, est bien différent... --> <g type="ddandaPlain">.</g></l>
+             <l n="a">vācā ratyāṁ nija-svāmī <g type="dotMid">.</g></l>
+             <l n="b">jīvārthinyāṁ mano-jñayā <g type="dotMid">.</g></l>
+             <l n="c"><lb n="A4"/><supplied reason="lost">yu</supplied>ktyā<!--bhaktyā, śaktyā ou Uktyā?--> yo nirmmame kāmaṁ <g type="dotMid">.</g></l>
+             <l n="d">tatsaṅgo <supplied reason="subaudible">'</supplied>bhūt sa pūrvvavat· <g type="ddandaPlain">.</g></l>
            </lg>
            <lg n="4" met="anuṣṭubh">
              <l n="a">sa Eva bhagavān īśo <g type="dotMid">.</g></l>
              <l n="b">datta-loka-sukhodayaḥ <g type="dotMid">.</g></l>
-             <l n="c">Eva <lb n="A5"/>śrī-śānabhadreśo <g type="dotMid">.</g></l>
+             <l n="c">Eva <lb n="A5"/>śrīśānabhadreśo <g type="dotMid">.</g></l>
              <l n="d">rāja-śriyam<!--rājaśriyāṁ (Huber)--> akārayat· <g type="ddandaPlain">.</g></l>
            </lg>
            <lg n="5" met="anuṣṭubh">
              <l n="a">namitavyo mahī-bhugbhiḥ <g type="dotMid">.</g></l>
-             <l n="b">prajāpālana-kāṅkṣibhiḥ <g type="dotMid">.</g></l>
+             <l n="b">prajā-pālana-kāṅkṣibhiḥ <g type="dotMid">.</g></l>
              <l n="c">rāja-śriyāṁ karāmbho<lb n="A6" break="no"/>jā</l>
-             <l n="d">liṅgitair bbhūvi<!-- bhuvi (Huber)--> bhūtaye <g type="ddandaPlain">.</g></l>
+             <l n="d">liṅgitair bbhū-vibhūtaye <g type="ddandaPlain">.</g></l>
            </lg>
             <lg n="6" met="śārdūlavikrīḍita">
-             <l n="a">svasti prāpta-janānurāgam udayūrvvī-strī-vataṁsī bhūve <g type="dotMid">.</g></l>
+             <l n="a">svasti-prāpta-janānurāgam uday<choice><sic>ū</sic><corr>o</corr></choice>rvvī-strī-vataṁsī bhuve <g type="dotMid">.</g></l>
              <l n="b">campāyai dhana-dhānya-varddhana-bhr̥te <lb n="A7"/>bhūpendra-kīrttīndunā <g type="dotMid">.</g></l>
-             <l n="c">śaśvad-bhūṣita-bhūmi-maṇḍala-rucā saṁpāditaryya-śriye <g type="dotMid">.</g></l>
+             <l n="c">śaśvad-bhūṣita-bhūmi-maṇḍala-rucā saṁpāditāryya-śriye <g type="dotMid">.</g></l>
              <l n="d">sūtāyai caraṇa-dvayād bhagavatas tasyo<lb n="A8" break="no"/>dgatenāśunā <g type="ddandaPlain">.</g></l>
            </lg>
            <lg n="7" met="indravajrā">
-             <l n="a" enjamb="yes">śrī-kīrtti-saṁpadvala-vīryya-śūra</l>
-             <l n="b">tyā<!-- tyāṁ ?-->gakṣamādharmma-guṇānurāgaiḥ <g type="dotMid">.</g></l>
-             <l n="c">śrī-bhadravarmmā pr̥thivīśvaro yaṁ <g type="dotMid">.</g></l>
-             <l n="d">nityānuyā<lb n="A9" break="no"/>to vatitāmivendraḥ <g type="ddandaPlain">.</g></l>
+             <l n="a" enjamb="yes">śrī-kīrtti-saṁpad-vala-vīryya-śūra</l>
+             <l n="b">tyāga-kṣamā-dharmma-guṇānurāgaiḥ <g type="dotMid">.</g></l>
+             <l n="c">śrī-bhadravarmmā pr̥thivīśvaro <supplied reason="subaudible">'</supplied>yaṁ <g type="dotMid">.</g></l>
+             <l n="d">nityānuyā<lb n="A9" break="no"/>to vatitām ivendraḥ <g type="ddandaPlain">.</g></l>
            </lg>
-           <p><gap reason="lost" quantity="7" unit="character"/>savr̥tāśaiḥ • sañ<unclear>c</unclear>ālikaṁ dharmma-mayaṁ narendraḥ sthirīcak<unclear>āreva</unclear><!--kāṁ reva?--> yuddhiṣṭhiro 'sau
-           <lb n="A10"/>duryyodhanādyaiḥ <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>i</seg> <gap reason="lost" quantity="21" unit="character"/> bhima-mitra-gaṇāssatāpam· <g type="dotMid">.</g> candraṁ pra
+           <lg n="8" met="indravajrā">
+           <l n="a"><gap reason="lost" quantity="7" unit="character"/>savr̥tāśaiḥ <g type="dotMid">.</g></l> 
+            <l n="b">sañ<unclear>c</unclear>ālikaṁ dharmma-mayaṁ narendraḥ <g type="dotMid">.</g></l> 
+            <l n="c">sthirīcakāreva yuddhiṣṭhiro <supplied reason="subaudible">'</supplied>sau</l>
+           <l n="d"><lb n="A10"/>duryyodhanādyaiḥ <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>i</seg><seg met="-+-+="><gap reason="illegible" quantity="5" unit="character"/></seg></l></lg> 
+           <!-- vasantatilakā ++-+- - - + - - + - + = ? -->
+           <p><gap reason="lost" quantity="15" unit="character"/> bhima-mitra-gaṇās satāpam· <g type="dotMid">.</g> 
+           candraṁ pra
            <lb n="A11" break="no"/>jā<!-- prajāḥ?--> śrarā <gap reason="lost" quantity="29" unit="character"/>sya yuyutsur vvarasevakaḥ nā
            <lb n="A12" break="no"/>mnā yaḥ <unclear>pādara</unclear>kṣayaḥ dha<supplied reason="lost">r</supplied><unclear>m</unclear>ma-<unclear>m</unclear>atara bhū rayam<supplied reason="lost">·</supplied> <g type="ddandaPlain">.</g></p> 
 
@@ -147,21 +153,29 @@
          </div>
          <div type="apparatus">
                <listApp>
+               <app loc="A3">
+                     <lem>smr̥tvā</lem>
+                     <rdg source="bib:Huber1911_01">s-dhr̥tvā</rdg>
+                  </app>
                  <app loc="A3">
                      <lem>sakr̥dyam</lem>
                      <rdg source="bib:Huber1911_01">sakr̥d api yam</rdg>
                   </app>
                   <app loc="A3">
-                     <lem>puruṣortta-</lem>
+                     <lem>puruṣ<choice><sic>o</sic><corr>ā</corr></choice>rtta-</lem>
                      <rdg source="bib:Huber1911_01">puruṣārtta-</rdg>
                   </app>
                   <app loc="A5">
                       <lem>-śriyam akārayat·</lem>
-                      <rdg source="bib:Huber1911_01">°śriyāṁ akārayat</rdg>
+                      <rdg source="bib:Huber1911_01">-śriyāṁ akārayat</rdg>
                    </app>
                    <app loc="A6">
-                      <lem>bbhūvi</lem>
-                      <rdg source="bib:Huber1911_01">bhuvi</rdg>
+                      <lem>bbhū-vibhūtaye</lem>
+                      <rdg source="bib:Huber1911_01">bhuvi bhūtaye</rdg>
+                   </app>
+                   <app loc="A7">
+                      <lem>saṁpāditāryya</lem>
+                      <rdg source="bib:Huber1911_01">saṁpāditaryya</rdg>
                    </app>
                </listApp>
          </div>

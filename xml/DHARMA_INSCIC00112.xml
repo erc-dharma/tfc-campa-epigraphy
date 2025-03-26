@@ -154,7 +154,7 @@
            <l n="d">dha<supplied reason="lost">r</supplied><unclear>m</unclear>ma<unclear>-m</unclear>at<unclear>i</unclear>r abhū<unclear>d</unclear> ayam<unclear>·</unclear> <g type="ddandaPlain">.</g></l>
            </lg>
 
-             <lg n="11" met="anuṣṭubh">
+            <lg n="11" met="anuṣṭubh">
            <l n="a">kr̥<seg met="===-++="><gap reason="lost" quantity="7" unit="character"/></seg> <supplied reason="lost"><g type="dotMid">.</g></supplied></l>
            <l n="b"><seg met="====-"><gap reason="lost" quantity="5" unit="character"/></seg><supplied reason="lost">va</supplied>llabhaḥ <supplied reason="omitted"><g type="dotMid">.</g></supplied></l> 
            <l n="c">ta<unclear>d</unclear>-arī<unclear>n</unclear> ajayat sarvvān <supplied reason="omitted"><g type="dotMid">.</g></supplied></l> 
@@ -180,11 +180,13 @@
             <lb n="A17"/>chayentreṇa Xrjiteṇa muyenve cchettayehaṁ pratam· <g type="dotMid">.</g> (śtra)nāCva(śilata){1} tasya sarhasā daitaṁ {1}Cmanusyatyaya <g type="dotMid">.</g> (ne)
            </p>
            <p><milestone type="pagelike" unit="face" n="B"/>
-           <lb n="B1"/><gap reason="lost" quantity="8" unit="character"/> <unclear>pa</unclear>śupati-nayana-maṅgala-samupagate<!-- ou plutôt samupagata à corriger en samupagate ?--> śaka-pati-samaye mithuna-divakara-ketura-jani-kara-dhara
-           <lb n="B2"/>ṇitanaye jaladhara-diśā-kr̥ti-pūrvva-Cra {3}Cu{1}(jeladharā hudejra){1}(<g type="ddandaPlain">.</g>) {1}(Cuḥ pani mantri divapakara sute(na) li
-           <lb n="B3" break="no"/>varddha-satī la<unclear>g</unclear>na-samaya-<unclear>gr̥</unclear>-bhutanaye śrī-ṣmarttu {2} <unclear>sāmavāpa</unclear> kr̥ṣṇa-ṣaṣṭhā<unclear>he</unclear>-{1}(na) pādarakṣa-nāmnā nara-pati-dr̥ḍhabhaktihr̥-
-           <lb n="B4" break="no"/>dayena svāmi <unclear>kā karyātpaCe</unclear>{1}Cī{3}(ṇa pra){2}(ni bhamati paśmrānāvatāmātāni rātupa)Cī(ja nakamahatyabhanyā) śrīdha
-           <lb n="B5" break="no"/>rmmaliṅgeśvaraḥ pratiṣṭhāpitaḥ (staye) {9} duktayena  liṅgabhūmi-nāmi-grāme sminn iti <g type="ddandaPlain">.</g></p> 
+           <lb n="B1"/><gap reason="lost" quantity="8" unit="character"/> <unclear>pa</unclear>śupati-nayana-maṅgala-<unclear>sa</unclear>mupagate<!--samupagate est la lecture de Huber. Plutôt samupagata à corriger en samupagate ?--> śaka-pati-samaye mithuna-divakara-ketura-jani-kara-dhara
+           <lb n="B2"/>ṇitanaye jaladhara-diśā-kr̥ti-pūrvva-<unclear>p</unclear>ra{2}Cu{1} <unclear>jaladharā hu</unclear>{3}<unclear><g type="ddandaPlain">.</g></unclear> <unclear>paśupati-man</unclear>tri-diva(s/p)a-kara sute<unclear>na</unclear> li
+           <lb n="B3" break="no"/>varddha-satī lagna-samaya-<unclear>bhr̥</unclear>-bhutanaye griṣmarttu {3} <unclear>sāma-vāpa</unclear>-kr̥ṣṇa-ṣaṣṭhāhe-{1}<unclear>na</unclear> pādarakṣa-nāmnā nara-pati-dr̥ḍha-bhakti-hr̥
+           <lb n="B4" break="no"/>dayena svāmi <unclear>ka</unclear> k<unclear>u</unclear>ryyātpa<unclear>hena śiva</unclear>{2}Cmaraṇa-pra{2}<unclear>ni bh</unclear>amati 
+           <!--REPRENDRE ICI-->
+           <unclear>paśmrā</unclear> bhuvatāmātāni rātupaCī(ja nakamahatyabhanyā) śrī-dha
+           <lb n="B5" break="no"/>rmmaliṅgeśvaraḥ pratiṣṭhāpitaḥ (staye) {9} duktayena liṅgabhūmi-nāmi-grāme sminn iti <g type="ddandaPlain">.</g></p> 
 
            <p>śrī dharmmaliṅgeśva<unclear>ra</unclear> {1}
            <lb n="B6"/>{1}CīCyā (nr̥bhaśradaCi){5} (tyanaḥ) {2}Cyaja{2}(vargga) <g type="dotMid">.</g> (nyāyāna){6}rtta{2}Cma(dhava)Ce

@@ -149,16 +149,20 @@
 
            <lg n="10" met="anuṣṭubh">
            <l n="a"><seg met="====-"><gap reason="lost" quantity="5" unit="character"/></seg><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>i</seg><seg met="+"><gap reason="lost" quantity="1" unit="character"/></seg>sya <supplied reason="omitted"><g type="dotMid">.</g></supplied></l>
-           <l n="b">yuyutsur vvarasevakaḥ <unclear><g type="dotMid">.</g></unclear></l> 
+           <l n="b">yuyutsur vvara-sevakaḥ <unclear><g type="dotMid">.</g></unclear></l> 
            <l n="c">nā<lb n="A12" break="no"/>mnā yaḥ <unclear>pādara</unclear>kṣo yaḥ <g type="dotMid">.</g></l> 
-           <l n="d">dha<supplied reason="lost">r</supplied><unclear>m</unclear>ma<unclear>-m</unclear>at<unclear>i</unclear>r abhū<unclear>d</unclear> ayam<supplied reason="lost">·</supplied> <g type="ddandaPlain">.</g></l>
+           <l n="d">dha<supplied reason="lost">r</supplied><unclear>m</unclear>ma<unclear>-m</unclear>at<unclear>i</unclear>r abhū<unclear>d</unclear> ayam<unclear>·</unclear> <g type="ddandaPlain">.</g></l>
            </lg>
 
+            <!--Pourrait-il s'agir d'un anuṣṭhub avec erreur dans le dernier pāda ?-->
            <p>kr̥<gap reason="lost" quantity="10" unit="character"/><supplied reason="lost">va</supplied>llabhaḥ ta<unclear>d</unclear>-arī<unclear>n</unclear> ajayat sarvvān nata-svā<lb n="A13" break="no"/>my-anāspadā <g type="ddandaPlain">.</g></p> 
 
-            <p><!--sapi2argr pourrait-il s'agir d'une vasantatilakā + + - + - - - + - - + - + = ? -->
-            rājaprasādam<unclear>·</unclear> tulaṁ hr̥daya <gap reason="lost" quantity="13" unit="character"/> namā<unclear>ra</unclear>bhūtam· <g type="dotMid">.</g> jñebhya-śrutaṁ pa<unclear>ra</unclear>ma <unclear>ma</unclear>ṅ<unclear>ga</unclear>la-śa
-            <lb n="A14" break="no"/>bda-gītaṁ <unclear><g type="dotMid">.</g></unclear> dharmme vibodhayati tasya manovi śudam· <g type="ddandaPlain">.</g></p>
+            <lg n="11" met="vasantatilakā">
+             <l n="a">rāja-prasādam atulaṁ hr̥daya <seg met="+-+="><gap reason="lost" quantity="4" unit="character"/></seg></l> 
+            <l n="b"><seg met="++-+---+-"><gap reason="lost" quantity="9" unit="character"/></seg> namā<unclear>ra</unclear>bhūtam· <g type="dotMid">.</g></l> 
+            <l n="c">jñebhya śrutaṁ pa<unclear>ra</unclear>ma-<unclear>ma</unclear>ṅ<unclear>ga</unclear>la-śa<lb n="A14" break="no"/>bda-gītaṁ <unclear><g type="dotMid">.</g></unclear></l>
+            <l n="d">dharmme vibodhayati tasya manovi śudam· <g type="ddandaPlain">.</g></l>
+            </lg>
             
             <p>pitror gguṇānguru-<unclear>kaman</unclear>-paramā<unclear>n</unclear> guṇānā <g type="dotMid">.</g> mākā<unclear>śa</unclear>-bhūmi-(pa/sa)vanā <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>i</seg><gap reason="lost" quantity="1" unit="character"/>
             <lb n="A15"/><unclear>ja</unclear>la pramāṇān· sañca(n/t)ti yan sumanasā saśivasya liṅgasaṁ hr̥sana-pravaramecchati deva-bhaktyā <g type="ddandaPlain">.</g></p> 

@@ -134,15 +134,21 @@
              <l n="d">nityānuyā<lb n="A9" break="no"/>to vatitām ivendraḥ <g type="ddandaPlain">.</g></l>
            </lg>
            <lg n="8" met="indravajrā">
-           <l n="a"><gap reason="lost" quantity="7" unit="character"/>savr̥tāśaiḥ <g type="dotMid">.</g></l> 
+           <l n="a"><seg met="++-++--"><gap reason="lost" quantity="7" unit="character"/></seg>saṁvr̥tāśaiḥ <g type="dotMid">.</g></l> 
             <l n="b">sañ<unclear>c</unclear>ālikaṁ dharmma-mayaṁ narendraḥ <g type="dotMid">.</g></l> 
             <l n="c">sthirīcakāreva yuddhiṣṭhiro <supplied reason="subaudible">'</supplied>sau</l>
            <l n="d"><lb n="A10"/>duryyodhanādyaiḥ <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>i</seg><seg met="-+-+="><gap reason="illegible" quantity="5" unit="character"/></seg></l></lg> 
            <!-- pour la prochaine : vasantatilakā + + - + - - - + - - + - + = ? -->
-           <p><gap reason="lost" quantity="15" unit="character"/> bhima-mitra-gaṇās satāpam· <g type="dotMid">.</g> 
-           candraṁ pra
-           <lb n="A11" break="no"/>jā<!-- prajāḥ?--> śrarā <gap reason="lost" quantity="29" unit="character"/>sya yuyutsur vvarasevakaḥ nā
-           <lb n="A12" break="no"/>mnā yaḥ <unclear>pādara</unclear>kṣayaḥ dha<supplied reason="lost">r</supplied><unclear>m</unclear>ma-<unclear>m</unclear>atara bhū rayam<supplied reason="lost">·</supplied> <g type="ddandaPlain">.</g></p> 
+           
+           <lg n="9" met="vasantatilakā">
+           <l n="a"><seg met="++-+---+--+-+="><gap reason="lost" quantity="14" unit="character"/></seg></l>
+           <l n="b"><seg met="++-"><gap reason="lost" quantity="3" unit="character"/></seg>ṁ <supplied reason="lost">ra</supplied>vim amitra-gaṇās<!--C.148, st. I: devāmitragaṇair --> satāpam· <g type="dotMid">.</g></l> 
+           <l n="c">candraṁ pra<lb n="A11" break="no"/>jāśubha <seg met="-+--+-+="><gap reason="lost" quantity="8" unit="character"/></seg></l>
+           <l n="d"><seg met="++-+---+--+-+="><gap reason="lost" quantity="14" unit="character"/></seg></l></lg>
+           
+           <p>
+           <gap reason="lost" quantity="6" unit="character"/>sya yuyutsur vvarasevakaḥ nā
+           <lb n="A12" break="no"/>mnā yaḥ <unclear>pādara</unclear>kṣayaḥ dha<supplied reason="lost">r</supplied><unclear>m</unclear>ma-<unclear>m</unclear>atara bhū rayam<supplied reason="lost">·</supplied> <g type="ddandaPlain">.</g> </p>
 
            <p>kr̥<gap reason="lost" quantity="10" unit="character"/><supplied reason="lost">va</supplied>llabhaḥ ta(dasī) jayatsarvvānna ta svā
            <lb n="A13"/>myanās sadā <g type="ddandaPlain">.</g></p> 

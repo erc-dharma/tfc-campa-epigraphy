@@ -155,23 +155,23 @@
            </lg>
 
             <lg n="11" met="anuṣṭubh">
-           <l n="a">kr̥<seg met="===-++="><gap reason="lost" quantity="7" unit="character"/></seg> <supplied reason="lost"><g type="dotMid">.</g></supplied></l>
-           <l n="b"><seg met="====-"><gap reason="lost" quantity="5" unit="character"/></seg><supplied reason="lost">va</supplied>llabhaḥ <supplied reason="omitted"><g type="dotMid">.</g></supplied></l> 
-           <l n="c">ta<unclear>d</unclear>-arī<unclear>n</unclear> ajayat sarvvān <supplied reason="subaudible"><g type="dotMid">.</g></supplied></l> 
+           <l n="a">kr̥<seg met="===-++="><gap reason="lost" quantity="7" unit="character"/></seg></l>
+           <l n="b"><seg met="====-"><gap reason="lost" quantity="5" unit="character"/></seg><supplied reason="lost">va</supplied>llabhaḥ</l> 
+           <l n="c">ta<unclear>d</unclear>-arī<unclear>n</unclear> ajayat sarvvān</l> 
            <l n="d"><choice><sic>na</sic><corr>ana</corr></choice>ta-svā<lb n="A13" break="no"/>my-anāspadā <g type="ddandaPlain">.</g></l>
            </lg>
 
             <lg n="12" met="vasantatilakā">
-             <l n="a">rāja-prasādam atulaṁ hr̥daya <seg met="-+="><gap reason="lost" quantity="3" unit="character"/></seg></l> 
+             <l n="a">rāja-prasādam atulaṁ hr̥daya-pra<seg met="+"><gap reason="illegible" quantity="1" unit="character"/></seg><seg met="="><gap reason="lost" quantity="1" unit="character"/></seg> <supplied reason="lost"><g type="dotMid">.</g></supplied></l> 
             <l n="b"><seg met="++-+---+-"><gap reason="lost" quantity="9" unit="character"/></seg> namā<unclear>ra</unclear>bhūtam· <g type="dotMid">.</g></l> 
-            <l n="c">jñebhya śrutaṁ pa<unclear>ra</unclear>ma-<unclear>ma</unclear>ṅ<unclear>ga</unclear>la-śa<lb n="A14" break="no"/>bda-gītaṁ <unclear><g type="dotMid">.</g></unclear></l>
-            <l n="d">dharmme vibodhayati tasya manovi śudam· <g type="ddandaPlain">.</g></l>
+            <l n="c">jñebhya śrutaṁ parama-<unclear>ma</unclear>ṅ<unclear>ga</unclear>la-śa<lb n="A14" break="no"/>bda-gītaṁ <unclear><g type="dotMid">.</g></unclear></l>
+            <l n="d">dharmme vibodhayati tasya mano viśud<unclear>dh</unclear>am· <g type="ddandaPlain">.</g></l>
             </lg>
             
-            <!-- Il me semble qu'il s'agit une nouvelle fois d'une vasantatilakā-->
-            <p>pitror gguṇānguru-<unclear>kaman</unclear>-paramā<unclear>n</unclear> guṇānā <g type="dotMid">.</g> 
-            mākā<unclear>śa</unclear>-bhūmi-(pa/sa)vanā <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>i</seg><gap reason="lost" quantity="1" unit="character"/>
-            <lb n="A15"/><unclear>ja</unclear>la pramāṇān· sañca(n/t)ti yan sumanasā saśivasya liṅga-saṁ-hr̥sana-pravaramecchati deva-bhaktyā <g type="ddandaPlain">.</g></p> 
+           <lg n="13" met="vasantatilakā">
+             <l n="a">pitror gguṇān guru-<unclear>tamān</unclear> paramā<unclear>n</unclear> guṇā<unclear>n</unclear>ā<g type="dotMid">.</g>m</l> 
+             <l>ākā<unclear>śa</unclear>-bhūmi-pavanā <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>i</seg><gap reason="lost" quantity="1" unit="character"/>
+            <lb n="A15"/><unclear>ja</unclear>la pramāṇān· sañca(n/t)ti yan sumanasā saśivasya liṅga-saṁ-hr̥sana-pravaramecchati deva-bhaktyā <g type="ddandaPlain">.</g></l></lg> 
             
             <p>tata<unclear>ścandra-bhu</unclear>vatāte<gap reason="lost" quantity="2" unit="character"/>
             <lb n="A16"/>se<unclear>vya</unclear>-varṇṇa-madhikaṁ Ce (li)ṅg(e)māśutase padharaṇe(dhara)rājatanayān(u) samete <g type="ddandaPlain">.</g></p> 
@@ -230,8 +230,8 @@
                       <rdg source="bib:Huber1911_01">saṁpāditaryya</rdg>
                    </app>
                    <app loc="A7">
-                      <lem>sarvvān <supplied reason="subaudible"><g type="dotMid">.</g></supplied> <choice><sic>na</sic><corr>ana</corr></choice>ta</lem>
-                      <note>We assume that the subscribed <foreign>na</foreign> could be a posterior incise below the line. This would allow for obtaining a stanza in the <foreign>anuṣṭubh</foreign> meter.</note>
+                      <lem>sarvvān <choice><sic>na</sic><corr>ana</corr></choice>ta</lem>
+                      <note>It seems likely that the ligature <foreign>nna</foreign>, whose first <foreign>n</foreign> belongs to <foreign>pāda</foreign> c, is the result of misinterpretation of what was actually intended to be an insertion of <foreign>na</foreign> between <foreign>na</foreign> and <foreign>ta</foreign> in a hypothetical draft from which the stone carver was working.<!-- This would allow for obtaining a stanza in the <foreign>anuṣṭubh</foreign> meter. --></note>
                    </app>
                </listApp>
          </div>

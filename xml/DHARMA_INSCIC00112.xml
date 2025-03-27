@@ -174,11 +174,11 @@
              <l n="c" enjamb="yes">sañcintayan sumanasā sa śivasya liṅga<g type="dotMid">.</g></l>
              <l n="d">-saṁsthāpanaṁ pravaram icchati deva-bhaktyā <g type="ddandaPlain">.</g></l></lg> 
             
-            <p>tata<unclear>ścandra-bhu</unclear>vatāte<gap reason="lost" quantity="2" unit="character"/>
-            <lb n="A16"/>s<unclear>n</unclear>ig<unclear>dha</unclear>-varṇṇam adhikaṁ deva-liṅgam āśu kāritaṁ sa dharaṇi-dhara-rāja-tanayānurūpam iti <g type="ddandaPlain">.</g></p> 
+            <p>tata<seg rend="check">ś candra-dvā-vatāte</seg><supplied reason="lost">na</supplied><gap reason="lost" quantity="1" unit="character"/>
+            <lb n="A16"/>s<unclear>n</unclear>ig<unclear>dha</unclear>-varṇṇam adhikaṁ deva-liṅgam āśu kāritaṁ <seg rend="check">sa</seg> dharaṇi-dhara-rāja-tanayānurūpam iti <g type="ddandaPlain">.</g></p> 
 
-            <p>Ā(śra)yaC-pratipatti-ta(t)pa{1}rāḥ svaha(mano) Ce
-            <lb n="A17"/>chayentreṇa Xrjiteṇa muyenve cchettayehaṁ pratam· <g type="dotMid">.</g> (śtra)nāCva(śilata){1} tasya sarhasā daitaṁ {1}Cmanusyatyaya <g type="dotMid">.</g> (ne)
+            <p>Ā(śra)yan-pratipatti-ta(t)pa{1}rāḥ svaha(mano) Ce
+            <lb n="A17"/>XXmīntreṇa visarjjiteṇa muye dvicchittaye saṁpratam· <g type="dotMid">.</g> (śtra)nāCva(śilata){1} tasya sarhasā daitaṁ {1}Cmanusyatyaya <g type="dotMid">.</g> (ne)
            </p>
            <p><milestone type="pagelike" unit="face" n="B"/>
            <lb n="B1"/><gap reason="lost" quantity="8" unit="character"/> <unclear>pa</unclear>śupati-nayana-maṅgala-<unclear>sa</unclear>mupagate<!--samupagate est la lecture de Huber. Plutôt samupagata à corriger en samupagate ?--> śaka-pati-samaye mithuna-divakara-ketura-jani-kara-dhara

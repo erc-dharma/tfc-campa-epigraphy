@@ -157,7 +157,7 @@
             <lg n="11" met="anuṣṭubh">
            <l n="a">kr̥<seg met="===-++="><gap reason="lost" quantity="7" unit="character"/></seg> <supplied reason="lost"><g type="dotMid">.</g></supplied></l>
            <l n="b"><seg met="====-"><gap reason="lost" quantity="5" unit="character"/></seg><supplied reason="lost">va</supplied>llabhaḥ <supplied reason="omitted"><g type="dotMid">.</g></supplied></l> 
-           <l n="c">ta<unclear>d</unclear>-arī<unclear>n</unclear> ajayat sarvvān <supplied reason="omitted"><g type="dotMid">.</g></supplied></l> 
+           <l n="c">ta<unclear>d</unclear>-arī<unclear>n</unclear> ajayat sarvvān <supplied reason="subaudible"><g type="dotMid">.</g></supplied></l> 
            <l n="d"><choice><sic>na</sic><corr>ana</corr></choice>ta-svā<lb n="A13" break="no"/>my-anāspadā <g type="ddandaPlain">.</g></l>
            </lg>
 
@@ -229,19 +229,26 @@
                       <lem>saṁpāditāryya</lem>
                       <rdg source="bib:Huber1911_01">saṁpāditaryya</rdg>
                    </app>
+                   <app loc="A7">
+                      <lem>sarvvān <supplied reason="subaudible"><g type="dotMid">.</g></supplied> <choice><sic>na</sic><corr>ana</corr></choice>ta</lem>
+                      <note>We assume that the subscribed <foreign>na</foreign> could actually be a posterior incise below the line. This would allow for obtaining a stanza in the <foreign>anuṣṭubh</foreign> meter.</note>
+                   </app>
                </listApp>
          </div>
          <div type="translation">
  	<!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
-            <p n="A4-A5">E. Huber ommited the whole stanza 3.</p>
+            <p>E. Huber only edited six stanzas on face A. However, he ommited what is considered as stanza III. Interestingly, both Majumdar and Golzio didn't include this inscription in their publications. </p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <p>Partly edited by Huber. First complete edition by Arlo Griffiths and Salomé Pichon based on the EFEO estampages made by Nguyen Van Quang, on photos and photogrammetry models made by Adeline Leviver, and on a direct reading on stone led in July 2022.</p>
         	<listBibl type="primary">
-				<bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+				<bibl n="H">
+                    <ptr target="bib:Huber1911_01"/>
+                    <citedRange unit="page">283-284</citedRange>
+                        </bibl>
 			</listBibl>
            <listBibl type="secondary">
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->

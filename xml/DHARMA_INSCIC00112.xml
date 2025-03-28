@@ -177,10 +177,15 @@
             <p>tata<seg rend="check">ś candra-dvā-vatāte</seg><supplied reason="lost">na</supplied><gap reason="lost" quantity="1" unit="character"/>
             <lb n="A16"/>s<unclear>n</unclear>ig<unclear>dha</unclear>-varṇṇam adhikaṁ deva-liṅgam āśu kāritaṁ <seg rend="check">sa</seg> dharaṇi-dhara-rāja-tanayānurūpam iti <g type="ddandaPlain">.</g></p> 
 
-            <p>Ā(śra)yan-pratipatti-ta(t)pa{1}rāḥ svaha(mano) Ce
-            <lb n="A17"/><unclear>ma<g type="dotMid">.</g>d bhū</unclear>mīntreṇa visarjjiteṇa muye dvicchittaye saṁpratam· <g type="dotMid">.</g> (śtra)nā(t)ti(lata){1}tas sa(ma)h(a/u)sā {2}ta<unclear>mm</unclear>asyatyaya <g type="dotMid">.</g> <unclear>ne</unclear>
-            <lb n="A18"/>pusyamanasaṁ {10}· <g type="ddandaPlain">.</g>
-           </p>
+             <lg n="14" met="śārdūlavikrīḍita">
+             <l n="a">Ā(śra)yan-pratipatti-ta<unclear>t</unclear>pa<gap reason="illegible" quantity="1" unit="character"/>rāḥ <seg rend="check">svahva</seg>mano <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>e</seg>
+            <lb n="A17"/><unclear>ma<g type="dotMid">.</g>d</unclear></l> 
+            <l n="b"><unclear>bhū</unclear>mīndreṇa visarjjite <supplied reason="subaudible">'</supplied><unclear>nalamukhe</unclear><!--analamukha apparaît dans C. 99. --> dvic-chittaye sāṁpratam· <g type="dotMid">.</g></l> 
+            <l n="c">(gra)nthā-bha(k)ti(lata){1}tas sa(ma)h(uṣa) cata<unclear>mm</unclear>a syatyaya <g type="dotMid">.</g></l> 
+            <l n="d"><seg met="++"><gap reason="illegible" quantity="2" unit="character"/></seg>
+            <lb n="A18"/>pūjya-manasaṁ {12}· <g type="ddandaPlain">.</g></l>
+            </lg>
+
            <p><milestone type="pagelike" unit="face" n="B"/>
            <lb n="B1"/><gap reason="lost" quantity="8" unit="character"/> <unclear>pa</unclear>śupati-nayana-maṅgala-<unclear>sa</unclear>mupagate<!--samupagate est la lecture de Huber. Plutôt samupagata à corriger en samupagate ?--> śaka-pati-samaye mithuna-divakara-ketura-jani-kara-dhara
            <lb n="B2" break="no"/>ṇitanaye jaladhara-diśā-kr̥ti-pūrvva-<unclear>p</unclear>ra{2}Cu{1} <unclear>jaladharā hu</unclear>{3}<unclear><g type="ddandaPlain">.</g></unclear> <unclear>paśupati-man</unclear>tri-diva(s/p)a-kara sute<unclear>na</unclear> li

@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Stela of Phú Lương (C. 112)</title>
+                <title>Stela of Phú Lương (C. 112), 831 Śaka</title>
                 <respStmt>
                    <resp>EpiDoc Encoding</resp>
                    <persName ref="part:sapi">
@@ -187,10 +187,25 @@
             </lg>
 
            <p><milestone type="pagelike" unit="face" n="B"/>
-           <lb n="B1"/><gap reason="lost" quantity="8" unit="character"/> <unclear>pa</unclear>śupati-nayana-maṅgala-<unclear>sa</unclear>mupagata-śaka-pati-samaye mithuna-divakara-ketura-jani-kara-dhara
-           <lb n="B2" break="no"/>ṇitanaye jaladhara-diśā-kr̥ti-pūrvva-<unclear>p</unclear>ra{2}Cu{1} <unclear>jaladharā hu</unclear>{3}<unclear><g type="ddandaPlain">.</g></unclear> <unclear>paśupati-man</unclear>tri-diva(s/p)a-kara sute<unclear>na</unclear> li
-           <lb n="B3" break="no"/>varddha-satī lagna-samaya-<unclear>bhr̥</unclear>-bhutanaye griṣmarttu {3} <unclear>sāma-vāpa</unclear>-kr̥ṣṇa-ṣaṣṭhāhe-{1}<unclear>na</unclear> pādarakṣa-nāmnā nara-pati-dr̥ḍha-bhakti-hr̥
-           <lb n="B4" break="no"/>dayena svāmi <unclear>ka</unclear> k<unclear>u</unclear>ryyātpa<unclear>hena śiva</unclear>{2}Cmaraṇa-pra{2}<unclear>-ni</unclear>śa-mati-<unclear>paśśrā</unclear>-bhuvatā-mātāpi<unclear>tru-pakav(i/e)</unclear>-jāna<unclear>kā</unclear>-mahatyā-bhaktyā śrī-dha
+           <lb n="B1"/><gap reason="lost" quantity="8" unit="character"/> <unclear>pa</unclear>śupati-nayana-maṅgala-<unclear>sa</unclear>mupagata-śaka-pati-samaye mithuna-dinakara-ketu-rajanikara-dhara
+           <lb n="B2" break="no"/>ṇi-tanaye jaladhara-niśākr̥ti pūrvva-<unclear>bhadra-nakṣatra</unclear> <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>u</seg><gap reason="lost" quantity="4" unit="character"/><!-- jaladha- --> rāhuke prathama-<unclear>bhava-sura</unclear>pati-mantri-divasakara-sute <unclear>va</unclear>lī<lb 
+           n="B3" break="no"/>varddha-pati-lagna-samaya-bhr̥gu-tanaye grīṣmarttu-<unclear>kāle</unclear> somavāre kr̥ṣṇa-ṣaṣṭhāhe tena 
+           <!--Soleil, Ketu et les fils de la terre et la lune (Mercure et Mars) en Gémeaux
+           Lune dans le Verseau (jaladhara-niśākr̥ti)
+           Jupiter (surapati-mantri) et Saturne (divasakara-suta) dans la 1ère maison
+        Vénus (bhr̥gu-tanaye) dans le Taureau (valīvarddhapati)
+            
+            Tout correspond avec l'année 831 śaka. Petit doute sur la maison 1. 
+            
+            830 śaka jyestha 21è jour = 24 mai 908, mardi.
+           831 ś., nija jyeșṭha 21e jour = 12 juin 909, lundi.
+           834 ś., jyestha 20è jour = 8 juin 912, lundi (ambiguïté car on entre dans le pūrvva-bhadra au milieu de la journée?)
+           837 ś., jyestha 20è jour = 5 juin 915, lundi (ambiguité?).
+
+           --> 
+           
+           pādarakṣa-nāmnā nara-pati-dr̥ḍha-bhakti-hr̥<lb 
+           n="B4" break="no"/>dayena svāmi <unclear>ka</unclear> k<unclear>u</unclear>ryyātpa<unclear>hena śiva</unclear>{2}Cmaraṇa-pra{2}<unclear>-ni</unclear>śa-mati-<unclear>paśśrā</unclear>-bhuvatā-mātāpi<unclear>tru-pakav(i/e)</unclear>-jāna<unclear>kā</unclear>-mahatyā-bhaktyā śrī-dha
            <lb n="B5" break="no"/>rmmaliṅgeśvaraḥ pratiṣṭhāpitaḥ <unclear>sthayoss</unclear>{7} <unclear>vandhūnāṁ</unclear><!--sapi2argr viendrait de bandhu?--> <unclear>duktayena</unclear> liṅgabhūmi-nāmni grāme sminn iti <g type="ddandaPlain">.</g></p> 
 
            <p>śrī dharmmaliṅgeśva<unclear>ra</unclear> Cva
@@ -243,6 +258,14 @@
                    <app loc="B1">
                       <lem>-samupagate-</lem>
                       <rdg source="bib:Huber1911_01">-<unclear>sa</unclear>mupagata-</rdg>
+                   </app>
+                   <app loc="B1">
+                      <lem>-dinakara-</lem>
+                      <rdg source="bib:Huber1911_01">-divakara-</rdg>
+                   </app>
+                    <app loc="B3">
+                      <lem>grīṣmarttu</lem>
+                      <rdg source="bib:Huber1911_01">gr̥ṣmarttu</rdg>
                    </app>
                </listApp>
          </div>

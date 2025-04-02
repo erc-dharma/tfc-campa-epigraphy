@@ -15,12 +15,20 @@
                       <forename>Salomé</forename>
                       <surname>Pichon</surname>
                    </persName>
+                   <persName ref="part:argr">
+                      <forename>Arlo</forename>
+                      <surname>Griffiths</surname>
+                   </persName>
                 </respStmt>
                 <respStmt>
                    <resp>intellectual authorship of edition</resp>
                    <persName ref="http://viaf.org/viaf/91782792">
                       <forename>Édouard</forename>
                       <surname>Huber</surname>
+                   </persName>
+                   <persName ref="part:argr">
+                      <forename>Arlo</forename>
+                      <surname>Griffiths</surname>
                    </persName>
                    <persName ref="part:sapi">
                       <forename>Salomé</forename>
@@ -256,8 +264,8 @@
                       <note>It seems likely that the ligature <foreign>nna</foreign>, whose first <foreign>n</foreign> belongs to <foreign>pāda</foreign> c, is the result of misinterpretation of what was actually intended to be an insertion of <foreign>na</foreign> between <foreign>na</foreign> and <foreign>ta</foreign> in a hypothetical draft from which the stone carver was working.<!-- This would allow for obtaining a stanza in the <foreign>anuṣṭubh</foreign> meter. --></note>
                    </app>
                    <app loc="B1">
-                      <lem>-samupagate-</lem>
-                      <rdg source="bib:Huber1911_01">-<unclear>sa</unclear>mupagata-</rdg>
+                      <lem>-<unclear>sa</unclear>mupagata-</lem>
+                      <rdg source="bib:Huber1911_01">-samupagate-</rdg>
                    </app>
                    <app loc="B1">
                       <lem>-dinakara-</lem>

@@ -130,10 +130,23 @@
              <l n="c">yo <supplied reason="subaudible">'</supplied>ntarhito <supplied reason="subaudible">'</supplied>bhūt tata Eva devā<supplied reason="omitted"><g type="dotMid">.</g></supplied></l>
              <l n="d">vrahmādayaḥ svālayam āśu jagmuḥ <g type="dotMid">.</g></l>
            </lg>
+           <lg n="7" met="upajāti">
+             <l n="a" enjamb="yes"><lb n="A10"/><supplied reason="lost">sa</supplied> Eva devaḥ paramātmakaḥ śrī-</l>
+             <l n="b">śāneśvaro loka-gurur nr̥pāṇām·<g type="dotMid">.</g></l>
+             <l n="c">pūjyaḥ praṇamyaḥ sa<lb n="A11" break="no"/><supplied reason="lost">ha</supplied> bhr̥tya-varggaiś</l>
+             <l n="d">camparddhi-hetor jjayatīha nityam· <g type="ddanda">.</g></l>
+           </lg>
+           <lg n="8" met="upajāti">
+             <l n="a">śrī-bhadravarmmā bhr̥gu-vaṁśa-nāka-</l>
+             <l n="b">can<unclear>dra</unclear><lb n="A12" break="no"/><supplied reason="lost">s sa cam</supplied><unclear>pā</unclear>-nagarīn narendraḥ</l>
+             <l n="c">guṇena vr̥ddhyā ca śatāna-vr̥ttim<!-- argr2sapi: I don't understand what śatāna- could mean, unless it is śata-an-a- which seems a bit unlikely. Emend saṁtāna-? --></l>
+             <l n="d">alaṅkaroty uttama-dhīr iveyam·<note>This assumes that iveyam is wrong for ivāyam. Alternatively, we could assume that the king is compared with a feminine thing. We have further guessed that śatānavṛttim is an error for śatānuvṛttim.  Perhaps it is intended as a bahuvrīhi describing Campānagarī but intended to function adverbially: he adorned the city in such a way that it was adorned with hundreds of repetitions (night after night, like the moon). It is conceivable that a grammatical joke is intended, guṇa and vṛddhi being technical terms of grammar.</note> <unclear><g type="ddanda">.</g></unclear></l>
+           </lg>
+           <p><!--Instead of prose, could it be an āryā? gīti? -->
+           <supplied reason="lost">ya</supplied><lb n="A13"/><supplied reason="lost">syā va</supplied>ni<unclear>ṁ</unclear> jitavataḥ<g type="dotMid">.</g> keyūrāṁśu-prabhā-sita-bhuja-valena <g type="dotMid">.</g> yātā jaya-dindubhitāṁ nu <gap reason="lost" quantity="2" unit="character"/><!-- nu [2+] = nūpura? or nu yasya diśo-->
+           <lb n="A14"/><gap reason="lost" quantity="2" unit="character"/> ghora-ghoṣa-saṁkulitāntāḥ<g type="ddanda">.</g></p>
            <p>
-           <lb n="A10"/><g type="danda">.</g> Eva devaḥ paramātmakaḥ śrīśāneśvaro loka-gurur nr̥pāṇām·<g type="dotMid">.</g> pūjyaḥ praṇamyaḥ sa<lb n="A11" break="no"/>bhr̥tya-varggaiś camparddhi-hetor jjayatīha nityam· <g type="ddanda">.</g> śrī-bhadravarmmā bhr̥gu-vaṁśa-nāka-can<unclear>dra</unclear><lb n="A12" break="no"/><supplied reason="lost">s</supplied> <unclear>tā</unclear><supplied reason="lost">ṁ</supplied> nagarīn narendraḥ guṇena vr̥ddhyā ca <!-- argr2sapi: I don't understand what śatāna- could mean, unless it is śata-an-a- which seems a bit unlikely. Emend saṁtāna-? -->śatāna-vr̥ttim alaṅkaroty uttama-dhīr iveyam· <g type="danda">.</g>
-           <lb n="A13"/><gap reason="lost" quantity="2" unit="character"/>nijitavataḥ<g type="dotMid">.</g> keyūrāṁśu-prabhā-sita-bhuja-valena <g type="dotMid">.</g> yātājaya-d<choice><sic>i</sic><corr>u</corr></choice>ndubhitāṁ nu <gap reason="lost" quantity="2" unit="character"/>
-           <lb n="A14"/><gap reason="lost" quantity="2" unit="character"/> ghora-ghoṣa-saṁkulitāntāḥ<g type="ddanda">.</g> deśāntarāgata-mahīpati-dūta-saṁgha-<g type="dotMid">.</g>ja<gap reason="lost" quantity="2" unit="character"/>
+           deśāntarāgata-mahīpati-dūta-saṁgha-<g type="dotMid">.</g>ja<gap reason="lost" quantity="2" unit="character"/>
            <lb n="A15"/><gap reason="lost" quantity="2" unit="character"/> yugalasya nr̥pasya kīrttiḥ saṁpūrṇṇa-candra-dhavalā bhuvana-prakīrṇṇā <g type="dotMid">.</g> pra<unclear>ja</unclear><gap reason="lost" quantity="2" unit="character"/><!-- argr2sapi: the consonant after j had e or o as vowel, but maybe no need to encode this observation -->
          </p>
          <p><milestone type="pagelike" unit="face" n="B"/>
@@ -216,23 +229,41 @@ pu<choice><sic>n</sic><corr>ṇ</corr></choice>ya-sa<choice><unclear>m</unclear>
              <!--<app loc="A9">
                  <lem>vrahmādayaḥ</lem>
                  <rdg source="bib:Huber1911_02">brahmādayaḥ</rdg>
-             </app>
+             </app>-->
              <app loc="A10">
+                 <lem><supplied reason="lost">sa</supplied> Eva</lem>
+                 <rdg source="bib:Huber1911_02">Eva</rdg>
+                 <rdg source="bib:Majumdar1927_01"><supplied reason="lost">sa</supplied> Eva</rdg>
+             </app>
+             <!--<app loc="A10">
                  <lem>nr̥pāṇām</lem>
                  <rdg source="bib:Huber1911_02">nr̥pānām</rdg>
              </app>-->
+             <app loc="A10">
+                 <lem>sa<supplied reason="lost">ha</supplied></lem>
+                 <rdg source="bib:Huber1911_02">sa</rdg>
+                 <rdg source="bib:Majumdar1927_01">sa<supplied reason="lost">ha</supplied></rdg>
+             </app>
              <app loc="A11">
                  <lem>nityam·</lem>
                 <note>Note the form of the virāma descending alongside the consonant.</note>
+             </app>
+             <app loc="A12">
+                 <lem><supplied reason="lost">s sa cam</supplied><unclear>pā</unclear>-</lem>
+                 <rdg source="bib:Huber1911_02"><gap reason="undefined"/></rdg>
+             </app>
+              <app loc="A12"><!-- encore hypothétique-->
+                 <lem><supplied reason="lost">ya</supplied><lb n="A13"/><supplied reason="lost">syā va</supplied>ni<unclear>ṁ</unclear></lem>
+                 <rdg source="bib:Huber1911_02"><gap reason="undefined"/> ni</rdg>
              </app>
              <!--<app loc="A13">
                  <lem>nijitavataḥ<g type="dotMid">.</g></lem>
                  <rdg source="bib:Huber1911_02">nijitavataḥ<g type="dandaPlain">.</g></rdg>
              </app>-->
-             <app loc="A13"><!-- argr2sapi: I am rather unsure about this passage -->
+             <!--<app loc="A13">
                  <lem>-d<choice><sic>i</sic><corr>u</corr></choice>ndubhitāṁ</lem>
                  <rdg source="bib:Huber1911_02">dindubhitām</rdg>
-             </app>
+             </app>-->
              <!--<app loc="A14">
                  <lem>-kulitāntāḥ<g type="ddandaPlain">.</g> deśāntarā-</lem>
                  <rdg source="bib:Huber1911_02">-kulitāntāḥ<g type="dandaPlain">.</g> deśāntarā-</rdg>
@@ -396,6 +427,22 @@ pu<choice><sic>n</sic><corr>ṇ</corr></choice>ya-sa<choice><unclear>m</unclear>
              </app>
                </listApp>
          </div>
+         <div type="translation" xml:lang="eng" resp="part:dogo part:diac part:argr part:sapi">
+         <p n="A01">Reverence to Śiva.</p>
+         <p n="A1">Hail!</p>
+         <p rend="stanza" n="1">The divine one of vast power seated at ease upon a heap of ash whose pile is large <supplied reason="explanation">/whose heap comes from many [sources]?</supplied><note><foreign>vahusañcayāyām</foreign> is uncertain. Could the ash have come from many corpses? Or does it just mean that the heap is “big”? The compound <foreign>vigatāmvudeye</foreign> is odd: <foreign>ambuda</foreign> is usually cloud; <foreign>ambudeya</foreign> must be a <foreign>bahuvrīhi</foreign>: "whose gift is water". Could <foreign>bhasmarāśi</foreign> be an expression specially chosen because it can allude to some Pāśupata individual?</note> shines intensely, like the sun illuminated by its ring of rays in a sky from which all clouds have departed.</p>
+        <p rend="stanza" n="2">Seeing whom at that time, blazing thus <supplied reason="explanation"><foreign>tat</foreign>?</supplied> with unbroken radiance, like a fire to which ghee has been added, <supplied reason="subaudible">and yet</supplied> without smoke, the gods themselves <supplied reason="explanation"><foreign>eva</foreign></supplied>, beginning with Brahmā, Indra, and Viṣṇu on became astonished.</p>
+        <p rend="stanza" n="3">Indra, it seems <supplied reason="explanation"><foreign>kila</foreign></supplied>, stood then to the east, Brahmā in the south, and Moon and Sun here behind him, Nārāyaṇa on his left <supplied reason="subaudible">in the north</supplied>; he stood in the middle, with rays of blazing light, praised and bowed down to at that time by the primordial gods using their own mantras <supplied reason="explanation"><foreign>nijamantrakaiḥ</foreign></supplied> preceded by <foreign>OṂ</foreign> and followed by <foreign>SVADHĀ</foreign> and <foreign>SVĀHĀ</foreign>.<note>What is odd here is the use of “their own mantras”.  Of course it is common to have mantras of the form <foreign>OṂ INDRĀYA SVĀHĀ</foreign>, but that would normally be used to praise Indra and not Śiva.  But could the gods all have their own mantras addressed to Śiva for praising Śiva ?  Also possible is that the deities are all present, each with their own mantra, and that they surround and praise Śiva:
+        Indra, it seems <supplied reason="explanation"><foreign>kila</foreign></supplied>, stood then to the east, Brahmā in the south, and Moon and Sun here behind him, Nārāyaṇa on his left <supplied reason="subaudible">in the north</supplied> along with their own mantras <supplied reason="explanation"><foreign>nijamantrakaiḥ</foreign></supplied> preceded by <foreign>OṂ</foreign> and followed by <foreign>SVADHĀ</foreign> and <foreign>SVĀHĀ</foreign>; he stood in the middle, with rays of blazing light, praised and bowed down to by the gods beginning with him <supplied reason="explanation">viz. Indra</supplied>.
+        Does this reflect some iconographic programme somewhere? No sculptures were found at the temple in the twentieth century, except for two <foreign>gajasimha</foreign> at the main eastern entrance and the base of a <foreign>liṅga</foreign> at the centre of the tower.</note></p>
+        <p rend="stanza" n="4">Then rising up, utterly pure, from that heap of ash, he stands in the middle of the sky, having radiance equal to that of ten million suns.</p>
+        <p rend="stanza" n="5">For the sake of the initiation of all creatures, it seems, he gave the excellent ash that remained left over by him <supplied reason="explanation"><foreign>svāvaśeṣam</foreign></supplied>, at this juncture <supplied reason="explanation"><foreign>tatra</foreign></supplied>, to Brahmā <supplied reason="explanation"><foreign>padmayonau</foreign></supplied>, for the sake of virtues and auspiciousness, in the assembly of the nectar-drinking <supplied reason="subaudible">gods</supplied>.<note>Note that Brahmā was situated to the south, in such a way that Śiva presented his southern aspect <supplied reason="explanation"><foreign>dakṣiṇāmūrti</foreign></supplied>, so Brahmā would be in the right place to receive initiation, or initiatory ash.</note></p>
+        <p rend="stanza" n="6">By His command <supplied reason="explanation"><foreign>niyogāt</foreign></supplied>, Śiva <supplied reason="explanation"><foreign>yaḥ</foreign></supplied> instructs <supplied reason="explanation"><foreign>anuśāsti</foreign></supplied> Viṣṇu, for the sake of prosperity <supplied reason="explanation"><foreign>sampadi</foreign></supplied>, that the whole earth is a place of ash <supplied reason="explanation"><foreign>bhasmadeśām</foreign></supplied>.<note>The feminine <foreign>bhasmadeśām</foreign> seems difficult to justify. Perhaps we must understand <foreign>anuśāsti</foreign> as a causative: he causes Viṣṇu to rule the earth. Alternatively, also assuming a causative: he instructs Viṣṇu that the whole earth is the place of <supplied reason="subaudible">nothing but</supplied> ash/ is located in the ash.
+        Or: He orders <supplied reason="explanation"><foreign>anuśāsti</foreign></supplied> Viṣṇu <supplied reason="subaudible">to rule ?</supplied> the whole earth, <supplied reason="subaudible">which was</supplied> the place where the ash had been <supplied reason="explanation"><foreign>bhasmadeśām</foreign></supplied>.</note> He <supplied reason="explanation"><foreign>yaḥ</foreign></supplied> disappeared and after that the gods beginning with Brahmā quickly returned to their own home.<note></note></p>
+        <p rend="stanza" n="7">That same god, of supreme nature, Śrī-Īśāneśvara, <foreign>guru</foreign> of the world, revered and bowed down to by kings, along with their subjects, is ever <supplied reason="explanation"><foreign>nityam</foreign></supplied> victorious in this world <supplied reason="explanation"><foreign>iha</foreign></supplied> for the sake of the prosperity of Campā <supplied reason="explanation"><foreign>camparddhihetoḥ</foreign></supplied>.</p>
+        <p rend="stanza" n="8">This <supplied reason="explanation"><foreign>ayam</foreign></supplied> Śrī-Bhadravarman, of superlative mind <supplied reason="explanation"><foreign>uttamadhīḥ</foreign></supplied>, a moon in the sky that was the lineage of Bhṛgu, the king, adorns, as it were <supplied reason="explanation"><foreign>iva</foreign></supplied>, the city<supplied reason="subaudible">-state</supplied> of Campā, which operates in hundreds of ways <supplied reason="explanation">?<foreign>śatānuvr̥ttim</foreign>?</supplied>, with virtue, prosperity...<note>This assumes that <foreign>iveyam</foreign> is wrong for <foreign>ivāyam</foreign>. Alternatively, we could assume that the king is compared with a feminine thing. We have further guessed that <foreign>śatānavr̥ttim</foreign> is an error for <foreign>śatānuvr̥ttim</foreign>. Perhaps it is intended as a <foreign>bahuvrīhi</foreign> describing Campānagarī but intended to function adverbially: he adorned the city in such a way that it was adorned with hundreds of repetitions <supplied reason="explanation">night after night, like the moon</supplied>. It is conceivable that a grammatical joke is intended, <foreign>guṇa</foreign> and <foreign>vr̥ddhi</foreign> being technical terms of grammar.</note></p>
+
+         </div>
          <div type="translation" xml:lang="eng" source="bib:Majumdar1927_01">
          <p n="A01">Reverence to Śiva.</p>
          <p n="A1">Hail!</p>
@@ -429,6 +476,12 @@ pu<choice><sic>n</sic><corr>ṇ</corr></choice>ya-sa<choice><unclear>m</unclear>
             <ptr target="bib:Huber1911_02"/>
             <citedRange unit="page">5-10</citedRange>
             </bibl>
+            <bibl n="M">
+               <ptr target="bib:Majumdar1927_01"/>
+               <citedRange unit="part">3</citedRange>
+               <citedRange unit="page">125-129</citedRange>
+               <citedRange unit="item">31</citedRange>
+             </bibl>
 			</listBibl>
            <listBibl type="secondary">
              <bibl>
@@ -444,12 +497,6 @@ pu<choice><sic>n</sic><corr>ṇ</corr></choice>ya-sa<choice><unclear>m</unclear>
            <citedRange unit="page">32-33</citedRange>
          <citedRange unit="item">141</citedRange>
        </bibl>
-             <bibl>
-               <ptr target="bib:Majumdar1927_01"/>
-               <citedRange unit="part">3</citedRange>
-               <citedRange unit="page">125-129</citedRange>
-               <citedRange unit="item">31</citedRange>
-             </bibl>
              <bibl>
              <ptr target="bib:Golzio2004_01"/>
              <citedRange unit="page">94-97</citedRange>

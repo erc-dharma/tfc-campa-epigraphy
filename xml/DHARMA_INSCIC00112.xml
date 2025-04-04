@@ -22,10 +22,6 @@
                 </respStmt>
                 <respStmt>
                    <resp>intellectual authorship of edition</resp>
-                   <persName ref="http://viaf.org/viaf/91782792">
-                      <forename>Édouard</forename>
-                      <surname>Huber</surname>
-                   </persName>
                    <persName ref="part:argr">
                       <forename>Arlo</forename>
                       <surname>Griffiths</surname>
@@ -213,7 +209,7 @@
            --> 
            
            pādarakṣa-nāmnā nara-pati-dr̥ḍha-bhakti-hr̥<lb 
-           n="B4" break="no"/>dayena svāmi <unclear>ka</unclear> k<unclear>u</unclear>ryyātpa<unclear>hena śiva</unclear>{2}Cmaraṇa-pra{2}<unclear>-ni</unclear>śa-mati-<unclear>paśśrā</unclear>-bhuvatā-mātāpi<unclear>tru-pakav(i/e)</unclear>-jāna<unclear>kā</unclear>-mahatyā-bhaktyā śrī-dha
+           n="B4" break="no"/>dayena svāmi-kāryyotsāhena śiva{2}smaraṇa-pra{2}<unclear>-ni</unclear>śa-matinā śraddhāvatā mātāpitr-upa<unclear>kāra</unclear>-jāna<unclear>tā</unclear> mahatyā bhaktyā śrī-dha
            <lb n="B5" break="no"/>rmmaliṅgeśvaraḥ pratiṣṭhāpitaḥ <unclear>sthayoss</unclear>{7} <unclear>vandhūnāṁ</unclear><!--sapi2argr viendrait de bandhu?--> <unclear>duktayena</unclear> liṅgabhūmi-nāmni grāme sminn iti <g type="ddandaPlain">.</g></p> 
 
            <p>śrī dharmmaliṅgeśva<unclear>ra</unclear> Cva

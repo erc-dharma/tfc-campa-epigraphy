@@ -234,14 +234,14 @@
            </lg>
 
            <p>
-           <seg rend="check">parime</seg> nāyakasya pādarakṣasya nāmānukramaṁ vakṣyāmi <g type="dotMid">.</g> pūrvvaṁ kluñ·
-           <lb n="B9"/>vlauy· nāma <g type="dotMid">.</g> tadanantaraṁ kluñ· bhaṇḍā<unclear>gāra</unclear> saṁjñā <g type="dotMid">.</g> punarapi mahāvikramakesarīti<!-- K. 1029 : mahāvikrāntakesari--> nāma <g type="dotMid">.</g> tataḥ kluñ· dhānyāgāra saṁjñā <g type="dotMid">.</g> punar eva klu<lb 
-           n="B10" break="no"/>ñ· mahāśūra nāma <g type="dotMid">.</g> tataḥ kluñ· valabhidhānaṁ <g type="dotMid">.</g> <unclear>paś</unclear>c<supplied reason="lost">ā</supplied>t<supplied reason="lost">·</supplied> kluñ· pādarakṣa nāmābhavat· <g type="ddandaPlain">.</g></p>
+           <seg rend="check">parime</seg> nāyakasya pādarakṣasya nāmānukramaṁ vakṣyāmi <g type="dotMid">.</g> pūrvvaṁ kluñ·<lb 
+           n="B9" break="no"/>-vlauy·-nāma <g type="dotMid">.</g> tadanantaraṁ kluñ·-bhaṇḍā<unclear>gāra</unclear>-saṁjñā <g type="dotMid">.</g> punarapi mahāvikramakesarīti<!-- K. 1029 : mahāvikrāntakesari--> nāma <g type="dotMid">.</g> tataḥ kluñ·-dhānyāgāra-saṁjñā <g type="dotMid">.</g> punar eva klu<lb 
+           n="B10" break="no"/>ñ·-mahāśūra-nāma <g type="dotMid">.</g> tataḥ kluñ·-valabhidhānaṁ <g type="dotMid">.</g> <unclear>paś</unclear>c<supplied reason="lost">ā</supplied>t<supplied reason="lost">·</supplied> kluñ·-pādarakṣa-nāmābhavat· <g type="ddandaPlain">.</g></p><!-- regarder si ça existe ailleurs-->
            
            <p xml:lang="ocm-Latn"><g type="ddandaPlain">.</g> niy· doṁ humā yāṅ· pu pov· ku 
-           <lb n="B11"/>śrī dharmmaliṅgeśvara humā (dijā)y· rumaṅ ṅauk· vihāra taṁl· kakai (n/d/v)vil· nariy· ha{1}ja (taṁ)l· (n/d/v)vil· jeṅ· sārtuḥ limā pluḥ jāk· <g type="dotMid">.</g>
-           <lb n="B12"/>vandaḥ dakṣiṇa krauṅ  (d)ijāy· rumaṅ· tūm·{4}· taṁl· satap· ṅauk· vihāra {2} jeṅ· sārtuḥ jāk· <g type="dotMid">.</g> luvuk· vunauk· tarau<lb 
-           n="B13" break="no"/>{6} (da)ndau likūt· sanā <g type="dotMid">.</g> dakṣi[na] {5} nau <g type="dotMid">.</g> dandau kuran· rumaṅ· humā <g type="ddandaPlain">.</g> paś[c]i[ma] {2} Aviḥ dlai (svā)ṁ
+           <lb n="B11"/>śrī dharmmaliṅgeśvara <g type="dotMid">.</g> humā (dijā)y· rumaṅ ṅauk· vihāra taṁl· kakai dvil·<!--comparer avec vvil C. 43 et C. 106--> nariy· hajai <unclear>taṁ</unclear>l· dvil· jeṅ· sārtuḥ limā pluḥ jāk· <g type="dotMid">.</g>
+           <lb n="B12"/>vandaḥ dakṣiṇa krauṅ  (d)ijāy· rumaṅ· tūm· sanatap· taṁl· satap· ṅauk· vihāra <unclear>ninma</unclear><!-- peut être = nimna en sanskrit : bas ?--> jeṅ· sārtuḥ jāk· <g type="dotMid">.</g> luvuk· vunauk·<!-- < vauk: marshes--> tarau<lb 
+           n="B13" break="no"/><gap reason="lost" quantity="1" unit="character"/>· <gap reason="lost" quantity="5" unit="character"/>· <unclear>da</unclear>ndau likūt· sanā<unclear>ṁ</unclear><!-- ou lire sanā ou padām--> <g type="dotMid">.</g> dakṣi<supplied reason="lost">na</supplied> <gap reason="lost" quantity="3" unit="character"/> <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>au</seg>au<gap reason="lost" quantity="1" unit="character"/>· <unclear>ravauṁ</unclear> <g type="dotMid">.</g> dandau kuran· rumaṅ· humā <g type="ddandaPlain">.</g> paś<supplied reason="lost">c</supplied>i<seg rend="check">ma</seg> <gap reason="lost" quantity="2" unit="character"/> Aviḥ dlai sāṁ
            <gap reason="lost" quantity="3" unit="line"/>
            </p>
 

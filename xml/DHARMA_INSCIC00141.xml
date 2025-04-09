@@ -156,11 +156,10 @@
            <l n="c">saṁpūrṇṇa-candra-dhavalā bhuvana-prakīrṇṇā <g type="dotMid">.</g></l> <l n="d">pra<unclear>jñā</unclear><seg met="-"><gap reason="lost" quantity="1" unit="character"/></seg><milestone type="pagelike" unit="face" n="B" break="no"/><lb n="B1" break="no"/>lena gamitā ka<seg met="-"><gap reason="lost" quantity="1" unit="character"/></seg> <unclear>pāram a</unclear>nyat· <supplied reason="lost"><g type="ddanda">.</g></supplied></l></lg>
            
            <lg n="11" met="āryāgīti">
-           <l n="ab"><gap reason="lost" quantity="1" unit="character"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>a</seg><unclear>tirasya</unclear> vihita-tapasaḥ<g type="dotMid">.</g>
-           <!-- l. B1 À REVOIR -->
-           <lb n="B2"/>saj-jana-gīto bubodha bhuvi <gap reason="lost" quantity="5" unit="character"/></l> 
-          <l n="cd"> <unclear>ya</unclear>jñe śuci-mati-caturaḥ <g type="dotMid">.</g> pū<unclear>j</unclear>yās tryagnīs surāś ca
-           <lb n="B3"/><gap reason="lost" quantity="2" unit="character"/> mati-caturaḥ <g type="dotMid">.</g> <g type="ddanda">.</g></l>
+           <l n="ab"><unclear cert="low">ma</unclear>tir asya vihita-tapasaḥ<g type="dotMid">.</g>
+           <lb n="B2"/>saj-jana-gīto bubodha bhuvi <seg met="--++"><gap reason="lost" quantity="4" unit="character"/></seg></l> 
+          <l n="cd"><unclear>ya</unclear>jñe śuci-mati-caturaḥ <g type="dotMid">.</g> pū<unclear>j</unclear>yās tryagnīs surāś ca
+           <lb n="B3"/><gap reason="lost" quantity="1" unit="character"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg>-mati-caturaḥ <g type="dotMid">.</g> <g type="ddanda">.</g></l>
            </lg>
 
          <lg n="12" met="anuṣṭubh">

@@ -150,12 +150,12 @@
 
            
            <lg met="vasantatilakā" n="10">
-           <l n="a">deśāntarāgata-mahīpati-dūta-saṁgha-<g type="dotMid">.</g></l>
+           <l n="a" enjamb="yes">deśāntarāgata-mahīpati-dūta-saṁgha-<g type="dotMid">.</g></l>
            <l n="b">ja<seg met="+-"><gap reason="lost" quantity="2" unit="character"/></seg>
            <lb n="A15"/><seg met="+-"><gap reason="lost" quantity="2" unit="character"/></seg>yugalasya nr̥pasya kīrttiḥ</l> 
-           <l n="c">saṁpūrṇṇa-candra-dhavalā bhuvana-prakīrṇṇā <g type="dotMid">.</g></l> <l n="d">pra<unclear>jñā</unclear><seg met="-"><gap reason="lost" quantity="1" unit="character"/></seg><milestone type="pagelike" unit="face" n="B" break="no"/><lb n="B1" break="no"/>lena gamitāka<gap reason="lost" quantity="2" unit="character"/> <unclear>ma</unclear>nyata<!-- argr2sapi: manyat·? or manyate? --> <gap reason="lost" quantity="1" unit="character"/></l></lg>
+           <l n="c">saṁpūrṇṇa-candra-dhavalā bhuvana-prakīrṇṇā <g type="dotMid">.</g></l> <l n="d">pra<unclear>jñā</unclear><seg met="-"><gap reason="lost" quantity="1" unit="character"/></seg><milestone type="pagelike" unit="face" n="B" break="no"/><lb n="B1" break="no"/>lena gamitā ka<gap reason="lost" quantity="2" unit="character"/> <unclear>pāram a</unclear>nyat·</l></lg>
            
-           <p><gap reason="lost" quantity="1" unit="character"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>a</seg><unclear>tirasya</unclear> vihita-tapasaḥ<g type="dotMid">.</g>
+           <p><gap reason="lost" quantity="2" unit="character"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>a</seg><unclear>tirasya</unclear> vihita-tapasaḥ<g type="dotMid">.</g>
            <!-- l. B1 À REVOIR -->
            <lb n="B2"/>saj-jana-gīto bubodha bhuvi <gap reason="lost" quantity="5" unit="character"/> t<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg>jñe śuci-mati-caturaḥ <g type="dotMid">.</g> pū<unclear>j</unclear>yās tryagnīs surāś ca
            <lb n="B3"/><gap reason="lost" quantity="2" unit="character"/> mati-caturaḥ <g type="dotMid">.</g> <g type="ddanda">.</g>

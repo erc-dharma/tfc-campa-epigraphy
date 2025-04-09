@@ -165,13 +165,10 @@
          <lg n="12" met="anuṣṭubh">
            <l n="a">saṁ pātu viduṣo <unclear>ka</unclear>rmma <g type="dotMid">.</g></l>
            <l n="b">saṁ pā<supplied reason="lost">t</supplied>u <supplied reason="lost">vi</supplied>duṣo vacaḥ</l>
-           <l n="c">saṁ śivā<choice><unclear>d</unclear><unclear>n</unclear></choice>ara-kailāsaś</l><!-- argr2sapi: I think we can read
-saśivā<unclear>nta</unclear>ra-kailāsaś — though perhaps nta is clear enough and no <unclear> is needed at all  -->
-           <l n="d">śi<unclear>va</unclear> <seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>t<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg><!-- sapi2argr Ici est-il nécessaire d'ajouter le mètre ? Et pourrait-on lire śivāntā, comme à la l. B14?-->
-           vado<!-- argr2sapi: I propose to read śiv<unclear>ā</unclear>ntara-v<supplied reason="lost">i</supplied>do <supplied reason="subaudible">'</supplied><supplied reason="lost">vatu</supplied> 
-the last two syllables are entirely conjectural; in the context of karma and vacaḥ, one also things of the triad deed-speech-thought, and so we might have manaḥ instead of 'vatu, though I feel we need a verb.
---> <lb n="B4"/><seg met="+-="><gap reason="lost" quantity="3" unit="character"/></seg> <g type="ddanda">.</g></l>
+           <l n="c">saṁ śivāntara-kailāsaś</l>
+           <l n="d">śiv<unclear>ā</unclear>ntara-v<supplied reason="lost">i</supplied>do <lb n="B4"/><supplied reason="subaudible">'</supplied><supplied reason="lost">vatu</supplied><!-- argr2sapi: the last two syllables are entirely conjectural; in the context of karma and vacaḥ, one also thinks of the triad deed-speech-thought, and so we might have manaḥ instead of 'vatu, though I feel we need a verb.--> <g type="ddanda">.</g></l>
          </lg>
+         
          <p>sa Eva tapasvī tapasyām anuca<supplied reason="lost">ra</supplied>ś carācara-guru<unclear>va</unclear><gap reason="lost" quantity="2" unit="character"/> sa<unclear>n</unclear>ni<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg><gap reason="lost" quantity="4" unit="character"/>rīritadūrita-durita-karmmā <unclear>p</unclear>u<lb n="B5" break="no"/><gap reason="lost" quantity="3" unit="character"/> <supplied reason="lost">a</supplied>s<supplied reason="lost">u</supplied>ra-piśāca-varjjito jitendriyo <supplied reason="subaudible">'</supplied>pi 
 <!-- argr2sapi: maybe puṇya-samūho -->
 pu<choice><sic>n</sic><corr>ṇ</corr></choice>ya-sa<choice><unclear>m</unclear><unclear>dh</unclear></choice><seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg> <gap reason="lost" quantity="2" unit="character"/> <!-- argr2sapi: maybe we have roṣa- -->ro<unclear>pa-sa</unclear>h<supplied reason="lost">i</supplied>to hitopadeśam anāma<lb n="B6" break="no"/><gap reason="lost" quantity="3" unit="character"/> yāgavid-viduṣaṁ mānyo mānita-sakala-jano janita-kuśalo loka-yātra-paṭuḥ paṭūnāṁ dhīra-bu<lb n="B7" break="no"/><gap reason="lost" quantity="2" unit="character"/> <unclear>r</unclear> <supplied reason="lost">i</supplied>ti <g type="ddanda">.</g></p> 

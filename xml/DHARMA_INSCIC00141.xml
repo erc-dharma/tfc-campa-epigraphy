@@ -142,9 +142,12 @@
              <l n="c">guṇena vr̥ddhyā ca śatāna-vr̥ttim<!-- argr2sapi: I don't understand what śatāna- could mean, unless it is śata-an-a- which seems a bit unlikely. Emend saṁtāna-? --></l>
              <l n="d">alaṅkaroty uttama-dhīr iveyam·<note>This assumes that iveyam is wrong for ivāyam. Alternatively, we could assume that the king is compared with a feminine thing. We have further guessed that śatānavṛttim is an error for śatānuvṛttim.  Perhaps it is intended as a bahuvrīhi describing Campānagarī but intended to function adverbially: he adorned the city in such a way that it was adorned with hundreds of repetitions (night after night, like the moon). It is conceivable that a grammatical joke is intended, guṇa and vṛddhi being technical terms of grammar.</note> <unclear><g type="ddanda">.</g></unclear></l>
            </lg>
-           <p><!--Instead of prose, could it be an āryā? gīti? -->
-           <supplied reason="lost">ya</supplied><lb n="A13"/><supplied reason="lost">syā va</supplied>ni<unclear>ṁ</unclear> jitavataḥ<g type="dotMid">.</g> keyūrāṁśu-prabhā-sita-bhuja-valena <g type="dotMid">.</g> yātā jaya-dindubhitāṁ nu <gap reason="lost" quantity="2" unit="character"/><!-- nu [2+] = nūpura? or nu yasya diśo-->
-           <lb n="A14"/><gap reason="lost" quantity="2" unit="character"/> ghora-ghoṣa-saṁkulitāntāḥ<g type="ddanda">.</g></p>
+           
+           <lg met="āryāgīti">
+           <l n="ab"><supplied reason="lost">ya</supplied><lb n="A13"/><supplied reason="lost">syāva</supplied>ni<unclear>ṁ</unclear> jitavataḥ <g type="dotMid">.</g> keyūrāṁśu-prabhā-sita-bhuja-valena <g type="dotMid">.</g></l> 
+          <l n="cd"> yātā jaya-dindubhitāṁ n<choice><sic>u</sic><corr>ū</corr></choice><unclear>pu</unclear><supplied reason="lost">ra</supplied><!-- or nu yasya diśo?but that would give two times yasya in one stanza.-->
+           <lb n="A14"/><seg met="--"><gap reason="lost" quantity="2" unit="character"/></seg> ghora-ghoṣa-saṁkulitāntāḥ <g type="ddanda">.</g></l></lg>
+
            <p>
            deśāntarāgata-mahīpati-dūta-saṁgha-<g type="dotMid">.</g>ja<gap reason="lost" quantity="2" unit="character"/>
            <lb n="A15"/><gap reason="lost" quantity="2" unit="character"/> yugalasya nr̥pasya kīrttiḥ saṁpūrṇṇa-candra-dhavalā bhuvana-prakīrṇṇā <g type="dotMid">.</g> pra<unclear>ja</unclear><gap reason="lost" quantity="2" unit="character"/><!-- argr2sapi: the consonant after j had e or o as vowel, but maybe no need to encode this observation -->

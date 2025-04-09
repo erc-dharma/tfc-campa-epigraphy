@@ -144,19 +144,18 @@
            </lg>
            
            <lg met="āryāgīti" n="9">
-           <l n="ab"><supplied reason="lost">ya</supplied><lb n="A13" break="no"/><supplied reason="lost">syāva</supplied>ni<unclear>ṁ</unclear> jitavataḥ <g type="dotMid">.</g> keyūrāṁśu-prabhā-sita-bhuja-valena <g type="dotMid">.</g></l> 
+           <l n="ab"><supplied reason="lost">ya</supplied><lb n="A13" break="no"/><supplied reason="lost">syāva</supplied>ni<unclear>ṁ</unclear> jitavataḥ <g type="dotMid">.</g> keyūrāṁśu-prabhāsita-bhuja-valena <g type="dotMid">.</g></l> 
           <l n="cd"> yātā jaya-d<choice><sic>i</sic><corr>u</corr></choice>ndubhitāṁ n<choice><sic>u</sic><corr>ū</corr></choice><unclear>pu</unclear><supplied reason="lost">ra</supplied><!-- or nu yasya diśo? But that would give two times yasya in one stanza.-->
            <lb n="A14"/><seg met="--"><gap reason="lost" quantity="2" unit="character"/></seg> ghora-ghoṣa-saṁkulitāntāḥ <g type="ddanda">.</g></l></lg>
 
            
            <lg met="vasantatilakā" n="10">
            <l n="a" enjamb="yes">deśāntarāgata-mahīpati-dūta-saṁgha-<g type="dotMid">.</g></l>
-           <l n="b">ja<seg met="+-"><gap reason="lost" quantity="2" unit="character"/></seg>
-           <lb n="A15"/><seg met="+-"><gap reason="lost" quantity="2" unit="character"/></seg>yugalasya nr̥pasya kīrttiḥ</l> 
-           <l n="c">saṁpūrṇṇa-candra-dhavalā bhuvana-prakīrṇṇā <g type="dotMid">.</g></l> <l n="d">pra<unclear>jñā</unclear><seg met="-"><gap reason="lost" quantity="1" unit="character"/></seg><milestone type="pagelike" unit="face" n="B" break="no"/><lb n="B1" break="no"/>lena gamitā ka<seg met="-"><gap reason="lost" quantity="1" unit="character"/></seg> <unclear>pāram a</unclear>nyat· <supplied reason="lost"><g type="ddanda">.</g></supplied></l></lg>
+           <l n="b">j<supplied reason="lost">uṣṭāryya</supplied><lb n="A15" break="no"/><supplied reason="lost">pāda</supplied>-yugalasya nr̥pasya kīrttiḥ</l> 
+           <l n="c">saṁpūrṇṇa-candra-dhavalā bhuvana-prakīrṇṇā <g type="dotMid">.</g></l> <l n="d">pra<unclear>jñā</unclear><seg met="-"><gap reason="lost" quantity="1" unit="character"/></seg><milestone type="pagelike" unit="face" n="B" break="no"/><lb n="B1" break="no"/>lena gamitā ka<unclear>dh</unclear><supplied reason="lost">i</supplied>-<unclear>pāram a</unclear>nyat· <supplied reason="lost"><g type="ddanda">.</g></supplied></l></lg>
            
            <lg n="11" met="āryāgīti">
-           <l n="ab"><unclear cert="low">ma</unclear>tir asya vihita-tapasaḥ<g type="dotMid">.</g>
+           <l n="ab"><unclear cert="low">pa</unclear>tir<!-- matir? but it's feminine.--> asya vihita-tapasaḥ<g type="dotMid">.</g>
            <lb n="B2"/>saj-jana-gīto bubodha bhuvi <seg met="--++"><gap reason="lost" quantity="4" unit="character"/></seg></l> 
           <l n="cd"><unclear>ya</unclear>jñe śuci-mati-caturaḥ <g type="dotMid">.</g> pū<unclear>j</unclear>yās tryagnīs surāś ca
            <lb n="B3"/><gap reason="lost" quantity="1" unit="character"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg>-mati-caturaḥ <g type="dotMid">.</g> <g type="ddanda">.</g></l>

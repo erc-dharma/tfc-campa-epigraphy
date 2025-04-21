@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+            	<title>Slab from Phước Hà (C. 274), ca. 8th century CE</title>
+                <respStmt>
+                   <resp>author of digital edition</resp>
+                   <persName ref="part:argr">
+                      <forename>Arlo</forename>
+                      <surname>Griffiths</surname>
+                   </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Jakarta</pubPlace>
+                <idno type="filename">DHARMA_INSCIC00274</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>Script compatible with an 8th-century dating.</p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+           <change who="part:argr" when="2025-04-21">initial encoding of the inscription</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:83213">
+             <lg met="aśvalalita" n="1">
+               	<l n="a"><lb n="1"/>jayati yatīśvaras sura-surāri-<unclear>kinna</unclear>ra-nar<unclear>e</unclear>śvarārccita-padaḥ <space/></l>
+		<l n="b">padam acalaṅ gatvāśiva-malāt su<lb n="2" break="no"/>somya-hr̥dayo<unclear cert="low">dayo</unclear> jaya-paraḥ </l>
+		<l n="c"><unclear cert="low">jaraṣaka</unclear><!-- kr̥ -->ta-smara-smara-sutā sutāsv api <unclear cert="low">pivena</unclear> na-niścala-mati<space/>r</l>
+			<!-- ⏑⏑⏑⏑–⏑–⏑⏑⏑–||⏑–⏑⏑–⏑–⏑⏑⏑⏓ -->
+		<l n="d">mmati-maha<lb n="3" break="no"/>-nāma-nīca-ma<unclear>t</unclear>inā <unclear cert="low">hanāhita-daśāvalī</unclear>-daśabalaḥ <g type="ddandaPlain">.</g></l>
+             </lg>
+           <p>tasyaiva bhagavatas savāsanānyanti nir-ava<lb n="4" break="no"/>śeṣāṣṭa-navaty-a<unclear cert="low">sukhayanaṁ</unclear> kṣamā-dakṣa-yakṣa-yajñenādy-acintyātma-bhāvasya <space/> suvidita-sakalā<unclear>nanta</unclear><lb n="5" break="no"/>-jñeya-svabhāvasya <space/> bahir-antar-bbandha-nairapaddhasya sarvvatra sa<unclear>mā</unclear>nuruddhasya parahita-vidhānārttha-prabuddhasya
+<lb n="6"/>samyak-saṁbuddhasya traidhātuka-nikhila-kleśāsana-śāsana-suniviṣṭākliṣṭa-manaḥ-prasāda-tvat-pratisamam a<lb 
+n="7" break="no"/>nuparata-vaiśākhādy-anādy-anavadya-dharmma-karmmāripu-narābhedya-varmmā śrī-dharmmarāja-mahārājādhirāja<lb 
+n="8" break="no"/>-śrī-rudravarmmā śrī-campeśvaro gārggya-maharṣi-manu-prasiddhena vidhinā suvihita-saṁjñāpanā kāny ucchra<unclear>ya</unclear><lb 
+n="9" break="no"/>sarūpa Iva dharmmaś śrī-dhar<unclear cert="low">mma-rūpo</unclear> vaśa-vaiśikākrośaka-loka-lokika-lokārauṅkāra-vaṣaṭkāra-kumāra-kārttikeyā<unclear cert="low">nivanai</unclear>
+<lb n="10"/>śrīmati śilātale <supplied reason="subaudible">’</supplied>sminn atipraśastām imāṁ praśastim apagata-hr̥l-lekho lekhitavān· <g type="dandaTailRight">.</g></p> 
+
+<p>Āha ca <g type="dash">.</g></p>
+
+<lg met="anuṣṭubh" n="2">
+<l n="a"><lb n="11"/>pāvanyaś śaila-rāje <supplied reason="subaudible">’</supplied>smin</l> 
+<l n="b">santy antarvvaṇa-devatāḥ <space/></l> 
+<l n="c">kīrttī rakṣantu nas sarvvā <space/></l> 
+<l n="d">dharmma-rūpe <supplied reason="subaudible">’</supplied>sya bhūpateḥ</l>
+</lg>
+
+<p><lb n="12"/><unclear cert="low">vi</unclear>haran tatra <unclear>su</unclear>dharmmo lekhitavān nāma yasya dr̥ḍha-mūlā svāmi-caraṇānukūlye <space/> bhakti<unclear cert="low">r ggatiś ca</unclear>
+<lb n="13"/><choice><unclear>bhu</unclear><unclear>sa</unclear></choice>ktiś ca <space/> sa hi bālyāt prabhr̥ty eva svāminaś caraṇa-paricāraṇa-sthira-<unclear cert="low">tapa</unclear><lb 
+n="14" break="no"/>ś caraṇan <unclear cert="low">dhāvanturbbhuve</unclear><space/> 
+sarvveṣūccāvaceṣu karmmasu niyukto <supplied reason="subaudible">’</supplied>bhūt· <g type="dandaTailRight">.</g></p>
+         </div>
+         <div type="apparatus"/>
+         <div type="translation" resp="part:argr">
+ 	         <p rend="stanza" n="1"><!-- The gist seems to be that a most superior ascetic (yatīśvaraḥ) called Matimaha, whose feet were worshipped by a variety of beings (perhaps one could read something like surasurāridaityanareśvarārccitapadaḥ, “whose feet were worshipped gods, demons inimical to gods and kings”), and whose mind was unwavering in the face of torment (could one read pīḍananiścalamatiḥ?), having passed away and attained liberation (padam acalaṃ gatvā), is superior over all (jayati). It is in his honour, and presumably on the same lordly mountain where he once meditated (śailarāje ’smin), that Rudravarman has erected this inscription. --></p>
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+        <div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+           <p>Unpublished inscription edited by Arlo Griffiths, with an English translation.</p>
+        	<listBibl type="primary">
+				<bibl/>
+			</listBibl>
+          <listBibl type="secondary">
+              <bibl/>
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>

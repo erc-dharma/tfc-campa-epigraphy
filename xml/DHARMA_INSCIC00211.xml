@@ -181,7 +181,7 @@
             <p xml:lang="ocm-Latn"><gap reason="lost" quantity="5" unit="character" precision="low"/>
             <lb n="C9"/><gap reason="lost" quantity="1" unit="character"/>k· <gap reason="illegible" quantity="2" unit="character"/>r· pvak·<!-- sapi2argr sur la pierre, je lis svak· --> <unclear>taṁl· ja</unclear>k· <gap reason="illegible" quantity="2" unit="character"/> <unclear>taṁl·</unclear> <gap reason="lost" quantity="1" unit="character"/><unclear>da taṁ</unclear>l· ha<unclear>jai</unclear> <gap reason="lost" quantity="5" unit="character" precision="low"/><!-- sapi2argr à la place de:  pvak· {2 akṣ.}k· {5 akṣ.}l· ha(jai) {4/5 akṣ.} -->
             <lb n="C10"/>na<unclear>ḥ</unclear><!-- sapi2argra: ajout --> <gap reason="illegible" quantity="7" unit="character"/> kāla vanuḥ yām̃ pu pov· ku śrī ja<supplied reason="lost">yasiṅhavarmmadeva</supplied>
-            <lb n="C11"/><supplied reason="lost">Avi</supplied><unclear>sta ra</unclear> pin nan· kā vuḥ di yāṅ pov ku śrī mahārudrā<gap reason="lost" quantity="5" unit="character" precision="low"/>
+            <lb n="C11"/><supplied reason="lost">Avi</supplied><unclear>sta ma</unclear>sin nan· kā vuḥ di yāṅ pov ku śrī mahārudrā<gap reason="lost" quantity="5" unit="character" precision="low"/>
             <lb n="C12"/><unclear>katutau</unclear>l· Ajauñ·<!-- sapi2argr à la place de Ajauk --> Andāt·<!--sapi2argr je ne crois pas trop à cette lecture, sans pouvoir en proposer une autre. sdāt? Adāt? --> <unclear>n</unclear>iy<unclear>·</unclear> <gap reason="illegible" quantity="9" unit="character"/><milestone type="pagelike" unit="face" n="D"/>
             <lb n="D1"/><gap reason="lost" quantity="25" unit="character" precision="low"/>
             <lb n="D2"/><gap reason="lost" quantity="25" unit="character" precision="low"/>
@@ -195,10 +195,10 @@
             <lb n="D10"/><gap reason="lost" quantity="3" unit="character"/> yā dhātu<g type="dotMid">.</g> Urām̃ nan· pūjā yām̃ nan· Urām̃ nan· sidaḥ yajamā<lb
             n="D11" break="no"/><supplied reason="lost">na</supplied> <gap reason="lost" quantity="2" unit="character"/> pi ca<g type="dotMid">.</g> so mr̥dūni kulāni so gap· dharmma sā drim̃ dvā drim̃ vañā<lb
             n="D12" break="no"/><supplied reason="lost">k·</supplied><!-- sapi2argr vanā[k·]: ajout --> <gap reason="lost" quantity="3" unit="character"/> <unclear>mira</unclear> yuṣmābhiḥ <unclear>knā</unclear> rupo<!--sapi2argr à la place de (su)rupo. --> Imaiṅ <!-- à la place de Imauḥ--> svabhāva ta cim̃ <unclear>la</unclear><!-- sapi2argr ta cim̃ (la): au lieu de (ta)...... --><gap reason="lost" quantity="2" unit="character"/>
-            <lb n="D13"/><gap reason="lost" quantity="11" unit="character"/><g type="dandaPlain">.</g> <unclear>satā</unclear>ṅ· ka cim̃<!-- sapi2argr au lieu de kami --> kā vuḥ yām̃ <unclear>pu</unclear>
+            <lb n="D13"/><gap reason="lost" quantity="11" unit="character"/><g type="dandaPlain">.</g> <unclear>satā</unclear>ṅ· ka <unclear>c</unclear>im̃<!-- sapi2argr au lieu de kami --> kā vuḥ yām̃ <unclear>pu</unclear>
             <lb n="D14"/><gap reason="lost" quantity="9" unit="character"/>ṅ· <unclear>p</unclear>una nim̃<!-- sapi2argr ṅ· (p)una nim̃: ajout --> <gap reason="illegible" quantity="2" unit="character"/> <unclear>n</unclear>iy· loka nim̃<!-- sapi2argr au lieu de loka ni --><g type="dotMid">.</g>
             <lb n="D15"/><gap reason="lost" quantity="7" unit="character"/><unclear>ka</unclear> <gap reason="illegible" quantity="1" unit="character"/>ci<unclear>t</unclear>· <gap reason="illegible" quantity="2" unit="character"/> kā<unclear>rā</unclear>na tuy· <unclear>su</unclear>bhāva <unclear>ka</unclear><!-- sapi2argr toute cette ligne est un ajout. -->
-            <lb n="D16"/><gap reason="lost" quantity="4" unit="character"/> nan· <gap reason="illegible" quantity="3" unit="character"/> <unclear>jem̃</unclear> <gap reason="illegible" quantity="1" unit="character"/> <unclear>jā</unclear>m̃ rac· dharma<unclear>lagapi go</unclear><!-- sapi2argr lagapi go: revoir cette lecture. -->
+            <lb n="D16"/><gap reason="lost" quantity="4" unit="character"/> nan· <gap reason="illegible" quantity="3" unit="character"/> <unclear>jem̃</unclear><!-- ajout--> <gap reason="illegible" quantity="1" unit="character"/> <unclear>jā</unclear>m̃ rac· dharma<unclear>lagapi go</unclear><!-- sapi2argr lagapi go: revoir cette lecture. -->
             </p>
          </div>
          <div type="apparatus">
@@ -234,6 +234,31 @@
                   <app loc="C10">
                        <lem>ja<supplied reason="lost">yasiṅhavarmmadeva Avi</supplied></lem>
                        <note>The restorations are inspired by the general contents of the inscription (Jayasiṁhavarman figures also in B, st. II and IV) and by parallels such as C. 142, face D, lines 18–19: <foreign>aviḥ humā nan kā ra vuḥ di yāṅ pov ku śrīmahārudra</foreign>. At the end, one will have to restore <foreign>mahārudrāṇī</foreign> or <foreign>mahārudrādhipatiḥ</foreign>.</note>
+                  </app>
+                  <app loc="C10">
+                     <lem><supplied reason="lost">Avi</supplied><unclear>sta ma</unclear>sin</lem>
+                     <rdg source="bib:Griffiths+al2012_01"><supplied reason="lost">Avi</supplied><unclear>sta ra</unclear> pin</rdg>
+                     <note>Here, <foreign>masin</foreign> - a rather frequent qualifier for ricefields - could refer to the <foreign>humā</foreign> mentionned in face C, line 4.</note>
+                  </app>
+                  <app loc="C12">
+                     <lem>Ajauñ·</lem>
+                     <rdg source="bib:Griffiths+al2012_01">Ajauk·</rdg>
+                  </app>
+                  <app loc="D13">
+                     <lem>ka <unclear>c</unclear>im̃</lem>
+                     <rdg source="bib:Griffiths+al2012_01">kami</rdg>
+                  </app>
+                  <app loc="D14">
+                     <lem>loka nim̃</lem>
+                     <rdg source="bib:Griffiths+al2012_01">loka ni</rdg>
+                  </app>
+                  <app loc="D15">
+                     <lem><gap reason="lost" quantity="7" unit="character"/><unclear>ka</unclear> <gap reason="illegible" quantity="1" unit="character"/>ci<unclear>t</unclear>· <gap reason="illegible" quantity="2" unit="character"/> kā<unclear>rā</unclear>na tuy· <unclear>su</unclear>bhāva <unclear>ka</unclear></lem>
+                     <rdg source="bib:Griffiths+al2012_01"><gap reason="illegible" quantity="1" unit="line"/></rdg>
+                  </app>
+                  <app loc="D16">
+                     <lem>nan· <gap reason="illegible" quantity="3" unit="character"/> <unclear>jem̃</unclear><!-- ajout--> <gap reason="illegible" quantity="1" unit="character"/> <unclear>jā</unclear>m̃</lem>
+                     <rdg source="bib:Griffiths+al2012_01">nan· <gap reason="illegible" quantity="3" unit="character"/> <unclear>jā</unclear>m̃</rdg>
                   </app>
                </listApp>
          </div>

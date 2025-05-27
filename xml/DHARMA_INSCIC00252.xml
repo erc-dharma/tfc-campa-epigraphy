@@ -163,7 +163,7 @@ ye pāsyayanti vicāraṇe sumatat<unclear>a yatt</unclear>ra tvā
 
 
              <lb n="B8"/><gap reason="illegible" quantity="1" unit="character"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>ma</seg> <gap reason="illegible" quantity="1" unit="character"/> bhāvray· viṇara<!-- sapi2argr ou viṇā --> ratna lo<unclear>k</unclear>eś<unclear>vara niy·</unclear> <gap reason="illegible" quantity="11" unit="character"/><lb
-             n="B9" break="no"/>rtu<gap reason="illegible" quantity="3" unit="character"/> tri rājño sev· kusarvvā dhikāra yaṅ· <gap reason="illegible" quantity="14" unit="character"/>
+             n="B9" break="no"/>rtu<gap reason="illegible" quantity="3" unit="character"/> tri rājño sev·<!--pov·--> ku sarvvādhikāra yaṅ· <gap reason="illegible" quantity="14" unit="character"/>
              <lb n="B10"/><gap reason="illegible" quantity="1" unit="character"/>nna <gap reason="illegible" quantity="1" unit="character"/>na ciy· mamrait· humā <unclear>riha</unclear><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>ī</seg> <unclear><g type="dotMid">.</g></unclear> <gap reason="illegible" quantity="14" unit="character"/>
              <lb n="B11"/><gap reason="illegible" quantity="24" unit="character"/>
             <lb n="B12"/><gap reason="illegible" quantity="3" unit="character"/>nna na<gap reason="illegible" quantity="19" unit="character"/><lb
@@ -189,18 +189,14 @@ ye pāsyayanti vicāraṇe sumatat<unclear>a yatt</unclear>ra tvā
                 -->
              <lb n="c10"/>madā humā vihāra humā yāṅ· vukaṁn·
              <lb n="c11"/>di <supplied reason="omitted">da</supplied>laṁ vvāṅ· niy· trā hai <unclear>gaḥ</unclear> A<lb
-             n="c12" break="no"/>vista <unclear>rau</unclear>ṅ·<!--Urāṅ? voir ligne C19--> nan· da<gap reason="illegible" quantity="2" unit="character"/> pat·<!-- pata? -->
+             n="c12" break="no"/>vista roṅ·<!--voir ligne C19--> nan· da<gap reason="illegible" quantity="2" unit="character"/> <!--Oḥ --> pat·<!-- pata? -->
              <lb n="c13"/>humā vukan· trā nan· bharuv· po<lb
              n="c14" break="no"/>v· Añcov· Idair· Atat· hu<lb
-
              n="c15" break="no"/>mā niy· vriy· kan· vihāra ni<lb
-             n="c16" break="no"/>y· niy·<!--répétition par erreur--> <unclear>po</unclear>ṅ· makrauy· ma<lb
-
-             n="c17" break="no"/><supplied reason="lost">g</supplied><unclear>r</unclear>āc· trā pov· kluñ· limān<unclear>·</unclear>
-
-             <lb n="c18"/><supplied reason="lost">pu</supplied> pov· ku <unclear>s</unclear>imh<unclear>ādh</unclear>ikāray·<!-- ou limhādkikā ye ?--> ma<unclear>rā</unclear>
-
-             <lb n="c19"/><supplied reason="lost" cert="low">ja</supplied> ta<unclear>ṁ</unclear>l· magrāc· pūra <unclear>rau</unclear>ṅ·<!--Urāṅ? voir ligne C12--> <unclear>tu</unclear><gap reason="illegible" quantity="1" unit="character"/>
+             n="c16" break="no"/>y· niy· <unclear>ro</unclear>ṅ· makrauy· ma<lb
+             n="c17" break="no"/><supplied reason="lost">g</supplied><unclear>r</unclear>āc· trā pov· kluñ· limān·
+             <lb n="c18"/><supplied reason="lost">pu</supplied> pov· ku <unclear>s</unclear>imhādhikāra yam̃ ma<unclear>rā</unclear><!-- ou marai?-->
+             <lb n="c19"/><gap reason="lost" quantity="1" unit="character"/>tal· magrāc· pūra <unclear>ro</unclear>ṅ·<!--Urāṅ? voir ligne C12--> tu<unclear>hā</unclear>
 
              <lb n="c20"/><gap reason="illegible" quantity="1" unit="character"/>ñā mulaṅ· hai madā humā <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>i</seg>
 
@@ -230,6 +226,14 @@ ye pāsyayanti vicāraṇe sumatat<unclear>a yatt</unclear>ra tvā
 <app loc="A1">
 <lem><supplied reason="lost">na</supplied><unclear>mo</unclear> <supplied reason="subaudible">'</supplied><unclear>s</unclear>tu <supplied reason="lost">b</supplied>u<supplied reason="lost">d</supplied>dh<supplied reason="lost">āya</supplied> <supplied reason="lost">v</supplied>i<unclear>ś</unclear>u<unclear>d</unclear>dha-bu<unclear>d</unclear>dhaye</lem>
 <note>Our restitutions are partly inspired by scriptural parallels such as <title>Suvarṇabhāsottamasūtra</title> 21.1 <foreign>namo 'stu buddhāya suviśuddhabodhaye viśuddhadharmā pratibhāmubuddhaye | saddharmapuṇyopagatānubuddhaye bhavāgraśūnyāya viśuddhabuddhaye</foreign>.</note>
+</app>
+<app loc="c15">
+    <lem>niy· niy·</lem>
+    <note>Is the second <foreign>niy</foreign> superfluous?</note>
+</app>
+<app loc="c17">
+    <lem>kluñ·</lem>
+    <note>Or read <foreign>kūñ·</foreign>?</note>
 </app>
 </listApp>         </div>
          <div type="translation" resp="part:sapi">

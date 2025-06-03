@@ -197,23 +197,22 @@ ye pāsyayanti vicāraṇe sumatat<unclear>a yatt</unclear>ra tvā
              n="c17" break="no"/><supplied reason="lost">g</supplied><unclear>r</unclear>āc· trā pov· kluñ· limān·
              <lb n="c18"/><supplied reason="lost">pu</supplied> pov· ku <unclear>s</unclear>imhādhikāra yam̃ ma<unclear>rā</unclear><!-- ou marai?-->
              <lb n="c19"/><gap reason="lost" quantity="1" unit="character"/>tal· magrāc· pūra <unclear>ro</unclear>ṅ·<!--Urāṅ? voir ligne C12--> tu<unclear>hā</unclear>
-
-             <lb n="c20"/><gap reason="illegible" quantity="1" unit="character"/>ñā mulaṅ· hai madā humā <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>i</seg>
-
-             <lb n="c21"/>humā yāṁ vukan· di dalaṁ vvāṅ· ni<unclear>ṁ</unclear> trā
-
-             <lb n="c22"/><gap reason="illegible" quantity="1" unit="character"/> Avi<!-- sapi2argr Le signe non lu ressemble à une sorte de courbe prolongeant le A mais sur la gauche. --> 
+             <lb n="c20"/><gap reason="illegible" quantity="1" unit="character"/>ñā mulaṅ· hai madā humā <unclear>v</unclear>i<unclear>hā</unclear><lb 
+             n="c21" break="no"/><supplied reason="lost">ra</supplied> humā yāṁ vukan· di dalaṁ vvāṅ· ni<unclear>ṁ</unclear> trā <unclear>hai</unclear>
+             <lb n="c22"/><supplied reason="lost">ga</supplied><unclear>ḥ</unclear> Avi 
              </p>
 
              <p><milestone type="pagelike" unit="face" n="d"/>
-             <lb n="d1"/><g type="circleTarget">.</g> <unclear>turai</unclear>y·<!--sapi2argr ou tupen· ni--> <unclear>rāja</unclear> jvana di pu pov· tana rayā
-             <lb n="d2"/>di <unclear>Urā</unclear>ṅ· yaṁṅ· kluñ na<unclear>gar</unclear>· hulun· vi<lb
-             n="d3" break="no"/>hāra niy· bhikṣu yaṁṅ· rak<unclear>ṣāna</unclear> nan· vati<lb
-             n="d4" break="no"/>y· vihāra niy· <g type="dotMid">.</g> Oḥ jeṅ· si Urāṅ· <unclear>p</unclear>uḥ
+             <lb n="d1"/>Oḥ jeṅ· si <unclear>lum</unclear>vaḥ di pu pov· tana rayā
+             <lb n="d2"/>di <unclear>Urā</unclear>ṅ· yaṁṅ· kluñ· na<unclear>gar</unclear>· hulun· vi<lb
+             n="d3" break="no"/>hāra niy· bhikṣu yaṁṅ· rak<unclear>ṣā</unclear><!-- dunan·? --> <unclear>da</unclear>nan· vati<lb
+             n="d4" break="no"/>y· vihāra niy· <g type="dotMid">.</g> Oḥ jeṅ· si Urāṅ· <unclear>p</unclear>uḥ<!-- vuḥ? punda? -->
              <lb n="d5"/>pandar· di vnaut· rājakāryya siy· yaṅ·
              <lb n="d6"/>mavac· tanatap· yāṅ· pu pov· ku śrī ja<lb
 	        n="d7" break="no"/>ya siṅhavarmmadeva Urāṅ· nan· lac· di Avī<lb
-	        n="d8" break="no"/>cī Annan· naraka ṅan· Inā Amā gaṁp· g<unclear>o</unclear><lb 
+	        n="d8" break="no"/>cī 
+            <!-- ARLO ET SAPI REPRENNENT ICI-->
+            Annan· naraka ṅan· Inā Amā gaṁp· g<unclear>o</unclear><lb 
             n="d9" break="no"/><unclear>tra</unclear><!-- voir C. 167 pour un autre cas de Inā Amā gaṁp· gotra--> <unclear>Urāṅ</unclear>· nan· yāṅ· pu pov· ku śrī bhadrava<lb
              n="d10" break="no"/>rmmadeva vuḥ <unclear>śvaṅdo</unclear> pirak· vuḥ tra<unclear>lāy</unclear>· pira<lb 
              n="d11" break="no"/><unclear>k</unclear>· v<unclear>u</unclear>ḥ <gap reason="illegible" quantity="6" unit="character"/> ratnalokeśvara niy· pra
@@ -234,6 +233,15 @@ ye pāsyayanti vicāraṇe sumatat<unclear>a yatt</unclear>ra tvā
 <app loc="c17">
     <lem>kluñ·</lem>
     <note>Or read <foreign>kūñ·</foreign>?</note>
+</app>
+<app loc="c20">
+    <lem><unclear>v</unclear>i<unclear>hā</unclear><lb 
+        n="c21" break="no"/><supplied reason="lost">ra</supplied></lem>
+    <note>The gap has been supplied from the parallel in line c10.</note>
+</app>
+<app loc="c22">
+    <lem><supplied reason="lost">ga</supplied><unclear>ḥ</unclear> Avi</lem>
+    <note>The gap has been supplied from the parallel in line c11. The syllables Avi are the beginning fo <foreign>Avista</foreign>. It is unclear where the last syllable of this word would have stood.</note>
 </app>
 </listApp>         </div>
          <div type="translation" resp="part:sapi">

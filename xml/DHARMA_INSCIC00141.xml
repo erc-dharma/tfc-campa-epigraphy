@@ -438,7 +438,7 @@ n="B8" break="no"/><supplied reason="lost">kya</supplied> <unclear>dha</unclear>
              </app>
                </listApp>
          </div>
-         <div type="translation" xml:lang="eng" resp="part:dogo part:diac part:argr part:sapi">
+         <div type="translation" resp="part:dogo part:diac part:argr part:sapi">
          <p n="A01">Reverence to Śiva.</p>
          <p n="A1">Hail!</p>
          <p rend="stanza" n="1">The divine one of vast power seated at ease upon a heap of ash whose pile is large <supplied reason="explanation">/whose heap comes from many [sources]?</supplied><note><foreign>vahusañcayāyām</foreign> is uncertain. Could the ash have come from many corpses? Or does it just mean that the heap is “big”? The compound <foreign>vigatāmvudeye</foreign> is odd: <foreign>ambuda</foreign> is usually cloud; <foreign>ambudeya</foreign> must be a <foreign>bahuvrīhi</foreign>: "whose gift is water". Could <foreign>bhasmarāśi</foreign> be an expression specially chosen because it can allude to some Pāśupata individual?</note> shines intensely, like the sun illuminated by its ring of rays in a sky from which all clouds have departed.</p>
@@ -454,7 +454,7 @@ n="B8" break="no"/><supplied reason="lost">kya</supplied> <unclear>dha</unclear>
         <p rend="stanza" n="8">This <supplied reason="explanation"><foreign>ayam</foreign></supplied> Śrī-Bhadravarman, of superlative mind <supplied reason="explanation"><foreign>uttamadhīḥ</foreign></supplied>, a moon in the sky that was the lineage of Bhṛgu, the king, adorns, as it were <supplied reason="explanation"><foreign>iva</foreign></supplied>, the city<supplied reason="subaudible">-state</supplied> of Campā, which operates in hundreds of ways <supplied reason="explanation">?<foreign>śatānuvr̥ttim</foreign>?</supplied>, with virtue, prosperity, ...<note>This assumes that <foreign>iveyam</foreign> is wrong for <foreign>ivāyam</foreign>. Alternatively, we could assume that the king is compared with a feminine thing. We have further guessed that <foreign>śatānavr̥ttim</foreign> is an error for <foreign>śatānuvr̥ttim</foreign>. Perhaps it is intended as a <foreign>bahuvrīhi</foreign> describing Campānagarī but intended to function adverbially: he adorned the city in such a way that it was adorned with hundreds of repetitions <supplied reason="explanation">night after night, like the moon</supplied>. It is conceivable that a grammatical joke is intended, <foreign>guṇa</foreign> and <foreign>vr̥ddhi</foreign> being technical terms of grammar.</note></p>
 
          </div>
-         <div type="translation" xml:lang="eng" source="bib:Majumdar1927_01">
+         <div type="translation" source="bib:Majumdar1927_01">
          <p n="A01">Reverence to Śiva.</p>
          <p n="A1">Hail!</p>
          <p rend="stanza" n="1">He, the divine <supplied reason="subaudible">being</supplied>, and of great power, seated with ease upon a mass of ashes, shines very much, like the Sun, aglow with rays, in a cloudless sky.</p>

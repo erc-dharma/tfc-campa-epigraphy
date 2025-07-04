@@ -167,7 +167,7 @@ argr: bhoktu? moktu?
              n="B5" break="no"/>n tathā svecchayā<g type="ddanda"/><g type="floretComplex"/><g type="ddanda"/>
              </p>
 
-<p xml:lang="ocm-Latn">niy· <gap reason="illegible" quantity="3" unit="character"/> <unclear>humā</unclear> <gap reason="illegible" quantity="13" unit="character"/>
+<p xml:lang="ocm-Latn">niy· ru<unclear cert="low">maṅ·</unclear> <unclear>humā</unclear> <gap reason="illegible" quantity="13" unit="character"/>
              <lb n="B6"/><unclear>k</unclear>a<gap reason="illegible" quantity="4" unit="character"/> ṅauk· <unclear>gālaṁ</unclear> <gap reason="illegible" quantity="4" unit="character"/> krauṅ· <gap reason="illegible" quantity="8" unit="character"/> 
 
              <lb n="B7"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>i</seg> <gap reason="illegible" quantity="4" unit="character"/> <unclear>Oḥ</unclear> jeṅ· <unclear>c</unclear>va<gap reason="illegible" quantity="1" unit="character"/> <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>u</seg><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>ū</seg><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>ū</seg> <unclear>jāk· yā</unclear> <gap reason="illegible" quantity="2" unit="character"/> la<unclear>c</unclear>· <gap reason="illegible" quantity="6" unit="character"/>
@@ -180,11 +180,11 @@ argr: bhoktu? moktu?
              <lb n="B10"/><gap reason="illegible" quantity="1" unit="character"/>nna <gap reason="illegible" quantity="1" unit="character"/>na ciy· mamrait· humā <unclear>riha</unclear><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>ī</seg> <unclear><g type="dotMid">.</g></unclear> <gap reason="illegible" quantity="14" unit="character"/>
              <lb n="B11"/><gap reason="illegible" quantity="24" unit="character"/>
             <lb n="B12"/><gap reason="illegible" quantity="3" unit="character"/>nna na<gap reason="illegible" quantity="19" unit="character"/><lb
-             n="B13" break="no"/>ṅ· nan· dauk· <unclear>d</unclear>ina <gap reason="illegible" quantity="1" unit="character"/> <unclear>nan· dh</unclear>a<unclear>mvu</unclear><!-- sapi2argr ou kamvu? --> <gap reason="illegible" quantity="19" unit="component"/>
-             <lb n="B14"/>ya Oḥ jeṅ· taup· Oḥ jem̃ si Urāṅ· <unclear cert="low">kluñ·</unclear> ka<unclear>In</unclear>· <unclear cert="low">tat</unclear>ra <gap reason="illegible" quantity="7" unit="character"/>
+             n="B13" break="no"/>ṅ· nan· dauk· <unclear>d</unclear>i na<gap reason="illegible" quantity="9" unit="character"/><gap reason="lost" quantity="15" unit="component"/>
+             <lb n="B14"/>ya Oḥ jeṅ· taup· Oḥ jem̃ si Urāṅ· kluñ· ka<unclear>In</unclear>· <unclear cert="low">tat</unclear>ra <gap reason="illegible" quantity="7" unit="character"/>
 
              <milestone type="pagelike" unit="face" n="c"/>
-             <lb n="c1"/><unclear>na</unclear>ya <unclear>rumaṁ tanatap</unclear>· <unclear>kadā</unclear>·<!-- kaṁn· ?--> humā
+             <lb n="c1"/><unclear>ni</unclear>y<unclear>·</unclear> rumaṁ tanatap· ka<unclear>ṁn·</unclear> humā
              <lb n="c2"/>phun· Āga marai tatap· humā niy·
              <lb n="c3"/>yāṅ· pu pov· ku śri <choice><orig>parmma</orig><reg>parama</reg></choice>viṣnu<lb 
              n="c4" break="no"/>loka pandar· pov· Añcov· Idair·
@@ -255,17 +255,20 @@ argr: bhoktu? moktu?
     <note>The gap has been supplied from the parallel in line c11. The syllables Avi are the beginning fo <foreign>Avista</foreign>. It is unclear where the last syllable of this word would have stood.</note>
 </app>
 </listApp>         </div>
-         <div type="translation" resp="part:sapi">
-           <p n="B4-B12">Voici <gap reason="illegible"/> réside à Valaṁ <gap reason="illegible"/> <foreign>bhāvray</foreign>, la vina de ce Ratna-Lokeśvara <gap reason="illegible"/> les trois royaumes <foreign>sev</foreign> Kusarvva Dhiku. Celui qui <gap reason="illegible"/> prince Dhamrait, la rizière à Pā<seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>ī</seg> <gap reason="illegible"/>.</p>
-           <p n="B13-B14"><gap reason="illegible"/> Ce <gap reason="illegible"/> réside à Nara Khyanan Dhamvu <supplied reason="explanation">toponyme très hypothétique</supplied>. Que personne ne vole les hommes du seigneur Kain <gap reason="illegible"/>.</p>
-           <p n="c1-">Celui qui ......
+         <div type="translation" resp="part:sapi part:argr">
+           <p n="B5-B12">Voici, depuis la rizière <gap reason="illegible"/> au-dessus de Gālam <gap reason="illegible"/> rivière. Il ne faut pas <gap reason="illegible"/>varmadeva a donné ce monastère de Ratna-Lokeśvara <gap reason="illegible"/>. <foreign>ājñā pov ku</foreign> Sarvādhikāra <gap reason="illegible"/> prince Mamrait, la rizière <gap reason="illegible"/>.</p>
+           <p n="B13-B14"><gap reason="illegible"/> Ce <gap reason="illegible"/> réside à Na <gap reason="illegible"/> <gap reason="lost"/>. Il ne faut pas dérober, il faut que personne ne détruise les étoffes <gap reason="illegible"/>.</p>
+           <p n="c1-c4">Voici : depuis la règle pour les rizières 
+
+            est installé cette rizière du Y.P.P.K. Śrī Paramaviṣṇuloka.</p>         
+            <!--Celui qui ......
               dālaṁ : dans ? durée ?
               vāṅ : période ?
               cānrāg :
               umvām :
               phun : début, origine ?
               āgama : doctrine
-              (ma)rai : semer ? déployer ?
+              (ma)rai : venir ? déployer ?
               tatap : installer
               humā : rizière
               niy : cette
@@ -299,14 +302,9 @@ argr: bhoktu? moktu?
               Avista rauṅ nan: tous ces rauṅ
               da...
               pat : quatre
-              humā vukan ;
+              humā vukan ;-->
 
 
-
-
-
-
-             est installé cette rizière du Y.P.P.K. Śri Dharmma.</p>
          </div>
          <div type="commentary">
           <p>The spelling of the inscription is very hazarduous. Cf. line c1 <foreign>dā(laṁ) vāṅ·</foreign>, line c11 <foreign>di laṁ vvāṅ·</foreign> and line c21 <foreign>di dalaṁ vvāṅ·</foreign>. Also cf. line c4 <foreign>sañ·cov·</foreign>, line c14 <foreign>sañcov·</foreign>. </p>

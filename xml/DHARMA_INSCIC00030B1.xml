@@ -8,30 +8,12 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Southern doorjamb of the main shrine of Po Nagar</title>
+			<title>Southern doorjamb of the main shrine of Po Nagar (C. 30 B1)</title>
 				<respStmt>
-					<resp>EpiDoc Encoding</resp>
-					<persName ref="part:sapi">
-						<forename>Salomé</forename>
-						<surname>Pichon</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
+					<resp>author of digital edition</resp>
 					<persName ref="part:argr">
 						<forename>Arlo</forename>
 						<surname>Griffths</surname>
-					</persName>
-					<persName ref="part:sapi">
-						<forename>Salomé</forename>
-						<surname>Pichon</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>Conversion of encoding for DHARMA</resp>
-					<persName ref="part:sapi">
-						<forename>Salomé</forename>
-						<surname>Pichon</surname>
 					</persName>
 				</respStmt>
 			</titleStmt>
@@ -42,10 +24,10 @@
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Arlo Griffiths and Salomé Pichon.</p>
+	<p>Copyright (c) 2019-2026 by Arlo Griffiths.</p>
 					</licence>
 				</availability>
-				<date from="2019" to="2025">2019-2025</date>
+				<date from="2019" to="2025">2019-2026</date>
 			</publicationStmt>
 			<sourceDesc>
 				<biblFull>
@@ -109,8 +91,9 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change when="2021-07-03" who="part:argr" status="draft">Resolved validation problems.</change>
-			<change when="2020-09-14" who="part:axja" status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
+	<change when="2026-02-23" who="part:argr" status="draft">Further modifications.</change>
+	<change when="2021-07-03" who="part:argr" status="draft">Resolved validation problems.</change>
+	<change when="2020-09-14" who="part:axja" status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
 		</revisionDesc>
 	</teiHeader>
 	<facsimile>
@@ -121,19 +104,18 @@
 			<desc>Photograph of EFEO estampage under n. 228.</desc>
 		</graphic>
 	</facsimile>
-	<text xml:space="preserve"><body><div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:00000">
-            <ab>
-            <lb n="1"/> <g type="quatrefoil"/> puṇaḥ yām̃ pom̃ ku śrī jayaparameśvaravarmmadeva pu pom̃ ku 
-            <lb n="2"/> vuḥ di yām̃ pu nagara ṅan· vraḥ rūpa di śakarāja nī 1155 nī humā di kumvyām̃l·
-            <lb n="3"/> sā sthāṇa anan· humā samr̥ddhījaya 400 jāk· kvir· si vuḥ di hajai nan· <unclear>la</unclear>
-            <lb break="no" n="4"/>kim̃ krumvim̃ 10 drim̃ humā vanūk· nī dharmmathateḥ 1800 jāk· humā vanūk· ni pu
-            <lb n="5"/> auk· 1500 jāk· kvir· campa lov· syaṁ vukāṁ lakim̃ krumvim̃ 45 drim̃ 
-            </ab>  
+	<text xml:space="preserve"><body><div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83213">
+<p>
+<lb n="1"/><g type="floretQuatrefoil"/> puṇaḥ yām̃ pom̃ ku śrī jayaparameśvaravarmmadeva pu pom̃ ku 
+<lb n="2"/>vuḥ di yām̃ pu nagara ṅan· vraḥ rūpa di śakarāja nī <num value="1155">1155</num> nī humā di kumvyām̃l·
+<lb n="3"/>sā sthāṇa anan· humā samr̥ddhījaya <num value="400">400</num> jāk· kvir· si vuḥ di hajai nan· <unclear>la</unclear><lb break="no" 
+n="4"/>kim̃ krumvim̃ <num value="10">10</num> drim̃ humā vanūk· nī dharmmathateḥ <num value="1800">1800</num> jāk· humā vanūk· ni pu
+<lb n="5"/>Auk· <num value="1500">1500</num> jāk· kvir· campa lov· syaṁ vukāṁ lakim̃ krumvim̃ <num value="45">45</num> drim̃</p>  
          </div>
 <div type="apparatus">
 <listApp>
 <app loc="1">
-<lem><g type="quatrefoil"/> puṇaḥ</lem>
+<lem><g type="floretQuatrefoil"/> puṇaḥ</lem>
 <rdg source="bib:Schweyer2005_01">|| puṇaḥ</rdg>
 </app>
 <app loc="2">
@@ -192,16 +174,16 @@
                Cams, des Chinois (?), des Siamois, des Paganais : 45 hommes et femmes.</p>
 </div><div type="commentary">
 <p>The difficult sequence <foreign>humā di kumvyām̃l· sā sthāṇa anan· humā samr̥ddhījaya</foreign> may be compared with <ref target="DHARMA_INSCIC00005.xml">C. 5</ref>, ll. 9-10 and 14-15.</p>
-<p>Concerning the translation of the term <foreign>lauv</foreign> as 'Chinese', see our commentary in <ref target="DHARMA_INSCIC00007.xml">C. 7</ref>. Schweyer translated it as "Lao".</p>
+<p>Concerning the translation of the term <foreign>lauv</foreign> as <q>Chinese</q>, see our commentary in <ref target="DHARMA_INSCIC00007.xml">C. 7</ref>. Schweyer translated it as <q>Lao</q>.</p>
 </div>
 <div type="bibliography">
-<p>A few words were read in <bibl><ptr target="bib:Bergaigne1888_01"/><citedRange unit="page">88</citedRange></bibl>; partially published, with French translation, in <bibl><ptr target="bib:Aymonier1891_01"/><citedRange unit="page">48-49</citedRange></bibl>; whence, with translation into English, in <bibl><ptr target="bib:Majumdar1985_01"/><citedRange unit="page">207</citedRange></bibl> and <bibl><ptr target="bib:Golzio2004_01"/><citedRange unit="page">179-180</citedRange></bibl>; whence again, with  French translation, in <bibl><ptr target="bib:Schweyer2005_01"/><citedRange unit="page">94</citedRange></bibl>. The present edition and translation after <bibl><ptr target="bib:Lepoutre2013_01"/><citedRange unit="page">260</citedRange></bibl> where we have re-edited the text from the inked EFEO estampage and the stone.</p>
+<p>A few words were read in <bibl><ptr target="bib:Bergaigne1888_01"/><citedRange unit="page">88</citedRange></bibl>; partially published, with French translation, in <bibl><ptr target="bib:Aymonier1891_01"/><citedRange unit="page">48-49</citedRange></bibl>; whence, with translation into English, in <bibl><ptr target="bib:Majumdar1985_01"/><citedRange unit="page">207</citedRange></bibl> and <bibl><ptr target="bib:Golzio2004_01"/><citedRange unit="page">179-180</citedRange></bibl>; whence again, with  French translation, in <bibl><ptr target="bib:Schweyer2005_01"/><citedRange unit="page">94</citedRange></bibl>. The present edition and translation after <bibl rend="omitname"><ptr target="bib:Lepoutre2013_01"/></bibl> where we have re-edited the text from the inked EFEO estampage and the stone.</p>
 <listBibl type="primary">
 <bibl n="AVS"><ptr target="bib:Schweyer2005_01"/><citedRange unit="page">94</citedRange></bibl>
 <bibl n="AL"><ptr target="bib:Lepoutre2013_01"/><citedRange unit="page">260</citedRange></bibl>
 </listBibl>
 <listBibl type="secondary">
-<bibl><ptr target="bib:Parmentier1909_01"/><citedRange unit="page">131</citedRange><note>Parmentier erroneously speaks of 6 lines and wrongly includes the date 1148 under this text; he seems to have read <bibl><ptr target="bib:Aymonier1891_01"/><citedRange unit="page">48</citedRange></bibl> too quickly.</note></bibl>
+<bibl><ptr target="bib:Parmentier1909_01"/><citedRange unit="page">131</citedRange></bibl><note>Parmentier erroneously speaks of 6 lines and wrongly includes the date 1148 under this text; he seems to have read <bibl><ptr target="bib:Aymonier1891_01"/><citedRange unit="page">48</citedRange></bibl> too quickly.</note>
 </listBibl>
 </div>
 </body>

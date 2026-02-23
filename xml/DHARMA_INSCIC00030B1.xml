@@ -183,7 +183,7 @@ n="4"/>kim̃ krumvim̃ <num value="10">10</num> drim̃ humā vanūk· nī dharmm
 <bibl n="AL"><ptr target="bib:Lepoutre2013_01"/><citedRange unit="page">260</citedRange></bibl>
 </listBibl>
 <listBibl type="secondary">
-<bibl><ptr target="bib:Parmentier1909_01"/><citedRange unit="page">131</citedRange></bibl><note>Parmentier erroneously speaks of 6 lines and wrongly includes the date 1148 under this text; he seems to have read <bibl><ptr target="bib:Aymonier1891_01"/><citedRange unit="page">48</citedRange></bibl> too quickly.</note>
+<bibl><ptr target="bib:Parmentier1909_01"/><citedRange unit="page">131</citedRange><note>Parmentier erroneously speaks of 6 lines and wrongly includes the date 1148 under this text; he seems to have read <bibl><ptr target="bib:Aymonier1891_01"/><citedRange unit="page">48</citedRange></bibl> too quickly.</note></bibl>
 </listBibl>
 </div>
 </body>

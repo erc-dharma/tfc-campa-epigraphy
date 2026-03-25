@@ -10,14 +10,7 @@
             <titleStmt>
                 <title>Fragment of a base for a statue or <foreign>liṅga</foreign> (C. 226), 9th century Śaka</title>
                 <respStmt>
-                <resp>EpiDoc Encoding</resp>
-                <persName ref="part:sapi">
-                   <forename>Salomé</forename>
-                   <surname>Pichon</surname>
-                </persName>
-             </respStmt>
-                <respStmt>
-                  <resp>intellectual authorship of edition</resp>
+                <resp>author of digital edition</resp>
                   <persName ref="part:argr">
                      <forename>Arlo</forename>
                      <surname>Griffiths</surname>
@@ -55,7 +48,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p>The lettering is characteristic of the ninth and tenth centuries CE</p>
+                            <p>The lettering is characteristic of the 10th/11th centuries CE</p>
                             <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
@@ -81,7 +74,8 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:sapi" when="2024-11-18" status="draft">Initial encoding of the inscription</change>
+            <change who="part:argr" when="2026-03-26" status="draft">revision of the encoding</change>
+            <change who="part:sapi" when="2024-11-18" status="draft">initial encoding of the inscription</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
@@ -96,7 +90,7 @@
                <listApp>
                 <app loc="1">
                     <lem>kum̃</lem>
-                    <rdg source="Griffiths+al2012_01">ku</rdg>
+                    <rdg source="bib:Griffiths+al2012_01">ku</rdg>
                  </app>
                </listApp>
          </div>
@@ -108,9 +102,9 @@
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-        <p>First edited with translation into English by Arlo Griffiths et al. (<bibl rend="omitname"><ptr target="bib:Griffiths+al2012_01"/><citedRange unit="page">271</citedRange></bibl>). The inscription is re-edited here by Salomé Pichon based the EFEO estampages n. 2111.</p>
+        <p>First edited with translation into English by Arlo Griffiths et al. (<bibl rend="omitname"><ptr target="bib:Griffiths+al2012_01"/><citedRange unit="page">271</citedRange></bibl>). The inscription is re-edited here by Arlo Griffiths &amp; Salomé Pichon based on the EFEO estampage n. 2111, and on photos.</p>
         <listBibl type="primary">
-      <bibl n="CIC"><!--sapi2argr quel sigle ici ?-->
+      <bibl n="CIC">
       <ptr target="bib:Griffiths+al2012_01"/>
       <citedRange unit="page">271</citedRange>
       </bibl>

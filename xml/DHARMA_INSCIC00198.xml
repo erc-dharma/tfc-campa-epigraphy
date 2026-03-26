@@ -28,7 +28,7 @@
                         https://creativecommons.org/licenses/by/4.0/ or send a letter to
                         Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                         California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Arlo Griffiths and Salomé Pichon.</p>
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -113,7 +113,7 @@
          <desc>Photograph of one sheet under EFEO estampage n. 1154 (2/2), showing the lateral face of C. 198.</desc>
       </graphic>
    </facsimile>
-   <text xml:space="preserve"><body><div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:00000"> 
+   <text xml:space="preserve"><body><div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83213"> 
                 <div type="textpart">
                    <head xml:lang="eng">Anterior</head>
                 <p> 
@@ -130,7 +130,7 @@
 <div type="translation" xml:lang="fra"><p/></div>
 <div type="commentary"><p/></div>
 <div type="bibliography">
-<p>First digital edition by Arlo Griffiths at <ref target="https://isaw.nyu.edu/publications/inscriptions/campa/index.html">The Corpus of the Inscriptions of Campā</ref>, in 2010-2012, based only on the EFEO estampages under number n. 1154. Re-edited here from photogrammetry.     </p>
+<p>First digital edition by Arlo Griffiths at <ref target="https://isaw.nyu.edu/publications/inscriptions/campa/index.html">The Corpus of the Inscriptions of Campā</ref> (2010-2012), based only on the EFEO estampages under number n. 1154. Re-edited here from photogrammetry.</p>
 <listBibl type="primary"><bibl/></listBibl>
 <listBibl type="secondary">
 <bibl><ptr target="bib:Parmentier1909_01"/><citedRange unit="page">285</citedRange></bibl>

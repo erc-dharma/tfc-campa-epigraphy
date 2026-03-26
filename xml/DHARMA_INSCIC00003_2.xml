@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Doorjamb reused as lintel from Chợ Dinh in Phan Rang (C. 3.2), 1155 Śaka</title>
+				<respStmt>
+					<resp>author of digital edition</resp>
+					<persName ref="part:argr">
+						<forename>Arlo</forename>
+						<surname>Griffths</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris</pubPlace>
+				<idno type="filename">DHARMA_INSCIC00003_2</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2026 by Arlo Griffiths.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title>Lintel from Phan Rang</title>
+						<editor>Arlo Griffiths</editor>
+						<editor>Amandine Lepoutre</editor>
+					</titleStmt>
+					<editionStmt>
+						<p>First digital edition made by École française d'Extrême-Orient (EFEO), realized in collaboration with the Institute for the Study of the Ancient World (ISAW) at New York University as <ref target="https://isaw.nyu.edu/publications/inscriptions/campa/index.html">The Corpus of the Inscriptions of Campā, in 2010-2012.</ref>
+						</p>
+					</editionStmt>
+					<publicationStmt>
+						<authority>École française d'Extrême-Orient (EFEO)</authority>
+						<idno type="filename">DHARMA_INSCIC00003</idno>
+						<availability>
+							<licence target="http://creativecommons.org/licenses/by/3.0/">
+								<p>Copyright (c) 2012 by Arlo Griffiths &amp; Amandine Lepoutre.</p>
+								<p>This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+							</licence>
+						</availability>
+					</publicationStmt>
+				</biblFull>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+						<altIdentifier type="campa">
+							<idno>C. 3</idno>
+						</altIdentifier>
+						<altIdentifier type="majumdar-nr">
+							<idno>No. 89</idno>
+						</altIdentifier>
+						<altIdentifier type="museum-inventory">
+							<settlement>Hà Nội</settlement>
+							<repository>BTLS-QG</repository>
+							<idno>LSb 21164</idno>
+						</altIdentifier>
+						<altIdentifier type="museum-inventory-former">
+							<settlement>Hanoi</settlement>
+							<repository>EFEO Museum</repository>
+							<idno>B 2, 17</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<msContents>
+						<summary/>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+			</projectDesc>
+			<schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<listPrefixDef>
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+					<p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+				</prefixDef>
+				<prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+					<p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+				</prefixDef>
+			</listPrefixDef>
+		</encodingDesc>
+		<revisionDesc>
+			<change when="2026-03-26" who="part:argr" status="draft">revision of the file, splitting C0003.xml into two</change>
+			<change when="2020-09-14" who="part:axja" status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="C0003_1_AG_2009.jpg">
+			<desc>Photograph, with scale, of inscription <ptr/>. Taken in the Hanoi Museum by Arlo Griffiths on .</desc>
+		</graphic>
+		<graphic url="EFEOB-est.n0145_bis_1_A.jpg">
+			<desc>Photograph of an EFEO estampage under n. 145 (1/3), showing the upper part of C. 3.1.</desc>
+		</graphic>
+		<graphic url="EFEOB-est.n0145_bis_1_B.jpg">
+			<desc>Photograph of an EFEO estampage under n. 145 (2/3), showing the lower part of C. 3.1 and the left part of C. 3.2.</desc>
+		</graphic>
+		<graphic url="EFEOB-est.n0145_2.jpg">
+			<desc>Photograph of an EFEO estampage under n. 145 (3/3), showing C. 3.2.</desc>
+		</graphic>
+	</facsimile>
+	<text xml:space="preserve">
+<body>
+<div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83213">             
+             <p>
+<lb n="1"/><g type="floretQuatrefoil"/> svasti <g type="floretQuatrefoil"/> yām̃ pom̃ ku śrī jaya parameśvaravarmmadeva dunan· yaḥ senāpatī yām̃ pu rāmadeva pu pom̃ tana rayā nan· rajan· sthāpanā
+<lb n="2"/>rūpa pak· yām̃ pov· ku svayamutpanna nī prayojana bhanaktī dadam̃n· kāla <g type="squiggleVertical">.</g>
+                śakarāja <num value="1155">1155</num> vuḥ kvir· <num value="9">9</num> drim̃ syaṁ <num value="22">22</num> drim̃ pukāṁ sā līmā
+<lb break="no" n="3"/>n· lakiy· sā ṅan· kvir· Icauv· sā bhaṇḍāra glai trya drim̃<!-- or tryam̃ dri?  --> ñaum̃ mahendrapura <g type="danda">.</g> yām̃ nī nāma yām̃ pom̃ ku śrī pa<del><gap reason="illegible" quantity="1" unit="character"/></del>tīśvara
+             </p>
+            </div>
+
+<div type="apparatus">
+<listApp>
+<app loc="2">
+<lem>kāla <g type="squiggleVertical">.</g></lem>
+<note>Instead of a punctuation mark, one could read here the <foreign>visarga</foreign> sign, although the <foreign>visarga</foreign> in <foreign>yaḥ</foreign> in the previous line is very differently shaped. Moreover, an almost exact parallel in <ref target="DHARMA_INSCIC00092.xml">C. 92</ref>, face A, ll. 8–10 (<foreign>urām̃ ya bhakti sadākāla ... ni prayojana samr̥ddhi bhanakti dadam̃n· kāla |</foreign>, we have checked the text from the EFEO estampage n. 340) leads us to favor reading a variantv of the vertical bar as punctuation. It also seems to offer, with <foreign>urām̃ ya bhakti sadākāla</foreign> <q>man who is devoted at all times</q>, a gloss of the expression <foreign>bhanakti dadam̃n· kāla</foreign>, found in those two inscriptions.</note></app>
+<app loc="3">
+<lem>tryā drim̃</lem><note>We initially read <foreign>tryam̃ dri</foreign>, but if we read <foreign>anusvāra-candra</foreign> on the second syllable, we at least obtain one known word.</note>
+</app>
+<app loc="3">
+<lem>pa<del><gap reason="illegible" quantity="1" unit="character"/></del>tīśvara</lem>
+<note>Judging by the inked estampage, it would seem that there is a character between <foreign>pa</foreign> and <foreign><unclear>t</unclear>ī</foreign>, and indeed <bibl><ptr target="bib:Jacques1976-1977_01"/><citedRange unit="page">989</citedRange></bibl> has read Saratīśvara. But based on our inspection of the stone and of the photomrammetry, it rather seems that a character has been expunged here.</note>
+</app>
+</listApp>
+</div>
+<div type="translation" resp="part:argr">
+<head xml:lang="eng">C. 3.2</head><p>Hail ! Y.P.K. Śrī Jaya Parameśvaravarmadeva, while he was still <supplied reason="explanation"><foreign>dunan yaḥ</foreign>?</supplied> general, the illustrious Rāmadeva, this P.P.T.R. has carried out the installation of an image for Y.P.K Svayamutpanna, to the benefit of devotees at various times. <supplied reason="subaudible">In the year</supplied> of the Śaka king 1155: he has offered Khmers, 9 persons; Siamese, 22 persons; a Paganese; a male elephant with a Khmer as master; a forest property <foreign>trya; person-soak-Mahendrapura</foreign>. This god is called Y.P.K. Śrīpatīśvara.</p>
+</div>
+<div type="translation" source="bib:Aymonier1891_01" xml:lang="fra">
+<p>Salut ! Y.P.K. Śrī Jaya Parameśvaravarmadeva, alors qu’il était encore <supplied reason="explanation"><foreign>dunan yaḥ</foreign>?</supplied> général, l’illustre Rāmadeva, ce P.P.T.R. a effectué l’érection d’une image pour Y.P.K. Svayamutpanna, pour le profit des dévots à diverses époques. <supplied reason="subaudible">En l’année</supplied> 1155 du roi des Śaka : <supplied reason="subaudible">il</supplied> a donné des Khmers, 9 personnes ; des Siamois, 22 personnes ; un Paganais  ; un éléphant mâle avec un Khmer comme maître ; un domaine de forêt <foreign>trya ; personne-tremper-Mahendrapura</foreign>. Ce dieu s’appelle Y.P.K. Śrīpatīśvara.</p>
+</div>
+<div type="commentary"/>
+<div type="bibliography">
+<p>A few words were read by Bergaigne (<bibl rend="omitname"><ptr target="bib:Bergaigne1888_01"/></bibl>) and the text was translated into French by Aymonier (<bibl rend="omitname"><ptr target="bib:Aymonier1891_01"/></bibl>),  but was integrally published for the first time <bibl><ptr target="bib:Griffiths+al2008-2009_01"/></bibl> (cited in  <bibl><ptr target="bib:Lepoutre2013_01"/></bibl>), whence the first digital edition by Arlo Griffiths &amp; Amandine Lepoutre at <ref target="https://isaw.nyu.edu/publications/inscriptions/campa/index.html">The Corpus of the Inscriptions of Campā</ref> (2010-2012). The present revised digital edition by Arlo Griffiths makes use of <ref target="10.34847/nkl.5aada3wm">new photogrammetry images</ref> acquired in 2024.</p>
+                 <listBibl type="primary">
+                   <bibl><ptr target="bib:Griffiths+al2008-2009_01"/><citedRange unit="page">443-445</citedRange></bibl>
+                 </listBibl>
+                 <listBibl type="secondary">
+		     <bibl><ptr target="bib:Bergaigne1888_01"/><citedRange unit="page">88-89</citedRange></bibl>
+		     <bibl><ptr target="bib:Aymonier1891_01"/><citedRange unit="page">57-58</citedRange></bibl>
+                   <bibl><ptr target="bib:Parmentier1909_01"/><citedRange unit="page">79-80</citedRange></bibl>
+                   <bibl><ptr target="bib:Finot1915_01"/><citedRange unit="page">2 and 10</citedRange></bibl>
+                   <bibl><ptr target="bib:Parmentier1918_01"/><citedRange unit="page">77</citedRange></bibl>
+		     <bibl><ptr target="bib:Jacques1976-1977_01"/><citedRange unit="page">989-991</citedRange></bibl>
+		     <bibl><ptr target="bib:Lepoutre2013_01"/><citedRange unit="page">219-220</citedRange></bibl>
+</listBibl>
+</div>
+</body>
+</text>
+</TEI>

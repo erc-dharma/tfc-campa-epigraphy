@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Element of the pedestal of the <foreign>mukhaliṅga</foreign> in Mỹ Sơn E1 (C. 250), 7th century CE</title>
+                <title>Element of the pedestal of the <foreign>mukhaliṅga</foreign> in Mỹ Sơn E1 (C. 248), 7th century CE</title>
             	<respStmt>
             		<resp>author of digital edition</resp>
             		<persName ref="part:argr">
@@ -20,7 +20,7 @@
         	<publicationStmt>
         		<authority>DHARMA</authority>
         		<pubPlace>Paris</pubPlace>
-        		<idno type="filename">DHARMA_INSCIC00250</idno>
+        		<idno type="filename">DHARMA_INSCIC00248</idno>
         		<availability>
         			<licence target="https://creativecommons.org/licenses/by/4.0/">
         				<p>This work is licensed under the Creative Commons Attribution 4.0 Unported

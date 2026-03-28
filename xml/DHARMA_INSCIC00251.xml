@@ -87,13 +87,13 @@
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>The inscription, mentioned and illustated by <bibl><ptr target="bib:NguyenVanTho2026_01"/></bibl>, is edited here by Arlo Griffiths, based on EFEO estampage n. 2084.</p>
+           <p>The inscription is edited here by Arlo Griffiths, based on EFEO estampage n. 2084.</p>
         	<!--<listBibl type="primary">
 				<bibl n="siglum"/>
 			</listBibl>-->
           <listBibl type="secondary">
 			<bibl><ptr target="bib:Parmentier1904_02"/><citedRange unit="page">869-872</citedRange><citedRange unit="figure">34</citedRange></bibl>
-              <bibl><ptr target="bib:NguyenVanTho2026_01"/></bibl>
+            <!--<bibl><ptr target="bib:NguyenVanTho2026_01"/></bibl>-->
            </listBibl>
         </div>
       </body>

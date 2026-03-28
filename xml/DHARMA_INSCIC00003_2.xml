@@ -149,13 +149,13 @@
 </div>
 <div type="commentary"/>
 <div type="bibliography">
-<p>A few words were read by Bergaigne (<bibl rend="omitname"><ptr target="bib:Bergaigne1888_01"/></bibl>) and the text was translated into French by Aymonier (<bibl rend="omitname"><ptr target="bib:Aymonier1891_01"/></bibl>),  but was integrally published for the first time <bibl><ptr target="bib:Griffiths+al2008-2009_01"/></bibl> (cited in  <bibl><ptr target="bib:Lepoutre2013_01"/></bibl>), whence the first digital edition by Arlo Griffiths &amp; Amandine Lepoutre at <ref target="https://isaw.nyu.edu/publications/inscriptions/campa/index.html">The Corpus of the Inscriptions of Campā</ref> (2010–2012). The present revised digital edition by Arlo Griffiths makes use of <ref target="10.34847/nkl.5aada3wm">new photogrammetry images</ref> acquired in 2024.</p>
+<p>A few words were read by Bergaigne (<bibl rend="omitname"><ptr target="bib:Bergaigne1888_01"/></bibl>) and a gist of the contents was furnished by Aymonier (<bibl rend="omitname"><ptr target="bib:Aymonier1891_01"/></bibl>), but the text was integrally published for the first time in <bibl><ptr target="bib:Griffiths+al2008-2009_01"/></bibl> (cited in  <bibl><ptr target="bib:Lepoutre2013_01"/></bibl>), whence the first digital edition by Arlo Griffiths &amp; Amandine Lepoutre at <ref target="https://isaw.nyu.edu/publications/inscriptions/campa/index.html">The Corpus of the Inscriptions of Campā</ref> (2010–2012). The present revised digital edition by Arlo Griffiths makes use of the EFEO estampage n. 145 and <ref target="10.34847/nkl.5aada3wm">new photogrammetry images</ref> acquired in 2024.</p>
                  <listBibl type="primary">
                    <bibl><ptr target="bib:Griffiths+al2008-2009_01"/><citedRange unit="page">443-445</citedRange></bibl>
                  </listBibl>
                  <listBibl type="secondary">
 		     <bibl><ptr target="bib:Bergaigne1888_01"/><citedRange unit="page">88-89</citedRange></bibl>
-		     <bibl><ptr target="bib:Aymonier1891_01"/><citedRange unit="page">57-58</citedRange></bibl>
+		     <bibl><ptr target="bib:Aymonier1891_01"/><citedRange unit="page">49-50</citedRange></bibl>
                    <bibl><ptr target="bib:Parmentier1909_01"/><citedRange unit="page">79-80</citedRange></bibl>
                    <bibl><ptr target="bib:Finot1915_01"/><citedRange unit="page">2 and 10</citedRange></bibl>
                    <bibl><ptr target="bib:Parmentier1918_01"/><citedRange unit="page">77</citedRange></bibl>

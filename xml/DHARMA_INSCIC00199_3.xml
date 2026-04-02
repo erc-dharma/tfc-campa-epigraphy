@@ -72,10 +72,10 @@
       <body>
          <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83211">
            <p><lb n="1"/>svasti ya<surplus>ṁ</surplus> doṁ kluñ· Usīr· Ājñ<unclear>ā</unclear> nī<unclear>y·</unclear>
-		<lb n="2"/>m<unclear>ā</unclear>s· Ākara samrāṅ· Ilon· lalāṅ· pat taṅ·
+		<lb n="2"/>m<unclear>ā</unclear>s· Ākara samrāṅ· Ilon· lalāṅ· pāt taṅ·
 		<lb n="3"/>samrāṅ· Ilon· jnas· tlūv· taṅ· samrāṅ· Ilon·
 		<lb n="4"/>dampāṅ· dvā taṅ· ya dom· vr<unclear>ī</unclear>y· mās·
-		<lb n="5"/>taṅ· pān· voḥ</p>
+		<lb n="5"/>taṅ· pāt· voḥ</p>
          </div>
          <div type="apparatus"/>
          <div type="translation" resp="part:argr">
@@ -83,18 +83,14 @@
 <foreign>samrāṅ ilon</foreign>, four weights of thatch;
 <foreign>samrāṅ ilon</foreign>, three weights of jnas;
 <foreign>samrāṅ ilon</foreign>, two weights of dampāṅ.
-All these give weighed gold, nine pieces.</p>
+All these give weighed gold, four pieces.</p>
          </div>
          <div type="commentary">
-            <p>Our interpretation 
+            <p>The interpretation of <foreign>kluñ</foreign> is uncertain. There are inscriptions where it moght have a meaning like <q>destroy</q>, and others where it seems to designate some kind of dignitary (<q>minister, chief</q>). The word usīr, apparently not found elsewhere in Old Cham, does not have an evident match in Modern Cham, but does in Malay and Acehnese, where usir and usé, respectively, mean <q>chase away, expel</q>, while the meaning in Old Javanese is rather different (<q>to go to, go in the direction of, take refuge with, try to reach or obtain, strive after</q>). The word ākara is a loanword from Sanskrit meaning <q>mine, multitude</q>. The expression <foreign>samrāṅ ilon</foreign>, that occurs four times, is alas totally opaque. The word <foreign>taṅ</foreign>, so far not found in any Old Cham inscription, must be the precursion of modern <foreign>taṅ</foreign>,<q>to weigh</q>. 
 
-<!-- <div class="entry">&lt;cham&gt; <b>taṅ</b>, <b>tơṅ</b> (bahn. <i>tŏṅ</i>). Peser. — <i>taṅ mơḥ</i>, <i>taṅ nī mơḥ</i>, peser l’or. <i>kabṷak limơ̄ ti̯en taṅ</i> C., soie filée pesant cinq tiens de sapèques. (Les sapèques servent de poids.)</div>
-
+<!--
 lalāṅ: maybe same as ralāṅ in later inscriptions?
 ralāṅ	thatch, mountain grass 	9, 106		ralām̃	f413	Thurgood 1999: 301, ECIC VIII, 272	Mal. lalang, Old Jav. halalaṅ
-
-could pān = salapan 'nine'?
-
 
  -->
 </p>

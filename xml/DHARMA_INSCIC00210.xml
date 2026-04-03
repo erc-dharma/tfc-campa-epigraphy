@@ -8,21 +8,18 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Hòn Đỏ Pillar (C. 210), 972 Śaka</title>
-                <respStmt>
-                   <resp>EpiDoc Encoding</resp>
-                   <persName ref="part:sapi">
-                      <forename>Salomé</forename>
-                      <surname>Pichon</surname>
-                   </persName>
-                </respStmt>
-                <respStmt>
-                   <resp>intellectual authorship of edition</resp><!--dois-je ajouter Amandine Lepoutre ici ?-->
-                   <persName ref="part:argr">
-                      <forename>Arlo</forename>
-                      <surname>Griffiths</surname>
-                   </persName>
-                </respStmt>
+                <title>Stele at Hòn Đỏ (C. 210), 972 Śaka</title>
+	      <respStmt>
+            	<resp>author of digital edition</resp>
+            	<persName ref="part:argr">
+            		<forename>Arlo</forename>
+            		<surname>Griffiths</surname>
+            	</persName>
+            	<persName ref="part:sapi">
+            		<forename>Salomé</forename>
+            		<surname>Pichon</surname>
+            	</persName>
+            	</respStmt>
             </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
@@ -35,10 +32,10 @@
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Arlo Griffiths &amp; Salomé Pichon.</p>
+                        <p>Copyright (c) 2019-2026 by Arlo Griffiths &amp; Salomé Pichon.</p>
                     </licence>
                 </availability>
-                <date from="2019" to="2025">2019-2025</date>
+                <date from="2019" to="2026">2019-2026</date>
             </publicationStmt>
             <sourceDesc><!-- only the handDesc can be filled in at this stage -->
                 <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
@@ -51,7 +48,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p>Exceptional form of <foreign>virāma</foreign>, in l. D4, and exceptional form of -<foreign>ā</foreign> on face D.</p>
+                            <p>Exceptional form of <foreign>virāma</foreign>, in D4, and exceptional form of -<foreign>ā</foreign> on face D.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -81,8 +78,8 @@
          <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83213">
            <ab xml:lang="san-Latn"><milestone type="pagelike" unit="face" n="A"/><lb n="A01"/><g type="ddandaPlain"/><g type="circleConcentricOval"/><g type="ddandaPlain"/> svasti<g type="ddandaPlain"/><g type="circleConcentricOval"/><g type="ddandaPlain"/></ab>
            <lg n="1" met="śārdūlavikrīḍita" xml:lang="san-Latn">
-             <l n="a"><lb n="A1"/>tasya śrī parameśvarasya n<choice><sic>ra</sic><corr>r̥</corr></choice><lb n="A2"/>pater<!--Ici j'ai modifié le rtf et l'édition. Il y était inscrit directement nr̥pater alors qu'ici je lis plutôt un -ra souscrit qu'il faudrait corrigé en -r̥--> bbhrātrī-sutas sad-guṇī </l>
-             <l n="b">nāmnā śrī yu<lb n="A3" break="no"/>va-rāja Eva su-pr̥thag-bhāvādi-karmmodyamaḥ</l>
+             <l n="a"><lb n="A1"/>tasya śrī-parameśvarasya n<choice><sic>ra</sic><corr>r̥</corr></choice><lb n="A2" break="no"/>pater<!--Ici j'ai modifié le rtf et l'édition. Il y était inscrit directement nr̥pater alors qu'ici je lis plutôt un -ra souscrit qu'il faudrait corrigé en -r̥--> bbhrātrī-sutas sad-guṇī </l>
+             <l n="b">nāmnā śrī-yu<lb n="A3" break="no"/>va-rāja Eva su-pr̥thag-bhāvādi-karmmodyamaḥ</l>
              <l n="c">nā<lb n="A4" break="no"/>nā-dāna-makhotsavas tv api śive yoge śiva<lb n="A5" break="no"/>-<unclear>sth</unclear><supplied reason="lost">e</supplied> padāny</l>
              <l n="d">apy ātmānam ayan tato <supplied reason="subaudible">'</supplied>dhikataras so <lb n="A6"/><supplied reason="subaudible">'</supplied>śnoti san-mānase <g type="ddandaPlain">.</g><g type="spiralR">.</g><g type="ddandaPlain">.</g></l>
            </lg>
@@ -278,7 +275,8 @@
                </listApp>
          </div>
          <div type="translation" resp="part:argr part:sapi">
- 	<!--translation encoded as per EGD §9.2 -->
+ 	<p rend="stanza" n="1">That king Śrī Parameśvara's sister's son, simply called Śrī Yuvarāja, endowed with good qualities, whose foremost zeal in action <supplied reason="explanation"><foreign>ādikarmodyama</foreign></supplied> is for full deliverance <supplied reason="explanation"><foreign>sur̥thagbhāva</foreign></supplied>, who organizes a variety of donations, sacrifices and festivals — he furthermore attains levels in the auspicious <foreign>yoga</foreign> that resides in Śiva, and beyond that the Self, in his mind characterized <supplied reason="subaudible">only</supplied> by Sat<supplied reason="subaudible">tva</supplied>.</p>
+	<p rend="stanza" n="2">When the Śaka-king was connected with <supplied reason="explanation">2</supplied> hands, <supplied reason="explanation">7</supplied> mountains and <supplied reason="explanation">9</supplied> orifices <supplied reason="explanation">i.e., in 972 Śaka</supplied>, that excellent one properly installed a stable landmark <supplied reason="explanation"><foreign>liṅga</foreign></supplied>, made of stone, for glory.</p>
          </div>
          <div type="commentary">
             <p n="C10">Inspection of the stone shows that no sign is missing at the beginning of this lign, but that an irregularity of the stone explains the shift of the margin.</p>

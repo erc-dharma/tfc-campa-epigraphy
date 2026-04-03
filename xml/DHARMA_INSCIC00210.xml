@@ -90,11 +90,11 @@
              <l n="d"><unclear>s</unclear>thāpayām āsa so <supplied reason="subaudible">'</supplied>dhikaḥ <g type="ddandaPlain">.</g><g type="spiralR">.</g><g type="ddandaPlain">.</g></l>
            </lg>
            <p><milestone type="pagelike" unit="face" n="B"/>
-           <lb n="B1"/><supplied reason="lost">ma</supplied>dā pu lyam̃ śrī yuvarāja mahāsenāpati yam̃<lb
+           <lb n="B1"/><supplied reason="lost">ma</supplied>dā pu-lyam̃ śrī yuvarāja mahāsenāpati yam̃<lb
            n="B2" break="no"/>ṅ· kumvan· yām̃ po ku parameśvaravarmmadeva du<lb
            n="B3" break="no"/><unclear>na</unclear>n· trā kevala-dharmma dauk· rajan· puṇyadāna ṅan·
            <lb n="B4"/>hitāhi<unclear>ta</unclear>vastu kam̃n· bhāva ni<unclear>m̃</unclear> sadākāla dunan· tum̃ sarvvaśāstrā<lb
-           n="B5" break="no"/>gama sidaḥ śaiva-saugata-siddhānta-kulā<unclear>vdhi</unclear> madunan· kevala
+           n="B5" break="no"/>gama sidaḥ śaiva-saugata-siddhānta-kulā<unclear>vdhi</unclear>ma dunan· kevala
            <lb n="B6"/>d<unclear>au</unclear>k· rajan· guru-bhakti ṅan· śiva-bhakti maddan· yoga-dhyāna-samā<lb
            n="B7" break="no"/>dhi Upak· vela Udā<unclear>sī</unclear>na suhetu <unclear>du</unclear>nan<unclear>·</unclear> kmaiṅ· ya<lb 
 	    n="B8" break="no"/>śa dauk· palavvīk· di loka <unclear>nim̃ t</unclear>ra
@@ -129,20 +129,20 @@
                  <lem>n<choice><sic>ra</sic><corr>r̥</corr></choice>pater</lem>
                  <rdg source="bib:Schweyer2009_01">nr̥pater</rdg>
                  </app>
-                 <app loc="A3">
+                 <!--<app loc="A3">
                  <lem>supr̥thagbhāvādikarmmodyamaḥ</lem>
                  <rdg source="bib:Schweyer2009_01">supr̥thag bhāvādi karmmo dyamaḥ</rdg>
-                 </app>
+                 </app>-->
                  <app loc="A4">
                  <lem>nānādānamakhotsavas</lem>
                  <rdg source="bib:Schweyer2009_01">nānādānamalotsavas</rdg>
                  <note>With note indicating that one would have to read <foreign>mahotsavas</foreign>; being based on a wrong reading, we may forget this proposal.</note>
                  </app>
-                 <app loc="A4">
+                <!-- <app loc="A4">
                  <lem>śiva<unclear>sth</unclear><supplied reason="lost">e</supplied></lem>
                  <rdg source="bib:Schweyer2009_01">śiva<gap reason="lost" quantity="1" unit="character"/></rdg>
-                 </app>
-                 <app loc="A5">
+                 </app>-->
+                 <!--<app loc="A5">
                  <lem>padāny apy ātmānam</lem>
                  <rdg source="bib:Schweyer2009_01">sadānyapyātmānam</rdg>
                  </app>
@@ -159,7 +159,7 @@
                  <app loc="A6">
                  <lem>karaśelavilair</lem>
                  <rdg source="bib:Schweyer2009_01">karaśailavilair</rdg>
-                 <note>It is possible that the little stroke below the vocalization of what we read as śe is indeed intended to make it <foreign>śai</foreign>, in which case it would have to be noted how differently the two cases of ai-vocalization in this compound have been written. We prefer to assume the mentioned little stroke is accidental, and to observe the inconsistency of orthography rather than of the shape of signs.</note>
+                 <note>It is possible that the little stroke below the vocalization of what we read as <foreign>śe</foreign> is indeed intended to make it <foreign>śai</foreign>, in which case it would have to be noted how differently the two cases of ai-vocalization in this compound have been written. We prefer to assume the mentioned little stroke is accidental, and to observe the inconsistency of orthography rather than of the shape of signs.</note>
                  </app>
                  <app loc="B1">
                  <lem>yam̃ṅ·</lem>
@@ -168,13 +168,13 @@
                  <app loc="B4">
                  <lem>bhāva ni<unclear>m̃</unclear></lem>
                  <rdg source="bib:Schweyer2009_01">bhāvani</rdg>
-                 </app>
+                 </app>-->
                  <app loc="B5">
                  <lem>-kulā<unclear>vdhi</unclear>ma</lem>
                  <rdg source="bib:Schweyer2009_01"><unclear>kulāgdhima</unclear></rdg>
                  <note>Read -<foreign>kulāgama</foreign> or -<foreign>kulāvdhimada</foreign>?</note>
                  </app>
-                 <app loc="B7">
+                 <!--<app loc="B7">
                  <lem>Upak</lem>
                  <rdg source="bib:Schweyer2009_01">ra pak</rdg>
                  </app>
@@ -200,23 +200,23 @@
                  <rdg source="bib:Schweyer2009_01">kaya</rdg>
                  </app>
                  <app loc="B9">
-                 <lem>Ajarā maraṇa kaivalya</lem>
+                 <lem>Ajarāmaraṇa kaivalya</lem>
                  <rdg source="bib:Schweyer2009_01"><gap reason="lost" quantity="1" unit="character"/> jārāparaṇa kevala<g type="ddandaPlain">.</g></rdg>
                  </app>
                  <app loc="C1">
-                 <lem>nirvvikāraparamānandana</lem>
+                 <lem>nirvvikāra paramānandana</lem>
                  <rdg source="bib:Schweyer2009_01"><unclear>nirvvitā ra pamo</unclear>nandana</rdg>
                  </app>
                  <app loc="C3">
                  <lem>Udāsīna sā</lem>
                  <rdg source="bib:Schweyer2009_01"><gap reason="lost" quantity="1" unit="character"/>dāsīna ha</rdg>
-                 </app>
+                 </app>-->
                  <app loc="C9">
                  <lem>tapasmī</lem>
                  <rdg source="bib:Schweyer2009_01">tapasvī</rdg>
                  <note>The intended meaning is no doubt <foreign>tapasvī</foreign>, but the stone clearly reads <foreign>tapasmī</foreign>.</note>
                  </app>
-                 <app loc="C9">
+                <!-- <app loc="C9">
                  <lem>bhikṣu</lem>
                  <rdg source="bib:Schweyer2009_01">bhiksu</rdg>
                  </app>
@@ -227,35 +227,35 @@
                  <app loc="D1">
                  <lem>vijai</lem>
                  <rdg source="bib:Schweyer2009_01">vije</rdg>
-                 </app>
+                 </app>-->
                  <app loc="D3">
                  <lem><num value="972">972</num></lem>
                  <rdg source="bib:Schweyer2009_01"><num value="279">279</num></rdg>
-                 <note>The fact that AVS misrepresents the order of the numbers also in her edition of C. 156 in the same article suggests this is no accident.</note>
+                 <note>The fact that Schweyer misrepresents the order of the numbers also in her edition of C. 156 in the same article suggests this is no accident.</note>
                  </app>
-                 <app loc="D3">
+                 <!--<app loc="D3">
                  <lem>pratiṣṭhā</lem>
                  <rdg source="bib:Schweyer2009_01">pratiṣṭā</rdg>
-                 </app>
+                 </app>-->
                  <app loc="D4">
                  <lem>nan·vvana</lem>
                  <rdg source="bib:Schweyer2009_01">nanvvan</rdg>
                  <note>The word <foreign>navvan</foreign> occurs several times in the corpus. We seem to have a spelling mistake for that word.</note>
                  </app>
-                 <app loc="D5">
+                 <!--<app loc="D5">
                  <lem>sāna ya</lem>
                  <rdg source="bib:Schweyer2009_01">sānaya</rdg>
                  </app>
                  <app loc="D5">
                  <lem>mahāsenāpati</lem>
                  <rdg source="bib:Schweyer2009_01">mahāsenāpatī</rdg>
-                 </app>
+                 </app>-->
                  <app loc="D5">
                  <lem>na<supplied reason="lost">n·</supplied> ṅan· hr̥ rūpa sukūla</lem>
                  <rdg source="bib:Schweyer2009_01">na <gap reason="lost" quantity="4" unit="character"/> pa su kūla</rdg>
                  <note>Understand <foreign>hr̥</foreign> as <foreign>hrī</foreign>, <foreign>sukūla</foreign> as <foreign>sukula</foreign>.</note>
                  </app>
-                 <app loc="D6">
+                 <!--<app loc="D6">
                  <lem>tyāga karuṇā pa<gap reason="lost" quantity="1" unit="character"/></lem>
                  <rdg source="bib:Schweyer2009_01">tyāga <gap reason="lost" quantity="5" unit="character"/></rdg>
                  </app>
@@ -266,17 +266,20 @@
                  <app loc="D7">
                  <lem>śilapaḥ <space/> <g type="dandaPlain">.</g> kāla</lem>
                  <rdg source="bib:Schweyer2009_01">sila <gap reason="lost" quantity="3" unit="character"/> pa <gap reason="lost" quantity="4" unit="character"/> kāla</rdg>
-                 <note>Inspection of the stone suggests that no <foreign>akṣaras</foreign> were ever written where AVS supposes lacunae.</note>
+                 <note>Inspection of the stone suggests that no <foreign>akṣara</foreign>s were ever written where AVS supposes lacunae.</note>
                  </app>
                  <app loc="D8">
                  <lem>ri phap· drim̃ ṅan·</lem>
                  <rdg source="bib:Schweyer2009_01">di <gap reason="lost" quantity="1" unit="character"/>p· drĭ <gap reason="lost"/></rdg>
-                 </app>
+                 </app>-->
                </listApp>
          </div>
          <div type="translation" resp="part:argr part:sapi">
  	<p rend="stanza" n="1">That king Śrī Parameśvara's sister's son, simply called Śrī Yuvarāja, endowed with good qualities, whose foremost zeal in action <supplied reason="explanation"><foreign>ādikarmodyama</foreign></supplied> is for full deliverance <supplied reason="explanation"><foreign>sur̥thagbhāva</foreign></supplied>, who organizes a variety of donations, sacrifices and festivals — he furthermore attains levels in the auspicious <foreign>yoga</foreign> that resides in Śiva, and beyond that the Self, in his mind characterized <supplied reason="subaudible">only</supplied> by Sat<supplied reason="subaudible">tva</supplied>.</p>
 	<p rend="stanza" n="2">When the Śaka-king was connected with <supplied reason="explanation">2</supplied> hands, <supplied reason="explanation">7</supplied> mountains and <supplied reason="explanation">9</supplied> orifices <supplied reason="explanation">i.e., in 972 Śaka</supplied>, that excellent one properly installed a stable landmark <supplied reason="explanation"><foreign>liṅga</foreign></supplied>, made of stone, for glory.</p>
+	<p>There was a prince, heir apparent, great general, who was nephew of his majesty Parameśvaravarmadeva. And he, solely focused on <foreign>dharma</foreign>, was busy carrying out meritorious donations ...
+</p>
+
          </div>
          <div type="commentary">
             <p n="C10">Inspection of the stone shows that no sign is missing at the beginning of this lign, but that an irregularity of the stone explains the shift of the margin.</p>

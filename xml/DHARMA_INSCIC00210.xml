@@ -72,57 +72,57 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+              <change who="part:argr" when="2026-04-03" status="draft">revision of the encoding</change>
               <change who="part:sapi" when="2021-08-23" status="draft">Initial encoding of the inscription</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
-           <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A01"/><g type="ddandaPlain"/><g type="circleConcentricOval"/><g type="ddandaPlain"/> svasti<g type="ddandaPlain"/><g type="circleConcentricOval"/><g type="ddandaPlain"/></ab>
-           <lg n="1" met="śārdūlavikrīḍita">
-             <l n="a"><lb n="A1"/>tasya śrī parameśvarasya n<choice><sic>ra</sic><corr>r̥</corr></choice><lb n="A2"/>pater<!--Ici j'ai modifié le rtf et l'édition. Il y était inscrit directement nr̥pater alors qu'ici je lis plutôt un -ra souscrit qu'il faudrait corrigé en -r̥--> bbhrātrīsutas sadguṇī </l>
-             <l n="b">nāmnā śrī yu<lb n="A3"/>varāja Eva supr̥thagbhāvādikarmmodyamaḥ</l>
-             <l n="c">nā<lb n="A4"/>nādānamakhotsavas tv api śive yoge śiva<lb n="A5"/><unclear>sth</unclear><supplied reason="lost">e</supplied> padāny</l>
-             <l n="d">apy ātmānam ayan tato dhikataras so <lb n="A6"/>śnoti sanmānase<g type="ddandaPlain">.</g><g type="spiralR">.</g><g type="ddandaPlain">.</g></l>
+         <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83213">
+           <ab xml:lang="san-Latn"><milestone type="pagelike" unit="face" n="A"/><lb n="A01"/><g type="ddandaPlain"/><g type="circleConcentricOval"/><g type="ddandaPlain"/> svasti<g type="ddandaPlain"/><g type="circleConcentricOval"/><g type="ddandaPlain"/></ab>
+           <lg n="1" met="śārdūlavikrīḍita" xml:lang="san-Latn">
+             <l n="a"><lb n="A1"/>tasya śrī parameśvarasya n<choice><sic>ra</sic><corr>r̥</corr></choice><lb n="A2"/>pater<!--Ici j'ai modifié le rtf et l'édition. Il y était inscrit directement nr̥pater alors qu'ici je lis plutôt un -ra souscrit qu'il faudrait corrigé en -r̥--> bbhrātrī-sutas sad-guṇī </l>
+             <l n="b">nāmnā śrī yu<lb n="A3" break="no"/>va-rāja Eva su-pr̥thag-bhāvādi-karmmodyamaḥ</l>
+             <l n="c">nā<lb n="A4" break="no"/>nā-dāna-makhotsavas tv api śive yoge śiva<lb n="A5" break="no"/>-<unclear>sth</unclear><supplied reason="lost">e</supplied> padāny</l>
+             <l n="d">apy ātmānam ayan tato <supplied reason="subaudible">'</supplied>dhikataras so <lb n="A6"/><supplied reason="subaudible">'</supplied>śnoti san-mānase <g type="ddandaPlain">.</g><g type="spiralR">.</g><g type="ddandaPlain">.</g></l>
            </lg>
-           <lg n="2" met="anuṣṭubh">
-             <l n="a">karaśelavilair yyu<lb n="A7" break="no"/>kte</l>
-             <l n="b">śakarāje śilāmayam·</l>
+           <lg n="2" met="anuṣṭubh" xml:lang="san-Latn">
+             <l n="a">kara-śela-vilair yyu<lb n="A7" break="no"/>kte</l>
+             <l n="b">śaka-rāje śilāmayam·</l>
              <l n="c">liṅgaṁ sustham araṅ kī<lb n="A8" break="no"/>rttyai</l>
-             <l n="d"><unclear>s</unclear>thāpayām āsa so dhikaḥ<g type="ddandaPlain">.</g><g type="spiralR">.</g><g type="ddandaPlain">.</g></l>
+             <l n="d"><unclear>s</unclear>thāpayām āsa so <supplied reason="subaudible">'</supplied>dhikaḥ <g type="ddandaPlain">.</g><g type="spiralR">.</g><g type="ddandaPlain">.</g></l>
            </lg>
-           <p xml:lang="ocm-Latn"><milestone type="pagelike" unit="face" n="B"/>
+           <p><milestone type="pagelike" unit="face" n="B"/>
            <lb n="B1"/><supplied reason="lost">ma</supplied>dā pu lyam̃ śrī yuvarāja mahāsenāpati yam̃<lb
            n="B2" break="no"/>ṅ· kumvan· yām̃ po ku parameśvaravarmmadeva du<lb
-           n="B3" break="no"/><unclear>na</unclear>n· trā kevaladharmma dauk· rajan· puṇyadāna ṅan·
+           n="B3" break="no"/><unclear>na</unclear>n· trā kevala-dharmma dauk· rajan· puṇyadāna ṅan·
            <lb n="B4"/>hitāhi<unclear>ta</unclear>vastu kam̃n· bhāva ni<unclear>m̃</unclear> sadākāla dunan· tum̃ sarvvaśāstrā<lb
-           n="B5" break="no"/>gama sidaḥ śaivasaugatasiddhāntakulā<unclear>vdhi</unclear>ma dunan· kevala
-           <lb n="B6"/>d<unclear>au</unclear>k· rajan· gurubhakti ṅan· śivabhakti maddan· yogadhyānasamā<lb
-           n="B7" break="no"/>dhi Upak· vela Udā<unclear>sī</unclear>na suhetu <unclear>du</unclear>nan<unclear>·</unclear> kmaiṅ· ya
-           <lb n="B8"/> śa dauk· palavvīk· di loka <unclear>nim̃ t</unclear>ra
-           <lb n="B9"/>dunan· makmaim̃ nīrvvāṇapada <choice><unclear>ta</unclear><unclear>ku</unclear></choice> yam̃ Ajarā maraṇa kaivalya<milestone type="pagelike" unit="face" n="C"/>
+           n="B5" break="no"/>gama sidaḥ śaiva-saugata-siddhānta-kulā<unclear>vdhi</unclear> madunan· kevala
+           <lb n="B6"/>d<unclear>au</unclear>k· rajan· guru-bhakti ṅan· śiva-bhakti maddan· yoga-dhyāna-samā<lb
+           n="B7" break="no"/>dhi Upak· vela Udā<unclear>sī</unclear>na suhetu <unclear>du</unclear>nan<unclear>·</unclear> kmaiṅ· ya<lb 
+	    n="B8" break="no"/>śa dauk· palavvīk· di loka <unclear>nim̃ t</unclear>ra
+           <lb n="B9"/>dunan· makmaim̃ nīrvvāṇa-pada <choice><unclear>ta</unclear><unclear>ku</unclear></choice> yam̃ Ajarāmaraṇa kaivalya<milestone type="pagelike" unit="face" n="C"/>
            <lb n="C1"/>nirvvikāra paramānandana niṣprapañca si jem̃ dunan·
            <lb n="C2"/>Utsāha dauk· di vastu nan· sadākāla Upak· vela
            <lb n="C3"/>Udāsīna sā nimiśamātra mam̃n· la Oḥ suhetu Urām̃ panrām̃
            <lb n="C4"/>nim̃ ñu Adhama paputau Urām̃ di nagara nim̃ si jem̃ ra vā
            <lb n="C5"/>vala marai mak· tmuv· nagara niy· niśśeṣa Aviḥ mam̃n·
            <lb n="C6"/>ra pratiṣṭhā liṅga jayastambha dvā niy· di A<lb
-           n="C7"/>jvañ· sauy· tra di huluv· glai cnyā la<lb
-           n="C8" break="no"/>c· Uttarabhāga deḥ bharuv· ra vriy·
+           n="C7" break="no"/>jvañ· sauy· tra di huluv· glai cnyā la<lb
+           n="C8" break="no"/>c· Uttara-bhāga deḥ bharuv· ra vriy·
            <lb n="C9"/>dāna kam̃n· brāhmaṇa tapasmī bhikṣu
-           <lb n="C10"/>ṅan· hīnadīnānātha Avista<milestone type="pagelike" unit="face" n="D"/>
+           <lb n="C10"/>ṅan· hīna-dīnā-nātha Avista <milestone type="pagelike" unit="face" n="D"/>
            <lb n="D1"/>bharuv· ra vrok· nau vijai
-           <lb n="D2"/>di huriy· sapluḥ dvā klaṁ vulān· pā<lb
+           <lb n="D2"/>di huriy· sa pluḥ dvā klaṁ vulān· pā<lb
            n="D3" break="no"/>k· di śakarāja <num value="972">972</num> kāla ra prati<lb
-           n="D4" break="no"/>ṣṭhā liṅga niy·<g type="ddandaPlain">.</g><g type="spiralR">.</g><g type="ddandaPlain">.</g>
+           n="D4" break="no"/>ṣṭhā liṅga niy· <g type="ddandaPlain">.</g><g type="spiralR">.</g><g type="ddandaPlain">.</g>
            </p>
-           <p xml:lang="ocm-Latn">
-             nan·vvana śrī yuva<lb
+           <p>nan· vvana śrī yuva<lb
              n="D5" break="no"/>rāja sāna ya mahāsenāpati kāla na<supplied reason="lost">n·</supplied><!--sapi2argr J'ai transcrit le n_ par n· sans certitude.-->
              <lb n="D6"/>ṅan· hr̥ rūpa sukūla tyāga karuṇā pa<gap reason="lost" quantity="1" unit="character"/><!--sapi2argr Ici j'ai modifié dans le rtf et dans l'édition la fin de la ligne. Originellement il y était proposé pa-, mais je crois distinguer un morceau de caractère après le pa.-->
-             <lb n="D7"/><gap reason="lost" quantity="2" unit="character"/> pi <gap reason="lost" quantity="1" unit="character"/> yogadhyānasamādhi śila<lb
+             <lb n="D7"/><gap reason="lost" quantity="2" unit="character"/> pi <gap reason="lost" quantity="1" unit="character"/> yoga-dhyāna-samādhi śila<lb
              n="D8" break="no"/>paḥ <space/> <g type="dandaPlain">.</g> kāla ri phap· drim̃ ṅan·
-             <lb n="D9"/>ma <gap reason="lost" quantity="2" unit="character" precision="low"/> vyalī yaśa <gap reason="lost" quantity="1" unit="character"/>raive bo<lb
+             <lb n="D9"/>ma<gap reason="lost" quantity="2" unit="character" precision="low"/> vyalī yaśa <gap reason="lost" quantity="1" unit="character"/>raive bo<lb
              n="D10" break="no"/>dhisa<unclear>t</unclear><supplied reason="lost">v</supplied>a na mam̃n· <supplied reason="lost"><g type="ddandaPlain">.</g></supplied><g type="circleConcentricOval">.</g><g type="ddandaPlain">.</g>
            </p>
          </div>
@@ -295,7 +295,7 @@
        </listBibl>
             <listBibl type="secondary">
               <bibl>
-                <ptr target="bib:Jacques1975-1976_01"/><!--sapi2argrJe l'ai ajouté mais ne suis pas sûre qu'il la mentionne dans l'article. En tout cas je ne la vois pas.-->
+                <ptr target="bib:Jacques1975-1976_01"/><!--sapi2argr Je l'ai ajouté mais ne suis pas sûre qu'il la mentionne dans l'article. En tout cas je ne la vois pas.-->
                 <citedRange unit="page">948-953</citedRange>
               </bibl>
               <bibl>

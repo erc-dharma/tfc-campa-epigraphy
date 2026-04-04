@@ -81,12 +81,12 @@
 <l n="a">śrīmāñ chrī-parameśvaro narapatir nnānā-kalaikālayo</l>
 <l n="b">dharme<lb n="A2" break="no"/>ddho vala-vīryya-kīrtti-paramaḥ san sārvva-bhaumaḥ kr̥tī</l>
 <l n="c">jitvā pāpaka-pāṇḍuraṅga-nr̥-gaṇān hastādri-randhre śake</l>
-<l n="d">senā<lb n="A4" break="no"/>-sāṅkhya-kr̥tau śilācayam imaṁ sam̃sthāpayām āsa vai <g type="ddanda"/> <g type="spiralR"/> <g type="ddanda"/></l>
+<l n="d">senā<lb n="A3" break="no"/>-sāṅkhya-kr̥tau śilācayam imaṁ sam̃sthāpayām āsa vai <g type="ddanda"/> <g type="spiralR"/> <g type="ddanda"/></l>
 </lg>
 
-<p>sidaḥ Urām̃ pāṇḍuraṅga niy· kintu sadākāla mūrkha <seg rend="check">dā ya jhā</seg>k·<!-- mūrkhadāyabhāk·? mūrkhanāyabhāk·? -->
-<lb n="A4"/>buddhi pāpakarmma mam̃n· <seg rend="check">sā</seg> Artha nan· Urām̃ pāṇḍuraṅga nim̃ <seg rend="check">kā lo vvāra </seg>clam̃ṅ· Adhama kam̃n· pu pom̃ tana rayā nagara campa dadam̃n· dadam̃n· rāja marai <seg rend="check">tra | na vai</seg>
-<lb n="A5"/>yām̃ po ku śrī parameśvaravarmmadeva ya tuvuḥ yām̃ pu-po ku parameśvara sakala kā putau jem̃ pu-pom̃ drim̃ tathāpi <seg rend="check">la</seg><!-- ya? --> Urām̃ pāṇḍuraṅga nim̃ nau pāpa-ka<lb 
+<p>sidaḥ Urām̃ pāṇḍuraṅga niy· kintu sadākāla mūrkha baya jhāk·<!-- under bayar, A&C record baya soek, where soek seems to be a transcription of jhāk; the expression is reminiscent of balas dendam in Malay -->
+<lb n="A4"/>buddhi pāpakarmma mam̃n· sā Artha nan· Urām̃ pāṇḍuraṅga nim̃ kā lo vvāra clam̃ṅ· Adhama kam̃n· pu-pom̃ tana rayā nagara campa dadam̃n· dadam̃n· rāja marai tra <g type="danda">.</g> navai
+<lb n="A5"/>yām̃ po ku śrī parameśvaravarmmadeva ya tuvuḥ yām̃ pu-po ku parameśvara sakala kā putau jem̃ pu-pom̃ drim̃ tathāpi laṁ Urām̃ pāṇḍuraṅga nim̃ nau pāpa-ka<lb 
 n="A6" break="no"/>rmma pavaṅun· drim̃ dāk·<!-- jāk·? --> <seg rend="check">sā</seg> dā ya<!-- cf. the sequence at the end of A3 --> paputau ra kam̃n· di nagara nim̃ rim̃ nan· pi<!-- si? --> jem̃ yām̃ po ku śrī parameśvaravarmmadeva ra vā vala Udyāna marai paliṅyak· nagara nim̃ ka rim̃<!-- narim̃ -->
 <lb n="A7"/>nan· ra vrim̃ vala nau tūy· mak· Urām̃ pāṇḍuraṅga nim̃ di dadam̃n· vivara sthāna <seg rend="check">hu</seg>tān· ya vyūha ṅan· di dadam̃n· śikhara parvvata huluv· glai ya jlauṅ·<!-- glauṅ --> Aviḥ
 
@@ -103,9 +103,10 @@ n="B4" break="no"/>hna Ājñā yām̃ po ku śrī parameśvaravarmmadeva ganim̃
                      <rdg source="bib:Finot1909_01">sarvva-</rdg>
                   </app>
 <app loc="A4">
-<lem>saṁsthāpayām</lem>
+<lem>sam̃sthāpayām</lem>
 <rdg source="bib:Finot1909_01">saṅthāpayām</rdg>
 </app>
+<app loc="A3"><lem>baya</lem><rdg source="bib:Finot1909_01">dāya</rdg></app><!-- under bayar, A&C record baya soek, where soek seems to be a transcription of jhāk; the expression is reminiscent of balas dendam in Malay -->
 <app loc="A4">
 <lem>sā</lem>
 <rdg source="bib:Finot1909_01">ha</rdg>
@@ -113,6 +114,10 @@ n="B4" break="no"/>hna Ājñā yām̃ po ku śrī parameśvaravarmmadeva ganim̃
 <app loc="A5">
 	<lem>yām̃ pu-po ku</lem>
 <rdg source="bib:Finot1909_01">yāṅ po ku</rdg>
+</app>
+<app loc="A5">
+	<lem>laṁ</lem>
+<rdg source="bib:Finot1909_01">la</rdg>
 </app>
 <app loc="A6">
 <lem>sā</lem>

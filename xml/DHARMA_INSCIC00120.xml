@@ -10,16 +10,9 @@
             <titleStmt>
             	<title>Rock on hilltop near Po Klaong Garai (C. 120), 972 Śaka</title>
             	<respStmt>
-            		<resp>EpiDoc Encoding</resp>
+            		<resp>author of digital edition</resp>
             		<persName ref="part:argr">
             			<forename>Arlo</forename><surname>Griffiths</surname>
-            		</persName>
-            	</respStmt>
-            	<respStmt>
-            		<resp>intellectual authorship of edition</resp>
-            		<persName ref="part:argr">
-            			<forename>Arlo</forename>
-            			<surname>Griffiths</surname>
             		</persName>
             	</respStmt>
             </titleStmt>
@@ -34,10 +27,10 @@
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
+                        <p>Copyright (c) 2019-2026 by Arlo Griffiths.</p>
                     </licence>
                 </availability>
-                <date from="2019" to="2025">2019-2025</date>
+                <date from="2019" to="2026">2019-2026</date>
             </publicationStmt>
             <sourceDesc><!-- only the handDesc can be filled in at this stage -->
                 <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
@@ -76,6 +69,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+        	<change who="part:argr" when="2026-04-04">resumed encoding the inscription</change>
         	<change who="part:argr" when="2024-04-24">started encoding the inscription</change>
         </revisionDesc>
     </teiHeader>
@@ -102,7 +96,7 @@
 
 <lg n="3" met="śārdūlavikrīḍita" xml:lang="san-Latn">
 <l n="a"><seg rend="check">rāj<supplied reason="omitted">ñ</supplied>aś</seg> śrī-parameśvarasya mahataḥ putro <supplied reason="subaudible">'</supplied>nujāyā jayī</l>
-<l n="b">tyāgī śīla-guṇānvitas sutanu-mānsa-svāpateyo mahān· <g type="danda">.</g></l>
+<l n="b">tyāgī śīla-guṇānvitas sutanu-<seg rend="check">mānsa</seg>-svāpateyo mahān· <g type="danda">.</g></l>
 <l n="c">śuddhendu-dyutivad-yaśobhi<lb n="B2" break="no"/>r aniśaṁ pradyotitāśo raṇe</l>
 <l n="d">dāne śūrataro rarāja satataṁ śrī-devarājodbhutam· <g type="ddanda">.</g></l>
 </lg>

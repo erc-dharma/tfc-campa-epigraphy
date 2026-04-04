@@ -10,16 +10,9 @@
             <titleStmt>
             	<title>Rock on hilltop inside Linh Sơn pagoda near Po Klaong Garai (C. 119), 972 Śaka</title>
             	<respStmt>
-            		<resp>EpiDoc Encoding</resp>
+            		<resp>author of digital edition</resp>
             		<persName ref="part:argr">
             			<forename>Arlo</forename><surname>Griffiths</surname>
-            		</persName>
-            	</respStmt>
-            	<respStmt>
-            		<resp>intellectual authorship of edition</resp>
-            		<persName ref="part:argr">
-            			<forename>Arlo</forename>
-            			<surname>Griffiths</surname>
             		</persName>
             	</respStmt>
             </titleStmt>
@@ -34,10 +27,10 @@
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
+                        <p>Copyright (c) 2019-2026 by Arlo Griffiths.</p>
                     </licence>
                 </availability>
-                <date from="2019" to="2025">2019-2025</date>
+                <date from="2019" to="2026">2019-2026</date>
             </publicationStmt>
             <sourceDesc><!-- only the handDesc can be filled in at this stage -->
                 <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
@@ -76,19 +69,21 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+        	<change who="part:argr" when="2026-04-04">resumed encoding the inscription, autopsy of the stone</change>
         	<change who="part:argr" when="2024-04-23">started encoding the inscription</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83213">
-            <ab><milestone type="pagelike" unit="face" n="A"/><label>Left</label><lb n="A1"/><g type="spiralR"/> svasti <g type="danda">.</g></ab>
+            <ab><milestone type="pagelike" unit="face" n="A"/><label>Left</label><lb n="A1"/><g type="spiralR"/> svasti <g type="ddanda">.</g></ab>
 <lg n="1" met="śārdūlavikrīḍita" xml:lang="san-Latn">
 <l n="a">śrīmāñ chrī-parameśvaro narapatir nnānā-kalaikālayo</l>
 <l n="b">dharme<lb n="A2" break="no"/>ddho vala-vīryya-kīrtti-paramaḥ san sārvva-bhaumaḥ kr̥tī</l>
 <l n="c">jitvā pāpaka-pāṇḍuraṅga-nr̥-gaṇān hastādri-randhre śake</l>
-<l n="d">senā<lb n="A4" break="no"/>-sā<seg rend="check">ṅkhya</seg>kr̥tau śilācayam imaṁ saṁsthāpayām āsa vai <g type="danda"/> <g type="spiralR"/> <g type="danda"/></l>
+<l n="d">senā<lb n="A4" break="no"/>-sāṅkhya-kr̥tau śilācayam imaṁ sam̃sthāpayām āsa vai <g type="ddanda"/> <g type="spiralR"/> <g type="ddanda"/></l>
 </lg>
+
 <p>sidaḥ Urām̃ pāṇḍuraṅga niy· kintu sadākāla mūrkha <seg rend="check">dā ya jhā</seg>k·<!-- mūrkhadāyabhāk·? mūrkhanāyabhāk·? -->
 <lb n="A4"/>buddhi pāpakarmma mam̃n· <seg rend="check">sā</seg> Artha nan· Urām̃ pāṇḍuraṅga nim̃ <seg rend="check">kā lo vvāra </seg>clam̃ṅ· Adhama kam̃n· pu pom̃ tana rayā nagara campa dadam̃n· dadam̃n· rāja marai <seg rend="check">tra | na vai</seg>
 <lb n="A5"/>yām̃ po ku śrī parameśvaravarmmadeva ya tuvuḥ yām̃ pu-po ku parameśvara sakala kā putau jem̃ pu-pom̃ drim̃ tathāpi <seg rend="check">la</seg><!-- ya? --> Urām̃ pāṇḍuraṅga nim̃ nau pāpa-ka<lb 

@@ -8,31 +8,13 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Pedestal at Mỹ Sơn</title>
+         	<title>Pedestal in Mỹ Sơn group A (C. 80), 7th century CE</title>
             <respStmt>
-               <resp>EpiDoc Encoding</resp>
-               <persName ref="part:sapi">
-                  <forename>Salomé</forename>
-                  <surname>Pichon</surname>
-               </persName>
-            </respStmt>
-            <respStmt>
-               <resp>intellectual authorship of edition</resp>
-               <persName ref="part:argr">
-                  <forename>Arlo</forename>
-                  <surname>Griffths</surname>
-               </persName>
-               <persName ref="part:sapi">
-                  <forename>Salomé</forename>
-                  <surname>Pichon</surname>
-               </persName>
-            </respStmt>
-            <respStmt>
-               <resp>Conversion of encoding for DHARMA</resp>
-               <persName ref="part:sapi">
-                  <forename>Salomé</forename>
-                  <surname>Pichon</surname>
-               </persName>
+            	<resp>author of digital edition</resp>
+            	<persName ref="part:argr">
+            		<forename>Arlo</forename>
+            		<surname>Griffths</surname>
+            	</persName>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -46,10 +28,10 @@
                         https://creativecommons.org/licenses/by/4.0/ or send a letter to
                         Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                         California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Arlo Griffiths and Salomé Pichon.</p>
+                  <p>Copyright (c) 2019-2026 by Arlo Griffiths.</p>
                </licence>
             </availability>
-            <date from="2019" to="2025">2019-2025</date>
+            <date from="2019" to="2026">2019-2026</date>
          </publicationStmt>
          <sourceDesc>
             <biblFull>
@@ -125,7 +107,8 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-      	<change when="2021-07-04" who="part:argr" status="draft">Resolved validation problems.</change>
+      		<change when="2026-04-12" who="part:argr" status="draft">Modified teiHeader.</change>
+      		<change when="2021-07-04" who="part:argr" status="draft">Resolved validation problems.</change>
             <change when="2020-09-14" who="part:axja" status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
@@ -142,8 +125,8 @@
 <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:83213">
             <ab>namas suvarṇākṣāya</ab>
             <lg met="anuṣṭubh" n="1">
-               <l n="a">campāvanibhujārcceyaṁ</l> <l n="b">kāñcanī tatvavedinā</l>
-               <l n="c">vikrāntavarmmaṇā bhaktyā</l> <l n="d">sthāpitā pārameśvarī <g>||</g></l>
+               <l n="a">campāvanibhujārcceyaṁ</l> <l n="b">kāñcanī tatva-vedinā</l>
+               <l n="c">vikrāntavarmmaṇā bhaktyā</l> <l n="d">sthāpitā pārameśvarī <g type="ddanda"/></l>
             </lg>
           </div>
 <div type="apparatus">
@@ -158,7 +141,7 @@
 <div type="translation" xml:lang="fra" source="bib:Finot1904_05">
 <p>Hommage au <supplied reason="subaudible">dieu</supplied> aux yeux d'or! Le roi de Campā Vikrāntavarman qui connaît la vérité a érigé pieusement cette statue d'or de Parameśvara.</p></div><div type="commentary"><p>Our translation is essentially the same as those proposed by Finot and Majumdar. The name Suvarṇākṣa (or Svarṇākṣa) occurs both as a sanctuary and as an epithet of Śiva in Indian Sanskrit sources. On its use as the name of a Śaiva sanctuary, see for instance the old <title>Skandapurāṇa</title>, on which, <bibl><ptr target="bib:Bisschop2006_01"/><citedRange unit="page">221</citedRange></bibl>. A myth explaining why Śiva himself came to bear the name, after creating a golden-eyed goddess, is recounted in this text at 9.22-29 (see <bibl><ptr target="bib:Adriaensen+al1998_01"/></bibl>). One might therefore speculate as to whether the statue whose manufacture this inscription records was one of the goddess (Parameśvarī) rather than of Śiva (Parameśvara) himself. Perhaps the incipit makes this less likely.</p></div>
 <div type="bibliography">
-<p/>
+<p>First edited by Finot (<bibl rend="omitname"><ptr target="bib:Finot1904_05"/></bibl>); edited again by Goodall &amp; Griffiths (<bibl rend="omitname"><ptr target="bib:Goodall+Griffiths2013_01"/></bibl>). This digital edition based on the latter, using EFEO estampage n. 2089.</p>
 <listBibl type="primary">
 <bibl n="LF"><ptr target="bib:Finot1904_05"/><citedRange unit="page">929</citedRange></bibl>
 <bibl n="G+G"><ptr target="bib:Goodall+Griffiths2013_01"/><citedRange unit="page">424</citedRange></bibl>

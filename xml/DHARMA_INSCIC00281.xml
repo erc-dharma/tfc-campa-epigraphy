@@ -82,14 +82,12 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:83213">
-           <p>
              <lg n="1" met="anuṣṭubh">
                <l n="a"><lb n="1"/>śrī-śarvvāṇyā mahādevyā</l>
                <l n="b">śārvvaṁ maṇimayaṁ sadā</l>
                <l n="c">yat sva-bhaktyārccita-liṅgaṁ</l>
-               <l n="d">tat stheyād ā bhuvas sthiteḥ<g type="ddandaPlain">.</g></l>
+               <l n="d">tat stheyād ā bhuvas sthiteḥ <g type="ddandaPlain">.</g></l>
              </lg>
-           </p>
          </div>
          <div type="apparatus">
            <listApp>

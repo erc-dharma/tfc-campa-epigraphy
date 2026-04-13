@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-         	<title>Inner face of the Noth doorjamb of the South tower at Po Nagar Temple in Nha Trang (C. 29.3), ca. 1200 Śaka</title>
+         	<title>Inner face of the North doorjamb of the South tower at Po Nagar Temple in Nha Trang (C. 29.3), 13th c. CE</title>
          	<respStmt>
          		<resp>author of digital edition</resp>
          		<persName ref="part:argr">
@@ -84,9 +84,9 @@
             <ab>
 		<lb n="01"/>Oṁ
 		<lb n="02"/>namaś śivāya</ab>
-           <p><lb n="1"/><g type="floretQuatrefoil"/><g type="danda"/> svasti <g type="danda"/> <g type="floretQuatrefoil"/> <g type="danda"/> nī mūla ja padyam̃p ya pvac·
+           <p><lb n="1"/><g type="floretQuatrefoil"/><g type="danda"/> svasti <g type="danda"/> <g type="floretQuatrefoil"/> <g type="danda"/> nī mūla ja padyam̃p· ya pvac·
 <lb n="2"/>sāhasa <g type="danda"/> pu-pom̃ tana rayā Indravarmma pu<lb break="no" 
-n="3"/>-cim̃ śrī harideva Urām̃ śilāvandhavijaya
+n="3"/>-cim̃ śrī harideva Urām̃ śilāvandha vijaya
 <lb n="4"/>vuḥ pak· yām̃ pom̃ ku śrī Indravarmmaśiva<lb break="no" 
 n="5"/>liṅgeśvara <g type="danda"/> śvam̃l· mauk· <space type="defect"/> yām̃ kru<lb break="no" 
 n="6"/>ṇā Inā ja dyam̃p· <num value="3">3</num> drim̃ 
@@ -95,7 +95,12 @@ n="6"/>ṇā Inā ja dyam̃p· <num value="3">3</num> drim̃
 <div type="apparatus"/>
 
         <div type="translation" resp="part:argr">
-	<p>His majesty the ....</p>
+	<p>Om. Homage to Śiva!</p>
+	<p>This is the capital of ja Padyəp who</p>
+	</div>
+ <div type="translation" xml:lang="fre" source="bib:Lepoutre2015_01">
+	<p>Hommage à Śiva.</p>
+	<p>Salut ! Ceci est le capital de <foreign>ja</foreign> Padyam̃p qui a parlé de façon irréfléchie. P.P.T.R. Indravarman, prince Śrī Harideva, homme de Śilāvandha Vijaya, offre au Y.P.K. Śrī Indravarmaśivaliṅgeśvara : La famille de <foreign>mauk</foreign> <gap reason="illegible"/> Y. Kruṇā, la mère de <foreign>ja</foreign> Dyam̃p : 3 personnes</p>
 	</div>
          <div type="commentary"/>
            
@@ -105,11 +110,13 @@ Abel Bergaigne, JA 1888, p. 98, No. 402;
 Etienne Aymonier, JA 1891, p. 59, No. 402 B; 
 Majumdar, pp. 218-219; 
 Schweyer 2005, pp. 108-109; 
+Golzio, pp. 189-190.
 
 Le texte ici constitué suit la lecture de Schweyer, seule à présenter l'inscription dans son entièreté. -->
-<p>.</p>
+<p>Provisional edition by Schweyer; re-edited by Lepoutre. This digital edition based on the latter, using EFEO estampage n. 237.</p>
 	<listBibl type="primary">
 		<bibl><ptr target="bib:Schweyer2005_01"/><citedRange unit="page">108-109</citedRange></bibl>
+		<bibl><ptr target="bib:Lepoutre2015_01"/><citedRange unit="page">133-134</citedRange></bibl>
 	</listBibl>
 	<listBibl type="secondary">
 	

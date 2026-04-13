@@ -10,23 +10,20 @@
             <titleStmt>
                 <title>Northern doorjamb of the exterior door of Po Klaong Girai (C. 9), 12th century Śaka</title>
                 <respStmt>
-                   <resp>EpiDoc Encoding</resp>
+                   <resp>author of digital edition</resp>
+                	<persName ref="part:argr">
+                		<forename>Arlo</forename>
+                		<surname>Griffiths</surname>
+                	</persName>
+                	<persName ref="http://viaf.org/viaf/289845900">
+                		<forename>Amandine</forename>
+                		<surname>Lepoutre</surname>
+                	</persName>
                    <persName ref="part:sapi">
                       <forename>Salomé</forename>
                       <surname>Pichon</surname>
                    </persName>
                 </respStmt>
-                <respStmt>
-                  <resp>intellectual authorship of edition</resp>
-                  <persName ref="part:argr">
-                     <forename>Arlo</forename>
-                     <surname>Griffiths</surname>
-                  </persName>
-                  <persName ref="http://viaf.org/viaf/289845900">
-                     <forename>Amandine</forename>
-                     <surname>Lepoutre</surname>
-                  </persName>
-               </respStmt>
             </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
@@ -39,10 +36,10 @@
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Arlo Griffiths and Amandine Lepoutre.</p>
+                        <p>Copyright (c) 2019-2026 by Arlo Griffiths &amp; Amandine Lepoutre.</p>
                     </licence>
                 </availability>
-                <date from="2019" to="2025">2019-2025</date>
+                <date from="2019" to="2026">2019-2026</date>
             </publicationStmt>
             <sourceDesc><!-- only the handDesc can be filled in at this stage -->
                 <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
@@ -76,8 +73,9 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:sapi" when="2024-06-10" status="draft">Started initial encoding of the inscription</change>
+            <change who="part:argr" when="2026-04-13" status="draft">Modified teiHeader and resolved validation problems</change>
             <change who="part:sapi" when="2024-06-10" status="draft">Finished initial encoding of the inscription and adding translation and bibliography</change>
+            <change who="part:sapi" when="2024-06-10" status="draft">Started initial encoding of the inscription</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
@@ -143,7 +141,7 @@
            <p>sā sthā
            <lb n="B8" break="no"/>na trā di parīk· Anan· humā ranok· prathama di Ī
            <lb n="B9" break="no"/>śāna vik· pyā glai nau dakṣiṇa raḥ glai dalvan· ravaum̃ tam̃
-           <lb n="B1O" break="no"/>l· h<supplied reason="lost">u</supplied>mā nagara nau paścima sā Āra sauṅ· humā
+           <lb n="B10" break="no"/>l· h<supplied reason="lost">u</supplied>mā nagara nau paścima sā Āra sauṅ· humā
            <lb n="B11"/>nagara nau Uttara sā Āra saum̃ humā nagara nau pū
            <lb n="B12"/>rvva sā Āra saum̃ humā nagara nau Uttara mvyak· nau
            <lb n="B13"/>pūrvva mvyak· nau Uttara sā Āra saum̃ humā nagara nau pū
@@ -254,7 +252,7 @@
                    </app>
                    <app loc="A30">
                        <lem>gamvauṅ·</lem>
-                       <rdg source="Aymonier1891_01">gamvoṅ</rdg>
+                       <rdg source="bib:Aymonier1891_01">gamvoṅ</rdg>
                    </app>
                    <app loc="A35">
                        <lem>vik· jalān·</lem>
@@ -266,7 +264,7 @@
                    </app>
                    <app loc="B2">
                        <lem>janam̃ḥ</lem>
-                       <rdg source="Aymonier1891_01">janaḥ</rdg>
+                       <rdg source="bib:Aymonier1891_01">janaḥ</rdg>
                    </app>
                    <app loc="B4">
                        <lem>saum̃</lem>
@@ -274,7 +272,7 @@
                    </app>
                    <app loc="B10">
                        <lem>h<supplied reason="lost">u</supplied>mā</lem>
-                       <rdg source="Griffiths+Lepoutre2016_01">h<supplied reason="lost">u</supplied><unclear>mā</unclear></rdg>
+                       <rdg source="bib:Griffiths+Lepoutre2016_01">h<supplied reason="lost">u</supplied><unclear>mā</unclear></rdg>
                        <note>On the estampage, the caracter mā seems rather clear.</note>
                    </app>
                    <app loc="B15">
@@ -283,7 +281,7 @@
                    </app>
                    <app loc="B23">
                        <lem>vanrauk·</lem>
-                       <rdg source="Aymonier1891_01">vanrok</rdg>
+                       <rdg source="bib:Aymonier1891_01">vanrok</rdg>
                    </app>
                    <app loc="C1">
                        <lem><unclear>ra</unclear>makān·</lem>
@@ -299,7 +297,7 @@
                    </app>
                    <app loc="C16">
                        <lem>bhauk· kasmā</lem>
-                       <rdg source="Aymonier1891_01">bhok kasmā</rdg>
+                       <rdg source="bib:Aymonier1891_01">bhok kasmā</rdg>
                    </app>
                    <app loc="C16">
                        <lem>nau</lem>
@@ -311,11 +309,11 @@
                    </app>
                    <app loc="C34">
                        <lem>bhauk· dandā</lem>
-                       <rdg source="Aymonier1891_01">bhok dandā</rdg>
+                       <rdg source="bib:Aymonier1891_01">bhok dandā</rdg>
                    </app>
                    <app loc="C42">
                        <lem><num value="2/325"><choice><sic>2</sic><corr>3</corr></choice>25</num></lem>
-                       <rdg source="Aymonier1891_01"><num value="225">225</num></rdg>
+                       <rdg source="bib:Aymonier1891_01"><num value="225">225</num></rdg>
                        <note>The stone is damaged, with loss of the part lower than the first number, so that we can no longer determine whether it was a 2 or a 3.</note>
                    </app>
                </listApp>

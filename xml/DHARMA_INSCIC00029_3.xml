@@ -8,12 +8,16 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-         	<title>Inner face of the North doorjamb of the South tower at Po Nagar Temple in Nha Trang (C. 29.3), 13th c. CE</title>
+         	<title>Inner face of the North doorjamb of the South tower at Po Nagar Temple in Nha Trang (C. 29.3), 12th c. CE</title>
          	<respStmt>
          		<resp>author of digital edition</resp>
          		<persName ref="part:argr">
          			<forename>Arlo</forename>
          			<surname>Griffths</surname>
+         		</persName>
+         		<persName ref="http://viaf.org/viaf/289845900">
+         			<forename>Amandine</forename>
+         			<surname>Lepoutre</surname>
          		</persName>
          	</respStmt>
          </titleStmt>
@@ -96,14 +100,44 @@ n="6"/>ṇā Inā ja dyam̃p· <num value="3">3</num> drim̃
 
         <div type="translation" resp="part:argr">
 	<p>Om. Homage to Śiva!</p>
-	<p>This is the capital of ja Padyəp who</p>
+	<p>This is the capital of <foreign>ja</foreign> Padyəp who used harsh speech. The P.P.T.R. Indravarman, prince Śrī Harideva, man of Śilābandha Vijaya, gave to Y.P.K. Śrī Indravarmaśivaliṅgeśvara: the family of <foreign>mauk</foreign> Yāṅ Karuṇā, mother of <foreign>ja</foreign> Dyəp, 3 people.</p>
 	</div>
- <div type="translation" xml:lang="fre" source="bib:Lepoutre2015_01">
+ <div type="translation" xml:lang="fra" source="bib:Lepoutre2015_01">
 	<p>Hommage à Śiva.</p>
-	<p>Salut ! Ceci est le capital de <foreign>ja</foreign> Padyam̃p qui a parlé de façon irréfléchie. P.P.T.R. Indravarman, prince Śrī Harideva, homme de Śilāvandha Vijaya, offre au Y.P.K. Śrī Indravarmaśivaliṅgeśvara : La famille de <foreign>mauk</foreign> <gap reason="illegible"/> Y. Kruṇā, la mère de <foreign>ja</foreign> Dyam̃p : 3 personnes</p>
+	<p>Salut ! Ceci est le capital de <foreign>ja</foreign> Padyam̃p qui a parlé de façon irréfléchie. P.P.T.R. Indravarman, prince Śrī Harideva, homme de Śilāvandha Vijaya, offre au Y.P.K. Śrī Indravarmaśivaliṅgeśvara : 
+La famille de <foreign>mauk</foreign> <gap reason="illegible"/> Y. Kruṇā, la mère de <foreign>ja</foreign> Dyam̃p : 3 personnes.</p>
 	</div>
-         <div type="commentary"/>
-           
+         <div type="commentary">
+           <p>Comments Lepoutre. Comparison with C. 53</p>
+<!-- L’engagement des membres de la parentèle à défaut du règlement d’une amende est
+attesté ailleurs qu’au Campā, notamment en Insulinde, à une époque plus récente (Reid
+1983b, p. 159 ; van der Kraan 1983b, p. 326). Parmi les inscriptions cam, seule l’inscription
+de Po Nagar C. 29 témoigne d’une telle pratique 99 : elle enregistre l’engagement de
+trois personnes au service du temple à la suite de propos inconvenants tenus par l’un des
+membres de leur lignage. Je propose ci-dessous une nouvelle lecture et une traduction
+de ce texte, lequel fait écho à la liste qui nous intéresse
+
+Si la nature du délit est ici claire 104, la liste de l’inscription C. 213 ne mentionne qu’un
+seul cas d’accaparement de domaine, celui d’un temple pillé (A.24-B.2). La première
+partie de cette liste (face A de la ligne 1 à 23), indique simplement que les fautifs sont des
+« insoumis à Panrāṅ », une formulation que le manque de détails fournis ne permet pas
+de préciser, mais qui tend néanmoins à conforter l’hypothèse du rôle prépondérant de ce
+pays, et donc celui du Pāṇḍuraṅga, sous le règne de Jaya Parameśvaravarman. Les fautes
+commises par les « gens de Harāṁ » (B.2-B.3), par les « gens de Panrāṅ » (B.3-B.14) et
+par Pvaḥ Jūk (B.14-B.17) ne sont pas précisées, mais ce dernier, tout comme les gens de
+Panrāṅ, est désigné comme étant « insoumis 105 ».
+On ne connaît donc pas la nature précise de la majorité des délits mais il semble que
+ceux-ci n’étaient pas toujours de même gravité et qu’il y avait différents degrés d’implication
+des insoumis, puisque le nombre d’engagés au sein de la parentèle de chaque insoumis
+varie considérablement : certaines des amendes non payées par les fautifs ont ainsi
+mené à l’engagement de quarante fois plus de personnes que d’autres 106. On remarque
+que l’accaparement du domaine d’un temple par Hari Dyam̃p a conduit à l’engagement
+de trois personnes, soit la même peine que ce qui fut infligé sous Jaya Indravarman pour avoir parlé de façon irréfléchie (C. 29). Ceci laisse imaginer la gravité de la faute commise par ja Putiḥ (A.15-A.17), qui mena à l’engagement de quatre-vingts membres de sa
+parentèle. Notons cependant que certains facteurs tels que l’âge et le sexe des serviteurs,
+qui devaient entrer en ligne de e compte dans la valeur qu’on leur attribuait, ne sont pas
+précisés dans l’inscription.
+ -->
+   </div>
 	<div type="bibliography">
 <!-- Editions et références: 
 Abel Bergaigne, JA 1888, p. 98, No. 402; 

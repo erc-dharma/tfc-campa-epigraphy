@@ -80,6 +80,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change when="2026-04-14" who="part:argr" status="draft">finished encoding the inscription</change>
       	  <change when="2026-04-13" who="part:argr" status="draft">started encoding the inscription</change>
       </revisionDesc>
    </teiHeader>
@@ -100,7 +101,7 @@ n="6"/>ṇā Inā ja dyam̃p· <num value="3">3</num> drim̃
 
         <div type="translation" resp="part:argr">
 	<p>Om. Homage to Śiva!</p>
-	<p>This is the capital of <foreign>ja</foreign> Padyəp who used harsh speech. The P.P.T.R. Indravarman, prince Śrī Harideva, man of Śilābandha Vijaya, gave to Y.P.K. Śrī Indravarmaśivaliṅgeśvara: the family of <foreign>mauk</foreign> Yāṅ Karuṇā, mother of <foreign>ja</foreign> Dyəp, 3 people.</p>
+	<p>This is the payment <supplied reason="explanation"><foreign>mūla</foreign></supplied> of <foreign>ja</foreign> Padyəp who used harsh speech: the P.P.T.R. Indravarman, prince Śrī Harideva, man of Śilābandha Vijaya, gave to Y.P.K. Śrī Indravarmaśivaliṅgeśvara the family of <foreign>mauk</foreign> Yāṅ Karuṇā, mother of <foreign>ja</foreign> Dyəp, 3 people.</p>
 	</div>
  <div type="translation" xml:lang="fra" source="bib:Lepoutre2015_01">
 	<p>Hommage à Śiva.</p>
@@ -108,52 +109,26 @@ n="6"/>ṇā Inā ja dyam̃p· <num value="3">3</num> drim̃
 La famille de <foreign>mauk</foreign> <gap reason="illegible"/> Y. Kruṇā, la mère de <foreign>ja</foreign> Dyam̃p : 3 personnes.</p>
 	</div>
          <div type="commentary">
-           <p>Comments Lepoutre. Comparison with C. 53</p>
-<!-- L’engagement des membres de la parentèle à défaut du règlement d’une amende est
-attesté ailleurs qu’au Campā, notamment en Insulinde, à une époque plus récente (Reid
-1983b, p. 159 ; van der Kraan 1983b, p. 326). Parmi les inscriptions cam, seule l’inscription
-de Po Nagar C. 29 témoigne d’une telle pratique 99 : elle enregistre l’engagement de
-trois personnes au service du temple à la suite de propos inconvenants tenus par l’un des
-membres de leur lignage. Je propose ci-dessous une nouvelle lecture et une traduction
-de ce texte, lequel fait écho à la liste qui nous intéresse
+           <p>Lepoutre (<bibl rend="omitname"><ptr target="bib:Lepoutre2015_01"/></bibl>) commented that this brief text (which may usfully be compared with <ref target="DHARMA_INSCIC00053.xml">C. 53</ref>) seems to reflect an instance of a convicted criminal paying his penalty by his family members being put under debt bondage. Aymonier (<bibl rend="omitname"><ptr target="bib:Aymonier1891_01"/></bibl>) noted that the names Padyəp and Dyəp probably designate the same individual, and that <foreign>mūla</foreign>, normally meaning <q>capital, price</q>, must here have a meaning like <q>penalty</q>. The crime seems to be that called <foreign>vākpāruṣya</foreign> <q>verbal assault</q> in Hindu law.</p>
+<!-- L’engagement des membres de la parentèle à défaut du règlement d’une amende est attesté ailleurs qu’au Campā, notamment en Insulinde, à une époque plus récente (Reid 1983b, p. 159 ; van der Kraan 1983b, p. 326). Parmi les inscriptions cam, seule l’inscription de Po Nagar C. 29 témoigne d’une telle pratique : elle enregistre l’engagement de trois personnes au service du temple à la suite de propos inconvenants tenus par l’un des membres de leur lignage. 
 
-Si la nature du délit est ici claire 104, la liste de l’inscription C. 213 ne mentionne qu’un
-seul cas d’accaparement de domaine, celui d’un temple pillé (A.24-B.2). La première
-partie de cette liste (face A de la ligne 1 à 23), indique simplement que les fautifs sont des
-« insoumis à Panrāṅ », une formulation que le manque de détails fournis ne permet pas
-de préciser, mais qui tend néanmoins à conforter l’hypothèse du rôle prépondérant de ce
-pays, et donc celui du Pāṇḍuraṅga, sous le règne de Jaya Parameśvaravarman. Les fautes
-commises par les « gens de Harāṁ » (B.2-B.3), par les « gens de Panrāṅ » (B.3-B.14) et
-par Pvaḥ Jūk (B.14-B.17) ne sont pas précisées, mais ce dernier, tout comme les gens de
-Panrāṅ, est désigné comme étant « insoumis 105 ».
-On ne connaît donc pas la nature précise de la majorité des délits mais il semble que
-ceux-ci n’étaient pas toujours de même gravité et qu’il y avait différents degrés d’implication
-des insoumis, puisque le nombre d’engagés au sein de la parentèle de chaque insoumis
-varie considérablement : certaines des amendes non payées par les fautifs ont ainsi
-mené à l’engagement de quarante fois plus de personnes que d’autres 106. On remarque
-que l’accaparement du domaine d’un temple par Hari Dyam̃p a conduit à l’engagement
-de trois personnes, soit la même peine que ce qui fut infligé sous Jaya Indravarman pour avoir parlé de façon irréfléchie (C. 29). Ceci laisse imaginer la gravité de la faute commise par ja Putiḥ (A.15-A.17), qui mena à l’engagement de quatre-vingts membres de sa
-parentèle. Notons cependant que certains facteurs tels que l’âge et le sexe des serviteurs,
-qui devaient entrer en ligne de e compte dans la valeur qu’on leur attribuait, ne sont pas
-précisés dans l’inscription.
+Si la nature du délit est ici claire 104, la liste de l’inscription C. 213 ne mentionne qu’un seul cas d’accaparement de domaine, celui d’un temple pillé (A.24-B.2). La première partie de cette liste (face A de la ligne 1 à 23), indique simplement que les fautifs sont des « insoumis à Panrāṅ », une formulation que le manque de détails fournis ne permet pas de préciser, mais qui tend néanmoins à conforter l’hypothèse du rôle prépondérant de ce pays, et donc celui du Pāṇḍuraṅga, sous le règne de Jaya Parameśvaravarman. Les fautes commises par les « gens de Harāṁ » (B.2-B.3), par les « gens de Panrāṅ » (B.3-B.14) et
+par Pvaḥ Jūk (B.14-B.17) ne sont pas précisées, mais ce dernier, tout comme les gens de Panrāṅ, est désigné comme étant « insoumis ».
+On ne connaît donc pas la nature précise de la majorité des délits mais il semble que ceux-ci n’étaient pas toujours de même gravité et qu’il y avait différents degrés d’implication des insoumis, puisque le nombre d’engagés au sein de la parentèle de chaque insoumis varie considérablement : certaines des amendes non payées par les fautifs ont ainsi mené à l’engagement de quarante fois plus de personnes que d’autres. On remarque que l’accaparement du domaine d’un temple par Hari Dyam̃p a conduit à l’engagement de trois personnes, soit la même peine que ce qui fut infligé sous Jaya Indravarman pour avoir parlé de façon irréfléchie (C. 29). Ceci laisse imaginer la gravité de la faute commise par ja Putiḥ (A.15-A.17), qui mena à l’engagement de quatre-vingts membres de sa parentèle. Notons cependant que certains facteurs tels que l’âge et le sexe des serviteurs, qui devaient entrer en ligne de compte dans la valeur qu’on leur attribuait, ne sont pas précisés dans l’inscription.
  -->
    </div>
 	<div type="bibliography">
-<!-- Editions et références: 
-Abel Bergaigne, JA 1888, p. 98, No. 402; 
-Etienne Aymonier, JA 1891, p. 59, No. 402 B; 
-Majumdar, pp. 218-219; 
-Schweyer 2005, pp. 108-109; 
-Golzio, pp. 189-190.
-
-Le texte ici constitué suit la lecture de Schweyer, seule à présenter l'inscription dans son entièreté. -->
-<p>Provisional edition by Schweyer; re-edited by Lepoutre. This digital edition based on the latter, using EFEO estampage n. 237.</p>
+<!-- Le texte ici constitué suit la lecture de Schweyer, seule à présenter l'inscription dans son entièreté. -->
+<p>Some words published by Bergaigne (<bibl rend="omitname"><ptr target="bib:Bergaigne1888_01"/></bibl>); a provisional French translation by Aymonier (<bibl rend="omitname"><ptr target="bib:Aymonier1891_01"/></bibl>); first complete edition by Schweyer (<bibl rend="omitname"><ptr target="bib:Schweyer2005_01"/></bibl>), then re-edited by Lepoutre (<bibl rend="omitname"><ptr target="bib:Lepoutre2015_01"/></bibl>). This digital edition based on the latter, using EFEO estampage n. 237.</p>
 	<listBibl type="primary">
 		<bibl><ptr target="bib:Schweyer2005_01"/><citedRange unit="page">108-109</citedRange></bibl>
 		<bibl><ptr target="bib:Lepoutre2015_01"/><citedRange unit="page">133-134</citedRange></bibl>
 	</listBibl>
 	<listBibl type="secondary">
-	
+	<bibl><ptr target="bib:Bergaigne1888_01"/><citedRange unit="page">98-99</citedRange><citedRange unit="item">402 B</citedRange></bibl>
+	<bibl><ptr target="bib:Aymonier1891_01"/><citedRange unit="page">59</citedRange><citedRange unit="item">402 B</citedRange></bibl>
+	<bibl><ptr target="bib:Majumdar1927_02"/><citedRange unit="page">218</citedRange><citedRange unit="item">108</citedRange></bibl>
+	<bibl><ptr target="bib:Golzio2004_01"/><citedRange unit="page">189-200</citedRange></bibl>
 	<bibl><ptr target="bib:Griffiths+al2008-2009_01"/><citedRange unit="page">462</citedRange></bibl>
 </listBibl>
 </div>

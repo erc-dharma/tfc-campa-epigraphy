@@ -136,7 +136,7 @@
    </facsimile>
    <text xml:space="preserve"><body><div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83215">
            <p>
-            <lb n="1"/><g type="petal"/> <g type="floretQuatrefoil"/> <g type="danda">.</g> svasti <g type="ddanda">.</g> pu-pom̃ tana rayā Inravarmma pu-cim̃ śrī harideva pu-pom̃ ku kāla dr̥m̃ nā<lb break="no" n="2"/>ma pom̃ pu-lyam̃ śrī yuvarāja vloṁ rai mak· panrām̃ tmum̃ di śaka <num value="1171">1171</num> tam̃l· ndok· rājya dr̥m̃ rāja-nāma yām̃ pom̃
+            <lb n="1"/><g type="floretPetal"/> <g type="floretQuatrefoil"/> <g type="danda"/> svasti <g type="ddanda"/> pu-pom̃ tana rayā Inravarmma<!-- AG 2026-04-16: I think we can read ndra in both occurrences, as both are different from nr in panrāṅ --> pu-cim̃ śrī harideva pu-pom̃ ku kāla dr̥m̃ nā<lb break="no" n="2"/>ma pom̃ pu-lyam̃ śrī yuvarāja vloṁ rai mak· panrām̃ tmum̃ di śaka <num value="1171">1171</num> tam̃l· ndok· rājya dr̥m̃ rāja-nāma yām̃ pom̃
             <lb n="3"/>ku śrī jaya siṅhavarmmadeva rai mak· panrām̃ tmum̃ di śaka <num value="1179">1179</num> <g type="danda">.</g> tam̃l· punaḥ rājābhiṣeka jem̃ pu-pom̃ tana
             <lb n="4"/>rayā Inravarmma rai mak· panrām̃ tmum̃ di śaka <num value="1188">1188</num> kṣama karuṇā śānti pasraum̃ jīva pak· rajan· sarvvadaṇda
          </p>
@@ -145,7 +145,7 @@
 <listApp><app loc="4">
 <lem>pasraum̃</lem>
 <rdg source="bib:Aymonier1891_01">papraum̃</rdg>
-<note>Aymonier's reading is inferred from his translation. The estampage favors reading <foreign>sr</foreign> rather than <foreign>pr</foreign>, and a form derived from the base <foreign>sraum̃</foreign> (<bibl><ptr target="bib:Aymonier+Cabaton1906_01"/><citedRange unit="page">497</citedRange></bibl>: <quote><foreign>vivre, demeurer, sauver</foreign></quote>) seems to fit better in the context (since <foreign>jīva</foreign> means 'life, spirit' in Sanskrit).</note></app></listApp></div>
+<note>Aymonier's reading is inferred from his translation. The estampage favors reading <foreign>sr</foreign> rather than <foreign>pr</foreign>, and a form derived from the base <foreign>sraum̃</foreign> (<bibl><ptr target="bib:Aymonier+Cabaton1906_01"/><citedRange unit="page">497</citedRange></bibl>: <quote><foreign>vivre, demeurer, sauver</foreign></quote>) seems to fit better in the context (since <foreign>jīva</foreign> means <q>life, spirit</q> in Sanskrit).</note></app></listApp></div>
 <!--   <div type="commentary">
             <p>FILL ME IN</p>
        </div>-->
@@ -166,5 +166,8 @@
            <bibl><ptr target="bib:Finot1915_02"/><citedRange unit="page">51</citedRange></bibl>
            <bibl><ptr target="bib:Majumdar1985_01"/><citedRange unit="page">216-217</citedRange></bibl>
            <bibl><ptr target="bib:Golzio2004_01"/><citedRange unit="page">189</citedRange></bibl>
-         </listBibl></div></body></text>
+         </listBibl>
+</div>
+</body>
+</text>
 </TEI>

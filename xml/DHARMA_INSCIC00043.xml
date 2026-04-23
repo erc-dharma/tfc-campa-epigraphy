@@ -91,86 +91,48 @@
       <body>
          <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83213">
 <ab xml:lang="san-Latn"><milestone type="pagelike" unit="face" n="A"/><label>Front</label><!-- §5.4. --><lb n="01"/>Aum̐<!-- actually centered between ṇama and śivāya --><lb n="02"/>ṇama śivāya</ab>
-<p><lb n="A1"/><g type="floretQuatrefoil"/> svasti <g type="danda">.</g> madā paramarājotauma sa dr̥im̃<!-- 2024: can't we just read this as dri? cf. A8 kaśattriya --> prathamarājā<lb 
-n="A2" break="no"/>viśeka dr̥m̃ nāma yām̃ pom̃ ku śrī vr̥ṣuviṣṇujātti vīrabhadra<lb break="no" 
-n="A3"/>varmmadeva pu-pom̃ ku pūra ṅauk· glaum̃ vijaya dr̥m̃ rāja di śaka 
-<lb n="A4"/>sidaḥ R̥śi<!-- 2024: what's the curl atop R̥? -->-pāvaka-Agni-rūpa <g type="danda">.</g></p> <p>dunan· sūṇu yām̃ pom̃ ku śrī
-<lb n="A5"/>jayasīṅhavarmmadeva pu-pom̃ ku vr̥ṣuvaṅṣa paramabhūmyā<lb 
-n="A6"  break="no"/>ddhi<unclear>pa</unclear><!-- 2024: now I might prefer sthira/sthi(ta), but cf. identical shape in Āyuddha below --> vīrasiṅha campa<!-- 2024: in C. 47 pūra is inserted here --> pu-pom̃ ku nan· samīpaprāṇna ta⌈<lb break="no" 
-n="A7"/>ke śivasthāṇna Aviśekha rāja di para<!-- 2024: supply mā? -->tmaja nan· dr̥m̃ rāja pr̥<lb break="no" 
-n="A8"/><unclear>th</unclear>ama-brahma-kaśattri<!-- 2024: must we read kaśattr̥i -->-vaiśa-śūdr̥-hīṇna-dīṇṇā-saṇtusta<lb break="no" 
-n="A9"/>-māṇnasa kram̃tthi<!-- 2024: read kkram̃tthi? cf. c15, understand mānasa [sa]kram̃tthi? --> vījākūra<!-- 2024: vījāpūra? cf. also c15, and vījāṅkura in C. 64 and C. 94 --> pakā yavaṇarāja vā vala
-<lb n="A10"/>marai Aneka Āyuddha kā rijan· vyuha samīpa śrī vija<lb 
-n="A11" break="no"/>yāpurī hetu yām̃ pom̃ ku śivakāruṇna kum̃ jak· di
-<lb n="A12"/>mahnā kireṇdra sidaḥ śrīṣnarājavāri<!-- 2024: maybe śrīṣta-? --> doṁ nā<lb break="no" 
-n="A13"/>yakāyuddha ya doṁ vala dinan· ya klāḥ di maranna<!-- 2024: maybe bhīma-ranna -->
-<lb n="A14"/>nau take nagara di śaka śaśām̃ka-rahutauva-rāja-rāja-vā<lb break="no" 
-n="A15"/>n<unclear>n</unclear>a pu-pom̃ ku kā maUdyāṇna nau tam̃l· nagara yvan· mak·
+<p><lb n="A1"/><g ref="sym:floret" type="symbol">*</g> svasti <g ref="sym:bar" type="punctuation">.</g> madā paramarājotauma sa dr̥im̃<!-- 2024: can't we just read this as dri? cf. A8 kaśattriya --> prathamarājā<lb n="A2" break="no"/>viśeka dr̥m̃ nāma yām̃ pom̃ ku śrī vr̥ṣuviṣṇujātti vīrabhadra<lb break="no" n="A3"/>varmmadeva pu-pom̃ ku pūra ṅauk· glaum̃ vijaya dr̥m̃ rāja di śaka 
+<lb n="A4"/>sidaḥ R̥śi<!-- 2024: what's the curl atop R̥? -->-pāvaka-Agni-rūpa <g ref="sym:bar" type="punctuation">.</g></p> <p>dunan· sūṇu yām̃ pom̃ ku śrī
+<lb n="A5"/>jayasīṅhavarmmadeva pu-pom̃ ku vr̥ṣuvaṅṣa paramabhūmyā<lb n="A6" break="no"/>ddhi<unclear>pa</unclear><!-- 2024: now I might prefer sthira/sthi(ta), but cf. identical shape in Āyuddha below --> vīrasiṅha campa<!-- 2024: in C. 47 pūra is inserted here --> pu-pom̃ ku nan· samīpaprāṇna ta⌈<lb break="no" n="A7"/>ke śivasthāṇna Aviśekha rāja di para<!-- 2024: supply mā? -->tmaja nan· dr̥m̃ rāja pr̥<lb break="no" n="A8"/><unclear>th</unclear>ama-brahma-kaśattri<!-- 2024: must we read kaśattr̥i -->-vaiśa-śūdr̥-hīṇna-dīṇṇā-saṇtusta<lb break="no" n="A9"/>-māṇnasa kram̃tthi<!-- 2024: read kkram̃tthi? cf. c15, understand mānasa [sa]kram̃tthi? --> vījākūra<!-- 2024: vījāpūra? cf. also c15, and vījāṅkura in C. 64 and C. 94 --> pakā yavaṇarāja vā vala
+<lb n="A10"/>marai Aneka Āyuddha kā rijan· vyuha samīpa śrī vija<lb n="A11" break="no"/>yāpurī hetu yām̃ pom̃ ku śivakāruṇna kum̃ jak· di
+<lb n="A12"/>mahnā kireṇdra sidaḥ śrīṣnarājavāri<!-- 2024: maybe śrīṣta-? --> doṁ nā<lb break="no" n="A13"/>yakāyuddha ya doṁ vala dinan· ya klāḥ di maranna<!-- 2024: maybe bhīma-ranna -->
+<lb n="A14"/>nau take nagara di śaka śaśām̃ka-rahutauva-rāja-rāja-vā<lb break="no" n="A15"/>n<unclear>n</unclear>a pu-pom̃ ku kā maUdyāṇna nau tam̃l· nagara yvan· mak·
 <lb n="A16"/>puruśśa matr̥ī<!-- 2024: cf. A19 maṇtrī?  --> Aśva gaja Aneka dravya yavanarāja
 <lb n="A17"/>dhai rājagottra vā rājaputtrī marai pam<unclear>v</unclear>ram̃ pu-pom̃
-<lb n="A18"/>ku maUdyāṇna gulāc· tam̃l· vijayāpurī sampū<lb 
-n="A19" break="no"/>rṇna pakā vrīm̃ maṇtrī karāvv· ya doṁ bhaṇḍāra mavvām̃
+<lb n="A18"/>ku maUdyāṇna gulāc· tam̃l· vijayāpurī sampū<lb n="A19" break="no"/>rṇna pakā vrīm̃ maṇtrī karāvv· ya doṁ bhaṇḍāra mavvām̃
 <lb n="A20"/>mahnā kirendra di <unclear>ma</unclear>ddhamagr̥āma pu-pom̃ ku maUdyānna
 <lb n="A21"/>tuṅgo marai kā jak· di<!-- 2024: jakadri? --> śrī gajarāja gvac· mahnā
 <lb n="A22"/>kirendra lo kāla gvac· di ṅauk· vanam̃k· <unclear>sā</unclear>
 <milestone type="pagelike" unit="face" n="B"/><label>Back</label>
-<lb n="B1"/><unclear>ki</unclear>rāteśvara pu-pom̃ ku ṅan· devandasamatiḥ<!-- 2024: devānandasaṁmati? --> ya rakṣā rāja pu<lb 
-n="B2" break="no"/>-pom̃ ku di vaṇna dadam̃n· kāla sim̃ tmum̃ klāḥ di pāppa ṅan· ya<lb 
-n="B3" break="no"/>śa di loka ṅan· paraloka dudim̃ pu-pom̃ ku kamvac· tuvam̃ śāla pa<lb 
-n="B4" break="no"/>vvak· Anvak· vr<unclear>i</unclear>m̃ nāma tuvam̃ ṇrapā paṅap· A<unclear>dh</unclear>vā ni klum̃ jalā<lb break="no" 
-n="B5"/>ṇ nī samū ṅan· nagara Alā rim̃ mak· bhaṇḍāra vanaḥ nī kraum̃ pralāy·
-<lb n="B6"/>ṣ<unclear>u</unclear>ḥ khin· makanāya gaḥ kvīra trā marai makanāya doṁ bha<lb break="no" 
-n="B7"/>ṇḍāra vukam̃n· rim̃ kāla sthāppa cai<unclear>t</unclear>tra ṇī di śakarāja ṇrapaḥ<lb break="no" 
-n="B8"/>-l<unclear>oka</unclear>-śaraḥ-bhūdharaḥ vuḥ bhoga pamram̃m̃ di cai<unclear>t</unclear>tra kirāteśvara pu
-<lb n="B9"/><unclear>po</unclear>m̃ ku <g type="ddanda">.</g></p> <p>nī doṁ dr̥vya lumvaḥ di yām̃ kralauk· māḥ vanna qnā<lb break="no" 
-n="B10"/><supplied reason="lost">k·</supplied> <num value="2"><unclear>2</unclear></num> thil· klauṅ· māḥ <num value="1">1</num> thil· śvam̃n· pirak· <num value="18">18</num> thil· tra<lb 
-n="B11" break="no"/><supplied reason="lost">lā</supplied>y· pirak· <num value="13">13</num> thil· dyam̃p· pirak· <num value="8">8</num> thil· bhriṅgāra
+<lb n="B1"/><unclear>ki</unclear>rāteśvara pu-pom̃ ku ṅan· devandasamatiḥ<!-- 2024: devānandasaṁmati? --> ya rakṣā rāja pu<lb n="B2" break="no"/>-pom̃ ku di vaṇna dadam̃n· kāla sim̃ tmum̃ klāḥ di pāppa ṅan· ya<lb n="B3" break="no"/>śa di loka ṅan· paraloka dudim̃ pu-pom̃ ku kamvac· tuvam̃ śāla pa<lb n="B4" break="no"/>vvak· Anvak· vr<unclear>i</unclear>m̃ nāma tuvam̃ ṇrapā paṅap· A<unclear>dh</unclear>vā ni klum̃ jalā<lb break="no" n="B5"/>ṇ nī samū ṅan· nagara Alā rim̃ mak· bhaṇḍāra vanaḥ nī kraum̃ pralāy·
+<lb n="B6"/>ṣ<unclear>u</unclear>ḥ khin· makanāya gaḥ kvīra trā marai makanāya doṁ bha<lb break="no" n="B7"/>ṇḍāra vukam̃n· rim̃ kāla sthāppa cai<unclear>t</unclear>tra ṇī di śakarāja ṇrapaḥ<lb break="no" n="B8"/>-l<unclear>oka</unclear>-śaraḥ-bhūdharaḥ vuḥ bhoga pamram̃m̃ di cai<unclear>t</unclear>tra kirāteśvara pu
+<lb n="B9"/><unclear>po</unclear>m̃ ku <g ref="sym:doubleBar" type="punctuation">.</g></p> <p>nī doṁ dr̥vya lumvaḥ di yām̃ kralauk· māḥ vanna qnā<lb break="no" n="B10"/><supplied reason="lost">k·</supplied> <num value="2"><unclear>2</unclear></num> thil· klauṅ· māḥ <num value="1">1</num> thil· śvam̃n· pirak· <num value="18">18</num> thil· tra<lb n="B11" break="no"/><supplied reason="lost">lā</supplied>y· pirak· <num value="13">13</num> thil· dyam̃p· pirak· <num value="8">8</num> thil· bhriṅgāra
 @@@@
-<lb n="B12"/>[pi](ra)k· 20 thil· kalaśa pirak· 3 thil· Uk· pira<lb 
-n="B13" break="no"/>[k·] (2) thil· suvauk· pirak· 4 vauḥ 4 thil· (c)ān· dhūp pirak·
-<lb n="B14"/>[#] (vau)ḥ 2 thil· li 8 graṁ klaum̃ pirak· sa vauḥ 1 thil· kralau<lb 
-n="B15" break="no"/>[k· pi]rak· sa vauḥ 2 thil· sralaum̃ pirak· sa vauḥ 10 thil·</p>
-<p><lb n="B16"/>[ma]dā humā si parok· s(i) vuḥ ni cai(t)ra (d)i humā Air· (p)a<lb 
-n="B17" break="no"/>[ṇdīp·] (d)i Atam̃ vvil· 110 jāk· vijaiḥ humā bvar· paṇdīp·
-<lb n="B18"/>[sā] (sth)āṇna ttrā di lumven· 170 vijaiḥ humā bvar· laṅī<lb 
-n="B19" break="no"/>[k· di] lumven· 250 vijaiḥ <g type="danda">.</g> humā bvar· laṅīk· sā sthā(ṇna tr̥ā)
+<lb n="B12"/>[pi](ra)k· 20 thil· kalaśa pirak· 3 thil· Uk· pira<lb n="B13" break="no"/>[k·] (2) thil· suvauk· pirak· 4 vauḥ 4 thil· (c)ān· dhūp pirak·
+<lb n="B14"/>[#] (vau)ḥ 2 thil· li 8 graṁ klaum̃ pirak· sa vauḥ 1 thil· kralau<lb n="B15" break="no"/>[k· pi]rak· sa vauḥ 2 thil· sralaum̃ pirak· sa vauḥ 10 thil·</p>
+<p><lb n="B16"/>[ma]dā humā si parok· s(i) vuḥ ni cai(t)ra (d)i humā Air· (p)a<lb n="B17" break="no"/>[ṇdīp·] (d)i Atam̃ vvil· 110 jāk· vijaiḥ humā bvar· paṇdīp·
+<lb n="B18"/>[sā] (sth)āṇna ttrā di lumven· 170 vijaiḥ humā bvar· laṅī<lb n="B19" break="no"/>[k· di] lumven· 250 vijaiḥ <g ref="sym:bar" type="punctuation">.</g> humā bvar· laṅīk· sā sthā(ṇna tr̥ā)
 <lb n="B20"/>[di ha]jai akauvv· 200 vijeḥ humā bvar· laṅīk· sā sthā-
-<lb n="B21" break="no"/>[ṇna] tt(r)ā di tanvantarāṅśāriḥ 2(8)00 vijaiḥ <g type="danda">.</g> ṅan· campa si (vu)<lb 
-n="B22" break="no"/>[ḥ] dauk· di ṅauk· nī ṅan· lauvv· yvan· kur· syaṁ
-<lb n="B23"/>[ja]vā vaṅgalā Aviḥ 170 ṅan· mmahnā kireṇnra (ha)<milestone type="pagelike" unit="face" n="c" break="no"/><label>Lateral</label><lb 
-n="c1" break="no"/>yāvv· tmum̃ dvā pluḥ klu ku {1/2}
+<lb n="B21" break="no"/>[ṇna] tt(r)ā di tanvantarāṅśāriḥ 2(8)00 vijaiḥ <g ref="sym:bar" type="punctuation">.</g> ṅan· campa si (vu)<lb n="B22" break="no"/>[ḥ] dauk· di ṅauk· nī ṅan· lauvv· yvan· kur· syaṁ
+<lb n="B23"/>[ja]vā vaṅgalā Aviḥ 170 ṅan· mmahnā kireṇnra (ha)<milestone type="pagelike" unit="face" n="c" break="no"/><label>Lateral</label><lb n="c1" break="no"/>yāvv· tmum̃ dvā pluḥ klu ku {1/2}
 <lb n="c2"/>kvak· ṅan· rūppa ta gvac· (na)n· dr̥[m̃] 
 <lb n="c3"/>nāma br̥vaṣasrādi manr̥auṅ·
-<lb n="c4"/>(cam·) yām̃ Inā ja (si)ddhi sula<lb 
-n="c5" break="no"/>kṣana mahnā ka(ta) sampūrna<lb 
-n="c6" break="no"/>lakṣana madā kukum̃ sa plu<lb 
-n="c7" break="no"/>ḥ salapan· vrim̃ nāma bva {1}
+<lb n="c4"/>(cam·) yām̃ Inā ja (si)ddhi sula<lb n="c5" break="no"/>kṣana mahnā ka(ta) sampūrna<lb n="c6" break="no"/>lakṣana madā kukum̃ sa plu<lb n="c7" break="no"/>ḥ salapan· vrim̃ nāma bva {1}
 <lb n="c8"/>(ramatta)taṅga pu-pom̃ ku {1}
-<lb n="c9"/>pajyem̃ vam̃k· kraum̃ ha[yā]<lb 
-n="c10" break="no"/>vv· manr̥au(m̃) parok· pa {1/2}
+<lb n="c9"/>pajyem̃ vam̃k· kraum̃ ha[yā]<lb n="c10" break="no"/>vv· manr̥au(m̃) parok· pa {1/2}
 <lb n="c11"/>humā padam̃ṅ· rāja {2}
 <lb n="c12"/>vuḥ yvan· (s)i mak· [lakim̃]
-<lb n="c13"/>krumim̃ luvaiḥ klum̃ rī(v)[uv·] {1}<lb 
-n="c14" break="no"/>tu syāṁ (s)vam̃n· vījā[kūra]
+<lb n="c13"/>krumim̃ luvaiḥ klum̃ rī(v)[uv·] {1}<lb n="c14" break="no"/>tu syāṁ (s)vam̃n· vījā[kūra]
 <lb n="c15"/>nāma sakram̃tthi pu [pom̃]
-<lb n="c16"/>ku maUdyāṇna va(la) [gulā]<lb 
-n="c17" break="no"/>c· mahnā kīreṇdr̥ {2}<lb 
-n="c18" break="no"/>rāpurī ṅan· dadam̃n· {2} [bha]<lb 
-n="c19" break="no"/>ṇḍāra ya madā ma(hn)ā [kire-]
-<lb n="c20"/>ṇdra hetu ri ganī {2} [sa]<lb 
-n="c21" break="no"/>kr̥m̃tthi dadam̃n· va(na)[m̃]k· [… śi]<lb 
-n="c22" break="no"/>vasthāṇna raḥ kā pū {2/3}
+<lb n="c16"/>ku maUdyāṇna va(la) [gulā]<lb n="c17" break="no"/>c· mahnā kīreṇdr̥ {2}<lb n="c18" break="no"/>rāpurī ṅan· dadam̃n· {2} [bha]<lb n="c19" break="no"/>ṇḍāra ya madā ma(hn)ā [kire-]
+<lb n="c20"/>ṇdra hetu ri ganī {2} [sa]<lb n="c21" break="no"/>kr̥m̃tthi dadam̃n· va(na)[m̃]k· [… śi]<lb n="c22" break="no"/>vasthāṇna raḥ kā pū {2/3}
 <lb n="c23"/>(v)ya sthāppa caittra nī {2/3}
 <milestone type="pagelike" unit="face" n="d"/><label>Lateral</label>
 <lb n="d1"/>nāma (th)īrtatna (bha)git·
-<lb n="d2"/>mak· hastī hastinī A<lb 
-n="d3" break="no"/>saiḥ lamauv· kruvām̃ lu<lb 
-n="d4" break="no"/>mvaḥ pa(pa)m̃mvram̃ caittra nī jem̃
-<lb n="d5"/>dharmma <g type="ddanda">.</g></p> <p>ni doṁ bhaṇḍāra naga<lb 
-n="d6" break="no"/>ra (k)vī[r]· si bharam̃ devatā ra
+<lb n="d2"/>mak· hastī hastinī A<lb n="d3" break="no"/>saiḥ lamauv· kruvām̃ lu<lb n="d4" break="no"/>mvaḥ pa(pa)m̃mvram̃ caittra nī jem̃
+<lb n="d5"/>dharmma <g ref="sym:doubleBar" type="punctuation">.</g></p> <p>ni doṁ bhaṇḍāra naga<lb n="d6" break="no"/>ra (k)vī[r]· si bharam̃ devatā ra
 <lb n="d7"/>vrim̃ si mak· patupak·
- <lb n="d8"/>vā marai dauk· di lābha bha<lb 
-n="d9" break="no"/>ṇḍāra vr̥im̃ dauk· pamvr̥m̃m̃ caitr̥a nī
+ <lb n="d8"/>vā marai dauk· di lābha bha<lb n="d9" break="no"/>ṇḍāra vr̥im̃ dauk· pamvr̥m̃m̃ caitr̥a nī
 </p>
          </div>
          <div type="apparatus">
@@ -207,11 +169,11 @@ n="d9" break="no"/>ṇḍāra vr̥im̃ dauk· pamvr̥m̃m̃ caitr̥a nī
 	</listBibl>
            <listBibl type="secondary">
 <bibl><ptr target="bib:Finot1904_06"/><citedRange unit="page">535</citedRange></bibl>
-	<bibl><ptr target="bib:Parmentier1909_01" /><citedRange unit="page">562-563</citedRange></bibl>
+	<bibl><ptr target="bib:Parmentier1909_01"/><citedRange unit="page">562-563</citedRange></bibl>
 <bibl><ptr target="bib:Finot1915_01"/><citedRange unit="page">13-14</citedRange></bibl>
 <bibl><ptr target="bib:Majumdar1927_01"/><citedRange unit="book">III</citedRange><citedRange unit="page">223</citedRange><citedRange unit="item">119</citedRange></bibl>
 	<bibl><ptr target="bib:Golzio2004_01"/><citedRange unit="page">199</citedRange></bibl>
-              <bibl n="S"><ptr target="bib:Schweyer2008_01" /><citedRange unit="page">226</citedRange>
+              <bibl n="S"><ptr target="bib:Schweyer2008_01"/><citedRange unit="page">226</citedRange>
           </bibl>
         </listBibl>
         </div>

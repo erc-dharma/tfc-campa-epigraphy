@@ -49,9 +49,7 @@
                   <editor>Amandine Lepoutre</editor>
                </titleStmt>
                <editionStmt>
-                  <p>First digital edition made by École française d'Extrême-Orient (EFEO), realized in collaboration with the Institute for the Study of the Ancient World (ISAW) at New York University as <ref
-                     target="https://isaw.nyu.edu/publications/inscriptions/campa/index.html"
-                     >The Corpus of the Inscriptions of Campā, in 2010-2012.</ref> </p>
+                  <p>First digital edition made by École française d'Extrême-Orient (EFEO), realized in collaboration with the Institute for the Study of the Ancient World (ISAW) at New York University as <ref target="https://isaw.nyu.edu/publications/inscriptions/campa/index.html">The Corpus of the Inscriptions of Campā, in 2010-2012.</ref> </p>
                </editionStmt>
                <publicationStmt>
                   <authority>École française d'Extrême-Orient (EFEO)</authority>
@@ -103,22 +101,18 @@
          <projectDesc>
             <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide" key="EGDv01"
-            url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-               replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part" matchPattern="([a-z]+)"
-               replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change when="2020-09-14" who="part:axja" status="draft"
-            >Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
+         <change when="2020-09-14" who="part:axja" status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -142,7 +136,7 @@
             <ab>
             <lb n="5"/> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">yām̃</supplied> pom̃ ku śrī jayaparam<unclear>e</unclear>śvaravarmmad<unclear>e</unclear>va <unclear>ud</unclear>yā
             <lb break="no" n="6"/>na nau <unclear>n</unclear>dvā <gap reason="lost" quantity="2" unit="character"/>ha yām̃ pom̃ k<unclear>u</unclear> śrī <supplied reason="lost">ca</supplied>mpeśvara <unclear>v</unclear>u<supplied reason="lost">ḥ</supplied> <gap reason="lost" quantity="2" unit="character"/> pa
-            <lb break="no" n="7"/>jem̃ vana<supplied reason="lost">m̃</supplied>k· <supplied reason="lost">s</supplied>yā<unclear>ṁ</unclear> k<supplied reason="lost">v</supplied>ac· ravaum̃ pā<unclear>k·</unclear> humā śrī vī<supplied reason="lost">ra<supplied reason="lost"><g type="C"/></supplied></supplied>u<unclear>k</unclear>·<!-- AG: I think there is a problem here, due to the first </supplied> being placed too late. Should it not come right after ra?--> <!-- AL: no -->dī śa
+            <lb break="no" n="7"/>jem̃ vana<supplied reason="lost">m̃</supplied>k· <supplied reason="lost">s</supplied>yā<unclear>ṁ</unclear> k<supplied reason="lost">v</supplied>ac· ravaum̃ pā<unclear>k·</unclear> humā śrī vī<supplied reason="lost">ra<supplied reason="lost"><g ref="sym:C"/><!--CHECK SYMBOL encoding and content--></supplied></supplied>u<unclear>k</unclear>·<!-- AG: I think there is a problem here, due to the first </supplied> being placed too late. Should it not come right after ra?--> <!-- AL: no -->dī śa
             <lb break="no" n="8"/>ka nī <gap reason="lost" quantity="2" unit="character"/> śiśī <supplied reason="lost">bh</supplied><unclear>ū</unclear> humā nan· sā sthāna vuḥ pa
             <lb break="no" n="9"/>k· yā<unclear>m̃ po</unclear>m̃ ku sva<unclear>ya</unclear>mu<unclear>tpa</unclear>nna ṅan· <unclear>yā</unclear>m̃ <unclear>p</unclear>om̃ ku
             <lb n="10"/> śrīpa<supplied reason="lost">t</supplied><unclear>ī</unclear><supplied reason="lost">ś</supplied>va<unclear>ra</unclear> gaḥ pūrv<supplied reason="lost">v</supplied>a ta<supplied reason="lost">m̃l·</supplied> kanvā gaḥ dak<supplied reason="lost">ṣ</supplied><unclear>i</unclear>ṇa

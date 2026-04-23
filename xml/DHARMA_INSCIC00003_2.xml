@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -120,17 +120,17 @@
 <body>
 <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83213">             
              <p>
-<lb n="1"/><g type="floretQuatrefoil"/> svasti <g type="floretQuatrefoil"/> yām̃ pom̃ ku śrī jaya parameśvaravarmmadeva dunan· yaḥ senāpatī yām̃ pu rāmadeva pu pom̃ tana rayā nan· rajan· sthāpanā
-<lb n="2"/>rūpa pak· yām̃ pov· ku svayamutpanna nī prayojana bhanaktī dadam̃n· kāla <g type="squiggleVertical">.</g>
+<lb n="1"/><g ref="sym:floret" type="symbol">*</g> svasti <g ref="sym:floret" type="symbol">*</g> yām̃ pom̃ ku śrī jaya parameśvaravarmmadeva dunan· yaḥ senāpatī yām̃ pu rāmadeva pu pom̃ tana rayā nan· rajan· sthāpanā
+<lb n="2"/>rūpa pak· yām̃ pov· ku svayamutpanna nī prayojana bhanaktī dadam̃n· kāla <g ref="sym:bar-curly" type="punctuation">.</g>
                 śakarāja <num value="1155">1155</num> vuḥ kvir· <num value="9">9</num> drim̃ syaṁ <num value="22">22</num> drim̃ pukāṁ sā līmā
-<lb break="no" n="3"/>n· lakiy· sā ṅan· kvir· Icauv· sā bhaṇḍāra glai trya drim̃<!-- or tryam̃ dri?  --> ñaum̃ mahendrapura <g type="danda">.</g> yām̃ nī nāma yām̃ pom̃ ku śrī pa<del><gap reason="illegible" quantity="1" unit="character"/></del>tīśvara
+<lb break="no" n="3"/>n· lakiy· sā ṅan· kvir· Icauv· sā bhaṇḍāra glai trya drim̃<!-- or tryam̃ dri?  --> ñaum̃ mahendrapura <g ref="sym:bar" type="punctuation">.</g> yām̃ nī nāma yām̃ pom̃ ku śrī pa<del><gap reason="illegible" quantity="1" unit="character"/></del>tīśvara
              </p>
             </div>
 
 <div type="apparatus">
 <listApp>
 <app loc="2">
-<lem>kāla <g type="squiggleVertical">.</g></lem>
+<lem>kāla <g ref="sym:bar-curly" type="punctuation">.</g></lem>
 <note>Instead of a punctuation mark, one could read here the <foreign>visarga</foreign> sign, although the <foreign>visarga</foreign> in <foreign>yaḥ</foreign> in the previous line is very differently shaped. Moreover, an almost exact parallel in <ref target="DHARMA_INSCIC00092.xml">C. 92</ref>, face A, ll. 8–10 (<foreign>urām̃ ya bhakti sadākāla ... ni prayojana samr̥ddhi bhanakti dadam̃n· kāla |</foreign>, we have checked the text from the EFEO estampage n. 340) leads us to favor reading a variant of the vertical bar as punctuation. It also seems to offer, with <foreign>urām̃ ya bhakti sadākāla</foreign> <q>man who is devoted at all times</q>, a gloss of the expression <foreign>bhanakti dadam̃n· kāla</foreign>, found in those two inscriptions.</note></app>
 <app loc="3">
 <lem>tryā drim̃</lem><note>We initially read <foreign>tryam̃ dri</foreign>, but if we read <foreign>anusvāra-candra</foreign> on the second syllable, we at least obtain one known word.</note>

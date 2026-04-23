@@ -93,107 +93,106 @@
       <body>
          <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:83213">
            <ab><milestone type="pagelike" unit="face" n="A"/>
-           <lb n="A01"/><g type="ddandaPlain">.</g> Om̐ namaś śivāya <g type="ddandaPlain">.</g>
-            <lb n="A1"/><g type="indistinct">.</g> svasti <g type="ddandaPlain">.</g></ab>
+           <lb n="A01"/><g ref="sym:doubleBar" type="punctuation">.</g> Om̐ namaś śivāya <g ref="sym:doubleBar" type="punctuation">.</g>
+            <lb n="A1"/><g ref="sym:unclassified" type="punctuation">.</g><!--CHECK SYMBOL encoding and content, <unclear> may need to be added--> svasti <g ref="sym:doubleBar" type="punctuation">.</g></ab>
            <lg n="1" met="upendravajrā">
-             <l n="a">jayaty asau yaḥ sura-rāja-cū<choice><orig>d</orig><reg>ḍ</reg></choice>ā <g type="dotMid">.</g></l>
-             <l n="b">maṇīddha-raśmy-ācchuritāṅghri-yugmaḥ <g type="dotMid">.</g></l>
-             <l n="c">Umā-mukhāmbhoja-<seg met="-+-"><gap reason="illegible" quantity="3" unit="character"/></seg><!--nirutta? -->ṇena <supplied reason="lost"><g type="dotMid">.</g></supplied></l>
-             <l n="d"><lb n="A2"/><seg met="-+"><gap reason="illegible" quantity="2" unit="character"/></seg>r<unclear>tt</unclear>itākṣir nnirapekṣa-netraḥ <g type="ddandaPlain">.</g></l>
+             <l n="a">jayaty asau yaḥ sura-rāja-cū<choice><orig>d</orig><reg>ḍ</reg></choice>ā <g ref="sym:bullet-middle" type="punctuation">.</g></l>
+             <l n="b">maṇīddha-raśmy-ācchuritāṅghri-yugmaḥ <g ref="sym:bullet-middle" type="punctuation">.</g></l>
+             <l n="c">Umā-mukhāmbhoja-<seg met="-+-"><gap reason="illegible" quantity="3" unit="character"/></seg><!--nirutta? -->ṇena <supplied reason="lost"><g ref="sym:bullet-middle" type="punctuation">.</g></supplied></l>
+             <l n="d"><lb n="A2"/><seg met="-+"><gap reason="illegible" quantity="2" unit="character"/></seg>r<unclear>tt</unclear>itākṣir nnirapekṣa-netraḥ <g ref="sym:doubleBar" type="punctuation">.</g></l>
            </lg>
            <lg n="2" met="vasantatilakā">
-             <l n="a">saṁmohanena kila viddhyati yaṁ śareṇa <g type="dotMid">.</g></l>
-             <l n="b">kāmo jagat-traya-manohara-vibhra<supplied reason="lost">m</supplied><seg met="+-"><gap reason="illegible" quantity="2" unit="character"/></seg> <supplied reason="lost"><g type="dotMid">.</g></supplied></l>
-             <l n="c"><supplied reason="lost">sma</supplied><lb n="A3" break="no"/>rāt punaḥ sa labhate yad-anaṅga-bhūya<!-- on s'attend à bhūyas (un des s serait-il tombé ?--> <g type="dotMid">.</g></l>
-             <l n="d">smr̥tvā sakr̥d yam abhavat<!--sakr̥dyam: sakr̥d api yam (Huber). Vérifier le mètre.--> puruṣ<choice><sic>o</sic><corr>ā</corr></choice>rttamuktaḥ<!-- puruṣārttamuktaḥ (Huber). Ou puruṣo 'rtthamuktaḥ ?--> <g type="ddandaPlain">.</g></l>
+             <l n="a">saṁmohanena kila viddhyati yaṁ śareṇa <g ref="sym:bullet-middle" type="punctuation">.</g></l>
+             <l n="b">kāmo jagat-traya-manohara-vibhra<supplied reason="lost">m</supplied><seg met="+-"><gap reason="illegible" quantity="2" unit="character"/></seg> <supplied reason="lost"><g ref="sym:bullet-middle" type="punctuation">.</g></supplied></l>
+             <l n="c"><supplied reason="lost">sma</supplied><lb n="A3" break="no"/>rāt punaḥ sa labhate yad-anaṅga-bhūya<!-- on s'attend à bhūyas (un des s serait-il tombé ?--> <g ref="sym:bullet-middle" type="punctuation">.</g></l>
+             <l n="d">smr̥tvā sakr̥d yam abhavat<!--sakr̥dyam: sakr̥d api yam (Huber). Vérifier le mètre.--> puruṣ<choice><sic>o</sic><corr>ā</corr></choice>rttamuktaḥ<!-- puruṣārttamuktaḥ (Huber). Ou puruṣo 'rtthamuktaḥ ?--> <g ref="sym:doubleBar" type="punctuation">.</g></l>
            </lg>
            <lg n="3" met="anuṣṭubh"><!-- sapi2argr Huber a omis cette stance en entier.  -->
-             <l n="a">vācā ratyāṁ nija-svāmī <g type="dotMid">.</g></l>
-             <l n="b">jīvārthinyāṁ mano-jñayā <g type="dotMid">.</g></l>
-             <l n="c"><lb n="A4"/><supplied reason="lost">yu</supplied>ktyā<!--bhaktyā, śaktyā ou Uktyā?--> yo nirmmame kāmaṁ <g type="dotMid">.</g></l>
-             <l n="d">tatsaṅgo <supplied reason="subaudible">'</supplied>bhūt sa pūrvvavat· <g type="ddandaPlain">.</g></l>
+             <l n="a">vācā ratyāṁ nija-svāmī <g ref="sym:bullet-middle" type="punctuation">.</g></l>
+             <l n="b">jīvārthinyāṁ mano-jñayā <g ref="sym:bullet-middle" type="punctuation">.</g></l>
+             <l n="c"><lb n="A4"/><supplied reason="lost">yu</supplied>ktyā<!--bhaktyā, śaktyā ou Uktyā?--> yo nirmmame kāmaṁ <g ref="sym:bullet-middle" type="punctuation">.</g></l>
+             <l n="d">tatsaṅgo <supplied reason="subaudible">'</supplied>bhūt sa pūrvvavat· <g ref="sym:doubleBar" type="punctuation">.</g></l>
            </lg>
            <lg n="4" met="anuṣṭubh">
-             <l n="a">sa Eva bhagavān īśo <g type="dotMid">.</g></l>
-             <l n="b">datta-loka-sukhodayaḥ <g type="dotMid">.</g></l>
-             <l n="c">Eva <lb n="A5"/>śrīśānabhadreśo <g type="dotMid">.</g></l>
-             <l n="d">rāja-śriyam<!--rājaśriyāṁ (Huber)--> akārayat· <g type="ddandaPlain">.</g></l>
+             <l n="a">sa Eva bhagavān īśo <g ref="sym:bullet-middle" type="punctuation">.</g></l>
+             <l n="b">datta-loka-sukhodayaḥ <g ref="sym:bullet-middle" type="punctuation">.</g></l>
+             <l n="c">Eva <lb n="A5"/>śrīśānabhadreśo <g ref="sym:bullet-middle" type="punctuation">.</g></l>
+             <l n="d">rāja-śriyam<!--rājaśriyāṁ (Huber)--> akārayat· <g ref="sym:doubleBar" type="punctuation">.</g></l>
            </lg>
            <lg n="5" met="anuṣṭubh">
-             <l n="a">namitavyo mahī-bhugbhiḥ <g type="dotMid">.</g></l>
-             <l n="b">prajā-pālana-kāṅkṣibhiḥ <g type="dotMid">.</g></l>
+             <l n="a">namitavyo mahī-bhugbhiḥ <g ref="sym:bullet-middle" type="punctuation">.</g></l>
+             <l n="b">prajā-pālana-kāṅkṣibhiḥ <g ref="sym:bullet-middle" type="punctuation">.</g></l>
              <l n="c">rāja-śriyāṁ karāmbho<lb n="A6" break="no"/>jā</l>
-             <l n="d">liṅgitair bbhū-vibhūtaye <g type="ddandaPlain">.</g></l>
+             <l n="d">liṅgitair bbhū-vibhūtaye <g ref="sym:doubleBar" type="punctuation">.</g></l>
            </lg>
             <lg n="6" met="śārdūlavikrīḍita">
-             <l n="a">svasti-prāpta-janānurāgam uday<choice><sic>ū</sic><corr>o</corr></choice>rvvī-strī-vataṁsī bhuve <g type="dotMid">.</g></l>
-             <l n="b">campāyai dhana-dhānya-varddhana-bhr̥te <lb n="A7"/>bhūpendra-kīrttīndunā <g type="dotMid">.</g></l>
-             <l n="c">śaśvad-bhūṣita-bhūmi-maṇḍala-rucā saṁpāditāryya-śriye <g type="dotMid">.</g></l>
-             <l n="d">sūtāyai caraṇa-dvayād bhagavatas tasyo<lb n="A8" break="no"/>dgatenāśunā <g type="ddandaPlain">.</g></l>
+             <l n="a">svasti-prāpta-janānurāgam uday<choice><sic>ū</sic><corr>o</corr></choice>rvvī-strī-vataṁsī bhuve <g ref="sym:bullet-middle" type="punctuation">.</g></l>
+             <l n="b">campāyai dhana-dhānya-varddhana-bhr̥te <lb n="A7"/>bhūpendra-kīrttīndunā <g ref="sym:bullet-middle" type="punctuation">.</g></l>
+             <l n="c">śaśvad-bhūṣita-bhūmi-maṇḍala-rucā saṁpāditāryya-śriye <g ref="sym:bullet-middle" type="punctuation">.</g></l>
+             <l n="d">sūtāyai caraṇa-dvayād bhagavatas tasyo<lb n="A8" break="no"/>dgatenāśunā <g ref="sym:doubleBar" type="punctuation">.</g></l>
            </lg>
            <lg n="7" met="indravajrā">
              <l n="a" enjamb="yes">śrī-kīrtti-saṁpad-vala-vīryya-śūra</l>
-             <l n="b">tyāga-kṣamā-dharmma-guṇānurāgaiḥ <g type="dotMid">.</g></l>
-             <l n="c">śrī-bhadravarmmā pr̥thivīśvaro <supplied reason="subaudible">'</supplied>yaṁ <g type="dotMid">.</g></l>
-             <l n="d">nityānuyā<lb n="A9" break="no"/>to <supplied reason="subaudible">'</supplied>vati tām ivendraḥ <g type="ddandaPlain">.</g></l>
+             <l n="b">tyāga-kṣamā-dharmma-guṇānurāgaiḥ <g ref="sym:bullet-middle" type="punctuation">.</g></l>
+             <l n="c">śrī-bhadravarmmā pr̥thivīśvaro <supplied reason="subaudible">'</supplied>yaṁ <g ref="sym:bullet-middle" type="punctuation">.</g></l>
+             <l n="d">nityānuyā<lb n="A9" break="no"/>to <supplied reason="subaudible">'</supplied>vati tām ivendraḥ <g ref="sym:doubleBar" type="punctuation">.</g></l>
            </lg>
            <lg n="8" met="indravajrā">
-           <l n="a"><seg met="++-++--"><gap reason="lost" quantity="7" unit="character"/></seg>saṁvr̥tāśaiḥ <g type="dotMid">.</g></l> 
-            <l n="b">sañ<unclear>c</unclear>ālikaṁ dharmma-mayaṁ narendraḥ <g type="dotMid">.</g></l> 
-            <l n="c">sthirīcakāreva yuddhiṣṭhiro <supplied reason="subaudible">'</supplied>sau <supplied reason="omitted"><g type="dotMid">.</g></supplied></l>
-           <l n="d"><lb n="A10"/>duryyodhanādyaiḥ <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>i</seg><seg met="-+-+="><gap reason="illegible" quantity="5" unit="character"/></seg> <supplied reason="lost"><g type="ddandaPlain">.</g></supplied></l>
+           <l n="a"><seg met="++-++--"><gap reason="lost" quantity="7" unit="character"/></seg>saṁvr̥tāśaiḥ <g ref="sym:bullet-middle" type="punctuation">.</g></l> 
+            <l n="b">sañ<unclear>c</unclear>ālikaṁ dharmma-mayaṁ narendraḥ <g ref="sym:bullet-middle" type="punctuation">.</g></l> 
+            <l n="c">sthirīcakāreva yuddhiṣṭhiro <supplied reason="subaudible">'</supplied>sau <supplied reason="omitted"><g ref="sym:bullet-middle" type="punctuation">.</g></supplied></l>
+           <l n="d"><lb n="A10"/>duryyodhanādyaiḥ <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>i</seg><seg met="-+-+="><gap reason="illegible" quantity="5" unit="character"/></seg> <supplied reason="lost"><g ref="sym:doubleBar" type="punctuation">.</g></supplied></l>
            </lg> 
            
            <lg n="9" met="vasantatilakā">
-           <l n="a"><seg met="++-+---+--+-+="><gap reason="lost" quantity="14" unit="character"/></seg> <supplied reason="lost"><g type="dotMid">.</g></supplied></l>
-           <l n="b"><seg met="++-"><gap reason="lost" quantity="3" unit="character"/></seg>ṁ <supplied reason="lost">ra</supplied>vim amitra-gaṇās<!--C.148, st. I: devāmitragaṇair --> satāpam· <g type="dotMid">.</g></l> 
-           <l n="c">candraṁ pra<lb n="A11" break="no"/>jāśubha<seg met="-+"><gap reason="lost" quantity="2" unit="character"/></seg>ṁ <seg met="--+-+="><gap reason="lost" quantity="6" unit="character"/></seg> <supplied reason="lost"><g type="dotMid">.</g></supplied></l>
-           <l n="d"><seg met="++-+---+--+-+="><gap reason="lost" quantity="14" unit="character"/></seg> <supplied reason="lost"><g type="ddandaPlain">.</g></supplied></l>
+           <l n="a"><seg met="++-+---+--+-+="><gap reason="lost" quantity="14" unit="character"/></seg> <supplied reason="lost"><g ref="sym:bullet-middle" type="punctuation">.</g></supplied></l>
+           <l n="b"><seg met="++-"><gap reason="lost" quantity="3" unit="character"/></seg>ṁ <supplied reason="lost">ra</supplied>vim amitra-gaṇās<!--C.148, st. I: devāmitragaṇair --> satāpam· <g ref="sym:bullet-middle" type="punctuation">.</g></l> 
+           <l n="c">candraṁ pra<lb n="A11" break="no"/>jāśubha<seg met="-+"><gap reason="lost" quantity="2" unit="character"/></seg>ṁ <seg met="--+-+="><gap reason="lost" quantity="6" unit="character"/></seg> <supplied reason="lost"><g ref="sym:bullet-middle" type="punctuation">.</g></supplied></l>
+           <l n="d"><seg met="++-+---+--+-+="><gap reason="lost" quantity="14" unit="character"/></seg> <supplied reason="lost"><g ref="sym:doubleBar" type="punctuation">.</g></supplied></l>
            </lg>
 
            <lg n="10" met="anuṣṭubh">
-           <l n="a"><seg met="====-"><gap reason="lost" quantity="5" unit="character"/></seg><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>i</seg><seg met="+"><gap reason="lost" quantity="1" unit="character"/></seg>sya <supplied reason="omitted"><g type="dotMid">.</g></supplied></l>
-           <l n="b">yuyutsur vvara-sevakaḥ <unclear><g type="dotMid">.</g></unclear></l> 
-           <l n="c">nā<lb n="A12" break="no"/>mnā yaḥ <unclear>pādara</unclear>kṣo yaḥ <g type="dotMid">.</g></l> 
-           <l n="d">dha<supplied reason="lost">r</supplied><unclear>m</unclear>ma<unclear>-m</unclear>at<unclear>i</unclear>r abhū<unclear>d</unclear> ayam<unclear>·</unclear> <g type="ddandaPlain">.</g></l>
+           <l n="a"><seg met="====-"><gap reason="lost" quantity="5" unit="character"/></seg><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>i</seg><seg met="+"><gap reason="lost" quantity="1" unit="character"/></seg>sya <supplied reason="omitted"><g ref="sym:bullet-middle" type="punctuation">.</g></supplied></l>
+           <l n="b">yuyutsur vvara-sevakaḥ <unclear><g ref="sym:bullet-middle" type="punctuation">.</g></unclear></l> 
+           <l n="c">nā<lb n="A12" break="no"/>mnā yaḥ <unclear>pādara</unclear>kṣo yaḥ <g ref="sym:bullet-middle" type="punctuation">.</g></l> 
+           <l n="d">dha<supplied reason="lost">r</supplied><unclear>m</unclear>ma<unclear>-m</unclear>at<unclear>i</unclear>r abhū<unclear>d</unclear> ayam<unclear>·</unclear> <g ref="sym:doubleBar" type="punctuation">.</g></l>
            </lg>
 
             <lg n="11" met="anuṣṭubh">
            <l n="a">kr̥<seg met="===-++="><gap reason="lost" quantity="7" unit="character"/></seg></l>
            <l n="b"><seg met="====-"><gap reason="lost" quantity="5" unit="character"/></seg><supplied reason="lost">va</supplied>llabhaḥ</l> 
            <l n="c">ta<unclear>d</unclear>-arī<unclear>n</unclear> ajayat sarvvān</l> 
-           <l n="d"><choice><sic>na</sic><corr>ana</corr></choice>ta-svā<lb n="A13" break="no"/>my-anāspadā <g type="ddandaPlain">.</g></l>
+           <l n="d"><choice><sic>na</sic><corr>ana</corr></choice>ta-svā<lb n="A13" break="no"/>my-anāspadā <g ref="sym:doubleBar" type="punctuation">.</g></l>
            </lg>
 
             <lg n="12" met="vasantatilakā">
-             <l n="a">rāja-prasādam atulaṁ hr̥daya-pra<seg met="+"><gap reason="illegible" quantity="1" unit="character"/></seg><seg met="="><gap reason="lost" quantity="1" unit="character"/></seg> <supplied reason="lost"><g type="dotMid">.</g></supplied></l> 
-            <l n="b"><seg met="++-+---+-"><gap reason="lost" quantity="9" unit="character"/></seg> namā<unclear>ra</unclear>bhūtam· <g type="dotMid">.</g></l> 
-            <l n="c">jñebhya śrutaṁ parama-<unclear>ma</unclear>ṅ<unclear>ga</unclear>la-śa<lb n="A14" break="no"/>bda-gītaṁ <unclear><g type="dotMid">.</g></unclear></l>
-            <l n="d">dharmme vibodhayati tasya mano viśud<unclear>dh</unclear>am· <g type="ddandaPlain">.</g></l>
+             <l n="a">rāja-prasādam atulaṁ hr̥daya-pra<seg met="+"><gap reason="illegible" quantity="1" unit="character"/></seg><seg met="="><gap reason="lost" quantity="1" unit="character"/></seg> <supplied reason="lost"><g ref="sym:bullet-middle" type="punctuation">.</g></supplied></l> 
+            <l n="b"><seg met="++-+---+-"><gap reason="lost" quantity="9" unit="character"/></seg> namā<unclear>ra</unclear>bhūtam· <g ref="sym:bullet-middle" type="punctuation">.</g></l> 
+            <l n="c">jñebhya śrutaṁ parama-<unclear>ma</unclear>ṅ<unclear>ga</unclear>la-śa<lb n="A14" break="no"/>bda-gītaṁ <unclear><g ref="sym:bullet-middle" type="punctuation">.</g></unclear></l>
+            <l n="d">dharmme vibodhayati tasya mano viśud<unclear>dh</unclear>am· <g ref="sym:doubleBar" type="punctuation">.</g></l>
             </lg>
             
            <lg n="13" met="vasantatilakā">
-             <l n="a">pitror gguṇān guru-<unclear>tamā</unclear>n paramān guṇā<unclear>n</unclear>ā<g type="dotMid">.</g>m</l> 
-             <l n="b">ākā<unclear>śa</unclear>-bhūmi-pavanā<unclear>gn</unclear>i<lb n="A15" break="no"/>-<unclear>ja</unclear>la-pramāṇān· <g type="dotMid">.</g></l> 
-             <l n="c" enjamb="yes">sañcintayan sumanasā sa śivasya liṅga<g type="dotMid">.</g></l>
-             <l n="d">-saṁsthāpanaṁ pravaram icchati deva-bhaktyā <g type="ddandaPlain">.</g></l></lg> 
+             <l n="a">pitror gguṇān guru-<unclear>tamā</unclear>n paramān guṇā<unclear>n</unclear>ā<g ref="sym:bullet-middle" type="punctuation">.</g>m</l> 
+             <l n="b">ākā<unclear>śa</unclear>-bhūmi-pavanā<unclear>gn</unclear>i<lb n="A15" break="no"/>-<unclear>ja</unclear>la-pramāṇān· <g ref="sym:bullet-middle" type="punctuation">.</g></l> 
+             <l n="c" enjamb="yes">sañcintayan sumanasā sa śivasya liṅga<g ref="sym:bullet-middle" type="punctuation">.</g></l>
+             <l n="d">-saṁsthāpanaṁ pravaram icchati deva-bhaktyā <g ref="sym:doubleBar" type="punctuation">.</g></l></lg> 
             
             <p>tata<seg rend="check">ś candra-dvā-vatāte</seg><supplied reason="lost">na</supplied><gap reason="lost" quantity="1" unit="character"/>
-            <lb n="A16"/>s<unclear>n</unclear>ig<unclear>dha</unclear>-varṇṇam adhikaṁ deva-liṅgam āśu kāritaṁ <seg rend="check">sa</seg> dharaṇi-dhara-rāja-tanayānurūpam iti <g type="ddandaPlain">.</g></p> 
+            <lb n="A16"/>s<unclear>n</unclear>ig<unclear>dha</unclear>-varṇṇam adhikaṁ deva-liṅgam āśu kāritaṁ <seg rend="check">sa</seg> dharaṇi-dhara-rāja-tanayānurūpam iti <g ref="sym:doubleBar" type="punctuation">.</g></p> 
 
              <lg n="14" met="śārdūlavikrīḍita"> <!--sapi2argr REVERIFIER LE MÈTRE, j'ai l'impression que ça ne fonctionne pas tout à fait.-->
              <l n="a">Ā<unclear>śra</unclear>yan-pratipatti-ta<unclear>t</unclear>pa<gap reason="illegible" quantity="1" unit="character"/>rāḥ <seg rend="check">svahva</seg>mano <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>e</seg>
-            <lb n="A17"/><unclear>ma<g type="dotMid">.</g>d</unclear></l> 
-            <l n="b"><unclear>bhū</unclear>mīndreṇa visarjjite <supplied reason="subaudible">'</supplied><unclear>nalamukhe</unclear><!--analamukha apparaît dans C. 99. --> dvic-chittaye sāṁpratam· <g type="dotMid">.</g></l> 
-            <l n="c"><unclear>gra</unclear>nthā-bha<unclear>k</unclear>ti<unclear>lata</unclear><seg met="-"><gap reason="lost" quantity="1" unit="character"/></seg>tas sa<unclear>ma</unclear>h<seg rend="check">uṣa</seg> cata<unclear>mm</unclear>a syatyaya <g type="dotMid">.</g></l> 
+            <lb n="A17"/><unclear>ma<g ref="sym:bullet-middle" type="punctuation">.</g>d</unclear></l> 
+            <l n="b"><unclear>bhū</unclear>mīndreṇa visarjjite <supplied reason="subaudible">'</supplied><unclear>nalamukhe</unclear><!--analamukha apparaît dans C. 99. --> dvic-chittaye sāṁpratam· <g ref="sym:bullet-middle" type="punctuation">.</g></l> 
+            <l n="c"><unclear>gra</unclear>nthā-bha<unclear>k</unclear>ti<unclear>lata</unclear><seg met="-"><gap reason="lost" quantity="1" unit="character"/></seg>tas sa<unclear>ma</unclear>h<seg rend="check">uṣa</seg> cata<unclear>mm</unclear>a syatyaya <g ref="sym:bullet-middle" type="punctuation">.</g></l> 
             <l n="d"><seg met="++"><gap reason="illegible" quantity="2" unit="character"/></seg>
-            <lb n="A18"/>pūjya-manasaṁ <seg met="+---+++-++-="><gap reason="lost" quantity="12" unit="character"/></seg>· <g type="ddandaPlain">.</g></l>
+            <lb n="A18"/>pūjya-manasaṁ <seg met="+---+++-++-="><gap reason="lost" quantity="12" unit="character"/></seg>· <g ref="sym:doubleBar" type="punctuation">.</g></l>
             </lg>
 
            <p><milestone type="pagelike" unit="face" n="B"/>
            <lb n="B1"/><gap reason="lost" quantity="8" unit="character"/> <unclear>pa</unclear>śupati-nayana-maṅgala-<unclear>sa</unclear>mupagata-śaka-pati-samaye mithuna-dinakara-ketu-rajanikara-dhara
-           <lb n="B2" break="no"/>ṇi-tanaye jaladhara-niśākr̥ti pūrvva-<unclear>bhadra-nakṣatra</unclear> <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>u</seg><gap reason="lost" quantity="4" unit="character"/><!-- jaladha- --> rāhuke prathama-<unclear>bhava-sura</unclear>pati-mantri-divasakara-sute <unclear>va</unclear>lī<lb 
-           n="B3" break="no"/>varddha-pati-lagna-samaya-bhr̥gu-tanaye grīṣmarttu-<unclear>kāle</unclear> somavāre kr̥ṣṇa-ṣaṣṭhāhe tena 
+           <lb n="B2" break="no"/>ṇi-tanaye jaladhara-niśākr̥ti pūrvva-<unclear>bhadra-nakṣatra</unclear> <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>u</seg><gap reason="lost" quantity="4" unit="character"/><!-- jaladha- --> rāhuke prathama-<unclear>bhava-sura</unclear>pati-mantri-divasakara-sute <unclear>va</unclear>lī<lb n="B3" break="no"/>varddha-pati-lagna-samaya-bhr̥gu-tanaye grīṣmarttu-<unclear>kāle</unclear> somavāre kr̥ṣṇa-ṣaṣṭhāhe tena 
            <!--Soleil, Ketu et les fils de la terre et la lune (Mercure et Mars) en Gémeaux
            Lune dans le Verseau (jaladhara-niśākr̥ti)
            Jupiter (surapati-mantri) et Saturne (divasakara-suta) dans la 1ère maison
@@ -208,40 +207,36 @@
 
            --> 
            
-           pādarakṣa-nāmnā nara-pati-dr̥ḍha-bhakti-hr̥<lb 
-           n="B4" break="no"/>dayena svāmi-kāryyotsāhena śiva-<unclear>caraṇa</unclear>-smaraṇa-<unclear>pra</unclear><gap reason="illegible" quantity="2" unit="character"/><unclear>-ni</unclear>śa-matinā śraddhāvatā mātāpitr-upa<unclear>kāra</unclear>-jāna<unclear>tā</unclear> mahatyā bhaktyā śrī-dha
-           <lb n="B5" break="no"/><unclear>rmma</unclear>liṅgeśvara<unclear>ḥ</unclear> pratiṣṭhāpitas tayos saṁsāra-mukta<unclear>ye</unclear> <gap reason="illegible" quantity="3" unit="character"/> <unclear>va</unclear>ndhūnāṁ <unclear>m</unclear>uktaye <unclear>ca</unclear> liṅgabhūmi-nāmni grāme <supplied reason="subaudible">'</supplied>sminn iti <g type="ddandaPlain">.</g></p> 
+           pādarakṣa-nāmnā nara-pati-dr̥ḍha-bhakti-hr̥<lb n="B4" break="no"/>dayena svāmi-kāryyotsāhena śiva-<unclear>caraṇa</unclear>-smaraṇa-<unclear>pra</unclear><gap reason="illegible" quantity="2" unit="character"/><unclear>-ni</unclear>śa-matinā śraddhāvatā mātāpitr-upa<unclear>kāra</unclear>-jāna<unclear>tā</unclear> mahatyā bhaktyā śrī-dha
+           <lb n="B5" break="no"/><unclear>rmma</unclear>liṅgeśvara<unclear>ḥ</unclear> pratiṣṭhāpitas tayos saṁsāra-mukta<unclear>ye</unclear> <gap reason="illegible" quantity="3" unit="character"/> <unclear>va</unclear>ndhūnāṁ <unclear>m</unclear>uktaye <unclear>ca</unclear> liṅgabhūmi-nāmni grāme <supplied reason="subaudible">'</supplied>sminn iti <g ref="sym:doubleBar" type="punctuation">.</g></p> 
 
           <lg n="15" met="upajāti">
             <l n="a">śrī-dharmmaliṅgeśva<unclear>ra</unclear> Cva <lb n="B6"/>{2}ṁ</l>
             <l n="b">sa<unclear>ndh</unclear>yāvr̥t<unclear>ā</unclear><unclear>bhras</unclear>taCi{5}</l>
-            <l n="c">(tyanaḥ) {1} manyaja{2}-varggā<g type="dotMid">.</g>n</l> 
-            <l n="d">payānamāyāt satataṁ bhayārttā<unclear>t</unclear>· <g type="ddandaPlain">.</g></l>
+            <l n="c">(tyanaḥ) {1} manyaja{2}-varggā<g ref="sym:bullet-middle" type="punctuation">.</g>n</l> 
+            <l n="d">payānamāyāt satataṁ bhayārttā<unclear>t</unclear>· <g ref="sym:doubleBar" type="punctuation">.</g></l>
            </lg>
 
            <lg n="16" met="anuṣṭubh">
-           <l n="a">tasmai bhagavate <lb n="B7"/>muktiṁ <g type="dotMid">.</g></l> 
-           <l n="b">sakalā<unclear>makalārpittām</unclear>· <g type="dotMid">.</g></l> 
-           <l n="c" enjamb="yes">śrī-bhadravarmmadevaś śrī<g type="dotMid">.</g></l>
-           <l n="d">madi {1} Ci{3}lām· <unclear><g type="ddandaPlain">.</g></unclear></l>
+           <l n="a">tasmai bhagavate <lb n="B7"/>muktiṁ <g ref="sym:bullet-middle" type="punctuation">.</g></l> 
+           <l n="b">sakalā<unclear>makalārpittām</unclear>· <g ref="sym:bullet-middle" type="punctuation">.</g></l> 
+           <l n="c" enjamb="yes">śrī-bhadravarmmadevaś śrī<g ref="sym:bullet-middle" type="punctuation">.</g></l>
+           <l n="d">madi {1} Ci{3}lām· <unclear><g ref="sym:doubleBar" type="punctuation">.</g></unclear></l>
            </lg>
 
            <lg n="17" met="anuṣṭubh"><!-- similar stanza in C. 108-->
-           <l n="a"><supplied reason="lost">ś</supplied>r<unclear>ī</unclear>-bhadravarmma-vacanaṁ <g type="dotMid">.</g></l> 
-           <l n="b">loka-śānti-samudya<lb n="B8" break="no"/>tam· <g type="dotMid">.</g></l> 
-           <l n="c">tāvat te śr̥ṇuyur bbhūp<unclear>ā</unclear> <g type="dotMid">.</g></l> 
-           <l n="d">ravīndū staḥ <unclear>kha-ma</unclear>ṇdale <unclear><g type="ddandaPlain">.</g></unclear></l> 
+           <l n="a"><supplied reason="lost">ś</supplied>r<unclear>ī</unclear>-bhadravarmma-vacanaṁ <g ref="sym:bullet-middle" type="punctuation">.</g></l> 
+           <l n="b">loka-śānti-samudya<lb n="B8" break="no"/>tam· <g ref="sym:bullet-middle" type="punctuation">.</g></l> 
+           <l n="c">tāvat te śr̥ṇuyur bbhūp<unclear>ā</unclear> <g ref="sym:bullet-middle" type="punctuation">.</g></l> 
+           <l n="d">ravīndū staḥ <unclear>kha-ma</unclear>ṇdale <unclear><g ref="sym:doubleBar" type="punctuation">.</g></unclear></l> 
            </lg>
 
            <p>
-           <seg rend="check">parime</seg> nāyakasya pādarakṣasya nāmānukramaṁ vakṣyāmi <g type="dotMid">.</g> pūrvvaṁ kluñ·<lb 
-           n="B9" break="no"/>-vlauy·-nāma <g type="dotMid">.</g> tadanantaraṁ kluñ·-bhaṇḍā<unclear>gāra</unclear>-saṁjñā <g type="dotMid">.</g> punarapi mahāvikramakesarīti<!-- K. 1029 : mahāvikrāntakesari--> nāma <g type="dotMid">.</g> tataḥ kluñ·-dhānyāgāra-saṁjñā <g type="dotMid">.</g> punar eva klu<lb 
-           n="B10" break="no"/>ñ·-mahāśūra-nāma <g type="dotMid">.</g> tataḥ kluñ·-valabhidhānaṁ <g type="dotMid">.</g> <unclear>paś</unclear>c<supplied reason="lost">ā</supplied>t<supplied reason="lost">·</supplied> kluñ·-pādarakṣa-nāmābhavat· <g type="ddandaPlain">.</g></p><!-- regarder si ça existe ailleurs-->
+           <seg rend="check">parime</seg> nāyakasya pādarakṣasya nāmānukramaṁ vakṣyāmi <g ref="sym:bullet-middle" type="punctuation">.</g> pūrvvaṁ kluñ·<lb n="B9" break="no"/>-vlauy·-nāma <g ref="sym:bullet-middle" type="punctuation">.</g> tadanantaraṁ kluñ·-bhaṇḍā<unclear>gāra</unclear>-saṁjñā <g ref="sym:bullet-middle" type="punctuation">.</g> punarapi mahāvikramakesarīti<!-- K. 1029 : mahāvikrāntakesari--> nāma <g ref="sym:bullet-middle" type="punctuation">.</g> tataḥ kluñ·-dhānyāgāra-saṁjñā <g ref="sym:bullet-middle" type="punctuation">.</g> punar eva klu<lb n="B10" break="no"/>ñ·-mahāśūra-nāma <g ref="sym:bullet-middle" type="punctuation">.</g> tataḥ kluñ·-valabhidhānaṁ <g ref="sym:bullet-middle" type="punctuation">.</g> <unclear>paś</unclear>c<supplied reason="lost">ā</supplied>t<supplied reason="lost">·</supplied> kluñ·-pādarakṣa-nāmābhavat· <g ref="sym:doubleBar" type="punctuation">.</g></p><!-- regarder si ça existe ailleurs-->
            
-           <p xml:lang="ocm-Latn"><g type="ddandaPlain">.</g> niy· doṁ humā yāṅ· pu pov· ku 
-           <lb n="B11"/>śrī dharmmaliṅgeśvara <g type="dotMid">.</g> humā (dijā)y· rumaṅ ṅauk· vihāra taṁl· kakai dvil·<!--comparer avec vvil C. 43 et C. 106--> nariy· hajai <unclear>taṁ</unclear>l· dvil· jeṅ· sārtuḥ limā pluḥ jāk· <g type="dotMid">.</g>
-           <lb n="B12"/>vandaḥ dakṣiṇa krauṅ  (d)ijāy· rumaṅ· tūm· sanatap· taṁl· satap· ṅauk· vihāra <unclear>ninma</unclear><!-- peut être = nimna en sanskrit : bas ?--> jeṅ· sārtuḥ jāk· <g type="dotMid">.</g> luvuk· vunauk·<!-- < vauk: marshes--> tarau<lb 
-           n="B13" break="no"/><gap reason="lost" quantity="1" unit="character"/>· <gap reason="lost" quantity="5" unit="character"/>· <unclear>da</unclear>ndau likūt· sanā<unclear>ṁ</unclear><!-- ou lire sanā ou padām--> <g type="dotMid">.</g> dakṣi<supplied reason="lost">na</supplied> <gap reason="lost" quantity="3" unit="character"/> <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>au</seg>au<gap reason="lost" quantity="1" unit="character"/>· <unclear>ravauṁ</unclear> <g type="dotMid">.</g> dandau kuran· rumaṅ· humā <g type="ddandaPlain">.</g> paś<supplied reason="lost">c</supplied>i<seg rend="check">ma</seg> <gap reason="lost" quantity="2" unit="character"/> Aviḥ dlai sāṁ
+           <p xml:lang="ocm-Latn"><g ref="sym:doubleBar" type="punctuation">.</g> niy· doṁ humā yāṅ· pu pov· ku 
+           <lb n="B11"/>śrī dharmmaliṅgeśvara <g ref="sym:bullet-middle" type="punctuation">.</g> humā (dijā)y· rumaṅ ṅauk· vihāra taṁl· kakai dvil·<!--comparer avec vvil C. 43 et C. 106--> nariy· hajai <unclear>taṁ</unclear>l· dvil· jeṅ· sārtuḥ limā pluḥ jāk· <g ref="sym:bullet-middle" type="punctuation">.</g>
+           <lb n="B12"/>vandaḥ dakṣiṇa krauṅ  (d)ijāy· rumaṅ· tūm· sanatap· taṁl· satap· ṅauk· vihāra <unclear>ninma</unclear><!-- peut être = nimna en sanskrit : bas ?--> jeṅ· sārtuḥ jāk· <g ref="sym:bullet-middle" type="punctuation">.</g> luvuk· vunauk·<!-- < vauk: marshes--> tarau<lb n="B13" break="no"/><gap reason="lost" quantity="1" unit="character"/>· <gap reason="lost" quantity="5" unit="character"/>· <unclear>da</unclear>ndau likūt· sanā<unclear>ṁ</unclear><!-- ou lire sanā ou padām--> <g ref="sym:bullet-middle" type="punctuation">.</g> dakṣi<supplied reason="lost">na</supplied> <gap reason="lost" quantity="3" unit="character"/> <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>au</seg>au<gap reason="lost" quantity="1" unit="character"/>· <unclear>ravauṁ</unclear> <g ref="sym:bullet-middle" type="punctuation">.</g> dandau kuran· rumaṅ· humā <g ref="sym:doubleBar" type="punctuation">.</g> paś<supplied reason="lost">c</supplied>i<seg rend="check">ma</seg> <gap reason="lost" quantity="2" unit="character"/> Aviḥ dlai sāṁ
            <gap reason="lost" quantity="3" unit="line"/>
            </p>
 

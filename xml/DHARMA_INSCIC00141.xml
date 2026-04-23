@@ -90,108 +90,102 @@
       <body>
          <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:83213">
            <ab><milestone type="pagelike" unit="face" n="A"/>
-             <lb n="A01"/>Om̐ namaś śivāya <g type="ddanda"/>
-             <lb n="A1"/>svast<supplied reason="lost">i</supplied> <g type="dotMid">.</g>
+             <lb n="A01"/>Om̐ namaś śivāya <g ref="sym:doubleBar" type="punctuation">.</g>
+             <lb n="A1"/>svast<supplied reason="lost">i</supplied> <g ref="sym:bullet-middle" type="punctuation">.</g>
            </ab>
            <lg n="1" met="indravajrā">
-             <l n="a">yo bhasma-rāśyāṁ vahu-sañcayāyāṁ <g type="dotMid">.</g></l>
-             <l n="b">divyaḥ sukhāsīna <unclear>U</unclear>ru-prabhāvaḥ <g type="dotMid">.</g></l>
+             <l n="a">yo bhasma-rāśyāṁ vahu-sañcayāyāṁ <g ref="sym:bullet-middle" type="punctuation">.</g></l>
+             <l n="b">divyaḥ sukhāsīna <unclear>U</unclear>ru-prabhāvaḥ <g ref="sym:bullet-middle" type="punctuation">.</g></l>
 	<!-- argr2sapi: Āru-? or can this be Ūru-? neither option is metrically acceptable. so what about sukhāsīnay uru-prabhāvaḥ? I don't know yet how this could be explained grammatically, if the reading is correct. -->
-             <l n="c">dedīpyate sūryya <lb n="A2"/>Ivāṁśu-mālā <g type="dotMid">.</g></l>
-             <l n="d">pradyotitaḥ khe vigatāmvudeye <g type="ddanda">.</g></l>
+             <l n="c">dedīpyate sūryya <lb n="A2"/>Ivāṁśu-mālā <g ref="sym:bullet-middle" type="punctuation">.</g></l>
+             <l n="d">pradyotitaḥ khe vigatāmvudeye <g ref="sym:doubleBar" type="punctuation">.</g></l>
            </lg>
            <lg n="2" met="indravajrā">
-             <l n="a">vrahmendra-viṣṇv-ādaya Eva devā <g type="dotMid">.</g></l>
-             <l n="b">dr̥ṣṭvā tadā visma<lb n="A3" break="no"/>yam āgatāḥ syuḥ <g type="dotMid">.</g></l>
+             <l n="a">vrahmendra-viṣṇv-ādaya Eva devā <g ref="sym:bullet-middle" type="punctuation">.</g></l>
+             <l n="b">dr̥ṣṭvā tadā visma<lb n="A3" break="no"/>yam āgatāḥ syuḥ <g ref="sym:bullet-middle" type="punctuation">.</g></l>
              <l n="c">tat-prajvalantaṁ yam akhaṇḍitābhaṁ</l>
-             <l n="d">nirdhūmakaṁ vahnim ivājya-yuktam· <g type="ddanda">.</g></l>
+             <l n="d">nirdhūmakaṁ vahnim ivājya-yuktam· <g ref="sym:doubleBar" type="punctuation">.</g></l>
            </lg>
            <lg n="3" met="śārdūlavikrīḍita">
-             <l n="a">devendraḥ kila pū<lb n="A4" break="no"/>rvvato <supplied reason="subaudible">'</supplied>sthita tadā yāmyāṁ sarojodbhava<g type="dotMid"/>ś</l>
+             <l n="a">devendraḥ kila pū<lb n="A4" break="no"/>rvvato <supplied reason="subaudible">'</supplied>sthita tadā yāmyāṁ sarojodbhava<g ref="sym:bullet-middle" type="punctuation">.</g>ś</l>
              <l n="b">candrārkkāv iha pr̥ṣṭhataś ca bhagavān nārāya<choice><sic>n</sic><corr>ṇ</corr></choice>o vāmato</l>
              <l n="c" enjamb="yes">maddhyastho <lb n="A5"/>jvalitābha-raśmi-sahitaś coṅkāra-pūrvvaiḥ svadhā</l>
              <l n="d">-svāhāntair nnija-mantrakaiḥ stutanato yo <supplied reason="subaudible">'</supplied>sau tadādyaiḥ su<lb n="A6" break="no"/>raiḥ</l>
            </lg>
            <lg n="4" met="anuṣṭubh">
-             <l n="a">Atha tad-bhasma-rāśyā yaḥ <g type="dotMid">.</g></l>
-             <l n="b">samutthāyāti-nirmmalaḥ <g type="dotMid">.</g></l>
-             <l n="c">tiṣṭhaty eva nabho-maddhye <g type="dotMid">.</g></l>
-             <l n="d">sūryya-koṭi-sama<lb n="A7" break="no"/>-prabhaḥ <g type="dotMid">.</g><g type="ddanda">.</g></l>
+             <l n="a">Atha tad-bhasma-rāśyā yaḥ <g ref="sym:bullet-middle" type="punctuation">.</g></l>
+             <l n="b">samutthāyāti-nirmmalaḥ <g ref="sym:bullet-middle" type="punctuation">.</g></l>
+             <l n="c">tiṣṭhaty eva nabho-maddhye <g ref="sym:bullet-middle" type="punctuation">.</g></l>
+             <l n="d">sūryya-koṭi-sama<lb n="A7" break="no"/>-prabhaḥ <g ref="sym:bullet-middle" type="punctuation">.</g><g ref="sym:doubleBar" type="punctuation">.</g></l>
            </lg>
            <lg n="5" met="upajāti">
-             <l n="a" enjamb="yes">d<choice><sic>i</sic><corr>ī</corr></choice>kṣā-nimittaṁ kila sarvva-bhāvā<g type="dotMid">.</g></l>
-             <l n="b">nāṁ svāvaśeṣaṁ vara-bhasma tatra <g type="dotMid">.</g></l>
+             <l n="a" enjamb="yes">d<choice><sic>i</sic><corr>ī</corr></choice>kṣā-nimittaṁ kila sarvva-bhāvā<g ref="sym:bullet-middle" type="punctuation">.</g></l>
+             <l n="b">nāṁ svāvaśeṣaṁ vara-bhasma tatra <g ref="sym:bullet-middle" type="punctuation">.</g></l>
              <l n="c">yaḥ padma-yonau guṇa-ma<lb n="A8" break="no"/>ṅgalārthaṁ</l>
-             <l n="d">dadau ca pīyūṣa-bhujāṁ sabhāyām· <g type="ddanda">.</g></l>
+             <l n="d">dadau ca pīyūṣa-bhujāṁ sabhāyām· <g ref="sym:doubleBar" type="punctuation">.</g></l>
            </lg>
            <lg n="6" met="indravajrā">
-             <l n="a">saṁpady aśeṣāṁ pr̥thivīṁ niyogā<g type="dotMid">.</g>d</l>
-             <l n="b">yo bhasma-de<lb n="A9" break="no"/>śām anuśāsti viṣṇum· <g type="dotMid">.</g></l>
-             <l n="c">yo <supplied reason="subaudible">'</supplied>ntarhito <supplied reason="subaudible">'</supplied>bhūt tata Eva devā<supplied reason="omitted"><g type="dotMid">.</g></supplied></l>
-             <l n="d">vrahmādayaḥ svālayam āśu jagmuḥ <g type="dotMid">.</g></l>
+             <l n="a">saṁpady aśeṣāṁ pr̥thivīṁ niyogā<g ref="sym:bullet-middle" type="punctuation">.</g>d</l>
+             <l n="b">yo bhasma-de<lb n="A9" break="no"/>śām anuśāsti viṣṇum· <g ref="sym:bullet-middle" type="punctuation">.</g></l>
+             <l n="c">yo <supplied reason="subaudible">'</supplied>ntarhito <supplied reason="subaudible">'</supplied>bhūt tata Eva devā<supplied reason="omitted"><g ref="sym:bullet-middle" type="punctuation">.</g></supplied></l>
+             <l n="d">vrahmādayaḥ svālayam āśu jagmuḥ <g ref="sym:bullet-middle" type="punctuation">.</g></l>
            </lg>
            <lg n="7" met="upajāti">
              <l n="a" enjamb="yes"><lb n="A10"/><supplied reason="lost">sa</supplied> Eva devaḥ paramātmakaḥ śrī-</l>
-             <l n="b">śāneśvaro loka-gurur nr̥pāṇām·<g type="dotMid">.</g></l>
+             <l n="b">śāneśvaro loka-gurur nr̥pāṇām·<g ref="sym:bullet-middle" type="punctuation">.</g></l>
              <l n="c">pūjyaḥ praṇamyaḥ sa<lb n="A11" break="no"/><supplied reason="lost">ha</supplied> bhr̥tya-varggaiś</l>
-             <l n="d">camparddhi-hetor jjayatīha nityam· <g type="ddanda">.</g></l>
+             <l n="d">camparddhi-hetor jjayatīha nityam· <g ref="sym:doubleBar" type="punctuation">.</g></l>
            </lg>
            <lg n="8" met="upajāti">
              <l n="a">śrī-bhadravarmmā bhr̥gu-vaṁśa-nāka-</l>
              <l n="b">can<unclear>dra</unclear><lb n="A12" break="no"/><supplied reason="lost">s sa cam</supplied><unclear>pā</unclear>-nagarīn narendraḥ</l>
              <l n="c">guṇena vr̥ddhyā ca śatāna-vr̥ttim<!-- argr2sapi: I don't understand what śatāna- could mean, unless it is śata-an-a- which seems a bit unlikely. Emend saṁtāna-? --></l>
-             <l n="d">alaṅkaroty uttama-dhīr iveyam·<note>This assumes that iveyam is wrong for ivāyam. Alternatively, we could assume that the king is compared with a feminine thing. We have further guessed that śatānavṛttim is an error for śatānuvṛttim.  Perhaps it is intended as a bahuvrīhi describing Campānagarī but intended to function adverbially: he adorned the city in such a way that it was adorned with hundreds of repetitions (night after night, like the moon). It is conceivable that a grammatical joke is intended, guṇa and vṛddhi being technical terms of grammar.</note> <unclear><g type="ddanda">.</g></unclear></l>
+             <l n="d">alaṅkaroty uttama-dhīr iveyam·<note>This assumes that iveyam is wrong for ivāyam. Alternatively, we could assume that the king is compared with a feminine thing. We have further guessed that śatānavṛttim is an error for śatānuvṛttim.  Perhaps it is intended as a bahuvrīhi describing Campānagarī but intended to function adverbially: he adorned the city in such a way that it was adorned with hundreds of repetitions (night after night, like the moon). It is conceivable that a grammatical joke is intended, guṇa and vṛddhi being technical terms of grammar.</note> <unclear><g ref="sym:doubleBar" type="punctuation">.</g></unclear></l>
            </lg>
            
            <lg met="āryāgīti" n="9">
-           <l n="ab"><supplied reason="lost">ya</supplied><lb n="A13" break="no"/><supplied reason="lost">syāva</supplied>ni<unclear>ṁ</unclear> jitavataḥ <g type="dotMid">.</g> keyūrāṁśu-prabhāsita-bhuja-valena <g type="dotMid">.</g></l> 
+           <l n="ab"><supplied reason="lost">ya</supplied><lb n="A13" break="no"/><supplied reason="lost">syāva</supplied>ni<unclear>ṁ</unclear> jitavataḥ <g ref="sym:bullet-middle" type="punctuation">.</g> keyūrāṁśu-prabhāsita-bhuja-valena <g ref="sym:bullet-middle" type="punctuation">.</g></l> 
           <l n="cd"> yātā jaya-d<choice><sic>i</sic><corr>u</corr></choice>ndubhitāṁ n<choice><sic>u</sic><corr>ū</corr></choice><unclear>pu</unclear><supplied reason="lost">ra</supplied><!-- or nu yasya diśo? But that would give two times yasya in one stanza.-->
-           <lb n="A14"/><seg met="--"><gap reason="lost" quantity="2" unit="character"/></seg> ghora-ghoṣa-saṁkulitāntāḥ <g type="ddanda">.</g></l></lg>
+           <lb n="A14"/><seg met="--"><gap reason="lost" quantity="2" unit="character"/></seg> ghora-ghoṣa-saṁkulitāntāḥ <g ref="sym:doubleBar" type="punctuation">.</g></l></lg>
 
            
            <lg met="vasantatilakā" n="10">
-           <l n="a" enjamb="yes">deśāntarāgata-mahīpati-dūta-saṁgha-<g type="dotMid">.</g></l>
+           <l n="a" enjamb="yes">deśāntarāgata-mahīpati-dūta-saṁgha-<g ref="sym:bullet-middle" type="punctuation">.</g></l>
            <l n="b">j<supplied reason="lost">uṣṭāryya</supplied><lb n="A15" break="no"/><supplied reason="lost">pāda</supplied>-yugalasya nr̥pasya kīrttiḥ</l> 
-           <l n="c">saṁpūrṇṇa-candra-dhavalā bhuvana-prakīrṇṇā <g type="dotMid">.</g></l> <l n="d">pra<unclear>jñā</unclear><seg met="-"><gap reason="lost" quantity="1" unit="character"/></seg><milestone type="pagelike" unit="face" n="B" break="no"/><lb n="B1" break="no"/>lena gamitā ka<unclear>dh</unclear><supplied reason="lost">i</supplied>-<unclear>pāram a</unclear>nyat· <supplied reason="lost"><g type="ddanda">.</g></supplied></l></lg>
+           <l n="c">saṁpūrṇṇa-candra-dhavalā bhuvana-prakīrṇṇā <g ref="sym:bullet-middle" type="punctuation">.</g></l> <l n="d">pra<unclear>jñā</unclear><seg met="-"><gap reason="lost" quantity="1" unit="character"/></seg><milestone type="pagelike" unit="face" n="B" break="no"/><lb n="B1" break="no"/>lena gamitā ka<unclear>dh</unclear><supplied reason="lost">i</supplied>-<unclear>pāram a</unclear>nyat· <supplied reason="lost"><g ref="sym:doubleBar" type="punctuation">.</g></supplied></l></lg>
            
            <lg n="11" met="āryāgīti">
-           <l n="ab"><unclear cert="low">pa</unclear>tir<!-- matir? but it's feminine.--> asya vihita-tapasaḥ<g type="dotMid">.</g>
+           <l n="ab"><unclear cert="low">pa</unclear>tir<!-- matir? but it's feminine.--> asya vihita-tapasaḥ<g ref="sym:bullet-middle" type="punctuation">.</g>
            <lb n="B2"/>saj-jana-gīto bubodha bhuvi <seg met="--++"><gap reason="lost" quantity="4" unit="character"/></seg></l> 
-          <l n="cd"><unclear>ya</unclear>jñe śuci-mati-caturaḥ <g type="dotMid">.</g> pū<unclear>j</unclear>yās tryagnīs surāś ca
-           <lb n="B3"/><gap reason="lost" quantity="1" unit="character"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg>-mati-caturaḥ <g type="dotMid">.</g> <g type="ddanda">.</g></l>
+          <l n="cd"><unclear>ya</unclear>jñe śuci-mati-caturaḥ <g ref="sym:bullet-middle" type="punctuation">.</g> pū<unclear>j</unclear>yās tryagnīs surāś ca
+           <lb n="B3"/><gap reason="lost" quantity="1" unit="character"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg>-mati-caturaḥ <g ref="sym:bullet-middle" type="punctuation">.</g> <g ref="sym:doubleBar" type="punctuation">.</g></l>
            </lg>
 
          <lg n="12" met="anuṣṭubh">
-           <l n="a">saṁ pātu viduṣo <unclear>ka</unclear>rmma <g type="dotMid">.</g></l>
+           <l n="a">saṁ pātu viduṣo <unclear>ka</unclear>rmma <g ref="sym:bullet-middle" type="punctuation">.</g></l>
            <l n="b">saṁ pā<supplied reason="lost">t</supplied>u <supplied reason="lost">vi</supplied>duṣo vacaḥ</l>
            <l n="c">saṁ śivāntara-kailāsaś</l>
-           <l n="d">śiv<unclear>ā</unclear>ntara-v<supplied reason="lost">i</supplied>do <lb n="B4"/><supplied reason="subaudible">'</supplied><supplied reason="lost">vatu</supplied><!-- argr2sapi: the last two syllables are entirely conjectural; in the context of karma and vacaḥ, one also thinks of the triad deed-speech-thought, and so we might have manaḥ instead of 'vatu, though I feel we need a verb.--> <g type="ddanda">.</g></l>
+           <l n="d">śiv<unclear>ā</unclear>ntara-v<supplied reason="lost">i</supplied>do <lb n="B4"/><supplied reason="subaudible">'</supplied><supplied reason="lost">vatu</supplied><!-- argr2sapi: the last two syllables are entirely conjectural; in the context of karma and vacaḥ, one also thinks of the triad deed-speech-thought, and so we might have manaḥ instead of 'vatu, though I feel we need a verb.--> <g ref="sym:doubleBar" type="punctuation">.</g></l>
          </lg>
 
          <p>sa Eva tapasvī tapasyām anuca<unclear>ra</unclear>ś carācara-guru<unclear>va</unclear><gap reason="lost" quantity="2" unit="character"/> sa<unclear>n</unclear>ni<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg><gap reason="lost" quantity="4" unit="character"/>rīrita-dūrita-durita-karmmā <unclear>p</unclear>u<lb n="B5" break="no"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>s<supplied reason="lost">u</supplied>ra-piśāca-varjjito jitendriyo <supplied reason="subaudible">'</supplied>pi 
 <!-- argr2sapi: maybe puṇya-samūho -->
-pu<choice><sic>n</sic><corr>ṇ</corr></choice>ya-sa<choice><unclear>m</unclear><unclear>dh</unclear></choice><seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg> <gap reason="lost" quantity="2" unit="character"/> ro<unclear>ṣa-sa</unclear>h<supplied reason="lost">i</supplied>to hitopadeśam anāma<lb n="B6" break="no"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> yāgavid-vidu<unclear>ṣā</unclear>ṁ mānyo mānita-sakala-jano janita-kuśalo loka-yātra-paṭuḥ paṭūnāṁ dhīra-bu<lb 
-n="B7" break="no"/><supplied reason="lost">ddhi</supplied><unclear>r</unclear> <supplied reason="lost">i</supplied>ti <g type="ddanda">.</g></p> 
-<p>Atha kadācid-velāyāṁ dhyāne samadhigata-manā<!-- samādhigata- ? --> <unclear>bha</unclear>s<unclear>m</unclear>āṅga-rāgaṁ dhavalī-kr̥taṁ sva-śarīram avalo<lb 
-n="B8" break="no"/><supplied reason="lost">kya</supplied> <unclear>dha</unclear>yatīdr̥śam idaṁ bhasma hi kṣīrārṇṇava-taraṅga-phe<choice><sic><unclear>n</unclear></sic><corr>ṇ</corr></choice><unclear>a-dha</unclear>valaṁ kuṇḍendu-dyuti ca kasya dhanaṁ śīla<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg><gap reason="lost" quantity="1" unit="character"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg><gap reason="lost" quantity="1" unit="character"/>
+pu<choice><sic>n</sic><corr>ṇ</corr></choice>ya-sa<choice><unclear>m</unclear><unclear>dh</unclear></choice><seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg> <gap reason="lost" quantity="2" unit="character"/> ro<unclear>ṣa-sa</unclear>h<supplied reason="lost">i</supplied>to hitopadeśam anāma<lb n="B6" break="no"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> yāgavid-vidu<unclear>ṣā</unclear>ṁ mānyo mānita-sakala-jano janita-kuśalo loka-yātra-paṭuḥ paṭūnāṁ dhīra-bu<lb n="B7" break="no"/><supplied reason="lost">ddhi</supplied><unclear>r</unclear> <supplied reason="lost">i</supplied>ti <g ref="sym:doubleBar" type="punctuation">.</g></p> 
+<p>Atha kadācid-velāyāṁ dhyāne samadhigata-manā<!-- samādhigata- ? --> <unclear>bha</unclear>s<unclear>m</unclear>āṅga-rāgaṁ dhavalī-kr̥taṁ sva-śarīram avalo<lb n="B8" break="no"/><supplied reason="lost">kya</supplied> <unclear>dha</unclear>yatīdr̥śam idaṁ bhasma hi kṣīrārṇṇava-taraṅga-phe<choice><sic><unclear>n</unclear></sic><corr>ṇ</corr></choice><unclear>a-dha</unclear>valaṁ kuṇḍendu-dyuti ca kasya dhanaṁ śīla<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg><gap reason="lost" quantity="1" unit="character"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg><gap reason="lost" quantity="1" unit="character"/>
          <lb n="B9"/><gap reason="lost" quantity="2" unit="character"/> <unclear>ma</unclear>homahāṁ<!-- argr2sapi: homahaṁ, plutôt?  --> <unclear>ta</unclear><supplied reason="lost">sya pa</supplied>śupateḥ <unclear>sa</unclear><supplied reason="lost">kala-tr</supplied>i<unclear>bh</unclear>uvana-vandita-<unclear>ca</unclear>raṇa-yugalasyedaṁ <gap reason="lost" quantity="5" unit="character"/>
-         <lb n="B10" break="no"/><choice><unclear>v</unclear><unclear>bh</unclear></choice>yam eva parameśvara-sthāpanā karttavyā mayā sarvva-muktaye Iti <g type="ddanda">.</g></p> 
+         <lb n="B10" break="no"/><choice><unclear>v</unclear><unclear>bh</unclear></choice>yam eva parameśvara-sthāpanā karttavyā mayā sarvva-muktaye Iti <g ref="sym:doubleBar" type="punctuation">.</g></p> 
          
-         <p><gap reason="lost" quantity="6" unit="character"/> <supplied reason="lost">ma</supplied><lb 
-         n="B11" break="no"/>ṅgala-niyamita-śakapati-samaye prathama-bhava-bhānu-bhānusuta-ketu-dharaṇi<gap reason="lost" quantity="4" unit="character"/><lb 
-         n="B12" break="no"/>ya-mithuna-lagna-suraguru-rajanikara-makara-rāhu-jalacara-ditijaguru sama<gap reason="lost" quantity="2" unit="character"/> <supplied reason="lost">ṣa</supplied><lb 
-         n="B13" break="no"/>ṣṭāha-ravivāra-punarvvasu-bhāyāṁ <unclear>ta</unclear>dā paramaḥ <supplied reason="lost">para</supplied>meśvaraḥ parama-śivāntareśvara<gap reason="lost" quantity="3" unit="character"/>
-         <lb n="B14"/><unclear>d</unclear>u <gap reason="lost" quantity="1" unit="character"/>tt<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg> <gap reason="lost" quantity="2" unit="character"/> svinā śivānta<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>ai</seg> <gap reason="lost" quantity="6" unit="character"/> <unclear>mahāmuni</unclear>nā mahāmuni-mata <gap reason="lost" quantity="4" unit="character"/> <supplied reason="lost">pra</supplied><lb 
-         n="B15" break="no"/>tiṣṭhāpita Iti <g type="ddandaPlain">.</g>
+         <p><gap reason="lost" quantity="6" unit="character"/> <supplied reason="lost">ma</supplied><lb n="B11" break="no"/>ṅgala-niyamita-śakapati-samaye prathama-bhava-bhānu-bhānusuta-ketu-dharaṇi<gap reason="lost" quantity="4" unit="character"/><lb n="B12" break="no"/>ya-mithuna-lagna-suraguru-rajanikara-makara-rāhu-jalacara-ditijaguru sama<gap reason="lost" quantity="2" unit="character"/> <supplied reason="lost">ṣa</supplied><lb n="B13" break="no"/>ṣṭāha-ravivāra-punarvvasu-bhāyāṁ <unclear>ta</unclear>dā paramaḥ <supplied reason="lost">para</supplied>meśvaraḥ parama-śivāntareśvara<gap reason="lost" quantity="3" unit="character"/>
+         <lb n="B14"/><unclear>d</unclear>u <gap reason="lost" quantity="1" unit="character"/>tt<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg> <gap reason="lost" quantity="2" unit="character"/> svinā śivānta<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>ai</seg> <gap reason="lost" quantity="6" unit="character"/> <unclear>mahāmuni</unclear>nā mahāmuni-mata <gap reason="lost" quantity="4" unit="character"/> <supplied reason="lost">pra</supplied><lb n="B15" break="no"/>tiṣṭhāpita Iti <g ref="sym:doubleBar" type="punctuation">.</g>
        </p>
        <lg n="13" met="anuṣṭubh">
-         <l n="a">śrī-bhadravarmmaṇā dattā <g type="dotMid">.</g></l>
+         <l n="a">śrī-bhadravarmmaṇā dattā <g ref="sym:bullet-middle" type="punctuation">.</g></l>
          <l n="b">tasmai muktir iyaṁ pa<supplied reason="lost">rā</supplied></l>
          <l n="c"><supplied reason="lost">yāvat sū</supplied><lb n="B16" break="no"/>ryyaś ca candraś ca</l>
-         <l n="d">tāvad asti mahī-tale <g type="ddanda">.</g> <g type="dotMid">.</g></l>
+         <l n="d">tāvad asti mahī-tale <g ref="sym:doubleBar" type="punctuation">.</g> <g ref="sym:bullet-middle" type="punctuation">.</g></l>
        </lg>
        <p xml:lang="ocm-Latn">siy· mapa<gap reason="lost" quantity="4" unit="character"/><!-- argr2sapi: based on parallels we can restore mapamataḥ -->
-        <lb n="B17"/>niy· Asuv· ñū ndoy· Inā ñū <g type="ddandaPlain">.</g>
+        <lb n="B17"/>niy· Asuv· ñū ndoy· Inā ñū <g ref="sym:doubleBar" type="punctuation">.</g>
       </p>
          </div>
          <div type="apparatus">
@@ -310,8 +304,8 @@ n="B8" break="no"/><supplied reason="lost">kya</supplied> <unclear>dha</unclear>
                  <rdg source="bib:Huber1911_02"><gap reason="undefined"/>jñe</rdg>
              </app>
              <app loc="B2">
-                 <lem><g type="dotMid">.</g> pū<unclear>j</unclear>yās tryagnīs</lem>
-                 <rdg source="bib:Huber1911_02"><g type="dandaPlain">.</g> <gap reason="undefined"/> agnīs</rdg>
+                 <lem><g ref="sym:bullet-middle" type="punctuation">.</g> pū<unclear>j</unclear>yās tryagnīs</lem>
+                 <rdg source="bib:Huber1911_02"><g ref="sym:bar" type="punctuation">.</g> <gap reason="undefined"/> agnīs</rdg>
              </app>
              <!--<app loc="B3">
                  <lem>-caturaḥ <g type="dotMid">.</g> <g type="ddandaPlain">.</g></lem>
@@ -360,7 +354,7 @@ n="B8" break="no"/><supplied reason="lost">kya</supplied> <unclear>dha</unclear>
                  <note><foreign>dhīrabu</foreign>-: what seems to be an <foreign>anusvāra</foreign> on top of ra on the estampage reveals itself as an accidental scratch on the stone.</note>
              </app>
              <app loc="B7">
-                 <lem><unclear>r</unclear> <supplied reason="lost">i</supplied>ti <g type="ddanda">.</g> Atha kadācid-</lem>
+                 <lem><unclear>r</unclear> <supplied reason="lost">i</supplied>ti <g ref="sym:doubleBar" type="punctuation">.</g> Atha kadācid-</lem>
                  <rdg source="bib:Huber1911_02"><gap reason="undefined"/></rdg>
              </app>
              <app loc="B7">

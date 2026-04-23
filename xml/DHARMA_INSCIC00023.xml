@@ -67,19 +67,13 @@
                         under the European Union's Horizon 2020 research and innovation programme (grant
                         agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                             ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
                             <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
@@ -102,11 +96,11 @@
 	<l n="a"><lb n="1"/><milestone unit="zone" n="a"/>vikrānteśvaralokau yau</l>
 	<l n="b"><milestone unit="zone" n="b"/>tayor nr̥pau sa nāyakaḥ</l>
 	<l n="c"><lb n="2"/><milestone unit="zone" n="a"/>samanta<supplied reason="omitted">ḥ</supplied> prathito nāmnā</l>
-	<l n="d"><milestone unit="zone" n="b"/>tasya puṇyam idaṁ matam·<g type="ddanda">.</g></l>
+	<l n="d"><milestone unit="zone" n="b"/>tasya puṇyam idaṁ matam·<g ref="sym:doubleBar" type="punctuation">.</g></l>
 </lg>
 <lg n="2" met="anuṣṭubh">
 	<l n="a" real="-+++--++"><lb n="3"/><milestone unit="zone" n="a"/>vihārau deva-kule <subst><del rend="corrected">dvau</del><add place="inline">dve</add></subst></l>
-	<l n="b"><milestone unit="zone" n="b"/>jina-śaṅkarayos tayoḥ<g type="ddanda">.</g></l>
+	<l n="b"><milestone unit="zone" n="b"/>jina-śaṅkarayos tayoḥ<g ref="sym:doubleBar" type="punctuation">.</g></l>
 	<l n="c" real="+-+++--+"><lb n="4"/><milestone unit="zone" n="a"/>pūjanārthaṁ prakurute</l><!-- bha-vipulā! -->
 	<l n="d"><milestone unit="zone" n="b"/>tāṅ gatiṁ pragataś śubhām·</l>
 </lg>
@@ -120,15 +114,15 @@
 	<l n="a"><lb n="7"/><milestone unit="zone" n="a"/>samanta-putras sthaviraḥ</l>
 	<l n="b"><milestone unit="zone" n="b"/>buddhanirvvāṇa-saṁjñakaḥ</l>
 	<l n="c"><add place="bottom" rend="mark"><lb n="15"/>kāvyasya karaṇañ cakre</add></l>
-	<l n="d"><add place="bottom" rend="mark"><lb n="16"/>jñātaye bhūtale nr̥ṇām·<g type="ddanda">.</g></add></l>
+	<l n="d"><add place="bottom" rend="mark"><lb n="16"/>jñātaye bhūtale nr̥ṇām·<g ref="sym:doubleBar" type="punctuation">.</g></add></l>
 </lg>
-<p xml:lang="ocm-Latn"><lb n="8"/>humā pralauṅ·<g type="ddanda">.</g> humā padaiṅ·<g type="ddanda">.</g> ney· śaka vanuḥ humā dvā nan·
-<lb n="9"/> <num value="751">751</num><g type="ddanda">.</g>
-<lb n="10"/>yāṅ· maṇḍara di parvvata<g type="ddanda">.</g>
-<lb n="11"/>vihāra devarakṣa di krauṅ·<g type="ddanda">.</g>
-<lb n="12"/>yāṅ· praṇaveśvara di mandauḥ<g type="ddanda">.</g>
+<p xml:lang="ocm-Latn"><lb n="8"/>humā pralauṅ·<g ref="sym:doubleBar" type="punctuation">.</g> humā padaiṅ·<g ref="sym:doubleBar" type="punctuation">.</g> ney· śaka vanuḥ humā dvā nan·
+<lb n="9"/> <num value="751">751</num><g ref="sym:doubleBar" type="punctuation">.</g>
+<lb n="10"/>yāṅ· maṇḍara di parvvata<g ref="sym:doubleBar" type="punctuation">.</g>
+<lb n="11"/>vihāra devarakṣa di krauṅ·<g ref="sym:doubleBar" type="punctuation">.</g>
+<lb n="12"/>yāṅ· praṇaveśvara di mandauḥ<g ref="sym:doubleBar" type="punctuation">.</g>
 <lb n="13"/>vihāra ney· Avista nan· sā pu
-<lb n="14"/>pov· puṇya<g type="ddanda">.</g></p>
+<lb n="14"/>pov· puṇya<g ref="sym:doubleBar" type="punctuation">.</g></p>
 </div>
 <div type="textpart" subtype="trial" n="2">
 	<head xml:lang="eng">Trials unexposed</head>

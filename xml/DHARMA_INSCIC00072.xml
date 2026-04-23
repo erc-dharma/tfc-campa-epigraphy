@@ -43,9 +43,7 @@
 						<editor>Arlo Griffiths</editor>
 					</titleStmt>
 					<editionStmt>
-						<p>First digital edition made by École française d'Extrême-Orient (EFEO), realized in collaboration with the Institute for the Study of the Ancient World (ISAW) at New York University as <ref
-							target="https://isaw.nyu.edu/publications/inscriptions/campa/index.html"
-							>The Corpus of the Inscriptions of Campā, in 2010-2012.</ref> </p>
+						<p>First digital edition made by École française d'Extrême-Orient (EFEO), realized in collaboration with the Institute for the Study of the Ancient World (ISAW) at New York University as <ref target="https://isaw.nyu.edu/publications/inscriptions/campa/index.html">The Corpus of the Inscriptions of Campā, in 2010-2012.</ref> </p>
 					</editionStmt>
 					<publicationStmt>
 						<authority>École française d'Extrême-Orient (EFEO)</authority>
@@ -94,27 +92,21 @@
 			<projectDesc>
 				<p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
 			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
 			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
 					<p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
 				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+				<prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
 					<p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
 				</prefixDef>
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change when="2021-08-04" who="part:argr" status="draft"
-				>resolved validation problems; global revision still required</change>
+			<change when="2021-08-04" who="part:argr" status="draft">resolved validation problems; global revision still required</change>
 			<change when="2020-09-16" who="part:argr" status="draft">adjusted respStmt</change>
-			<change when="2020-09-16" who="part:axja" status="draft"
-				>Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
-			<change when="2020-09-15" who="part:argr" status="draft"
-				>processed the Campa file (which was unfinished, text and translation being mere copy/paste from a .tex file) to remove all LaTeX tags</change>
+			<change when="2020-09-16" who="part:axja" status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
+			<change when="2020-09-15" who="part:argr" status="draft">processed the Campa file (which was unfinished, text and translation being mere copy/paste from a .tex file) to remove all LaTeX tags</change>
 		</revisionDesc>
 	</teiHeader>
 	<facsimile>
@@ -130,7 +122,7 @@
 	</facsimile>
 	<text xml:space="preserve">
         <body><div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:00000">
-                        <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A1"/>s<supplied reason="lost">i</supplied>ddham· <g type="spiral">☉</g> nam<supplied reason="lost">o</supplied></ab>
+                        <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A1"/>s<supplied reason="lost">i</supplied>ddham· <g ref="sym:spiral">☉</g> nam<supplied reason="lost">o</supplied></ab>
                   <lg met="anuṣṭubh" n="1"><!--The following is a collage of Anuṣṭubh elements, some of which attested in Indian Sanskrit literature, seemingly not all placed in the right metrical position, and with many other transgressions of the meter, most of which easily rectified. Only the syntactically necessary corrections are mentioned below. I may add here that <foreign>me</foreign> no doubt needs to be supplied before <foreign>vyapohantu</foreign> in l.~4.-->
 	<l n="a">maheśvara<unclear>M</unclear> Umāñ ca Agn<supplied reason="lost">i</supplied>ñ ca</l>
 	<l n="b"><lb n="A2"/><unclear>bra</unclear>hmāṇaṁ viṣṇum eva ca</l>
@@ -164,11 +156,11 @@ Ahannisvāret<unclear>o</unclear>; dharmmo bhaviṣyati
 				<div type="apparatus">
 					<listApp>
 						<app loc="A1">
-							<lem><g type="spiral">☉</g></lem>
+							<lem><g ref="sym:spiral">☉</g></lem>
 							<note>sign in the form of a <hi rend="italic">triśūla</hi>.</note>
 						</app>
 							<app loc="A1">
-								<lem><g type="spiral">☉</g> svasti</lem><note>Finot omits the spiral-shaped fleuron and inserts after <foreign>svasti</foreign> the sign <g>||</g> which is not actually there.</note></app><app loc="I"><lem>s<unclear>a</unclear>sureśamukhyā</lem><note>the reading with short <foreign>a</foreign> in <foreign>sa</foreign> is uncertain. Judging only by the estampage, one might be inclined to read <foreign>sā</foreign>, but this would be unmetrical. See the note to our translation.</note>
+								<lem><g ref="sym:spiral">☉</g> svasti</lem><note>Finot omits the spiral-shaped fleuron and inserts after <foreign>svasti</foreign> the sign <g>||</g> which is not actually there.</note></app><app loc="I"><lem>s<unclear>a</unclear>sureśamukhyā</lem><note>the reading with short <foreign>a</foreign> in <foreign>sa</foreign> is uncertain. Judging only by the estampage, one might be inclined to read <foreign>sā</foreign>, but this would be unmetrical. See the note to our translation.</note>
 							</app>
 								<app loc="A1">
 									<lem>maheśvara<unclear>M</unclear></lem>

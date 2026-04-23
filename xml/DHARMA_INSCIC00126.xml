@@ -66,18 +66,12 @@
          <projectDesc>
             <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
@@ -89,8 +83,8 @@
    <text xml:space="preserve">
 <body>
 <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83213">            
-            <ab xml:lang="san-Latn"><lb n="1"/><g type="ddanda"/> <g type="floretQuatrefoil"/> <g type="ddanda"/> Om̐ namaś śivāya <g type="ddanda"/><g type="danda"/> <g type="floretQuatrefoil"/> <g type="ddanda"/></ab> 
-<p><lb n="2"/><g type="ddanda"/> śakarāja <num value="977">977</num> <g type="ddanda"/> kāla yām̃ po ku śrī parameśvaravarmmadeva punaḥ guhā niy·</p>
+            <ab xml:lang="san-Latn"><lb n="1"/><g ref="sym:doubleBar" type="punctuation">.</g> <g ref="sym:floret" type="symbol">*</g> <g ref="sym:doubleBar" type="punctuation">.</g> Om̐ namaś śivāya <g ref="sym:doubleBar" type="punctuation">.</g><g ref="sym:bar" type="punctuation">.</g> <g ref="sym:floret" type="symbol">*</g> <g ref="sym:doubleBar" type="punctuation">.</g></ab> 
+<p><lb n="2"/><g ref="sym:doubleBar" type="punctuation">.</g> śakarāja <num value="977">977</num> <g ref="sym:doubleBar" type="punctuation">.</g> kāla yām̃ po ku śrī parameśvaravarmmadeva punaḥ guhā niy·</p>
 </div>
 <div type="apparatus"/>
       <div type="translation" resp="part:argr">

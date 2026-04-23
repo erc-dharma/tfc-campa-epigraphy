@@ -83,7 +83,7 @@
          <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83213">
            <!-- sapi2argr : "Atam̃ṁ" est-elle toujours la bonne manière d'inscrire cette forme d'anusvāra ?  -->
            <p><milestone type="pagelike" unit="face" n="A"/>
-             <lb n="A1"/><g type="floretQuatrefoil"/> <g type="danda"/> madā humā sā sthāna di panrām̃ Anan· humā satām̃ prathama di Īśā
+             <lb n="A1"/><g ref="sym:floret" type="symbol">*</g> <g ref="sym:bar" type="punctuation">.</g> madā humā sā sthāna di panrām̃ Anan· humā satām̃ prathama di Īśā
              <lb n="A2" break="no"/>na vik· pyā humā nagara nau dakṣiṇa sā Āra saum̃ humā nagara nau paścima
              <lb n="A3"/>sā āra saum̃ humā nagara nau uttara mvyak· nau paścima mvyak· nau dakṣiṇa naiR̥
              <lb n="A4" break="no"/>tī sā Āra saum̃ humā nagara nau pūrvva mvyak· nau dakṣiṇa sā Āra sauṅ· humā
@@ -100,44 +100,44 @@
              <lb n="A15"/>humā nagara nau paścima sā Āra sauṅ· humā nagara tipā ravaum̃ rayā nau Uttara cram̃ḥ
              <lb n="A16"/>tdaḥ Arāma nau p<choice><sic>u</sic><corr>ū</corr></choice>rvva tipā ravaum̃ rayā cram̃ḥ tdaḥ arāma nau pūrvva mulam̃ sā Āra s
              <lb n="A17" break="no"/>auṅ· humā nagara tam̃l· prathama Alā humā Atam̃ṁ klum̃ kanvā Arāma ravaum̃ samu
-             <lb n="A18" break="no"/>dāya yauṁ <num value="83">83</num> jāk· <g type="ddanda">.</g></p>
+             <lb n="A18" break="no"/>dāya yauṁ <num value="83">83</num> jāk· <g ref="sym:doubleBar" type="punctuation">.</g></p>
              <p>sā sthāna trā di panrām̃ Anan· humā tandāk· pūrvva A
              <lb n="A19" break="no"/>rāma dakṣiṇa humā nagara paścima humā nagara Uttara humā nagara Alā hu
-             <lb n="A20" break="no"/>mā Atam̃ṁ yauṁ <num value="3">3</num> jāk· <g type="ddanda">.</g></p>
+             <lb n="A20" break="no"/>mā Atam̃ṁ yauṁ <num value="3">3</num> jāk· <g ref="sym:doubleBar" type="punctuation">.</g></p>
              <p>madā humā sā sthāna di vadrā Anan· humā bhvai vatum̃ pra
              <lb n="A21" break="no"/>thama di Īśāna vik· pyā ravaum̃ nau dakṣiṇa sā Āra saum̃ humā nagara nau paścima
              <lb n="A22"/>sā Āra saum̃ humā nagara tam̃l· ravauṅ· nau Uttara tagar· ravaum̃ tam̃l· glai nagara nau pū
              <lb n="A23" break="no"/>rvva saum̃ glai nagara tam̃l· ravaum̃ dalvan· ravaum̃ sā Āra saum̃ humā nagara tam̃l· pratha
-             <lb n="A24" break="no"/>ma Alā humā Atam̃ṁ kluṅ· kanvā glai samudāya yauṁ <num value="43">43</num> jāk· <g type="ddanda">.</g></p>
+             <lb n="A24" break="no"/>ma Alā humā Atam̃ṁ kluṅ· kanvā glai samudāya yauṁ <num value="43">43</num> jāk· <g ref="sym:doubleBar" type="punctuation">.</g></p>
              <p>madā humā
              <lb n="A25"/>sā sthāna di vadrā Anaiḥ Anan· humā vadrā Anaiḥ prathama di Ī<unclear>śāna</unclear> vik·
              <lb n="A26"/>pyā humā nagara nau dakṣiṇa dalvan· ravaum̃ sā Āra sauṅ· humā nagara nau paści
              <lb n="A27" break="no"/>ma sā Āra saum̃ humā nagara tam̃l· glai cram̃ḥ glai tam̃l· ravaum̃ rayā nau Uttara tagar· ravau
              <lb n="A28" break="no"/>ṅ· rayā tam̃l· glai nagara nau p<choice><sic>u</sic><corr>ū</corr></choice>rvva dalvan· ravauṅ· saum̃ glai nagara nau pūrvva mulam̃ sā Āra s
-             ⌈<lb n="A29" break="no"/>aum̃ humā nagara tam̃l· prathama alā humā atam̃ ṁ klum̃ kanvā glai yauṁ <num value="60">60</num> jāk· <g type="ddanda">.</g> <g type="floretQuatrefoil">.</g></p>
+             ⌈<lb n="A29" break="no"/>aum̃ humā nagara tam̃l· prathama alā humā atam̃ ṁ klum̃ kanvā glai yauṁ <num value="60">60</num> jāk· <g ref="sym:doubleBar" type="punctuation">.</g> <g ref="sym:floret" type="punctuation">.</g></p>
              <p><lb n="A30"/>madā humā sā sthāna di gamvauṅ· Anan· humā gamvauṅ· prathama di Īśāna vi
              <lb n="A31"/>k· pyā ravaum̃ rayā nau dakṣiṇa saum̃ kakai svam̃n· sā Āra sauṅ· humā nagara nau pa
              <lb n="A32" break="no"/>ścima sā Āra saum̃ humā nagara nau Uttara sā Āra saum̃ humā nagara nau pūrvva dalvan·
              <lb n="A33"/>ravaum̃ rayā slauṁ svam̃n· tam̃l· prathama Alā humā Atam̃ṁ Alā svam̃n· yauṁ <num value="31">31</num> jā
-             <lb n="A34" break="no"/>k· <g type="ddanda">.</g></p>
+             <lb n="A34" break="no"/>k· <g ref="sym:doubleBar" type="punctuation">.</g></p>
              <p>madā humā sā sthāna di yajñabhūmi Anan· humā yajñabhūmi prathama di Ī
              <lb n="A35" break="no"/>śāna vik· jalān· rayā nau dakṣiṇa tipā kraum̃ sā Āra sauṅ· humā nagara n
              ⌈<lb n="A36" break="no"/>au paścima sā Āra saum̃ humā pom̐ <choice><unclear>ra</unclear><unclear>U</unclear></choice><choice><unclear>th</unclear><unclear>dh</unclear></choice>am̃t· nau Uttara sā Āra saum̃ humā nagara
              <lb n="A37"/>tam̃l· kraum̃ tipā kraum̃ tam̃l· jalān· rayā nau pūrvva tūy· jalān· rayā tam̃l· pra
              <lb n="A38"/>thama Alā humā Atam̃ṁ kluṅ· kanvā Alā hajai Alā svam̃n· kraum̃ samudāya
-             <lb n="A39"/>yauṁ <num value="345">345</num> jāk· <g type="ddanda">.</g></p>
+             <lb n="A39"/>yauṁ <num value="345">345</num> jāk· <g ref="sym:doubleBar" type="punctuation">.</g></p>
              <p>nī doṁ bhoga si vuḥ di yām̐ pu pom̐ ku tralāy· pirak· sā vana
              <lb n="A40"/>qnāk· <num value="50">50</num> thil· sanraum̃ pirak· sā vana qnāk· <num value="10">10</num> thil· śvam̃n· pirak· sā vana qnāk· <num value="30">30</num> thil·
              <lb n="A41"/>bhr̥m̃gāra pirak· sā vana qnāk· <num value="16">16</num> thil· kalaśa pirak· vak· pirak· suvauk· pirak·
              <lb n="A42"/>vana qnāk· samudāya <num value="9">9</num> thil·
            </p>
            <p><milestone type="pagelike" unit="face" n="B"/>
-           <lb n="B1"/><g type="floretQuatrefoil"/> <g type="danda"/> madā humā sā sthāna di parīk· Anan· hu
+           <lb n="B1"/><g ref="sym:floret" type="symbol">*</g> <g ref="sym:bar" type="punctuation">.</g> madā humā sā sthāna di parīk· Anan· hu
            <lb n="B2" break="no"/>mā janam̃ḥ prathama di Īśāna vik· pyā humā nagara <lb n="B3"/>nau dakṣ<choice><sic>ī</sic><corr>i</corr></choice>ṇa sā Āra saum̃ humā nagara nau paści
            <lb n="B4" break="no"/>ma nau dakṣiṇa mvyak· nau paścima sā Āra s
            ⌈<lb n="B5" break="no"/>aum̃ humā nagara nau Uttara tagar· ravaum̃ sā Āra saum̃
            <lb n="B6"/>humā nagara nau pūrvva sā Āra saum̃ humā nagara tam̃
-           <lb n="B7" break="no"/>l· prathama Alā humā yauṁ <num value="43">43</num> jāk· <g type="ddanda">.</g></p>
+           <lb n="B7" break="no"/>l· prathama Alā humā yauṁ <num value="43">43</num> jāk· <g ref="sym:doubleBar" type="punctuation">.</g></p>
            <p>sā sthā
            <lb n="B8" break="no"/>na trā di parīk· Anan· humā ranok· prathama di Ī
            <lb n="B9" break="no"/>śāna vik· pyā glai nau dakṣiṇa raḥ glai dalvan· ravaum̃ tam̃
@@ -145,25 +145,25 @@
            <lb n="B11"/>nagara nau Uttara sā Āra saum̃ humā nagara nau pū
            <lb n="B12"/>rvva sā Āra saum̃ humā nagara nau Uttara mvyak· nau
            <lb n="B13"/>pūrvva mvyak· nau Uttara sā Āra saum̃ humā nagara nau pū
-           <lb n="B14"/>rvva tam̃l· prathama Alā humā yauṁ <num value="25">25</num> jāk· <g type="ddanda">.</g></p>
+           <lb n="B14"/>rvva tam̃l· prathama Alā humā yauṁ <num value="25">25</num> jāk· <g ref="sym:doubleBar" type="punctuation">.</g></p>
            <p>sā
            <lb n="B15"/>sthāna trā di parīk· Anan· humā kraum̃ vaum̃ pūrvva kraum̃ dakṣi
            <lb n="B16" break="no"/>ṇa humā nagara paścima kraum̃ Uttara humā nagara Alā
-           <lb n="B17"/>humā yauṁ <num value="10">10</num> jāk· <g type="ddanda">.</g></p>
+           <lb n="B17"/>humā yauṁ <num value="10">10</num> jāk· <g ref="sym:doubleBar" type="punctuation">.</g></p>
            <p>sā sthāna trā di parīk· Anan·
            <lb n="B18"/>humā nagara pūrvva humā nagara dakṣiṇa humā nagara paści
            <lb n="B19"/>ma humā nagara Uttara humā nagara Alā humā yauṁ <num value="5">5</num>
-           <lb n="B20"/>jāk· <g type="ddanda">.</g></p>
+           <lb n="B20"/>jāk· <g ref="sym:doubleBar" type="punctuation">.</g></p>
            <p>sā sthāna trā di parīk· Anan· humā jana<unclear>m̃</unclear>ḥ pūrvva
            <lb n="B21"/>humā nagara dakṣiṇa humā nagara paścima humā nagara U
-           <lb n="B22" break="no"/>ttara humā nagara Alā humā yauṁ <num value="6">6</num> jāk· <g type="ddanda">.</g></p>
+           <lb n="B22" break="no"/>ttara humā nagara Alā humā yauṁ <num value="6">6</num> jāk· <g ref="sym:doubleBar" type="punctuation">.</g></p>
            <p>madā hu
            <lb n="B23" break="no"/>mā sā sthāna di parīk· Anan· humā vanrauk· prathama di
            <lb n="B24"/>Īśāna vik· pyā humā nagara nau dakṣiṇa dalvan· ravaum̃ tam̃
            <lb n="B25" break="no"/>l· humā nagara nau paścima sā Āra saum̃ humā nagara tam̃
            <lb n="B26" break="no"/>l· kraum̃ thū nau Uttara tagar· kraum̃ nau pūrvva saum̃ glai nagara tam̃l·
            <lb n="B27"/>ravauṅ· tagar· ravaum̃ sā Āra saum̃ humā nagara tam̃l· pratha
-           <lb n="B28" break="no"/>ma Alā humā Atam̃ṁ klum̃ kanvā glai samudāya yauṁ <num value="45">4<lb n="B29" break="no"/>5</num> jāk· <g type="ddanda">.</g></p>
+           <lb n="B28" break="no"/>ma Alā humā Atam̃ṁ klum̃ kanvā glai samudāya yauṁ <num value="45">4<lb n="B29" break="no"/>5</num> jāk· <g ref="sym:doubleBar" type="punctuation">.</g></p>
            <p>madā humā sā sthāna di palim̃ kraum̃ Anan·
            <lb n="B30"/>humā salatam̃n· prathama di Īśāna vik· pyā hu<unclear>mā</unclear>
            <lb n="B31"/>nagara nau dakṣiṇa sā Āra saum̃ humā nagara nau pa
@@ -172,35 +172,35 @@
            <lb n="B34"/>nau paścima sā Āra saum̃ humā nagara nau Uttara sā
            <lb n="B35"/>Āra saum̃ humā nagara nau pūrvva sā Āra sauṅ· hu
            <lb n="B36"/>mā nagara nau dakṣiṇa mvyak· nau pūrvva sā Āra saum̃
-           <lb n="B37"/>humā nagara tam̃l· prathama Alā humā yauṁ <num value="45">4<lb n="B38" break="no"/>5</num> jāk· <g type="ddanda">.</g></p>
+           <lb n="B37"/>humā nagara tam̃l· prathama Alā humā yauṁ <num value="45">4<lb n="B38" break="no"/>5</num> jāk· <g ref="sym:doubleBar" type="punctuation">.</g></p>
            <p>sā sthāna trā di palim̃ kraum̃ anan· humā
            <lb n="B39"/><unclear>ja</unclear>vā pūrvva humā nagara dakṣiṇa humā nagara pa
            <lb n="B40"/>ścima humā nagara uttara humā nagara <unclear>Alā</unclear>
            <lb n="B41"/>humā yauṁ <num value="13">13</num> jāk·
            </p>
            <p><milestone type="pagelike" unit="face" n="C"/>
-           <lb n="C1"/><g type="ddanda"/> <unclear><g type="floretQuatrefoil"/></unclear> madā humā sā sthāna di palim̃ kraum̃ Anan· humā <unclear>ra</unclear>makān· pra
+           <lb n="C1"/><g ref="sym:doubleBar" type="punctuation">.</g> <unclear><g ref="sym:floret" type="symbol">*</g></unclear> madā humā sā sthāna di palim̃ kraum̃ Anan· humā <unclear>ra</unclear>makān· pra
            <lb n="C2"/>thama di Īśāna vik· pyā humā nagara nau dakṣiṇa dalvan· ravaum̃ nau paścima
            <lb n="C3"/>sā Āra saum̃ humā nagara nau Uttara sā Āra saum̃ humā nagara nau pūrvva sā
-           <lb n="C4"/>Āra saum̃ humā nagara tam̃l· prathama Alā humā yauṁ <num value="10">10</num> jāk· <g type="ddanda">.</g></p>
+           <lb n="C4"/>Āra saum̃ humā nagara tam̃l· prathama Alā humā yauṁ <num value="10">10</num> jāk· <g ref="sym:doubleBar" type="punctuation">.</g></p>
            <p>sā
            <lb n="C5"/>sthāna trā di palim̃ kraum̃ Anan· humā sijjol· pūrvva humā nagara dakṣiṇa
            <lb n="C6"/>humā nagara paścima humā nagara Uttara humā nagara Alā humā yauṁ
-           <lb n="C7"/><num value="10">10</num> jāk· <g type="ddanda">.</g></p>
+           <lb n="C7"/><num value="10">10</num> jāk· <g ref="sym:doubleBar" type="punctuation">.</g></p>
            <p>sā sthāna trā di palim̃ kraum̃ Anan· humā tandāk· yauṁ <num value="2">2</num> jāk·
            <lb n="C8"/>sā sthāna trā di paliy· lavam̃ pūrvva humā nagara dakṣiṇa paliy· pa
            <lb n="C9" break="no"/>ścima humā yām̐ pradhāna Uttara palim̃ Alā humā Alā svam̃n· yauṁ <num value="8">8</num> jā
-           <lb n="C10"/>k· <g type="ddanda">.</g></p>
+           <lb n="C10"/>k· <g ref="sym:doubleBar" type="punctuation">.</g></p>
            <p>sā sthāna trā di pūrvva paliy· lavam̃ Anan· humā palim̃ yauṁ <num value="3">3</num> jāk·
            <lb n="C11"/>sā sthāna trā di palim̃ kraum̃ Anan· humā sakāṁ pūrvva humā nagara dakṣi
            <lb n="C12" break="no"/>ṇa humā nagara paścima humā nagara Uttara humā nagara Alā humā y
-           ⌈<lb n="C13" break="no"/>auṁ <num value="11">11</num> jāk· <g type="ddanda">.</g></p>
+           ⌈<lb n="C13" break="no"/>auṁ <num value="11">11</num> jāk· <g ref="sym:doubleBar" type="punctuation">.</g></p>
            <p>madā humā sā sthāna di kandāk· Anan· humā kandāk· pra
            <lb n="C14"/><supplied reason="lost">thama d</supplied>i Īśāna vik· pyā cam̃k· Air· kluṅ· nau dakṣiṇa saum̃ kakai cam̃k· tam̃l·
            <lb n="C15"/>yām̐ kanryau nau paścima raḥ darāk· slauṁ pulāv· ralām̃ tipā tuṁ gugā tam̃l· hu
            <lb n="C16"/>mā nagara nau Uttara sā Āra saum̃ humā nagara cram̃ḥ glai tam̃l· cam̃k· bhauk· kasmā n
            ⌈<lb n="C17" break="no"/>au pūrvva saum̃ kakai cam̃k· tam̃l· prathama Alā humā klum̃ kanvā glai crauḥ tuṁ
-           <lb n="C18"/>Anr̥m̃ samudāya y<choice><sic>au</sic><corr>auṁ</corr></choice> <num value="2555">2555</num> jāk· <g type="ddanda">.</g></p>
+           <lb n="C18"/>Anr̥m̃ samudāya y<choice><sic>au</sic><corr>auṁ</corr></choice> <num value="2555">2555</num> jāk· <g ref="sym:doubleBar" type="punctuation">.</g></p>
            <p>madā humā sā sthāna di vutom̃ <unclear>A</unclear>
            <lb n="C19" break="no"/>nan· humā caldha prathama di Īśāna vik· pyā ravaum̃ rayā nau dakṣiṇa dalvan·
            <lb n="C20"/>ravaum̃ rayā nau paścima sā Āra saum̃ humā yām̐ Upan· nau Uttara sā Ā
@@ -209,7 +209,7 @@
            <lb n="C23"/>humā yām̐ Upan· tam̃l· palim̃ nau Uttara cram̃ḥ palim̃ nau pūrvva mvyak· nau Uttara
            <lb n="C24"/>saum̃ palim̃ tipā thaum̃ sā Āra saum̃ humā nagara nau vāyavyottara tam̃l· da
            <lb n="C25" break="no"/>ndau nau Uttara saum̃ dandau tam̃l· vavaḥ ravaum̃ nau pūrvva dalvan· ravauṅ· tam̃l· pratha
-           <lb n="C26" break="no"/>ma Alā humā atam̃ṁ kluṅ· kanvā thaum̃ glai samudāya y<choice><sic>au</sic><corr>auṁ</corr></choice> <num value="90">90</num> jāk· <g type="ddanda">.</g></p>
+           <lb n="C26" break="no"/>ma Alā humā atam̃ṁ kluṅ· kanvā thaum̃ glai samudāya y<choice><sic>au</sic><corr>auṁ</corr></choice> <num value="90">90</num> jāk· <g ref="sym:doubleBar" type="punctuation">.</g></p>
            <p><lb n="C27"/>madā humā sā sthāna Anan· humā kapīk· lanuṅ· prathama di Īśāna vik·
            <lb n="C28"/>pyā humā nagara nau dakṣiṇa sā Āra saum̃ humā nagara tam̃l· tuṁ tagar· tuṁ nau
            <lb n="C29"/>pūrvva tūm̃ tuṁ nau dakṣiṇa nau paścima tūm̃ tuṁ nau dakṣiṇa naiR̥tī tam̃l· tam̃ṅ·
@@ -217,13 +217,13 @@
            <lb n="C31"/>kraum̃ nau Uttara tagar· kraum̃ nau paścima tagar· kraum̃ harā tam̃l· jalān· rayā
            <lb n="C32"/>nau U<choice><sic>t</sic><corr>tta</corr></choice>ara tum̃ jalān· rayā cram̃ḥ tdaḥ palim̃ tam̃l· ravaum̃ nau pūrvva dalvan· ravaum̃
            <lb n="C33"/>tam̃l· prathama Alā humā Atam̃ṁ kluṅ· kanvā Alā hajai glai samudā
-           <lb n="C34" break="no"/>ya yauṁ <num value="615">615</num> jāk· <g type="ddanda">.</g></p>
+           <lb n="C34" break="no"/>ya yauṁ <num value="615">615</num> jāk· <g ref="sym:doubleBar" type="punctuation">.</g></p>
            <p>sā sthāna trā di vadrā Anan· humā bhauk· dandā pū
            <lb n="C35" break="no"/>rvva humā nagara dakṣiṇa humā nagara paścima humā nagara Uttara humā
-           <lb n="C36"/>nagara alā humā yauṁ <num value="40">4O</num> jāk· <g type="ddanda">.</g></p>
+           <lb n="C36"/>nagara alā humā yauṁ <num value="40">4O</num> jāk· <g ref="sym:doubleBar" type="punctuation">.</g></p>
            <p>sā sthāna trā di panrām̃ Anan· humā
            <lb n="C37"/>Andap· val· pūrvva humā yām̐ Upan· dakṣiṇa humā nagara paścima hu
-           <lb n="C38" break="no"/>mā nagara Uttara kraum̃ Alā humā atam̃ṁ kluṅ· kanvā yauṁ <num value="45">45</num> jāk· <g type="ddanda">.</g></p>
+           <lb n="C38" break="no"/>mā nagara Uttara kraum̃ Alā humā atam̃ṁ kluṅ· kanvā yauṁ <num value="45">45</num> jāk· <g ref="sym:doubleBar" type="punctuation">.</g></p>
            <p>sā
            <lb n="C39"/>sthāna trā di vadrā Anaiḥ Anan· humā val· prathama di Īśāna vik· pyā humā
            <lb n="C40"/>nagara nau dakṣiṇa saum̃ glai nagara tam̃l· kraum̃ vatvam̃l· nau paścima tagar· kraum̃ tipā ja

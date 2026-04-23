@@ -72,19 +72,13 @@
          <projectDesc>
             <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <!-- UPDATE the link once the release is made official -->
          <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
@@ -97,83 +91,83 @@
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:83213">
-            <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A01"/><supplied reason="lost"><g type="floretComplex"/>namo lo</supplied>kanāthā<supplied reason="lost">ya</supplied><g type="floretComplex"/></ab>
-          <p><lb n="A1"/>svasti<g type="ddandaPlain">.</g></p><!-- MAIL A DANIEL POUR CE CAS DE SVASTI A INCORPORER DANS AB. -->
+            <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A01"/><supplied reason="lost"><g ref="sym:floret-complex" type="symbol">*</g>namo lo</supplied>kanāthā<supplied reason="lost">ya</supplied><g ref="sym:floret-complex" type="symbol">*</g></ab>
+          <p><lb n="A1"/>svasti<g ref="sym:doubleBar" type="punctuation">.</g></p><!-- MAIL A DANIEL POUR CE CAS DE SVASTI A INCORPORER DANS AB. -->
             <lg n="1" met="indravajrā">
               <l n="a">yena <seg met="-++--+-"><gap reason="lost" quantity="7" unit="character"/></seg><!--sapi2argr ici ai-je bien encodé la lacune de vers ? -->mūrttir</l>
               <l n="b">vyaktaika <seg met="++--+-+="><gap reason="lost" quantity="8" unit="character"/></seg></l>
               <l n="c"><seg met="++--++"><gap reason="lost" quantity="6" unit="character"/></seg> śura <seg met="+-"><gap reason="lost" quantity="2" unit="character"/></seg> bhaugrais</l><!--sapi2argr Commentaire rtf : śuretipautrais? -->
-              <l n="d">tasmai namaḥ <lb n="A2"/> kāruṇikāya nityam·<g type="ddandaPlain">.</g></l>
+              <l n="d">tasmai namaḥ <lb n="A2"/> kāruṇikāya nityam·<g ref="sym:doubleBar" type="punctuation">.</g></l>
             </lg>
             <lg n="2" met="sragdharā">
               <l n="a"><seg met="++++-++------++-++-++"><gap reason="lost" quantity="21" unit="character"/></seg></l>
               <l n="b"><seg met="++++-++--"><gap reason="lost" quantity="9" unit="character"/></seg>pyamātra vālabhito <lb n="A3"/> rakaivākrandamānā</l>
               <l n="c"><seg met="++++"><gap reason="lost" quantity="4" unit="character"/></seg> parāvā <seg met="--"><gap reason="lost" quantity="2" unit="character"/></seg> vigatasukhā lohadaṇḍābhighātāḥ</l>
-              <l n="d">smr̥tvā lokeśvaran tvāṁ pra<unclear>ma</unclear><lb n="A4" break="no"/><unclear>thita</unclear>duritaṁ kevalaṁ mokṣam āpuḥ<g type="ddandaPlain">.</g><space/><!-- CONTACTE DANIEL POUR LES ESPACES. --></l>
+              <l n="d">smr̥tvā lokeśvaran tvāṁ pra<unclear>ma</unclear><lb n="A4" break="no"/><unclear>thita</unclear>duritaṁ kevalaṁ mokṣam āpuḥ<g ref="sym:doubleBar" type="punctuation">.</g><space/><!-- CONTACTE DANIEL POUR LES ESPACES. --></l>
             </lg>
             <lg n="3" met="sragdharā">
               <l n="a">mārair ugraiḥ parītāś ciram api manujāḥ pūrvva-karmmānuraktā</l>
               <l n="b">nistrāṇā ni<lb n="A5" break="no"/><unclear>tyaduḥkhā</unclear>ḥ parama-kaluṣitāḥ kṣutpipāsābhibhūtāḥ</l>
               <l n="c">pūrvvañ cādānadoṣāt sugata-vimukhataḥ<!--sapi2argr : Commentaire rtf: -vimukhataḥ: emend -vimukhitāḥ? --> prāpta-kāpāla-haste</l>
-              <l n="d"><lb n="A6"/><unclear>padmabh</unclear>r̥dvajrapāṇipraśamitanirayaṁ <unclear>b</unclear>uddhamārggaṁ samāpuḥ<g type="ddandaPlain">.</g></l>
+              <l n="d"><lb n="A6"/><unclear>padmabh</unclear>r̥dvajrapāṇipraśamitanirayaṁ <unclear>b</unclear>uddhamārggaṁ samāpuḥ<g ref="sym:doubleBar" type="punctuation">.</g></l>
             </lg>
             <lg n="4" met="āryā">
               <l n="ab">śrī-bhadravarmma-nr̥pates tasya mato tyanta-ballabhatva<lb n="A7" break="no"/>matiḥ</l>
-              <l n="cd">sujanāṅghri-yugala-sevī ca <unclear>nāga</unclear>puṣpa-sthavira-nāmā<g type="ddandaHooked">.</g></l>
+              <l n="cd">sujanāṅghri-yugala-sevī ca <unclear>nāga</unclear>puṣpa-sthavira-nāmā<g ref="sym:doubleBar-hooked" type="punctuation">.</g></l>
             </lg>
             <lg n="5" met="anuṣṭubh">
               <l n="a">lokeśvarañ jagadvyāptaṁ</l>
-              <l n="b">śraddhābhāvair atiṣṭhi<lb n="A8" break="no"/>pat·<g type="dotMid">.</g></l>
+              <l n="b">śraddhābhāvair atiṣṭhi<lb n="A8" break="no"/>pat·<g ref="sym:bullet-middle" type="punctuation">.</g></l>
               <l n="c">pr̥thivīkīrttaye so smai</l>
-              <l n="d">dharmmadeśanayāhitaḥ<g type="ddandaHooked">.</g></l>
+              <l n="d">dharmmadeśanayāhitaḥ<g ref="sym:doubleBar-hooked" type="punctuation">.</g></l>
             </lg>
             <lg n="6" met="indravajrā">
               <l n="a" enjamb="yes">lokapra <seg met="++"><gap reason="lost" quantity="2" unit="character"/></seg> ntrayaśoṁśuśuddha</l>
-              <l n="b"><placeName type="region" subtype="country" key="Campā">campā</placeName>dhipas sa<lb n="A9" break="no"/>rvvasukhapradātā<g type="dotMid">.</g></l>
+              <l n="b"><placeName type="region" subtype="country" key="Campā">campā</placeName>dhipas sa<lb n="A9" break="no"/>rvvasukhapradātā<g ref="sym:bullet-middle" type="punctuation">.</g></l>
               <l n="c">śrī-Indravarmmā sa surendravarmmā<!--sapi2argr commentaire rtf: or read sasurendravarmmā?--></l>
-              <l n="d">tadvattr̥dhameva cakāra tasmin·<g type="ddandaHooked">.</g></l>
+              <l n="d">tadvattr̥dhameva cakāra tasmin·<g ref="sym:doubleBar-hooked" type="punctuation">.</g></l>
             </lg>
             <lg n="7" met="āryā">
-              <l n="ab">karuṇāmr̥tarasa<lb n="A10" break="no"/>rasikaḥ kevalam eva prajāhitāspadakr̥t·<g type="dotMid">.</g></l>
-              <l n="cd">yo muktiṁ sa ca nikhilāṁ <placeName type="builtPlace" subtype="monastery" key="Pramuditalokeśvara">pramuditalokeśvarā</placeName><lb n="A11" break="no"/>yādāt·<g type="ddandaHooked">.</g></l>
+              <l n="ab">karuṇāmr̥tarasa<lb n="A10" break="no"/>rasikaḥ kevalam eva prajāhitāspadakr̥t·<g ref="sym:bullet-middle" type="punctuation">.</g></l>
+              <l n="cd">yo muktiṁ sa ca nikhilāṁ <placeName type="builtPlace" subtype="monastery" key="Pramuditalokeśvara">pramuditalokeśvarā</placeName><lb n="A11" break="no"/>yādāt·<g ref="sym:doubleBar-hooked" type="punctuation">.</g></l>
             </lg>
             <lg n="8" met="anuṣṭubh">
               <l n="a">vajradhātur asau pūrvvaṁ</l>
-              <l n="b">śrīśākyamuniśāsanāt·<g type="dotMid">.</g></l>
+              <l n="b">śrīśākyamuniśāsanāt·<g ref="sym:bullet-middle" type="punctuation">.</g></l>
               <l n="c">ś<choice><sic>u</sic><corr>ū</corr></choice>nyo pi vajradhr̥ddhetuḥ</l>
-              <l n="d">buddhānām āla<lb n="A12" break="no"/>yo bhavat·<g type="ddandaHooked">.</g></l>
+              <l n="d">buddhānām āla<lb n="A12" break="no"/>yo bhavat·<g ref="sym:doubleBar-hooked" type="punctuation">.</g></l>
             </lg>
             <lg n="9" met="anuṣṭubh">
               <l n="a" enjamb="yes">padmadhātur ato loke</l>
-              <l n="b">śvarahetur jjinālayaḥ<g type="dotMid">.</g></l>
+              <l n="b">śvarahetur jjinālayaḥ<g ref="sym:bullet-middle" type="punctuation">.</g></l>
               <l n="c">Amitābhavacoyuktyā</l>
-              <l n="d"><lb n="A13"/><g type="floretQuatrefoil"/><space/><g type="floretQuatrefoil"/><space/>mahāś<choice><sic>u</sic><corr>ū</corr></choice>nyo babhūva ha<g type="ddandaHooked">.</g><space/><g type="floretQuatrefoil"/><space/><g type="floretQuatrefoil"/></l>
+              <l n="d"><lb n="A13"/><g ref="sym:floret" type="symbol">*</g><space/><g ref="sym:floret" type="symbol">*</g><space/>mahāś<choice><sic>u</sic><corr>ū</corr></choice>nyo babhūva ha<g ref="sym:doubleBar-hooked" type="punctuation">.</g><space/><g ref="sym:floret" type="symbol">*</g><space/><g ref="sym:floret" type="symbol">*</g></l>
             </lg>
             <lg n="10" met="anuṣṭhubh"><milestone type="pagelike" unit="face" n="B"/>
-              <l n="a" enjamb="yes"><lb n="B1"/>cakradhātur asau śunyā<!-- sapi2argr à la place de  ś<unclear>ū</unclear>nyā.--><g type="dotMid">.</g></l>
-              <l n="b">tīto v<unclear>ai</unclear><!--sapi2argr Ici le ai est plus supplied ou corrigé que unclear non ? Sur la pierre, je lis 've'.-->rocanājñayā<g type="dotMid">.</g></l>
-              <l n="c" enjamb="yes">vajrasutvasya hetuḥ syā<g type="dotMid">.</g></l>
-              <l n="d">t tr̥tīyo <lb n="B2"/> bhūj jinālayaḥ<g type="ddandaHooked">.</g></l>
+              <l n="a" enjamb="yes"><lb n="B1"/>cakradhātur asau śunyā<!-- sapi2argr à la place de  ś<unclear>ū</unclear>nyā.--><g ref="sym:bullet-middle" type="punctuation">.</g></l>
+              <l n="b">tīto v<unclear>ai</unclear><!--sapi2argr Ici le ai est plus supplied ou corrigé que unclear non ? Sur la pierre, je lis 've'.-->rocanājñayā<g ref="sym:bullet-middle" type="punctuation">.</g></l>
+              <l n="c" enjamb="yes">vajrasutvasya hetuḥ syā<g ref="sym:bullet-middle" type="punctuation">.</g></l>
+              <l n="d">t tr̥tīyo <lb n="B2"/> bhūj jinālayaḥ<g ref="sym:doubleBar-hooked" type="punctuation">.</g></l>
           </lg>
           <lg n="11" met="anuṣṭhubh">
-            <l n="a">nāgapuṣpāhvayo bhāti<g type="dotMid">.</g></l>
-            <l n="b">sthāviras tulyaśīladhīḥ<g type="dotMid">.</g></l>
-            <l n="c" enjamb="yes">pūrvveṇa nāgapuṣpākhye<g type="dotMid">.</g></l>
-            <l n="d">nātma<lb n="B3" break="no"/>vaṁśena bhikṣuṇā<g type="dotMid">.</g><g type="ddandaHooked">.</g></l>
+            <l n="a">nāgapuṣpāhvayo bhāti<g ref="sym:bullet-middle" type="punctuation">.</g></l>
+            <l n="b">sthāviras tulyaśīladhīḥ<g ref="sym:bullet-middle" type="punctuation">.</g></l>
+            <l n="c" enjamb="yes">pūrvveṇa nāgapuṣpākhye<g ref="sym:bullet-middle" type="punctuation">.</g></l>
+            <l n="d">nātma<lb n="B3" break="no"/>vaṁśena bhikṣuṇā<g ref="sym:bullet-middle" type="punctuation">.</g><g ref="sym:doubleBar-hooked" type="punctuation">.</g></l>
           </lg>
           <p>Asmai śrī<placeName type="builtPlace" subtype="monastery" key="Pramuditalokeśvara">pramuditalokeśvara</placeName>vihārāya tatpuṇyāya yat sarvvam idaṁ
-          <lb n="B4"/>kṣetraṁ śrībhadravarmmadevas tadanujñayā dattavān·<g type="dotMid">.</g> punar api sa śrī Indravarmmadevaḥ sakalarājādhi<lb n="B5" break="no"/>rājaḥ tadanugrahasadbhāvāt· tad eva niyukta<choice><sic>m</sic><corr>vān</corr></choice>m·<g type="ddandaHooked">.</g>
+          <lb n="B4"/>kṣetraṁ śrībhadravarmmadevas tadanujñayā dattavān·<g ref="sym:bullet-middle" type="punctuation">.</g> punar api sa śrī Indravarmmadevaḥ sakalarājādhi<lb n="B5" break="no"/>rājaḥ tadanugrahasadbhāvāt· tad eva niyukta<choice><sic>m</sic><corr>vān</corr></choice>m·<g ref="sym:doubleBar-hooked" type="punctuation">.</g>
         </p>
          <lg n="12" met="upajāti of triṣṭubh">
            <l n="a">gate śakābde yugakarṇṇakāyaiḥ</l>
-           <l n="b">jye<lb n="B6" break="no"/>ṣthasya śukle navame dine yam·<g type="dotMid">.</g></l>
+           <l n="b">jye<lb n="B6" break="no"/>ṣthasya śukle navame dine yam·<g ref="sym:bullet-middle" type="punctuation">.</g></l>
            <l n="c">tena pratiṣṭhāpit<choice><sic>ayā</sic><corr>a ā</corr></choice>tmakīrttyai</l>
-           <l n="d">śrīlokanātha<lb n="B7" break="no"/>s tu sa jīvavāre<g type="ddandaHooked">.</g><g type="dotMid">.</g><g type="ddandaHooked">.</g></l>
+           <l n="d">śrīlokanātha<lb n="B7" break="no"/>s tu sa jīvavāre<g ref="sym:doubleBar-hooked" type="punctuation">.</g><g ref="sym:bullet-middle" type="punctuation">.</g><g ref="sym:doubleBar-hooked" type="punctuation">.</g></l>
          </lg>
          <p>
-           <placeName type="cultivation" subtype="field" key="Mutiy Dai">mutiy·-dai</placeName>-kṣetraṁ<g type="dotMid">.</g> <placeName type="cultivation" subtype="field" key="Kravāv">kravāv·</placeName>-kṣetraṁ<g type="dotMid">.</g> <placeName type="cultivation" subtype="field" key="Vuyat">vuyat·</placeName>-kṣetraṁ<g type="dotMid">.</g> <placeName type="cultivation" subtype="field" key="Glāṁ">glāṁ</placeName>-kṣetraṁ<g type="dotMid">.</g>
-           <lb n="B8"/><placeName type="cultivation" subtype="field" key="Durī">durī</placeName><!-- dunī? -->-kṣetraṁ<g type="dotMid">.</g> <placeName type="cultivation" subtype="field" key="Vyauv">vyauv·</placeName>-kṣetraṁ<g type="dotMid">.</g> <placeName type="cultivation" subtype="field" key="Klov Huviy">klov·-huviy·</placeName>-kṣetraṁ<g type="dotMid">.</g> <placeName type="cultivation" subtype="field" key="Jrāy">jrāy·</placeName>-kṣetraṁ<g type="dotMid">.</g> <placeName type="cultivation" subtype="field" key="Tupaṁṅ">tupaṁṅ·</placeName>-kṣetraṁ<g type="dotMid">.</g><g type="ddandaHooked">.</g><g type="dotMid">.</g><g type="ddandaHooked">.</g>
-           <lb n="B9"/><placeName type="cultivation" subtype="field" key="Drain">drain·</placeName>-kṣetraṁ<g type="dotMid">.</g> <placeName type="cultivation" subtype="field" key="Krat">krat·</placeName>-kṣetraṁ<g type="dotMid">.</g> <placeName type="cultivation" subtype="field" key="Jalān Ṅauk">jalān·-ṅauk·</placeName>-kṣetraṁ<g type="ddandaHooked">.</g>
+           <placeName type="cultivation" subtype="field" key="Mutiy Dai">mutiy·-dai</placeName>-kṣetraṁ<g ref="sym:bullet-middle" type="punctuation">.</g> <placeName type="cultivation" subtype="field" key="Kravāv">kravāv·</placeName>-kṣetraṁ<g ref="sym:bullet-middle" type="punctuation">.</g> <placeName type="cultivation" subtype="field" key="Vuyat">vuyat·</placeName>-kṣetraṁ<g ref="sym:bullet-middle" type="punctuation">.</g> <placeName type="cultivation" subtype="field" key="Glāṁ">glāṁ</placeName>-kṣetraṁ<g ref="sym:bullet-middle" type="punctuation">.</g>
+           <lb n="B8"/><placeName type="cultivation" subtype="field" key="Durī">durī</placeName><!-- dunī? -->-kṣetraṁ<g ref="sym:bullet-middle" type="punctuation">.</g> <placeName type="cultivation" subtype="field" key="Vyauv">vyauv·</placeName>-kṣetraṁ<g ref="sym:bullet-middle" type="punctuation">.</g> <placeName type="cultivation" subtype="field" key="Klov Huviy">klov·-huviy·</placeName>-kṣetraṁ<g ref="sym:bullet-middle" type="punctuation">.</g> <placeName type="cultivation" subtype="field" key="Jrāy">jrāy·</placeName>-kṣetraṁ<g ref="sym:bullet-middle" type="punctuation">.</g> <placeName type="cultivation" subtype="field" key="Tupaṁṅ">tupaṁṅ·</placeName>-kṣetraṁ<g ref="sym:bullet-middle" type="punctuation">.</g><g ref="sym:doubleBar-hooked" type="punctuation">.</g><g ref="sym:bullet-middle" type="punctuation">.</g><g ref="sym:doubleBar-hooked" type="punctuation">.</g>
+           <lb n="B9"/><placeName type="cultivation" subtype="field" key="Drain">drain·</placeName>-kṣetraṁ<g ref="sym:bullet-middle" type="punctuation">.</g> <placeName type="cultivation" subtype="field" key="Krat">krat·</placeName>-kṣetraṁ<g ref="sym:bullet-middle" type="punctuation">.</g> <placeName type="cultivation" subtype="field" key="Jalān Ṅauk">jalān·-ṅauk·</placeName>-kṣetraṁ<g ref="sym:doubleBar-hooked" type="punctuation">.</g>
          </p>
          </div>
          <div type="apparatus">
@@ -279,11 +273,11 @@
           <p n="A1">I c. śuretipautrais?</p>
           <p n="A3">II d. there seems to be an unwanted anusvāra inside lokeśvaran, i.e. lokeśvaṁran. check the stone.</p>
           <p n="A3-A4">II d. or better: praśamitaduritaṁ? cf. praśamita in l. 6.</p>
-          <p n="A4-A5">III a+b. If <g type="dotMid">.</g> signs were written at the end of these two pādas, they can only be read now with much good will. It seems quite likely that none were written at all.</p>
+          <p n="A4-A5">III a+b. If <g ref="sym:bullet-middle" type="punctuation">.</g> signs were written at the end of these two pādas, they can only be read now with much good will. It seems quite likely that none were written at all.</p>
           <p n="A5">III c. -vimukhataḥ: emend -vimukhitāḥ?</p>
           <p n="A9">VI c. or read sasurendravarmmā?</p>
           <p n="A13">IX d. fleurons filling the space on both sides of the centered pāda d.</p>
-          <p n="B1">X ab. ś<unclear>ū</unclear>nyā<g type="dotMid">.</g>tīto v<unclear>ai</unclear>rocanājñayā: possibly the actual spelling was śunyātīto verocanājñayā. The stone is too worn here to be sure.</p>
+          <p n="B1">X ab. ś<unclear>ū</unclear>nyā<g ref="sym:bullet-middle" type="punctuation">.</g>tīto v<unclear>ai</unclear>rocanājñayā: possibly the actual spelling was śunyātīto verocanājñayā. The stone is too worn here to be sure.</p>
           <p n="B8">huviy·: one could possibly read huriy·.</p>
          </div>
         <div type="bibliography">

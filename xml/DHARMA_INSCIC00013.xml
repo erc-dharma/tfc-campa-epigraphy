@@ -90,7 +90,7 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83213">
-           <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A1"/><g type="ddanda"/><g type="spiralR"/><g type="ddanda"/> svasti<g type="ddanda"/><g type="circleConcentric"/><g type="ddanda"/></ab>
+           <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A1"/><g ref="sym:doubleBar" type="punctuation">.</g><g ref="sym:spiral-right" type="symbol">*</g><g ref="sym:doubleBar" type="punctuation">.</g> svasti<g ref="sym:doubleBar" type="punctuation">.</g><g ref="sym:circle-concentric" type="symbol">*</g><g ref="sym:doubleBar" type="punctuation">.</g></ab>
            <lg n="1" met="anuṣṭubh" xml:lang="san-Latn">
              <l n="a"><lb n="A1"/>nāmnā śrī-yuvarājo yas</l>
              <l n="b">senā-prabhu<lb n="A2" break="no"/>r atiṣṭhipat·</l>
@@ -98,24 +98,18 @@
              <l n="d">karṇṇ<choice><sic>a</sic><corr>ā</corr></choice>dry-ātma-śakādhipe</l>
            </lg>
            <lg n="2" met="------+-+-+=/----+--+-+-+-+=" xml:lang="san-Latn">
-             <l n="a"><lb n="A3"/><g type="ddanda"/><g type="spiralR"/><g type="ddanda"/> sakala-jana-mano-<supplied reason="subaudible">'</supplied>bhirāma-<unclear>bh</unclear>a<unclear>d</unclear>ro</l>
+             <l n="a"><lb n="A3"/><g ref="sym:doubleBar" type="punctuation">.</g><g ref="sym:spiral-right" type="symbol">*</g><g ref="sym:doubleBar" type="punctuation">.</g> sakala-jana-mano-<supplied reason="subaudible">'</supplied>bhirāma-<unclear>bh</unclear>a<unclear>d</unclear>ro</l>
              <l n="b">raṇa-viditogra-yaśo<lb n="A4" break="no"/>-niviṣṭa-kamvu-deśaḥ</l>
              <l n="c">vara-jana-gadito <supplied reason="subaudible">'</supplied>dya dāna-puṇye</l>
              <l n="d">bhuvi ca vibhāty aniśaṁ sa ca<lb n="A5" break="no"/>mpa-deśa-pālī</l>
            </lg>
-           <p><g type="ddanda"/><g type="dotMid"/><g type="ddanda"/> navvan· Urām̃ nagara panrā<unclear>ṅ</unclear>· nim̃ <unclear>k</unclear>intu <unclear>d</unclear>uñuv· duṣṭa pāpa-karmma nirvviveka sadā-kā<milestone type="pagelike" unit="face" n="B" break="no"/><lb
-           n="B1" break="no"/>la Adhama di ya doṁ pu-pom̃ tana rayā ya nā rāja di naga<add place="inline">ra</add> campa <unclear reason="eccentric_ductus">l</unclear>um<unclear>ī</unclear>k<supplied reason="lost">·</supplied> n<supplied reason="lost">im̃</supplied>
-           <lb n="B2"/>marai navai kā tam̃l· rāja yām̃ pom̃ ku parameśvaravarmmadeva yam̃ṅ· dharmma-rāja trā la duñuv· kā A<lb
-           n="B3" break="no"/>dhama paputau Urām̃ di na<choice><sic>ś</sic><corr>g</corr></choice>ara nim̃ suhetu yām̃ po ku parameśvaravarmmadeva Apramāda Upak· raloy<unclear reason="eccentric_ductus">·</unclear> drim̃ mam̃n· si jem̃
-           <lb n="B4"/>ra vā vala marai karim̃ bharuv· ra ktap·<!-- tnap·? --> vala dadam̃n· pagā ra vrim̃ pu-lyam̃ śrī yuvarāja mahā-senāpatī yam̃ṅ· kumaun· yām̃ po ku śrī pa<lb
-           n="B5" break="no"/>rameśvaravarmmadeva dunan· senāpatī-pramukha nau Andap· ra nvak· nagara nim̃ mam̃n· ya dom̃ vala panrām̃ dinan· kā mr̥suḥ ra kyāp· jauḥ pa<lb
-           n="B6" break="no"/>raspara sa pak· sā nau dam̃p· di ya doṁ mahā-vivara guhā ṅan· śikhara parvva<choice><sic>k</sic><corr>t</corr></choice>a yam̃ṅ· Ativyūha mam̃ṅ· ra vrim̃ vala tūy· nau di dadam̃ṅ· dadam̃ṅ· diśa mam̃ṅ· vala nan·
+           <p><g ref="sym:doubleBar" type="punctuation">.</g><g ref="sym:bullet-middle" type="punctuation">.</g><g ref="sym:doubleBar" type="punctuation">.</g> navvan· Urām̃ nagara panrā<unclear>ṅ</unclear>· nim̃ <unclear>k</unclear>intu <unclear>d</unclear>uñuv· duṣṭa pāpa-karmma nirvviveka sadā-kā<milestone type="pagelike" unit="face" n="B" break="no"/><lb n="B1" break="no"/>la Adhama di ya doṁ pu-pom̃ tana rayā ya nā rāja di naga<add place="inline">ra</add> campa <unclear reason="eccentric_ductus">l</unclear>um<unclear>ī</unclear>k<supplied reason="lost">·</supplied> n<supplied reason="lost">im̃</supplied>
+           <lb n="B2"/>marai navai kā tam̃l· rāja yām̃ pom̃ ku parameśvaravarmmadeva yam̃ṅ· dharmma-rāja trā la duñuv· kā A<lb n="B3" break="no"/>dhama paputau Urām̃ di na<choice><sic>ś</sic><corr>g</corr></choice>ara nim̃ suhetu yām̃ po ku parameśvaravarmmadeva Apramāda Upak· raloy<unclear reason="eccentric_ductus">·</unclear> drim̃ mam̃n· si jem̃
+           <lb n="B4"/>ra vā vala marai karim̃ bharuv· ra ktap·<!-- tnap·? --> vala dadam̃n· pagā ra vrim̃ pu-lyam̃ śrī yuvarāja mahā-senāpatī yam̃ṅ· kumaun· yām̃ po ku śrī pa<lb n="B5" break="no"/>rameśvaravarmmadeva dunan· senāpatī-pramukha nau Andap· ra nvak· nagara nim̃ mam̃n· ya dom̃ vala panrām̃ dinan· kā mr̥suḥ ra kyāp· jauḥ pa<lb n="B6" break="no"/>raspara sa pak· sā nau dam̃p· di ya doṁ mahā-vivara guhā ṅan· śikhara parvva<choice><sic>k</sic><corr>t</corr></choice>a yam̃ṅ· Ativyūha mam̃ṅ· ra vrim̃ vala tūy· nau di dadam̃ṅ· dadam̃ṅ· diśa mam̃ṅ· vala nan·
            <lb n="B7"/>kā mak· Urām̃ nagara panrām̃ nim̃ niśśeṣa ṅan· lamvauv· kruvāv· hulun· limān· Avista suhetu yām̃ po ku śrī parameśvaravarmmadeva dharmma-rāja<milestone type="pagelike" unit="face" n="C"/>
            <lb n="C1"/>mam̃n· ra kaḥ Arddha-bhāga Urām̃ dinan· Amnā vrim̃ dau<choice><sic>t</sic><corr>k</corr></choice>· pajem̃ nagara
            <lb n="C2"/>na<gap reason="lost" quantity="8" unit="character"/><unclear>r</unclear>a vā nau vuḥ di <unclear reason="eccentric_ductus">d</unclear>adam̃n· devālaya vihāra kuṭī śāla Araṇyāśrayakaraṇa
-           <lb n="C3"/><seg rend="check">jane ra</seg> dharmma padā la navvan· pu-lyam̃ śrī yuvarāja mahā-senāpatī ra ndok· vatuv· di dadam̃n· vala pagā du<lb
-           n="C4" break="no"/>nan· ra pratiṣṭhā liṅga gani<unclear>m̃</unclear> ṅan· di Ajvañ· sauy· <seg rend="check">ha</seg><!-- read/corr sā? --> muhūrtt<choice><sic>i</sic><corr>a</corr></choice> karaṇa jayastambha tra hetu dunan· śivabha<lb
-           n="C5" break="no"/>kti rim̃ mam̃n· hake Urām̃ nagara ni<unclear>m̃</unclear> vela yaḥ madā mvoḥ cihna rūpa liṅga nim̃ madā vloṁ mam̃n· knā si Anumāna su<lb n="C6" break="no"/>dam̃r· janma jmai Adhama di ya doṁ pu-pom̃ tana rayā di nagara campa ya ma<surplus>m̃</surplus>jem̃ Andap· niy· nau</p>
+           <lb n="C3"/><seg rend="check">jane ra</seg> dharmma padā la navvan· pu-lyam̃ śrī yuvarāja mahā-senāpatī ra ndok· vatuv· di dadam̃n· vala pagā du<lb n="C4" break="no"/>nan· ra pratiṣṭhā liṅga gani<unclear>m̃</unclear> ṅan· di Ajvañ· sauy· <seg rend="check">ha</seg><!-- read/corr sā? --> muhūrtt<choice><sic>i</sic><corr>a</corr></choice> karaṇa jayastambha tra hetu dunan· śivabha<lb n="C5" break="no"/>kti rim̃ mam̃n· hake Urām̃ nagara ni<unclear>m̃</unclear> vela yaḥ madā mvoḥ cihna rūpa liṅga nim̃ madā vloṁ mam̃n· knā si Anumāna su<lb n="C6" break="no"/>dam̃r· janma jmai Adhama di ya doṁ pu-pom̃ tana rayā di nagara campa ya ma<surplus>m̃</surplus>jem̃ Andap· niy· nau</p>
          </div>
          <div type="apparatus">
                <listApp>
@@ -224,7 +218,7 @@
          </listBibl>
            <listBibl type="secondary">
 	<bibl><ptr target="bib:JA1908_01"/><citedRange unit="page">331</citedRange></bibl>
-	<bibl><ptr target="bib:Parmentier1909_01" /><citedRange unit="page">94-95</citedRange></bibl>
+	<bibl><ptr target="bib:Parmentier1909_01"/><citedRange unit="page">94-95</citedRange></bibl>
              <bibl><ptr target="bib:Majumdar1927_01"/><citedRange unit="part">3</citedRange><citedRange unit="page">147-149</citedRange><citedRange unit="item">53</citedRange>
              </bibl>
              <bibl><ptr target="bib:Golzio2004_01"/><citedRange unit="page">126-128</citedRange></bibl>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -121,16 +121,11 @@
 <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">p</supplied>u-pom̃ tana rayā ya dr̥<supplied reason="lost">m̃</supplied><gap reason="lost" extent="unknown" unit="character"/>
 <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">da</supplied><unclear>da</unclear><supplied reason="lost">m̃</supplied>n· dadam̃n· 
 varṇna Urām̃ Aviḥ</p>
-<p><lb n="4"/><supplied reason="lost"><g type="danda"/></supplied> <unclear>s</unclear>vast<unclear>i</unclear> <g type="danda"/> yām̃ pom̃ ku śrī vr̥ṣu viṣṇujātti vīrabhadrava<supplied reason="lost">rm</supplied><unclear>m</unclear><supplied reason="lost">ade</supplied><lb break="no" 
-n="5"/>va <g type="danda">.</g> br̥ṣuvaṅṣa Ādi pūra ṅgauk· glaum̃ vijaya <g type="danda">.</g> prathamāviśeka
-<lb n="6"/>di śaka Eka-loka-naya-rāma tam̃l· śaka rāja-Ag<choice><sic>g</sic><corr>n</corr></choice>i-vānu-ca<lb break="no" 
-n="7"/>kṣu pu-pom̃ ku kā rijan· dhvajakalpa paṇcākṣara klāḥ di pancedri<lb break="no" 
-n="8"/>ya klāḥ di paṇcatāppa ṅan· rijan· śattayañña paṇcamakutta
-<lb n="9"/>pu-pom̃ ku kā Imyam̃ mvoḥ vākya yām̃ pom̃ ku śrī jayasiṅghavarmma<lb break="no" 
-n="10"/>deva mayvā di rāja dudim̃ pu pom̃ ku kā mapunaḥ vumvom̃ pavvak· Anva<lb break="no" 
-n="11"/>k<unclear>·</unclear> vrim̃ Adhyā vuḥ <gap reason="lost" extent="unknown" unit="character"/> vuḥ <unclear>haI</unclear>n· humā <gap reason="lost" extent="unknown" unit="character"/>
+<p><lb n="4"/><supplied reason="lost"><g ref="sym:bar" type="punctuation">.</g></supplied> <unclear>s</unclear>vast<unclear>i</unclear> <g ref="sym:bar" type="punctuation">.</g> yām̃ pom̃ ku śrī vr̥ṣu viṣṇujātti vīrabhadrava<supplied reason="lost">rm</supplied><unclear>m</unclear><supplied reason="lost">ade</supplied><lb break="no" n="5"/>va <g ref="sym:bar" type="punctuation">.</g> br̥ṣuvaṅṣa Ādi pūra ṅgauk· glaum̃ vijaya <g ref="sym:bar" type="punctuation">.</g> prathamāviśeka
+<lb n="6"/>di śaka Eka-loka-naya-rāma tam̃l· śaka rāja-Ag<choice><sic>g</sic><corr>n</corr></choice>i-vānu-ca<lb break="no" n="7"/>kṣu pu-pom̃ ku kā rijan· dhvajakalpa paṇcākṣara klāḥ di pancedri<lb break="no" n="8"/>ya klāḥ di paṇcatāppa ṅan· rijan· śattayañña paṇcamakutta
+<lb n="9"/>pu-pom̃ ku kā Imyam̃ mvoḥ vākya yām̃ pom̃ ku śrī jayasiṅghavarmma<lb break="no" n="10"/>deva mayvā di rāja dudim̃ pu pom̃ ku kā mapunaḥ vumvom̃ pavvak· Anva<lb break="no" n="11"/>k<unclear>·</unclear> vrim̃ Adhyā vuḥ <gap reason="lost" extent="unknown" unit="character"/> vuḥ <unclear>haI</unclear>n· humā <gap reason="lost" extent="unknown" unit="character"/>
 <!-- A few more akṣaras could probably be recovered here from the M. Guimet estampage. -->
-<lb n="12"/>mram̃m̃k· yām̃ nī <g type="ddanda">.</g>  
+<lb n="12"/>mram̃m̃k· yām̃ nī <g ref="sym:doubleBar" type="punctuation">.</g>  
                 </p>
             </div>
 <div type="apparatus">

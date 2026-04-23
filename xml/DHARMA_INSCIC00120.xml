@@ -76,43 +76,42 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83213">
-            <ab><milestone type="pagelike" unit="face" n="A"/><label>Upper horizontal</label><lb n="A1"/><g type="ddanda"/><g type="danda"/><g type="spiralR"/><g type="ddanda"/> svasti <g type="ddanda"/></ab>
+            <ab><milestone type="pagelike" unit="face" n="A"/><label>Upper horizontal</label><lb n="A1"/><g ref="sym:doubleBar" type="punctuation">.</g><g ref="sym:bar" type="punctuation">.</g><g ref="sym:spiral-right" type="symbol">*</g><g ref="sym:doubleBar" type="punctuation">.</g> svasti <g ref="sym:doubleBar" type="punctuation">.</g></ab>
 
 <lg n="1" met="anuṣṭubh" xml:lang="san-Latn">
 <l n="a">pakṣādri-navabhir bbhukte</l> 
-<l n="b">śake liṅgam atiṣṭhipat <g type="danda">.</g></l>
+<l n="b">śake liṅgam atiṣṭhipat <g ref="sym:bar" type="punctuation">.</g></l>
 <l n="c">nāmnā śrī<lb n="A2" break="no"/>-devarājo <supplied reason="subaudible">'</supplied>sau</l> 
-<l n="d">kṣatriyo guṇa-kovidaḥ <g type="ddanda">.</g></l>
+<l n="d">kṣatriyo guṇa-kovidaḥ <g ref="sym:doubleBar" type="punctuation">.</g></l>
 </lg>
 
 <lg n="2" met="mixed" xml:lang="san-Latn">
 <l n="a" met="------+-+-+=">sa jayati jita-śatru-vargga Ājāv</l>
-<l n="b" met="-----+--+-+-+=">ajita-bhuja-vikra<lb n="A3" break="no"/>ma Indra-sūnu-tulyaḥ <g type="danda">.</g></l>
+<l n="b" met="-----+--+-+-+=">ajita-bhuja-vikra<lb n="A3" break="no"/>ma Indra-sūnu-tulyaḥ <g ref="sym:bar" type="punctuation">.</g></l>
 <l n="c" met="------+-+-+=">pr̥thu-yaśa-Upaviṣṭa-kambu-rāṣṭro</l>
-<l n="d" met="------+-+-+-+=">daśa-diśa-bhaya-kr̥c ca campa-rāja-pālī <g type="ddanda">.</g></l>
+<l n="d" met="------+-+-+-+=">daśa-diśa-bhaya-kr̥c ca campa-rāja-pālī <g ref="sym:doubleBar" type="punctuation">.</g></l>
 </lg>
 
-<ab><milestone type="pagelike" unit="face" n="B"/><label>Vertical</label><lb n="B1"/><g type="danda"/> svasti <g type="ddanda"/></ab>
+<ab><milestone type="pagelike" unit="face" n="B"/><label>Vertical</label><lb n="B1"/><g ref="sym:bar" type="punctuation">.</g> svasti <g ref="sym:doubleBar" type="punctuation">.</g></ab>
 
 <lg n="3" met="śārdūlavikrīḍita" xml:lang="san-Latn">
 <l n="a"><seg rend="check">rāj<supplied reason="omitted">ñ</supplied>aś</seg> śrī-parameśvarasya mahataḥ putro <supplied reason="subaudible">'</supplied>nujāyā jayī</l>
-<l n="b">tyāgī śīla-guṇānvitas sutanu-<seg rend="check">mānsa</seg>-svāpateyo mahān· <g type="danda">.</g></l>
+<l n="b">tyāgī śīla-guṇānvitas sutanu-<seg rend="check">mānsa</seg>-svāpateyo mahān· <g ref="sym:bar" type="punctuation">.</g></l>
 <l n="c">śuddhendu-dyutivad-yaśobhi<lb n="B2" break="no"/>r aniśaṁ pradyotitāśo raṇe</l>
-<l n="d">dāne śūrataro rarāja satataṁ śrī-devarājodbhutam· <g type="ddanda">.</g></l>
+<l n="d">dāne śūrataro rarāja satataṁ śrī-devarājodbhutam· <g ref="sym:doubleBar" type="punctuation">.</g></l>
 </lg>
 <!--a. rājas: read rājñaś? -->
 
 <lg n="4" met="anuṣṭubh" xml:lang="san-Latn">
 <l n="a">kuśa-śaila-guhā-yukte</l> 
-<l n="b">śaka-kāle śilātmakam· <g type="danda">.</g></l>
+<l n="b">śaka-kāle śilātmakam· <g ref="sym:bar" type="punctuation">.</g></l>
 <l n="c">liṅgaṁ svalpa<lb n="B3" break="no"/>m api svasthaṁ</l> 
-<l n="d">sthāpitan tena kīrttaye <g type="ddanda">.</g></l>
+<l n="d">sthāpitan tena kīrttaye <g ref="sym:doubleBar" type="punctuation">.</g></l>
 </lg>
 
 <p>di śaka-rāja <num value="972">972</num> kāla pu-pom̃ pu-lyam̃ śrī devarāja mahā-senāpatī ya kumvan· yā<unclear>m̃</unclear> po ku śrī parameśvaravarmmadeva
-<lb n="B4"/>nan· marai mak· nagara pāṇḍuraṅga niy· saum̃ yām̃ po ku śrī parameśvaravarmmadeva riy· <g type="danda">.</g> nan· ra ndok· vatuv· di vala pagā dunan· sa driy· sa vauḥ di dadam̃n· tuvuḥ Avista <seg rend="check">pi cai</seg>
-<lb n="B5"/>ra <seg rend="check">mamvuk vacam̃(?)</seg><!-- read mamvut? --> tuy· sam̃khyā vala nan· mam̃n· kintu hetu dunan· kevala tad-gata-mānasa-battī<!-- read/correct -varttī? --> yām̃ po ku śrī parameśvara sadākāla mam̃n· si jem̃ dunan· padap· vatuv· nan· pajem̃ śivaliṅga niy· sa yam̃ṅ· prayo<lb 
-n="B6" break="no"/>jana karaṇa kīrtti di loka niy· tra prayojana siy· madā pakam̃n· <sic>Ārtma</sic> dunan· di paraloka dudiy· tra <g type="ddanda">.</g></p>
+<lb n="B4"/>nan· marai mak· nagara pāṇḍuraṅga niy· saum̃ yām̃ po ku śrī parameśvaravarmmadeva riy· <g ref="sym:bar" type="punctuation">.</g> nan· ra ndok· vatuv· di vala pagā dunan· sa driy· sa vauḥ di dadam̃n· tuvuḥ Avista <seg rend="check">pi cai</seg>
+<lb n="B5"/>ra <seg rend="check">mamvuk vacam̃(?)</seg><!-- read mamvut? --> tuy· sam̃khyā vala nan· mam̃n· kintu hetu dunan· kevala tad-gata-mānasa-battī<!-- read/correct -varttī? --> yām̃ po ku śrī parameśvara sadākāla mam̃n· si jem̃ dunan· padap· vatuv· nan· pajem̃ śivaliṅga niy· sa yam̃ṅ· prayo<lb n="B6" break="no"/>jana karaṇa kīrtti di loka niy· tra prayojana siy· madā pakam̃n· <sic>Ārtma</sic> dunan· di paraloka dudiy· tra <g ref="sym:doubleBar" type="punctuation">.</g></p>
          </div>
          <div type="apparatus">
                <listApp>
@@ -144,7 +143,7 @@ n="B6" break="no"/>jana karaṇa kīrtti di loka niy· tra prayojana siy· madā
 			</listBibl>
            <listBibl type="secondary">
 	<bibl><ptr target="bib:JA1908_01"/><citedRange unit="page">331</citedRange></bibl>
-	<bibl><ptr target="bib:Parmentier1909_01" /><citedRange unit="page">95-96</citedRange></bibl>
+	<bibl><ptr target="bib:Parmentier1909_01"/><citedRange unit="page">95-96</citedRange></bibl>
               <bibl><ptr target="bib:Finot1915_02"/><citedRange unit="page">40-41, 49</citedRange></bibl>
 	<bibl><ptr target="bib:Majumdar1927_01"/><citedRange unit="book">III</citedRange><citedRange unit="page">145-147</citedRange><citedRange unit="item">52</citedRange></bibl>
 	<bibl><ptr target="bib:Golzio2004_01"/><citedRange unit="page">124-126</citedRange></bibl>

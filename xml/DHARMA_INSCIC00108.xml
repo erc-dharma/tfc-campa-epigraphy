@@ -22,7 +22,7 @@
                       <forename>Arlo</forename>
                       <surname>Griffiths</surname>
                    </persName>
-                   <persName ref= "part:sapi">
+                   <persName ref="part:sapi">
                       <forename>Salomé</forename>
                       <surname>Pichon</surname>
                    </persName>
@@ -90,68 +90,58 @@
          <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:83213">
            <ab><milestone type="pagelike" unit="face" n="A"/><lb n="A01"/>Om̐ namaś śivāya</ab>
            <lg n="1" met="āryā">
-             <l n="ab"><lb n="A1"/><g type="gomutraInitial"/> brahmādi-muni-sura-nutas sa śrī bhadreśvaraḥ prabhur bbhagavān·</l>
-              <l n="cd">jayati <lb n="A2"/>jagad-gurur ādyas tripura-jayī yogibhiḥ <unclear>sā</unclear>dhyaḥ<g type="ddandaPlain">.</g></l>
+             <l n="ab"><lb n="A1"/><g ref="sym:flourish-taperIn" type="symbol">*</g> brahmādi-muni-sura-nutas sa śrī bhadreśvaraḥ prabhur bbhagavān·</l>
+              <l n="cd">jayati <lb n="A2"/>jagad-gurur ādyas tripura-jayī yogibhiḥ <unclear>sā</unclear>dhyaḥ<g ref="sym:doubleBar" type="punctuation">.</g></l>
            </lg>
            <lg n="2" met="āryā">
              <l n="ab">mantrī nr̥pateḥ khyāto vividha-guṇai<lb n="A3" break="no"/>r āśayeśa-bhaktyāśaḥ</l>
-              <l n="cd">kṣmāyāṁ vibhāti <unclear>dh</unclear>armmair ājñā ma<choice><sic>n</sic><corr>ṇ</corr></choice>i-caitya-nāmāyam·<g type="ddandaPlain">.</g></l>
+              <l n="cd">kṣmāyāṁ vibhāti <unclear>dh</unclear>armmair ājñā ma<choice><sic>n</sic><corr>ṇ</corr></choice>i-caitya-nāmāyam·<g ref="sym:doubleBar" type="punctuation">.</g></l>
            </lg>
            <lg n="3" met="śārdūlavikrīḍita">
              <l n="a">śakā<unclear>b</unclear>de <lb n="A4"/>śaśi-rūpa-maṅgala-yute maitre ca kīṭa-grahe</l>
              <l n="b">kumbha-sthe bhr̥guje jhaṣena bhujag<unclear>ai</unclear><supplied reason="lost">re</supplied><!--rtf : bhujag(au/ai)C(e/o/au)--> <lb n="A5"/>saura-vāre śubhā</l>
              <l n="c" enjamb="yes">sthāpyā tena kumārikāsuragurau nāgendra-saur<choice><unclear>e</unclear><unclear>au</unclear></choice>
              <!--note rtf : c. nāgendrasaur(e/au): nāgendrasaure Huber. L’élément superscrit faisant au a-t-on essayé de l’effacer? (Ajouter à apparatus si lecture -saurau est retenue)--> mahā</l><!--note rtf : c. mahā-: noter forme du hā, autres que celle utilisée en bas pour la même lettre.-->
-             <l n="d">de<lb n="A6" break="no"/><unclear>vī</unclear> phālguṇa-nīla-pañca-divase go-lagna Īśa-priyā<g type="ddandaPlain">.</g></l>
+             <l n="d">de<lb n="A6" break="no"/><unclear>vī</unclear> phālguṇa-nīla-pañca-divase go-lagna Īśa-priyā<g ref="sym:doubleBar" type="punctuation">.</g></l>
            </lg>
            <lg n="4" met="anuṣṭubh">
              <l n="a">śrī-mahāliṅga-devo 'yaṁ</l>
              <l n="b"><lb n="A7"/>sthāpitas tena tat-pituḥ</l>
              <l n="c">sthāpitā ca mahādevī</l>
-             <l n="d">śrīmatī māturi priyā<g type="ddandaPlain">.</g></l>
+             <l n="d">śrīmatī māturi priyā<g ref="sym:doubleBar" type="punctuation">.</g></l>
            </lg>
            <lg n="5" met="āryā">
              <l n="ab">tasye<lb n="A8" break="no"/>śvara-devākhyo 'nujaḥ sva-kīrttyai pitur ddharāyāñ ca</l>
-              <l n="cd">yena sthāpyaḥ su-mudā śrīśvarade<lb n="A9" break="no"/>vādi-devo 'yam·<g type="ddandaPlain">.</g></l>
+              <l n="cd">yena sthāpyaḥ su-mudā śrīśvarade<lb n="A9" break="no"/>vādi-devo 'yam·<g ref="sym:doubleBar" type="punctuation">.</g></l>
            </lg>
            <lg n="6" met="anuṣṭubh">
              <l n="a">śrī-mahāliṅga-devāya</l>
              <l n="b">prādāt kṣetraṁ sa-dāsakam·</l>
              <l n="c">śrī-jaya-Indrava<lb n="A10" break="no"/><unclear>rmme</unclear>daṁ</l>
-             <l n="d">śāstra-jño loka-dharmma-vit·<g type="ddandaPlain">.</g></l>
+             <l n="d">śāstra-jño loka-dharmma-vit·<g ref="sym:doubleBar" type="punctuation">.</g></l>
            </lg>
            <lg n="7" met="anuṣṭubh">
              <l n="a">campeśvarā vara-nr̥pā</l>
              <l n="b"><unclear>Ā</unclear>-candrārkkāt padāśayāḥ</l>
              <l n="c">śr̥<lb n="A11" break="no"/><unclear>ṇu</unclear>yu<choice><sic>ḥ</sic><corr>r</corr></choice> vacanam idaṁ</l>
-             <l n="d">paramārthaṁ su<supplied reason="omitted">dharmikaṁ</supplied> śrī-jaya-Indravarmma-rājasya<g type="ddandaPlain">.</g></l>
+             <l n="d">paramārthaṁ su<supplied reason="omitted">dharmikaṁ</supplied> śrī-jaya-Indravarmma-rājasya<g ref="sym:doubleBar" type="punctuation">.</g></l>
                        </lg>
                        <!-- why not sudhārmikaṁ? what does Majumdar supply? -->
-           <p>śrī-mahāli<lb
-             n="A12" break="no"/>ṅga-devaṁ ke cid atikr̥tya narake patantu<g type="ddandaPlain">.</g> ke cid valātkāreṇāsya dravya-dāsa<milestone type="pagelike" unit="face" n="B"/><lb
-             n="B1" break="no"/>-kṣetra-go-mahiṣān hariṣyanti dahana-śikhā
-             <lb n="B2"/>karāle mahāniraye patantu<g type="ddandaPlain">.</g> ye dharmma-jñā nyāyena pāla<lb
-             n="B3" break="no"/>yanti śaktimantam imaṁ te divi vasantu<g type="ddandaPlain">.</g>
+           <p>śrī-mahāli<lb n="A12" break="no"/>ṅga-devaṁ ke cid atikr̥tya narake patantu<g ref="sym:doubleBar" type="punctuation">.</g> ke cid valātkāreṇāsya dravya-dāsa<milestone type="pagelike" unit="face" n="B"/><lb n="B1" break="no"/>-kṣetra-go-mahiṣān hariṣyanti dahana-śikhā
+             <lb n="B2"/>karāle mahāniraye patantu<g ref="sym:doubleBar" type="punctuation">.</g> ye dharmma-jñā nyāyena pāla<lb n="B3" break="no"/>yanti śaktimantam imaṁ te divi vasantu<g ref="sym:doubleBar" type="punctuation">.</g>
            </p>
            <p xml:lang="ocm-Latn">yāṅ· pov· mahāliṅga yāṅ·
              <lb n="B4"/>pu pov· ku śrī jaya Indravarmma kā vriy· matandās· sarvvākarādāna matandās·
              <lb n="B5"/>siy· vr̥liy· Urāṅ· mandop· sarvvākarādāna di yāṅ· pov· mahāliṅga
-             <lb n="B6"/>mapamataḥ matandāḥ niy· matop· vriy· gr̥hastha kūñ· Asov· vañāk· ndo<lb
-             n="B7" break="no"/>y· Inā Urāṅ· nan· kā ñū matai nau dauk· di yop· naraka tauṅ· yugāntaḥ pra<lb
-             n="B8" break="no"/>laya<g type="dotMid">.</g> yāṅ· poṁ mahāliṅga pvauḥ tapaḥ thuv· dharmma rakṣā pasyāṁ yajamāna <unclear>ma</unclear><lb
-             n="B9" break="no"/>tapaḥ thuv· dharmma rakṣā pasyāṁ tmov· svarggāpavargga<g type="dotMid">.</g> pu pov· tana <supplied reason="omitted">ra</supplied>yā sthirarājya <supplied reason="lost">hu</supplied><lb
-             n="B10" break="no"/>mā masin· dvā jāk· humā krauc· dvā jāk· humā <unclear>kaṁ</unclear>k· sā jāk· humā <gap reason="illegible" quantity="2" unit="character"/>
-             <lb n="B11"/>dvā jāk· humā <placeName type="cultivation" subtype="field" key="Udaya">Udaya</placeName> <measure type="unitCapacity" quantity="1" commodity="paddy">sā jāk·</measure> humā vvac· sā jāk· humā caṁk· s<supplied reason="lost">ā jā</supplied><lb
-             n="B12" break="no"/>k· humā tūpen· sā jāk· humā huluv· ravāṅ· sā jāk· humā <gap reason="illegible" quantity="2" unit="character"/><!--sapi2argr : Cette ligne vérifiée sur l'estampage de Huber, BEFEO XI p. 272. Note du rtf : La pierre est encastrée. On ne peut pas voir certains signes souscrits de la l. 12.--><milestone type="pagelike" unit="face" n="C"/>
+             <lb n="B6"/>mapamataḥ matandāḥ niy· matop· vriy· gr̥hastha kūñ· Asov· vañāk· ndo<lb n="B7" break="no"/>y· Inā Urāṅ· nan· kā ñū matai nau dauk· di yop· naraka tauṅ· yugāntaḥ pra<lb n="B8" break="no"/>laya<g ref="sym:bullet-middle" type="punctuation">.</g> yāṅ· poṁ mahāliṅga pvauḥ tapaḥ thuv· dharmma rakṣā pasyāṁ yajamāna <unclear>ma</unclear><lb n="B9" break="no"/>tapaḥ thuv· dharmma rakṣā pasyāṁ tmov· svarggāpavargga<g ref="sym:bullet-middle" type="punctuation">.</g> pu pov· tana <supplied reason="omitted">ra</supplied>yā sthirarājya <supplied reason="lost">hu</supplied><lb n="B10" break="no"/>mā masin· dvā jāk· humā krauc· dvā jāk· humā <unclear>kaṁ</unclear>k· sā jāk· humā <gap reason="illegible" quantity="2" unit="character"/>
+             <lb n="B11"/>dvā jāk· humā <placeName type="cultivation" subtype="field" key="Udaya">Udaya</placeName> <measure type="unitCapacity" quantity="1" commodity="paddy">sā jāk·</measure> humā vvac· sā jāk· humā caṁk· s<supplied reason="lost">ā jā</supplied><lb n="B12" break="no"/>k· humā tūpen· sā jāk· humā huluv· ravāṅ· sā jāk· humā <gap reason="illegible" quantity="2" unit="character"/><!--sapi2argr : Cette ligne vérifiée sur l'estampage de Huber, BEFEO XI p. 272. Note du rtf : La pierre est encastrée. On ne peut pas voir certains signes souscrits de la l. 12.--><milestone type="pagelike" unit="face" n="C"/>
              <lb n="C1"/>humā gaḥ pagār·
              <lb n="C2"/>sā jāk· nariy· gaḥ
              <lb n="C3"/><unclear>ṅ</unclear>auk· sāṅ· tal· gaḥ
              <lb n="C4"/>humā tuṁ sa pluḥ sā
              <lb n="C5"/>jāk· humā tuṁ ṅan·
-             <lb n="C6"/>dandauv· limā pluḥ jā<lb
-             n="C7" break="no"/>k· ṅauk· sāṅ· ṅan· humā
-             <lb n="C8"/><gap reason="illegible" quantity="1" unit="character"/>diḥ dvā pluḥ dalapan· jā<lb
-             n="C9" break="no"/><supplied reason="lost">k·</supplied> humā tūpaṅ· pāt·
+             <lb n="C6"/>dandauv· limā pluḥ jā<lb n="C7" break="no"/>k· ṅauk· sāṅ· ṅan· humā
+             <lb n="C8"/><gap reason="illegible" quantity="1" unit="character"/>diḥ dvā pluḥ dalapan· jā<lb n="C9" break="no"/><supplied reason="lost">k·</supplied> humā tūpaṅ· pāt·
              <lb n="C10"/>jāk· humā kayauv· naṁ
              <lb n="C11"/><supplied reason="lost">jāk·</supplied> <gap reason="illegible" quantity="6" unit="character"/><!--note du rtf : 11. L’encastrement de la pierre ne permet pas de lire la l. 11.-->
              <milestone type="pagelike" unit="face" n="D"/>
@@ -160,10 +150,9 @@
              <lb n="D3" break="no"/>y·<!-- ou niy?--> devadvāra ta<unclear>ṁ</unclear>l· va<gap reason="lost" quantity="1" unit="character"/>
              <lb n="D4"/><gap reason="lost" quantity="1" unit="character"/>v· vruv· humā ṅan·
              <lb n="D5"/><supplied reason="lost">d</supplied><unclear>i</unclear>nan·<!-- note du rtf : nan: omis par Huber. Noter le trait au dessus et avant le 1er n. Le lire ?--> Avista kā yā<supplied reason="lost">ṅ·</supplied>
-             <lb n="D6"/><supplied reason="lost">po</supplied>v· ku śrī jaya Indra<lb
-             n="D7" break="no"/><supplied reason="lost">va</supplied>rmma vuḥ di yāṁ pu po<supplied reason="lost">v·</supplied>
+             <lb n="D6"/><supplied reason="lost">po</supplied>v· ku śrī jaya Indra<lb n="D7" break="no"/><supplied reason="lost">va</supplied>rmma vuḥ di yāṁ pu po<supplied reason="lost">v·</supplied>
              <lb n="D8"/><supplied reason="lost">ku</supplied> śrī mahāli
-             <lb n="D9" break="no"/><supplied reason="lost">ṅga</supplied> <g type="floretComplex">.</g>
+             <lb n="D9" break="no"/><supplied reason="lost">ṅga</supplied> <g ref="sym:floret-complex" type="punctuation">.</g>
                   </p>
              <lg n="8" met="indravajrā">
                <l n="a"><milestone type="pagelike" unit="face" n="E"/><lb n="E1"/><supplied reason="lost">ca</supplied><unclear>m</unclear>peśvaraś śrī jayasiṅhavarmmā</l>
@@ -174,8 +163,8 @@
              <lg n="9" met="anuṣṭubh">
                <l n="a"><lb n="E3"/>śrī mahāliṅgadevāya</l>
                <l n="b">lokāspadakr̥te bhuvi</l>
-               <l n="c"><lb n="E4"/>pradattas sa mahākīrtti<choice><unclear>ḥ</unclear><unclear><g type="dandaPlain">.</g></unclear></choice><!--note du rtf : Un défaut de la pierre serait mieux, mais il ya vraiment quelque chose d’inscrit.--></l>
-               <l n="d">rmmuktiñ ca sasitadhvajām·<g type="ddandaPlain">.</g></l>
+               <l n="c"><lb n="E4"/>pradattas sa mahākīrtti<choice><unclear>ḥ</unclear><unclear><g ref="sym:bar" type="punctuation">.</g></unclear></choice><!--note du rtf : Un défaut de la pierre serait mieux, mais il ya vraiment quelque chose d’inscrit.--></l>
+               <l n="d">rmmuktiñ ca sasitadhvajām·<g ref="sym:doubleBar" type="punctuation">.</g></l>
              </lg>
          </div>
          <div type="apparatus">
@@ -272,7 +261,7 @@
                     <rdg source="bib:Huber1911_01"><gap reason="undefined"/></rdg>
                 </app>
                 <app loc="D9">
-                    <lem><supplied reason="lost">ṅga</supplied> <g type="floretComplex">.</g></lem>
+                    <lem><supplied reason="lost">ṅga</supplied> <g ref="sym:floret-complex" type="punctuation">.</g></lem>
                     <rdg source="bib:Huber1911_01">ṅga <gap reason="undefined"/></rdg>
                 </app>
                  <app loc="E2">
@@ -281,10 +270,10 @@
                  </app>
                  <app loc="E2">
                      <lem>divādivā yaḥ</lem>
-                     <rdg source="bib:Huber1911_01">divādivāya<g type="ddandaPlain">.</g></rdg>
+                     <rdg source="bib:Huber1911_01">divādivāya<g ref="sym:doubleBar" type="punctuation">.</g></rdg>
                  </app>
                  <app loc="E4">
-                     <lem>mahākīrtti<choice><unclear>ḥ</unclear><unclear><g type="dandaPlain">.</g></unclear></choice>rmmuktiñ</lem>
+                     <lem>mahākīrtti<choice><unclear>ḥ</unclear><unclear><g ref="sym:bar" type="punctuation">.</g></unclear></choice>rmmuktiñ</lem>
                      <rdg source="bib:Huber1911_01">mahākīrttirmmuktiñ</rdg>
                  </app>
                </listApp>

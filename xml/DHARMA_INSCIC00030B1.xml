@@ -106,16 +106,15 @@
 	</facsimile>
 	<text xml:space="preserve"><body><div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83213">
 <p>
-<lb n="1"/><g type="floretQuatrefoil"/> puṇaḥ yām̃ pom̃ ku śrī jayaparameśvaravarmmadeva pu pom̃ ku 
+<lb n="1"/><g ref="sym:floret" type="symbol">*</g> puṇaḥ yām̃ pom̃ ku śrī jayaparameśvaravarmmadeva pu pom̃ ku 
 <lb n="2"/>vuḥ di yām̃ pu nagara ṅan· vraḥ rūpa di śakarāja nī <num value="1155">1155</num> nī humā di kumvyām̃l·
-<lb n="3"/>sā sthāṇa anan· humā samr̥ddhījaya <num value="400">400</num> jāk· kvir· si vuḥ di hajai nan· <unclear>la</unclear><lb break="no" 
-n="4"/>kim̃ krumvim̃ <num value="10">10</num> drim̃ humā vanūk· nī dharmmathateḥ <num value="1800">1800</num> jāk· humā vanūk· ni pu
+<lb n="3"/>sā sthāṇa anan· humā samr̥ddhījaya <num value="400">400</num> jāk· kvir· si vuḥ di hajai nan· <unclear>la</unclear><lb break="no" n="4"/>kim̃ krumvim̃ <num value="10">10</num> drim̃ humā vanūk· nī dharmmathateḥ <num value="1800">1800</num> jāk· humā vanūk· ni pu
 <lb n="5"/>Auk· <num value="1500">1500</num> jāk· kvir· campa lov· syaṁ vukāṁ lakim̃ krumvim̃ <num value="45">45</num> drim̃</p>  
          </div>
 <div type="apparatus">
 <listApp>
 <app loc="1">
-<lem><g type="floretQuatrefoil"/> puṇaḥ</lem>
+<lem><g ref="sym:floret" type="symbol">*</g> puṇaḥ</lem>
 <rdg source="bib:Schweyer2005_01">|| puṇaḥ</rdg>
 </app>
 <app loc="2">

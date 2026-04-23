@@ -99,11 +99,11 @@
          <p><lb n="A1"/><gap reason="lost" quantity="10" unit="character"/> mvaun· paliy· <seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>v<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg> <gap reason="lost" quantity="8" unit="character"/>
          <lb n="A2"/><gap reason="lost" quantity="8" unit="character"/> luvu subhāḥ di kadyaṅ· <gap reason="lost" quantity="8" unit="character"/>
          <lb n="A3"/><gap reason="lost" quantity="6" unit="character"/> humā tavauṅ· di luvu lamauṅ· li<unclear>m</unclear><supplied reason="lost">ā</supplied> <gap reason="lost" quantity="7" unit="character"/>
-         <lb n="A4"/><gap reason="lost" quantity="4" unit="character"/> Asiy·<g type="dotMid">.</g> dandau tavauṅ· lagaiḥ Aviḥ<g type="dotMid">.</g> humā luvu klā d<gap reason="lost" quantity="4" unit="character"/>
-         <lb n="A5"/><gap reason="lost" quantity="3" unit="character"/> jāk· Asīy·<g type="dotMid">.</g> humā vasauṅ· pāk· pluḥ tijuḥ galauk·<g type="dotMid">.</g> dvā pluḥ tiju<unclear>ḥ</unclear> <supplied reason="lost" cert="low">jāk</supplied><!-- sapi2argr : Ici on pourrait également s'attendre à "dandau tavauṅ lagaiḥ Aviḥ", comme à la ligne A4. Il semble cependant manquer d'espace.-->
-         <lb n="A6"/><gap reason="lost" quantity="2" unit="character"/>ṅ· lagaiḥ Aviḥ<g type="dotMid">.</g> humā di kalataiḥ<g type="dotMid">.</g> humā klov·
-         karuñak·<!-- sapi2argr comment of the rtf:  karuñak: this reading is very likely wrong. I have seen somewhere else the letter here rendered as ña, but do not remember where nor what the correct interpretation is. --> pāk· galauk·<g type="dandaPlain">.</g> tluv· jāk<supplied reason="lost">· Asi</supplied>
-         <lb n="A7"/><supplied reason="lost">y·<g type="dotMid">.</g></supplied> humā di Andap· mvaun· paliy· kalataiḥ pāk· galauk·<g type="dotMid">.</g> dvā jāk· <unclear>A</unclear>siy· <g type="ddandaHooked"/><g type="floretComplex"/>
+         <lb n="A4"/><gap reason="lost" quantity="4" unit="character"/> Asiy·<g ref="sym:bullet-middle" type="punctuation">.</g> dandau tavauṅ· lagaiḥ Aviḥ<g ref="sym:bullet-middle" type="punctuation">.</g> humā luvu klā d<gap reason="lost" quantity="4" unit="character"/>
+         <lb n="A5"/><gap reason="lost" quantity="3" unit="character"/> jāk· Asīy·<g ref="sym:bullet-middle" type="punctuation">.</g> humā vasauṅ· pāk· pluḥ tijuḥ galauk·<g ref="sym:bullet-middle" type="punctuation">.</g> dvā pluḥ tiju<unclear>ḥ</unclear> <supplied reason="lost" cert="low">jāk</supplied><!-- sapi2argr : Ici on pourrait également s'attendre à "dandau tavauṅ lagaiḥ Aviḥ", comme à la ligne A4. Il semble cependant manquer d'espace.-->
+         <lb n="A6"/><gap reason="lost" quantity="2" unit="character"/>ṅ· lagaiḥ Aviḥ<g ref="sym:bullet-middle" type="punctuation">.</g> humā di kalataiḥ<g ref="sym:bullet-middle" type="punctuation">.</g> humā klov·
+         karuñak·<!-- sapi2argr comment of the rtf:  karuñak: this reading is very likely wrong. I have seen somewhere else the letter here rendered as ña, but do not remember where nor what the correct interpretation is. --> pāk· galauk·<g ref="sym:bar" type="punctuation">.</g> tluv· jāk<supplied reason="lost">· Asi</supplied>
+         <lb n="A7"/><supplied reason="lost">y·<g ref="sym:bullet-middle" type="punctuation">.</g></supplied> humā di Andap· mvaun· paliy· kalataiḥ pāk· galauk·<g ref="sym:bullet-middle" type="punctuation">.</g> dvā jāk· <unclear>A</unclear>siy· <g ref="sym:doubleBar-hooked" type="punctuation">.</g><g ref="sym:floret-complex" type="symbol">*</g>
          <lb n="A8"/>humā manrauṅ· yām̃ tandyo tuy· thauṅ·<!-- sapi2argr thauṅ·: or read dhauṅ·, mauṅ·? --> nan· la<unclear>gai</unclear>ḥ Aviḥ
          </p>
          <p><milestone type="pagelike" unit="face" n="B"/>
@@ -130,7 +130,7 @@
                     <note>See l. A4, A6 and A7 where the measure finishes by <foreign>jāk</foreign>. Since two characters are missing, one could expect that after the first measure in <foreign>galauk</foreign> would come a second one in <foreign>jāk</foreign>.</note>
                  </app>
                  <app loc="A6">
-                    <lem>jāk<supplied reason="lost">· Asiy·<g type="dotMid">.</g></supplied></lem>
+                    <lem>jāk<supplied reason="lost">· Asiy·<g ref="sym:bullet-middle" type="punctuation">.</g></supplied></lem>
                     <rdg source="bib:Griffiths+al2017_03">jāk<supplied reason="lost">·</supplied> <gap reason="lost"/></rdg>
                     <note>See l. A4, A5 and A7, for the structure of the measurement, involving a measure in <foreign>galauk</foreign>, a measure in <foreign>jāk</foreign> followed by the word <foreign>asiy</foreign> = product, content.</note>
                  </app>

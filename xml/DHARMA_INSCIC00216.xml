@@ -108,18 +108,12 @@
          <projectDesc>
             <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
@@ -158,24 +152,24 @@
                         <ab>oṁ</ab>
                         <!-- A: we have the convention of not counting the lines of invocations. I thought it might be useful to mark the kind of <ab> explicitly. We want this kind of <ab> at the center line. -->
                         <ab><lb n="1"/>
-                            <g type="siddham"/>  svasti namaś śivāya śrīvr̥ddheśvarāya</ab>
+                            <g ref="sym:san-siddham" type="ideogram">@</g>  svasti namaś śivāya śrīvr̥ddheśvarāya</ab>
                        <lg met="śārdūlavikrīḍita" n="1">
                            <l n="1"><lb n="2"/>yo lokaprabhavasthitipralayavid digbhāgaviśvaprabhur</l>
                            <l n="2">yyo datvā ja<lb n="3" break="no"/>gatām varaṁ praṇayinām vīrarṣibhis sthāpitaḥ</l>
                            <l n="3">bahner mmūrttimayaiś śatārddhatanubhi<lb n="3" break="no"/>r ddīptorjjitenātmanā</l>
-                            <l n="4">pāyād bhūḥ kila pāṇḍaraṅgaviṣaye  śrīmān sa vr̥ddheśvaraḥ <g type="fleuron" subtype="tobedefined"/>
+                            <l n="4">pāyād bhūḥ kila pāṇḍaraṅgaviṣaye  śrīmān sa vr̥ddheśvaraḥ <g subtype="tobedefined" ref="sym:floret" type="symbol">*</g>
                             </l>                       
                        </lg>
                         <lg met="sragdharā" n="2">
                            <l n="1"><lb n="5"/> <w part="I">śuddhāṅśabrahmavaryyaprathitakulaśarannirmmalākāśadeśa</w></l>
                            <l n="2"><w part="F">prādurbhbhūto</w><!-- AG: spelling rbhbh may need to be encoded with <choice><reg><orig> -->  vanīndravya<lb n="6" break="no"/>pamalaśaśabhr̥c chrīkalākāntimān yaḥ</l>
                             <l n="3">śatruddhvāntāni jitvā sukr̥takaracayais to<lb n="7" break="no"/>ṣayitvātmabhr̥tyān</l>
-                            <l n="4">eṣa śrīsatyavarmmā bhuvi divi vibabhau  śakravad dīptatejāḥ <g type="fleuron" subtype="tobedefined"/></l>
+                            <l n="4">eṣa śrīsatyavarmmā bhuvi divi vibabhau  śakravad dīptatejāḥ <g subtype="tobedefined" ref="sym:floret" type="symbol">*</g></l>
                         </lg>
                     </div>
                     <div type="textpart" n="A2" rend="break-none">
                         <div type="textpart" n="A2a">
-        <p><lb n="8"/> tena vijayinā <choice><reg>satyavāksvabhāvatayā</reg><orig>satyavāgsvabhāvatayā</orig></choice> <!-- Hugh: the difference between reg and orig affects just one letter right in the middle of this long compound word which, by Sanskrit standards, is still quite short. Is there any reason, from the point of view of search, to prefer putting such tags around whole 'words' (defined as united delimited by spaces, which for Sanskrit may not be a very handy definition) above putting them only around the smallest segment of letters concerned? --> satyeneva mūrttimatā śrīsatyavarmmaṇā satya<lb n="9" break="no"/>lokāt tribhuvanaikanāthena śambhunāvanitale punaravatāritena śrīvr̥ddheśvarāt sa<lb n="10" break="no"/>madhigatarājyasaṁpadā sakalasādhujanapurohitāgrāsāmātyagaṇaiḥ parivr̥tena pu<lb n="11" break="no"/>ñjitāśeṣasuragaṇair iva devendreṇa śrīśākarāje gagaṇāmvarādriyamite <lb n="12"/> vaiśākhasitapañcamakṣapāgrye śubhatithikaraṇamuhūrttanakṣatradivasalagnādiyoga<lb n="13" break="no"/>saṁpanne  yajñātiśayamaṅgalāyāṁ  bhūmau śrīmān ādideveśvaraḥ kṣitisalilāna<lb n="14" break="no"/>lānilākāśadīkṣitarajanikaradivākaramūrttis sakalasurāsurendrādigaṇanataca<lb n="15" break="no"/>raṇayugasaroruhas saha bhagavatyā śrīdurggādevyā nānāpsarogaṇārccitacaraṇā<lb n="16" break="no"/>ravindayā vibhavadāyinyā sakalajagatān tvayi bhaktimatāṁ bhaktyā sthāpitaḥ <g type="fleuron" subtype="tobedefined"/></p>   
+        <p><lb n="8"/> tena vijayinā <choice><reg>satyavāksvabhāvatayā</reg><orig>satyavāgsvabhāvatayā</orig></choice> <!-- Hugh: the difference between reg and orig affects just one letter right in the middle of this long compound word which, by Sanskrit standards, is still quite short. Is there any reason, from the point of view of search, to prefer putting such tags around whole 'words' (defined as united delimited by spaces, which for Sanskrit may not be a very handy definition) above putting them only around the smallest segment of letters concerned? --> satyeneva mūrttimatā śrīsatyavarmmaṇā satya<lb n="9" break="no"/>lokāt tribhuvanaikanāthena śambhunāvanitale punaravatāritena śrīvr̥ddheśvarāt sa<lb n="10" break="no"/>madhigatarājyasaṁpadā sakalasādhujanapurohitāgrāsāmātyagaṇaiḥ parivr̥tena pu<lb n="11" break="no"/>ñjitāśeṣasuragaṇair iva devendreṇa śrīśākarāje gagaṇāmvarādriyamite <lb n="12"/> vaiśākhasitapañcamakṣapāgrye śubhatithikaraṇamuhūrttanakṣatradivasalagnādiyoga<lb n="13" break="no"/>saṁpanne  yajñātiśayamaṅgalāyāṁ  bhūmau śrīmān ādideveśvaraḥ kṣitisalilāna<lb n="14" break="no"/>lānilākāśadīkṣitarajanikaradivākaramūrttis sakalasurāsurendrādigaṇanataca<lb n="15" break="no"/>raṇayugasaroruhas saha bhagavatyā śrīdurggādevyā nānāpsarogaṇārccitacaraṇā<lb n="16" break="no"/>ravindayā vibhavadāyinyā sakalajagatān tvayi bhaktimatāṁ bhaktyā sthāpitaḥ <g subtype="tobedefined" ref="sym:floret" type="symbol">*</g></p>   
                         </div>
                         <div type="textpart" n="A2b">
         <p><lb n="17"/>tasmai śryādideveśvarāya sāntaḥpuravilāsinīdāsadāsīgomahiṣakṣetrā<lb n="18" break="no"/>di yat sarvvadravyaṁ vīrapurakoṣṭhāgāraṁ drais·koṣṭhāgāraṁ raprāp·koṣṭhāgāram· pi<lb n="19" break="no"/>laur·kṣetraṁ paliy·bharuv·kṣetraṁ rājñā śrīsatyavarmmaṇā yuktyā parikalpya </p></div>

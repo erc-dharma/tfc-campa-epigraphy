@@ -84,7 +84,7 @@
          <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83213">
             <div type="textpart" subtype="zone" n="1"><head xml:lang="eng">Main face</head>
                 <p><milestone type="pagelike" unit="face" n="A"/>
-<lb n="A1"/><g type="floretQuatrefoil"/> <g type="squiggleVertical"/> <g type="danda"/> nī mūla humā makapun· glai<!-- sapi2argr: je ne vois pas bien la voyelle -ai ici.--> cam̃k· <unclear>sam̃</unclear><supplied reason="lost">k·</supplied> <gap reason="lost" extent="unknown"/>
+<lb n="A1"/><g ref="sym:floret" type="symbol">*</g> <g ref="sym:bar-curly" type="punctuation">.</g> <g ref="sym:bar" type="punctuation">.</g> nī mūla humā makapun· glai<!-- sapi2argr: je ne vois pas bien la voyelle -ai ici.--> cam̃k· <unclear>sam̃</unclear><supplied reason="lost">k·</supplied> <gap reason="lost" extent="unknown"/>
 <lb n="A2"/><gap reason="illegible" unit="character" quantity="1"/>liṅga bhagavatī kauṭhāreśvarī ṅan· humā devatā nī paka<!-- sapi2argr: nī pak· comme dans C. 208 ?--><gap reason="lost" extent="unknown"/>
 <lb n="A3"/><gap reason="lost" unit="character" quantity="1"/>· jem̃ paradravya si pu pom̃ tana rayā Indravarmma pu pom̃ ku s<unclear>ā sthā</unclear><supplied reason="lost">na</supplied> <gap reason="lost" extent="unknown"/>
 <lb n="A4"/><unclear>ṅa</unclear>n· sthāna prathama di Īśāna <unclear>v</unclear>ik· cam̃k·<!-- sapi2argr j'ai enlevé le "m̃" unclear. --> luvuk· <unclear>m</unclear>utiy·<!-- sapi2argr : au lieu de (b)utiy·--> nau dakṣi<unclear>ṇa</unclear> <gap reason="lost" extent="unknown"/>
@@ -107,9 +107,9 @@
 <lb n="A17"/>Anan· <unclear>mula Āra</unclear> pūrvva dakṣi<unclear>ṇa</unclear> humā nagara paścima Uttara humā <unclear>na</unclear><supplied reason="lost">gara</supplied><!-- sapi2argr (na)[gara]: ajout.--> <gap reason="lost" extent="unknown"/>
 <lb n="A18"/> <num value="112">112</num> jāk· <unclear>sā sthā</unclear>na trā Anan· humā <unclear>mam̃</unclear> pūrvva dakṣiṇa humā nagara <gap reason="lost" extent="unknown"/>
 <lb n="A19" break="no"/>mā kluṅ· kanvā danrāk· Atam̃ṁ yauṁ <num value="6">6</num> jāk·<!-- sapi2argr: au lieu de (ma)k·--> sā sthāna trā Anan· humā <gap reason="lost" extent="unknown"/>
-<lb n="A20"/>nan· humā cam̃ḥ klum̃ talim̃ 37 jāk· <g type="danda">.</g> humā cam̃ḥ savik· trā <num value="17">17</num> jāk·</p>
+<lb n="A20"/>nan· humā cam̃ḥ klum̃ talim̃ 37 jāk· <g ref="sym:bar" type="punctuation">.</g> humā cam̃ḥ savik· trā <num value="17">17</num> jāk·</p>
 <p>
-<lb n="A21"/><supplied reason="lost">quatrefoil</supplied> <g type="danda"/> <g type="squiggleVertical"/> <g type="squiggleVertical"/> <g type="danda"/> śalāv·<!--sapi2argr au lieu de śamāv·--> maAkyam̃ pandau<unclear>v</unclear>· Air· māḥ sā <num value="35">35</num><!--sapi2argr: ou 34.--> thil· <unclear>p</unclear>i<supplied reason="lost">rak·</supplied> <gap reason="lost" extent="unknown"/>
+<lb n="A21"/><supplied reason="lost">quatrefoil</supplied> <g ref="sym:bar" type="punctuation">.</g> <g ref="sym:bar-curly" type="punctuation">.</g> <g ref="sym:bar-curly" type="punctuation">.</g> <g ref="sym:bar" type="punctuation">.</g> śalāv·<!--sapi2argr au lieu de śamāv·--> maAkyam̃ pandau<unclear>v</unclear>· Air· māḥ sā <num value="35">35</num><!--sapi2argr: ou 34.--> thil· <unclear>p</unclear>i<supplied reason="lost">rak·</supplied> <gap reason="lost" extent="unknown"/>
 <lb n="A22"/><num value="19">19</num> thil· pirak· pralaum̃ pandauv· Air· māḥ sā <num value="10">10</num> thi<supplied reason="lost">l·</supplied> <gap reason="lost" extent="unknown"/>
 <lb n="A23"/>thil· limān· lakim̃ sā Anan· <unclear>dhunum̃</unclear> ratā yām̃ pom̃ <gap reason="lost" extent="unknown"/>
 <lb n="A24"/>svāpadevaparamātmaja yām̃ pom̃ ku Indravarmma pu <gap reason="lost" extent="unknown"/>
@@ -120,14 +120,10 @@
         <p><milestone type="pagelike" unit="face" n="B"/>
 <lb n="B1"/> ... yapasakraśamaddahaka to
 <lb n="B2"/> X likuk· rai raśūmya X haramaku sevyak· ravebhak· gasav· prauṅ· deva
-<lb n="B3"/> X thām̃ p<unclear>ū</unclear>rvvakāla mula<unclear>m̃</unclear> <gap reason="illegible" unit="character" quantity="7"/> prakr̥ta d<unclear>v</unclear>ārarājasu pratiṣṭa yām̃ <unclear>Ī</unclear><lb break="no" 
-n="B4"/><unclear>ś</unclear>ānaliṅgeśvara prakr̥ta <unclear>drāhaṣunana</unclear> sthāpanā yām̃ śivaliṅga di sthāna bhagava<lb break="no" 
-n="B5"/><supplied reason="lost">tī kauṭh</supplied><unclear>ā</unclear>reśvarī vuḥ sarvvadravya bhogopabhoga kṣetrā<unclear>dama</unclear> prakr̥ta hema<unclear>bh</unclear>ra
+<lb n="B3"/> X thām̃ p<unclear>ū</unclear>rvvakāla mula<unclear>m̃</unclear> <gap reason="illegible" unit="character" quantity="7"/> prakr̥ta d<unclear>v</unclear>ārarājasu pratiṣṭa yām̃ <unclear>Ī</unclear><lb break="no" n="B4"/><unclear>ś</unclear>ānaliṅgeśvara prakr̥ta <unclear>drāhaṣunana</unclear> sthāpanā yām̃ śivaliṅga di sthāna bhagava<lb break="no" n="B5"/><supplied reason="lost">tī kauṭh</supplied><unclear>ā</unclear>reśvarī vuḥ sarvvadravya bhogopabhoga kṣetrā<unclear>dama</unclear> prakr̥ta hema<unclear>bh</unclear>ra
 <lb n="B6"/> ... n· ... punanapu pratiṣṭa yām̃ pom̃ ku śriśānabhadreśvara pu <supplied reason="lost">pom̃</supplied>
 <lb n="B7"/> <supplied reason="lost">ku</supplied> di śaka sidaḥ Amvara-vivara-sarorūhāri-sarorūhāntaka kvak· ṅan· purāṇāna
-<lb n="B8"/> ? ? pur· <unclear>sira</unclear> pam̃r· myauḥ di śilādvāra yām̃ śivaliṅga di śilādvāra yām̃ pom̃ ku śriśā<lb break="no" 
-n="B9"/><supplied reason="lost">na</supplied>bhadreśvara pu pom̃ ku cirakāla rai sidaḥ yām̃ pom̃ <unclear>nāja</unclear>ya<unclear>ha</unclear>rai Utpatti pu ⌈<lb break="no" 
-n="B10"/><supplied reason="lost">pom̃ ta</supplied>na rayā U<unclear>ro</unclear>ja pu pom̃ tana rayā bhadravarmma pu pom̃ tana rayā śrī jaya sim̃havarmma
+<lb n="B8"/> ? ? pur· <unclear>sira</unclear> pam̃r· myauḥ di śilādvāra yām̃ śivaliṅga di śilādvāra yām̃ pom̃ ku śriśā<lb break="no" n="B9"/><supplied reason="lost">na</supplied>bhadreśvara pu pom̃ ku cirakāla rai sidaḥ yām̃ pom̃ <unclear>nāja</unclear>ya<unclear>ha</unclear>rai Utpatti pu ⌈<lb break="no" n="B10"/><supplied reason="lost">pom̃ ta</supplied>na rayā U<unclear>ro</unclear>ja pu pom̃ tana rayā bhadravarmma pu pom̃ tana rayā śrī jaya sim̃havarmma
 <lb n="B11"/> <supplied reason="lost">parame</supplied><unclear>śvara</unclear> nan· pu pom̃ tana rayā Indravarmma pu pom̃ ku nan· pak· punarjjanma trā <unclear>thām̃</unclear> bhr̥guśā
 <lb n="B12" break="no"/><supplied reason="lost">sana</supplied> ? ya
             </p>

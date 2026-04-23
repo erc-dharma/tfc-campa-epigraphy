@@ -73,19 +73,13 @@
          <projectDesc>
             <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <!-- UPDATE the link once the release is made official -->
          <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
@@ -100,19 +94,19 @@
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:83213">
-           <ab><milestone type="pagelike" unit="face" n="A"/><lb n="01"/><g type="floretComplex"/><g type="ddandaOrnate">.</g><!--sapi2argr : Même ici dois-je inscrire les danda de cette manière ou mettre simplement <g type="ddandaOrnate/> -->Om̐ namaś śivāya <g type="ddandaOrnate">.</g><g type="floretComplex"/>
-         <lb n="A1"/><g type="ddandaHooked">.</g> svasti<g type="dotMid"/></ab>
+           <ab><milestone type="pagelike" unit="face" n="A"/><lb n="01"/><g ref="sym:floret-complex" type="symbol">*</g><g ref="sym:doubleBar-ornate" type="punctuation">.</g><!--sapi2argr : Même ici dois-je inscrire les danda de cette manière ou mettre simplement <g type="ddandaOrnate/> -->Om̐ namaś śivāya <g ref="sym:doubleBar-ornate" type="punctuation">.</g><g ref="sym:floret-complex" type="symbol">*</g>
+         <lb n="A1"/><g ref="sym:doubleBar-hooked" type="punctuation">.</g> svasti<g ref="sym:bullet-middle" type="punctuation">.</g></ab>
            <lg n="1" met="anuṣṭubh">
              <l n="a">trailokye jayati śreṣṭhas</l>
              <l n="b">sa śrī-jaya-guheśvaraḥ</l>
              <l n="c">devāsura-muni-saṅghair</l>
-             <l n="d">nnatā<lb n="A2" break="no"/>ṅghri-dvitayāmvujaḥ <g type="ddandaHooked">.</g></l>
+             <l n="d">nnatā<lb n="A2" break="no"/>ṅghri-dvitayāmvujaḥ <g ref="sym:doubleBar-hooked" type="punctuation">.</g></l>
            </lg>
            <lg n="2" met="mandākrānta">
              <l n="a">bhuktvā rājyaṁ bhuvi ca mahatā yena cihnena viṣṇoḥ</l>
              <l n="b">saṁh<choice><sic>a</sic><corr>ā</corr></choice>ryyātaḥ kali-viṣa-taruṁ rāja<lb n="A3" break="no"/>-lakṣmī-viruddham·</l>
              <l n="c">nānādāno vividha-vibhavaḥ kīrtti-kalpa-drumo yas</l>
-             <l n="d">tad-dhemāḍhyas surajatamayo bhūtale sthāpitaś ca <g type="ddandaHooked">.</g></l>
+             <l n="d">tad-dhemāḍhyas surajatamayo bhūtale sthāpitaś ca <g ref="sym:doubleBar-hooked" type="punctuation">.</g></l>
            </lg>
            <!--sapi2argr Vérifier. Dans la stance II, il écrit le ḍh. Comparer la paléographie.
             IId -dhemāḍhyas
@@ -122,80 +116,78 @@
              <l n="a"><lb n="A4"/>tasya śrī-jayasiṅhavarmma-nr̥pater yyo daṇḍa-vāso bhaṭo</l>
              <l n="b">dharmmiṣṭhaḥ pati-bhakti-tatpara-manāḥ kīrtty-āspadaḥ sampadaḥ</l>
              <l n="c">khyāto <lb n="A5"/>gā<choice><sic>dh</sic><corr>ḍh</corr></choice>a-viśāla-buddhi-jaladhir llabdhvāśayāśāpado</l>
-             <l n="d">yaḥ prītir jjagatāṁ mahā-maṇir iva sthānaṁ sthiraṁ rakṣati <g type="ddandaHooked">.</g></l>
+             <l n="d">yaḥ prītir jjagatāṁ mahā-maṇir iva sthānaṁ sthiraṁ rakṣati <g ref="sym:doubleBar-hooked" type="punctuation">.</g></l>
            </lg>
            <lg n="4" met="puṣpitāgrā">
              <l n="a">kr̥ta-ma<lb n="A6" break="no"/>tir adhiko narendra-bhā<unclear>g</unclear>ye</l>
              <l n="b"><unclear>sa</unclear>-mahimā su-guṇa-kriyā-vidagdhaḥ</l>
              <l n="c">mukha-vijita-<choice><sic>bhar</sic><corr>rav</corr></choice>ir<!-- argr2sapi: please check again, almost unimagimable that ravir would be miswritten as bharir, while v/bh and r/v are similar in Cham script --><!-- sapi2argr My correction comes from a comment on the rtf; °bharir: °varir Finot. Corr. °ravir (as already proposed by Finot, although based on the wrong reading °varir). After cheking the stone, I also read °varir on the stone. --> bibhartti lakṣmīṁ</l>
-             <l n="d">niśi sakalān nabhavird divā mukhena <g type="ddandaHooked">.</g></l>
+             <l n="d">niśi sakalān nabhavird divā mukhena <g ref="sym:doubleBar-hooked" type="punctuation">.</g></l>
            </lg>
            <lg n="5" met="śārdūlavikrīḍita">
            <l n="a"><lb n="A7"/>lebhe śrī-jaya-Indravarmma-nr̥pater nnāmāni yas trīṇi san</l>
            <l n="b">rājye ceśvara-kalpa-nāma-bhr̥d atas saṁstūyamāno <lb n="A8"/>dhiyā</l>
            <l n="c">vidvadbhiś śiva-kalpa-saṁjñaka-dharo ratna-prabhā-dīpitaś</l>
-           <l n="d">śrī-kalpāhvaya-bhr̥t payo-nidhir iva śrīmat-kalālaṅkr̥taḥ<g type="ddandaHooked">.</g></l>
+           <l n="d">śrī-kalpāhvaya-bhr̥t payo-nidhir iva śrīmat-kalālaṅkr̥taḥ<g ref="sym:doubleBar-hooked" type="punctuation">.</g></l>
          </lg>
          <lg n="6" met="upajāti">
            <l n="a"><lb n="A9"/>śrī-rudramaddhyeśvaram<!--sapi encoder en place? --> adbhutāṅgaṁ</l>
            <l n="b">sa dharmma-kāṅkṣī śiva-tatva-sevī</l>
            <l n="c" enjamb="yes">tad-bhaktaye śrī-jayasiṅhavarmma</l>
-           <l n="d">-prasādataḥ sthāpita<lb n="A10" break="no"/>vān dharitryām·<g type="ddandaHooked">.</g><g type="floretComplex"/><g type="dotMid"/></l>
+           <l n="d">-prasādataḥ sthāpita<lb n="A10" break="no"/>vān dharitryām·<g ref="sym:doubleBar-hooked" type="punctuation">.</g><g ref="sym:floret-complex" type="symbol">*</g><g ref="sym:bullet-middle" type="punctuation">.</g></l>
          </lg>
-         <p xml:lang="ocm-Latn">yāṅ· pov· ku siniy· ranakṣā yāṅ guru pu pov· ku di yāñ·<g type="dotMid"/> taṁl· thun· pāt· slauv· vrāḥ
-         <lb n="A11"/>sā vlaḥ kaIn· kaṁn· yāṅ· guru pu pov· ku man· jmāy· top· Urāṅ· yāṅ· niy· vāra yo tavun· driy·<g type="dotMid"/><g type="floretComplex"/><g type="ddandaHooked">.</g>
-         <lb n="A12"/>niy· kanadhā sanupaḥ ntrā mad<unclear>d</unclear>an·<!--sapi2argr Je ne suis pas sûre de l'encoding de ce commentaire --> Ājñā yāṅ· pu pov· ku śrī jayasiṅhavarmmadeva<g type="dotMid"/> maddan· Urāṅ tapaḥ
-         <lb n="A13"/>pāt· driy·<g type="dotMid"/> siy· vr̥liy· Urāṅ· yaṁṅ· marakṣā sarvvadravya yāṅ· pu pov· ku śrī rudramaddhyeśvara tra
-         <lb n="A14"/>yāṅ· pov· ku śrī śivaliṅgeśvara tra<g type="dotMid"/> hulun· lamvov· kravāv· humā māḥ pirak· pasrauṅ· ya nan· Avi
-         <lb n="A15" break="no"/>sta karaṇa panūjā yāṅ· pu pov· ku tra Udakāna tra<g type="dotMid"/> Ur<choice><sic>ā</sic><corr>āṅ·</corr></choice> nan nau svargga maddan· Inā Amā Avis kāla<g type="floretComplex"/>
+         <p xml:lang="ocm-Latn">yāṅ· pov· ku siniy· ranakṣā yāṅ guru pu pov· ku di yāñ·<g ref="sym:bullet-middle" type="punctuation">.</g> taṁl· thun· pāt· slauv· vrāḥ
+         <lb n="A11"/>sā vlaḥ kaIn· kaṁn· yāṅ· guru pu pov· ku man· jmāy· top· Urāṅ· yāṅ· niy· vāra yo tavun· driy·<g ref="sym:bullet-middle" type="punctuation">.</g><g ref="sym:floret-complex" type="symbol">*</g><g ref="sym:doubleBar-hooked" type="punctuation">.</g>
+         <lb n="A12"/>niy· kanadhā sanupaḥ ntrā mad<unclear>d</unclear>an·<!--sapi2argr Je ne suis pas sûre de l'encoding de ce commentaire --> Ājñā yāṅ· pu pov· ku śrī jayasiṅhavarmmadeva<g ref="sym:bullet-middle" type="punctuation">.</g> maddan· Urāṅ tapaḥ
+         <lb n="A13"/>pāt· driy·<g ref="sym:bullet-middle" type="punctuation">.</g> siy· vr̥liy· Urāṅ· yaṁṅ· marakṣā sarvvadravya yāṅ· pu pov· ku śrī rudramaddhyeśvara tra
+         <lb n="A14"/>yāṅ· pov· ku śrī śivaliṅgeśvara tra<g ref="sym:bullet-middle" type="punctuation">.</g> hulun· lamvov· kravāv· humā māḥ pirak· pasrauṅ· ya nan· Avi
+         <lb n="A15" break="no"/>sta karaṇa panūjā yāṅ· pu pov· ku tra Udakāna tra<g ref="sym:bullet-middle" type="punctuation">.</g> Ur<choice><sic>ā</sic><corr>āṅ·</corr></choice> nan nau svargga maddan· Inā Amā Avis kāla<g ref="sym:floret-complex" type="symbol">*</g>
          <milestone type="pagelike" unit="face" n="B"/><lb n="B1"/>ya siy· vr̥liy· Urāṅ· nan trā ya maAmrait·<!-- sapi2argr sur la pierre, la voyelle -ai peut aussi être lue -e.  --> ya mapaka ro driy· top· dravya
-         <lb n="B2"/>nan· Avista Urāṅ· nan· lac· di mahāraurava Anan naraka<g type="dotMid"/>ya doṁ javālamvījut· Asov· vañāk· ñū
-         <lb n="B3"/>ṇḍauy· Inā Urāṅ· nan·<g type="ddandaHooked">.</g> Ājñā yāṅ· pu pov· ku śrī jayasiṅhavarmmadeva<g type="dotMid"/> vriy· yāṅ· pov· ku si<lb n="B4" break="no"/>niy· mataṇḍāḥ Avis· pat·<g type="dotMid"/> Oḥ jeṅ· si kluñ· Oḥ jeṅ· si top· Anna tauṅ· tamr̥yāla niv· di kāra Urāṅ·
-         <lb n="B5"/>Añjām· ya Oḥ jeñ· vela Aṅgap· samū nan· lagaiḥ di pa<subst><del rend="corrected">nu</del><add place="overstrike">na</add></subst>kai<!--sapi2argr Comment encoder cette correction de nu en na ?--> tra di sanupaḥ deḥ tra<g type="dotMid"/><g type="floretComplex"/><g type="ddandaHooked">.</g>
+         <lb n="B2"/>nan· Avista Urāṅ· nan· lac· di mahāraurava Anan naraka<g ref="sym:bullet-middle" type="punctuation">.</g>ya doṁ javālamvījut· Asov· vañāk· ñū
+         <lb n="B3"/>ṇḍauy· Inā Urāṅ· nan·<g ref="sym:doubleBar-hooked" type="punctuation">.</g> Ājñā yāṅ· pu pov· ku śrī jayasiṅhavarmmadeva<g ref="sym:bullet-middle" type="punctuation">.</g> vriy· yāṅ· pov· ku si<lb n="B4" break="no"/>niy· mataṇḍāḥ Avis· pat·<g ref="sym:bullet-middle" type="punctuation">.</g> Oḥ jeṅ· si kluñ· Oḥ jeṅ· si top· Anna tauṅ· tamr̥yāla niv· di kāra Urāṅ·
+         <lb n="B5"/>Añjām· ya Oḥ jeñ· vela Aṅgap· samū nan· lagaiḥ di pa<subst><del rend="corrected">nu</del><add place="overstrike">na</add></subst>kai<!--sapi2argr Comment encoder cette correction de nu en na ?--> tra di sanupaḥ deḥ tra<g ref="sym:bullet-middle" type="punctuation">.</g><g ref="sym:floret-complex" type="symbol">*</g><g ref="sym:doubleBar-hooked" type="punctuation">.</g>
          </p>
          <p xml:lang="san-Latn">śrī-vr̥ddheśvare
          <lb n="B6"/>pūrvvaṁ prapitāmahena sthāpite para-cakra-bhinne yaṁ śrī-śivaliṅgeśaṁ yo muniś śivācāryya-nāmadheyaḥ
-         <lb n="B7"/>punaḥ sthāpitavān iti <g type="ddandaHooked">.</g>
+         <lb n="B7"/>punaḥ sthāpitavān iti <g ref="sym:doubleBar-hooked" type="punctuation">.</g>
         </p>
         <lg n="7" met="indravajrā">
           <l n="a">śaiva-kriyā-vit sukr̥ta-prasakto</l>
           <l n="b">devārccana-jñāna-samartha-buddhiḥ</l>
           <l n="c">pitror gguṇān bhā<lb n="B8" break="no"/>ratarān sa citte</l>
-          <l n="d">sañcintya puṇyaṁ sa karotu kīrttyai <g type="ddandaHooked">.</g></l>
+          <l n="d">sañcintya puṇyaṁ sa karotu kīrttyai <g ref="sym:doubleBar-hooked" type="punctuation">.</g></l>
         </lg>
         <lg n="8" met="anuṣṭubh">
           <l n="a">śāke kha-dvy-aṣṭabhir yyukte</l>
           <l n="b">pañcāhe śucy-a<lb n="B9" break="no"/>pāṇḍare</l>
           <l n="c">sthāpitaś śivaliṅgeśaḥ</l>
-          <l n="d">śivācāryyeṇa dhīmatā <g type="ddandaHooked">.</g></l>
+          <l n="d">śivācāryyeṇa dhīmatā <g ref="sym:doubleBar-hooked" type="punctuation">.</g></l>
         </lg>
         <lg n="9" met="indravajrā"><!-- sapi2argr Ici il n'y avait pas d'indication de mètre -->
           <l n="a">śrī-rudramaddhyeśvara Iddha-siddhiḥ</l>
           <l n="b">siddheśvaraś śrī-śi<lb n="B10" break="no"/>valiṅga-devaḥ</l>
           <l n="c">tābhyāṁ nr̥paś śrī-jayasiṅhavarmmā</l>
-          <l n="d">prādāt sa muktiṁ kr̥payā samastām·<g type="ddandaHooked">.</g></l>
+          <l n="d">prādāt sa muktiṁ kr̥payā samastām·<g ref="sym:doubleBar-hooked" type="punctuation">.</g></l>
         </lg>
         <p xml:lang="ocm-Latn">humā nvaus·<!-- sapi2argr sur la pierre, ça ressemble à cvaus·. -->
-          <lb n="B11"/>timuḥ Ājñā yāṅ· pu pov· ku śrī jayasiṅhavarmmadeva<g type="dotMid"/>ra vriy· vuḥ di yāṅ· pov· ku siniy· rumaṅ·
-          <lb n="B12"/>humā ṅauk· rayā taṁl· vavaḥ krauṅ· nayauna riy· vavaḥ krauṅ· taṁl· smrāṅ· dakṣina yāṅ·<g type="dotMid"/><g type="ddandaHooked">.</g>
-          <lb n="B13"/>niy· mūla humā<g type="dotMid">.</g> humā <unclear>rayā</unclear> 1<g type="danda">.</g> Amvil· 2<g type="danda">.</g> rat vauk· 6<g type="danda">.</g> dandau kumvuṅ·<g type="danda">.</g> humā kumvuṅ· 1<g type="danda">.</g> ṅauk· sāṅ· 1<g type="danda">.</g> humā mvaṅ· 2<g type="danda">.</g>
-          <lb n="B14"/>ṅauk· sāṅ· yvan· 2<g type="danda">.</g> pitau cumlaṅ· 1<g type="danda">.</g> Ajauñ· 1<g type="danda">.</g> humā cvaḥ 5<g type="danda">.</g> laṅā 1<g type="danda">.</g> humā camvāṅ· 3<g type="danda">.</g> sagor· 1<g type="danda">.</g>
-          <lb n="B15"/>vvac· 1<g type="danda">.</g> taliṅi 1<g type="danda">.</g> humā Ikū Asov· 1<g type="danda">.</g> humā proṅ· 1<g type="danda">.</g> ndoṅ· 1<g type="danda">.</g> knām· 2<g type="danda">.</g> kandep· 1<g type="danda">.</g> srumai 1<g type="danda">.</g>
-          <lb n="B16"/>pagāra sramvat·<!-- sapi2argr On pourrait aussi lire sagārasramvat·. --><g type="danda">.</g> humā kahas· 1<g type="danda">.</g> humā mvaṅ· 5<g type="danda">.</g> nagaren· 9<g type="danda">.</g> humā ticain· 1<g type="danda">.</g> vvil· 1<g type="danda">.</g> ralāṅ· 3<g type="danda">.</g> laṅā 1<g type="danda">.</g>
-          <lb n="B17"/>kara mās· 3<g type="danda">.</g> ṅauk· rayā 1<g type="danda">.</g>vo 2<g type="danda">.</g> humā tupen· 1<g type="danda">.</g> likūk· 1<g type="danda">.</g> humā En· 3<g type="danda">.</g> harā 1<g type="danda">.</g> kara kaṁp· 3<g type="danda">.</g>
-          <lb n="B18"/>rat vauk· 3<g type="danda">.</g> Alauṅ· 1<g type="danda">.</g> ṅauk· sāṅ· 1<g type="danda">.</g> humā vvār· 1<g type="danda">.</g> humā Agrās· 1<g type="danda">.</g> humā dandrāḥ 1<g type="danda">.</g> yok· nan· 1<g type="danda">.</g>
-          <milestone type="pagelike" unit="face" n="C"/><lb n="C1"/><g type="ddandaHooked">.</g><g type="ddandaHooked">.</g> Urāṅ· ya rakṣā puṇya niy· <unclear>yā</unclear> jeṅ·
+          <lb n="B11"/>timuḥ Ājñā yāṅ· pu pov· ku śrī jayasiṅhavarmmadeva<g ref="sym:bullet-middle" type="punctuation">.</g>ra vriy· vuḥ di yāṅ· pov· ku siniy· rumaṅ·
+          <lb n="B12"/>humā ṅauk· rayā taṁl· vavaḥ krauṅ· nayauna riy· vavaḥ krauṅ· taṁl· smrāṅ· dakṣina yāṅ·<g ref="sym:bullet-middle" type="punctuation">.</g><g ref="sym:doubleBar-hooked" type="punctuation">.</g>
+          <lb n="B13"/>niy· mūla humā<g ref="sym:bullet-middle" type="punctuation">.</g> humā <unclear>rayā</unclear> 1<g ref="sym:bar" type="punctuation">.</g> Amvil· 2<g ref="sym:bar" type="punctuation">.</g> rat vauk· 6<g ref="sym:bar" type="punctuation">.</g> dandau kumvuṅ·<g ref="sym:bar" type="punctuation">.</g> humā kumvuṅ· 1<g ref="sym:bar" type="punctuation">.</g> ṅauk· sāṅ· 1<g ref="sym:bar" type="punctuation">.</g> humā mvaṅ· 2<g ref="sym:bar" type="punctuation">.</g>
+          <lb n="B14"/>ṅauk· sāṅ· yvan· 2<g ref="sym:bar" type="punctuation">.</g> pitau cumlaṅ· 1<g ref="sym:bar" type="punctuation">.</g> Ajauñ· 1<g ref="sym:bar" type="punctuation">.</g> humā cvaḥ 5<g ref="sym:bar" type="punctuation">.</g> laṅā 1<g ref="sym:bar" type="punctuation">.</g> humā camvāṅ· 3<g ref="sym:bar" type="punctuation">.</g> sagor· 1<g ref="sym:bar" type="punctuation">.</g>
+          <lb n="B15"/>vvac· 1<g ref="sym:bar" type="punctuation">.</g> taliṅi 1<g ref="sym:bar" type="punctuation">.</g> humā Ikū Asov· 1<g ref="sym:bar" type="punctuation">.</g> humā proṅ· 1<g ref="sym:bar" type="punctuation">.</g> ndoṅ· 1<g ref="sym:bar" type="punctuation">.</g> knām· 2<g ref="sym:bar" type="punctuation">.</g> kandep· 1<g ref="sym:bar" type="punctuation">.</g> srumai 1<g ref="sym:bar" type="punctuation">.</g>
+          <lb n="B16"/>pagāra sramvat·<!-- sapi2argr On pourrait aussi lire sagārasramvat·. --><g ref="sym:bar" type="punctuation">.</g> humā kahas· 1<g ref="sym:bar" type="punctuation">.</g> humā mvaṅ· 5<g ref="sym:bar" type="punctuation">.</g> nagaren· 9<g ref="sym:bar" type="punctuation">.</g> humā ticain· 1<g ref="sym:bar" type="punctuation">.</g> vvil· 1<g ref="sym:bar" type="punctuation">.</g> ralāṅ· 3<g ref="sym:bar" type="punctuation">.</g> laṅā 1<g ref="sym:bar" type="punctuation">.</g>
+          <lb n="B17"/>kara mās· 3<g ref="sym:bar" type="punctuation">.</g> ṅauk· rayā 1<g ref="sym:bar" type="punctuation">.</g>vo 2<g ref="sym:bar" type="punctuation">.</g> humā tupen· 1<g ref="sym:bar" type="punctuation">.</g> likūk· 1<g ref="sym:bar" type="punctuation">.</g> humā En· 3<g ref="sym:bar" type="punctuation">.</g> harā 1<g ref="sym:bar" type="punctuation">.</g> kara kaṁp· 3<g ref="sym:bar" type="punctuation">.</g>
+          <lb n="B18"/>rat vauk· 3<g ref="sym:bar" type="punctuation">.</g> Alauṅ· 1<g ref="sym:bar" type="punctuation">.</g> ṅauk· sāṅ· 1<g ref="sym:bar" type="punctuation">.</g> humā vvār· 1<g ref="sym:bar" type="punctuation">.</g> humā Agrās· 1<g ref="sym:bar" type="punctuation">.</g> humā dandrāḥ 1<g ref="sym:bar" type="punctuation">.</g> yok· nan· 1<g ref="sym:bar" type="punctuation">.</g>
+          <milestone type="pagelike" unit="face" n="C"/><lb n="C1"/><g ref="sym:doubleBar-hooked" type="punctuation">.</g><g ref="sym:doubleBar-hooked" type="punctuation">.</g> Urāṅ· ya rakṣā puṇya niy· <unclear>yā</unclear> jeṅ·
           <lb n="C2"/>si vā Anāk· vinai marai dauk· Aṅguy·
-          <lb n="C3"/>dravya yāṅ· niy·<g type="danda">.</g> vela Aṅgap· samū nan·
-          <lb n="C4"/>lagaiḥ di sanupaḥ tra di panakai deḥ tra<g type="dotMid">.</g>
-          <lb n="C5"/>humā Arām· 1<g type="danda">.</g> sipāy· 1<g type="danda">.</g> cluṅ·<!--sapi2argr Ici je n'ai pas compris la note du rtf sur le terme cluṅ·--> 1<g type="danda">.</g>
-          <lb n="C6"/>ricaṁm· 1<g type="danda">.</g> humā vavaḥ krauṅ· 1<g type="danda">.</g> Avaṁk·
-          <lb n="C7"/>5<g type="danda">.</g> vunuk· 2<g type="danda">.</g> vvil· 1<g type="danda">.</g> ñjuṅ· 1<g type="danda">.</g>
-          <lb n="C8"/>vvaik· 2<g type="danda">.</g> klvā 3<g type="danda">.</g> cumlaṅ· 1<g type="danda">.</g> Alau<lb 
-          n="C9" break="no"/>ṅ· 3<g type="danda">.</g> kuñīk· 1<g type="danda">.</g> kalicya 1<g type="danda">.</g> sa<lb 
-          n="C10" break="no"/>vauṅ· 1<g type="danda">.</g> Alauk· 2<g type="danda">.</g> humā parā
-          <lb n="C11"/>1<g type="danda">.</g> pandak· 1<g type="danda">.</g> knām· 2<g type="danda">.</g> ṅauk· sāṅ·
-          <lb n="C12"/>2<g type="danda">.</g> humā kravāv· 1<g type="danda">.</g><g type="floretComplex"/>
+          <lb n="C3"/>dravya yāṅ· niy·<g ref="sym:bar" type="punctuation">.</g> vela Aṅgap· samū nan·
+          <lb n="C4"/>lagaiḥ di sanupaḥ tra di panakai deḥ tra<g ref="sym:bullet-middle" type="punctuation">.</g>
+          <lb n="C5"/>humā Arām· 1<g ref="sym:bar" type="punctuation">.</g> sipāy· 1<g ref="sym:bar" type="punctuation">.</g> cluṅ·<!--sapi2argr Ici je n'ai pas compris la note du rtf sur le terme cluṅ·--> 1<g ref="sym:bar" type="punctuation">.</g>
+          <lb n="C6"/>ricaṁm· 1<g ref="sym:bar" type="punctuation">.</g> humā vavaḥ krauṅ· 1<g ref="sym:bar" type="punctuation">.</g> Avaṁk·
+          <lb n="C7"/>5<g ref="sym:bar" type="punctuation">.</g> vunuk· 2<g ref="sym:bar" type="punctuation">.</g> vvil· 1<g ref="sym:bar" type="punctuation">.</g> ñjuṅ· 1<g ref="sym:bar" type="punctuation">.</g>
+          <lb n="C8"/>vvaik· 2<g ref="sym:bar" type="punctuation">.</g> klvā 3<g ref="sym:bar" type="punctuation">.</g> cumlaṅ· 1<g ref="sym:bar" type="punctuation">.</g> Alau<lb n="C9" break="no"/>ṅ· 3<g ref="sym:bar" type="punctuation">.</g> kuñīk· 1<g ref="sym:bar" type="punctuation">.</g> kalicya 1<g ref="sym:bar" type="punctuation">.</g> sa<lb n="C10" break="no"/>vauṅ· 1<g ref="sym:bar" type="punctuation">.</g> Alauk· 2<g ref="sym:bar" type="punctuation">.</g> humā parā
+          <lb n="C11"/>1<g ref="sym:bar" type="punctuation">.</g> pandak· 1<g ref="sym:bar" type="punctuation">.</g> knām· 2<g ref="sym:bar" type="punctuation">.</g> ṅauk· sāṅ·
+          <lb n="C12"/>2<g ref="sym:bar" type="punctuation">.</g> humā kravāv· 1<g ref="sym:bar" type="punctuation">.</g><g ref="sym:floret-complex" type="symbol">*</g>
         </p>
          </div>
          <div type="apparatus">
@@ -294,7 +286,7 @@
            </app>
            <app loc="C4">
                <lem>sanupaḥ tra</lem>
-               <rdg source="bib:Finot1904_01">sanupa<g type="danda">.</g>tra</rdg>
+               <rdg source="bib:Finot1904_01">sanupa<g ref="sym:bar" type="punctuation">.</g>tra</rdg>
            </app>
            <app loc="C6">
                <lem>ricaṁm·</lem>

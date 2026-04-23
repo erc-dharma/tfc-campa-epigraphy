@@ -93,8 +93,8 @@
          <div type="apparatus">
                <listApp>
                   <app loc="line">
-                     <lem></lem>
-                     <rdg source="bib:AuthorYear_01"></rdg>
+                     <lem/>
+                     <rdg source="bib:AuthorYear_01"/>
                   </app>
                </listApp>
          </div>

@@ -88,7 +88,7 @@
       <body>
          <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83213">
            <p>
-             <lb n="1"/><g type="ddanda"/> <g type="floretQuatrefoil"/> <g type="ddanda"/> nī hulun· si vuḥ di hajai kapīk· lanuṅ· lakim̃
+             <lb n="1"/><g ref="sym:doubleBar" type="punctuation">.</g> <g ref="sym:floret" type="symbol">*</g> <g ref="sym:doubleBar" type="punctuation">.</g> nī hulun· si vuḥ di hajai kapīk· lanuṅ· lakim̃
              <lb n="2"/>pam̃ṅ· khvam̃l· vinai kralau vinai tyaum̃ vinai pviḥ lakim̃
              <lb n="3"/>rahinan· vinai Arā vinai kandom̃ lakim̃ viyunan· vinai
              <lb n="4"/>kumvval· lakim̃ sat· vinai tīk· vinai ci khvam̃l· vinai du
@@ -109,7 +109,7 @@
              <lb n="19" break="no"/>nām̃ lakim̃ suvauk· vinai <unclear>kha</unclear>p· vinai gap· vinai ravaum̃ la
              <lb n="20" break="no"/>kim̃ <unclear>c</unclear>an· vinai jāt· vinai tasvāt· vinai <choice><unclear>d</unclear><unclear>j</unclear></choice>e lakim̃ śimyam̃
              <lb n="21"/>lakim̃ dyam̃p· lakim̃ caik· lakim̃ jit· vinai iśit· lakim̃
-             <lb n="22"/>nan· <g type="ddanda">.</g> nī hulun· si vuḥ di hajai vadrā khvam̃l· vinai tas
+             <lb n="22"/>nan· <g ref="sym:doubleBar" type="punctuation">.</g> nī hulun· si vuḥ di hajai vadrā khvam̃l· vinai tas
              ⌈<lb n="23" break="no"/>auk· vinai de vinai Inī vinai Intī vinai lam̃v· vinai pat·
              <lb n="24"/>vinai keḥ vinai gauk· vinai bhāp· vinai glaḥ vinai candaḥ vin
              <lb n="25" break="no"/>ai śī lakim̃ dulam̃ lakim̃ jī lakim̃ tān· lakiy· vāy· lakim̃

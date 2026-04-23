@@ -86,32 +86,20 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:00000">
-<p><lb n="1"/>svasti <g type="danda"/> nī trā madā br̥ṣu<lb 
-n="2" break="no"/>vaṅṣa sidaḥ yām̃ pom̃ ku śrī jayasi<lb 
-n="3" break="no"/>ṅhavarmmadeva śrī harijātti vīrasi<lb 
-n="4" break="no"/>ṅha campapūra pu-pom̃ ku dram̃ṅ· rāja pari<lb 
-n="5" break="no"/>pūrṇna dvādaśa varśa kā jīvaṅgatta nau śi<lb 
-n="6" break="no"/>vasthāṇna di bhūm<choice><sic>a</sic><corr>i</corr></choice> yām̃ <unclear>vavaḥ</unclear> <unclear>kr</unclear>auṅ· yām̃ 
+<p><lb n="1"/>svasti <g ref="sym:bar" type="punctuation">.</g> nī trā madā br̥ṣu<lb n="2" break="no"/>vaṅṣa sidaḥ yām̃ pom̃ ku śrī jayasi<lb n="3" break="no"/>ṅhavarmmadeva śrī harijātti vīrasi<lb n="4" break="no"/>ṅha campapūra pu-pom̃ ku dram̃ṅ· rāja pari<lb n="5" break="no"/>pūrṇna dvādaśa varśa kā jīvaṅgatta nau śi<lb n="6" break="no"/>vasthāṇna di bhūm<choice><sic>a</sic><corr>i</corr></choice> yām̃ <unclear>vavaḥ</unclear> <unclear>kr</unclear>auṅ· yām̃ 
 <!--	On retrouve la suite ṇn que l'on observe aussi dans C. 43. Cf. aussi l. 6, 11 et 18.
 	°sthāṇna di bhūma : °sthāṇṇa di bhūma + corr. °sthāna di bhūmi Finot ; °sthānna AVS
 -->
-<lb n="7"/>pom̃ ku śrī vr̥ṣuviṣn<supplied reason="lost">ujātti</supplied> <unclear>vī</unclear>rabhadra<lb 
-n="8" break="no"/>varmmadeva Ātmaja nan<supplied reason="lost">·</supplied> dra<supplied reason="lost">m̃</supplied>ṅ<supplied reason="lost">·</supplied> rāja</p> <p>he<lb 
-n="9" break="no"/>ttu pītā mātā mvāttuleya A<lb 
-n="10" break="no"/>gniḥ-praveśa di bhūmmi nī si Upak· su<lb 
-n="11" break="no"/>kha kā tok· humā si rājapītā
-<lb n="12"/>pu-pom̃ ku parok· di luvūk· myau <g type="danda">.</g> <num value="500">50<lb 
-n="13" break="no"/>0</num> vijaiḥ ṅan tandom̃ rayā <g type="danda">.</g></p> <p>śvam̃n· pirak· sa
+<lb n="7"/>pom̃ ku śrī vr̥ṣuviṣn<supplied reason="lost">ujātti</supplied> <unclear>vī</unclear>rabhadra<lb n="8" break="no"/>varmmadeva Ātmaja nan<supplied reason="lost">·</supplied> dra<supplied reason="lost">m̃</supplied>ṅ<supplied reason="lost">·</supplied> rāja</p> <p>he<lb n="9" break="no"/>ttu pītā mātā mvāttuleya A<lb n="10" break="no"/>gniḥ-praveśa di bhūmmi nī si Upak· su<lb n="11" break="no"/>kha kā tok· humā si rājapītā
+<lb n="12"/>pu-pom̃ ku parok· di luvūk· myau <g ref="sym:bar" type="punctuation">.</g> <num value="500">50<lb n="13" break="no"/>0</num> vijaiḥ ṅan tandom̃ rayā <g ref="sym:bar" type="punctuation">.</g></p> <p>śvam̃n· pirak· sa
 <!--	sa: l’akṣara est écrit sur les lignes 13 et 14. 
 	śvam̃n: Faire le rapprochement avec les inscriptions C. 5 et C.6 ? On lit śvam̃l dans ces deux inscriptions qui n'est pas en objet de culte.
 -->
 <lb n="14"/>vauḥ <num value="15">15</num> thil· kamandalū pirak· sā <num value="5">5</num>
-<lb n="15"/>thil· <g type="danda">.</g> kalauk· pirak· sa thil· <g type="danda">.</g> klau<lb 
-n="16" break="no"/>ṅ· pirak· <surplus>thilaśa</surplus> sa thil· <g type="danda">.</g> hastiḥ sa
-<lb n="17"/>drim̃ <g type="danda">.</g> hulun· dvā drim̃ Aviḥ nī lumvaḥ śi<lb 
-n="18" break="no"/>liḥ yauṁ śaśāṇna bhūmmi nī <g type="danda">.</g> di śaka 
+<lb n="15"/>thil· <g ref="sym:bar" type="punctuation">.</g> kalauk· pirak· sa thil· <g ref="sym:bar" type="punctuation">.</g> klau<lb n="16" break="no"/>ṅ· pirak· <surplus>thilaśa</surplus> sa thil· <g ref="sym:bar" type="punctuation">.</g> hastiḥ sa
+<lb n="17"/>drim̃ <g ref="sym:bar" type="punctuation">.</g> hulun· dvā drim̃ Aviḥ nī lumvaḥ śi<lb n="18" break="no"/>liḥ yauṁ śaśāṇna bhūmmi nī <g ref="sym:bar" type="punctuation">.</g> di śaka 
 <!-- śaśāṇna : śaśāṇṇa Finot.-->
-<lb n="19"/>nī <num value="1323">1323</num> <g type="danda">.</g></p>
+<lb n="19"/>nī <num value="1323">1323</num> <g ref="sym:bar" type="punctuation">.</g></p>
          </div>
          <div type="apparatus">
                <listApp>
@@ -197,7 +185,7 @@ Le texte ici constitué se base sur inspection de la pierre et de l’estampage 
            <listBibl type="secondary">
 	<bibl><ptr target="bib:Majumdar1927_01"/><citedRange unit="book">III</citedRange><citedRange unit="page">222-223</citedRange><citedRange unit="item">117</citedRange></bibl>
 	<bibl><ptr target="bib:Golzio2004_01"/><citedRange unit="page">198</citedRange></bibl>
-              <bibl><ptr target="bib:Schweyer2008_01" /><citedRange unit="page">225-226</citedRange></bibl>
+              <bibl><ptr target="bib:Schweyer2008_01"/><citedRange unit="page">225-226</citedRange></bibl>
            </listBibl>
         </div>
       </body>

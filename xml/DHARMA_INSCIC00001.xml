@@ -113,15 +113,13 @@
 		</graphic>
 	</facsimile>
 	<text xml:space="preserve"><body><div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:00000">
-<p><lb n="1"/><g type="danda"/><g type="floretQuatrefoil"/><g type="danda"/> svasti<g type="danda"/> pu pom̃ ku nan· sūnnu
+<p><lb n="1"/><g ref="sym:bar" type="punctuation">.</g><g ref="sym:floret" type="symbol">*</g><g ref="sym:bar" type="punctuation">.</g> svasti<g ref="sym:bar" type="punctuation">.</g> pu pom̃ ku nan· sūnnu
 <lb n="2"/>yām̃ pom̃ ku śrī jaya siṅhavarmmadeva
 <lb n="3"/>Urām̃ ṅauk· glauṅ· vijaya paripāla rāṣ<orig>t</orig>ra sim̃ tmum̃
 <lb n="4"/>jaya di nagara yvan· maUdyāṇna gulāc· tok· nagara
-<lb n="5"/>braḥ kānda nī yuddha Aneka sim̃ tmum̃ gulāc· jem̃ nagara ca<lb break="no" 
-n="6"/>mpa di śaka loka-Aṣṭārdh<orig>a</orig>nalaḥ-ṇrapaḥ pakram̃t<unclear>t</unclear>a tri<lb break="no" 
-n="7"/>bh<choice><sic>a</sic><corr>u</corr></choice>vanākrānta nī ṅan· ri jittasatrāsi sim̃ tmum̃ jaya di kvīra
+<lb n="5"/>braḥ kānda nī yuddha Aneka sim̃ tmum̃ gulāc· jem̃ nagara ca<lb break="no" n="6"/>mpa di śaka loka-Aṣṭārdh<orig>a</orig>nalaḥ-ṇrapaḥ pakram̃t<unclear>t</unclear>a tri<lb break="no" n="7"/>bh<choice><sic>a</sic><corr>u</corr></choice>vanākrānta nī ṅan· ri jittasatrāsi sim̃ tmum̃ jaya di kvīra
 <lb n="8"/>tmum̃ vuḥ bhogopabhoga yathādeva liṅga vukam̃n· rim̃ sim̃ jmai tmum̃
-<lb n="9"/>jem̃ nagara kvīra jem̃ nagara campa sadākāla<g type="danda"/>
+<lb n="9"/>jem̃ nagara kvīra jem̃ nagara campa sadākāla<g ref="sym:bar" type="punctuation">.</g>
  </p>
          </div><div type="apparatus">
 <listApp><!--Variants merely due to difference of transliteration conventions are not recorded.-->

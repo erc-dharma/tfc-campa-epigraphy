@@ -103,18 +103,12 @@
          <projectDesc>
             <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
@@ -140,8 +134,8 @@
       <body>
          <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83213">
                 <p>
-                    <lb n="1"/><g type="danda"/><g type="danda"/><g type="danda"/> di śaka-rāja <num value="913">913</num> huriy· <num value="5">5</num> vaṅun· vulān· <num value="4">4</num> vr̥haspati-vāra <unclear>ma</unclear><lb n="2" break="no"/>gha-nakṣatra vr̥ścika-lagna kāla yāṅ· po ku vijaya śrī harivarmmadeva
-                    <lb n="3"/>punaḥ yāṅ· po ku śrī jaya Īśānabhadreśvara karaṇa kīrtti yaśa di bhūmi-ma<lb n="4" break="no"/>ṇḍala niy· <g type="squiggleVertical"/><g type="squiggleVertical"/> <g type="floretQuatrefoil"/>
+                    <lb n="1"/><g ref="sym:bar" type="punctuation">.</g><g ref="sym:bar" type="punctuation">.</g><g ref="sym:bar" type="punctuation">.</g> di śaka-rāja <num value="913">913</num> huriy· <num value="5">5</num> vaṅun· vulān· <num value="4">4</num> vr̥haspati-vāra <unclear>ma</unclear><lb n="2" break="no"/>gha-nakṣatra vr̥ścika-lagna kāla yāṅ· po ku vijaya śrī harivarmmadeva
+                    <lb n="3"/>punaḥ yāṅ· po ku śrī jaya Īśānabhadreśvara karaṇa kīrtti yaśa di bhūmi-ma<lb n="4" break="no"/>ṇḍala niy· <g ref="sym:bar-curly" type="punctuation">.</g><g ref="sym:bar-curly" type="punctuation">.</g> <g ref="sym:floret" type="symbol">*</g>
                 </p>
             </div>
 <div type="apparatus">

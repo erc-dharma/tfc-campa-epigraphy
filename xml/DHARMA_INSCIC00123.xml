@@ -89,18 +89,12 @@
          <projectDesc>
             <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
@@ -136,8 +130,8 @@
    </facsimile>
    <text xml:space="preserve"><body><div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83215">
            <p>
-            <lb n="1"/><g type="floretPetal"/> <g type="floretQuatrefoil"/> <g type="danda"/> svasti <g type="ddanda"/> pu-pom̃ tana rayā Inravarmma<!-- AG 2026-04-16: I think we can read ndra in both occurrences, as both are different from nr in panrāṅ --> pu-cim̃ śrī harideva pu-pom̃ ku kāla dr̥m̃ nā<lb break="no" n="2"/>ma pom̃ pu-lyam̃ śrī yuvarāja vloṁ rai mak· panrām̃ tmum̃ di śaka <num value="1171">1171</num> tam̃l· ndok· rājya dr̥m̃ rāja-nāma yām̃ pom̃
-            <lb n="3"/>ku śrī jaya siṅhavarmmadeva rai mak· panrām̃ tmum̃ di śaka <num value="1179">1179</num> <g type="danda">.</g> tam̃l· punaḥ rājābhiṣeka jem̃ pu-pom̃ tana
+            <lb n="1"/><g ref="sym:floretPetal"/> <g ref="sym:floret" type="symbol">*</g> <g ref="sym:bar" type="punctuation">.</g> svasti <g ref="sym:doubleBar" type="punctuation">.</g> pu-pom̃ tana rayā Inravarmma<!-- AG 2026-04-16: I think we can read ndra in both occurrences, as both are different from nr in panrāṅ --> pu-cim̃ śrī harideva pu-pom̃ ku kāla dr̥m̃ nā<lb break="no" n="2"/>ma pom̃ pu-lyam̃ śrī yuvarāja vloṁ rai mak· panrām̃ tmum̃ di śaka <num value="1171">1171</num> tam̃l· ndok· rājya dr̥m̃ rāja-nāma yām̃ pom̃
+            <lb n="3"/>ku śrī jaya siṅhavarmmadeva rai mak· panrām̃ tmum̃ di śaka <num value="1179">1179</num> <g ref="sym:bar" type="punctuation">.</g> tam̃l· punaḥ rājābhiṣeka jem̃ pu-pom̃ tana
             <lb n="4"/>rayā Inravarmma rai mak· panrām̃ tmum̃ di śaka <num value="1188">1188</num> kṣama karuṇā śānti pasraum̃ jīva pak· rajan· sarvvadaṇda
          </p>
       </div>

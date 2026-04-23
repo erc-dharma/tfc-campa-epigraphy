@@ -82,18 +82,14 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83213">
-<p><milestone type="pagelike" unit="face" n="A"/><label>Front</label><!-- §5.4. --><lb n="A1"/>svasti madā parama-rājādh<unclear>i</unclear>rāja Ā<lb 
-n="A2" break="no"/>tmaja di yām̃ pom̃ k<unclear>u</unclear> jayasiṅhavarma vr̥ṣu-vam̃ṅṣa <unclear>pu-po</unclear>m̃
-<lb n="A3"/>k<unclear>u</unclear> pura rāja-grāmma ṅauk· glaum̃ vijaya du<choice><sic>ṅ</sic><corr>n</corr></choice>an· dram̃ rāja yvan· kvīra ma<lb 
-n="A4" break="no"/>rai tupak· ṣuḥ khin· rajan· yuddha</p> <p>trā tam̃l· dvau triṅṣa Abhiśe<lb 
-n="A5" break="no"/>ka dram̃ Inravarma paṇḍap· dadam̃n· bhaṇḍ<unclear>ā</unclear>ra patryak· lyam̃ kanāya pajem̃
+<p><milestone type="pagelike" unit="face" n="A"/><label>Front</label><!-- §5.4. --><lb n="A1"/>svasti madā parama-rājādh<unclear>i</unclear>rāja Ā<lb n="A2" break="no"/>tmaja di yām̃ pom̃ k<unclear>u</unclear> jayasiṅhavarma vr̥ṣu-vam̃ṅṣa <unclear>pu-po</unclear>m̃
+<lb n="A3"/>k<unclear>u</unclear> pura rāja-grāmma ṅauk· glaum̃ vijaya du<choice><sic>ṅ</sic><corr>n</corr></choice>an· dram̃ rāja yvan· kvīra ma<lb n="A4" break="no"/>rai tupak· ṣuḥ khin· rajan· yuddha</p> <p>trā tam̃l· dvau triṅṣa Abhiśe<lb n="A5" break="no"/>ka dram̃ Inravarma paṇḍap· dadam̃n· bhaṇḍ<unclear>ā</unclear>ra patryak· lyam̃ kanāya pajem̃
 <lb n="A6"/>samram̃ddhipurī</p> <p>di thun· <unclear>bhyā</unclear>gra-ṇakṣatra padam̃ṅ· maṇḍīra ṅan· paṅap·
-<lb n="A7"/>sām̃ surak· dadam̃n· Adhvā pavam̃k· vanam̃k· kraum̃ hayāvv· pajem̃ rājadhā<lb 
-n="A8" break="no"/>ṇnī</p> <p>madā ka tmum̃ kirenra vap· viṅṣa kāla di hayāvv· Amil· 
+<lb n="A7"/>sām̃ surak· dadam̃n· Adhvā pavam̃k· vanam̃k· kraum̃ hayāvv· pajem̃ rājadhā<lb n="A8" break="no"/>ṇnī</p> <p>madā ka tmum̃ kirenra vap· viṅṣa kāla di hayāvv· Amil· 
 <milestone type="pagelike" unit="face" n="B"/><label>Back</label>
 <lb n="B1"/><gap reason="lost" quantity="3" unit="character"/>k· <unclear>pa</unclear>dadam̃n· d<unclear>a</unclear>k· varna trā madā ka tmum̃ dhaval<unclear>a</unclear>
 <lb n="B2"/><gap reason="lost" quantity="2" unit="character"/>ra nī putta di vavaḥ Air· laṅuv· tam̃l· Aṣta triṅṣa
-<lb n="B3"/><unclear>sām̃</unclear> surak· śilā-likhitta ṇī di rājadhvanna nī <num value="1360">1360</num><g type="ddanda">.</g>
+<lb n="B3"/><unclear>sām̃</unclear> surak· śilā-likhitta ṇī di rājadhvanna nī <num value="1360">1360</num><g ref="sym:doubleBar" type="punctuation">.</g>
 </p>
          </div>
          <div type="apparatus">

@@ -72,18 +72,12 @@
          <projectDesc>
             <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
@@ -104,82 +98,82 @@
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:83213">
-	<ab><milestone type="pagelike" unit="face" n="A"/><lb n="A1"/>svasti <g type="danda">.</g><g type="floretQuatrefoil"/> <g type="danda">.</g></ab>
+	<ab><milestone type="pagelike" unit="face" n="A"/><lb n="A1"/>svasti <g ref="sym:bar" type="punctuation">.</g><g ref="sym:floret" type="symbol">*</g> <g ref="sym:bar" type="punctuation">.</g></ab>
 <lg n="1" met="anuṣṭubh">
 	<l n="a">śrī-Indravarmmaṇo rājño</l>
-	<l n="b">mahīndrādhipatir vvaram·<g type="danda">.</g></l>
-	<l n="c">bhaktyā padāmvujaṁ d<choice><sic>ī</sic><corr>i</corr></choice>vyaṁ<g type="danda">.</g></l>
-	<l n="d">vandati śrīmato bhavān<unclear>·</unclear><g type="ddandaOrnate">.</g><!--sapi2argr : Ici j'ai bien lu la note suggérant le manque de ponctuation, donc je ne suis pas sûre de mon interprétation de ces <> en double danda. --></l>
+	<l n="b">mahīndrādhipatir vvaram·<g ref="sym:bar" type="punctuation">.</g></l>
+	<l n="c">bhaktyā padāmvujaṁ d<choice><sic>ī</sic><corr>i</corr></choice>vyaṁ<g ref="sym:bar" type="punctuation">.</g></l>
+	<l n="d">vandati śrīmato bhavān<unclear>·</unclear><g ref="sym:doubleBar-ornate" type="punctuation">.</g><!--sapi2argr : Ici j'ai bien lu la note suggérant le manque de ponctuation, donc je ne suis pas sûre de mon interprétation de ces <> en double danda. --></l>
 </lg>
 <lg n="2" met="āryā">
-	<l n="ab">dhī-bhāj jita-ripu-vala-<unclear>v</unclear><supplied reason="lost">ān·</supplied> <lb n="A2"/>ruciratayā śaṁ prajāsu sa śrīmat·<g type="danda">.</g></l>
-	<l n="cd">rākendur iva mahīndrā<g type="danda">.</g>dhipatir ayaṁ prāptavān avanau<g type="ddanda">.</g></l>
+	<l n="ab">dhī-bhāj jita-ripu-vala-<unclear>v</unclear><supplied reason="lost">ān·</supplied> <lb n="A2"/>ruciratayā śaṁ prajāsu sa śrīmat·<g ref="sym:bar" type="punctuation">.</g></l>
+	<l n="cd">rākendur iva mahīndrā<g ref="sym:bar" type="punctuation">.</g>dhipatir ayaṁ prāptavān avanau<g ref="sym:doubleBar" type="punctuation">.</g></l>
 </lg>
 <lg n="3" met="anuṣṭubh">
-	<l n="a">cūrṇṇāṅkita-<choice><unclear>vadane ye</unclear><unclear>vadanāyai</unclear></choice><g type="danda">.</g></l><!-- argr2sapi: check EDG if if doesn't rather recommend limiting <choice> to the syllables in question, even if more than one word is concerned -->
-	<l n="b">prabhātaḥ svavanau pri<lb n="A3" break="no"/>ye<g type="danda">.</g></l>
-	<l n="c"><foreign xml:lang="ocm-Latn">lyaṅ·</foreign>-Indrabhūmi-subhadre<g type="danda">.</g></l>
-	<l n="d"><unclear>bha</unclear>dre sadam gir asya te<g type="ddanda">.</g></l>
+	<l n="a">cūrṇṇāṅkita-<choice><unclear>vadane ye</unclear><unclear>vadanāyai</unclear></choice><g ref="sym:bar" type="punctuation">.</g></l><!-- argr2sapi: check EDG if if doesn't rather recommend limiting <choice> to the syllables in question, even if more than one word is concerned -->
+	<l n="b">prabhātaḥ svavanau pri<lb n="A3" break="no"/>ye<g ref="sym:bar" type="punctuation">.</g></l>
+	<l n="c"><foreign xml:lang="ocm-Latn">lyaṅ·</foreign>-Indrabhūmi-subhadre<g ref="sym:bar" type="punctuation">.</g></l>
+	<l n="d"><unclear>bha</unclear>dre sadam gir asya te<g ref="sym:doubleBar" type="punctuation">.</g></l>
 </lg>
 <lg n="4" met="vasantatilakā">
-	<l n="a">śrī-Indravarmma-nr̥pater adhikāñ ca kīrttiṁ<g type="danda">.</g></l>
-	<l n="b">paśyan vibhūti-viditaḥ kutala-sthitā<choice><orig>y</orig><reg>ṁ</reg></choice> yaḥ<g type="danda">.</g></l>
-	<l n="c">tanreṅ-purī<milestone type="pagelike" unit="face" n="B"/><lb n="B1" break="no"/>ndra Iti so yam imā<unclear>ṁ</unclear> mahātmā<g type="danda">.</g></l>
-	<l n="d">kīrttiṁ svikāṁ dhavalatāṁ prati karttum icchet·<g type="danda">.</g><g type="ddanda">.</g><!--sapi2argr Mon choix de symboles pour ce triple danda peut-être questionné. Devrais-je mettre trois danda simples ? --></l>
+	<l n="a">śrī-Indravarmma-nr̥pater adhikāñ ca kīrttiṁ<g ref="sym:bar" type="punctuation">.</g></l>
+	<l n="b">paśyan vibhūti-viditaḥ kutala-sthitā<choice><orig>y</orig><reg>ṁ</reg></choice> yaḥ<g ref="sym:bar" type="punctuation">.</g></l>
+	<l n="c">tanreṅ-purī<milestone type="pagelike" unit="face" n="B"/><lb n="B1" break="no"/>ndra Iti so yam imā<unclear>ṁ</unclear> mahātmā<g ref="sym:bar" type="punctuation">.</g></l>
+	<l n="d">kīrttiṁ svikāṁ dhavalatāṁ prati karttum icchet·<g ref="sym:bar" type="punctuation">.</g><g ref="sym:doubleBar" type="punctuation">.</g><!--sapi2argr Mon choix de symboles pour ce triple danda peut-être questionné. Devrais-je mettre trois danda simples ? --></l>
 </lg>
 <lg n="5" met="śārdūlavikrīḍita">
-	<l n="a">śākābde rasa-loka-maṅgala-yute jīve tula-sthe bhr̥<lb n="B2" break="no"/>gau<g type="danda">.</g></l>
-	<l n="b">me<choice><sic>ś</sic><corr>ṣ</corr></choice>a-sthe 'pi ca bauddh<choice><sic>am</sic><corr>a</corr></choice> eva ca bhavān m<choice><sic>ā</sic><corr>a</corr></choice>hīndralokeśvara<choice><sic>m·</sic><corr>ḥ</corr></choice><g type="danda">.</g></l>
-	<l n="c">candre kany<choice><sic>a</sic><corr>ā</corr></choice>-gate ca yo nava-niśānt<choice><unclear>ā</unclear><unclear>a</unclear></choice>ṁ sthāpitaḥ kīrttaye<g type="danda">.</g></l>
-	<l n="d">me<choice><sic>śen</sic><corr>ṣeṇ</corr></choice>āpi <placeName type="settlement" subtype="town" key="Mahīndrapūraṇapura">mahī<lb n="B3" break="no"/>ndrapūraṇa-pure</placeName> vaiśākha-śuklasya saḥ<g type="danda">.</g><g type="ddanda">.</g></l>
+	<l n="a">śākābde rasa-loka-maṅgala-yute jīve tula-sthe bhr̥<lb n="B2" break="no"/>gau<g ref="sym:bar" type="punctuation">.</g></l>
+	<l n="b">me<choice><sic>ś</sic><corr>ṣ</corr></choice>a-sthe 'pi ca bauddh<choice><sic>am</sic><corr>a</corr></choice> eva ca bhavān m<choice><sic>ā</sic><corr>a</corr></choice>hīndralokeśvara<choice><sic>m·</sic><corr>ḥ</corr></choice><g ref="sym:bar" type="punctuation">.</g></l>
+	<l n="c">candre kany<choice><sic>a</sic><corr>ā</corr></choice>-gate ca yo nava-niśānt<choice><unclear>ā</unclear><unclear>a</unclear></choice>ṁ sthāpitaḥ kīrttaye<g ref="sym:bar" type="punctuation">.</g></l>
+	<l n="d">me<choice><sic>śen</sic><corr>ṣeṇ</corr></choice>āpi <placeName type="settlement" subtype="town" key="Mahīndrapūraṇapura">mahī<lb n="B3" break="no"/>ndrapūraṇa-pure</placeName> vaiśākha-śuklasya saḥ<g ref="sym:bar" type="punctuation">.</g><g ref="sym:doubleBar" type="punctuation">.</g></l>
 </lg>
 <lg n="6" met="anuṣṭubh">
-	<l n="a">puṇyaṁ śubham upanītaṁ<g type="danda">.</g></l>
-	<l n="b">svāmvāyāy idam eva ca<g type="danda">.</g></l>
-	<l n="c"><foreign xml:lang="ocm-Latn">pu-pov-ku-kunukuḥ</foreign>-devyai<g type="danda">.</g></l>
+	<l n="a">puṇyaṁ śubham upanītaṁ<g ref="sym:bar" type="punctuation">.</g></l>
+	<l n="b">svāmvāyāy idam eva ca<g ref="sym:bar" type="punctuation">.</g></l>
+	<l n="c"><foreign xml:lang="ocm-Latn">pu-pov-ku-kunukuḥ</foreign>-devyai<g ref="sym:bar" type="punctuation">.</g></l>
 	<l n="d">tena tribhuvanādhikam·</l>
 </lg>
 <lg n="7" met="āryā">
-	<l n="ab"><milestone type="pagelike" unit="face" n="C"/><lb n="C1"/>śrī-Indravarmma-nr̥pati<g type="danda">.</g>r yyaś cājñā<supplied reason="omitted">ṁ</supplied> <foreign xml:lang="ocm-Latn">pov-ku</foreign>-mahīndrādhipatau<g type="danda">.</g></l>
-	<l n="cd">sarvvāṁ muktiṁ kr̥payā <g type="danda">.</g>mahīndralok<supplied reason="lost">e</supplied>śvarāyādāt·<g type="danda">.</g><g type="ddanda">.</g></l>
+	<l n="ab"><milestone type="pagelike" unit="face" n="C"/><lb n="C1"/>śrī-Indravarmma-nr̥pati<g ref="sym:bar" type="punctuation">.</g>r yyaś cājñā<supplied reason="omitted">ṁ</supplied> <foreign xml:lang="ocm-Latn">pov-ku</foreign>-mahīndrādhipatau<g ref="sym:bar" type="punctuation">.</g></l>
+	<l n="cd">sarvvāṁ muktiṁ kr̥payā <g ref="sym:bar" type="punctuation">.</g>mahīndralok<supplied reason="lost">e</supplied>śvarāyādāt·<g ref="sym:bar" type="punctuation">.</g><g ref="sym:doubleBar" type="punctuation">.</g></l>
 </lg>
 <lg n="8" met="śārdūlavikrīḍita">
-	<l n="a">tāṁ muktiṁ sakalāṁ tatas tava subha<lb n="C2" break="no"/>drā-saṁjñakāyāy adā<g type="danda">.</g>t</l>
-	<l n="b">sat-kīrtty-ābharaṇaugham eva ca bhavām̐s <placeName type="settlement" subtype="town" key="Tanreṅpurī">tanreṅ-purīndro</placeName> yuvā<g type="danda">.</g></l>
-	<l n="c">tasyai ketaka-reṇu-reṇu-vadanāyai prīty-anāśāya yaḥ<g type="danda">.</g></l>
-	<l n="d">sau<lb n="C3" break="no"/><supplied reason="lost">bhā</supplied>gye sati <unclear>s</unclear>au-viśāla-nayanāyai cāvalāyai sadā<g type="danda">.</g><g type="floretQuatrefoil"/> <g type="danda">.</g></l>
+	<l n="a">tāṁ muktiṁ sakalāṁ tatas tava subha<lb n="C2" break="no"/>drā-saṁjñakāyāy adā<g ref="sym:bar" type="punctuation">.</g>t</l>
+	<l n="b">sat-kīrtty-ābharaṇaugham eva ca bhavām̐s <placeName type="settlement" subtype="town" key="Tanreṅpurī">tanreṅ-purīndro</placeName> yuvā<g ref="sym:bar" type="punctuation">.</g></l>
+	<l n="c">tasyai ketaka-reṇu-reṇu-vadanāyai prīty-anāśāya yaḥ<g ref="sym:bar" type="punctuation">.</g></l>
+	<l n="d">sau<lb n="C3" break="no"/><supplied reason="lost">bhā</supplied>gye sati <unclear>s</unclear>au-viśāla-nayanāyai cāvalāyai sadā<g ref="sym:bar" type="punctuation">.</g><g ref="sym:floret" type="symbol">*</g> <g ref="sym:bar" type="punctuation">.</g></l>
 </lg>
-<p xml:lang="ocm-Latn">humā haliṁ<g type="danda">.</g>
-	<placeName type="cultivation" subtype="field" key="Kedvuk">kedvuk·</placeName><g type="danda">.</g>
-	<placeName type="cultivation" subtype="field" key="Cuvair Bhoja">cuvair· bhoja</placeName><!-- or moja? dhoja? --><g type="danda">.</g>
-	<placeName type="cultivation" subtype="field" key="Lahaur">lahaur·</placeName><g type="danda">.</g>
-	<placeName type="cultivation" subtype="field" key="Pitau Janreḥ">pitau janreḥ</placeName><g type="danda">.</g>
+<p xml:lang="ocm-Latn">humā haliṁ<g ref="sym:bar" type="punctuation">.</g>
+	<placeName type="cultivation" subtype="field" key="Kedvuk">kedvuk·</placeName><g ref="sym:bar" type="punctuation">.</g>
+	<placeName type="cultivation" subtype="field" key="Cuvair Bhoja">cuvair· bhoja</placeName><!-- or moja? dhoja? --><g ref="sym:bar" type="punctuation">.</g>
+	<placeName type="cultivation" subtype="field" key="Lahaur">lahaur·</placeName><g ref="sym:bar" type="punctuation">.</g>
+	<placeName type="cultivation" subtype="field" key="Pitau Janreḥ">pitau janreḥ</placeName><g ref="sym:bar" type="punctuation">.</g>
 	humā <placeName type="cultivation" subtype="field" key="Puṅ Manat Ikān Pu"><unclear>p</unclear>uṅ· manat·
-<milestone type="pagelike" unit="face" n="D"/><lb n="D1"/>Ikān· <unclear>p</unclear>u</placeName><g type="danda">.</g>
-	<placeName type="cultivation" subtype="field" key="Curiḥ">curiḥ</placeName><g type="danda">.</g>
-	<placeName type="cultivation" subtype="field" key="Diṅin">diṅin·</placeName><g type="danda">.</g>
-	<placeName type="cultivation" subtype="field" key="Aṅauy">Aṅau<unclear>y</unclear>·</placeName><g type="danda">.</g>
-	<placeName type="cultivation" subtype="field" key="Lāc"><unclear>lā</unclear>c·</placeName><g type="danda">.</g>
-	<placeName type="cultivation" subtype="field" key="Luvauṅ">luvauṅ·</placeName><g type="danda">.</g>
+<milestone type="pagelike" unit="face" n="D"/><lb n="D1"/>Ikān· <unclear>p</unclear>u</placeName><g ref="sym:bar" type="punctuation">.</g>
+	<placeName type="cultivation" subtype="field" key="Curiḥ">curiḥ</placeName><g ref="sym:bar" type="punctuation">.</g>
+	<placeName type="cultivation" subtype="field" key="Diṅin">diṅin·</placeName><g ref="sym:bar" type="punctuation">.</g>
+	<placeName type="cultivation" subtype="field" key="Aṅauy">Aṅau<unclear>y</unclear>·</placeName><g ref="sym:bar" type="punctuation">.</g>
+	<placeName type="cultivation" subtype="field" key="Lāc"><unclear>lā</unclear>c·</placeName><g ref="sym:bar" type="punctuation">.</g>
+	<placeName type="cultivation" subtype="field" key="Luvauṅ">luvauṅ·</placeName><g ref="sym:bar" type="punctuation">.</g>
 	kaun· vauk· ndāk· <unclear>k</unclear>laur·<!-- as in pirak kā in next line, we seem to have here a sloppy k -->
-	dandau vukī Avista humā nan·<g type="dotMid">.</g>
-<lb n="D2"/>cluṅ· dhuṅ· ṅauk· dlai klov· nan·<unclear><g type="danda">.</g></unclear>
-	lamvov·<g type="danda">.</g>
-	kravāv·<g type="danda">.</g>
-	hulun·<g type="danda">.</g>
-	limān·<g type="danda">.</g>
-	māḥ pirak kā Ājñā pov· ku mahī<lb n="D3" break="no"/>ndrādhipatiḥ <space/> grāc· vuḥ di vihāra śrīmahīndralokeśvara<g type="danda">.</g> yām̃ pu pov· kuv· kā vrim̃ vihāra nim̃ mata<lb n="D4" break="no"/>ndāḥ sarvvataḥ riṁ narim̃ nau Oḥ jem̃ si top· hulun· dravya vihāra nim̃ kā Ājñā pov· ku Atat· di Inā
-<milestone type="pagelike" unit="face" n="E"/><lb n="E1"/>Oḥ jem̃ si<!-- is there an unclear m̃? --> kluñ· dauk kan· satyodakānna man·<g type="danda">.</g>
-	sim̃ ya rakṣā nagara tanrem̃ Aṅgāḥ tum̃ ra pandaṁ man·<g type="danda">.</g>
+	dandau vukī Avista humā nan·<g ref="sym:bullet-middle" type="punctuation">.</g>
+<lb n="D2"/>cluṅ· dhuṅ· ṅauk· dlai klov· nan·<unclear><g ref="sym:bar" type="punctuation">.</g></unclear>
+	lamvov·<g ref="sym:bar" type="punctuation">.</g>
+	kravāv·<g ref="sym:bar" type="punctuation">.</g>
+	hulun·<g ref="sym:bar" type="punctuation">.</g>
+	limān·<g ref="sym:bar" type="punctuation">.</g>
+	māḥ pirak kā Ājñā pov· ku mahī<lb n="D3" break="no"/>ndrādhipatiḥ <space/> grāc· vuḥ di vihāra śrīmahīndralokeśvara<g ref="sym:bar" type="punctuation">.</g> yām̃ pu pov· kuv· kā vrim̃ vihāra nim̃ mata<lb n="D4" break="no"/>ndāḥ sarvvataḥ riṁ narim̃ nau Oḥ jem̃ si top· hulun· dravya vihāra nim̃ kā Ājñā pov· ku Atat· di Inā
+<milestone type="pagelike" unit="face" n="E"/><lb n="E1"/>Oḥ jem̃ si<!-- is there an unclear m̃? --> kluñ· dauk kan· satyodakānna man·<g ref="sym:bar" type="punctuation">.</g>
+	sim̃ ya rakṣā nagara tanrem̃ Aṅgāḥ tum̃ ra pandaṁ man·<g ref="sym:bar" type="punctuation">.</g>
 <!-- C. 106: ājñā yāṅ· pu pov· ku śrījayasiṅhavarmmadeva • vriy· yāṅ· pov· ku si(4)niy· mataṇḍāḥ avis· pat· • oḥ jeṅ· si kluñ· oḥ jeṅ· si top· anna tauṅ· tamr̥yāla niv· di kāra urāṅ· -->
-	nim̃ vukan trā nasim̃ sa<lb n="E2" break="no"/>nraum̃<g type="danda">.</g> sa <unclear>ma</unclear>ruy·<!-- sanraum̃| sa/sā/so maruy·? --> pāt· limān· pāt· rocibhavya<!-- read
+	nim̃ vukan trā nasim̃ sa<lb n="E2" break="no"/>nraum̃<g ref="sym:bar" type="punctuation">.</g> sa <unclear>ma</unclear>ruy·<!-- sanraum̃| sa/sā/so maruy·? --> pāt· limān· pāt· rocibhavya<!-- read
 				| saci-? | sakhi-? -gavya? separate words? -->
 	pu vinai Ājñā pov· ku mahīndrādhipatiḥ
 	kā vrim̃ kan· pu vinai subhadrā
 <!--  taḥ proṅ· bhogopabhoga si matmuv· va drim̃ (•) tra Inā Amā drim̃ di svargga <<[quatrefoil]>> -->
-	<lb n="E3"/>sim̃ ya rakṣā nagara nim̃· Aṅgā<add place="above">ḥ</add> tuy· ra pandaṁ manna sā sanraum̃ nasim̃ sā caruv· tapai ya jem̃ lo nariy· ṅan· ya jem̃<g type="danda">.</g> dvā ta<!-- dvāta? -->
-	<lb n="E4"/>matandāḥ niy· nāma<g type="danda">.</g> siy· ya pamataḥ<g type="danda">.</g> Asov· lūḥ<g type="danda">.</g> Asov· hitaṁ pāt· matā ñu ndoy· Inā ñū Inā Amā
-	<lb n="E5"/>gaṁp· gotra ñū lac· dauk· di Avīcī Annan· naraka taṁl· yuga Antaḥ pralaya<g type="danda">.</g> siy· ya Oḥ pama<lb n="E6" break="no"/>taḥ proṅ· bhogopabhoga si matmuv· va drim̃ tra Inā Amā drim̃ di svargga<g type="ddanda">.</g><g type="floretQuatrefoil"/> <g type="ddanda">.</g>
+	<lb n="E3"/>sim̃ ya rakṣā nagara nim̃· Aṅgā<add place="above">ḥ</add> tuy· ra pandaṁ manna sā sanraum̃ nasim̃ sā caruv· tapai ya jem̃ lo nariy· ṅan· ya jem̃<g ref="sym:bar" type="punctuation">.</g> dvā ta<!-- dvāta? -->
+	<lb n="E4"/>matandāḥ niy· nāma<g ref="sym:bar" type="punctuation">.</g> siy· ya pamataḥ<g ref="sym:bar" type="punctuation">.</g> Asov· lūḥ<g ref="sym:bar" type="punctuation">.</g> Asov· hitaṁ pāt· matā ñu ndoy· Inā ñū Inā Amā
+	<lb n="E5"/>gaṁp· gotra ñū lac· dauk· di Avīcī Annan· naraka taṁl· yuga Antaḥ pralaya<g ref="sym:bar" type="punctuation">.</g> siy· ya Oḥ pama<lb n="E6" break="no"/>taḥ proṅ· bhogopabhoga si matmuv· va drim̃ tra Inā Amā drim̃ di svargga<g ref="sym:doubleBar" type="punctuation">.</g><g ref="sym:floret" type="symbol">*</g> <g ref="sym:doubleBar" type="punctuation">.</g>
 </p>
          </div>
          <div type="apparatus">

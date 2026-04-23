@@ -58,8 +58,7 @@
             <editor>Arlo Griffiths</editor>
           </titleStmt>
           <editionStmt>
-            <p>First digital edition made by École française d'Extrême-Orient (EFEO), realized in collaboration with the Institute for the Study of the Ancient World (ISAW) at New York University as <ref
-                target="https://isaw.nyu.edu/publications/inscriptions/campa/index.html">The Corpus of the Inscriptions of Campā, in 2010-2012.</ref>
+            <p>First digital edition made by École française d'Extrême-Orient (EFEO), realized in collaboration with the Institute for the Study of the Ancient World (ISAW) at New York University as <ref target="https://isaw.nyu.edu/publications/inscriptions/campa/index.html">The Corpus of the Inscriptions of Campā, in 2010-2012.</ref>
             </p>
           </editionStmt>
           <publicationStmt>
@@ -80,17 +79,17 @@
         <msDesc>
           <msIdentifier>
             <repository>DHARMAbase</repository>
-            <idno />
+            <idno/>
             <altIdentifier type="campa">
               <idno>C. 206</idno>
             </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary />
+            <summary/>
           </msContents>
           <physDesc>
             <handDesc>
-              <p />
+              <p/>
             </handDesc>
           </physDesc>
         </msDesc>
@@ -100,7 +99,7 @@
       <projectDesc>
         <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
       </projectDesc>
-      <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186" />
+      <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
       <listPrefixDef>
         <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
           <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
@@ -117,22 +116,22 @@
   <facsimile>
     <graphic url="C0206_1_VKL_2009.jpg">
       <desc>Photograph 1/4 of inscription
-        <ptr />. Taken by Vũ Kim Lộc, before 2009. Reproduced by permission.
+        <ptr/>. Taken by Vũ Kim Lộc, before 2009. Reproduced by permission.
       </desc>
     </graphic>
     <graphic url="C0206_2_VKL_2009.jpg">
       <desc>Photograph 2/4 of inscription
-        <ptr />. Taken by Vũ Kim Lộc, before 2009. Reproduced by permission.
+        <ptr/>. Taken by Vũ Kim Lộc, before 2009. Reproduced by permission.
       </desc>
     </graphic>
     <graphic url="C0206_3_VKL_2009.jpg">
       <desc>Photograph 3/4 of inscription
-        <ptr />. Taken by Vũ Kim Lộc, before 2009. Reproduced by permission.
+        <ptr/>. Taken by Vũ Kim Lộc, before 2009. Reproduced by permission.
       </desc>
     </graphic>
     <graphic url="C0206_4_VKL_2009.jpg">
       <desc>Photograph 4/4 of inscription
-        <ptr />. Taken by Vũ Kim Lộc, before 2009. Reproduced by permission.
+        <ptr/>. Taken by Vũ Kim Lộc, before 2009. Reproduced by permission.
       </desc>
     </graphic>
   </facsimile>
@@ -140,7 +139,7 @@
     <body>
       <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:83213">
         <p>
-          <lb n="1"/>tam imañ ca dhūpādhāraṃ śrīrudravarmmadevo dattavān iti <g>|</g><g type="encircled-circle">⊚</g><g>|</g>
+          <lb n="1"/>tam imañ ca dhūpādhāraṃ śrīrudravarmmadevo dattavān iti <g>|</g><g ref="sym:circle-concentric">⊚</g><g>|</g>
         </p>
       </div>
       <div type="apparatus">
@@ -151,7 +150,7 @@
             <note>There is clearly no <hi rend="italic">visarga</hi> but rather the expected <hi rend="italic">anusvāra</hi>.</note>
           </app>
           <app loc="1">
-            <lem><g>|</g><g type="encircled-circle">⊚</g><g>|</g></lem>
+            <lem><g>|</g><g ref="sym:circle-concentric">⊚</g><g>|</g></lem>
             <note>The punctuation is not represented by Schweyer.</note>
           </app>
         </listApp>

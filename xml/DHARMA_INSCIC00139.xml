@@ -63,19 +63,13 @@
          <projectDesc>
             <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <!-- UPDATE the link once the release is made official -->
          <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
@@ -94,10 +88,9 @@
       <body>
         <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:00000">
            <p>
-             <lb n="1"/>svasti <g type="dotMid">.</g> niy· kanadhā kuv· pu pov· tana rayā yaṅ· ma<lb n="2" break="no"/>Anan· śrī Indravarmmadeva yaṅ· sakala-rājādhirāja di nagara
+             <lb n="1"/>svasti <g ref="sym:bullet-middle" type="punctuation">.</g> niy· kanadhā kuv· pu pov· tana rayā yaṅ· ma<lb n="2" break="no"/>Anan· śrī Indravarmmadeva yaṅ· sakala-rājādhirāja di nagara
              <lb n="3"/>campa vriy· yāṅ· pov· ku śrī bhāgyakānteśvara matandāḥ sarvvākarādāna
-             <lb n="4"/>kuv· vriy· yāṅ· niy· pat· pov· kuv· danāy· sandiy· yajamāna yāṅ· niy· kintu ka<lb
-             n="5" break="no"/>raṇa sandyāṁ yāṅ· niy· ṅan· Udakānna<g type="dotMid">.</g> nan· hetu kuv· Atat· di yajamāna niy· siy· pu
+             <lb n="4"/>kuv· vriy· yāṅ· niy· pat· pov· kuv· danāy· sandiy· yajamāna yāṅ· niy· kintu ka<lb n="5" break="no"/>raṇa sandyāṁ yāṅ· niy· ṅan· Udakānna<g ref="sym:bullet-middle" type="punctuation">.</g> nan· hetu kuv· Atat· di yajamāna niy· siy· pu
              <lb n="6"/>pov· tana rayā yaṅ· maputau Andap· niy· siy· Urāṅ· rayā yaṅ· marayā Andap· niy·
              <lb n="7"/>pu pov· tana rayā ṅan· Urāṅ· rayā mapaknā tuy· tanatap· kuv· niy· pu pov· tana rayā nan·
              <lb n="8"/>ṅan· Urāṅ· rayā nan· tmuv· punya di dalaṁ rājya kuv· tra di dalaṁ rājya driy· tra tmuv· pada yām̃ pu pov·

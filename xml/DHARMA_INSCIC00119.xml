@@ -76,25 +76,22 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83213">
-            <ab><milestone type="pagelike" unit="face" n="A"/><label>Left</label><lb n="A1"/><g type="spiralR"/> svasti <g type="ddanda">.</g></ab>
+            <ab><milestone type="pagelike" unit="face" n="A"/><label>Left</label><lb n="A1"/><g ref="sym:spiral-right" type="symbol">*</g> svasti <g ref="sym:doubleBar" type="punctuation">.</g></ab>
 <lg n="1" met="śārdūlavikrīḍita" xml:lang="san-Latn">
 <l n="a">śrīmāñ chrī-parameśvaro narapatir nnānā-kalaikālayo</l>
 <l n="b">dharme<lb n="A2" break="no"/>ddho vala-vīryya-kīrtti-paramaḥ san sārvva-bhaumaḥ kr̥tī</l>
 <l n="c">jitvā pāpaka-pāṇḍuraṅga-nr̥-gaṇān hastādri-randhre śake</l>
-<l n="d">senā<lb n="A3" break="no"/>-sāṅkhya-kr̥tau śilācayam imaṁ sam̃sthāpayām āsa vai <g type="ddanda"/> <g type="spiralR"/> <g type="ddanda"/></l>
+<l n="d">senā<lb n="A3" break="no"/>-sāṅkhya-kr̥tau śilācayam imaṁ sam̃sthāpayām āsa vai <g ref="sym:doubleBar" type="punctuation">.</g> <g ref="sym:spiral-right" type="symbol">*</g> <g ref="sym:doubleBar" type="punctuation">.</g></l>
 </lg>
 
 <p>sidaḥ Urām̃ pāṇḍuraṅga niy· kintu sadā-kāla mūrkha dāya jhāk·
-<lb n="A4"/>buddhi pāpa-karmma mam̃n· sā Artha nan· Urām̃ pāṇḍuraṅga nim̃ kā lo vvāra clam̃ṅ· Adhama kam̃n· pu-pom̃ tana rayā nagara campa dadam̃n· dadam̃n· rāja marai tra <g type="danda">.</g> navai
-<lb n="A5"/>yām̃ po ku śrī parameśvaravarmmadeva ya tuvuḥ yām̃ pu-po ku parameśvara sakala kā putau jem̃ pu-pom̃ drim̃ tathāpi la<!-- it would be possible to read laṁ here, but less likely in B2 --> Urām pāṇḍuraṅga nim̃ nau pāpa-ka<lb 
-n="A6" break="no"/>rmma pavaṅun· drim̃ dā<unclear reason="eccentric_ductus">k</unclear>·<!-- error for jāk·, jhāk? --> sā dāya<!-- cf. the sequence at the end of A3 --> paputau ra kam̃n· di nagara nim̃ rim̃ nan· pi<!-- si? --> jem̃ yām̃ po ku śrī parameśvaravarmmadeva ra vā vala Udyāna marai paliṅyak· nagara nim̃ ka rim̃<!-- narim̃ -->
+<lb n="A4"/>buddhi pāpa-karmma mam̃n· sā Artha nan· Urām̃ pāṇḍuraṅga nim̃ kā lo vvāra clam̃ṅ· Adhama kam̃n· pu-pom̃ tana rayā nagara campa dadam̃n· dadam̃n· rāja marai tra <g ref="sym:bar" type="punctuation">.</g> navai
+<lb n="A5"/>yām̃ po ku śrī parameśvaravarmmadeva ya tuvuḥ yām̃ pu-po ku parameśvara sakala kā putau jem̃ pu-pom̃ drim̃ tathāpi la<!-- it would be possible to read laṁ here, but less likely in B2 --> Urām pāṇḍuraṅga nim̃ nau pāpa-ka<lb n="A6" break="no"/>rmma pavaṅun· drim̃ dā<unclear reason="eccentric_ductus">k</unclear>·<!-- error for jāk·, jhāk? --> sā dāya<!-- cf. the sequence at the end of A3 --> paputau ra kam̃n· di nagara nim̃ rim̃ nan· pi<!-- si? --> jem̃ yām̃ po ku śrī parameśvaravarmmadeva ra vā vala Udyāna marai paliṅyak· nagara nim̃ ka rim̃<!-- narim̃ -->
 <lb n="A7"/>nan· ra vrim̃ vala nau tūy· mak· Urām̃ pāṇḍuraṅga nim̃ di dadam̃n· vivara sthāna <seg rend="check">hu</seg>tān· ya vyūha ṅan· di dadam̃n· śikhara parvvata huluv· glai ya jlauṅ·<!-- glauṅ --> Aviḥ
 
-<milestone type="pagelike" unit="face" n="B"/><label>Right</label><lb n="B1"/>tra vala dinan· ñu tamā mak· di dalaṁ guhā di huk· hāṅ· di dalaṁ luvāṅ· vatuv· ñu mak· tmuv· A<lb 
-n="B2" break="no"/>vista Upak· ka klāḥ sa drim̃ la Oḥ nan· di śakarāja <num value="972">972</num> hurim̃ salapan· vaṅun· vulān· pāk· vr̥haspati-<seg rend="check">bvāra</seg>
-<lb n="B3"/>nan<seg rend="check">·</seg> ra ndok· vatuv· sa drim̃ sa vauḥ di dadam̃n tuvuḥ vala ya marai nan· Aviḥ bharuv· ra mvūk· pajem̃ jayastambha pyauḥ <seg rend="check">ka vā</seg> ci<lb 
-n="B4" break="no"/>hna Ājñā yām̃ po ku śrī parameśvaravarmmadeva ganim̃ nan· vela yaḥ madā jayastambha Ājñā nim̃ vlo<supplied reason="omitted" evidence="parallel"></supplied> mam̃n· Urām̃ pāṇḍuraṅga nim̃ Oḥ
-<lb n="B5"/>knā si clam̃ṅ· Adhama trā knā silādhāra tupak· di pu-pom̃ tana rayā nagara campa sadākāla mam̃n· niścaya <g type="ddanda">.</g><g type="circleConcentric"/></p>
+<milestone type="pagelike" unit="face" n="B"/><label>Right</label><lb n="B1"/>tra vala dinan· ñu tamā mak· di dalaṁ guhā di huk· hāṅ· di dalaṁ luvāṅ· vatuv· ñu mak· tmuv· A<lb n="B2" break="no"/>vista Upak· ka klāḥ sa drim̃ la Oḥ nan· di śakarāja <num value="972">972</num> hurim̃ salapan· vaṅun· vulān· pāk· vr̥haspati-<seg rend="check">bvāra</seg>
+<lb n="B3"/>nan<seg rend="check">·</seg> ra ndok· vatuv· sa drim̃ sa vauḥ di dadam̃n tuvuḥ vala ya marai nan· Aviḥ bharuv· ra mvūk· pajem̃ jayastambha pyauḥ <seg rend="check">ka vā</seg> ci<lb n="B4" break="no"/>hna Ājñā yām̃ po ku śrī parameśvaravarmmadeva ganim̃ nan· vela yaḥ madā jayastambha Ājñā nim̃ vlo<supplied reason="omitted" evidence="parallel"/> mam̃n· Urām̃ pāṇḍuraṅga nim̃ Oḥ
+<lb n="B5"/>knā si clam̃ṅ· Adhama trā knā silādhāra tupak· di pu-pom̃ tana rayā nagara campa sadākāla mam̃n· niścaya <g ref="sym:doubleBar" type="punctuation">.</g><g ref="sym:circle-concentric" type="symbol">*</g></p>
          </div>
          <div type="apparatus">
                <listApp>
@@ -166,7 +163,7 @@ Estampages EFEO: 562; 563 photographié par AL. -->
 			</listBibl>
            <listBibl type="secondary">
 	<bibl><ptr target="bib:JA1908_01"/><citedRange unit="page">331</citedRange></bibl>
-	<bibl><ptr target="bib:Parmentier1909_01" /><citedRange unit="page">95-96</citedRange></bibl>
+	<bibl><ptr target="bib:Parmentier1909_01"/><citedRange unit="page">95-96</citedRange></bibl>
               <bibl><ptr target="bib:Finot1915_02"/><citedRange unit="page">40-41, 49</citedRange></bibl>
 	<bibl><ptr target="bib:Majumdar1927_01"/><citedRange unit="book">III</citedRange><citedRange unit="page">150-151</citedRange><citedRange unit="item">54</citedRange></bibl>
 	<bibl><ptr target="bib:Golzio2004_01"/><citedRange unit="page">123-124</citedRange></bibl>

@@ -109,18 +109,12 @@
          <projectDesc>
             <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
@@ -140,16 +134,16 @@
    </facsimile>
    <text xml:space="preserve"><body><div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:83213">
             <ab><lb n="1"/>
-               <g type="siddham"/></ab>
+               <g ref="sym:san-siddham" type="ideogram">@</g></ab>
             <lg met="āryāgīti" n="1">
                <l n="ab">śaktiḥ parasya na ripuṁ kṣapayati gamitāpi daṇḍabhedabhayena</l>
                <l n="cd"><lb n="2"/><supplied reason="lost">ya</supplied>sya tv adaṇḍabhedā sakalam arim
-                  abhīr bhinatti śaktibhr̥ta iva <g type="ddanda">.</g> </l>
+                  abhīr bhinatti śaktibhr̥ta iva <g ref="sym:doubleBar" type="punctuation">.</g> </l>
             </lg>
             <lg met="āryāgīti" n="2">
                <l n="ab"><lb n="3"/> sa śrīprakāśadharmmā nr̥patiḥ kandarppadharmmaṇo dharaṇibhujaḥ </l>
                <l n="cd"><lb n="4"/>s<supplied reason="lost">v</supplied>apitāmahīpitur idaṁ sthāpitavān
-                  arcanāya pādukayugalam· <g type="ddanda">.</g></l>
+                  arcanāya pādukayugalam· <g ref="sym:doubleBar" type="punctuation">.</g></l>
             </lg>
          </div>
 <div type="apparatus">
@@ -173,7 +167,7 @@
                literally, or as epithet of the war-god Skanda; on the possibility of interpreting
                <foreign>abhī</foreign> in two different ways; and on the different possibilities of analyzing the
                compound <foreign>adaṇḍabhedā</foreign>. The third sense may be less obvious to most
-               readers. But Dominic Goodall (<bibl rend="omitname"><ptr target="bib:Goodall2004_01"></ptr><citedRange unit="page">p. xix, n. 17</citedRange></bibl>) has discussed Śaiva
+               readers. But Dominic Goodall (<bibl rend="omitname"><ptr target="bib:Goodall2004_01"/><citedRange unit="page">p. xix, n. 17</citedRange></bibl>) has discussed Śaiva
                punning on the words <foreign>śakti</foreign> (spear or power, of king, Skanda or Śiva) and <foreign>ari</foreign> (enemies, worldly or internal) in a late-7th-century inscription of Pallava king <persName type="king">Narasiṁha II</persName>. He has there provided textual references in support of taking <foreign>arivarga</foreign> ‘group of enemies’ as denoting the human senses or passions (a theme also alluded to in <ref target="DHARMA_INSCIC00173.xml">C. 173</ref>), and referred to a passage illustrating the (descent of) divine power (<foreign>śaktipāta</foreign>) as crucial element in Śaiva tantric initiation.</p>
 <p>In further support of the assumption of this third sense, he has shared with us his interpretation of a stanza in a somewhat later inscription. This is <ref target="DHARMA_INSCIK00K528.xml">K. 528</ref> (Eastern Mebon, 953 CE, edited in <bibl><ptr target="bib:Finot1925_07"/></bibl>), stanza XX, about King Rājendravarman, and it comprises  three crucial elements that we also see in ours:
                   <q rend="block">

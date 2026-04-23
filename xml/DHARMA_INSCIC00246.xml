@@ -83,7 +83,7 @@
          <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:00000">
 <ab><lb n="1"/><unclear>s</unclear>vasti</ab>
 <lg n="1" met="anuṣṭubh">
-<l n="a">kṣoṇī-bahni-rasāṅkite</l> <l n="b" real="--++++-+">śa<unclear>ka</unclear>-<unclear>va</unclear>r<unclear>ṣ</unclear>ārāmāśrite <g type="dandaHooked">.</g></l>
+<l n="a">kṣoṇī-bahni-rasāṅkite</l> <l n="b" real="--++++-+">śa<unclear>ka</unclear>-<unclear>va</unclear>r<unclear>ṣ</unclear>ārāmāśrite <g ref="sym:bar-hooked" type="punctuation">.</g></l>
 <l n="c">trige <lb n="2"/>phālguṇyasya site</l> <l n="d">sa śu<add place="below">kra</add>divase <supplied reason="subaudible">'</supplied><unclear reason="eccentric_ductus">tha</unclear></l>
 </lg>
          </div>

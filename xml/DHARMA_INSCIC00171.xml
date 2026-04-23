@@ -74,19 +74,13 @@
                         under the European Union's Horizon 2020 research and innovation programme (grant
                         agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                             ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
                             <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
@@ -129,7 +123,7 @@
 	<l n="a"><seg met="====-++="><gap reason="lost" unit="character" quantity="8"/></seg></l>
 	<l n="b"><seg met="====-+-="><gap reason="lost" unit="character" quantity="8"/></seg></l>
 	<l n="c"><seg met="====-++="><gap reason="lost" unit="character" quantity="8"/></seg></l>
-	<l n="d"><seg met="-"><gap reason="lost" unit="character" quantity="1"/></seg>nt<unclear>aṁ</unclear> yat puṇyavarddhanam·<g type="circleConcentricOval">.</g>
+	<l n="d"><seg met="-"><gap reason="lost" unit="character" quantity="1"/></seg>nt<unclear>aṁ</unclear> yat puṇyavarddhanam·<g ref="sym:circle-oval-concentric" type="punctuation">.</g>
 <!-- argr2daba: do you have a suggestion for naming this punctuation sign? -->
 <!--daba2argr: seems to be a perfect case of "circleConcentric" as per the current Taxonomy. We've let that lie, but I still think we should aim for relatively small number of species in that taxonomy (such as "circle" in this case), instead of a large number of imaginative names such as "circleConcentricOval".-->
 <!-- argr2daba: see image and comment pasted into taxonomy file--></l>
@@ -158,7 +152,7 @@
 	<l n="c"><seg met="====-++="><gap reason="lost" unit="character" quantity="8"/></seg></l>
 	<l n="d"><seg met="====-+-="><gap reason="lost" unit="character" quantity="8"/></seg></l>
 </lg>
-<p><lb n="B3"/><add place="below"><g type="circleConcentricOval"/></add>m an-upama-matiḥ <space/> śrīmāñ jayasiṅhavarmmadevo <unclear>’ya</unclear><gap reason="lost" extent="unknown" unit="character"/></p>
+<p><lb n="B3"/><add place="below"><g ref="sym:circle-oval-concentric" type="symbol">*</g></add>m an-upama-matiḥ <space/> śrīmāñ jayasiṅhavarmmadevo <unclear>’ya</unclear><gap reason="lost" extent="unknown" unit="character"/></p>
          </div>
          <div type="apparatus">
                <listApp>
@@ -176,7 +170,7 @@
 	<rdg source="bib:Finot+Goloubew1925_01"><unclear cert="low">dvaḥ</unclear></rdg>
 </app>
 <app loc="B3">
-	<lem><add place="below"><g type="circleConcentricOval"/></add>m anupama-</lem>
+	<lem><add place="below"><g ref="sym:circle-oval-concentric" type="symbol">*</g></add>m anupama-</lem>
 	<rdg source="bib:Finot+Goloubew1925_01">manupāma-</rdg>
 	<note>A symbol, ignored by Finot &amp; Goloubew, seems to be squashed below the <foreign>ma</foreign> at line opening.</note>
 </app>

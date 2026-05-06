@@ -89,7 +89,7 @@
       <body>
          <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:83213">
           <ab><milestone type="pagelike" unit="face" n="A"/>
-            <lb n="A01"/><g ref="sym:unclassified" type="symbol">*</g><!--CHECK SYMBOL encoding and content, <unclear> may need to be added--> śrīlakṣmīndralokeśvarāya <supplied reason="lost">namaḥ</supplied>
+            <lb n="A01"/><g ref="sym:unclassified" type="symbol">*</g><!--CHECK SYMBOL encoding and content, <unclear> may need to be added--> śrī-lakṣmīndralokeśvarāya <supplied reason="lost">namaḥ</supplied>
           </ab>
             <lg n="1" met="pr̥thvī">
               <l n="a"><lb n="A1"/><seg met="-+---+"><gap reason="lost" quantity="6" unit="character"/></seg> priyam̐ paradhanāni vākāṅkṣate<space/></l>

@@ -94,7 +94,7 @@
          <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:83213">
            <ab><milestone type="pagelike" unit="face" n="A"/>
            <lb n="A01"/><g ref="sym:doubleBar" type="punctuation">.</g> Om̐ namaś śivāya <g ref="sym:doubleBar" type="punctuation">.</g>
-            <lb n="A1"/><g ref="sym:unclassified" type="punctuation">.</g><!--CHECK SYMBOL encoding and content, <unclear> may need to be added--> svasti <g ref="sym:doubleBar" type="punctuation">.</g></ab>
+            <lb n="A1"/><g ref="sym:unclear" type="punctuation">.</g> svasti <g ref="sym:doubleBar" type="punctuation">.</g></ab>
            <lg n="1" met="upendravajrā">
              <l n="a">jayaty asau yaḥ sura-rāja-cū<choice><orig>d</orig><reg>ḍ</reg></choice>ā <g ref="sym:bullet-middle" type="punctuation">.</g></l>
              <l n="b">maṇīddha-raśmy-ācchuritāṅghri-yugmaḥ <g ref="sym:bullet-middle" type="punctuation">.</g></l>

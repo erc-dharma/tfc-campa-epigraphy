@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>C. 7. Doorjamb from Lamngâ</title>
+         	<title>C. 7.2. Doorjamb from Lomngö, Second text</title>
          	<respStmt>
          		<resp>author of digital edition</resp>
          		<persName ref="part:argr">
@@ -20,7 +20,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Paris</pubPlace>
-            <idno type="filename">DHARMA_INSCIC00007</idno>
+            <idno type="filename">DHARMA_INSCIC00007_2</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -104,7 +104,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-      	  <change when="2026-05-06" who="part:argr" status="draft">started updating transliteration and symbol encoding, revising bibliography; resolved validation issues.</change>
+      	<change when="2026-05-06" who="part:argr" status="draft">started updating transliteration and symbol encoding, revising bibliography; resolved validation issues; split into two files.</change>
          <change when="2020-09-14" who="part:axja" status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
       </revisionDesc>
    </teiHeader>
@@ -118,18 +118,8 @@
    </facsimile>
    <text xml:space="preserve">
 	<body>
-		<div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:00000">
-            <div type="textpart" n="1">
-            <ab>
-            <lb n="1"/> <gap reason="lost" extent="unknown" unit="character"/>damayā <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">jāk· ṅan·</supplied>
-            <lb n="2"/> <supplied reason="lost">ta</supplied>nd<unclear>o</unclear>m̃ laṅguv· māḥ <unclear>bho</unclear><supplied reason="lost">ga</supplied> 30 thil· p<unclear>i</unclear>rak<supplied reason="lost">·</supplied>
-            <lb n="3"/> <supplied reason="lost">bh</supplied><unclear>o</unclear>ga 300 thil· kvi<supplied reason="lost">r</supplied>· ja<supplied reason="lost">v</supplied>ā laum̃ vukāṁ sya<unclear>ṁ</unclear>
-            <lb n="4"/> <num><gap reason="lost" quantity="1" unit="character"/></num>3 drim̃ śvam̃l· m<unclear>auk·</unclear> madrim̃ 4 drim̃ mauk· vuṅā
-            </ab>
-            </div>
-            <div type="textpart" n="2">
-            <ab>
-            <lb n="5"/> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">yām̃</supplied> pom̃ ku śrī jayaparam<unclear>e</unclear>śvaravarmmad<unclear>e</unclear>va <unclear>ud</unclear>yā
+		<div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83213"> 
+            <p><lb n="5"/> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">yām̃</supplied> pom̃ ku śrī jayaparam<unclear>e</unclear>śvaravarmmad<unclear>e</unclear>va <unclear>ud</unclear>yā
             <lb break="no" n="6"/>na nau <unclear>n</unclear>dvā <gap reason="lost" quantity="2" unit="character"/>ha yām̃ pom̃ k<unclear>u</unclear> śrī <supplied reason="lost">ca</supplied>mpeśvara <unclear>v</unclear>u<supplied reason="lost">ḥ</supplied> <gap reason="lost" quantity="2" unit="character"/> pa
             <lb break="no" n="7"/>jem̃ vana<supplied reason="lost">m̃</supplied>k· <supplied reason="lost">s</supplied>yā<unclear>ṁ</unclear> k<supplied reason="lost">v</supplied>ac· ravaum̃ pā<unclear>k·</unclear> humā śrī 
 vī<supplied reason="lost">ra</supplied><unclear>p</unclear>u<unclear>r</unclear>· d<choice><orig>ī</orig><reg>i</reg></choice> śa<lb break="no" 
@@ -141,13 +131,10 @@ vī<supplied reason="lost">ra</supplied><unclear>p</unclear>u<unclear>r</unclear
             <lb break="no" n="13"/>la gaḥ paścima tam̃l· humā di rumaḥ gaḥ uttara tam̃<lb break="no" 
 		n="14"/>l· ravaum̃ rayā atam̃ danrāk· klum̃ kanvā 500 jāk·
             <lb n="15"/>ṅan· tandom̃ laṅguv· <g ref="sym:doubleBar"/>
-            </ab>
+            </p>
             </div>
-         </div><div type="apparatus">
+<div type="apparatus">
 <listApp>
-<app loc="1"><lem><supplied reason="lost">jāk· ṅan·</supplied></lem><note>this restitution is based on the analysis of the term <foreign>tandoṅ laṅguv</foreign> (see note in <bibl><ptr target="bib:Lepoutre2013_01"/><citedRange unit="page">232-235</citedRange></bibl>).</note></app>
-<app loc="4"><lem><num><gap reason="lost" quantity="1" unit="character"/></num>3 drim̃</lem>
-<note>the fact that five ethnic groups are nammed in the previous line suggests that another digit needs to be restored in front of the figure <foreign>3</foreign>.</note></app>
 <app loc="7">
 <lem>pā<unclear>k·</unclear></lem>
 <!-- AG: I rather doubt this reading. Aymonier's may be better. -->
@@ -164,10 +151,15 @@ vī<supplied reason="lost">ra</supplied><unclear>p</unclear>u<unclear>r</unclear
 </listApp>
 </div>
 <div type="translation">
-<div type="textpart" n="1"><p>... <foreign>jāk</foreign> with <foreign>tamdom̃ laṅguv</foreign>.</p><p>Gold as property: 30 <foreign>thil</foreign>; silver as property: 300 <foreign>thil</foreign>;</p><p>Khmers, Javanese, Chinese <supplied reason="explanation">?</supplied>, Paganese, Siamese: #3 persons. Family of <foreign>mauk</foreign> Madrim̃: 4 persons; of <foreign>mauk</foreign> Vuṅā...</p></div><div type="textpart" n="2"><p>... Y.P.K. Śrī Jaya Parameśvaravarmadeva went out <supplied reason="subaudible">in order to</supplied> go and divide up ... Y.P.K. Śrī Campeśvara. He offered ... made good dams, cleaned the canals of Śrī VīraCuk's rice-fields in this Śaka <supplied reason="subaudible">year</supplied> ..., <supplied reason="explanation">1</supplied> moon, <supplied reason="explanation">1</supplied> earth <supplied reason="explanation">i.e. in 11## Śaka</supplied>
-                this rice-field <supplied reason="subaudible">is</supplied> a unit offered to Y.P.K. Svayamutpanna and Y.P.K. Śrīpatīśvara <supplied reason="subaudible">delimited</supplied> on the Eastern side by the ramp; on the Southern side <foreign>gnam̃ḥ pyā</foreign> river by the rice-fields of the country; on the Southern side by P.L. Iśānavarman's rice-fields, the gods' rice-fields, the rice-fields <supplied reason="subaudible">constituting</supplied> the capital; on the Western side by the rice-fields near the edifices; on the Northern side by the great canal; three <foreign>atam̃ danrāk</foreign>; 500 <foreign>jāk</foreign> with <foreign>tandom̃ laṅguv</foreign> <supplied reason="subaudible">of</supplied> uneven <supplied reason="subaudible">lands</supplied>.</p></div></div><div type="translation" xml:lang="fra"><div type="textpart" n="1"><p>... <foreign>jāk</foreign> avec <foreign>tamdom̃ laṅguv</foreign></p><p>De l'or pour les biens : 30 <foreign>thil</foreign> ; de l'argent pour les biens : 300 <foreign>thil</foreign> ; </p><p>Des Khmers, des Javanais, des Chinois <supplied reason="explanation">?</supplied>, des Paganais, des Siamois : #3 personnes. Famille de <foreign>mauk</foreign> Madrim̃ : 4 personnes ; de <foreign>mauk</foreign> Vuṅā...</p></div><div type="textpart" n="2"><p>... Y.P.K. Śrī Jaya Parameśvaravarmadeva sortit <supplied reason="subaudible">pour</supplied> aller diviser ... Y.P.K. Śrī Campeśvara. Il offrit ... fit de bons barrages, cura les canaux pour les rizières de Śrī VīraCuk en cette <supplied reason="subaudible">année</supplied> Śaka 11## <supplied reason="explanation">##, 1 <supplied reason="subaudible">lune</supplied>, 1 <supplied reason="subaudible">terre</supplied></supplied>
-                  cette rizière <supplied reason="subaudible">est</supplied> un emplacement offert à Y.P.K. Svayamutpanna et Y.P.K. Śrīpatīśvara <supplied reason="subaudible">délimitée</supplied> du côté est par la dénivéllation ; du côté sud <foreign>gnam̃ḥ pyā</foreign> fleuve par les rizières du pays ; du côté sud par les rizières du P.L. Iśānavarman, les rizières des dieux, les rizières <supplied reason="subaudible">constituant</supplied> le capital ; du côté ouest par les rizières près des édifices ; du côté nord par le grand canal ; trois <foreign>atam̃ danrāk</foreign> ; 500 <foreign>jāk</foreign> avec <foreign>tandom̃ laṅguv</foreign> <supplied reason="subaudible">de terres</supplied> dénivelées.</p></div></div><div type="commentary"><!-- <p>Concerning <foreign>tandom̃ laṅguv</foreign> (also occurred in <ref target="DHARMA_INSCIC00005.xml">C. 5</ref>), see the discussion in <bibl><ptr target="cic-bibl:ECIC-IV"/>: <check><biblScope>forthcoming</biblScope></check></bibl>.</p>
-               <p>We do not really know if <foreign>javā</foreign> refered to the indonesian Java, see <bibl><ptr target="cic-bibl:ferlus-2010"/></bibl>.</p>  --><p>The term <foreign>laum̃</foreign> (= <foreign>lauv</foreign> or <foreign>lov</foreign>, also occuring in <ref target="DHARMA_INSCIC00030B1.xml">C. 30 B1</ref>) is recorded in the available dictionaries and translated there as 'Chinese'. However, it it possible that, originally, this word (identical to the Thai word used to name the modern state of Laos) suggests Thai-speaking populations. The possibility that the term <foreign>lauv</foreign> used in these inscriptions could designate a Lao population should be kept in mind.</p><!-- <p><bibl><ptr target="cic-bibl:luce-1969-70"/>: <biblScope>8</biblScope></bibl> informs us that <quote>The oldest mentions of Pagán by name, curiously enough, are in two Cham inscription of Phan-Rang (Pāṇḍuraṅga), the Pô-Nagar and the Lom-ngö pillars, anterior to 1050 A.D. In the former the name is written <foreign>Pukam</foreign>, in the latter <foreign>Pukām</foreign></quote>. These two inscriptions are <ref target="C0030B2.xml">C. 30 B2</ref> (one of the inscriptions
+<p>... Y.P.K. Śrī Jaya Parameśvaravarmadeva went out <supplied reason="subaudible">in order to</supplied> go and divide up ... Y.P.K. Śrī Campeśvara. He offered ... made good dams, cleaned the canals of Śrī VīraCuk's rice-fields in this Śaka <supplied reason="subaudible">year</supplied> ..., <supplied reason="explanation">1</supplied> moon, <supplied reason="explanation">1</supplied> earth <supplied reason="explanation">i.e. in 11## Śaka</supplied>
+                this rice-field <supplied reason="subaudible">is</supplied> a unit offered to Y.P.K. Svayamutpanna and Y.P.K. Śrīpatīśvara <supplied reason="subaudible">delimited</supplied> on the Eastern side by the ramp; on the Southern side <foreign>gnam̃ḥ pyā</foreign> river by the rice-fields of the country; on the Southern side by P.L. Iśānavarman's rice-fields, the gods' rice-fields, the rice-fields <supplied reason="subaudible">constituting</supplied> the capital; on the Western side by the rice-fields near the edifices; on the Northern side by the great canal; three <foreign>atam̃ danrāk</foreign>; 500 <foreign>jāk</foreign> with <foreign>tandom̃ laṅguv</foreign> <supplied reason="subaudible">of</supplied> uneven <supplied reason="subaudible">lands</supplied>.</p>
+</div>
+<div type="translation" xml:lang="fra">
+<p>... Y.P.K. Śrī Jaya Parameśvaravarmadeva sortit <supplied reason="subaudible">pour</supplied> aller diviser ... Y.P.K. Śrī Campeśvara. Il offrit ... fit de bons barrages, cura les canaux pour les rizières de Śrī VīraCuk en cette <supplied reason="subaudible">année</supplied> Śaka 11## <supplied reason="explanation">##, 1 <supplied reason="subaudible">lune</supplied>, 1 <supplied reason="subaudible">terre</supplied></supplied>
+                  cette rizière <supplied reason="subaudible">est</supplied> un emplacement offert à Y.P.K. Svayamutpanna et Y.P.K. Śrīpatīśvara <supplied reason="subaudible">délimitée</supplied> du côté est par la dénivéllation ; du côté sud <foreign>gnam̃ḥ pyā</foreign> fleuve par les rizières du pays ; du côté sud par les rizières du P.L. Iśānavarman, les rizières des dieux, les rizières <supplied reason="subaudible">constituant</supplied> le capital ; du côté ouest par les rizières près des édifices ; du côté nord par le grand canal ; trois <foreign>atam̃ danrāk</foreign> ; 500 <foreign>jāk</foreign> avec <foreign>tandom̃ laṅguv</foreign> <supplied reason="subaudible">de terres</supplied> dénivelées.</p>
+</div>
+<div type="commentary">
+<!-- <p><bibl><ptr target="cic-bibl:luce-1969-70"/>: <biblScope>8</biblScope></bibl> informs us that <quote>The oldest mentions of Pagán by name, curiously enough, are in two Cham inscription of Phan-Rang (Pāṇḍuraṅga), the Pô-Nagar and the Lom-ngö pillars, anterior to 1050 A.D. In the former the name is written <foreign>Pukam</foreign>, in the latter <foreign>Pukām</foreign></quote>. These two inscriptions are <ref target="C0030B2.xml">C. 30 B2</ref> (one of the inscriptions
                from Po Nagar at Nha Trang, which is still<foreign>in situ</foreign>) and C. 7. However, those two inscriptions are not endowed with the oldest mentions of the name of Pagan as there were engraved at the beginning of the 13<hi rend="superscript">th</hi> century, under the reign of Jaya Parameśvaravarman. About the wrong dating of these two inscriptions and the mention of Paganese in Cam inscriptions, see <bibl><ptr target="cic-bibl:ECIC-IV"/>: <check><biblScope>forthcoming</biblScope></check></bibl> and <bibl><ptr target="cic-bibl:griffiths-lepoutre-2013"/>: <check><biblScope>forthcoming</biblScope></check>.</bibl></p>
             <p>Concerning <foreign>śvam̃l</foreign> (also occurred in <ref target="DHARMA_INSCIC00005.xml">C. 5</ref>), see the discussion in <bibl><ptr target="cic-bibl:ECIC-IV"/>: <check><biblScope>forthcoming</biblScope></check></bibl>.</p>
             <p>Concerning <foreign>mauk</foreign> (also occurred in <ref target="DHARMA_INSCIC00005.xml">C. 5</ref> and <ref target="DHARMA_INSCIC00006.xml">C. 6</ref>), see the discussion in <bibl><ptr target="cic-bibl:ECIC-IV"/>: <check><biblScope>forthcoming</biblScope></check></bibl>.</p>

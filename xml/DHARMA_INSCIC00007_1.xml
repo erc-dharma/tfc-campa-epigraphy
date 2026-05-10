@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>C. 7.1. Doorjamb from Lomngö, First text</title>
+         	<respStmt>
+         		<resp>author of digital edition</resp>
+         		<persName ref="part:argr">
+         			<forename>Arlo</forename>
+         			<surname>Griffths</surname>
+         		</persName>
+         	</respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_INSCIC00007_1</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                        Licence. To view a copy of the licence, visit
+                        https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                        Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                        California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2026 by Arlo Griffiths.</p> 
+		</licence>
+            </availability>
+            <date from="2019" to="2026">2019-2026</date>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Doorjamb from Lamngâ</title>
+                  <editor>Arlo Griffiths</editor>
+                  <editor>Amandine Lepoutre</editor>
+               </titleStmt>
+               <editionStmt>
+                  <p>First digital edition made by École française d'Extrême-Orient (EFEO), realized in collaboration with the Institute for the Study of the Ancient World (ISAW) at New York University as <ref target="https://isaw.nyu.edu/publications/inscriptions/campa/index.html">The Corpus of the Inscriptions of Campā, in 2010-2012.</ref> </p>
+               </editionStmt>
+               <publicationStmt>
+                  <authority>École française d'Extrême-Orient (EFEO)</authority>
+                  <idno type="filename">DHARMA_INSCIC00007</idno>
+                  <availability>
+                     <licence target="http://creativecommons.org/licenses/by/3.0/">
+                        <p>Copyright (c) 2012 by Arlo Griffiths &amp; Amandine Lepoutre.</p>
+                        <p>This work is licensed under the Creative Commons Attribution 3.0 Unported
+                     License. To view a copy of this license, visit
+                     http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative
+                     Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041,
+                     USA.</p> </licence>
+                  </availability>
+               </publicationStmt>
+            </biblFull>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+                  <altIdentifier type="campa">
+                     <idno>C. 7</idno>
+                  </altIdentifier>
+                  <altIdentifier type="majumdar-nr">
+                     <idno>No. 91</idno>
+                  </altIdentifier>
+                  <altIdentifier type="museum-inventory">
+                     <settlement>Hanoi</settlement>
+                     <repository>BTLS-QG</repository>
+                     <idno>LSb 21167</idno>
+                  </altIdentifier>
+                  <altIdentifier type="museum-inventory-former">
+                     <settlement>Hanoi</settlement>
+                     <repository>EFEO Museum</repository>
+                     <idno>B 2, 14</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary/>
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p/>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <listPrefixDef>
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+      	  <change when="2026-05-06" who="part:argr" status="draft">started updating transliteration and symbol encoding, revising bibliography; resolved validation issues; split into two files.</change>
+         <change when="2020-09-14" who="part:axja" status="draft">Campa file transformed to follow the DHARMA encoding structure. Metadata extracted to be checked and updated according DHARMA workflow. Done through XSLT.</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="C0007_AG_2009.jpg">
+         <desc>Photograph, with scale, of inscription <ptr/>. Taken in the Hanoi Museum by Arlo Griffiths on .</desc>
+      </graphic>
+      <graphic url="EFEOB-est.n0142.jpg">
+         <desc>Photograph of EFEO estampage under n. 142.</desc>
+      </graphic>
+   </facsimile>
+   <text xml:space="preserve">
+	<body>
+		<div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83213">
+            <p>
+            <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><unclear>n</unclear>damayā <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">jāk· ṅan·</supplied>
+            <lb n="2"/><supplied reason="lost">ta</supplied>nd<unclear>o</unclear>m̃ laṅguv· māḥ <unclear>bhoga</unclear> <num value="30">30</num> thil· p<unclear>i</unclear>rak<supplied reason="lost">·</supplied>
+            <lb n="3"/><supplied reason="lost">bh</supplied><unclear>o</unclear>ga <unclear>300</unclear> thil· kvi<supplied reason="lost">r</supplied>· ja<supplied reason="lost">v</supplied>ā laum̃ vukāṁ sya<unclear>ṁ</unclear>
+            <lb n="4"/><num><gap reason="lost" quantity="1" unit="character"/>3</num> drim̃ śvam̃l· m<unclear>auk·</unclear> madrim̃ <num value="4">4</num> drim̃ mauk· vuṅā
+            </p>
+         </div>
+<div type="apparatus">
+<listApp>
+<app loc="1">
+<lem><supplied reason="lost">jāk· ṅan·</supplied></lem><note>this restitution is based on the analysis of the term <foreign>tandoṅ laṅguv</foreign> (see note in <bibl><ptr target="bib:Lepoutre2013_01"/><citedRange unit="page">232-235</citedRange></bibl>).</note></app>
+<app loc="4">
+<lem><num><gap reason="lost" quantity="1" unit="character"/></num>3 drim̃</lem>
+<note>the fact that five ethnic groups are nammed in the previous line suggests that another digit needs to be restored in front of the figure <foreign>3</foreign>.</note>
+</app>
+</listApp>
+</div>
+<div type="translation">
+<p>... <foreign>jāk</foreign> with <foreign>tamdom̃ laṅguv</foreign>.</p><p>Gold as property: 30 <foreign>thil</foreign>; silver as property: 300 <foreign>thil</foreign>;</p><p>Khmers, Javanese, Chinese <supplied reason="explanation">?</supplied>, Paganese, Siamese: #3 persons. Family of <foreign>mauk</foreign> Madrim̃: 4 persons; of <foreign>mauk</foreign> Vuṅā...</p>
+</div>
+<div type="translation" xml:lang="fra">
+<p>... <foreign>jāk</foreign> avec <foreign>tamdom̃ laṅguv</foreign></p><p>De l'or pour les biens : 30 <foreign>thil</foreign> ; de l'argent pour les biens : 300 <foreign>thil</foreign> ; </p><p>Des Khmers, des Javanais, des Chinois <supplied reason="explanation">?</supplied>, des Paganais, des Siamois : #3 personnes. Famille de <foreign>mauk</foreign> Madrim̃ : 4 personnes ; de <foreign>mauk</foreign> Vuṅā...</p>
+</div>
+
+<div type="commentary"><!-- <p>Concerning <foreign>tandom̃ laṅguv</foreign> (also occurred in <ref target="DHARMA_INSCIC00005.xml">C. 5</ref>), see the discussion in <bibl><ptr target="cic-bibl:ECIC-IV"/>: <check><biblScope>forthcoming</biblScope></check></bibl>.</p>
+               <p>We do not really know if <foreign>javā</foreign> refered to the indonesian Java, see <bibl><ptr target="cic-bibl:ferlus-2010"/></bibl>.</p>  -->
+<p>The term <foreign>laum̃</foreign> (= <foreign>lauv</foreign> or <foreign>lov</foreign>, also occuring in <ref target="DHARMA_INSCIC00030B1.xml">C. 30 B1</ref>) is recorded in the available dictionaries and translated there as 'Chinese'. However, it it possible that, originally, this word (identical to the Thai word used to name the modern state of Laos) suggests Thai-speaking populations. The possibility that the term <foreign>lauv</foreign> used in these inscriptions could designate a Lao population should be kept in mind.</p>
+</div>
+<div type="bibliography">
+<p>A few words were read by Bergaigne (<bibl rend="omitname"><ptr target="bib:Bergaigne1888_01"/></bibl>); some more by Aymonier (<bibl rend="omitname"><ptr target="bib:Aymonier1891_01"/></bibl>); partially summarised in English, by Majumdar (<bibl><ptr target="bib:Majumdar1985_01"/><citedRange unit="page">209</citedRange></bibl>), whence <bibl><ptr target="bib:Golzio2004_01"/><citedRange unit="page">183</citedRange></bibl>. It was studied in <bibl><ptr target="bib:Jacques1977-1978_01"/><citedRange unit="page">1079-1080</citedRange></bibl> but was integrally published for the first time by Lepoutre (<bibl rend="omitname"><ptr target="bib:Lepoutre2013_01"/></bibl>), which publication is taken as point of departure here.</p>
+         <listBibl type="primary">
+		<bibl n="B"><ptr target="bib:Bergaigne1888_01"/><citedRange unit="page">192</citedRange></bibl>
+		<bibl n="A"><ptr target="bib:Aymonier1891_01"/><citedRange unit="page">52-53</citedRange></bibl>
+		<bibl n="L"><ptr target="bib:Lepoutre2013_01"/><citedRange unit="page">228-230</citedRange></bibl>
+</listBibl>
+         <listBibl type="secondary">
+	<bibl><ptr target="bib:Parmentier1909_01"/><citedRange unit="page">79-81</citedRange></bibl>
+	<bibl><ptr target="bib:Finot1915_01"/><citedRange unit="page">2 and 10</citedRange></bibl>
+	<bibl><ptr target="bib:Parmentier1918_01"/><citedRange unit="page">77</citedRange></bibl>
+	<bibl><ptr target="bib:Griffiths+Lepoutre2013_01"/></bibl>
+</listBibl>
+</div>
+</body>
+</text>
+</TEI>

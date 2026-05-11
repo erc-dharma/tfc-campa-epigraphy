@@ -129,6 +129,10 @@
 <div type="apparatus">
 <listApp>
 <app loc="1">
+<lem><gap reason="lost" extent="unknown" unit="character"/><unclear>n</unclear>damayā</lem>
+<rdg source="bib:Lepoutre2013_01"><gap reason="lost" extent="unknown" unit="character"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" unit="component" quantity="1"/></seg>da</seg>mayā</rdg>
+</app>
+<app loc="1">
 <lem><supplied reason="lost">jāk· ṅan·</supplied></lem><note>this restitution is based on the analysis of the term <foreign>tandoṅ laṅguv</foreign> (see note in <bibl><ptr target="bib:Lepoutre2013_01"/><citedRange unit="page">232-235</citedRange></bibl>).</note></app>
 <app loc="4">
 <lem><num><gap reason="lost" quantity="1" unit="character"/></num>3 drim̃</lem>

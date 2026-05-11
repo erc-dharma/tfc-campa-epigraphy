@@ -119,17 +119,18 @@
    <text xml:space="preserve">
 	<body>
 		<div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83213"> 
-<p><lb n="5"/><supplied reason="lost"><g type="symbol"/>*</supplied>
-<gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">yām̃</supplied> pom̃ ku śrī jayaparameśvaravarmmadeva <unclear>Ud</unclear>yā<lb break="no" 
+<p><lb n="5"/><supplied reason="lost"><g type="symbol">*</g></supplied>
+ <supplied reason="lost">yām̃</supplied> pom̃ ku śrī jayaparameśvaravarmmadeva <unclear>Ud</unclear>yā<lb break="no" 
 n="6"/>na nau <unclear>n</unclear>dvā A<supplied reason="lost">j</supplied>ñ<unclear cert="low">ā</unclear> yām̃ pom̃ k<unclear>u</unclear> śrī <supplied reason="lost">ca</supplied>mpeśvara 
 <unclear>v</unclear>u<supplied reason="lost">ḥ</supplied> <gap reason="lost" quantity="2" unit="character"/> 
 <!-- -śvara gulāc· -->
 pa<lb break="no" 
-n="7"/>jem̃ vana<unclear>m̃</unclear>k· <supplied reason="lost">s</supplied>yā<unclear>ṁ</unclear> k<supplied reason="lost">v</supplied>ac·<!-- why did Lepoutre read kvac and not kuc, kac, or tuc, tac? --> ravaum̃ 
+n="7"/>jem̃ vana<unclear>m̃</unclear>k· <supplied reason="lost">s</supplied>yā<unclear>ṁ</unclear> k<supplied reason="lost">v</supplied>ac·<!-- why did Lepoutre read kvac and not kuc, kac, or tuc, tac? could tuc/tūc = tūy? --> ravaum̃ 
 pā<unclear>k·</unclear> <!-- see comment in apparatus -->
 humā śrī 
 vī<supplied reason="lost">ra</supplied><unclear>p</unclear>u<unclear>r</unclear>· d<choice><orig>ī</orig><reg>i</reg></choice> śa<lb break="no" 
-n="8"/>ka nī <gap reason="lost" quantity="4" unit="character"/> ś<choice><sic>i</sic><corr>a</corr></choice>śī <supplied reason="lost">bh</supplied><unclear>ū</unclear> humā nan· sā sthāna vuḥ pa<lb break="no" 
+n="8"/>ka nī <gap reason="lost" quantity="4" unit="character"/><!-- māna-nayana ? -->
+ ś<choice><sic>i</sic><corr>a</corr></choice>śī <supplied reason="lost">bh</supplied><unclear>ū</unclear> humā nan· sā sthāna vuḥ pa<lb break="no" 
 n="9"/>k· yā<unclear>m̃ po</unclear>m̃ ku sva<unclear>ya</unclear>mu<unclear>tpa</unclear>nna ṅan· <unclear>yā</unclear>m̃ <unclear>p</unclear>om̃ ku
             <lb n="10"/> śrīpa<supplied reason="lost">t</supplied><unclear>ī</unclear><supplied reason="lost">ś</supplied>va<unclear>ra</unclear> gaḥ pūrv<supplied reason="lost">v</supplied>a ta<supplied reason="lost">m̃l·</supplied> kanvā gaḥ dak<supplied reason="lost">ṣ</supplied><unclear>i</unclear>ṇa
             <lb n="11"/>gnam̃ḥ pyā kr<unclear>aum̃</unclear> tam̃l· humā nagara gaḥ dakṣiṇa tam̃l·
@@ -142,7 +143,7 @@ n="9"/>k· yā<unclear>m̃ po</unclear>m̃ ku sva<unclear>ya</unclear>mu<unclear
 <div type="apparatus">
 <listApp>
 <app loc="5">
-<lem><supplied reason="lost"><g type="symbol"/>*</supplied></lem>
+<lem><supplied reason="lost"><g type="symbol">*</g></supplied></lem>
 <rdg source="bib:Lepoutre2013_01"><gap reason="lost" extent="unknown" unit="character"/></rdg>
 </app>
 <app loc="6">

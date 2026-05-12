@@ -130,14 +130,14 @@ pā<unclear>k·</unclear> <!-- see comment in apparatus -->
 humā śrī 
 vī<supplied reason="lost">ra</supplied><unclear>p</unclear>u<unclear>r</unclear>· d<choice><orig>ī</orig><reg>i</reg></choice> śa<lb break="no" 
 n="8"/>ka nī <gap reason="lost" quantity="4" unit="character"/><!-- māna-nayana ? -->
- ś<choice><sic>i</sic><corr>a</corr></choice>śī <supplied reason="lost">bh</supplied><unclear>ū</unclear> humā nan· sā sthāna vuḥ pa<lb break="no" 
-n="9"/>k· yā<unclear>m̃ po</unclear>m̃ ku sva<unclear>ya</unclear>mu<unclear>tpa</unclear>nna ṅan· <unclear>yā</unclear>m̃ <unclear>p</unclear>om̃ ku
-            <lb n="10"/> śrīpa<supplied reason="lost">t</supplied><unclear>ī</unclear><supplied reason="lost">ś</supplied>va<unclear>ra</unclear> gaḥ pūrv<supplied reason="lost">v</supplied>a ta<supplied reason="lost">m̃l·</supplied> kanvā gaḥ dak<supplied reason="lost">ṣ</supplied><unclear>i</unclear>ṇa
-            <lb n="11"/>gnam̃ḥ pyā kr<unclear>aum̃</unclear> tam̃l· humā nagara gaḥ dakṣiṇa tam̃l·
-            <lb n="12"/>humā pu lyam̃ im̃śānavarmma humā yām̃ hu<unclear>mā</unclear> mu
-            <lb break="no" n="13"/>la gaḥ paścima tam̃l· humā di rumaḥ gaḥ uttara tam̃<lb break="no" 
-		n="14"/>l· ravaum̃ rayā atam̃ danrāk· klum̃ kanvā 500 jāk·
-            <lb n="15"/>ṅan· tandom̃ laṅguv· <g ref="sym:doubleBar"/>
+-ś<choice><sic>i</sic><corr>a</corr></choice>śī-<supplied reason="lost">bh</supplied><unclear>ū</unclear> humā nan· sā sthāna vuḥ pa<lb break="no" 
+n="9"/>k· yā<unclear>m̃ po</unclear>m̃ ku sva<unclear>yamutpa</unclear>nna ṅan· <unclear>yā</unclear>m̃ <unclear>po</unclear>m̃ ku
+<lb n="10"/>śrīpa<supplied reason="lost">t</supplied><unclear>ī</unclear><supplied reason="lost">ś</supplied>va<unclear>ra</unclear> gaḥ pūrv<supplied reason="lost">v</supplied>a ta<supplied reason="lost">m̃l·</supplied> kanvā gaḥ dak<unclear>ṣi</unclear>ṇā<lb break="no" 
+n="11"/>gniḥ pyā kr<unclear>aum̃</unclear> tam̃l· humā nagara gaḥ dakṣiṇa tam̃l·
+<lb n="12"/>humā pu-lyam̃ Im̃śānavarmma humā yām̃ hu<unclear>mā</unclear> mu<lb break="no" 
+n="13"/>la gaḥ paścima tam̃l· humā di rumaḥ gaḥ Uttara tam̃<lb break="no" 
+n="14"/>l· ravaum̃ rayā Atam̃ danrāk· klum̃ kanvā <num value="500">500</num> jāk·
+<lb n="15"/>ṅan· tandom̃ laṅguv· <g ref="sym:doubleBar"/>
             </p>
             </div>
 <div type="apparatus">
@@ -153,14 +153,14 @@ n="9"/>k· yā<unclear>m̃ po</unclear>m̃ ku sva<unclear>ya</unclear>mu<unclear
 <app loc="7">
 <lem>pā<unclear>k·</unclear></lem>
 <!-- AG: I rather doubt this reading. Aymonier's may be better. -->
-<rdg source="bib:Aymonier1891_01">rok</rdg></app>
+<rdg source="bib:Aymonier1891_01">rok·</rdg></app>
 <app loc="7">
 <lem>vī<supplied reason="lost">ra</supplied><unclear>p</unclear>u<unclear>r</unclear>·</lem>
 <rdg source="bib:Lepoutre2013_01">vī<supplied reason="lost">ra</supplied><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>u</seg><unclear>k</unclear>·</rdg>
 </app>
-<app loc="8">
-<lem>śiśī <supplied reason="lost">bh</supplied><unclear>ū</unclear></lem>
-<note>read <foreign>śaśī bhū</foreign></note></app>
+<app loc="10">
+<lem>dak<unclear>ṣi</unclear>ṇā<lb break="no" n="11"/>gniḥ</lem>
+<rdg source="bib:Lepoutre2013_01">dak<unclear>ṣi</unclear>ṇa <lb n="11"/>gnam̃ḥ</rdg></app>
 <app loc="12-13"><lem>mula</lem><note>read <foreign>mūla</foreign></note></app>
 <app loc="13"><lem>rumaḥ gaḥ</lem><rdg source="bib:Bergaigne1888_01">ruma nagara</rdg></app>
 </listApp>
@@ -195,6 +195,10 @@ n="9"/>k· yā<unclear>m̃ po</unclear>m̃ ku sva<unclear>ya</unclear>mu<unclear
 	<bibl><ptr target="bib:Finot1915_01"/><citedRange unit="page">2 and 10</citedRange></bibl>
 	<bibl><ptr target="bib:Parmentier1918_01"/><citedRange unit="page">77</citedRange></bibl>
 	<bibl><ptr target="bib:Griffiths+Lepoutre2013_01"/></bibl>
+</listBibl>
+<listBibl type="surrogates">
+<bibl>Estampages EFEO: 5, n. 142</bibl>
+<bibl>Levivier, A. (2025). INSCIC00007 (Version 1). NAKALA - https://nakala.fr (Huma-Num - CNRS). <ref target="https://doi.org/10.34847/NKL.C3DA6MW5s">https://doi.org/10.34847/NKL.C3DA6MW5s</ref></bibl>
 </listBibl>
 </div>
 </body>

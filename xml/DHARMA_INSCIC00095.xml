@@ -89,17 +89,17 @@
            <p><milestone type="pagelike" unit="face" n="A"/>
            <lb n="A1"/> <gap reason="lost" quantity="2" unit="character"/><supplied reason="lost">di l</supplied><unclear>iṅā</unclear>v· dadam̃n· sthā<unclear>na</unclear> mulaṅ· Aviḥ kā sy<unclear>ā</unclear>ṁ samū pūrvva-kāla dhiluv· mulaṅ· ya <supplied reason="lost">doṁ</supplied>
 <lb n="A2"/>Urām̃ kmīra si pu-lyam̃ śrī yuvarāja mahāsenāpatī tmuv· kāla nau mak· śambhupūra<supplied reason="lost">ṇa</supplied>
-<lb n="A3" break="no"/>-<unclear>na</unclear>gara rumaṅ· sā vandaḥ nim̃ <seg rend="check">nāśa</seg><!-- read nāga for nāśa? --> sthāna Aviḥ <g ref="sym:bar-curly" type="punctuation">.</g> ra vuḥ Urām̃ kmīra dinan· dadam̃n· sthāna <unclear>bha</unclear>
+<lb n="A3" break="no"/>-<unclear>na</unclear>gara rumaṅ· sā vandaḥ nim̃ <hi rend="check">nāśa</hi><!-- read nāga for nāśa? --> sthāna Aviḥ <g ref="sym:bar-curly" type="punctuation">.</g> ra vuḥ Urām̃ kmīra dinan· dadam̃n· sthāna <unclear>bha</unclear>
 <lb n="A4" break="no"/><supplied reason="lost">n</supplied>d<unclear>āra</unclear> yām̃ po ku śrīśānabhadreśvara nim̃ tra <g ref="sym:bar" type="punctuation">.</g> ra vuḥ di yām̃ vihāra śāla kuṭī vukam̃n·
-<lb n="A5"/>dadam̃n· sthāna Avista <g ref="sym:bar" type="punctuation">.</g> sidaḥ <seg rend="check">dī</seg><!-- or even dīṁ? --> sthāna yām̃ po ku śrīśānabhadreśvara nim̃ kintu ya
-<lb n="A6"/><seg rend="check">tūraṇa</seg> kalpa mam̃n· sthā<choice><sic>ḥ</sic><corr>na</corr></choice> voy· si tmuv· pratiṣṭhā liṅga ganim̃ <g ref="sym:bar" type="punctuation">.</g> n<choice><sic>a</sic><corr>im̃</corr></choice> doṁ pu pom̃ <unclear>ta</unclear><!--	
+<lb n="A5"/>dadam̃n· sthāna Avista <g ref="sym:bar" type="punctuation">.</g> sidaḥ <hi rend="check">dī</hi><!-- or even dīṁ? --> sthāna yām̃ po ku śrīśānabhadreśvara nim̃ kintu ya
+<lb n="A6"/><hi rend="check">tūraṇa</hi> kalpa mam̃n· sthā<choice><sic>ḥ</sic><corr>na</corr></choice> voy· si tmuv· pratiṣṭhā liṅga ganim̃ <g ref="sym:bar" type="punctuation">.</g> n<choice><sic>a</sic><corr>im̃</corr></choice> doṁ pu pom̃ <unclear>ta</unclear><!--	
 	tūraṇa kalpa : rāvaṇakalpa? rāmaṇakalpa? tūraṇa = toraṇa?
 	<choice><sic>ḥ</sic><corr>na</corr></choice> same error in C. 94, B7
 	voy aussi à la ligne A18 -->
-<lb n="A7" break="no"/>na rayā ya kā rāja <seg rend="check">dī</seg><!-- maybe we can just read di --> nagara campa lumīk· nim̃ marai Avista pu pom̃ <unclear>tana ra</unclear>yā dinan·
+<lb n="A7" break="no"/>na rayā ya kā rāja <hi rend="check">dī</hi><!-- maybe we can just read di --> nagara campa lumīk· nim̃ marai Avista pu pom̃ <unclear>tana ra</unclear>yā dinan·
 <!--	dī nagara : di nagara (Finot) -->
 <lb n="A8" break="no"/><orig>t</orig>uv· <unclear>da</unclear>ḥ vuḥ yām̃ ganim̃<!-- or may be read śanim̃? --> sthā<choice><sic>ḥ</sic><corr>na</corr></choice> pavitra tra <g ref="sym:bar" type="punctuation">.</g> yām̃ si vuḥ nan· la dauk· kam̃n· cihna <orig>t</orig>uv·
-<lb n="A9"/>sim̃ pu pom̃ tana rayā ya kā rāja di nagara campa <g ref="sym:bar" type="punctuation">.</g> <seg rend="check">tatā si di kīk·</seg> drim̃ pu pom̃ ta<lb n="A10" break="no"/>na rayā ya gnaṅ· tmuv· pratiṣṭhā liṅga di sthāna nīm̃ <g ref="sym:bar" type="punctuation">.</g> yaḥ saināpatī <seg rend="check">trā syan·</seg><!-- trāvyaṅ· --> <unclear>s</unclear>im̃ (X)
+<lb n="A9"/>sim̃ pu pom̃ tana rayā ya kā rāja di nagara campa <g ref="sym:bar" type="punctuation">.</g> <hi rend="check">tatā si di kīk·</hi> drim̃ pu pom̃ ta<lb n="A10" break="no"/>na rayā ya gnaṅ· tmuv· pratiṣṭhā liṅga di sthāna nīm̃ <g ref="sym:bar" type="punctuation">.</g> yaḥ saināpatī <hi rend="check">trā syan·</hi><!-- trāvyaṅ· --> <unclear>s</unclear>im̃ (X)
 <!--	saināpatī trā : senāpatī tra Finot.-->
 <lb n="A11"/>@@@@<supplied reason="lost">gna</supplied>ṅ· pratiṣṭhā liṅga ganim̃ <g ref="sym:bar" type="punctuation">.</g> hetu pu-lyam̃ śrī yuvarāja mahāsenāpatī nan· kā <gap reason="lost" quantity="9" unit="character"/>
 <!--	[gna]ṅ· : gnaṅ· (Finot)
@@ -232,11 +232,11 @@ n="B5" break="no"/>dauk· kam̃n· ranak<choice><sic>y</sic><corr>ṣ</corr></ch
 <note>Finot consistently makes the same error of reading in the numerous occurrences of <foreign>tra <g ref="sym:bar" type="punctuation">.</g></foreign>. Further instances will not be recorded.</note>
              </app>
            <app loc="A5">
-           	<lem><seg rend="check">dī</seg><!-- or even dīṁ? --></lem>
+           	<lem><hi rend="check">dī</hi><!-- or even dīṁ? --></lem>
               <rdg source="bib:Finot1904_05">di</rdg>
            </app>
 <app loc="A5">
-	<lem><seg rend="check">tūraṇa</seg> kalpa</lem>
+	<lem><hi rend="check">tūraṇa</hi> kalpa</lem>
 	<rdg source="bib:Finot1904_05"><gap reason="illegible" quantity="2" unit="character"/>lākalpa</rdg>
 </app>
 <app loc="A9">

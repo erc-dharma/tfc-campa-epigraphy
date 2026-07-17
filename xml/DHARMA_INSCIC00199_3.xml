@@ -10,7 +10,7 @@
             <titleStmt>
             	<title>Third text on rock wall by A Vương river in Tây Giang (C. 199), 6th/7th century CE</title>
             	<respStmt>
-            		<resp>author of digital edition</resp>
+            		<resp key="creator">author of digital edition</resp>
             		<persName ref="part:argr">
             			<forename>Arlo</forename>
             			<surname>Griffths</surname>

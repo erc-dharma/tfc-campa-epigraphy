@@ -10,14 +10,14 @@
          <titleStmt>
             <title>Rāmāyaṇa Relief presumably from Quảng Nam</title>
             <respStmt>
-               <resp>EpiDoc Encoding</resp>
+               <resp key="contributor">EpiDoc Encoding</resp>
                <persName ref="part:sapi">
                   <forename>Salomé</forename>
                   <surname>Pichon</surname>
                </persName>
             </respStmt>
             <respStmt>
-               <resp>intellectual authorship of edition</resp>
+               <resp key="creator">intellectual authorship of edition</resp>
                <persName ref="part:argr">
                   <forename>Arlo</forename>
                   <surname>Griffths</surname>
@@ -28,7 +28,7 @@
                </persName>
             </respStmt>
             <respStmt>
-               <resp>Conversion of encoding for DHARMA</resp>
+               <resp key="contributor">Conversion of encoding for DHARMA</resp>
                <persName ref="part:sapi">
                   <forename>Salomé</forename>
                   <surname>Pichon</surname>

@@ -8,25 +8,25 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-              <title>Southern doorjamb of the interior door of the main tower of Po Klaong Girai (C. 10), 12th century Śaka</title>
-              <respStmt>
-                 <resp key="contributor">EpiDoc Encoding</resp>
-                 <persName ref="part:sapi">
-                    <forename>Salomé</forename>
-                    <surname>Pichon</surname>
-                 </persName>
-              </respStmt>
-              <respStmt>
-                <resp key="creator">intellectual authorship of edition</resp>
-                <persName ref="part:argr">
-                   <forename>Arlo</forename>
-                   <surname>Griffiths</surname>
-                </persName>
-                <persName ref="http://viaf.org/viaf/289845900">
-                   <forename>Amandine</forename>
-                   <surname>Lepoutre</surname>
-                </persName>
-             </respStmt>
+              <title>C. 10. Southern doorjamb of the interior door of the main tower of Po Klaong Girai, 12th century Śaka</title>
+            	<respStmt>
+            		<resp key="creator"/>
+            		<persName ref="part:argr">
+            			<forename>Arlo</forename>
+            			<surname>Griffiths</surname>
+            		</persName>
+            		<persName ref="http://viaf.org/viaf/289845900">
+            			<forename>Amandine</forename>
+            			<surname>Lepoutre</surname>
+            		</persName>
+            	</respStmt>
+            	<respStmt>
+            		<resp key="contributor"/>
+            		<persName ref="part:sapi">
+            			<forename>Salomé</forename>
+            			<surname>Pichon</surname>
+            		</persName>
+            	</respStmt> 
           <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
           <publicationStmt>
               <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
@@ -35,22 +35,17 @@
                 <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
                 <date from="2019" to="2026">2019-2026</date>
             </publicationStmt>
-            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
-                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+            <sourceDesc>
+                <msDesc>
                     <msIdentifier>
-                        <repository>as per external metadata</repository><!-- don't modify this -->
+                        <repository>as per external metadata</repository>
                     </msIdentifier>
-                    <msContents><!-- describe the intellectual content of an inscription -->
-                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    <msContents>
+                        <summary><!-- //// NOT MANDATORY  ////--></summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p>The lettering is characteristic of the thirteenth century CE.</p>
-                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
-						<summary><p><p/></summary>
-						<handNote xml:id="Pallava00001_hand1"></handNote>
-						<handNote xml:id="Pallava00001_hand2"></handNote>
-					 -->
+                            <p>The lettering is characteristic of the 13th century CE.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -60,7 +55,8 @@
          <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
       </encodingDesc>
         <revisionDesc>
-              <change who="part:sapi" when="2024-06-14" status="draft">Initial encoding of the inscription with translation and bibliography</change>
+              <change who="part:argr" when="2026-09-16" status="draft">Revised teiHeader, resolved validation problems, slightly rephrased epigraphic lemma</change>
+              <change who="part:sapi" when="2024-06-14" status="draft">Encoding of the inscription with translation and bibliography</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
@@ -112,15 +108,15 @@
                <listApp>
                  <app loc="27">
                      <lem>jūk·</lem>
-                     <rdg source="Aymonier1891_01">juk</rdg>
+                     <rdg source="bib:Aymonier1891_01">juk</rdg>
                  </app>
                  <app loc="28">
                      <lem>kapāḥ</lem>
-                     <rdg source="Aymonier1891_01">kapaḥ</rdg>
+                     <rdg source="bib:Aymonier1891_01">kapaḥ</rdg>
                  </app>
                  <app loc="31">
                      <lem>lauv·</lem>
-                     <rdg source="Aymonier1891_01">lov</rdg>
+                     <rdg source="bib:Aymonier1891_01">lov</rdg>
                  </app>
                </listApp>
          </div>
@@ -130,11 +126,9 @@
            <p n="22-39">Ceux-ci sont les serviteurs offerts au domaine Vadrā : famille de femme Tasauk ; femme De ; femme Inī ; femme Intī ; femme Lam̃v ; femme Pat ; femme Keḥ ; femme Gauk ; femme Bhāp ; femme Glaḥ ; femme Candaḥ ; femme Śī ; homme Dulam̃ ; homme Jī ; homme Tān ; homme Vāy ; homme Lumvā ; homme Kulan ; homme Vīranan ; homme Aṅū ; famille de femme Śī ; femme Jūk ; homme Yāt ; homme De ; famille de femme Cak ; femme Nai ; femme Ut ; femme Lam̃n ; homme Sumvlim̃ ; homme Kapāḥ ; homme Vraḥ Majāk ; femme Vyā ; homme Sahakūla ; homme Sahanan ; femme Sau Jāk ; homme Āt ; homme Vrim̃ ; homme Caik ; famille de femme Lauv ; femme Paut ; femme Ṅyak ; femme Iśit ; femme Kauk ; femme Anaiḥ ; homme Śadī ; homme Can ; famille de femme Dulun ; femme Lam̃n ; homme Samara ; homme Jīva ; femme Gaḥ ; homme Sumvau ; femme Sraum̃ ; femme Ajīk ; famille de femme Supum̃ ; homme Raum̃ ; homme Canrāv; homme Ṅau ; femme Put ; homme Pam̃ṅ ; homme Inrāt ; femme Mī ; femme Sandeḥ ; famille de femme Dvan ; femme Iśit ; homme Vrom̃ ; homme Vut ; homme Trahoṅ ; homme Vadrā ; homme Caik ; homme Jāk ; homme Ram̃ ; homme Min ; homme Hamā ; femme Śimo.
          </p>
          </div>
-         <div type="commentary">
-            <p>Some words that appear in the inscription where noted by <bibl rend="omitname"><ptr target="bib:Aymonier1891_01"/><citedRange unit="page">80-81</citedRange></bibl>. Since he is cited in the apparatus, he appears in primary bibliography.</p>
-         </div>
+         <div type="commentary"/>
         <div type="bibliography">
-          <p>First edited in French by Arlo Griffiths and Amandine Lepoutre (<bibl rend="omitname"><ptr target="bib:Griffiths+Lepoutre2016_01"/></bibl>), using EFEO estampage n. 1949 and n. 1950.</p>
+          <p>First partially published by Étienne Aymonier (<bibl rend="omitname"><ptr target="bib:Aymonier1891_01"/></bibl>). Then completely edited with translation into French by Arlo Griffiths and Amandine Lepoutre (<bibl rend="omitname"><ptr target="bib:Griffiths+Lepoutre2016_01"/></bibl>), using EFEO estampages n. 1949 and n. 1950. Encoded in TEI-XML by Salomé Pichon.</p>
          <listBibl type="primary">
            <bibl n="A">
            <ptr target="bib:Aymonier1891_01"/>

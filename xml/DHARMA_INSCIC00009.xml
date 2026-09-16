@@ -8,22 +8,25 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Northern doorjamb of the exterior door of Po Klaong Girai (C. 9), 12th century Śaka</title>
-                <respStmt>
-                   <resp key="creator">author of digital edition</resp>
-                	<persName ref="part:argr">
-                		<forename>Arlo</forename>
-                		<surname>Griffiths</surname>
-                	</persName>
-                	<persName ref="http://viaf.org/viaf/289845900">
-                		<forename>Amandine</forename>
-                		<surname>Lepoutre</surname>
-                	</persName>
-                   <persName ref="part:sapi">
-                      <forename>Salomé</forename>
-                      <surname>Pichon</surname>
-                   </persName>
-                </respStmt>
+                <title>C. 9. Northern doorjamb of the exterior door of Po Klaong Girai, 12th century Śaka</title>
+            	<respStmt>
+            		<resp key="creator"/>
+            		<persName ref="part:argr">
+            			<forename>Arlo</forename>
+            			<surname>Griffiths</surname>
+            		</persName>
+            		<persName ref="http://viaf.org/viaf/289845900">
+            			<forename>Amandine</forename>
+            			<surname>Lepoutre</surname>
+            		</persName>
+            	</respStmt>
+            	<respStmt>
+            		<resp key="contributor"/>
+            		<persName ref="part:sapi">
+            			<forename>Salomé</forename>
+            			<surname>Pichon</surname>
+            		</persName>
+            	</respStmt>  
             <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
             <publicationStmt>
                 <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
@@ -33,16 +36,16 @@
                 <date from="2019" to="2026">2019-2026</date>
             </publicationStmt>
             <sourceDesc><!-- only the handDesc can be filled in at this stage -->
-                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                <msDesc>
                     <msIdentifier>
-                        <repository>as per external metadata</repository><!-- don't modify this -->
+                        <repository>as per external metadata</repository>
                     </msIdentifier>
-                    <msContents><!-- describe the intellectual content of an inscription -->
-                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    <msContents>
+                        <summary><!-- //// NOT MANDATORY  ////--></summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p>The lettering is characteristic of the thirteenth century CE.</p>
+                            <p>The lettering is characteristic of the 13th century CE.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -52,9 +55,9 @@
          <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
       </encodingDesc>
         <revisionDesc>
+            <change who="part:argr" when="2026-09-16" status="draft">Revised teiHeader, slightly rephrased epigraphic lemma</change>
             <change who="part:argr" when="2026-04-13" status="draft">Modified teiHeader and resolved validation problems</change>
-            <change who="part:sapi" when="2024-06-10" status="draft">Finished initial encoding of the inscription and adding translation and bibliography</change>
-            <change who="part:sapi" when="2024-06-10" status="draft">Started initial encoding of the inscription</change>
+            <change who="part:sapi" when="2024-06-10" status="draft">Initial encoding of the text, translation and bibliography</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
@@ -330,7 +333,7 @@
             <p n="A42">L. A42 not being covered by the estampage, its reading is based exclusively on A. Griffiths and A. Lepoutre's inspection of the stone.</p>
          </div>
         <div type="bibliography">
-           <p>First partially edited in French by Étienne Aymonier (<bibl rend="omitname"><ptr target="bib:Aymonier1891_01"/></bibl>). Then freshly and completely edited in French by Arlo Griffiths and Amandine Lepoutre (<bibl rend="omitname"><ptr target="bib:Griffiths+Lepoutre2016_01"/></bibl>), using EFEO estampage n. 1940, n. 1941, n. 1942, n. 1943 and n. 1944.</p>
+           <p>First partially published by Étienne Aymonier (<bibl rend="omitname"><ptr target="bib:Aymonier1891_01"/></bibl>). Then completely edited with translation into French by Arlo Griffiths and Amandine Lepoutre (<bibl rend="omitname"><ptr target="bib:Griffiths+Lepoutre2016_01"/></bibl>), using EFEO estampages n. 1940, n. 1941, n. 1942, n. 1943 and n. 1944. Encoded in TEI-XML by Salomé Pichon.</p>
         	<listBibl type="primary">
             <bibl n="A">
             <ptr target="bib:Aymonier1891_01"/>

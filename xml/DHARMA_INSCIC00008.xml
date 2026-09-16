@@ -37,7 +37,7 @@
                 <date from="2019" to="2026">2019-2026</date>
             </publicationStmt>
             <sourceDesc><!-- only the handDesc can be filled in at this stage -->
-                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                <msDesc>
                     <msIdentifier>
                         <repository>as per external metadata</repository>
                     </msIdentifier>
@@ -46,7 +46,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p>The lettering is characteristic of the thirteenth century CE.</p>
+                            <p>The lettering is characteristic of the 13th century CE.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -292,7 +292,7 @@
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>First partially edited in French by Étienne Aymonier (<bibl rend="omitname"><ptr target="bib:Aymonier1891_01"/></bibl>). Then freshly and completely edited in French by Arlo Griffiths and Amandine Lepoutre (<bibl rend="omitname"><ptr target="bib:Griffiths+Lepoutre2016_01"/></bibl>), using EFEO estampages n. 1933, n. 1934, n. 1936, n. 1937, n. 1938 and n. 1939. Encoded in TEI-XML by Salomé Pichon.</p>
+           <p>First partially published by Étienne Aymonier (<bibl rend="omitname"><ptr target="bib:Aymonier1891_01"/></bibl>). Then completely edited with translation into French by Arlo Griffiths and Amandine Lepoutre (<bibl rend="omitname"><ptr target="bib:Griffiths+Lepoutre2016_01"/></bibl>), using EFEO estampages n. 1933, n. 1934, n. 1936, n. 1937, n. 1938 and n. 1939. Encoded in TEI-XML by Salomé Pichon.</p>
         	<listBibl type="primary">
             <bibl n="A">
             <ptr target="bib:Aymonier1891_01"/>

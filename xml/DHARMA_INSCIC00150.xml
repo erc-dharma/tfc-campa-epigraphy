@@ -67,8 +67,7 @@
 				<msDesc>
 					<!-- argr2axja: en fait je n'ai pas bien compris l'utilité de garder ces métadonnées des vieux fichiers, si au sein de DHARMA npus devrons en tout cas produire des lots de métadonnées beaucoup plus complets et rigoureux, et hors fichiers XML -->
 					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
+						<repository>as per external metadata</repository>
 						<altIdentifier type="campa">
 							<idno>C. 150</idno>
 						</altIdentifier>

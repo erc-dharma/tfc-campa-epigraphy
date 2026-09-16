@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+              <title>C. 11. Northern doorjamb of the interior door of the main tower of Po Klaong Girai, 12th century Śaka</title>
+            	<respStmt>
+            		<resp key="creator"/>
+            		<persName ref="part:argr">
+            			<forename>Arlo</forename>
+            			<surname>Griffiths</surname>
+            		</persName>
+            		<persName ref="http://viaf.org/viaf/289845900">
+            			<forename>Amandine</forename>
+            			<surname>Lepoutre</surname>
+            		</persName>
+            	</respStmt>
+          <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
+          <publicationStmt>
+              <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
+              <pubPlace>Paris</pubPlace>
+              <idno type="filename">DHARMA_INSCIC00011.xml</idno>
+                <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
+                <date from="2019" to="2026">2019-2026</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>as per external metadata</repository>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><!-- //// NOT MANDATORY  ////--></summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>The lettering is characteristic of the 13th century CE.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+      </encodingDesc>
+        <revisionDesc>
+        	<change who="part:argr" when="2026-09-16" status="draft">Encoding of the inscription with translation and bibliography</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="ocm-Latn" rendition="class:83233 maturity:83213">
+           <p>
+             <lb n="1"/><g ref="sym:doubleBar" type="punctuation">.</g> <g ref="sym:floret" type="symbol">*</g> <g ref="sym:doubleBar" type="punctuation">.</g> madā humā sā sthāna di palim̃ kraum̃ Anan· hu<lb 
+		n="2" break="no"/>mā sanrauk· prathama di Īśāna vik· jalān· rayā
+             <lb n="3"/>nau dakṣiṇa tam̃l· crauḥ nau paścima tagar· crauḥ ⌈<lb 
+		n="4" break="no"/>nau uttara sā Āra sauṅ· humā nagara nau pūrvva sā Ā<lb 
+		n="5" break="no"/>ra sauṅ· humā nagara nau dakṣiṇa mvyak· nau pūrvva mvyak·
+             <lb n="6"/>nau Uttara sā Āra saum̃ humā nagara tam̃l· jalān· ra<lb 
+		n="7" break="no"/>yā nau pūrvva tūm̃ jalān· rayā tam̃l· prathama Alā
+             <lb n="8"/>humā klum̃ kanvā glai samudāya yauṁ <num value="115">115</num> jāk· <g ref="sym:bar" type="punctuation">.</g><g ref="sym:bar" type="punctuation">.</g><g ref="sym:bar" type="punctuation">.</g></p>
+<p>          <lb n="9"/>sā sthāna trā di palim̃ kraum̃ Anan· humā danrāḥ pū<lb 
+		n="10" break="no"/>rvva humā nagara dakṣiṇa ravaum̃ rayā paścima humā
+             <lb n="11"/>nagara Uttara h<choice><sic>a</sic><corr>u</corr></choice>mā nagara Alā h<choice><sic>a</sic><corr>u</corr></choice>mā yauṁ <num atLeast="28" atMost="38"><choice><unclear>2</unclear><unclear>3</unclear></choice>8</num> 
+             <lb n="12"/>jāk·</p>
+         </div>
+         <div type="apparatus">
+               <listApp>
+<!-- 
+111. vik· jalān· : faut-il corriger en vik· pyā jalān·? Voir n. 76 et les notes lexicographiques sous vik.
+112. crauḥ : ce mot pourrait tout aussi bien se lire vrauḥ, mais on aurait alors un mot inconnu.
+115. (2/3)8 : 29 Aymonier (1891b, p. 81). La partie inférieure du premier chiffre a disparu à
+cause d’un éclat de la pierre. Il est dès lors impossible de déterminer si le chiffre était 2 ou 3. Il est
+également incertain que la lecture 2 d’Aymonier ait été établie avant que la pierre souffre cet éclat. -->
+                 <app loc="2">
+                     <lem>sanrauk·</lem>
+                     <rdg source="bib:Aymonier1891_01">sanrok·</rdg>
+                 </app>
+ 		   <app loc="2">
+                     <lem>vik· jalān·</lem>
+                     <note>Should we restore <foreign>vik· <supplied reason="omitted">pyā</supplied> jalān·</foreign>?</note>
+                 </app>
+              <app loc="11">
+                     <lem><num atLeast="28" atMost="38"><choice><unclear>2</unclear><unclear>3</unclear></choice>8</num> </lem>
+                     <rdg source="bib:Aymonier1891_01">29</rdg>
+			<note>The lower part of the first digit has been lost due to a chip in the stone. It is therefore impossible to determine whether the digit was <foreign>2</foreign> or a <foreign>3</foreign>. It is also uncertains whether Aymonier’s reading <foreign>2</foreign> was established before the stone sustained this chip.</note>
+                 </app>
+               </listApp>
+         </div>
+         <div type="translation" xml:lang="fra" source="bib:Griffiths+Lepoutre2016_01">
+           <p n="1-8">Il y a une parcelle de champ au village de Kraum̃, c’est le champ Sanrauk : le commencement au nord-est de la parcelle est la grande route ; (puis) on va au sud jusqu’au torrent ; on va à l’ouest en remontant le torrent ; on va au nord ayant un talus commun avec le champ d’État ; on va à l’est ayant un talus commun avec le champ d’État ; on va au sud un peu ; on va à l’est un peu ; on va au nord ayant un talus commun avec le champ d’État jusqu’à la grande route ; on va à l’est en suivant la grande route jusqu’au commencement. La contenance du champ, <foreign>kluṅ kanvā</foreign>, la forêt est d’une valeur totale de 115 <foreign>jāk</foreign>.</p>
+           <p n="9-12">Une parcelle de plus au village de Kraum̃, c’est le champ Danrāḥ : à l’est le champ d’État ; au sud le grand canal ; à l’ouest le champ d’État ; au nord le champ d’État. La contenance du champ est d’une valeur de (2/3)8 <foreign>jāk</foreign>.</p>
+         </div>
+         <div type="commentary"/>
+        <div type="bibliography">
+          <p>First partially published by Étienne Aymonier (<bibl rend="omitname"><ptr target="bib:Aymonier1891_01"/></bibl>). Then completely edited with translation into French by Arlo Griffiths and Amandine Lepoutre (<bibl rend="omitname"><ptr target="bib:Griffiths+Lepoutre2016_01"/></bibl>), using EFEO estampage n. 1932. Encoded in TEI-XML by Arlo Griffiths.</p>
+         <listBibl type="primary">
+           <bibl n="A">
+           <ptr target="bib:Aymonier1891_01"/>
+           <citedRange unit="page">81</citedRange>
+           </bibl>
+           <bibl n="CIC">
+           <ptr target="bib:Griffiths+Lepoutre2016_01"/>
+           <citedRange unit="page">242-243</citedRange>
+           </bibl>
+       </listBibl>
+       <listBibl type="secondary">
+       <bibl>
+       <ptr target="bib:Bergaigne1888_01"/>
+       <citedRange unit="page">103</citedRange>
+       <citedRange unit="item">386</citedRange>
+       </bibl>
+       <bibl>
+       <ptr target="bib:Finot1903_04"/>
+       <citedRange unit="page">635-636</citedRange>
+       <citedRange unit="item">XV</citedRange>
+       </bibl>
+       <bibl>
+       <ptr target="bib:Coedes1908_01"/>
+       <citedRange unit="page">41</citedRange>
+       <citedRange unit="item">11</citedRange>
+       </bibl>
+       <bibl>
+       <ptr target="bib:Parmentier1909_01"/>
+       <citedRange unit="page">94</citedRange>
+       </bibl>
+       <bibl>
+       <ptr target="bib:Coedes1923_01"/>
+       <citedRange unit="page">6-7</citedRange>
+       <citedRange unit="item">11</citedRange>
+       </bibl>
+       <bibl>
+       <ptr target="bib:Majumdar1927_01"/>
+       <citedRange unit="part">3</citedRange>
+       <citedRange unit="page">220-221</citedRange>
+       </bibl>
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>

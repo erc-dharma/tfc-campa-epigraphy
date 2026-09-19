@@ -118,13 +118,13 @@
     <body>
       <div type="edition" xml:lang="san-Latn" rendition="class:83233 maturity:83213">
         <p>
-          <lb n="1"/>tam imañ ca dhūpādhāraṃ śrīrudravarmmadevo dattavān iti <g>|</g><g ref="sym:circle-concentric">⊚</g><g>|</g>
+          <lb n="1"/>tam imañ ca dhūpādhāraṁ śrīrudravarmmadevo dattavān iti <g>|</g><g ref="sym:circle-concentric">⊚</g><g>|</g>
         </p>
       </div>
       <div type="apparatus">
         <listApp>
           <app loc="1">
-            <lem>tam imañ ca dhūpādhāraṃ</lem>
+            <lem>tam imañ ca dhūpādhāraṁ</lem>
             <rdg source="bib:Schweyer1999_02">[ta mi ma smam] sahādhāraḥ</rdg>
             <note>There is clearly no <hi rend="italic">visarga</hi> but rather the expected <hi rend="italic">anusvāra</hi>.</note>
           </app>
